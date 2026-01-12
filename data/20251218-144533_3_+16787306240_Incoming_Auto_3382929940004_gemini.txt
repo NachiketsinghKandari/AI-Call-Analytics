@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Lords / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Lords]: Yes, good afternoon. My name is Lords and I'm calling from a medical provider's office. I'm trying to reach case manager Stephanie Speck.
+[00:12] [Receptionist]: Mhm. Okay. Let me get her for you. In regards to which client?
+[00:19] [Lords]: Uh, I've been trying to reach her in regards to client Vanessa Barrera.
+[00:27] [Receptionist]: Vanessa... Okay. One second.
+[00:34] [Lords]: Thank you.
+[00:35] [Receptionist]: Ma'am, it seems like Stephanie is away from her desk right now. Would you like her direct number?
+[00:42] [Lords]: Oh, yes, 'cause I've been trying to reach her multiple times. Uh, what's her direct number? Or is there a supervisor or that I can speak with?
+[00:52] [Receptionist]: Uh, I'm sure she's just away from her desk her desk right now. Uh, okay. Are you guys still representing Vanessa Barrera?
+[01:02] [Receptionist]: Uh, according to the to the notes here...
+[01:07] [ ... Silence (8s) ... ]
+[01:15] [Receptionist]: Uh, according to the notes here, it seems like we are going ahead and terminating this 'cause we haven't been able to get a hold of her.
+[01:26] [Lords]: Okay. So it's in the process of termination. Maybe that's why she hasn't answered. Okay. Well, I'm just going to... um, what's her direct number, by the way? I'm sorry.
+[01:38] [Receptionist]: 470-645-1748. If you wish, I can send you to her voicemail also.
+[01:46] [Lords]: Um, left a voicemail two days ago. And yeah, go ahead and do that one more time. Thank you so much.
+[01:52] [Receptionist]: You're welcome. Have a great day.
+[01:55] [Lords]: You as well.
+[01:56] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

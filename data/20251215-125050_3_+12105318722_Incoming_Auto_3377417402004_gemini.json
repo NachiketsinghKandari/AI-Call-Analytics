@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to connect the caller with a specific staff member, but the staff member was unavailable. The receptionist provided the staff member's email address as an alternative resolution.",
+    "call_duration_seconds": 128.45,
+    "call_duration_formatted": "02:08"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the availability of the requested staff member and informed the caller that he was busy with another client."
+  }
+}

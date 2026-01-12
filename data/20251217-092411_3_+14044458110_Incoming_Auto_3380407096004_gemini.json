@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist confirmed representation for the requested patient and provided the case manager's email address to the caller.",
+    "call_duration_seconds": 67.61,
+    "call_duration_formatted": "01:07"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during this call."
+  }
+}

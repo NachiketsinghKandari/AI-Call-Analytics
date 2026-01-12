@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist and the insurance representative exchanged policy information, and the representative provided contact information for Berkshire Hathaway Guard Insurance Company to facilitate filing a claim.",
+    "call_duration_seconds": 479.81,
+    "call_duration_formatted": "07:59"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

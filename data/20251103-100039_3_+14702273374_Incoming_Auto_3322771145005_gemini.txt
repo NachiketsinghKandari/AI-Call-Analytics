@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Celsius: 5 turns
+  • Speaker 2 / Henry Keith / Role: Client: 4 turns
+
+----------------------------------------
+
+[00:03] [Receptionist]: Bain and Celsius, this is Tashawn, how may I help you?
+[00:07] [Henry Keith]: Yeah, good morning. Uh, my name is Henry Keith. I'm calling in reference about my, about my case settlement. I, uh, I signed off on some documents about a week ago and I sent pictures, uh, I was told it would be settled. I was just calling about the, the update and the status of it.
+[00:28] [Receptionist]: Okay, and you sent those pictures over to your case manager, sir?
+[00:34] [Henry Keith]: Yeah, the guy, uh, yeah, uh-huh. They had me to sign some documents and take a, a picture of, of me, uh, with my thumbs up, I guess okaying the, the transaction, yeah.
+[00:53] [Receptionist]: When was the last time you spoke to your case manager, sir?
+[00:58] [Henry Keith]: It's been almost two weeks.
+[01:00] [Receptionist]: Two weeks. Um, I see here that your case manager name is Paige Almon, is that correct, sir?
+[01:11] [Henry Keith]: Yes, uh-huh.
+[01:13] [Receptionist]: Alrighty, let me see if I can get her over to you. Just one second.
+
+========================================
+TRANSCRIPT END
+========================================

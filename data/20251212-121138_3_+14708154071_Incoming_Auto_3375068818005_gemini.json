@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the caller as an existing client and attempted to locate the requested staff member. Upon finding the staff member unavailable, the receptionist offered a transfer to his voicemail, which the caller accepted, and the transfer was initiated.",
+    "call_duration_seconds": 56.52,
+    "call_duration_formatted": "00:56"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist offered to transfer the caller to the staff member's voicemail after stating he was on another call. The caller accepted and the receptionist initiated the transfer path."
+  }
+}

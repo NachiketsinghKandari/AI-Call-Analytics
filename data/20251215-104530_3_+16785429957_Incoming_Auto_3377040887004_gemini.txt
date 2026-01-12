@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Elga Grant-McFarlin / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Elga Grant-McFarlin]: Good morning, I was actually trying to reach Attorney John Bey.
+[00:12] [Receptionist]: Uh, Mr. Bey, you said?
+[00:15] [Elga Grant-McFarlin]: Yes.
+[00:17] [Receptionist]: Understood. And are you a client, ma'am?
+[00:20] [Elga Grant-McFarlin]: No, I am not. Elga Grant-McFarlin and I'm running for Fayette County State Court Judge.
+[00:28] [Receptionist]: Oh, understood, ma'am. Got it. All right. Uh, so this is what I can do on my end. Um, I don't have a direct transfer for Mr. Bey, I'm just from the intake department. What I can do is, uh, let me try to see if his legal assistant is available at the moment, ma'am.
+[00:46] [Elga Grant-McFarlin]: Okay.
+[00:47] [Receptionist]: All right. Uh, I'll be right back with you in one minute.
+[00:51] [Elga Grant-McFarlin]: Thank you.
+[00:54] [Receptionist]: Thank you so much for holding, ma'am.
+[00:57] [Elga Grant-McFarlin]: Okay.
+[00:58] [Receptionist]: Let me tell you, Mr. Dante, that's his name, Dante, D-O-N-T-E, Dante, he's not available at the moment. What I can do on my end is I can transfer you over to his voicemail so you can leave one, and I'm also going to send him an email so you can— so that he can get back to you as soon as possible.
+[01:16] [Elga Grant-McFarlin]: Okay.
+[01:17] [Receptionist]: All right. My apologies, ma'am. Do you have a direct line where they can reach you at?
+[01:22] [Elga Grant-McFarlin]: Yes, 678-542-9957.
+
+[ ... Silence (6s) ... ]
+
+[01:33] [Receptionist]: 9957. Understood. Thank you so much for that. I'll transfer you over to his voicemail now, ma'am.
+[01:40] [Elga Grant-McFarlin]: Okay.
+[01:42] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

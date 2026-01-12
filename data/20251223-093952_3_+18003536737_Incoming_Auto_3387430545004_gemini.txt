@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Quinton / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how can I help you?
+[00:03] [Quinton]: Uh, yes. My name is Quinton with Kemper Infinity Insurance.
+[00:09] [Receptionist]: Mm-hmm. Okay. How can I help?
+[00:11] [Quinton]: And I'm calling about the client Veronica Hernandez Garcia.
+[00:21] [Receptionist]: Okay. You said Veronica?
+[00:24] [Quinton]: Yes.
+[00:25] [ ... Silence (11s) ... ]
+[00:36] [Receptionist]: Okay, that would be with Stephanie Peck. Let me get her for you.
+[00:40] [Quinton]: Got it.
+
+========================================
+TRANSCRIPT END
+========================================

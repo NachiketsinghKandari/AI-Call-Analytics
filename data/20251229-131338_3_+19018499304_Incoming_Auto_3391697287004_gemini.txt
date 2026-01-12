@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Ramón Rivero Daboin / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Ramón Rivero Daboin]: Hola, mi nombre es Ramón, ¿habla español?
+[00:08] [Receptionist]: Hola, muy buenas tardes, señor Ramón. Sí, señor, hablo español. ¿Cómo le podría ayudar?
+[00:13] [Ramón Rivero Daboin]: Ah, okay. Es que yo tengo un caso con ustedes hace mucho tiempo y no me han dicho nada.
+[00:20] [Receptionist]: Claro, señor Ramón. Mil disculpas. Um, vamos a buscar. Ramón... ¿me podría por favor indicar el apellido?
+[00:29] [Ramón Rivero Daboin]: Rivero.
+[00:31] [Receptionist]: Rivero...
+[00:33] [Ramón Rivero Daboin]: Rivero Daboin.
+[00:37] [Receptionist]: Sí, ese es. Rivero Daboin. Ajá. Vamos a mirar a ver si el case manager está disponible. Eh, un momento en la línea, por favor.
+[00:41] [ ... Silence (6s) ... ]
+[00:47] [Ramón Rivero Daboin]: Okay.
+[00:48] [ ... Silence (5s) ... ]
+[00:53] [Receptionist]: Señor Ramón, muchas gracias por su amable espera en la línea. Bueno, estaba tratando de comunicarme con Stephanie, que es la persona que está encargada de su caso, ¿cierto?
+[00:58] [Ramón Rivero Daboin]: Sí.
+[00:59] [Receptionist]: Veo que ella le envió un correo electrónico en noviembre 13, informándole la línea directa donde se puede comunicar con ella, que es el 470-645-1748. Lo que pasa es que ella en estos momentos no está disponible. De pronto pueda estar disponible más tardecito, ya que la puede llamar a la línea directa, la cual se le informó vía email. Ajá.
+[01:28] [Ramón Rivero Daboin]: Okay. Lo que pasa es que la llamé hace como una semana y tampoco contestó. Y la acabo de llamar y tampoco contestó. Entonces no sé qué estará pasando.
+[01:41] [Receptionist]: Claro. Debe ser por los días feriados y eso que no sé, de pronto están trabajando medio tiempo. Como ellos tienen, me disculpa, como ellos tienen un horario diferente a nosotros, básicamente que ellos son managers y eso, entonces puede ser que por los días feriados y una cosa y la otra. Entonces le recomiendo que le haga seguimiento. Pero ya que tiene el número de ella, ella... esa es la línea, ¿dale? Sí, digamos, si no le contesta a usted, tampoco pues... si nos llama a nosotros, pues no creo que tampoco nos vaya a contestar. Entonces, por favor, insístale a la línea directa.
+[02:18] [Ramón Rivero Daboin]: Ah, okay, okay. Bueno, está bien. Muchas gracias.
+[02:21] [Receptionist]: Sí, señor. No se preocupe, señor Ramón. Igualmente también le voy a dejar acá una notica en su... en su archivo para que, por favor, ella se dé cuenta de que pues usted se está tratando de comunicar. Ajá.
+[02:34] [Ramón Rivero Daboin]: Ah, okay. Porque también le envié un email hace tiempo, eso hace como tres semanas, creo, pero no ha contestado más la señora Stephanie.
+[02:42] [Receptionist]: Claro. Sí, sí, sí. Como le digo, de pronto por... no sé, pueden ser muchas cosas, ¿dale? Entonces igual vamos a dejar una notica aquí. Listo, señor Ramón. ¿Hay algo más en que le podría ayudar el día de hoy?
+[02:55] [Ramón Rivero Daboin]: No, no. Ya está bien. Muchas gracias, amigo. Que tenga un buen día.
+[02:58] [Receptionist]: Igualmente, una excelente y feliz... feliz año para usted. Hasta luego, señor Ramón.
+[03:04] [Ramón Rivero Daboin]: Feliz año. Hasta luego.
+[03:05] [Receptionist]: Gracias.
+
+========================================
+TRANSCRIPT END
+========================================

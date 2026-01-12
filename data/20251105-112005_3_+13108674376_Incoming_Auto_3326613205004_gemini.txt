@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at the Law Group: 3 turns
+  • Speaker 2 / [Freddy Barron] / Role: Client: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling the Law Group, how can I be helping you today?
+[00:06] [Freddy Barron]: Hello, may I speak to someone uh concerning my case? My name is Freddy with a Y, last name Barron, B-A-R-R-O-N.
+[00:18] [Receptionist]: Mr. Barron, good day. Let me go ahead and connect you over to the attorney that's handling your case.
+[00:24] [Freddy Barron]: Thank you.
+[00:26] [Receptionist]: Thank you, you're welcome sir. You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

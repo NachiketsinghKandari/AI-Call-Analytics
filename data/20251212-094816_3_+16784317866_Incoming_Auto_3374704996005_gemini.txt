@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dinel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates. This is Dinel.
+[00:07] [Unknown]: Uh, yes. May I speak with Linda, please?
+[00:10] [Receptionist]: Yes. One moment.
+[00:12] [ ... Silence (7s) ... ]
+[00:19] [Receptionist]: Um, thank you so much for holding. She is actually on another call. I will send her an email so she can give you a call back today, okay?
+[00:27] [Unknown]: Appreciate it. Thank you.
+[00:29] [Receptionist]: Okay. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

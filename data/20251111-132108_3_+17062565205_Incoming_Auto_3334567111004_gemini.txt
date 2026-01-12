@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: [Receptionist] at Bain and Associates Law Firm: 6 turns
+  • Speaker 2 / Tiana / Role: Representative for Northside Hospital: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bain and Associates Law Firm. My name is Fatima. How may I assist you today?
+[00:07] [Tiana]: Good afternoon. My name is Tiana and I'm calling on behalf of the Northside Hospital. I was calling in reference to a reduction for Brayran Capriel?
+[00:19] [Receptionist]: What is the client's name?
+[00:22] [Tiana]: Um, it's B as in Bravo, R-A-Y-A-N and then last name is C-A-P-R-I-E-L.
+[00:30] [Receptionist]: C as in Charlie, Capriel.
+[00:33] [Tiana]: Yes.
+[00:34] [Receptionist]: Thank you. Bear with me while I search who the case manager is so that I can transfer you over to them.
+[ ... Silence (12s) ... ]
+[00:46] [Tiana]: Okay, thank you.
+[00:47] [Receptionist]: You're welcome. The date of loss was on August 25th of 2024?
+[00:54] [Tiana]: Yes ma'am, that's correct.
+[00:57] [Receptionist]: All right. That is for Ms. Stephanie. Bear with me, I'll see if she's in, okay? Give me one moment please.
+[01:02] [Tiana]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

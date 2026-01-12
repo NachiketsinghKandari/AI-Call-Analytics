@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Laura / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and the Associates, Kimmy speaking?
+[00:03] [Laura]: Hi good morning, this is Laura calling from George's Spinner Orthopedics. I was calling to confirm a representation on a patient.
+[00:10] [Receptionist]: Sure, can I have their name?
+[00:12] [Laura]: Yes, it is for Damari, D-A-M-A-R-I, last name Williams.
+[00:19] [Receptionist]: Yes, Stephanie Peck is the is the case manager, that is
+[ ... Silence (6s) ... ]
+[00:33] [Laura]: Okay, would you be able to provide the email address?
+[00:35] [Receptionist]: Yes, S-T-E-P-H-A-N-I-E at B-E-Y A-N-D A-S-S-O-C-I-A-T-E-S dot com. So Stephanie at Bey and Associates dot com.
+[00:56] [Laura]: Associate's plural for associates, correct?
+[00:59] [Receptionist]: Yes ma'am.
+[01:01] [Laura]: Okay, already, thank you.
+[01:03] [Receptionist]: You're welcome, have a great day.
+[01:05] [Laura]: Have a great day, bye.
+[01:07] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at B and Associate: 13 turns
+  • Speaker 2 / Kiara Pringle / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: B and Associate, this is Angelo speaking, how may I help you?
+[00:07] [Kiara Pringle]: Um, can I speak with an attorney please?
+[00:10] [Receptionist]: Sure. And can you confirm for me what is your name?
+[00:14] [Kiara Pringle]: Kiara Pringle.
+[00:17] [Receptionist]: Okay. Let me search for your case.
+[00:27] [Kiara Pringle]: Thank you.
+[00:28] [ ... Silence (12s) ... ]
+[00:40] [Receptionist]: Hello?
+[00:42] [Kiara Pringle]: Yes.
+[00:43] [Receptionist]: Kiara, um, I was trying to search for your case, but it doesn't show Kiara Pringle. Do you have another last name that maybe the case is under?
+[00:52] [Kiara Pringle]: No, I don't have a case. I'm calling about a case, but I don't have a case with him directly. Um, it's kind of important. Can I speak with him really quickly? It's just gonna take a second.
+[00:59] [Receptionist]: Yes, but who is the attorney that you wish to talk with?
+[01:03] [Kiara Pringle]: Um, whichever one, it doesn't matter. Just, I don't, I'm not even sure. Just an attorney at this office.
+[01:12] [Receptionist]: Um, what I need you to understand is that I, I cannot transfer a case to an attorney just because. I mean, if you had like an accident or something, I can take your case or...
+[01:27] [Kiara Pringle]: Yes, I did. I did.
+[01:29] [Receptionist]: That's what I needed to confirm in case that you have any incident or something. So basically, would you like to...
+[01:36] [Kiara Pringle]: Yes, I have, I had an accident, yes. And I wanted to just ask him a question.
+[01:42] [Receptionist]: Uh, yes, and so that will be that, um, since me, or I'm the person in charge to take your intake to get your information and transfer your information to an attorney.
+[01:54] [Kiara Pringle]: No, I don't need your intake. I don't need to hire him as an attorney. He's already working on a case that I'm involved in.
+[02:02] [Receptionist]: Yes, so you're saying that you don't have a case and then you are saying that an attorney is working in your case. I mean, um, so what is the case that they are working on?
+[02:11] [Kiara Pringle]: Um, the person's name that, that he's representing is Keith Jones.
+[02:19] [Receptionist]: How do you spell Keith?
+[02:22] [Kiara Pringle]: K-E-I-T-H. Last name Jones, J-O-N-E-S. Can, can you hang on one second for me? 'Cause I think this is actually the insurance company. Hang on one second. Let me see.
+[02:35] [Receptionist]: Hello?
+[02:41] [Receptionist]: Hello?
+[02:43] [ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

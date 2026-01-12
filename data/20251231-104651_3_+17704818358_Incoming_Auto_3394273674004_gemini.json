@@ -1,0 +1,27 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist stated she would check for the requested staff member's availability and transfer the caller, and the call ended immediately after the caller's acknowledgement.",
+    "call_duration_seconds": 36.72,
+    "call_duration_formatted": "00:36"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist initiated a transfer to a specific staff member after the caller requested to speak with her."
+  }
+}

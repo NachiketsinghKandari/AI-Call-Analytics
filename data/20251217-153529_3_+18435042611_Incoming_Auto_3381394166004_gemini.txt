@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Mr. Boyd / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, my name is Fatima, how may I assist you?
+[00:08] [Mr. Boyd]: Hey, yes, how you doing? This is Mr. Boyd. I'm calling to find out, um, some information about, um, about my, um, what's name? My funds, when it's gonna be released, whatever.
+[00:22] [Receptionist]: You're calling to speak to your case manager?
+[00:25] [Mr. Boyd]: Yes, yes, yes.
+[00:27] [Receptionist]: All right. Allow me one moment, I'll see if she's available, Mr. Boyd. One moment please.
+[00:32] [Mr. Boyd]: Okay, appreciate it.
+[00:33] [Receptionist]: Mr. Boyd, thank you so much for the waiting time. I apologize for the delay. So Miss Linda is currently on another call. I am not able to contact her. Would you like to leave a voice message for her so once she is finished she can give you a call back?
+[00:48] [Mr. Boyd]: Is it possible can I, um, get her number or extension or anything? 'Cause, um, I had it but I lost my— I lost my phone and, um, I got a new phone and, um, my contacts and all.
+[01:01] [Receptionist]: I understood. Let me know when you are ready, I have her number.
+[01:05] [Mr. Boyd]: Okay, one second. Um, give me the number.
+[01:08] [ ... Silence (6s) ... ]
+[01:14] [Mr. Boyd]: Um, yes, I'm ready.
+[01:15] [Receptionist]: 513...
+[01:18] [Mr. Boyd]: 513.
+[01:19] [Receptionist]: 373...
+[01:22] [Mr. Boyd]: 373.
+[01:23] [Receptionist]: 4064.
+[01:27] [Mr. Boyd]: 4064?
+[01:29] [Receptionist]: You got it. Yes, sir.
+[01:31] [Mr. Boyd]: All right, um, thank you, and you have a great day. I appreciate it.
+[01:35] [Receptionist]: You too. Take care. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable. The receptionist offered a callback, which the caller accepted.",
+    "call_duration_seconds": 112.46,
+    "call_duration_formatted": "01:52"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the requested staff member's availability and informed the caller they were on lunch, then offered a callback."
+  }
+}

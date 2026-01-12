@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devin / Role: [Receptionist] at Day and Associates Law Firm: 4 turns
+  • Speaker 2 / Robert / Role: Caller from Southern Trust: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Day and Associates Law Firm, Devin speaking.
+[00:07] [Robert]: Yes, I was wondering if I could speak with the attorney handling the case for Marlena Hutchinson.
+[00:15] [ ... Silence (15s) ... ]
+[00:30] [Receptionist]: Marlena, you said, right? Hutchinson. Do you mind spelling that last name for me? Maybe I have it spelled incorrect.
+[00:40] [Robert]: H-U-T-C-H-I-N-S-O-N.
+[00:45] [Receptionist]: Alrighty, let me go ahead and get you over to the attorney, that's no problem. May I ask who's calling?
+[01:01] [Robert]: Robert from Southern Trust.
+[01:04] [Receptionist]: Alrighty, um, Robert, allow me for a second to get you over to Nicholas Obada, okay?
+[01:16] [Robert]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

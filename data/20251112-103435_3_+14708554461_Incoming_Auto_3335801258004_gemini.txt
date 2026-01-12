@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Associate's Law Firm: 13 turns
+  • Speaker 2 / [Mrs. Wilcher] / Role: Client: 13 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Associate's Law Firm, Dennis speaking.
+[00:05] [Mrs. Wilcher]: Yes, may I please speak with someone in charge, please?
+[00:11] [Receptionist]: Sure, um, in charge of your case or...
+[00:15] [Mrs. Wilcher]: Well, I'm unable to get in- get in contact with them. I've been calling them all morning. I'm needing something to be explained, a document to be explained.
+[00:27] [Receptionist]: Okay, sure, no problem, ma'am. May I have your first and last name?
+[00:31] [Mrs. Wilcher]: Yes, it's gonna be my husband's name, Richard Wilcher.
+[00:42] [Receptionist]: [ ... Silence (8s) ... ] For Mr. Richard Lee Wilcher, right?
+[00:45] [Mrs. Wilcher]: Yes, exactly.
+[00:57] [Receptionist]: [ ... Silence (10s) ... ] Let's take a look here. Um, I'm guessing you're calling regarding the disbursement.
+[01:02] [Mrs. Wilcher]: Exactly. We want to know what in the world is Capital Gold Glove Capital Funding. What is that?
+[01:11] [Receptionist]: [ ... Silence (5s) ... ] Okay, um, that possibly may be someone that Elena's hold with. So let me go ahead and get Tara, she's head of the disbursement team on the line.
+[01:26] [Mrs. Wilcher]: Okay, thank you, I appreciate you.
+[01:28] [Receptionist]: You're welcome, ma'am, no problem. Just remain on hold, okay?
+[01:32] [Mrs. Wilcher]: Okay, thank you.
+[01:34] [Receptionist]: [ ... Silence (35s) ... ] Mrs. Wilcher?
+[02:09] [Mrs. Wilcher]: Yes.
+[02:14] [Receptionist]: Thank you so much for patiently holding. I tried reaching out to Tara, the head of disbursement team, but she is in a meeting. I did also try to reach Ms. Linda, which is your case manager at the moment for- for the case, but they're also in a meeting, right? They're in my morning meetings today, I do apologize. However, I did manage to get a message across for Linda to let me know about Gold Glove Capital.
+[02:35] [Mrs. Wilcher]: I mean, would you know anything about this? Is this company affiliated with your law firm?
+[03:40] [Receptionist]: Yes, ma'am. What happens is Atlanta Knee and Shoulder Clinic sold the bill to Gold Glove Capital. So we are basically going to pay them the amount of 2900, not the 58. That's why it was added there in the disbursement.
+[04:00] [Mrs. Wilcher]: Okay, but then it- and I thank you so much, first of all, I want to tell you thank you for even taking out your time to even explain it to me. Um, I also want to know about, okay, it says if we sign this, they're still waiting on the thing about it that we don't understand is that they're waiting- it's in, um, what do you call this thing, aba- aba- what- what is it? Segregation or whatever it is, subrogation. It's there, something is there waiting on the insurance company to say if anything is owed to them. So they're holding back funds, but on this disbursement sheet it says if we sign it, this is a done cut deal, it's done. There's nothing else, nothing else can be done. So meaning if they don't pay these people or these people come back and say, well, you- you owe us nothing, that's $5,000 that's been misappropriated. We don't get it if we sign this.
+[04:04] [Receptionist]: I know Jonathan was supposed to reach out to you to explain the entire disbursement sheet, but he also is in a meeting. Um, and they noted they- they saw the missed call, they- they're just in a meeting, they couldn't answer right away, um, for you to explain those details to you, but they will get back to you regarding those questions, ma'am.
+[04:18] [Mrs. Wilcher]: Okay. Okay, well, I thank you so much and I appreciate you.
+[04:46] [Receptionist]: You're welcome, you're welcome, Mrs. Wilcher, no problem. I don't want to just, um, give you the wrong information, right? And then you be on the loop, so I'd rather they go ahead and reach out to you regarding that.
+[04:49] [Mrs. Wilcher]: It's okay, I understand. I understand, it's just, yeah, I understand, it's just things are so tense right now. I just need an- need an explanation on some things that's going on. Um, no worries, I'm not upset or anything, I just needed to, you know, before you sign anything you want to be able to read it and know that you're knowing exactly what you're signing. And so that's all it is. But, you know, yeah, if they could- I'm sure that they'll reach out to me possibly later on. Um, would you leave them a message to reach out to me?
+[04:55] [Receptionist]: Yes, ma'am, most definitely I can do that for you.
+[04:58] [Mrs. Wilcher]: Okay, thank you so much, I appreciate all that you do. Thank you.
+[05:00] [Receptionist]: You're welcome, you're welcome, Mrs. Wilcher, no problem. It's a pleasure. You have a good day.
+[05:01] [Mrs. Wilcher]: Okay, thank you. Bye-bye.
+[05:02] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

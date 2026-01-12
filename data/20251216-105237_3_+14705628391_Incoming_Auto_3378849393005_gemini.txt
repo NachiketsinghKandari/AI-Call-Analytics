@@ -1,0 +1,18 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 2 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [Unknown]: Um, I'm sorry, what? Hello?
+[00:12] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:18] [Unknown]: Um, did you say please hold?
+
+========================================
+TRANSCRIPT END
+========================================

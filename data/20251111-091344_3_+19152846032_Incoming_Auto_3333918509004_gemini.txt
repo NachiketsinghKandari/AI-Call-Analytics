@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: [Receptionist] at Slalom: 3 turns
+  • Speaker 2 / Unnamed / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Good morning, this is Slalom, this is Karina, how can I help you today?
+[00:03] [Speaker 2]: Hi, uh yes, good morning. I was wondering if you could help me. The guy that's in charge of maintenance, who is that again?
+[00:13] [Receptionist]: In charge of maintenance?
+[00:17] [Speaker 2]: Yes, for the building.
+[00:19] [Receptionist]: Um, sorry, give me one moment. No vas a dar esa información. Ma'am, I'm sorry, but I have- I don't have that information about who is the person in charge right now. So what exactly do you need, so...
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Associates Law Firm: 16 turns
+  • Speaker 2 / Julia Ruiz Mendieta / Role: Client: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Associates Law Firm, my name is Fatima, how may I assist you today?
+[00:11] [Receptionist]: Hello?
+[00:12] [Julia Ruiz Mendieta]: Hello, Danny?
+[00:15] [Receptionist]: I'm sorry?
+[00:17] [Julia Ruiz Mendieta]: Okay, um, I looking for Danny, Danny?
+[00:23] [Receptionist]: Um, we don't have a Danny...
+[00:29] [Julia Ruiz Mendieta]: Okay, I'm talking with Danny every single day because I don't know if it's Danny or Denny or I don't know but because I have the case with the lawyer and waiting for something and try to with this people speak Spanish.
+[00:48] [Receptionist]: Um, you're a Spanish... yo puedo hablar español, señorita.
+[00:53] [Julia Ruiz Mendieta]: Yo hablo con él cada ratito. No sé si el nombre lo tengo mal pero es Danny, Daniel, Daniel, Dineo, algo así, o Dennis.
+[01:05] [Receptionist]: ¿Me permite su nombre, por favor, para yo poder buscar su su file?
+[01:11] [Julia Ruiz Mendieta]: Julia, Julia Ruiz Mendieta.
+[01:14] [Receptionist]: Muchísimas gracias, señorita Julia, permítame un momentito, por favor. Acá tengo la señorita Susan Spice es su manejadora de caso, permítame. ¿Usted será que estaba hablando con Deven será?
+[01:32] [Julia Ruiz Mendieta]: No sé si es De- ella habla es- no, Debbie es la señora que habla inglés, no. Danny, Daniel, Danny. Bueno, el asunto es que yo estoy esperando un cheque que me iban a hace dos meses me llamaron que ya estaba todo, pero nunca me han vuelto a llamar ya ha pasado va para dos meses ya. Y quería saber si tenía alguna respuesta sobre eso.
+[01:50] [Receptionist]: Mm, okay, permítame un momentito para yo ver en su acá en su file si tengo alguna información que pueda brindarle o voy a llamar a su manejadora de caso a ver si ella me puede informar para yo entonces darle la información. Permítame un momentito, por favor.
+[02:01] [Julia Ruiz Mendieta]: Gracias.
+[02:03] [ ... Silence (22s) ... ]
+[02:26] [Receptionist]: Señorita Julia, muchísimas gracias por su permanencia en línea.
+[02:30] [Julia Ruiz Mendieta]: Dígame.
+[02:31] [Receptionist]: Pues por lo que tengo acá en su en su file veo que la manejadora de caso, ella indica que el señor abogado Jim necesita aprobar unas declaraciones y que le faltan dos establecimientos o dos instalaciones para que necesitan obtener de reducciones. Es decir, todavía su cheque no se le ha enviado o el dinero porque todavía están um están settlement, están como estableciendo las reducciones. Le faltan dos todavía por lograr.
+[03:04] [Julia Ruiz Mendieta]: Este, ¿pero no sabe más o menos como para cuándo? Porque es que yo tengo una cirugía y yo necesito pagar y la cirugía es a fin de mes.
+[03:15] [Receptionist]: Permítame ver si la señorita Susana está disponible para yo preguntarle. Un momento.
+[03:20] [Julia Ruiz Mendieta]: Okay, gracias.
+[03:27] [Receptionist]: Señorita Julia, muchísimas gracias por la permanencia con nosotros acá. Este, su manejadora de caso la señorita Susan me indica que desafortunadamente no tenemos una fecha que le pueda dar. Que sí puede decir que solo nos falta uno de por um están esperando sobre una institución solamente para la reducción y que ya luego de esto pues ya tendrían pues una una mejor orientación. Pero en estos momentos no puede darnos una fecha no, porque todavía no no está disponible es la cosa. Mientras no esté disponible no no puede ella darle como una información.
+[04:01] [Julia Ruiz Mendieta]: Hm. Okay, bueno, yo llamé porque yo llamé porque el abogado me dijo de de cuatro a cinco semanas y ya va para la séptima ya semana y...
+[04:10] [Receptionist]: Sí, lamentablemente ellos duran muchísimo en realidad, es decir, si fuera por el abogado porque lo que el abogado está tratando de hacer es que usted obtenga más dinero posible. Entonces ahí es donde entran las reducciones y pues el abogado tiene que esperar a que ellos estén de acuerdo con la propuesta para que le hagan esas reducciones a usted.
+[04:26] [Julia Ruiz Mendieta]: No, ya la propuesta me la hicieron, ya yo la acepté, ya todo está listo, nada más faltaba la- ya todo me dijeron el monto y me dijeron todo.
+[04:34] [Receptionist]: Sí, correcto, pero la reducción de la institución del médico a ver si le tengo el nombre porque...
+[05:00] [Julia Ruiz Mendieta]: Ah, oh, por la- es por la reducción para reducirme más los biles.
+[05:07] [Receptionist]: Sí, correctamente.
+[05:08] [Julia Ruiz Mendieta]: Eso es lo que esperan. Okay. Bueno, muchas gracias, muy amable.
+[05:13] [Receptionist]: Ha sido un placer, señorita Julia, que tenga una feliz tarde. Bye bye.
+[05:18] [Julia Ruiz Mendieta]: Gracias, igual. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / First Chicago Insurance / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:05] [First Chicago Insurance]: Hi, this is the claims department with First Chicago Insurance. I'm returning a callback request we received.
+[00:11] [Receptionist]: Um, from who? Have they left their name?
+[00:15] [First Chicago Insurance]: No, there wasn't a voicemail.
+[00:18] [Receptionist]: Oh, okay. Um, do you have the client's name?
+[00:23] [First Chicago Insurance]: No, there wasn't a voicemail.
+[00:26] [Receptionist]: Oh, okay. Well, there's no way to to route the call for me to, you know, to know who to send it to. If there was a client's name then I can go ahead and transfer it over.
+[00:40] [First Chicago Insurance]: No problem. You have a great rest of your day.
+[00:42] [Receptionist]: Mhm. All right then, you have a great rest of your day.
+[00:44] [First Chicago Insurance]: You too.
+[00:45] [Receptionist]: You too. Bye-bye.
+[00:46] [First Chicago Insurance]: You too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

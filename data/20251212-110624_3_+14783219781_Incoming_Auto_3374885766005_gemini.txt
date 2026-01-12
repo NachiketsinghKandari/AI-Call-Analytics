@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Michelle White / Role: Caller from Geico Claims: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how can I help you?
+[00:04] [Michelle White]: Hi, good morning. This is Michelle White, I'm calling from Geico Claims on a recorded line. Um, had a question if the case manager is available. The client is Laquita Wingfield.
+[00:16] [Receptionist]: Wingfield. One moment, ma'am.
+[00:19] [ ... Silence (7s) ... ]
+[00:26] [Receptionist]: It's going to be Ms. Paige. Um, I can give you her direct dial as well, um, and her email before I transfer you.
+[00:33] [Michelle White]: Okay. Thank you. All right, I'm ready.
+[00:41] [Receptionist]: Yes, ma'am. Um, so her direct dial is 470-615-0715. And her email is just her first name. She spells it a little differently. It's P-A-Y-G-E. So Paige at Bey and Associates dot com. And I'll, um, when you're ready, I can transfer you.
+[01:05] [Michelle White]: I'm ready.
+[01:07] [Receptionist]: Okay, one moment.
+
+========================================
+TRANSCRIPT END
+========================================

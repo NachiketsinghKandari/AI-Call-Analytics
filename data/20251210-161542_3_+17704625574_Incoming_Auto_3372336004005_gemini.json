@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist checked the firm's records for the client but found no matching date of loss or billing information for the provider mentioned. The caller concluded the call to follow up with the client.",
+    "call_duration_seconds": 261.0,
+    "call_duration_formatted": "04:21"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: [Receptionist] at Bayer and Associates: 6 turns
+  • Speaker 2 / Peggy Nasser / Role: Caller from attorney Leslie Claxton's office: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bayer and Associates. This is Daniel.
+[00:07] [Peggy Nasser]: Hi. Um, my name is Peggy Nasser and I'm calling from attorney Leslie Claxton's office and I was hoping to speak to Deborah Blair or her assistant.
+[00:18] [Receptionist]: For what case?
+[00:20] [Peggy Nasser]: Uh, Clemens v. Lopez.
+[00:27] [Receptionist]: What was the name? I'm sorry.
+[00:30] [Peggy Nasser]: The- the case name for- for your- client is Clemens versus Lopez.
+[00:43] [Receptionist]: Um, so that's the name? Because I don't see anything like that here.
+[00:48] [Peggy Nasser]: Uh, yeah. It's supposed- do you have a- a Deborah Blair?
+[00:53] [Receptionist]: She is no longer with us.
+[00:55] [Peggy Nasser]: Okay. Okay. Um... All right. Well, maybe she took it with her. Um, I will try another number. Thank you so much.
+[01:09] [Receptionist]: Mm-hmm.
+
+========================================
+TRANSCRIPT END
+========================================

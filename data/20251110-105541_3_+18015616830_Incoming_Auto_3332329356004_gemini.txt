@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: [Receptionist] at Bean and Associates: 13 turns
+  • Speaker 2 / [Unidentified] / Role: Caller from Conduent: 11 turns
+
+----------------------------------------
+
+[00:00] [Angelo]: This is Angelo from Bean and Associates, how may I help you?
+[00:06] [Speaker 2]: Ah, yes, I'm calling for Taylor Middleton or one of her assistants.
+[00:13] [Angelo]: Uh, would you like to talk with her?
+[00:16] [Speaker 2]: Yes, please.
+[00:19] [Angelo]: Uh, but this is in reference on one case or I mean...
+[00:26] [Speaker 2]: Yeah, your client is Chase Rose.
+[00:31] [Angelo]: Chase is spelled C-H-A-S-E Rose?
+[00:41] [Speaker 2]: Yes, mm-hmm.
+[00:43] [Angelo]: Chase Rose. Let's see. Can I have the date of loss?
+[00:48] [Speaker 2]: 12/1 of '23.
+[00:53] [Angelo]: One moment.
+[00:58] [ ... Silence (20s) ... ]
+[01:18] [Angelo]: Okay. And just to confirm, are you calling from who?
+[01:26] [Speaker 2]: Conduent, we represent his health insurance, Cigna.
+[01:31] [Angelo]: Health insurance. Ah okay, from the health insurance. That is it, thank you so much. Have a good one. Stay on the line, let me consult with her, okay? Stay on the line, please.
+[01:48] [Speaker 2]: Thank you.
+[01:53] [Angelo]: Hello?
+[01:55] [Speaker 2]: Yes.
+[01:56] [Angelo]: Hello?
+[01:57] [Speaker 2]: Hello?
+[01:58] [Angelo]: Yes, this is Angelo. Oh, no, I'm the same person, sorry. I was trying to consult with Taylor, but it looks like that she is not available at this moment, looks like that she is busy. Would you like to leave her a voice message with your phone number in order that she can call you back?
+[02:13] [Speaker 2]: Yeah, thank you.
+[02:16] [Angelo]: Okay, I'm going to leave you in the voice recording and everything and you can leave your- your name and telephone number, okay? And she can call you back.
+[02:23] [Speaker 2]: Okay.
+[02:24] [Angelo]: All right, so I will transfer you right now. Have a good one. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

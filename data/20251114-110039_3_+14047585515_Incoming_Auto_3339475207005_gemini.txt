@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bean and Associates Law Firm: 9 turns
+  • Speaker 2 / Ralph / Role: Caller from Hurt 911 Injury Centers: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bean and Associates Law Firm, Devin speaking.
+[00:05] [Ralph]: Good morning, this is Ralph calling from Hurt 911 Injury Centers. I'm calling in regards of a patient of ours being non-compliant with treatment. We're just trying to get in contact with the case manager.
+[00:14] [Receptionist]: What is the client's first and last name?
+[00:16] [Ralph]: It's uh, Wanisha French.
+[00:21] [Receptionist]: I'm pulling it up. Let me get you over to Paige.
+[00:29] [Receptionist]: Unfortunately, sir, it looks like Paige is away from her desk at this moment. I can get you over to her voicemail and she'll quickly return the call to you.
+[00:39] [Ralph]: Okay, what's her name?
+[00:41] [Receptionist]: Paige. P-A-Y-G-E.
+[00:44] [Ralph]: P-A-Y-G?
+[00:46] [Receptionist]: P-A-Y-G-E.
+[00:49] [Ralph]: P-A-Y-G-E.
+[00:52] [Receptionist]: Mhm.
+[00:54] [Ralph]: All right, thank you so much.
+[00:56] [Ralph]: What's uh... she got a voicemail?
+[00:58] [Receptionist]: Yes, I can transfer you over to it.
+[01:00] [Ralph]: Yeah, that'd be fine.
+[01:02] [Ralph]: Thank you.
+[01:04] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

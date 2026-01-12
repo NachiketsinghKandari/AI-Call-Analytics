@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dainel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Kurt Reynolds / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Dainel.
+[00:07] [Kurt Reynolds]: Hello, uh, good morning. I, uh, am trying to call to see if I could get someone to help me with getting the information I need to log in to my deposition prep today at 2:00 PM?
+[00:19] [Receptionist]: Uh, are you a client?
+[00:21] [Kurt Reynolds]: Yes, I am. Uh, my name is Kurt, last name is Reynolds.
+[00:26] [Receptionist]: Okay, give me one moment please.
+[00:29] [Kurt Reynolds]: Okay.
+[00:32] [Receptionist]: Um, thank you so much for holding. The paralegal is not available right now. I will send an email so he can get back to you today before, um, the deposition, okay?
+[00:44] [Kurt Reynolds]: Okay, yeah. I think it's supposed to be at, um, is it still scheduled for 2:00 PM?
+[00:50] [Receptionist]: I don't have those details unfortunately.
+[00:54] [Kurt Reynolds]: Okay, no problem. Well, if you could, uh, yeah, just tell them please try to get back to me as soon as possible, um, so I can make sure, you know, I have my schedule accordingly. I think I have it scheduled for 2:00 PM, but I'll wait to hear back.
+[01:04] [Receptionist]: Okay, understood. I will send this email right now.
+[01:07] [Kurt Reynolds]: Okay, thank you so much for your help. Thank you.
+[01:10] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

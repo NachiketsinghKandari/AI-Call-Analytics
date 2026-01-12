@@ -1,0 +1,21 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to contact the case manager twice to verify a check but found them unavailable. The caller declined a transfer to voicemail, so the receptionist provided the staff member's direct line and committed to notifying the case manager to call the client.",
+    "call_duration_seconds": 416.23,
+    "call_duration_formatted": "06:56"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered a transfer to voicemail which the caller declined; no other transfer was attempted as the staff member was unavailable."
+  }
+}

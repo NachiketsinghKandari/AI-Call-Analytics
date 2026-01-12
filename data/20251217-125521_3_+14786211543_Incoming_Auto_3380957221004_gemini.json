@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist handled the settlement inquiry directly by confirming medical lien details, exchanging emails with the insurance adjuster, and accepting the settlement tender on behalf of the firm.",
+    "call_duration_seconds": 557.28,
+    "call_duration_formatted": "09:17"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist handled the inquiry directly after checking the availability of the requested staff member."
+  }
+}

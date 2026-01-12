@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha Watson / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Darnell Starworth / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Tasha Watson. Can I help you?
+[00:04] [Darnell Starworth]: Hello. Yes, um, I need to speak to a manager or somebody because, uh, I just spoke to, uh, Country Financial and they still, they're saying that Bey and Associates still has me as a, uh, client and you guys said you dropped my case a year ago.
+[00:26] [Receptionist]: Can I have your name, sir?
+[00:29] [Darnell Starworth]: Darnell Starworth.
+[00:32] [Receptionist]: Darnell?
+[00:34] [Darnell Starworth]: Yes.
+[00:35] [ ... Silence (9s) ... ]
+[00:44] [Receptionist]: Yes, we have no file with you.
+[00:47] [Darnell Starworth]: Hmm. Okay. All right, let me figure out what's going on.
+[00:54] [Receptionist]: Okay.
+[00:55] [Darnell Starworth]: All right.
+[00:56] [Receptionist]: Thank you.
+[00:57] [Darnell Starworth]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

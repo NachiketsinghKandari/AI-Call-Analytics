@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / David / Role: Receptionist at Dana Associates Law Firm: 4 turns
+  • Speaker 2 / Gail / Role: Representative from Stand Up MRI: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Dana Associates Law Firm, David speaking.
+[00:02] [Gail]: Hi, my name is Gail from Stand Up MRI, calling regarding your client Denise Cooper.
+[00:11] [ ... Silence (7s) ... ]
+[00:18] [Receptionist]: Denise Cooper, right?
+[00:21] [Gail]: Yes. Mm-hmm.
+[00:22] [ ... Silence (5s) ... ]
+[00:27] [Receptionist]: Okay, Stand Up MRI, let me get you over to the case manager. Yes, Tara.
+[00:33] [Gail]: Okay, thank you.
+[00:35] [Receptionist]: Mm-hmm.
+[00:36] [ ... Silence (5s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

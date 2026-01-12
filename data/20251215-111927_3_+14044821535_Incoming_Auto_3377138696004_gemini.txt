@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Sebastian / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Rachel / Role: Caller from Telecare Pharmacy: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Sebastian, how may I help you?
+[00:05] [Rachel]: Hi, this is Rachel and I'm calling from Telecare Pharmacy. Can I speak with Michael?
+[00:12] [Receptionist]: Sure. I can transfer you over to Mr. Michael. If Mr. Michael doesn't answer for some reason, you can always leave a message for him and he'll get back to you as soon as he can.
+[00:22] [Rachel]: Okay, thank you.
+[00:23] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

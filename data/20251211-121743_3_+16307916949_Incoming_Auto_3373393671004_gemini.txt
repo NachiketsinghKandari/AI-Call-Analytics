@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Shantara / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina speaking, how can I help you today?
+[00:05] [Shantara]: Hi, my name is Shantara, I'm calling from Liberty Mutual Insurance, calling to see if attorney Kadeem is available to speak with on Gladys Tabbi's claim?
+[00:18] [Receptionist]: What is the client's name, I'm sorry?
+[00:21] [Shantara]: Uh, first name is Gladys, G-L-A-D-Y-S, last name is Tabbi, T like Tom, A, B like boy, I.
+[00:32] [Receptionist]: And what insurance you calling from?
+[00:38] [Shantara]: Liberty Mutual.
+[00:41] [Receptionist]: Let me place you on a brief hold, okay, let me try to get the case manager on the line.
+[00:47] [ ... Silence (11s) ... ]
+[00:57] [Receptionist]: Thank you so much for patiently waiting, ma'am. Uh, Kadeem is currently busy at the moment, he said he will be calling you guys back once he's done.
+[01:06] [Shantara]: Okay. Okay, thank you.
+[01:09] [Receptionist]: Perfect, thank you so much. Bye-bye.
+[01:11] [Shantara]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

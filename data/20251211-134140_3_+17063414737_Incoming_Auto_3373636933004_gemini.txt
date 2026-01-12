@@ -1,0 +1,58 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 20 turns
+  • Speaker 2 / Taylor Clinton / Role: Caller from Emory Hospital: 18 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fatima, how may I assist you?
+[00:08] [Taylor Clinton]: Hi Fatima, my name is Taylor Clinton calling on behalf of Emory Hospital to confirm representation on one of our patients.
+[00:17] [Receptionist]: All right, may I please have the patient's first and last name?
+[00:20] [Taylor Clinton]: Yes, it's Jabriya, and that's J as in Jordan, A as in Adam, B as in boy, R as in Robert, I as in igloo, Y as in yo-yo, A as in Adam. Last name is Shelton, and that's S-H-E-L-T-O-N.
+[00:41] [Receptionist]: Thank you, bear with me while I search.
+[00:44] [Taylor Clinton]: Thank you so much.
+[00:45] [Receptionist]: You're welcome.
+
+[ ... Silence (36s) ... ]
+
+[01:22] [Receptionist]: I'm going to confirm the first name I have that I have the right spelling. I have G as in George, A as in apple, B as in boy, R, I, Y, A.
+[01:33] [Taylor Clinton]: Mm-hmm.
+[01:34] [Receptionist]: Nothing is coming up for me. Nothing is coming up on my system with this name, but that can mean that the file has not been created as yet. I would suggest that you wait at least 24 hours. It might not just be created yet. I cannot say whether or not she's our patient or actually...
+[02:01] [Taylor Clinton]: Would you be able to maybe look it up with the date of birth or the phone number?
+[02:05] [Receptionist]: Phone number, yes.
+[02:07] [Taylor Clinton]: Um, it is 770-238-2123.
+[02:18] [Receptionist]: Nothing, nothing so far, no. Was the date of loss on the 19th of November?
+[02:28] [Taylor Clinton]: Yes, it is.
+[02:30] [Receptionist]: So then we have the wrong name. Because it is J as in Jackson, A as in apple, B-R-I-Y-A.
+[02:41] [Taylor Clinton]: That's what I said.
+[02:43] [Receptionist]: Oh, I have G as in George.
+[02:45] [Taylor Clinton]: Oh no, J as in— J as in Jordan.
+[02:48] [Receptionist]: Oh no wonder. Yes, she is our client.
+[02:51] [Taylor Clinton]: Okay. Do you see if she has any health insurance?
+[02:55] [Receptionist]: Yeah, let me confirm for you on the insurance tab.
+[02:58] [Taylor Clinton]: And what did you say your name is again?
+[03:00] [Receptionist]: Fatima.
+[03:02] [Taylor Clinton]: Thank you.
+[03:03] [Receptionist]: You're welcome. I don't have anything listed on her page. Uh, I don't have anything here that suggests that she has health insurance.
+[03:16] [Taylor Clinton]: Okay. And can I get a case status update?
+[03:20] [Receptionist]: Well, the status of the account is currently in pre-litigation treating. Do you need a case manager's info?
+[03:28] [Taylor Clinton]: Yes, please.
+[03:30] [Receptionist]: Okay, for this one it's going to be Ms. Linda, L-I-N-D-A, and her last name is Huff, H-U-F as in Frank, F as in Frank. Her email is only her name, Linda at BeyandAssociates.com, and it's spelled out A-N-D.
+[03:57] [Taylor Clinton]: Okay, perfect. Um, and are you able to transfer me to her?
+[04:02] [Receptionist]: Oh, I can see if she's available, absolutely. One moment please.
+[04:05] [Taylor Clinton]: Perfect, thank you.
+[04:06] [Receptionist]: You're welcome.
+
+[ ... Silence (14s) ... ]
+
+[04:21] [Receptionist]: Hi Ms. Taylor, thank you so much for the waiting time. I apologize for the delay. Ms. Linda is currently unavailable, she is in a meeting, but she— she is requesting that you send the bill to her like you did yesterday. It's completely fine. She just cannot take the call.
+[04:41] [Taylor Clinton]: Okay, perfect. Thank you so much.
+[04:43] [Receptionist]: All right, you're so welcome. Bye-bye.
+[04:45] [Taylor Clinton]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

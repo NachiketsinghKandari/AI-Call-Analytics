@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Warren Kwajahji / Role: Caller: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, my name is Jesse, how can I assist you?
+[00:05] [Warren Kwajahji]: Hi Jesse, is uh Michael available?
+[00:09] [Receptionist]: Michael? Uh, let me see. Uh, are you one of our clients?
+[00:12] [Warren Kwajahji]: Yes, I am.
+[00:14] [Receptionist]: Understood. What is your name, ma'am?
+[00:16] [Warren Kwajahji]: Warren, W-A-R-R-E-N, Kwajahji, K-W-A-J-A-H-J-I. If you need me to say it over, I'll just spell it out, uh...
+[00:28] [Receptionist]: No, no worries. I found you here. Warren, perfect. Give me one moment. Um, the date of the incident was December the 14th of 2018?
+[00:41] [Warren Kwajahji]: I'm sorry?
+[00:42] [Receptionist]: Uh, was that the date of the incident? December 14th of 2018?
+[00:47] [Warren Kwajahji]: Yes.
+[00:48] [Receptionist]: Understood. All right. Okay, do you allow me to place you on a brief hold? Let me see if Mr. Michael is available.
+[00:56] [Warren Kwajahji]: Yeah, take your time.
+[00:58] [Receptionist]: Thank you. Thank you so much for holding.
+[01:03] [Warren Kwajahji]: Yeah, I'm here.
+[01:05] [Receptionist]: Let me tell you. So, Mr. Michael is not available at the moment. Uh, but this is what I can do on my end. I can transfer you over to his voicemail so you can leave one, and I'm also going to send him an email so that he can get back to you as soon as possible.
+[01:18] [Warren Kwajahji]: Yeah, if you can just, uh, tell him to give me a call back, that'd be great. Because I'm driving. Yeah.
+[01:24] [Receptionist]: Understood. So this would be the best number to reach you, the one that ends in 1985?
+[01:29] [Warren Kwajahji]: Yeah, this one or the— what other number do you guys have? The 470-455 on file?
+[01:36] [Receptionist]: Uh, no, I have a 404-446-6866.
+[01:41] [Warren Kwajahji]: Okay, I still have that one too. That's fine.
+[01:44] [Receptionist]: Understood. So either one of those, right?
+[01:46] [Warren Kwajahji]: Yeah, either one is fine. I'm just, you know, I just, like I said, I had two deaths in the family, um, you know, so on and so forth, two people stole my phones, it was just a little hectic here.
+[01:56] [Receptionist]: Understood. I can understand that. I'm deeply sorry about this. Uh, but yes, ma'am, let me send him an email right away so that he can get back to you as soon as possible.
+[02:04] [Warren Kwajahji]: All right, thanks so much. Because I just, uh, tell him I just now was able to get back into my emails because I didn't have certain numbers to get back in because I had— I have multiple numbers, so, yeah.
+[02:13] [Receptionist]: Got it.
+[02:14] [Warren Kwajahji]: All right, thanks so much. Bye-bye.
+[02:16] [Receptionist]: Thank you. Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

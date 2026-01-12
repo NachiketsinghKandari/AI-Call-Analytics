@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Josh / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angel speaking, how may I help you?
+[00:05] [Josh]: Hey, good morning. This is Josh with Vector Choice Technology here in Atlanta. Um, I'm sending a promotional package over to y'all and want to make sure I've got the right person. Would you be able to confirm a couple quick details?
+[00:17] [Receptionist]: Sure.
+[00:19] [Josh]: Are y'all still located at uh 191 Peachtree Suite?
+[00:24] [Receptionist]: Yes.
+[00:26] [Josh]: Okay, perfect. Then I have uh right now in front of me name and number of your Director of Business Affairs, Mr. Matt McCarron. Would he be the best person to receive like a technology promotion?
+[00:39] [Receptionist]: Yes. Yes, of course.
+[00:42] [Josh]: Okay, excellent. Then two questions and I'll I'll let you go. I appreciate you. Do you happen to know if y'all's IT is handled in-house or with an outside provider?
+[00:52] [ ... Silence (5s) ... ]
+[00:57] [Receptionist]: Um, to be honest with you, I don't have that information, but if you wish I can give you the telephone number from for Matt McCarron and you can ask that information to him. I'm just an intake person.
+[01:12] [Josh]: You know, I've got I got you, I got you. You're just with the the receptionist service. No worries, I've got his number right here in front of me. If that's all the information you got, that's perfect. I appreciate you.
+[01:22] [Receptionist]: Yes. Pretty much. Sorry for that.
+[01:25] [Josh]: All right. Have a great day.
+[01:27] [Receptionist]: Oh, you as well. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

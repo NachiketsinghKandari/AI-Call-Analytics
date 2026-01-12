@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested case manager contact information and policy limits for multiple patients. The receptionist initiated a transfer to a specific staff member to address the requests.",
+    "call_duration_seconds": 155.16,
+    "call_duration_formatted": "02:35"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated she would transfer the caller to Ms. Paige and the call ended immediately after the transfer intent was confirmed."
+  }
+}

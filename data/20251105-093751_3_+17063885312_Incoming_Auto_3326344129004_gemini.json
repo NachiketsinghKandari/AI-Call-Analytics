@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist located the case for the specified patient, informed the caller that the status is litigation discovery, and confirmed there is no estimated settlement date.",
+    "call_duration_seconds": 95.33,
+    "call_duration_formatted": "01:35"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist was able to provide the case status information directly to the caller."
+  }
+}

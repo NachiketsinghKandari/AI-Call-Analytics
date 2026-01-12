@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a case manager regarding a client. The receptionist gathered the date of loss, but the call ended before any transfer was initiated or a message was taken.",
+    "call_duration_seconds": 49.39,
+    "call_duration_formatted": "00:49"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during the call."
+  }
+}

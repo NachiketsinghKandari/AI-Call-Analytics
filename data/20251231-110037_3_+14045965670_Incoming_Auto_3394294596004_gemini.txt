@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Angie / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Daniel speaking.
+[00:03] [Angie]: Hi, good morning. This is Angie with Georgia Spine and Orthopedics. I was just calling to confirm representation for Ms. Naishell Stevenson?
+[00:13] [Receptionist]: Yes, we do represent her. The case manager's information, let me get that for you. I think it is Ms. Linda Huff, H-U-F-F.
+[00:23] [Angie]: Huff. Okay, perfect. Is there an email available for her?
+[00:27] [Receptionist]: Yes, ma'am. Linda, L-I-N-D-A, at Bey, B-E-Y, and, A-N-D, associates with an S, dot com.
+[00:41] [Angie]: Dot com. Okay. And then is there also a phone number?
+[00:44] [Receptionist]: Yes, ma'am. One sec. 513-373— no, I'm sorry. 513-373-4064.
+[00:59] [Angie]: 4064. Okay. Awesome. Thank you so much for your help. You have a great New Year.
+[01:04] [Receptionist]: You too. Bye-bye.
+[01:06] [Angie]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

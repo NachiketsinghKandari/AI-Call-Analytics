@@ -1,0 +1,64 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 25 turns
+  • Speaker 2 / Destiny Mays Freeman / Role: Caller: 21 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you today?
+[00:08] [Destiny Mays Freeman]: Hello, um, I just was trying to get in contact with, um, what's his name again? Hercules?
+[00:24] [Receptionist]: Um, sorry, are you a client?
+[00:27] [Destiny Mays Freeman]: Yes.
+[00:28] [Receptionist]: Okay, let me go ahead and try to find out. Can I have your name?
+[00:33] [Destiny Mays Freeman]: Destiny Mays.
+[00:36] [Receptionist]: Destiny, nice to meet you. Let me go ahead and take a look.
+[00:46] [Receptionist]: Do you have like an, a second last name?
+[00:49] [Destiny Mays Freeman]: Yes, Freeman.
+[00:52] [Receptionist]: Mhm, Freeman.
+[00:55] [ ... Silence (8s) ... ]
+[01:03] [Receptionist]: Just to confirm, can I have the date of the incident? When was it?
+[01:07] [Destiny Mays Freeman]: The, the day of the incident, December 9th, 2025.
+[01:12] [Receptionist]: Mmm, let's see.
+[01:18] [Receptionist]: And just to confirm, the incident, it is under your name?
+[01:22] [Destiny Mays Freeman]: Yes.
+[01:24] [Receptionist]: Because I couldn't find... the telephone number that you are calling me is the one that we're supposed to have it on file?
+[01:32] [Destiny Mays Freeman]: Yes.
+[01:34] [Receptionist]: Let's see. Give me one minute, I'm trying to look up your information.
+[01:38] [ ... Silence (37s) ... ]
+[02:15] [Receptionist]: And sorry, just to confirm, who is Hercules?
+[02:19] [Destiny Mays Freeman]: Um, what's the man name? Hercules.
+[02:25] [Destiny Mays Freeman]: So, I think it's the owner, but I'm not sure if he's the owner, but his, his name start with an H.
+[02:31] [Receptionist]: Mmm, just to confirm, you are calling to Bey and Associates. The owner of the company, it is Bey, Mr. Bey, John Bey.
+[02:38] [Destiny Mays Freeman]: Oh, okay. Well, not him.
+[02:42] [Receptionist]: Maybe one of his associates?
+[02:45] [Destiny Mays Freeman]: Mhm.
+[02:47] [ ... Silence (22s) ... ]
+[03:09] [Receptionist]: Okay, let me try to look up... Oh, is this the one in Macon?
+[03:14] [Destiny Mays Freeman]: Macon?
+[03:16] [Receptionist]: Or is this Atlanta?
+[03:18] [Destiny Mays Freeman]: Yes.
+[03:20] [Receptionist]: This is the Atlanta.
+[03:22] [ ... Silence (9s) ... ]
+[03:31] [Destiny Mays Freeman]: Okay, one second. Is this the law firm?
+[03:35] [Receptionist]: Bey and Associates Law Firm, yes.
+[03:38] [Receptionist]: Okay, I, I'm going to give you the telephone number for one of his associates, then maybe he can help you get in contact with him, okay? This is his number. Ready?
+[03:49] [Destiny Mays Freeman]: Mhm.
+[03:51] [Receptionist]: It is 404...
+[03:54] [Destiny Mays Freeman]: 937...
+[03:56] [Receptionist]: Oh, no. 404...
+[03:58] [Destiny Mays Freeman]: 404...
+[04:01] [Receptionist]: 591...
+[04:03] [Destiny Mays Freeman]: 591...
+[04:06] [Receptionist]: 4928. That is one of his associates. His name is Matt McCord.
+[04:11] [Destiny Mays Freeman]: All right.
+[04:14] [Receptionist]: Okay, so anything else I can help you?
+[04:17] [Destiny Mays Freeman]: That's it. Thank you.
+[04:20] [Receptionist]: All right, have a good one. Take care. Bye-bye.
+[04:24] [Destiny Mays Freeman]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

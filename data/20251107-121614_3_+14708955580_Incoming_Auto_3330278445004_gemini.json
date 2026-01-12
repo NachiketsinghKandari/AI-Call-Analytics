@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The caller provided an updated work phone number to be added to her file. The receptionist recorded the information and confirmed they would notify the assigned case manager.",
+    "call_duration_seconds": 111.1,
+    "call_duration_formatted": "01:51"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist handled the request directly."
+  }
+}

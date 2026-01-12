@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dynel / Role: [Receptionist] at Soshi: 5 turns
+  • Speaker 2 / Jasmine / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hi, thank you for calling Soshi. This is Dynel.
+[00:07] [Jasmine]: Hi, Dynel. It's Jasmine.
+[00:11] [Receptionist]: Hey, how are you doing today?
+[00:13] [Jasmine]: Hey, I was trying to get in touch with Stephanie, but she's not answering the phone.
+[00:18] [Receptionist]: Okay, um, allow me just one moment, let me verify if she's available, okay?
+[00:24] [Jasmine]: Okay.
+[00:26] [Receptionist]: Um, thank you so much for holding, Ms. Jasmine. She is on another call right now, but she will call you right back today, okay?
+[00:35] [Jasmine]: Okay, thank you.
+[00:38] [Receptionist]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

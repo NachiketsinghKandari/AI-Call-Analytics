@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 5 turns
+  • Speaker 2 / [Camille] / Role: Representative from State Farm: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kim speaking.
+[00:06] [Camille]: Hey, can I speak with Tiana Evans? This is Camille from State Farm.
+[00:13] [Receptionist]: Sure, um, can I have the client's name please?
+[00:18] [Camille]: I'll spell it for you. O-S-A-S-U-M-W-E-N Calvin I-G-B-I-N-O-B-A.
+[00:32] [ ... Silence (15s) ... ]
+[00:47] [Receptionist]: One second, let me get her for you.
+[00:49] [Camille]: Thank you.
+[00:50] [Receptionist]: Oh, let me see. She looks like she's not in yet. Would you like to leave her a voicemail?
+[00:59] [Camille]: Yes.
+[01:01] [Receptionist]: All right, sending you over. You have a great rest of your day.
+[01:05] [Camille]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

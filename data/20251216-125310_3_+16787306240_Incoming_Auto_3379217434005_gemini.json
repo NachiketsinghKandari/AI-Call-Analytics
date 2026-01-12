@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist confirmed the firm's representation status for a client and then initiated a transfer to the case manager's voicemail at the caller's request.",
+    "call_duration_seconds": 138.74,
+    "call_duration_formatted": "02:18"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "voicemail_or_message_request"
+    ],
+    "description": "After the receptionist informed the caller that the case manager was unavailable, the caller requested a transfer to her voicemail. The receptionist stated he would pass the caller over and the call ended."
+  }
+}

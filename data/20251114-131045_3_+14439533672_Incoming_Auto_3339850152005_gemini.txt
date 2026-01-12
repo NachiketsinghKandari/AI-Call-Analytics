@@ -1,0 +1,69 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates: 29 turns
+  • Speaker 2 / [Jermaine Johnson] / Role: Caller: 25 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Angelo from Bey and Associates for Main Office.
+[00:09] [Speaker 2]: Speak to Anita please.
+[00:12] [Receptionist]: Uh sure, let's see if she's available.
+[00:19] [Speaker 2]: Thank you.
+[00:21] [Receptionist]: Alright, in order to transfer you over to, can you confirm for me what is your name or the case name?
+[00:29] [Speaker 2]: Jay Johnson.
+[00:32] [Receptionist]: Jay Johnson. Um, how do you spell Jay? Like the normal Jay?
+[00:42] [Speaker 2]: J-A-Y.
+[00:44] [Receptionist]: Okay, thank you.
+[00:52] [ ... Silence (9s) ... ]
+[01:02] [Receptionist]: And just to confirm, are you a client?
+[01:09] [Jermaine Johnson]: Yes, it's for a client case, Jay Johnson. My name is Jermaine Johnson.
+[01:17] [Receptionist]: Okay, yes. I was trying to look up your Jay Johnson and nothing showed up. Let's see.
+[01:23] [Jermaine Johnson]: Yeah, big Jay Johnson.
+[01:25] [Jermaine Johnson]: Is she in office today?
+[01:28] [Receptionist]: I need to look up who is the case manager first.
+[01:39] [Jermaine Johnson]: Her name is Anita, sir. Anita Washington. Is she in the office today?
+[01:45] [Receptionist]: Let's see.
+[01:47] [Jermaine Johnson]: Sir, can you hear me?
+[01:49] [Receptionist]: I mean, I can hear you okay. I'm just trying to look up your case. If you hear me, so I couldn't find nothing without any case I cannot transfer you to Anita. So that's why I'm asking you. Can I have the telephone number that you have there?
+[02:06] [Jermaine Johnson]: You want my return phone number?
+[02:11] [Receptionist]: No, the telephone number that it is in the case. What is it?
+[02:14] [Jermaine Johnson]: Sir, is for the- is this an answering service or is this the actual office?
+[02:21] [Receptionist]: Um, this is the actual office line. I'm just the intake department. So I'm just trying to connect you with the right department. So can you please cooperate and help me out?
+[02:31] [Jermaine Johnson]: And it's- it's for the estate of Jay Johnson. J-A-Y. That is the case. Jay. J-A-Y Johnson.
+[02:42] [Receptionist]: Um, yes. That's what I heard since the beginning. I can hear you okay. But if you hear what I'm saying, that I couldn't find nothing under that name. So that's why I'm asking you for the telephone number. Can you please help me out?
+[02:59] [Jermaine Johnson]: 937-
+[03:05] [Jermaine Johnson]: 901-5798.
+[03:08] [Receptionist]: Nothing showed up.
+[03:11] [Receptionist]: So without any case, we are unable to transfer you to a case manager just because.
+[03:19] [Jermaine Johnson]: 937-701-9974.
+[03:28] [Receptionist]: Nothing yet.
+[03:32] [Receptionist]: By any chance, Jay has another last name?
+[03:38] [Jermaine Johnson]: Jay Johnson.
+[03:41] [Receptionist]: And that's it?
+[03:43] [Receptionist]: No. I have it Jay Johnson, but nothing showed up.
+[03:59] [Jermaine Johnson]: Sir, we've been working with her for the last four years on this case.
+[04:13] [Jermaine Johnson]: The estate of Jay Johnson. Wrongful death suit.
+[04:24] [Receptionist]: The estate death suit.
+[04:29] [Receptionist]: And so you're saying that you wish to talk with Anita?
+[04:34] [Jermaine Johnson]: That's correct.
+[04:37] [Receptionist]: Stay on the line then.
+[04:41] [Receptionist]: Hello?
+[04:44] [Jermaine Johnson]: Whoa.
+[04:46] [Receptionist]: I'll try that Anita Washington is unavailable at this time. So would you like to leave her a voicemail and she can call you back whenever she's ready?
+[04:55] [Receptionist]: Yes?
+[04:57] [Jermaine Johnson]: So you've now found- you've now found the case?
+[05:01] [Receptionist]: I couldn't find the case. So I was trying to find the case manager. So as I said, she's not available. Do you want to leave her a voice mail?
+[05:14] [Jermaine Johnson]: Sure. Is she in the office today?
+[05:19] [Receptionist]: Alright. It is not the office at this moment. Maybe she is at lunch. Would you like to leave her a voice message?
+[05:29] [Jermaine Johnson]: Sure.
+[05:31] [Receptionist]: What's your name, sir?
+[05:34] [Jermaine Johnson]: What is your name?
+[05:36] [Receptionist]: Angelo.
+[05:38] [Jermaine Johnson]: Thank you, Angelo.
+
+========================================
+TRANSCRIPT END
+========================================

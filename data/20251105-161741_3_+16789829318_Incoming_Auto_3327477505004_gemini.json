@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a payment status for a specific client, but the call experienced significant periods of silence and technical issues, ending before any operational resolution or transfer could be initiated.",
+    "call_duration_seconds": 116.57,
+    "call_duration_formatted": "01:56"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during the call."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided specific policy limit and liability status information for a client to the medical provider, and the call concluded after the caller confirmed they had no further requests.",
+    "call_duration_seconds": 160.85,
+    "call_duration_formatted": "02:40"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist was able to provide the requested information directly."
+  }
+}

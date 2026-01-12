@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Benjamin Sadler / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:06] [Benjamin Sadler]: Uh, yes. Hi. How you doing? My name is Benjamin Sadler. I'm calling to see can I get some information about, uh, my case?
+[00:17] [Receptionist]: Can I have your name again, sir?
+[00:19] [Benjamin Sadler]: Benjamin Sadler. Last name spelled S-A-D-L-E-R.
+[00:27] [Receptionist]: Okay. One second.
+[ ... Silence (12s) ... ]
+[00:41] [Receptionist]: Okay. That would be with Devon. Let me get him for you.
+
+========================================
+TRANSCRIPT END
+========================================

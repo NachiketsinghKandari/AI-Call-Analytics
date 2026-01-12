@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Sebastian / Role: Receptionist at Bane Associates: 5 turns
+  • Speaker 2 / Amy / Role: Representative from Emory Hospital: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bane Associates, this is Sebastian, how may I help you?
+[00:05] [Amy]: Hi, my name is Amy, I'm calling from Emory Hospital. Um, we received your reduction request on a patient, Tawan Bell, and um, we approved it. I was just making sure you received our approval letter and to see if there was any payment status at this time.
+[00:25] [Receptionist]: Alrighty, one second here. That would be with the case manager. Case manager's name is Victoria Morales. She handles that. Um, I can give you her contact info and I can also transfer you over.
+[00:42] [Amy]: All right, great. Ready?
+[00:44] [Receptionist]: Sure. Contact number is 470-615-0710.
+[00:53] [Amy]: All right, yep. And then if you could transfer me, that'd be great. Thank you so much for your help.
+[00:57] [Receptionist]: Perfect. Transferring now. If she doesn't answer for some reason, she's probably on the other line with another client. Um, so you could just leave her a voicemail and she will get back to you as soon as she can, okay?
+[01:13] [Amy]: Okay, sounds great. Thank you so much.
+[01:15] [Receptionist]: You're welcome. Have a good day.
+[01:17] [Amy]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

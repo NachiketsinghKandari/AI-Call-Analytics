@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 15 turns
+  • Speaker 2 / Rhea Fleming / Role: Caller: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how can I help you?
+[00:03] [Rhea Fleming]: Uh hello, this is Ray Fleming at Gallagher Bassett and I'm uh investigating the claim of your client Mita Raha, uh date of accident was twelve five.
+[00:17] [Receptionist]: Can you spell me the last name please, sir?
+[00:20] [Rhea Fleming]: Yeah, it's uh R-A-H-A.
+[00:24] [ ... Silence (9s) ... ]
+[00:33] [Receptionist]: Are you calling from a law office?
+[00:35] [Rhea Fleming]: No, I'm calling from uh Gallagher Bassett, we are a uh third-party administrator handling claims for Ceva Logistics.
+[00:44] [Receptionist]: Okay, you said your name was?
+[00:46] [Rhea Fleming]: It was uh it's Ray, it's a funny spelling, it's R-H-E-A, last name Fleming, F like Frank, L-E-M-I-N-G.
+[00:59] [Receptionist]: Let me try to get the case manager on the line so that she can assist you, okay? Bear with me.
+[01:05] [Rhea Fleming]: Sure.
+[01:07] [Receptionist]: Ray, thank you for holding, the case manager is not available right now, would you like her voicemail?
+[01:12] [Rhea Fleming]: Uh yes, I'd like her uh email too, uh if I can, just to shoot her a message, but yeah.
+[01:18] [Receptionist]: Do you have her email?
+[01:20] [Rhea Fleming]: I don't, if you uh if you could give it to me I'd appreciate it.
+[01:24] [Receptionist]: Yeah, most definitely. Uh so her email would be Stephanie...
+[01:29] [Rhea Fleming]: Okay.
+[01:30] [Receptionist]: ...like S-T-E...
+[01:33] [Rhea Fleming]: Okay.
+[01:34] [Receptionist]: ...P-H-A-N-I-E...
+[01:39] [Rhea Fleming]: Okay.
+[01:40] [Receptionist]: ...at beyandassociates.com and it's Bey as B-E-Y, okay?
+[01:47] [Rhea Fleming]: Okay.
+[01:48] [Receptionist]: Bey and associates with an S at the end dot com.
+[01:53] [Rhea Fleming]: Associates. And is that and A-N-D or is it and the ampersand?
+[02:00] [Receptionist]: A-N-D. Yes sir, yes sir.
+[02:04] [Rhea Fleming]: Dot com. Okay good, uh and Stephanie, alright, and what's her last name? Just so I remember that.
+[02:09] [Receptionist]: It's uh Stephanie Peck, it's P-E-C-K.
+[02:13] [Rhea Fleming]: Okay. Excellent, yeah, uh put me through to her voicemail and uh thank you for your help.
+[02:19] [Receptionist]: Of course, my pleasure. Have a good day.
+[02:22] [Rhea Fleming]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START (ENHANCED)
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Angela - Customer service representative coordinating with case managers (8 turns)
+  • Jeremy Thomas - Claims representative from Travelers Insurance (6 turns)
+
+----------------------------------------
+
+[00:01] [Angela]: This is Angela speaking. How may I help you?
+[00:04] [Jeremy Thomas]: Hi. This is Jeremy Thomas over with Travelers Insurance. How are you doing today, sir?
+[00:09] [Angela]: Yes. Thank you. Thank you so much for asking. What about you?
+[00:13] [Jeremy Thomas]: Not too bad. I was needing to check up on the Siggers family. Deshante Siggers, Danielle Siggers, and the Maya Siggers.
+[00:25] [Angela]: Okay. And what do you want me to check on that?
+[00:27] [Jeremy Thomas]: I'm just checking up on treatment status, sir.
+[00:30] [Angela]: Treatment. So okay. But let's see if the case manager is available. Just to confirm. Let's see.
+[00:43] [Angela]: So it's our minor. Right?
+[00:49] [Jeremy Thomas]: Well, Deshante and Danielle, I don't think, are. They were two r.
+[00:56] [Angela]: Oh, okay. Yes. So let's see. Let's see if the case manager is available. Give me just one minute.
+[01:05] [Jeremy Thomas]: Thank you.
+
+   [ ... Hold / Silence (5s) ... ]
+
+[01:11] [Angela]: Sir, thank you for staying on the line. It looks like that the case manager isn't available at this moment. Would you like to leave her a voice message?
+[01:18] [Jeremy Thomas]: That's fine.
+[01:20] [Angela]: Alright. Let me let me pass you off.
+
+========================================
+TRANSCRIPT END (ENHANCED)
+========================================

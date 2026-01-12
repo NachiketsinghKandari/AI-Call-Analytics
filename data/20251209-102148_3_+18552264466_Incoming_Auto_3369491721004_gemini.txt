@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Crystal Wells / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse. How can I assist you?
+[00:07] [Crystal Wells]: Hi, this is Crystal with Verve Insurance. May I have the person handling the bodily injury claim for Niasia— I'll spell the first name for you. It's N as in Nancy, I, A as in apple, S as in Sam, I, A as in apple. And that last name is Smith.
+[00:24] [Receptionist]: All right, give me one moment.
+[00:27] [Crystal Wells]: Sure.
+[00:28] [ ... Silence (14s) ... ]
+[00:42] [Receptionist]: All right, give me one moment.
+[00:45] [ ... Silence (12s) ... ]
+[00:57] [Receptionist]: All right, I'm still here with you, ma'am. Give me one moment.
+[00:59] [Crystal Wells]: Yes, sure.
+[01:00] [ ... Silence (14s) ... ]
+[01:14] [Receptionist]: Uh, I'm going to tell you, I'm not able to find any information about this client. Um, do you have a phone number, ma'am, for this client?
+[01:23] [Crystal Wells]: No, we don't have anything. The date of loss is June 12th, 2025.
+[01:29] [ ... Silence (20s) ... ]
+[01:49] [Receptionist]: All right, yes, I did find it. Give me one moment. Let me just pull up the contact. Yes. Okay. Um, there is a case manager assigned, ma'am. Um, this is what I can do. Let me reach out to her to see if she's available. Do you want me to place you on a brief hold for one minute?
+[02:06] [Crystal Wells]: Um, before you do that, can I have the name and email address for this person, please?
+[02:12] [Receptionist]: Uh, yes, ma'am. Her name is Victoria, last name Morales.
+[02:19] [Crystal Wells]: Okay, so Victoria, V-I-C-T-O-R-I-A, the last name was Morales, M-O-R-A-L-E-S?
+[02:28] [Receptionist]: Uh, yes, M-O-R-A-L-E-S.
+[02:33] [Crystal Wells]: All right, and the email address for her?
+[02:36] [Receptionist]: Uh, yes, give me one moment. Let me just...
+[02:39] [Crystal Wells]: Yeah, sure.
+[02:41] [Receptionist]: Understood. So the email address— the email address for her would be Victoria, her name, V-I-C-T-O-R-I-A, Victoria, and that would be at Bey and Associates. Bey would be spelled B as in Bravo, E-Y, and, A-N-D, associates with an S dot com.
+[03:05] [Crystal Wells]: Okay, thank you. If you can transfer me, that'd be great. I appreciate your help.
+[03:09] [Receptionist]: Excellent. Uh, I'll see if she's available first. Uh, I'll be right back with you in one minute, ma'am.
+[03:15] [Crystal Wells]: Thank you.
+[03:16] [Receptionist]: Sorry, what was your name again so I can let her know?
+[03:18] [Crystal Wells]: Yeah, sure. It's Crystal Wells.
+[03:21] [Receptionist]: Perfect. I'll be right back with you in one minute, ma'am.
+[03:25] [Crystal Wells]: Okay, thanks.
+
+========================================
+TRANSCRIPT END
+========================================

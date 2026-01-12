@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "Receptionist initiated a transfer to legal counsel after the caller identified themselves as being from State Farm with an offer for a client.",
+    "call_duration_seconds": 31.03,
+    "call_duration_formatted": "00:31"
+  },
+  "transfer_context": {
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist stated she would get the attorney for the caller and the call ended immediately after a brief pleasantry."
+  }
+}

@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kaymie / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Suhas / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kemi speaking.
+[00:04] [Suhas]: Hi, my name is Suhas, and I'm calling from Allstate Insurance. Please be advised this call is being recorded for quality assurance. I'm just following up on a signed release copy of one of our mutual client. The client's name is Luis Solis and Jesse Aguirre.
+[00:23] [ ... Silence (19s) ... ]
+[00:42] [Suhas]: Can you please provide me an update?
+[00:44] [Receptionist]: One second.
+[00:45] [Suhas]: Sure.
+[00:46] [Receptionist]: You want to know the status of the case?
+[00:48] [Suhas]: Uh, status of the release document. The signed release document.
+[00:52] [Receptionist]: Okay.
+[00:53] [ ... Silence (48s) ... ]
+[01:41] [Suhas]: Uh, may I know your name, please?
+[01:43] [Receptionist]: Kemi, K-A-Y-M-I-E.
+[01:47] [Suhas]: Thank you, Kemi.
+[01:48] [Receptionist]: Okay. So I don't see anything here for Mr. Solis. Um...
+[02:05] [Suhas]: So it's not signed, right?
+[02:07] [Receptionist]: Well, I don't see anything, but I'm not the case manager, so, um...
+[02:13] [Suhas]: So can you please transfer the call to case manager, if she's available? I believe Tara is handling this case.
+[02:23] [Receptionist]: Let's see if Tara... All right, I'll go ahead and transfer you to Tara. You have a great rest of your day and happy holidays.
+[02:32] [Suhas]: You too. Happy holiday.
+[02:34] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:08] [Unknown]: Hey, um, is this the New Orleans location?
+[00:13] [Receptionist]: No.
+[00:15] [Unknown]: Excuse me?
+[00:17] [Receptionist]: No, it is not.
+[00:20] [Unknown]: Oh, it's not? Okay. Is there—does the New Orleans location have a direct line?
+[00:25] [Receptionist]: Um, what do you need from that location?
+[00:29] [Unknown]: So, my fiancé is friends with one of the attorneys and I'm trying to throw him a surprise birthday party, um, but I don't know the attorney's—I don't know her phone number. And I didn't want to go through—also through friends of friends.
+[00:42] [Receptionist]: What is the attorney's name?
+[00:45] [Unknown]: Um, Jenny Green, Jennifer Green.
+[00:48] [Receptionist]: Okay. Let me verify if she's available.
+[00:53] [Unknown]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

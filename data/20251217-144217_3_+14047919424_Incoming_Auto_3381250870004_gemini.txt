@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Lionel.
+[00:07] [Unknown]: Hi, can you please um send me or uh connect me with the person in charge of handling reductions?
+[00:15] [Receptionist]: Um, what are you calling from where?
+[00:19] [Unknown]: I'm calling from Equalia. I have a question about a reduction that was sent.
+[00:24] [Receptionist]: Okay. And what is the name of the case?
+[00:28] [Unknown]: It's going to be for Jonathan Montes.
+[00:33] [ ... Silence (16s) ... ]
+[00:49] [Receptionist]: Okay, one moment. The person in charge is not available. Do you want to leave a voicemail?
+[00:55] [Unknown]: Um, it's okay. I'll just send an email. Thank you so much.
+[00:59] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

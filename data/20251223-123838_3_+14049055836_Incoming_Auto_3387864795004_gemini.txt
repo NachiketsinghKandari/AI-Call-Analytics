@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Nadia / Role: Caller from Health in Sync: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help you?
+[00:05] [Nadia]: Hi, good um afternoon, this is Nadia from Health in Sync, I was wondering if you could assist me with providing me the case manager's email or phone number for a mutual client of yours?
+[00:17] [Receptionist]: Sure, what is the name?
+[00:19] [Nadia]: Uh, the name, it's, I'll spell it out for you, it's T-R-E-M-E-E-K-A, last name S-H-A-N-K. Date of accident was September 25th, 2025.
+[00:35] [Receptionist]: Yes. All right, so I'm going to give you the name, I'm going to spell it, it is P-A-Y-G-E. That is her name, Peggy, and then the email is the same, Peggy at B-E-Y-A-N-D-associates dot com. That will be Peggy at Bey and Associates dot com. That is her email.
+[01:04] [Nadia]: Perfect. Thank you so much. That would be all for today.
+[01:08] [Receptionist]: You're more than welcome. Have an excellent rest of your day. Take care.
+[01:12] [Nadia]: You too, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

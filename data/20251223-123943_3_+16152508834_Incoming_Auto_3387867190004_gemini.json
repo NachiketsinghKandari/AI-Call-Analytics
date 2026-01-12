@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist confirmed representation of the client and provided a status update regarding medical records. The caller indicated they had the information needed and the call concluded.",
+    "call_duration_seconds": 64.66,
+    "call_duration_formatted": "01:04"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

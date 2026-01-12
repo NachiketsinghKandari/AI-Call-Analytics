@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bay and Associates Law Firm: 4 turns
+  • Speaker 2 / [Mildred]/ Role: Representative at Team Rehab: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bay and Associates Law Firm. My name is Fatima. How may I assist you today?
+[00:07] [Mildred]: Hey Fatima, this is Mildred with Team Rehab. I'm hoping to speak with Michael.
+[00:13] [Receptionist]: I will see if he is available. Please allow me one moment.
+[00:17] [Mildred]: Mm-hmm.
+[00:18] [Receptionist]: Is this in regards of a specific client?
+[00:22] [Mildred]: Yes, this is about Jamila Gill.
+[00:25] [Receptionist]: Jamila Gill. All right. Thank you. One moment please.
+
+========================================
+TRANSCRIPT END
+========================================

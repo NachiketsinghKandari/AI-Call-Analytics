@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Kenneth Jones / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:06] [Kenneth Jones]: Uh, yes, must speak to, um, I'm, I need to speak to my case worker?
+[00:15] [Receptionist]: Yes, may I have your phone number?
+[00:18] [Kenneth Jones]: You say my phone number?
+[00:20] [Receptionist]: Yes.
+[00:22] [Kenneth Jones]: It's, uh, 404-880-8500.
+[00:30] [Receptionist]: Kenneth Jones?
+[00:32] [Kenneth Jones]: Yes.
+[00:33] [Receptionist]: Give me one moment.
+[00:34] [ ... Silence (5s) ... ]
+[00:39] [Receptionist]: Um, thank you so much for holding. She is not available right now. I will send her an email so that she can get back to you, okay? Hello?
+[00:47] [Kenneth Jones]: Say it again?
+[00:48] [Receptionist]: Yes, sir, she's not available. I will send her an email so that she can get back to you, okay?
+[00:56] [Kenneth Jones]: Yeah, uh, I need to speak with someone else then if that's, if she can't speak, um, I need to speak to my attorney, okay.
+[01:02] [Receptionist]: I'm sorry?
+[01:04] [Kenneth Jones]: I said I need to speak to someone else then if that's, if she can't speak. Um, I need to speak to my attorney, okay.
+[01:14] [Receptionist]: Unfortunately, no one else is available.
+[01:17] [Kenneth Jones]: Huh?
+[01:18] [Receptionist]: No one else is available, my apologies. But I will make sure, um, I'm gonna send...
+[01:25] [Kenneth Jones]: How is there no one, how is there no one available in the whole office, bro?
+[01:32] [Receptionist]: To speak about your specific case, it's just her, basically. She's the one who knows...
+[01:41] [Kenneth Jones]: I need to speak with somebody about my case. Period. So I need to speak, I don't know if it's the secretary, but I need to speak with somebody ASAP.
+
+========================================
+TRANSCRIPT END
+========================================

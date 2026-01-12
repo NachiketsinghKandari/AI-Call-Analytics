@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Perina / Role: Receptionist at Bey and Associates: 16 turns
+  • Speaker 2 / Renee / Role: Caller: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Perina, how can I help you?
+[00:05] [Renee]: Good afternoon. My name is Renee. I'm calling from Ika Orthopedics. I'm calling to follow up on a status for an older case. Can you assist me?
+[00:16] [Receptionist]: Can I have the client's name, please?
+[00:19] [Renee]: The client's last name is Cade, C-A-D-E, and the first name is Rodriguez. Rodriguez Cade, C-A-D-E.
+[00:30] [Receptionist]: Rodriguez.
+[00:32] [ ... Silence (6s) ... ]
+[00:38] [Receptionist]: Is this the same case for Ahmad Cade?
+[00:43] [Renee]: Um, let's see. Is Ahmad on there? No, I don't see Ahmad on this particular chart here. Just Rodriguez Cade, R-O-D-R-I-G-U-E-Z C-A-D-E.
+[00:58] [ ... Silence (11s) ... ]
+[01:09] [Receptionist]: Because I don't have a Rodriguez Cade. I have an Ahmad Cade. I don't know if they'd be the same.
+[01:18] [Renee]: No, it's not the same. It's Rodriguez Cade. 2014. Yeah, it's an older— let me give you the date of birth or something because you guys have it.
+[01:31] [Receptionist]: The date of birth for him? What is the date of birth?
+[01:35] [Renee]: The date of birth is 11/7/1989.
+[01:42] [Receptionist]: 11/7/89. Well, I'm not showing any Rodriguez Cade.
+[01:49] [Renee]: This is an older case going back to 2019. I just spoke to someone on the 4th, December the 4th.
+[01:59] [Receptionist]: Okay, give me one moment. Let me look somewhere else here. If it's an old one, let me look...
+[02:06] [Renee]: Attorney Taylor Middleton. They provided me with Attorney Taylor Middleton. Do you have Attorney Taylor Middleton?
+[02:13] [Receptionist]: Yes, yes. Taylor.
+[02:16] [Renee]: Taylor Middleton. That's who I might need to speak to.
+[02:19] [Receptionist]: Give me a second.
+[02:21] [ ... Silence (14s) ... ]
+[02:35] [Receptionist]: Okay, I do see the Rodriguez Cade case, uh, but this has been closed out.
+[02:42] [Renee]: Yeah, but we— they said that, uh, we should have received a check, but we did not receive a check from him, for him. Ika Orthopedics was never paid. I need to speak to someone who can reissue the payment or something.
+[03:00] [ ... Silence (17s) ... ]
+[03:17] [Receptionist]: I do see a lot of Rodriguez Cade. I don't know if they're related, uh, related.
+[03:24] [Renee]: Oh, well, just this one here. Cade, Rodriguez Cade.
+[03:34] [Receptionist]: All right, uh, give me one moment so I can get some information for you. One second.
+[03:41] [Renee]: Are you going to switch me with Taylor Middleton?
+[03:44] [Receptionist]: I cannot get her because she's not available today, but I can try to get the, uh, case manager so she can assist, okay?
+[03:51] [Renee]: What was your first name?
+[03:53] [Receptionist]: My name is Perina.
+[03:55] [Renee]: Perina. Please don't drop the hold.
+[03:57] [Receptionist]: Yes.
+
+========================================
+TRANSCRIPT END
+========================================

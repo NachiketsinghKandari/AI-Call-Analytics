@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": true,
+    "final_outcome": "The receptionist checked the firm's records and confirmed that they do not represent Lamir Jones, but do represent Nakia Barnes and Jamari Lovett.",
+    "call_duration_seconds": 193.39,
+    "call_duration_formatted": "03:13"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist provided the requested information directly."
+  }
+}

@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Mary / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Harvey / Role: Caller from Medcare Recovery Solutions: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Mary, how can I help you?
+[00:04] [Harvey]: Hi, this is Harvey from Medcare Recovery Solutions. I uh, I just started... I needed to talk to someone from your accounting team. I need to reiterate something regarding the payments that we collect from providers on your behalf.
+[00:22] [Receptionist]: Uh, can I have the client's name?
+[00:25] [Harvey]: Well, actually we have been settling a few cases with you, so I just want to reiterate something that the payments should be sent to our lockbox rather than waiting for someone to collect the checks from your office.
+[00:42] [Receptionist]: Okay, let me hold on one moment.
+[00:45] [ ... Silence (35s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

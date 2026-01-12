@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Benson & Associates: 3 turns
+  • Speaker 2 / [Jessica] / Role: Representative at State Farm: 2 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (5s) ... ]
+[00:05] [Receptionist]: Benson & Associates.
+[00:07] [Jessica]: Hey, this is Jessica calling from State Farm. I was calling in reference to a, uh, I believe it's Cartesia Booker for an incident on October 6th, 2025.
+[00:17] [Receptionist]: Okay, hold on, let me see who the case manager is. Uh, okay. That is Tiana, so if you give me a moment, let me try to transfer you.
+[00:27] [Jessica]: Okay, perfect. Thank you.
+[00:28] [Receptionist]: Mm-hmm.
+[00:29] [ ... Silence (11s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

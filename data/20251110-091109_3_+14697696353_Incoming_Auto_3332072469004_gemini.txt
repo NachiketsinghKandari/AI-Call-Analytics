@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Spain and Associates: 6 turns
+  • Speaker 2 / [Crystal] / Role: Representative at Life Science Healthcare: 6 turns
+  • Speaker 3 / [Vernon Wooten] / Role: Patient: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Spain and Associates, how may I help you?
+[00:04] [Crystal]: Hi, this is Crystal from Life Science Healthcare. I'm calling you for a mutual patient of ours.
+[00:11] [Receptionist]: Sure, what's the patient or client name?
+[00:13] [Crystal]: It's Vernon Wooten.
+[00:15] [Receptionist]: Uh, what's the date of loss?
+[00:18] [Crystal]: The date of loss is 9/21/2023.
+[00:25] [Receptionist]: Yep, that case is in active litigation.
+[00:28] [Crystal]: Okay. Okay, give me one second, I'm sorry. I have the patient in front of me and he's saying that the case is in- I know that you said the case is in litigation, but he was advised by um his attorney to come in to get um more treatment since he's still in pain.
+[00:49] [Receptionist]: Okay, well let me get- let me get you over to uh to his uh team member. One moment, okay?
+[00:55] [Crystal]: Okay, thank you.
+[00:58] [Receptionist]: Yep.
+[01:00] [Crystal]: He's listening to me talk to you. Do you know your case manager or your attorney's name?
+[01:06] [Vernon Wooten]: Taylor Miller.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,48 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Devin / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 17 turns
+  • Speaker 2 / Role: Caller: 17 turns
+
+----------------------------------------
+
+[00:00] [Devin]: Bain and Associates Law Firm, Devin speaking.
+[00:06] [Speaker 2]: Good morning, may I please speak with Brian?
+[00:12] [Devin]: Sure, let me see. Brian. [ ... Silence (8s) ... ] In regards to a case, ma'am?
+[00:24] [Speaker 2]: Yes, the client is, your client is Eddie Brown.
+[01:03] [Devin]: [ ... Silence (33s) ... ] Do you mind spelling that last name for me, please?
+[01:08] [Speaker 2]: Brown, like the color.
+[01:12] [Devin]: Oh, okay. Not with the E, right?
+[01:17] [Speaker 2]: No.
+[01:32] [Devin]: [ ... Silence (13s) ... ] Let me see if Brian is available.
+[01:35] [Speaker 2]: Thank you.
+[01:37] [Devin]: You're welcome. [ ... Silence (5s) ... ] Thank you so much for patiently holding. Unfortunately, he is not available. Um, maybe I can get a message out to him?
+[01:53] [Speaker 2]: I'm just calling for a status of the case. Um, if I can get a call back with the case status for Mr. Brown's Emory University bill? [ ... Silence (19s) ... ] The last time I spoke with him was back in June. He did state the case was in litigation. I'm just calling to get an update.
+[02:43] [Devin]: [ ... Silence (13s) ... ] I'll try to get the status for you, see what's going on.
+[02:46] [Speaker 2]: Okay.
+[02:48] [Devin]: Make sure I have the correct file here.
+[02:57] [Speaker 2]: And just so that I can document, may I have your name, please, as to who I'm speaking with?
+[03:02] [Devin]: Yes, my name is Devin, D-E-V-I-N.
+[03:05] [Speaker 2]: Thank you, and you did provide that, I apologize.
+[03:10] [Devin]: No, no, no, you're good, you're good. I'm sorry, I'm just a little under the weather. Um, just to make sure I have the correct file here for the status purposes here, can you provide, spell the first name for me?
+[03:18] [Speaker 2]: Um, the patient's first name? Or the client? The patient's, yeah. E-D-D-I-E.
+[03:26] [Devin]: I see two, I don't want to try to get the wrong one. So, that one seems to be in discovery at this moment.
+[03:50] [Speaker 2]: Okay.
+[03:52] [Devin]: And let me see if they have anyone else working on this one. We have Nicholas Obata working on this now for Brian.
+[03:59] [Speaker 2]: Okay, Nicholas...
+[04:02] [Devin]: Obata. O-B-A-T-A. [ ... Silence (12s) ... ] So that's in litigation discovery at this moment. Um, if you'd like, I can get you over to Nicholas, okay?
+[04:27] [Speaker 2]: Um, well, I mean, you've given me the status, that's all I needed.
+[04:34] [Devin]: Oh, okay. Alrighty. If you wanted to speak with him, I was just asking.
+[04:40] [Speaker 2]: Alright, so when I, if I do call back, then I would ask for Nicholas versus Brian, is that correct?
+[04:47] [Devin]: Yes, ma'am. Yes, ma'am.
+[04:50] [Speaker 2]: Alright, well, I thank you so much for providing me with the information, Devin, and I hope you have a great weekend.
+[04:56] [Devin]: You too, you as well. Thank you so much for calling. Have a great one.
+[05:02] [Speaker 2]: Thank you, you too. Bye-bye.
+[05:04] [Devin]: Bye-bye.
+[05:06] [Speaker 2]: Alright, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

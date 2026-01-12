@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Kim / Role: Caller from Mercury Insurance: 8 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:06] [Kim]: Hi, my name is Kim, I'm calling from Mercury Insurance. How are you?
+[00:09] [Receptionist]: I'm doing well, thanks for asking. How can I help?
+[00:12] [Kim]: I'm calling, uh, regarding our insured, your client Lisa Hankins, and I'm just following up for the executed release. Or releases. Mm-hmm.
+[00:23] [Receptionist]: All right, one second. That would be... okay, I think we have two for her. What would be the date of loss?
+[00:30] [Kim]: It is 2/12/25.
+[00:33] [Receptionist]: Okay, that would be with Tiana Evans. Okay, and you said that you were calling from Allstate?
+[00:43] [Kim]: Uh, actually Mercury. We're the underinsured carrier.
+[00:47] [Receptionist]: Oh, okay, Mercury. I'm sorry.
+[00:49] [Kim]: That's okay.
+[00:51] [Receptionist]: All right, one second. Um, seems like Tiana is away from her desk right now. Would you like to leave her a voicemail?
+[00:59] [Kim]: Yes, thank you.
+[01:01] [Receptionist]: You're welcome. I did send her a direct message also. Um, I'm not sure if you want to leave your direct number or you could just leave it on the voicemail, so I'm sure she'll check it once she reads the message.
+[01:12] [Kim]: Yeah, I can leave it on the voicemail. Thank you.
+[01:15] [Receptionist]: You're welcome. Have a great rest of your day. Bye-bye.
+[01:18] [Kim]: Thanks, you too.
+
+========================================
+TRANSCRIPT END
+========================================

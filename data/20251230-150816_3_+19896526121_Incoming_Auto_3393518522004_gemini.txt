@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Tim Hayden / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, how can I help you?
+[00:04] [Tim Hayden]: Yeah, hi, uh, this is Tim Hayden calling from Frankenmuth Insurance, and uh, I have not heard from you guys in a while or they've not— it's an old claim and I didn't know if you were still, uh, representing a client.
+[00:18] [Receptionist]: Okay, and what is the client's name?
+[00:21] [Tim Hayden]: Courtney Threat, T-H-R-E-A-T-S.
+[00:28] [ ... Silence (13s) ... ]
+[00:41] [Receptionist]: Okay, uh, we did represent Courtney back in, uh, 2024.
+[00:43] [Tim Hayden]: Mm-hmm.
+[00:44] [Receptionist]: But this has been already closed, so there's no active case.
+[00:47] [Tim Hayden]: Okay, sounds good. Thank you.
+[00:50] [Receptionist]: You're welcome. Bye-bye.
+[00:52] [Tim Hayden]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

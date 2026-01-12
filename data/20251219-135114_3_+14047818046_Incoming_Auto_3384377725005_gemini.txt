@@ -1,0 +1,51 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 18 turns
+  • Speaker 2 / Michael Dasher / Role: Caller: 17 turns
+
+----------------------------------------
+
+[00:01] [Receptionist]: Hello, Bey and Associates, how can I help you?
+[00:06] [Michael Dasher]: Hello?
+[00:08] [Receptionist]: Yes, hello, how can I help you?
+[00:11] [Michael Dasher]: You sound kind of low.
+[00:16] [Receptionist]: Oh, sorry. Can you hear me okay now?
+[00:19] [Michael Dasher]: Yes.
+[00:20] [Receptionist]: How may I help you?
+[00:23] [Michael Dasher]: Uh, is uh Stephanie in?
+[00:26] [Receptionist]: Stephanie? Okay. Are you a client?
+[00:31] [Michael Dasher]: Yes.
+[00:33] [Receptionist]: All right. One minute. Can I have your name?
+[00:40] [Michael Dasher]: Michael Dasher.
+[00:46] [Receptionist]: Can I have the date of birth?
+[00:50] [Michael Dasher]: Uh, April 20th, 1988.
+[00:56] [Receptionist]: Okay. And would you like to talk with Stephanie?
+[01:01] [Michael Dasher]: Yes, Stephanie.
+[01:03] [Receptionist]: Hmm, but it looks like that your case manager is gonna be Stella.
+[01:07] [Michael Dasher]: I have two cases. I have two cases.
+[01:11] [Receptionist]: Two cases from the same day or the same month?
+[01:16] [Michael Dasher]: No.
+[01:18] [Receptionist]: Okay. Stay on the line.
+[01:21] [Michael Dasher]: Okay.
+[01:22] [ ... Silence (7s) ... ]
+[01:29] [Receptionist]: Thank you for staying on the line. It looks like that Stephanie is unavailable. Would you like to leave her a voicemail?
+[01:36] [Michael Dasher]: A voi— wait, say it again?
+[01:38] [Receptionist]: She's not available. Would you like to leave her a voicemail?
+[01:42] [Michael Dasher]: Oh, she not available. Uh, do you know anybody else that's on that case? It's a Progressive.
+[01:50] [Receptionist]: Hmm, she's the like case manager. She's the only one who can give out all the information. As I said, you can leave her a voicemail message and she can call you back later on.
+[01:58] [Michael Dasher]: What about uh Jonathan Steel?
+[02:02] [Receptionist]: Hmm, he's the attorney. Let me see if he's at the office at this moment. The attorney. Stand by.
+[02:10] [Michael Dasher]: Okay.
+[02:11] [ ... Silence (5s) ... ]
+[02:16] [Receptionist]: Sir, he didn't answer neither.
+[02:19] [Michael Dasher]: Okay. All right. Thank you.
+[02:22] [Receptionist]: You're more than welcome. Anything else or that's all?
+[02:26] [Michael Dasher]: That's it for me.
+[02:28] [Receptionist]: Okay. Have a good one.
+
+========================================
+TRANSCRIPT END
+========================================

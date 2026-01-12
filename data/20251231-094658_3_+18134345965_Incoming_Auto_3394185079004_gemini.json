@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist offered to take a message for a callback, which the caller accepted.",
+    "call_duration_seconds": 37.87,
+    "call_duration_formatted": "00:37"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

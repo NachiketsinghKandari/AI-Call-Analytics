@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Marcus Sparks / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, how can I help you?
+[00:06] [Marcus Sparks]: Uh, who am I speaking with?
+[00:08] [Receptionist]: Karina.
+[00:11] [Marcus Sparks]: Uh, yes ma'am. Uh, my name is Marcus Sparks. Uh, I'm trying to reach, uh, Paige, which is the case manager, or the lawyer, Jonathan Steel.
+[00:25] [Receptionist]: Jonathan is the lawyer. Yes, sir. Uh, Paige is the case manager, which she is the point of contact for you.
+[00:32] [Marcus Sparks]: She is what?
+[00:33] [Receptionist]: Your lawyer might be a mess— your point of contact. Okay, let me— let me try to get a hold of Paige, alright? Bear with me.
+[00:42] [Marcus Sparks]: Okay.
+[00:44] [Receptionist]: I'm sorry, thank you. Paige is not in today. Would you like her voicemail so she can call you back tomorrow?
+[00:51] [Marcus Sparks]: I— I've left a message already. The lawyer also called me. The lawyer also called me also, but, uh, I returned his call and left a message, so he's not returning my call.
+[01:11] [Receptionist]: I will— I will send a message to her so that she can call you first thing in the morning.
+[01:16] [Marcus Sparks]: Okay, thank you.
+[01:17] [Receptionist]: You're welcome. Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

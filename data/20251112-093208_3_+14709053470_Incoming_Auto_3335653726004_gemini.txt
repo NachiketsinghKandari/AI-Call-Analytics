@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Gabe / Role: Receptionist at Bain and Associates: 4 turns
+  • Speaker 2 / Angie / Role: Caller from Merrick Medical: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Gabe speaking.
+[00:03] [Angie]: Hi, good morning. My name is Angie calling with Merrick Medical. I'm calling to see if I can speak with the case manager for client Alexis Zimmerman.
+[ ... Silence (7s) ... ]
+[00:21] [Receptionist]: Hey, Zimmerman. You said you were calling from where?
+[00:23] [Angie]: Merrick Medical.
+[00:25] [Receptionist]: Merrick Medical. One second, let me page for you. Oh, she is on another call right now. Would you like her direct number?
+[00:33] [Angie]: Uh, yes. I can leave a- well, can I leave a voicemail?
+[00:38] [Receptionist]: Yeah, sure. I can send you over. You have a great rest of your day.
+[00:43] [Angie]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

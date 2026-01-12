@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided a direct phone number for the case manager and initiated a transfer to check her availability before the call ended.",
+    "call_duration_seconds": 104.69,
+    "call_duration_formatted": "01:44"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated she would check if the case manager was in and the call ended immediately afterward."
+  }
+}

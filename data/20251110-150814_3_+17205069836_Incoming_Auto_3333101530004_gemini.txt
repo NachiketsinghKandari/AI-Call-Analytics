@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 12 turns
+  • Speaker 2 / [Amanda] / Role: Caller from Proof Technology: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devin speaking.
+[00:03] [Amanda]: Hi, this is Amanda calling from Proof. How are you today?
+[00:08] [Receptionist]: I'm doing great, ma'am. How about yourself?
+[00:12] [Amanda]: I'm doing well. I was calling today in regards to some overdue invoices. I was hoping to reach somebody that could assist me with those.
+[00:23] [Receptionist]: Okay. I can definitely assist you.
+[00:28] [Amanda]: Perfect. Thank you.
+[00:32] [Receptionist]: Some overdue invoices, okay.
+[00:38] [Amanda]: I've been emailing the contact I have over there and I just haven't received any responses. So I was calling to check status and see if there's a better email that I should be reaching out to for billing inquiries.
+[00:53] [ ... Silence (5s) ... ]
+[00:58] [Receptionist]: Hmm. Okay. What's the name of the client, ma'am? That way I can take a look into it.
+[01:01] [Amanda]: Um, I- I'm calling from Proof Technology. I don't have like a specific client. We do process serves for you guys, so it's on several different cases.
+[01:13] [Receptionist]: Okay. And who have you been emailing?
+[01:16] [Amanda]: Um, so the contact that I have, her name is Brittany. Brittany Lawson.
+[01:24] [Receptionist]: Yes, she is our office manager. Okay. Um, you're calling regarding pending invoices. Pending invoices, okay.
+[01:35] [Amanda]: Yes, yes. And these are for invoices dated, uh, to August and September that I was checking on.
+[01:37] [ ... Silence (28s) ... ]
+[02:05] [Receptionist]: Let me go ahead and connect you over to Brittany. Now, let me just make sure I have my notes here correct. And you said you were calling from...
+[02:13] [Amanda]: From Proof, P-R-O-O-F.
+[02:17] [Receptionist]: I'm sorry, your call was breaking up. I couldn't hear you.
+[02:20] [Amanda]: No problem. I'm calling from Proof, P-R-O-O-F.
+[02:25] [ ... Silence (16s) ... ]
+[02:41] [Receptionist]: From Proof.
+[02:43] [Amanda]: Correct.
+[02:47] [Receptionist]: Okay. Let me see if she's available, okay?
+[02:50] [Amanda]: All right. Thank you.
+[02:53] [Receptionist]: You're welcome.
+[02:55] [ ... Silence (11s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

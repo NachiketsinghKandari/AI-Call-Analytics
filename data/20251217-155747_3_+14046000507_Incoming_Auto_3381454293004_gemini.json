@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the attorney handling the case and initiated a transfer to him after the caller requested to speak with him.",
+    "call_duration_seconds": 76.82,
+    "call_duration_formatted": "01:16"
+  },
+  "transfer_context": {
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated she would transfer the caller to the attorney and the call ended immediately after a brief pleasantry."
+  }
+}

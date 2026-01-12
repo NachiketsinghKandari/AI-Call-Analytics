@@ -1,0 +1,59 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 18 turns
+  • Speaker 2 / Evelyn Golin / Role: Caller: 19 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:07] [Evelyn Golin]: Hi Daniel, this is Evelyn Golin from Dominguez Carpankey. How are you today?
+[00:12] [Receptionist]: Fine, what about you?
+[00:14] [Evelyn Golin]: Yes, uh, good. I was calling regarding a patient with the name Kevin, K-E-V-I-N, and last name is, is, uh, S as in zebra, A-R, give me one sec, I have something, S as in zebra, D as in dog, I-E-S.
+[00:42] [Receptionist]: You said C-A-R-D-I-S?
+[00:47] [Evelyn Golin]: Yes, correct.
+[00:50] [ ... Silence (9s) ... ]
+[00:59] [Receptionist]: Date of loss?
+[01:02] [Evelyn Golin]: Give me one second, that is November 25th.
+[01:06] [Receptionist]: Yes.
+[01:07] [ ... Silence (6s) ... ]
+[01:13] [Evelyn Golin]: Hello?
+[01:14] [Receptionist]: Yes, how can I help you?
+[01:18] [Evelyn Golin]: Yes, we would like to know if you have policy limit for this case?
+[01:22] [Receptionist]: I'm sorry?
+[01:24] [Evelyn Golin]: We would like to know if you have the policy limit?
+[01:28] [ ... Silence (5s) ... ]
+[01:33] [Receptionist]: 100, 300.
+[01:35] [Evelyn Golin]: 100, 300.
+[01:37] [ ... Silence (10s) ... ]
+[01:47] [Receptionist]: Okay?
+[01:48] [Evelyn Golin]: Sorry, I have another case, I don't know if you can help me with that. Uh, they are four people in the same case and the name is, uh, Bernard, B as in boy, E-R-N-A-R...
+[02:01] [Receptionist]: I'm sorry, there is no need to spell it. Bernard what?
+[02:04] [Evelyn Golin]: Yes. So do you have information about this one as well?
+[02:08] [Receptionist]: What was the last name?
+[02:10] [Evelyn Golin]: Uh, last name is V as in Victor, A-U-G-H-N.
+[02:15] [ ... Silence (8s) ... ]
+[02:23] [Receptionist]: What do you need from this case?
+[02:25] [Evelyn Golin]: The same like the information about the case, policy limit.
+[02:29] [ ... Silence (5s) ... ]
+[02:34] [Receptionist]: 50, 100.
+[02:36] [Evelyn Golin]: 50, 100.
+[02:38] [ ... Silence (5s) ... ]
+[02:43] [Evelyn Golin]: Okay, so I have one more and that's the last one. Thank you for helping me with that. So the another one is, uh, that's the four people, let me see, that's the same one. Could you confirm the Bernard date of accident, and that's November 13th that we have on the file?
+[03:01] [Receptionist]: Yes.
+[03:02] [Evelyn Golin]: Yes? Okay, so the another case is, uh, Deshonta, that is D as in dog, E-S-H-O-N-T-A.
+[03:13] [Receptionist]: Last name?
+[03:14] [Evelyn Golin]: Yes, last name is S-I-G-E-R-S.
+[03:18] [ ... Silence (10s) ... ]
+[03:28] [Receptionist]: 25, 50.
+[03:29] [Evelyn Golin]: Okay, thank you, I appreciate it.
+[03:33] [Receptionist]: Okay.
+[03:34] [Evelyn Golin]: Have a good day.
+[03:35] [Receptionist]: You too.
+[03:36] [Evelyn Golin]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

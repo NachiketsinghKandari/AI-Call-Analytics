@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the staff member handling the cases for Jessica Jones and Dominique Lester, provided her direct phone number, and initiated a transfer before the call concluded.",
+    "call_duration_seconds": 52.27,
+    "call_duration_formatted": "00:52"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist identified the assigned staff member, provided a direct dial number, and stated she would transfer the caller before the call ended."
+  }
+}

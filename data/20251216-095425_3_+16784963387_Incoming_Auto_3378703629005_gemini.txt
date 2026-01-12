@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Renee / Role: Caller from ICO Orthopedics: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:06] [Renee]: Hi, good morning. Lionel, this is Renee from ICO Orthopedics. I had called, I'm sorry the phone had disconnected on me. Hey Lionel, um, I just have, um, three of these that need updates. I'm, I'm sorry, but you know, I have to call to get the update.
+[00:25] [Receptionist]: What is the name?
+[00:28] [Renee]: The last name is Ellie, E-L-I-E, and the first name is Tina, T-I-N-A. How's your day going, Lionel?
+[00:38] [Receptionist]: Fine, what about you?
+[00:41] [Renee]: It's going okay. I'm sorry that I have to call you about these updates, I'm sorry.
+[ ... Silence (22s) ... ]
+[01:10] [Renee]: And she's treating with a Bernard Ellie, E-L-I-E.
+[01:11] [Receptionist]: So the check was sent on October, um, I'm sorry, August 14th, based on what I see here.
+[01:18] [Renee]: August the 13th?
+[01:20] [Receptionist]: 14th, August.
+[01:24] [Renee]: What about for, um, Bernard Ellie? Do you see him there also?
+[ ... Silence (26s) ... ]
+[01:55] [Receptionist]: No, for that one, we are still working on the reductions.
+[02:03] [Renee]: Okay. And the last one is going to be Martin is the last name, M-A-R-T-I-N, and the first name is going to be Shae, S-H-A-H, Shae Martin.
+[02:23] [Receptionist]: Date of loss?
+[02:25] [Renee]: 8/30/24.
+[ ... Silence (12s) ... ]
+[02:41] [Receptionist]: It was sent on November 25th, 25th.
+[02:51] [Renee]: Who's the case manager? Is it Victoria Morales?
+[02:55] [Receptionist]: Yes.
+[02:58] [Renee]: Okay, good. Thank you so much. I appreciate it. Bye now.
+[03:02] [Receptionist]: Okay, thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

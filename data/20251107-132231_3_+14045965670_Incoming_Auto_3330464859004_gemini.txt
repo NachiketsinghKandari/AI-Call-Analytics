@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: [Receptionist] at The Law Firm: 5 turns
+  • Speaker 2 / Roei / Role: Caller from Georgia's Spine and Orthopedics: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: It's Law Firm, my name is Fatima, how may I assist you today?
+[00:04] [Roei]: Hi, yes, this is Roei, I'm calling from Georgia's Spine and Orthopedics, uh, to speak to Kevin Ashley's representative, Paige Allman.
+[00:16] [Receptionist]: Paige Allman. What is— I'm sorry, what was the client's name? Ashley— Kevin Ashley?
+[00:21] [Roei]: Kevin Ashley.
+[00:22] [Receptionist]: Bear with me one moment, I'll see if she's not in lunch, okay? One moment.
+[00:26] [Roei]: Thank you.
+[00:28] [Receptionist]: Thank you so much for the waiting time. So Ms. Paige is currently on another call. Um, would you like her information to give her a call back or would you like for me to transfer you to her voicemail so you can leave a message for her?
+[00:42] [Roei]: Um, I don't mind leaving her a voicemail, that's fine.
+[00:44] [Receptionist]: All right, thank you, one moment.
+
+========================================
+TRANSCRIPT END
+========================================

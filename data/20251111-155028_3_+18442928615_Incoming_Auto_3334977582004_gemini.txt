@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Dinel / Role: Receptionist at Ben Crump Law: 4 turns
+  • Michelle Vickery / Role: Claims Representative at State Farm: 3 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Ben Crump Law, this is Dinel.
+[00:07] [Michelle Vickery]: Hey, this is Michelle Vickery with State Farm Claims, calling to speak to Matt McCarron.
+[00:13] [Receptionist]: Um, for which case?
+[00:16] [Michelle Vickery]: Um, Mamadou, M-A-M-A-D-O-U, last name Diallo, D-I-A-L-L-O.
+[00:24] [Receptionist]: One moment. Um, are you looking for the case manager?
+[00:32] [Michelle Vickery]: Um, it- it says if I have any questions to feel free to call his legal assistant Matt.
+[00:41] [Receptionist]: Yeah, but he's not the case manager, then uh, the case manager is Stephanie. So one moment.
+
+========================================
+TRANSCRIPT END
+========================================

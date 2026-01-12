@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Mauricio / Role: Caller from Health and Sync: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:08] [Mauricio]: Uh, good morning. This is Mauricio from Health and Sync. I, I am just trying to speak to the case manager for a mutual client or get an update on their case. Is that something you can help me with?
+[00:24] [Receptionist]: What is the name?
+[00:27] [Mauricio]: Jerry Mann.
+[00:35] [Receptionist]: Sorry?
+[00:38] [Mauricio]: Um, I can spell that for you. So that's spelled J-E-R-E-E, last name M-A-N...
+[00:52] [Receptionist]: Sorry, what is the date of loss?
+[00:57] [Mauricio]: What was that again?
+[00:59] [Receptionist]: Date of loss.
+[01:03] [Mauricio]: September 15th, 2025.
+[01:08] [Receptionist]: So that client is still treating. That is the only update we can provide.
+[01:17] [Mauricio]: Sounds good.
+[01:21] [Receptionist]: Okay. Is there anything else?
+[01:24] [Mauricio]: That should be all.
+[01:26] [Receptionist]: Okay. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

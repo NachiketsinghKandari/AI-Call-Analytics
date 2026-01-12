@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Andrea / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:06] [Andrea]: Hello, may I speak with Edina Miller, please?
+[00:10] [Receptionist]: Uh, do you have a case with us?
+[00:14] [Andrea]: Um, this is Andrea and I am calling from Kaiser Permanente in Atlanta, and I was calling because, um, she had secured a third-party deposition for one of our clinicians. However, the additional requested information, um, that I need, um, has not been submitted, and I was reaching out to follow up with her.
+[00:38] [Receptionist]: Mhm. Can I have the client's name?
+[00:41] [Andrea]: Jonetta Corley.
+[00:45] [Receptionist]: Okay.
+[00:46] [ ... Silence (17s) ... ]
+[01:03] [Receptionist]: Let me go ahead and place you on a brief hold, okay? Bear with me.
+[01:07] [Andrea]: Thank you.
+[01:08] [ ... Silence (5s) ... ]
+[01:13] [Receptionist]: Thank you so much for patiently waiting. The case manager is not available right now. Can I get you to her voicemail?
+[01:21] [Andrea]: Yes.
+[01:23] [Receptionist]: All right, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 6 turns
+  • Speaker 2 / [Matthew Northrop] / Role: Geico Claims Representative: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, how can I help you?
+[00:03] [Matthew Northrop]: Hi, my name is Matthew Northrop calling from Geico Claims. I do need to advise that this call may be monitored and recorded. How are you doing today?
+[00:12] [Receptionist]: I'm fine. How can I help you?
+[00:14] [Matthew Northrop]: I'm doing good. I, uh, I got a claim here for a Shantisa Brown. I also have a demand on the file here. I was wanting to, uh, to discuss this with the attorney if he or she is available.
+[00:24] [Receptionist]: One moment.
+[00:26] [ ... Silence (6s) ... ]
+[00:32] [Receptionist]: Looks like Jonathan Steel is the attorney. Uh, would you like his email in case he's not available?
+[00:42] [Matthew Northrop]: Uh, no, that should be fine. I, uh, I feel like this should probably be done, a conversation would be, make this a little bit faster.
+[00:49] [Receptionist]: All right, let me see if he's available. One sec.
+[00:53] [Matthew Northrop]: Thank you.
+[00:55] [Receptionist]: Yeah, no worries.
+
+========================================
+TRANSCRIPT END
+========================================

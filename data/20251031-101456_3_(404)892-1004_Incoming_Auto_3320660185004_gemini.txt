@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jamie / Role: [Receptionist] at Bain and Associates: 7 turns
+  • Speaker 2 / Natasha / Role: Representative from Georgia Injury Centers: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Jamie speaking.
+[00:04] [Natasha]: Good morning. This is Natasha calling from Georgia Injury Centers. I was hoping to speak to either a case manager or attorney for Jessica Jones and Dominique Lester.
+[00:17] [Receptionist]: Okay, one second.
+[00:22] [Natasha]: Sure.
+[00:23] [Receptionist]: You said Lester?
+[00:25] [Natasha]: Yes, Dominique Lester and Jessica Jones.
+[00:29] [Receptionist]: That would be Victoria Morales. Let me get you over to her.
+[00:37] [Receptionist]: You have a great rest of your day. Would you like her direct number?
+[00:42] [Natasha]: Yes, please.
+[00:43] [Receptionist]: It's 470-615-0710.
+[00:49] [Natasha]: Thank you.
+[00:51] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Philip / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm, my name is Fatima, how may I assist you today?
+[00:08] [Philip]: Hi, I was actually calling for John Bey, is he available?
+[00:11] [Receptionist]: Um, may I please ask who's calling?
+[00:14] [Philip]: Yeah, this is Philip.
+[00:16] [Receptionist]: Allow me one moment, please. Hey Philip, thank you so much for the waiting time. So I'm unable to directly transfer you to Mr. John Bey, I can only transfer you directly to his personal assistant Dante, but he already left for the day, but would you like to leave a message for him?
+[00:35] [Philip]: Um, yeah, I can do that.
+[00:38] [Receptionist]: All right, one moment please.
+
+========================================
+TRANSCRIPT END
+========================================

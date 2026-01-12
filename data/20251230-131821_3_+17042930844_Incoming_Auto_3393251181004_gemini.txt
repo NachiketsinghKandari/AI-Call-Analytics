@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Bert Carrington / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hi, Bey and Associates, my name is Jesse, how can I assist you?
+[00:08] [Bert Carrington]: Yes, I was trying to reach uh Carrie who is my case manager on my case and I've tried her for a couple of days and I'm not getting her. Wanted to see if I could talk to someone else in your Atlanta office.
+[00:19] [Receptionist]: Understood, let me help you with this sir. Uh can you provide me your name so I can search for your information?
+[00:24] [Bert Carrington]: Sure, Bert B-E-R-T, Carrington C-A-R-R-I-N-G-T-O-N.
+[00:30] [Receptionist]: The date of the incident was May the 7th of 2022?
+[00:37] [Bert Carrington]: Uh could have been it I think it was July but uh July the 5th of 2022?
+[00:44] [Receptionist]: July the 5th of 2022?
+[00:46] [Bert Carrington]: Yes.
+[00:47] [Receptionist]: Understood. All right, perfect. Um, okay. Yes sir, I am seeing here that Carrie is your case manager. So let me see if let me see first if she's available, if not I'll try to see if the attorney assigned to your case is available. I'm seeing here that his case his name is Nicholas. Uh let me try to reach out to them.
+[01:09] [Bert Carrington]: Yeah well let me just tell you what the issue is. We're we're done with the case, right? We're I'm just trying to find out from uh there was another party that was in the accident with me. She's already gotten her uh the letter you guys sent out to get the uh the money sent to her, the the settlement sent to her. I'm waiting to to get any communication. I don't know if you sent it out to me because it may have gone into junk or spam. I just can't find it. And didn't know if you actually had gotten everything together for me because we were in the same accident, same uh you know medical providers and everything. So if you finished with hers, you finished with mine but I haven't heard anything. So I was just trying to get a status update and how much uh is still left outstanding for you guys to send to me.
+[01:54] [Receptionist]: Understood. Understood all right perfect.
+[01:57] [Bert Carrington]: So that's what I'm looking for so if Carrie can't help maybe somebody else can help.
+[02:00] [Receptionist]: Understood. Let me let me try to help you with this sir. Do you allow me to place you on a brief hold for one minute?
+[02:08] [Bert Carrington]: Sure, no problem.
+[02:10] [Receptionist]: Thank you sir.
+[02:11] [Bert Carrington]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

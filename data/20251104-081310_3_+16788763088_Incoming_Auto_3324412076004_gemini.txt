@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 4 turns
+  • Speaker 2 / [Donovan Leary] / Role: Caller from Rajoli Services: 3 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Bain and Associates, Kimmy speaking.
+[00:07] [Donovan Leary]: Hey, good morning. Could I be connected to uh, Matt McCarron, please?
+[00:10] [Receptionist]: Good morning. Um, yes sir, is this in regards to a specific client?
+[00:15] [Donovan Leary]: Uh, no ma'am. Uh, my organization actually sent some information over to him that I was just looking to uh, connect with him and follow up on.
+[00:23] [Receptionist]: Okay, can I have your name?
+[00:25] [Donovan Leary]: Yeah, absolutely. Uh, my name is Donovan Leary with Rajoli Services.
+[00:30] [Receptionist]: Okay, one second.
+[00:31] [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

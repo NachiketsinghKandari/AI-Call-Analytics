@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the case status and identified the staff member handling the file after the requested party was unavailable. The caller declined a transfer as the information provided was sufficient.",
+    "call_duration_seconds": 315.72,
+    "call_duration_formatted": "05:15"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist offered to transfer the caller to a specific staff member, but the caller declined because the requested information had already been provided."
+  }
+}

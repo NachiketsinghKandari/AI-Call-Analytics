@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 1 turn
+  • Speaker 2 / Kevin Davis / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you today?
+[00:10] [Kevin Davis]: Um, hey, so like, I was thinking about, uh...
+
+========================================
+TRANSCRIPT END
+========================================

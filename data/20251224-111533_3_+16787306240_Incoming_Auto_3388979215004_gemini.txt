@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kyreen / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Alejandra / Role: Caller from Optimum Health: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kyreen, what can I do for you?
+[00:05] [Alejandra]: Hello, good morning. This is Alejandra.
+[00:11] [Receptionist]: Okay.
+[00:12] [Alejandra]: Good morning. This is Alejandra. Am I speaking with, uh, Bey and Associates Law Firm?
+[00:22] [Receptionist]: Yes, ma'am.
+[00:24] [Alejandra]: Yes, I'm calling from Optimum Health regarding mutual client Michelle Curry, and I'm looking up to get updates about this case or a case manager's information, please.
+[00:38] [Receptionist]: Sure, one moment.
+[00:40] [ ... Silence (10s) ... ]
+[00:50] [Receptionist]: You say you're calling in from where?
+[00:53] [Alejandra]: Optimum, Optimum Health.
+[00:57] [Receptionist]: Okay, one moment.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jamie / Role: Receptionist at Bay and Associates: 6 turns
+  • Speaker 2 / Daniel / Role: Representative at Medcare: 5 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (6s) ... ]
+[00:06] [Receptionist]: Bay and Associates, Jamie speaking.
+[00:09] [Daniel]: Uh, hi, this is Daniel from Medcare. I'm so sorry I'm reaching out back one more time. I have- I was just having a conversation like the minute or two earlier, and I got an email address with me that I am gonna send an email to for getting statuses for cases in bulk. I just wanted to make sure that the email address that I have, it's the correct one. Uh, it's YNL at bayandassociates.com that I'm gonna be sending out the email to.
+[00:38] [Receptionist]: YNL.
+[00:40] [Daniel]: Yeah, YNL, yep. So I just wanted to make sure that the email address, like, after YNL at Bay and Associates, it- the part where it says Bay and Associates, does it have the symbol and or the word and, like A-N-D or the symbol for and?
+[00:59] [Receptionist]: A-N-D.
+[01:01] [Daniel]: Oh, it's A-N-D.
+[01:03] [Receptionist]: Mhm.
+[01:04] [Daniel]: Oh, perfect, perfect. Thank you so much. I just wanted to clarify that part because I was just talking to the other representative and I forgot to confirm. Thank you so much for your help.
+[01:13] [Receptionist]: No problem. Have a great rest of your day.
+[01:15] [Daniel]: Thank you, to you too. Have a good day. Bye-bye.
+[01:18] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

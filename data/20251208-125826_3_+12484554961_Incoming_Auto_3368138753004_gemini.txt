@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Fadil Mahma / Role: Receptionist at Bey and Associates: 13 turns
+  • [Pamela] / Pamela / Role: Caller from Team Rehabilitation: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm. My name is Fadil Mahma. How may I assist you today?
+[00:08] [Pamela]: Hello, my name is Pamela and I'm calling with Team Rehabilitation. I'm calling about a patient that I have that I believe is a client with you guys and I just need to verify some information on the file if I could.
+[00:19] [Receptionist]: Absolutely. May I please have the client's first and last name?
+[00:22] [Pamela]: Uh, yeah, it's Jayla Victor.
+[00:27] [Receptionist]: May I please have that name spelled, Jayla?
+[00:31] [Pamela]: Yes, J as in uh Jackson, A, Y as in yo-yo, L as in Larry, A as in Anthony. My brain was not working right there.
+[00:44] [Receptionist]: That's okay. It's Monday. Completely acceptable. Absolutely. Bear with me while I'm searching on my system. Jayla Victor.
+[00:53] [ ... Silence (5s) ... ]
+[00:58] [Receptionist]: You said her last name was Victor?
+[01:01] [Pamela]: Yes, V-I-C-T-O-R, Victor. Yeah.
+[01:13] [Receptionist]: I do not have a Jayla Victor actually.
+[01:16] [Pamela]: You do not? Do you have a phone number for her?
+[01:19] [Receptionist]: I do. Mhm. 404-368-0183.
+[01:25] [ ... Silence (8s) ... ]
+[01:33] [Receptionist]: Let me give it a try with this one and see. And I will confirm the spelling of the name just to make sure I heard that correctly. It's J-A-Y-L-A.
+[01:47] [Pamela]: Correct. That's what we have.
+[01:53] [Receptionist]: Well, nothing is coming up with this number. Let me take a look at our archive file.
+[02:01] [ ... Silence (5s) ... ]
+[02:06] [Receptionist]: Nope. No, nothing. Okay. No, nothing at all is coming up on our end. But that can— that can mean that the file wasn't created as of yet and they might be waiting for some type of info. I would suggest that you wait at least 24-48 hours and confirm once again.
+[02:26] [Pamela]: Okay. Do you guys have a Ola in the office?
+[02:32] [Receptionist]: Ola? As in O-L-A?
+[02:35] [Pamela]: Yes.
+[02:37] [Receptionist]: No.
+[02:38] [Pamela]: No? Okay. All right. Um, yeah, I'll go ahead and wait. I'm— I'm thinking that maybe they might have copied the name wrong, the law firm name wrong or something. Okay. Let me go ahead and see what I can do on my end. I do apologize.
+[02:56] [Receptionist]: That is completely all right. You enjoy the rest of your day. Take care.
+[02:59] [Pamela]: Thanks. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

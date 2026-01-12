@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bain and Associates: 3 turns
+  • Speaker 2 / Shianna / Role: Representative from State Farm: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bain and Associates. This is Daniel.
+[00:05] [Shianna]: Yes, may I speak with Linda, please? This is Shianna calling from State Farm.
+[00:11] [Receptionist]: Okay. And this is in regards of which case?
+[00:14] [Shianna]: Uh, Kennedy Garrett.
+[00:18] [Receptionist]: Okay. One moment, please.
+
+========================================
+TRANSCRIPT END
+========================================

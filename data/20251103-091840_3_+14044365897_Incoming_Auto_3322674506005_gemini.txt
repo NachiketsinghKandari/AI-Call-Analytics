@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 12 turns
+  • Speaker 2 / [Ahmad Cade] / Role: Client: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bain and Associates, this is Devin speaking.
+[00:07] [Ahmad Cade]: Good morning.
+[00:09] [Receptionist]: Good morning.
+[00:11] [Ahmad Cade]: Um, I'm actually calling to follow up in regards to a case I have open with you all.
+[00:17] [Receptionist]: I can see how I can help. Okay sir, no problem. May I have your first and last name?
+[00:22] [Ahmad Cade]: First name Ahmad, spelled A-H-M-A-D. Last name Cade, spelled C-A-D-E.
+[00:33] [Receptionist]: All right, Mr. Cade, let me get you over to your case manager, that is Mr. Kevin Love, okay?
+[00:43] [Ahmad Cade]: Yes sir.
+[00:45] [Receptionist]: I can give you his direct number just in case you need an update next time you want to call in directly to him?
+[00:52] [Ahmad Cade]: Yes sir, one moment. [ ... Silence (7s) ... ] Yes sir, I'm ready.
+[01:02] [Receptionist]: So his number is 470...
+[01:04] [Ahmad Cade]: Mhm.
+[01:05] [Receptionist]: ...903...
+[01:06] [Ahmad Cade]: Mhm.
+[01:07] [Receptionist]: ...2756.
+[01:08] [Ahmad Cade]: 2756. 2756. All righty.
+[01:17] [Receptionist]: All righty, let me just transfer you over to him, okay?
+[01:21] [Ahmad Cade]: Yes sir.
+[01:23] [Receptionist]: Mr. Cade, I'm sorry for that delay. It seems that your case manager is away from his desk, he's not answering the call. Would you like to leave a voicemail and have him reach out to you right away?
+[01:29] [Ahmad Cade]: Yes sir, I- I believe I made a- I um left a voicemail last week. I was actually calling to try to follow up again.
+[01:47] [Receptionist]: Okay. Um, I'll leave a message for him and have him reach out, okay?
+[01:57] [Ahmad Cade]: Okay, thank you.
+[01:59] [Receptionist]: You're welcome, sir. All right. Bye-bye.
+[02:01] [Ahmad Cade]: Yes sir.
+
+========================================
+TRANSCRIPT END
+========================================

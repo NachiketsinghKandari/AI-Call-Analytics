@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates Law Firm: 5 turns
+  • Speaker 2 / Danielle Pettway / Role: Job Seeker: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bay and Associates Law Firm. My name is Fatima. How may I assist you today?
+
+[00:08] [Danielle Pettway]: Hi, my name is Danielle Pettway. I'm calling regarding any potential opportunities or job openings within your firm, or if there was anyone that you were able to forward me to, or if there was an email you could provide me where I could look up more information on any openings.
+
+[00:26] [Receptionist]: Absolutely. Let me give you our office manager email so that you can reach out to her. She is not in today, but she should be by tomorrow. Her name is Brittany Lawson. I will spell her name for you. It's B as in Bravo, R as in Rose, I as in India, T as in Tom, T as in Tom, A as in Apple, N as in Nancy, Y as in Yellow. And her last name is L, A, W as in water, S as in Sam, O, N as in Nancy. And her email is only her name, Brittany at bayandassociates.com. And it's spelled out A-N-D.
+
+[01:17] [Danielle Pettway]: A-N-D, okay.
+
+[01:21] [Receptionist]: Yeah.
+
+[01:22] [Danielle Pettway]: Okay. And can you repeat that email one more time? It's Brittany at bayandassociates.com?
+
+[01:33] [Receptionist]: .com. Perfect. Yeah, you got it.
+
+[01:35] [Danielle Pettway]: Okay. Thank you very much for your help.
+
+[01:42] [Receptionist]: You're so welcome. Best of luck. You're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

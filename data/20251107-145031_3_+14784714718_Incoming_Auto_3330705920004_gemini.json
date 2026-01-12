@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the assigned staff member, noted her unavailability, and initiated a transfer to her voicemail after the caller agreed.",
+    "call_duration_seconds": 48.46,
+    "call_duration_formatted": "00:48"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist offered to transfer the caller to the specific staff member's voicemail. Upon the caller's agreement, the receptionist initiated the transfer and the call concluded."
+  }
+}

@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Farina / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Sydney / Role: Caller from Direct General: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Farina, how can I help you?
+[00:05] [Sydney]: Hello, Sydney calling from Direct General. I'm calling in regards to a claim that was just reported to us. Your client should be an Aquana Stevens.
+
+[00:15] [ ... Silence (11s) ... ]
+
+[00:25] [Receptionist]: You're calling from where you said?
+[00:28] [Sydney]: Direct General.
+[00:31] [Receptionist]: Direct General Insurance. Give me one moment. Hi, the case manager is not available right now. I can transfer you to the voicemail.
+[00:43] [Sydney]: Okay, cool.
+[00:45] [Receptionist]: One moment.
+
+========================================
+TRANSCRIPT END
+========================================

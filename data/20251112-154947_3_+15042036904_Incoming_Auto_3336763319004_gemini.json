@@ -1,0 +1,27 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist gathered preliminary information regarding a new motor vehicle accident and initiated a transfer to the investigations department.",
+    "call_duration_seconds": 4.97,
+    "call_duration_formatted": "00:04"
+  },
+  "transfer_context": {
+    "destinations": [
+      "intake_and_investigation"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist stated the intent to transfer the caller to an investigator and the call ended immediately afterward."
+  }
+}

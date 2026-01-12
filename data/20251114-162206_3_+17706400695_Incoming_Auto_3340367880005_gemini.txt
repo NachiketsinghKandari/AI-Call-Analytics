@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kaymie / Role: [Receptionist] at Vance and Associates: 10 turns
+  • Speaker 2 / Sabrina / Role: Caller from Ingo Money: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vance and Associates, this is Kaymie speaking.
+[00:03] [Sabrina]: Hi, my name is Sabrina. I'm calling from Ingo Money on behalf of Fort Sill National Bank. I'm trying to verify a check that's trying to be cashed through us today.
+[00:14] [Receptionist]: Okay, I'm ready for the client's name.
+[00:17] [Sabrina]: Okay, first name is Christian, last name Apata, A-P-A-T-A.
+[00:23] [Receptionist]: And Christian spelled traditional?
+[00:27] [Sabrina]: C-H-R-I-S-T-I-A-N.
+[00:32] [ ... Silence (21s) ... ]
+[00:53] [Receptionist]: And this check is dated for today's date?
+[00:57] [Sabrina]: Yes, 11/14/25.
+[01:00] [Receptionist]: Check number 38601?
+[01:04] [Sabrina]: Yes I am.
+[01:06] [Receptionist]: 3,386.83?
+[01:09] [Sabrina]: Yes.
+[01:11] [Receptionist]: Yeah, it is good to go.
+[01:13] [Sabrina]: Okay, and what'd you say your name was again? I'm sorry.
+[01:16] [Receptionist]: Kaymie, K-A-Y-M-I-E.
+[01:20] [Sabrina]: Thank you so much for your time.
+[01:23] [Receptionist]: You're welcome, you have a great rest of your day.
+[01:26] [Sabrina]: Thank you too.
+[01:28] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

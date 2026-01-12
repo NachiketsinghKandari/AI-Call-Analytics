@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Malo] / Role: [Receptionist at Bey and Associates]: 6 turns
+  • Speaker 2 / [Miss Lumpkin] / Role: [Caller]: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Malo. How can I help you?
+[00:07] [Miss Lumpkin]: Yes, can I ask please to my case manager Ty?
+[00:11] [Receptionist]: Yes, may I have your phone number?
+[00:16] [Miss Lumpkin]: You said my phone number?
+[00:19] [Receptionist]: Yes.
+[00:21] [Miss Lumpkin]: It's 470-715-6217.
+[00:27] [Receptionist]: Okay, Miss Lumpkin?
+[00:29] [Miss Lumpkin]: Yes.
+[00:31] [ ... Silence (18s) ... ]
+[00:49] [Receptionist]: Thank you so much for holding. Your case manager is not available. I will be sending an email so she can give you a call back, okay?
+[00:58] [Miss Lumpkin]: Okay.
+[01:00] [Receptionist]: Okay, thank you.
+[01:02] [Miss Lumpkin]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

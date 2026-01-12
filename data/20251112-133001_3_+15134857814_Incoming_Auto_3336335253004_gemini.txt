@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at DNS / Law firm of Matt McCarney: 9 turns
+  • Speaker 2 / Bhagwana Hassan / Role: Client: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: DNS, this is Pete, and this is the law firm of Matt Mc- Matt McCarney.
+[00:07] [Bhagwana Hassan]: Yes, it's Matt McCarney in today?
+[00:11] [Receptionist]: Um, may I know the reason why you wish to talk with him?
+[00:15] [Bhagwana Hassan]: Miss Bhagwana Hassan, I'm a client.
+[00:19] [Receptionist]: Okay, are you one of our clients?
+[00:23] [Bhagwana Hassan]: I didn't hear you.
+[00:25] [Receptionist]: Oh, are you one of our clients?
+[00:27] [Bhagwana Hassan]: Yes, I'm one of his clients. I'm John's- John's client, actually.
+[00:33] [Receptionist]: Okay, let's see who is the case manager in your case. Can I have please your first name?
+[00:38] [Bhagwana Hassan]: I wanted to speak with John- with Matt McCarney.
+[00:42] [Receptionist]: Yes, let's see if he is available. Can I have your name?
+[00:46] [Bhagwana Hassan]: Bhagwana Hassan.
+[00:49] [Receptionist]: Can you spell your first name?
+[00:52] [Bhagwana Hassan]: B-H-A-G-W-A-N-A, last name H-A-S-S-A-N.
+[01:00] [ ... Silence (29s) ... ]
+[01:29] [Receptionist]: Okay. So yes, I'm going to see if Matt McCarney is available at this moment. Uh, may I know the reason why you wish to talk with him? Just to get like an update for your case?
+[01:39] [Bhagwana Hassan]: Okay.
+[01:41] [Receptionist]: Okay, let's see if he is available, okay? Stay on the line, please.
+[01:45] [Bhagwana Hassan]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

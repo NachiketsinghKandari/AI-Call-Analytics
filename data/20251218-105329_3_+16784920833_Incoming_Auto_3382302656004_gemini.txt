@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Carlotta Hughes / Role: Caller: 1 turn
+  • Speaker 3 / Unknown / Role: Unknown: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kim, how can I help you?
+[00:04] [Carlotta Hughes]: Hi, yes, this is Carlotta Hughes calling back for the third time this morning. Um, I was hoping to speak to a representative. I need an update on my case and I've been calling for two months to continue to get no call back. And it's extremely frustrating. And now I keep getting voicemail. So is there somebody available that I could speak to because your people keep telling me they're gonna have someone call me back, like I said, every two weeks I call and no one has ever returned my calls, emails, or anything and I'm confused as to why that's happening.
+[00:38] [Receptionist]: All right, one second.
+[00:40] [ ... Silence (8s) ... ]
+[00:48] [Receptionist]: Sorry. You guys done?
+[00:50] [Unknown]: Yeah.
+
+========================================
+TRANSCRIPT END
+========================================

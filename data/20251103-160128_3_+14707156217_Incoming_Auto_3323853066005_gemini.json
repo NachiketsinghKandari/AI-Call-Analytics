@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with their case manager. The receptionist checked availability and, upon finding the staff member unavailable, offered to send an email to request a callback, which the caller accepted.",
+    "call_duration_seconds": 53.06,
+    "call_duration_formatted": "00:53"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist placed the caller on hold to check availability and then returned to the line to offer a fallback option."
+  }
+}

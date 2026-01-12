@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about a chiropractor bill related to a 2024 case. The receptionist was reviewing the file when the call ended before a transfer could be initiated or a resolution reached.",
+    "call_duration_seconds": 181.87,
+    "call_duration_formatted": "03:01"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The caller requested a transfer, but the call ended while the receptionist was still reviewing the case details."
+  }
+}

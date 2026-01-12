@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / San Angelo / Role: [Receptionist] at Bay and Associates: 12 turns
+  • Speaker 2 / Dr. Bryce / Role: Doctor at Bryce Health Management Services / Bryce Accident and Injury Center: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is San Angelo from Bay and Associates, how may I help you?
+[00:06] [Dr. Bryce]: Yes, good morning. Just checking to see if by chance you guys have dispersed on Bert Carrington?
+[00:16] [Receptionist]: Eh, sorry, about the- what do you want me to check?
+[00:19] [Dr. Bryce]: I was just checking to see if by chance you guys have dispersed on Bert Carrington?
+[00:27] [Receptionist]: Eh, how do you spell Bert?
+[00:31] [Dr. Bryce]: Bert, B-E-R-T.
+[00:34] [Receptionist]: Okay, found it. When- when is the date of loss?
+[00:42] [Dr. Bryce]: I'm not sure. Is Mr. Wade or- is available?
+[00:47] [Receptionist]: Mr. Bay?
+[00:50] [Dr. Bryce]: Wade, W-A-D-E.
+[00:54] [Receptionist]: Okay. And you are calling from who? Are you Bert or are you from medical insurance?
+[01:02] [Dr. Bryce]: This is Dr. Bryce. This is Dr. Bryce calling.
+[01:07] [Receptionist]: Dr. Bryce.
+[01:09] [Receptionist]: And you are calling from who? From the medical records, from the insurance company?
+[01:14] [Dr. Bryce]: No, I'm- this is Dr. Bryce. I'm calling from Bryce Health Management Services, also known as Bryce Accident and Injury Center.
+[01:24] [Receptionist]: Mm, okay.
+[01:27] [Receptionist]: All right. And would you like to talk with the case manager?
+[01:32] [Dr. Bryce]: Okay, who is Carrie Wade?
+[01:34] [Receptionist]: Carrie Wade, yes, it is the case manager. So let me go ahead and see if she is available.
+[01:42] [Dr. Bryce]: Okay.
+[01:43] [Receptionist]: Stay on the line, please.
+[01:46] [Dr. Bryce]: Yes, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

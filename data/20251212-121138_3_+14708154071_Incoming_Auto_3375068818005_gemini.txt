@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Elise Joseph / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, how can I help you?
+[00:04] [Elise Joseph]: Hi, um, I'm trying to get in contact with Mr. Kevin Love.
+[00:10] [Receptionist]: Uh, you a client? Do you have a case with us?
+[00:13] [Elise Joseph]: I do.
+[00:15] [Receptionist]: Can I have your name?
+[00:18] [Elise Joseph]: Elise Joseph.
+[00:21] [Receptionist]: Bear with me one second.
+[00:23] [ ... Silence (8s) ... ]
+[00:31] [Receptionist]: Mhm.
+[00:32] [ ... Silence (9s) ... ]
+[00:41] [Receptionist]: Okay, let me see if he's available, okay? Let me place you on a brief hold.
+[00:45] [Elise Joseph]: Okay.
+[00:46] [ ... Silence (9s) ... ]
+[00:55] [Receptionist]: Thank you for holding, ma'am. Kevin is in another call right now. Would you like his voicemail?
+[01:03] [Elise Joseph]: Um, yes.
+[01:05] [Receptionist]: Alright, give me a moment.
+
+========================================
+TRANSCRIPT END
+========================================

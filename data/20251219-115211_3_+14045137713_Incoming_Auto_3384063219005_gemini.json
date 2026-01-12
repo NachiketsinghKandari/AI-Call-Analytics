@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "Receptionist initiated a transfer to the case manager and the call ended immediately afterward.",
+    "call_duration_seconds": 28.87,
+    "call_duration_formatted": "00:28"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "Receptionist stated intent to transfer the caller to a case manager and the call ended."
+  }
+}

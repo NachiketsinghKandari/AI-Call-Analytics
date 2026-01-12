@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Dey and Associates Law Firm: 11 turns
+  • Speaker 2 / [Sarah] / Role: Representative from Hurt Now 911 Injury Center: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Actually, let me in. Dey and Associates Law Firm, Devin speaking.
+[00:06] [Sarah]: Good morning, this is Sarah with Hurt Now 911 Injury Center. May I speak to the case manager Linda Huff, please?
+[00:15] [Receptionist]: Sure. Sure, no problem. Are you calling regarding a specific case or client?
+[00:19] [Sarah]: Um, it's two. They're— I believe they're in the same accident. Sammy Atkins and Rena Atkins.
+[00:28] [Receptionist]: Atkins. Got it. No problem. Rena. Okay. Rena and Sammy?
+[00:35] [Sarah]: Yes.
+[00:37] [Receptionist]: Alright. No problem. Let me get you over to Linda, okay?
+[00:43] [Sarah]: Thank you.
+[00:44] [Receptionist]: You're welcome.
+[00:45] [Receptionist]: Thank you so much for patiently holding. I tried reaching out to Linda for you regarding this companion case. But, um, unfortunately her phone goes to voicemail. Um, I can leave a message—
+[00:59] [Sarah]: Okay. We're just trying to notify y'all. Yeah, because the patient is trying to ask— is asking for their records. And we don't know— understand why when they have legal representation.
+[01:13] [Receptionist]: Correct. They shouldn't be asking for their records.
+[01:18] [Sarah]: Mhm.
+[01:19] [Receptionist]: So, I'm going to leave a message for Linda. And, um, can I have your phone number please so they can reach out to you?
+[01:33] [Sarah]: 470-240-4463.
+[01:40] [Receptionist]: Perfect. And your first name once again?
+[01:43] [Sarah]: Sarah. Sarah.
+[01:47] [Receptionist]: Sarah. Alrighty. Sarah, I'm going to leave that message for Linda to go ahead and reach out to you guys to see what's going on and for her to also follow up with the client, okay? Just in case.
+[01:58] [Sarah]: Alright. Thank you. Mhm. Alright.
+[02:01] [Receptionist]: You're welcome, Sarah. Have a great one.
+[02:04] [Sarah]: Same to you.
+
+========================================
+TRANSCRIPT END
+========================================

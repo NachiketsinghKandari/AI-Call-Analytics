@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at B and Associates: 10 turns
+  • Speaker 2 / [Andrea] / Role: Caller from Dr. Shelby's office: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: B and Associates, Angelo speaking, how may I help you?
+[00:06] [Andrea]: Yes, my name is Andrea and I'm calling from Dr. Shelby's office. I am calling on behalf of a patient of ours, Jasmine May, M-A-Y-E. I'm trying to get a hold of Anita.
+[00:19] [ ... Silence (5s) ... ]
+[00:24] [Receptionist]: Jasmine May?
+[00:25] [Andrea]: Yes.
+[00:28] [Receptionist]: And Jasmine is spelled J-A-S-M-I-N?
+[00:34] [Andrea]: M-I-N-E. And her last name is M-A-Y-E.
+[00:43] [Receptionist]: Thank you. Oh, I found it. [ ... Silence (5s) ... ] Can I have the date of loss?
+[00:51] [Andrea]: 10/17/2022.
+[00:54] [Receptionist]: Thank you. And would you like to talk with the case manager?
+[01:00] [Andrea]: Um, as far as I know it's Anita, correct?
+[01:05] [Receptionist]: Let's see. It's loading. Um, Anita Washington, yes. This is Angelo from B and Associates. Yes. So would you like to talk with Anita?
+[01:19] [Andrea]: Well, I've tried to call Anita multiple times. The last time I spoke with somebody I was supposed to call her back at noon, she wasn't available when I called back. The reason I'm calling is because I've spoke with the doctor. We've been trying to get this paid since last year, March of 2024. The check never came. Anita was supposed to reissue it. We've called the patient, we've alerted Anita and the patient that if we do not get paid in 10 business days we are going to place this for collection. It's going to hurt the patient's credit and the patient is going to be responsible for this payment.
+[01:53] [Receptionist]: Let's see. [ ... Silence (14s) ... ] I can see here the check. And for how much is supposed to be?
+[02:12] [Andrea]: It is supposed to be for $2,903.
+[02:16] [Receptionist]: 2,903. Yes, Shelby Chiropractic. I found it. Shelby Chiropractic. Actually I can see here that the check was sent there on March 21st, 2024.
+[02:38] [Andrea]: Mhm. It never came and we've spoke with Anita personally and she said she was reissuing another check. And since then we have not received that either.
+[02:49] [Receptionist]: Let's see if Anita is available, okay? Hold on.
+[02:53] [Andrea]: Okay, thank you.
+[02:56] [Receptionist]: Let me help you with that.
+
+========================================
+TRANSCRIPT END
+========================================

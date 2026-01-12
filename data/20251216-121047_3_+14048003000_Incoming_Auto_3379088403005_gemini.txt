@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Gaby / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:05] [Gaby]: Yeah, good afternoon. This is Gaby from Dominguez Chiropractic. May I speak with the case manager of Aberia Earl? E-A-R-L the last name please.
+[00:18] [Receptionist]: [Sneezes] I'm sorry.
+[00:20] [Gaby]: Bless you.
+[00:21] [Receptionist]: No problem. Thank you.
+[00:22] [Gaby]: The date of accident was uh November 10th.
+[00:26] [Receptionist]: Okay, that's Victoria Morales. Let me get her for you.
+[00:29] [Gaby]: Victoria? Okay. Thank you.
+[00:32] [Receptionist]: You're welcome. Sending you straight over, okay?
+[00:35] [Gaby]: Okay. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Bain and Associates: 10 turns
+  • Autumn Lumpkin / Role: Client: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Bob Evans speaking.
+[00:04] [Autumn Lumpkin]: Hi, I was trying to see if my case manager, Ty, was in?
+[00:11] [Receptionist]: Sure, I can get you over to Ty. May I have your first and last name, please?
+[00:15] [Autumn Lumpkin]: It's Autumn Lumpkin.
+[00:18] [Receptionist]: Ms. Lumpkin, good afternoon. Let me go ahead here and get you to Ty, alright?
+[00:25] [Autumn Lumpkin]: Yes.
+[00:27] [Receptionist]: Thank you.
+
+[00:28] [ ... Silence (6s) ... ]
+
+[00:34] [Receptionist]: Ms. Lumpkin, um, I do apologize for that. Seems like Ty is away from her desk at the moment. Would you like to leave a message?
+[00:41] [Autumn Lumpkin]: Well, maybe this is just a general question, but I was told by Ty and Tara, um, that you all only, you know, disperse checks on Fridays, correct?
+[00:52] [Receptionist]: Normally, yes ma'am.
+[00:54] [Autumn Lumpkin]: Okay, I just want to know what time, 'cause my pickup date is tomorrow. I just didn't know, like, can I be there when you all open, or is it like an after 12:00 o'clock thing? I just didn't know that.
+[01:06] [Receptionist]: Mm-hmm. Okay, so...
+[01:11] [Autumn Lumpkin]: 'Cause I was told that you all have, or they have my check, so, but, you know, I just gotta wait until tomorrow, until Friday.
+[01:19] [Receptionist]: Okay, let me check with Tara because I do see here they're pending to confirm if it has been printed. So, let me reach out to her real quick.
+[01:29] [Autumn Lumpkin]: Okay. Alright.
+
+[01:30] [ ... Silence (5s) ... ]
+
+[01:35] [Receptionist]: Okay, I do apologize. Seems like Tara's not in the office today. Well, she was earlier, but she already left. Um, I don't see a confirmation here yet, um, Ms. Lumpkin, that the check has been printed. I know that they have been requesting for it to be done for this Friday.
+[01:56] [Autumn Lumpkin]: I mean, I understand that they may- they may have, like, not updated the system, but I've been in constant contact with, mainly Tara now, not as much Ty, but she did tell me earlier this week, um, you know, I'd already signed the disbursement and the breakdown and all of that, but she- she did tell me, 'cause she told me last week it was gonna be printed, but she did say my pickup date was tomorrow, so I just wanted to see. But you- you said that Ty's still in the office, she's just...
+[02:26] [Receptionist]: Yes, she's probably away from her desk or probably in a meeting or something 'cause she's not picking up. But if Tara told you to pick up the check tomorrow, then you should come in. We'll be open all day until 4:00 PM. So, you can come anytime after 8:00 AM in the morning, you know? Um, we're open until 4:00- well, until 5:00, but anytime before 4:00 would be good so that everyone is there if you need to speak with anyone, right?
+[02:56] [Autumn Lumpkin]: Right. But you all open up at 8:00, you said?
+[02:59] [Receptionist]: Yes ma'am, the office opens up at 8:00 o'clock. Did she send you a confirmation text with the address and everything?
+[03:07] [Autumn Lumpkin]: No, she didn't. She didn't do that. That's why I- I was calling today, 'cause the last thing I had was just signing, but, you know, I had kept on calling her and she did say this Friday, like, they got it, um, you know, it has to be run through the bank, it has to be run through this, blah, blah, blah.
+[03:27] [Receptionist]: Yeah. So, I'm gonna reach out to her and see if she can give you a call, okay?
+[03:36] [Autumn Lumpkin]: Okay, I appreciate it.
+[03:38] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

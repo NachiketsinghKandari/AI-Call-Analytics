@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Tiffany / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:05] [Tiffany]: Hi, um, my name's Tiffany. I'm actually calling from a local um firm here in Atlanta. Um, we had a client recently sign up, they terminated you all um previously. I just wanted to see if you could release his file to us.
+[00:22] [Receptionist]: Can I have their name?
+[00:24] [Tiffany]: Sure. First name Joseph, last name Haynes.
+[00:28] [Receptionist]: H-A-N-E-S?
+[00:30] [Tiffany]: H-A-Y-N-E-S.
+[00:32] [ ... Silence (26s) ... ]
+[00:58] [Receptionist]: Okay, seems like this... there's nothing saying in here that he eliminated us, but um... he's probably sent you guys over a drop letter.
+[01:18] [Tiffany]: Hm, okay.
+[01:19] [Receptionist]: Let me get the case manager for you.
+[01:21] [Tiffany]: Thank you.
+[01:22] [Receptionist]: You're welcome.
+[01:23] [ ... Silence (5s) ... ]
+[01:28] [Receptionist]: Ma'am?
+[01:29] [Tiffany]: Yes.
+[01:30] [Receptionist]: Okay, so Victoria is out at lunch. She says she's not in front of her computer, so if you could send her an email, that would be great.
+[01:41] [Tiffany]: Sure. Sure. What's the email?
+[01:43] [Receptionist]: Okay, so it's Victoria, V-I-C-T-O-R-I-A at Bey, B-E-Y, A-N-D, associates with an S dot com.
+[01:56] [Tiffany]: A as in Alpha, M as in Mary, D as in Delta?
+[01:59] [Receptionist]: Mhm.
+[02:00] [ ... Silence (6s) ... ]
+[02:06] [Tiffany]: Um, associates...
+[02:07] [Receptionist]: With an S dot com.
+[02:09] [Tiffany]: Okay. Dot com. So it's B-E-Y-A-N-D associates with an S.
+[02:14] [Receptionist]: Okay, great. Thank you.
+[02:16] [Tiffany]: You're welcome. Bye-bye.
+[02:17] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

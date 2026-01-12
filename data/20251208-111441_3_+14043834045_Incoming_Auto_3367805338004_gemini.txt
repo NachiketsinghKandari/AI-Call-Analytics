@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Jonathan / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse. How can I assist you?
+[00:07] [Jonathan]: Hello, this is Jonathan from First Pain Specialists Medical Provider.
+[00:13] [Receptionist]: Alright, how can I assist you?
+[00:15] [Jonathan]: Uh, yes, um, I'm just trying to follow up on an email what we sent um November 10th requesting um police report for patient Jovinda Jovinda.
+[00:30] [Receptionist]: Jovinda. What is her last name?
+[00:37] [Jonathan]: G as in Golf, O as in Oscar, V as in Victor, I as in India, N as in Nancy, D as in Delta, A as in Alpha. Accident September 17th.
+[00:52] [Receptionist]: September 17th, 2025. Yes, I did find it. Give me one moment.
+[00:58] [Jonathan]: Thank you.
+[01:01] [Receptionist]: So you only need the police report?
+[01:04] [Jonathan]: Yes, we sent an email requesting police report if if it's available. Just trying to confirm if you have it.
+[01:11] [Receptionist]: Ah, I understand. And let me tell you, it so there it looks like that there isn't a police report, sir, unfortunately. I have the information here on file. There is no police report uploaded, there is no police report number, and it it it looks like that we still don't know who the uh police department was. Give me one moment, let me check the email. Give me one moment, sir. Here I'm seeing here your email. Yes.
+[01:43] [Jonathan]: Okay.
+[01:47] [Receptionist]: Okay. And I'm seeing here that it wasn't answered in records, right? Yes, sir, uh unfortunately it seems that there is no police report at the moment. So, um this is what I can do. Let me escalate this situation with one of my superiors so they can get back to you as soon as possible on this.
+[02:09] [Jonathan]: Okay. Yes, uh you can reach uh you can call me back at 404-383-4045 extension 237.
+[02:22] [Receptionist]: Alright, so the number was 404-383-4045, right?
+[02:27] [Jonathan]: Extension 237, yes.
+[02:31] [Receptionist]: 237. Excellent. Perfect. I'll make a note of that and let me send an email right away, sir.
+[02:37] [Jonathan]: Okay.
+[02:39] [Receptionist]: Thank you so much. Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

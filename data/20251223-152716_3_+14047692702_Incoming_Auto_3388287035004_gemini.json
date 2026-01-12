@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided information regarding the firm's contingency fees and litigation services, and the caller concluded the call to consult with her husband.",
+    "call_duration_seconds": 109.15,
+    "call_duration_formatted": "01:49"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Keana Liverman / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Law offices of Bey and Associates, this is Lionel, how can I help you today? Hello?
+[00:07] [Keana Liverman]: Yes, hello?
+[00:09] [Receptionist]: Hi.
+[00:10] [Keana Liverman]: Hi, um, my name is Keana Liverman. I'm calling to reach out to somebody that I can talk to.
+[00:17] [Receptionist]: Okay, and do you have a case with us, ma'am?
+[00:21] [Keana Liverman]: Yes.
+[00:22] [Receptionist]: Okay.
+[00:23] [ ... Silence (5s) ... ]
+[00:28] [Receptionist]: Can I have your name?
+[00:30] [Keana Liverman]: Keana Liverman.
+[00:32] [ ... Silence (15s) ... ]
+[00:47] [Receptionist]: Let me check if the, uh, case manager's available since, you know, due to the holidays they're not in the office, and that would be until Monday, but let me check if she's in, okay? One moment.
+[00:57] [Keana Liverman]: Okay.
+[00:58] [ ... Silence (5s) ... ]
+[01:03] [Receptionist]: Thank you so much for holding, Ms. Liverman. Yes, Jim, which is the, the case manager, he's not available today. Would you like a voicemail?
+[01:14] [Keana Liverman]: Yes.
+[01:15] [Receptionist]: All right, one moment.
+
+========================================
+TRANSCRIPT END
+========================================

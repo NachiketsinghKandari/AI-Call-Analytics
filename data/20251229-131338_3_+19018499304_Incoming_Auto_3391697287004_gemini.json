@@ -1,0 +1,27 @@
+{
+  "caller_type": "spanish_speaker",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to reach the case manager while the caller was on hold, but she was unavailable. The receptionist provided the case manager's direct contact information and documented a note in the caller's file.",
+    "call_duration_seconds": 184.39,
+    "call_duration_formatted": "03:04"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist attempted to check the availability of the case manager, Stephanie, but returned to the line after finding she was unavailable."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "document_and_evidence_submission",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist confirmed receipt of a hospital lien for Sebastian Caruso and informed the caller that the case is still open. The caller declined an offer to speak with a case manager as her questions were resolved.",
+    "call_duration_seconds": 107.78,
+    "call_duration_formatted": "01:47"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist offered to transfer the caller to a case manager, but the caller declined."
+  }
+}

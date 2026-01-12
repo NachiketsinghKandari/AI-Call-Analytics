@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Joe / Role: Caller from Spine Muscle and Joint: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Angelo, how may I help you?
+[00:06] [Joe]: Yes, Angelo, this is Joe with Spine Muscle and Joint. I'm calling on a patient by the name of Kayie Poe, last name is P-O-E, and I'm looking for policy limits.
+[00:21] [Receptionist]: For policy limits. Let me go ahead and take a look here. Can you spell for me the last name for the client, please?
+[00:28] [Joe]: Yes, P-O-E, first name is K-Y-E-E. K-Y-E-E.
+[00:41] [Receptionist]: Ah, okay. I found it. P-O-E. It's a little bit tricky. And the date of loss, please?
+[00:47] [Joe]: August 22nd of this year.
+[00:52] [Receptionist]: August 22nd. Let me go ahead and take a look here if we have any information about policy limits.
+[00:58] [Joe]: Okay. You said your name was Angela or Angel?
+[01:05] [Receptionist]: Angelo.
+[01:07] [Joe]: Angelo. Okay. Sorry about that.
+[01:09] [Receptionist]: Ah, that's okay, sir. No worries. Let's see. Policy limits from the liability, we have 50/100.
+[01:23] [Joe]: Okay, 50/100.
+[01:26] [Receptionist]: BI, 25K.
+[01:31] [ ... Silence (7s) ... ]
+[01:38] [Joe]: Hold on just one second. Sorry about that.
+[01:41] [Receptionist]: Mhm. And the liability was accepted.
+[01:44] [Joe]: Okay. So it's 50/100 and the BI is 250, you said?
+[01:51] [Receptionist]: 2-5 and then K.
+[01:53] [Joe]: 2-5K. Okay, so 25,000. And the liability...
+[02:01] [Receptionist]: Is 100. Yes, 100, sir. Mhm.
+[02:05] [Joe]: 100 accepted. Okay. All right then. All right, Angelo, I think that's all I needed. 50/100, BI 25K, and liability 100 accepted. Okay.
+[02:21] [Receptionist]: 100. You're right, sir. Anything else you'd like to know or I can assist you today, or that was all?
+[02:25] [Joe]: No. No, that's it. That's all I needed. Thank you very much for your time.
+[02:29] [Receptionist]: An absolute pleasure. You're more than welcome. Have an excellent rest of your day, sir. Take care.
+[02:33] [Joe]: Thank you too. Take care. Bye-bye.
+[02:35] [Receptionist]: Thank you. Bye-bye.
+[02:37] [Joe]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the staff member responsible for payments and initiated a transfer to that department after the caller agreed to be connected.",
+    "call_duration_seconds": 229.39,
+    "call_duration_formatted": "03:49"
+  },
+  "transfer_context": {
+    "destinations": [
+      "billing_and_disbursements"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist offered to transfer the caller to the staff member handling payments, the caller accepted, and the call ended following the receptionist's confirmation."
+  }
+}

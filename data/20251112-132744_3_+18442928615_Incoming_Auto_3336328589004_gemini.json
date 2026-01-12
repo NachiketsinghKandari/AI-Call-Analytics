@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist searched the firm's database for the individual named by the insurance representative, confirmed no such client exists in their records, and the caller concluded the call.",
+    "call_duration_seconds": 289.94,
+    "call_duration_formatted": "04:49"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

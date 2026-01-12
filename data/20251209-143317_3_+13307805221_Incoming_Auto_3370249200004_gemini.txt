@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Renee Fioramonti / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, my name is Jesse. How can I assist you?
+[00:05] [Renee Fioramonti]: Um, yes, I need to speak to Kadeem.
+[00:08] [Receptionist]: Kadeem, alright. Are you a client, ma'am?
+[00:11] [Renee Fioramonti]: I am.
+[00:13] [Receptionist]: Understood. Can you provide me your name so I can search for your information?
+[00:17] [Renee Fioramonti]: Renee Fioramonti.
+[00:21] [Receptionist]: Perfect.
+[00:22] [ ... Silence (8s) ... ]
+[00:30] [Receptionist]: Alright, I found your information. Um, do you allow me to place you on a brief hold for one minute?
+[00:36] [Renee Fioramonti]: Yes, that's fine.
+[00:38] [Receptionist]: Thank you, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

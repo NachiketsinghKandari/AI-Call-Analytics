@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bae and Associates: 3 turns
+  • Speaker 2 / [Alex] / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bae and Associates, Kim speaking.
+[00:05] [Alex]: Hi, my name's Alex. I was looking to speak with someone there about a job, I was looking- I think her name is Brittany, about a job there for a paralegal.
+[00:14] [Receptionist]: Okay, let me go ahead and transfer you over.
+[00:18] [Alex]: Great, thank you.
+[00:19] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

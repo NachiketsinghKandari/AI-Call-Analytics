@@ -1,0 +1,49 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 17 turns
+  • Speaker 2 / Rachel / Role: Caller: 16 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Rachel]: Hi, this is Rachel and I'm calling from Telecare Pharmacy. Could you please connect me to Michael?
+[00:11] [Receptionist]: Sure, what is the name for the client?
+[00:14] [Rachel]: Uh, I wanna speak to Michael.
+[00:18] [Receptionist]: Are regards for a client or just for him?
+[00:21] [Rachel]: Yes.
+[00:23] [Receptionist]: Yes, um, I'm asking what is the name for the client.
+[00:27] [Rachel]: The name of the client is John Campbell. The first name is John, J-O-H-N, and the last name is Campbell.
+[00:42] [Receptionist]: Can I have the date of loss?
+[00:49] [Rachel]: Give me one second. It's 6/26/2024.
+[00:59] [ ... Silence (42s) ... ]
+[01:41] [Receptionist]: All right. So in this case...
+[01:45] [Rachel]: Mhm.
+[01:46] [Receptionist]: All right. I was about to check and the best point of contact for this as for this case is with the case manager. So let's see if the case manager is available, stand by for a second.
+[01:54] [Rachel]: Mhm.
+[01:56] [Receptionist]: Hello?
+[01:58] [Rachel]: Hi, yes?
+[02:00] [Receptionist]: Thank you for staying on the line. So it looks like that Stephanie isn't available at this moment, which is the case manager. So in this case would you like to leave her a voice message?
+[02:11] [Rachel]: Uh, can you please confirm me the name of the case manager?
+[02:15] [Receptionist]: Sure, it is Stephanie.
+[02:17] [Rachel]: I'm sorry, this is?
+[02:19] [Receptionist]: Stephanie. Would you like me to spell it?
+[02:21] [Rachel]: Stephanie, you said?
+[02:23] [Receptionist]: Yes, it is S-T-E-P-H-A-N-I-E.
+[02:31] [Rachel]: I got it. Uh, I've already received a reduction request for this client and I've received the reduction request from Michael Soul. So I wonder if the case manager is Michael Soul or the case manager is Stephanie.
+[02:50] [Receptionist]: It's Stephanie. Michael Soul is the one in charge for those letters and everything. But the person in charge of this case, it is Stephanie.
+[02:58] [Rachel]: Uh, okay. So, uh, I am in contact with Michael Soul, so I think, uh, I'll continue my conversation with him and it'll help me in settling the lien for this client.
+[03:13] [Receptionist]: Yes, mhm. You can do it on that way as well.
+[03:16] [Rachel]: Sure. Anyway, if you can connect me with Michael Soul.
+[03:21] [Receptionist]: Let's see if Michael Soul is available. Hold on.
+[03:24] [ ... Silence (10s) ... ]
+[03:34] [Receptionist]: So just to leave it on record, you're saying that you're calling from Telecare Pharmacy?
+[03:39] [Rachel]: That is right, yes.
+[03:41] [Receptionist]: All right. Hold on. Let's see because I guess that the case manager answered here something, one minute.
+[03:46] [Rachel]: Mhm. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

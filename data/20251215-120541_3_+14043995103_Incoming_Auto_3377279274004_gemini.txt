@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Ms. Jupiter / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:07] [Ms. Jupiter]: Yes, could you connect me to Jim O'Brien, please?
+[00:11] [Receptionist]: Uh, sure. Just to confirm, are you a client?
+[00:16] [Ms. Jupiter]: Yes, I am.
+[00:19] [Receptionist]: Can I have your name, please?
+[00:21] [Ms. Jupiter]: Ms. Jupiter.
+[00:23] [Receptionist]: Ms. Jupiter?
+[00:24] [Ms. Jupiter]: Yes.
+[00:25] [ ... Silence (8s) ... ]
+[00:33] [Receptionist]: Uh, sorry, may I know the reason why you wish to speak with Mr. O'Brien?
+[00:39] [Ms. Jupiter]: I want to speak to him. Is that a problem for me to speak to him?
+[00:44] [Receptionist]: Yes, because I will need to let him know the reason. And the best point of contact in your case is your case manager, so...
+[00:51] [Ms. Jupiter]: I need you to get him instead of my case...
+[00:53] [Receptionist]: With your case manager. Then stay on the line, let me consult if there is any update on your case.
+
+========================================
+TRANSCRIPT END
+========================================

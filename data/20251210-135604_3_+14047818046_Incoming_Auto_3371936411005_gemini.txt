@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Michael Dasher / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is [unclear], how can I help you today?
+[00:06] [Michael Dasher]: Hey, can I speak to either Jonathan Spiel or Stephanie?
+[00:12] [Receptionist]: Stephanie? Are you a client? Do you have a case with us?
+[00:16] [Michael Dasher]: Yes, I'm a client.
+[00:19] [Receptionist]: Can you give me just a moment? And is your name Michael Dasher?
+[00:25] [Michael Dasher]: Yes, ma'am.
+[00:27] [Receptionist]: All right, let me place you on brief hold.
+[00:32] [Receptionist]: Thank you so much for patiently waiting, Mr. Dasher, the case manager is not available. I can send you to her voicemail.
+[00:41] [Michael Dasher]: Uh... oh, you only contacted one person?
+[00:47] [Receptionist]: I'm so sorry?
+[00:48] [Michael Dasher]: I said you only contacted one person?
+[00:52] [Receptionist]: Well, the case manager is Paige Allen, and she is not available right now, she's on the other phone. I can transfer you to her voicemail, she can call you back.
+[01:01] [Michael Dasher]: Oh, well, I was trying to... well, Paige is not the only one that I've been talking to. I have two cases.
+[01:12] [Receptionist]: So you said Stephanie would be the other... the other case manager?
+[01:18] [Michael Dasher]: Uh, yes. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

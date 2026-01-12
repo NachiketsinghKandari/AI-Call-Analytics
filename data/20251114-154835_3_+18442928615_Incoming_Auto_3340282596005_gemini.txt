@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: [Receptionist at Baines and Associates]: 4 turns
+  • Speaker 2 / [David] / Role: [Representative from State Farm]: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Baines and Associates, this is Liz speaking.
+[00:05] [David]: Yes, my name is David with State Farm. You guys are representing my insured, Dexter King. I need to ask some questions. Is there a case manager or someone I could talk to?
+[00:17] [Receptionist]: Okay.
+[00:18] [ ... Silence (21s) ... ]
+[00:39] [Receptionist]: Stephanie Beck. Let me go ahead and send you over.
+[00:43] [David]: Thank you, ma'am.
+[00:45] [Receptionist]: You are very welcome. Have a great rest of your day, sir.
+[00:51] [David]: You too, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

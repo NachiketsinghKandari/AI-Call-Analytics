@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dynel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Tamika / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Dynel.
+[00:07] [Tamika]: Hi Dynel, my name is Tamika calling from Hollis Cobb Associates, I'm calling to check on a status on a case for your client. The name is Andrew Addison-Amolo.
+[00:19] [Receptionist]: What was the name?
+[00:21] [Tamika]: Andrew, A-N-D-R-E-W, and the last name is Addison-Amolo.
+[00:36] [Receptionist]: You'll have to spell the last name.
+[00:38] [Tamika]: Sure. A as in Alpha, D as in Diamond, E as in Egg, S as in Sam, I as in India, N as in Nancy, M as in Money, I as in India, L as in Love, O as in Orange, L as in Love, U as in Umbrella.
+[00:56] [ ... Silence (23s) ... ]
+[01:19] [Receptionist]: Um, this case is already closed and settled.
+[01:23] [Tamika]: Okay, so do I need to contact um the client? I need to call the client?
+[01:28] [Receptionist]: For what, I'm sorry?
+[01:31] [Tamika]: Okay, I need to contact your client, Mr. Andrew, because the case is closed. So I have to— because I'm calling from Hollis Cobb Associates, but it's on behalf of Northside Hospital of Duluth.
+[01:42] [Receptionist]: Yes, that is client responsibility.
+[01:45] [Tamika]: Okay. All right. Thank you, Mr. Dynel. Your name is Dynel, you said?
+[01:50] [Receptionist]: Dynel.
+[01:51] [Tamika]: Dynel. Thank you, Mr. Dynel.
+[01:54] [Receptionist]: Okay, thank you too.
+[01:56] [Tamika]: Okay. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

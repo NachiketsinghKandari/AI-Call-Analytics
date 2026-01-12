@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Stephanie / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, this is Angelo speaking, how may I help you?
+[00:07] [Stephanie]: Hi, my name is Stephanie, I'm calling from Federated Insurance. I am trying to get a hold of Jonathan Steel.
+[00:16] [Receptionist]: Sure, let me go ahead and take a look. Do you have any case or reference?
+[00:21] [Stephanie]: Um, yes, the client's name is Kennedy McCarty.
+[00:25] [Receptionist]: Thank you.
+[00:28] [ ... Silence (7s) ... ]
+[00:35] [Receptionist]: And Kennedy, it will be with double N, McCarty. Oh, I got it found. Thank you. Can I have the date of loss, please?
+[00:44] [Stephanie]: Yes, November 26, 2025.
+[00:49] [Receptionist]: Thank you. May I know the reason why you wish to talk with the attorney, just to leave it on records?
+[00:56] [Stephanie]: Um, I just got the letter of representation and wanted to discuss, um, the injuries of his client. And I also need the address to send, um, an acknowledgment letter, um, and I know you guys have multiple, um, locations, so I just didn't know which one I should send it to.
+[01:18] [Receptionist]: All right. No issue at all. Let me go ahead and connect you with the right person in charge of this case, which will be the case manager, okay? So I will pass you over with her because the attorney sometimes are like really busy. Let me go ahead and contact her, and she have all the information that you are requesting. No issue at all. Let me ask her. Hold on.
+[01:40] [Stephanie]: Thank you.
+[01:45] [Receptionist]: Sorry, I was trying to get in contact with the case manager or with the attorney, but it looks like they are busy. Um, what I can do for you is I can give you the email for the case manager and also I can transfer you over to the voicemail. The email is in order to send the documentation as all the questions that you wish to ask and they can reply to you really fast. And also you can leave your voicemail in case that they wish to call you. Is that okay?
+[02:09] [Stephanie]: Yeah, that's perfect. Thank you.
+[02:11] [Receptionist]: Okay, first I'm going to spell the email first because the name is a little bit complicated. Are you ready?
+[02:18] [Stephanie]: Yes.
+[02:19] [Receptionist]: It is P-A-Y-G-E. It's like Peggy. That is the name for the case manager. And the email, it is the same. Peggy at B-E-Y-A-N-D-A-S-S-O-C-I-A-T-E-S with S at the end dot com. Peggy at beyandassociates.com. And let me go ahead and pass you over to the voicemail. Is that okay?
+[02:44] [Stephanie]: Thank you. Yes.
+[02:45] [Receptionist]: All right. Have a nice one for the rest of your day, ma'am. Take care.
+[02:49] [Stephanie]: Thanks, you too.
+
+========================================
+TRANSCRIPT END
+========================================

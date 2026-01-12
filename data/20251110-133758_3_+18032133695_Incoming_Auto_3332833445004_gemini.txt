@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at May in Associates Law Firm: 4 turns
+  • Speaker 2 / [Dustin] / Role: Allstate Claims representative: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: May in Associates Law Firm, my name is Fatima, how may I assist you today?
+[00:07] [Dustin]: Yes, this is Dustin with Allstate Claims reaching out on a case for James and Elaine Patrick, it's an accident from July 14th of this year.
+[00:16] [Receptionist]: Elaine Patrick, allow me one moment please, I'll pull up the file and see who the case manager is so I can transfer you to them. One moment please.
+[00:25] [Receptionist]: Hey Dustin, thank you so much for the waiting time, I truly apologize for the delay. So the case manager that I have here is Mr. Mac- MacKaren and he is currently unavailable. Is there a message you would like to leave for him directly at his voicemail or something I can help you with?
+[00:42] [Dustin]: Yeah, if you could just send me to his voicemail.
+[00:45] [Receptionist]: Understood, one moment please.
+
+========================================
+TRANSCRIPT END
+========================================

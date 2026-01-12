@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Reed Scott / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:07] [Reed Scott]: Hey, is uh John in?
+[00:10] [Receptionist]: Uh Jonathan? You said?
+[00:12] [Reed Scott]: Yeah. Uh Bey.
+[00:15] [Receptionist]: Oh, understood. Uh are you a client sir?
+[00:18] [Reed Scott]: Oh, no sir.
+[00:19] [Receptionist]: Oh, understood. Uh uh where are you calling from?
+[00:22] [Reed Scott]: Um, I'm calling regarding the city of Atlanta.
+[00:27] [Receptionist]: All right, understood. And what is your name sir?
+[00:31] [Reed Scott]: My name is Reed Scott. Is is he in, do you know?
+[00:37] [Receptionist]: Uh I really don't know, uh I would have to check. Do— I can try to see if he's available at the moment if you like. Or I can check—
+[00:46] [Reed Scott]: Yeah, check—
+[00:47] [Receptionist]: All right. Uh do you allow me to place you on a brief hold for one minute?
+[00:51] [Reed Scott]: Yeah, all good. Thank you.
+[00:53] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

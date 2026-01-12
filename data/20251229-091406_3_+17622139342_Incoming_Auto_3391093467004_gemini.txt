@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Destiny / Role: Caller from Emory Hospital: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:04] [Destiny]: Hi, my name is Destiny, I'm calling on behalf of Emory Hospital. I was calling in regards to a reduction request we received for a patient?
+[00:14] [Receptionist]: What's the patient's name?
+[00:16] [Destiny]: First name is spelled K-W-E-S-I, last name is Landers.
+[00:23] [Receptionist]: That would be with, let me see, just one second.
+[00:28] [ ... Silence (5s) ... ]
+[00:33] [Receptionist]: Reduction... um, who did the email come from?
+[00:37] [Destiny]: Let me see... was it Michael Soul?
+[00:41] [Receptionist]: Yes. Okay. Let me go ahead and transfer you over.
+[00:47] [Destiny]: Okay.
+[00:48] [ ... Silence (5s) ... ]
+[00:53] [Receptionist]: You have a great rest of your day.
+[00:56] [Destiny]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

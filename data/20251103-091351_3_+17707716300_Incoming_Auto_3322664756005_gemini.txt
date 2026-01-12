@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at a law firm: 7 turns
+  • Speaker 2 / [Karen] / Role: Representative from Newton and Associates Spine and Pain: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Good day, this is the law firm, Dante speaking.
+[00:04] [Karen]: Hi, good morning. This is Karen calling from Newton and Associates Spine and Pain. Um, I'm calling regarding uh two mutual patients um that we have, uh different accidents, but I was just needing to get policy limits um for their case.
+[00:24] [Receptionist]: Okay. I can take a look at that for you.
+[00:27] [Karen]: Yeah, thank you so much.
+[00:32] [Receptionist]: What's the first client's name?
+[00:34] [Karen]: First client's, the first name is spelled I-N-A-S, last name is Cole, C-O-L-E.
+[00:46] [Receptionist]: Okay. So for Inas Cole, you're calling for policy limits, okay. On this one... [ ... Silence (8s) ... ] ...for liability, we have fifty-one hundred.
+[01:04] [Karen]: Okay. Thank you so much for that. And then the second client is Patricia Perry.
+[01:12] [ ... Silence (21s) ... ]
+[01:33] [Receptionist]: Okay, Patricia Perry, just confirming date of loss May 7th of this year?
+[01:41] [Karen]: Let me confirm that for you. Yes, May 7th of this year. Mhm.
+[01:47] [Receptionist]: Also the same, fifty-one hundred is the limit.
+[01:50] [Karen]: Perfect. Alrighty, I appreciate your help. Thank you so much.
+[01:55] [Receptionist]: You're welcome. You have a great one.
+[01:57] [Karen]: You too, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

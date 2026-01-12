@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided email addresses for the case manager and attorney, then initiated a transfer to the case manager.",
+    "call_duration_seconds": 88.99,
+    "call_duration_formatted": "01:28"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist identified the case manager, provided contact information, and initiated the transfer after the caller agreed."
+  }
+}

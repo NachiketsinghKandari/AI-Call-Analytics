@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Amber] / Role: [Receptionist] at eBay and Associates: 4 turns
+  • [John Smith] / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Amber]: Thank you for calling eBay and Associates, this is Amber, how can I help you?
+[00:03] [John Smith]: Hi Amber, this is uh, this is John Smith.
+[00:06] [Amber]: Hi John, how can I help you today?
+[00:08] [John Smith]: Um, I'm calling to, uh, check on the status of my, uh, case.
+[00:12] [Amber]: Sure, let me, uh, let me look that up for you. Can I have your case number?
+[00:15] [John Smith]: Yeah, it's, uh, 1-2-3-4-5.
+[00:18] [Amber]: Okay, one moment please.
+
+========================================
+TRANSCRIPT END
+========================================

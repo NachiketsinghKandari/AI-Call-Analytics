@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Daniel / Role: Caller from Direct General Insurance: 5 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bey and Associates, how can I help you?
+[00:06] [Daniel]: Hey, hello, my name is Daniel from Direct General Insurance. I'm trying to get a hold of, uh, Victoria Morales regarding client Johnquel Grimes.
+[00:16] [Receptionist]: Let's see. How did you spell Grimes?
+[00:22] [Daniel]: Uh, yep. G-R-I-M-E-S.
+[00:28] [Receptionist]: Thank you. Hold on, please.
+[00:31] [Daniel]: Thank you.
+[00:32] [ ... Silence (71s) ... ]
+[01:43] [Receptionist]: Yes, I'm back, friend. Can I please have the date of loss?
+[01:47] [Daniel]: Uh, sure. It's going to be August 9th, '25.
+[01:52] [Receptionist]: All right. Let me see if Victoria is available. Stay on the line. Thank you.
+[01:56] [Daniel]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

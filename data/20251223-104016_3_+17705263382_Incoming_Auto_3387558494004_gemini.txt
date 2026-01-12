@@ -1,0 +1,18 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 2 turns
+  • Speaker 2 / Ms. Sanford / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel, how can I help you today?
+[00:07] [Ms. Sanford]: Hey, good morning. Um, this is Ms. Sanford. Actually, I received a document to be signed and I just need a little more insight information concerning that document before I sign it and send it over.
+[00:23] [Receptionist]: Okay. Give me one moment.
+[00:26] [ ... Silence (14s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Chanel Bradley / Role: National General Insurance: 2 turns
+  • Speaker 2 / [Receptionist] / Role: Receptionist: 2 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Hello?
+[00:05] [Chanel Bradley]: Hi, Chanel Bradley calling with National General Insurance. I'm calling regarding a bodily injury claim that I'm handling. It's for your client Lisa Hankins, it's H-A-N-K-I-N-S as in Sam. Date of accident is August 20th of this year.
+[00:31] [Receptionist]: Okay. Let me verify if the case manager is available.
+[00:37] [Chanel Bradley]: Okay, thanks.
+[00:39] [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

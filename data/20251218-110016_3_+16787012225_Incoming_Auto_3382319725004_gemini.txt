@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Jessica / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel speaking, how can I help you?
+[00:05] [Jessica]: Hi, good morning. My name is Jessica. I'm calling from MAICA Orthopedics in Lawrenceville about a mutual client, Ms. Candy Faulkner, date of loss 8/28/25.
+[00:14] [Receptionist]: Give me one second.
+[00:16] [ ... Silence (10s) ... ]
+[00:26] [Receptionist]: Candy, you said, right?
+[00:28] [Jessica]: Yes, C-A-N-D-I, Candy.
+[00:30] [ ... Silence (9s) ... ]
+[00:39] [Receptionist]: All right, let me place you on a brief hold, okay?
+[00:41] [Jessica]: Okay, thank you.
+[00:42] [Receptionist]: Ma'am, the case manager is not available, she's on another call. I can send you to her voicemail and then she can call you back.
+[00:49] [Jessica]: Okay, thank you.
+[00:51] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

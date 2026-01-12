@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Ryan / Role: Caller from Bristol West Insurance: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, tell me help you.
+[00:05] [Ryan]: Hi, uh, my name is Ryan with Bristol West Insurance, I was calling to follow up on two of your clients?
+[00:10] [Receptionist]: Sure, what are the names?
+[00:12] [Ryan]: Uh, the first one is, uh, Hussain Syed Ahmed and I can spell those if you need them.
+[00:20] [Receptionist]: Yeah.
+[00:23] [Ryan]: Um, so first name H-U-S-S-A-I-N, uh, and then the last name I have as S-A-I-Y-A-D.
+[00:33] [Receptionist]: Yeah, looks like Jamila Hussain, yep, mhm.
+[00:38] [Ryan]: Yep.
+[ ... Silence (9s) ... ]
+[00:48] [Receptionist]: Let me get it over to Linda, I know she's handling the file. One sec.
+[00:52] [Ryan]: Okay, thanks.
+[00:54] [Receptionist]: Do you want her email and direct dial as well?
+[00:57] [Ryan]: Um, yeah, sure. Actually, I think I spoke with her, actually, I should have that information already. Should have just called her. Sorry about that. I do have her direct dial and her email.
+[01:09] [Receptionist]: Oh, I can still transfer you, no worries. One sec.
+[01:11] [Ryan]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

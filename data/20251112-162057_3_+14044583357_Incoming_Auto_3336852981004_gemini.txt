@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Ben and Associates: 8 turns
+  • Speaker 2 / [Anthony Shergot] / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Ben and Associates, Kim speaking.
+[00:04] [Anthony Shergot]: Hi, uh, this is Anthony Shergot. I'm calling about the Joseph Keili versus Georgia State Patrol case, trying to reach Mr. Bay.
+[00:15] [Receptionist]: Joseph Keili, you said?
+[00:20] [Anthony Shergot]: That's correct. K-E-I-L-I.
+[00:24] [ ... Silence (7s) ... ]
+[00:31] [Receptionist]: Okay, I'm trying to pull that up here.
+[00:35] [ ... Silence (7s) ... ]
+[00:42] [Receptionist]: You said it was K-E-I?
+[00:46] [Anthony Shergot]: Yep.
+[00:48] [ ... Silence (11s) ... ]
+[00:59] [Receptionist]: Okay, let me see if Mr. Bay is still available, one second.
+[01:07] [Receptionist]: Okay, let's see. It seems like he's already left for today. Um, would you like to leave a voicemail for his executive assistant?
+[01:22] [Anthony Shergot]: Uh, I mean, every time I call, I leave a voicemail for him and I don't get a response, so... um, that's fine.
+[01:29] [Anthony Shergot]: Thanks.
+[01:33] [Receptionist]: You're welcome. You have a great rest of your day, sir.
+[01:37] [Anthony Shergot]: Thanks, you too.
+[01:39] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

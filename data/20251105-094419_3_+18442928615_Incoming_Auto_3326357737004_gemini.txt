@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: [Receptionist] at Bey and Associates: 4 turns
+  • Speaker 2 / Oretta / Role: Representative at State Farm: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Tasha, may I help you?
+[00:07] [Oretta]: Hi Tasha, my name is Oretta, I'm calling from State Farm. I'm just trying to get the email for, um, sorry, let me see here, Matt McCarron.
+[00:23] [Receptionist]: Yes ma'am, is this regarding a client?
+[00:27] [Oretta]: Yes, Jasmine Thompson.
+[00:30] [Receptionist]: One moment. [ ... Silence (11s) ... ] Okay, all right. Okay, um, Mr. Matt's email address is matt, M-A-double-T, at bayandassociates.com. That's B-E-Y-A-N-D associates.com.
+[00:58] [Oretta]: Okay, thank you.
+[01:00] [Receptionist]: All righty, you have a good day.
+[01:02] [Oretta]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

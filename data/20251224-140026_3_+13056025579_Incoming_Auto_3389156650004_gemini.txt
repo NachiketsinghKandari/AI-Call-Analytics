@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Karissa / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Lionel.
+[00:07] [Karissa]: Hello, good afternoon. My name is Karissa speaking on behalf of Metro Ambulance Services. Can you help me with the case status of the client Tarmeshia Reeves, please?
+[00:24] [Receptionist]: Um, we are working on the reduction so far.
+[00:28] [Karissa]: Perfect. Just to make sure that we are talking for the same date of loss, do you have February 26, 2025, right?
+[00:36] [Receptionist]: Mhm.
+[00:38] [Karissa]: Perfect. When do you believe it's okay for a next follow-up?
+[00:42] [Receptionist]: I'm sorry?
+[00:43] [Karissa]: When do you believe it's okay for a next follow-up?
+[00:47] [Receptionist]: I don't know.
+[00:49] [Karissa]: It's okay if we call back in 30 days?
+[00:52] [Receptionist]: Yeah.
+[00:54] [Karissa]: Perfect. Thank you so much. Take care. Bye.
+[00:57] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

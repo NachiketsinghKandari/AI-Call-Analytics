@@ -1,0 +1,56 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Kimmy / Role: Receptionist at Bey and Associates: 21 turns
+  • [Renee] / Renee / Role: Caller from I-Care Orthopedics: 20 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:04] [Renee]: Hi Kimmy, good morning. This is Renee calling from I-Care Orthopedics. How are you?
+[00:10] [Receptionist]: I'm doing good, how about yourself?
+[00:13] [Renee]: I'm good Kimmy. Um, this is it for the, for the um, end of the year. One, two, three, four, five, six, I got eight that need a update. And this is it for the end of the year. Can you assist me?
+[00:28] [Receptionist]: Okay, one second.
+[00:31] [ ... Silence (14s) ... ]
+[00:45] [Receptionist]: Okay, I'm ready.
+[00:46] [Renee]: Okay, the first one, last name is Lawrence, L-A-W-R-E-N-C-E. The first name is Meredith, M-E-R-E-D-I-T-H.
+[00:58] [Receptionist]: Okay, this is in litigation review.
+[01:01] [Renee]: Oh, she's in lit review? Okay. Okay, um, what about um, last name is Tiwari, T-I-W-A-R-I. First name is Jahai, J-U-H-A-I.
+[01:16] [Receptionist]: T-I... oh. This is um, pre-litigation reduction.
+[01:27] [Renee]: Okay. What about Mitchell is the last name, first name is Oriel, O-R-I-E-L.
+[01:36] [Receptionist]: O-R-I-E-L? Correct, Mitchell's the last name. O-R-I-E-L. We don't have... oh yeah. This one is archived already.
+[01:48] [Renee]: Oh. Why is it archived? We didn't receive the negotiated amount of $5,000 that was with Terrence Chapman. Who's the case manager for that one?
+[02:05] [Receptionist]: Linda Huff.
+[02:07] [Renee]: Linda Huff, okay. Case manager, okay. I will email her. And the next one is going to be last name is going to be Khan or Kahn, K-H-A-N. First name is Shakwana, S-H-A-K-W-A-N-A.
+[02:31] [Receptionist]: U-M demand ready.
+[02:36] [Renee]: So it's not settled?
+[02:39] [Receptionist]: I'm sorry?
+[02:40] [Renee]: It's not settled, right?
+[02:42] [Receptionist]: No ma'am.
+[02:43] [Renee]: Okay. The last name is Moore, M-O-O-R-E. The first name is Cynthia, C-Y-N-T-H-I-A. Cynthia Moore.
+[02:55] [Receptionist]: Litigation closing.
+[03:01] [Renee]: And the next is last name is Moore also, and her first name is Jacey, J-A-C-E-Y. Jacey Moore.
+[03:15] [Receptionist]: J-A-C-Y... J-A-C-E-Y. That's a minor?
+[03:23] [Renee]: Is she a minor? She is a minor, yes.
+[03:28] [Receptionist]: Pre-lit closing.
+[03:32] [Renee]: Linda is the case manager?
+[03:35] [Receptionist]: Linda Huff too?
+[03:37] [Renee]: Linda Huff.
+[03:41] [Receptionist]: Linda Huff, case manager. Okay, the next one is going to be Daniels, D-A-N-I-E-L-S. Daniel?
+[03:52] [Renee]: Daniels with an S, D-A-N-I-E-L-S. And the first name is Alina, Alina Daniels.
+[04:01] [Receptionist]: Minor?
+[04:03] [Renee]: Is she a minor? She is a minor, yes.
+[04:09] [Receptionist]: Pre-lit closing.
+[04:13] [Renee]: Okay, this is the last one. The last name is Lewis, L-E-W-I-S. First name is um, Andraya, A-N-D-R-A-Y-A.
+[04:29] [Receptionist]: Linda is also the case manager and it's in pre-lit closing.
+[04:37] [Renee]: Good. That's it. Thank you so much, Kimmy.
+[04:42] [Receptionist]: You're welcome. You have a great rest of your day.
+[04:44] [Renee]: You too. Happy holidays there.
+[04:46] [Receptionist]: Thank you, you too. Bye-bye.
+[04:48] [Renee]: Bye now.
+
+========================================
+TRANSCRIPT END
+========================================

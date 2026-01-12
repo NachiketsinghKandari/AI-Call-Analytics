@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 4 turns
+  • Speaker 2 / [Angie Collins] / Role: Representative at Merrick Medical: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Timmy speaking.
+[00:03] [Angie Collins]: Hi, good morning. My name is Angie Collins with Merrick Medical. I'm calling to see if I can get in contact with the case manager for client Martha Starks.
+[00:14] [Receptionist]: Okay, one second. [ ... Silence (8s) ... ] Okay, that's Paige Allman. And you said you were calling from where?
+[00:27] [Angie Collins]: Merrick Medical.
+[00:29] [Receptionist]: Okay. Let me get Paige for you.
+[00:33] [Angie Collins]: Sure.
+[00:34] [Receptionist]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

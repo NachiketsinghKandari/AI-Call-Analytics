@@ -1,0 +1,27 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the case manager for the requested file, confirmed their unavailability, and transferred the caller to the case manager's voicemail.",
+    "call_duration_seconds": 113.47,
+    "call_duration_formatted": "01:53"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist attempted to reach the case manager, found them unavailable, and transferred the caller to the case manager's voicemail at the caller's request."
+  }
+}

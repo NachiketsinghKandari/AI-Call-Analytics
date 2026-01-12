@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Jamie Thomas / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates Home Health, how may I help?
+[00:07] [Jamie Thomas]: Yes, I was calling to speak to my attorney about, um, an update.
+[00:13] [Receptionist]: Let's see, sure. Can I have your name, please?
+[00:16] [Jamie Thomas]: Jamie, J-A-M-I-E, last name Thomas, T-H-O-M-A-S.
+[00:23] [Receptionist]: Thank you so much, Ms. Thomas. Let's see.
+[ ... Silence (5s) ... ]
+[00:31] [Receptionist]: All right. So, let's see here if the first point of contact, which is your case manager, is available, right? She has all the information. All right, give me one...
+[00:43] [Jamie Thomas]: Who is my case manager?
+[00:45] [Receptionist]: Oh, sure. Her name is Carrie Waites. Carrie is spelled K-E-R-R-I. Mm-hmm.
+[00:52] [Jamie Thomas]: Okay.
+[00:53] [Receptionist]: She's the one who has all the information and everything. Give me just one minute. Thank you.
+[00:58] [Jamie Thomas]: Okay.
+[01:01] [Receptionist]: Jamie, thank you for staying on the line. I was trying to get in contact with the case manager and also with the attorney for the update, but it looks like that they are out of the office. They might be on lunch time. So, at this moment, would you like to leave them a voice message just to see if they can call you back?
+[01:18] [Jamie Thomas]: Yes, please.
+[01:19] [Receptionist]: Yes, sure. All right. I will pass you over to the voicemail and have an excellent rest of your day then.
+[01:27] [Jamie Thomas]: Okay.
+[01:28] [Receptionist]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

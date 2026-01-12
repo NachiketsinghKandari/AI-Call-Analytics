@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dinel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Ben McDowd / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates. This is Dinel.
+[00:07] [Ben McDowd]: Yes, hello. Good morning. Uh, my name is Ben McDowd. Did you say your name was Lionel?
+[00:14] [Receptionist]: Dinel.
+[00:16] [Ben McDowd]: Dinel. Hello, Dinel. How you doing, boss?
+[00:20] [Receptionist]: I'm fine. What about you?
+[00:23] [Ben McDowd]: I'm doing great. I'm, uh, calling—the purpose of my call is to ask for assistance leaving a voicemail or message for a member of the team regarding one of y'all's clients whose name is Yolanda Roberts and the team member's name is Victoria Morales. Can you help me with that, please, Dinel?
+[00:48] [Receptionist]: So you want to leave a voicemail or talk to her?
+[00:53] [Ben McDowd]: Uh, well, if she's available and it's not an imposition, I'll hold the line to talk to her, but if she's not available, I'm happy to leave a message and a way to call back. It's whatever's easiest for you.
+[01:05] [Receptionist]: You're calling from where?
+[01:08] [Ben McDowd]: I'm calling from McDowd Chiropractic.
+[01:12] [Receptionist]: Okay, one moment.
+[01:14] [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

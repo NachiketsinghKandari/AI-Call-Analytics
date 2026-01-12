@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "intake_completed",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist completed a full intake for a new motor vehicle accident claim and informed the caller that the details would be reviewed by an attorney for a follow-up decision.",
+    "call_duration_seconds": 1009.37,
+    "call_duration_formatted": "16:49"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during the call; the receptionist performed the intake directly."
+  }
+}

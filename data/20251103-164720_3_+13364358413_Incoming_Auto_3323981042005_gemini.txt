@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: [Receptionist] at Bey and Associates: 4 turns
+  • Speaker 2 / Trip Rob / Role: Representative from National General Insurance: 2 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:08] [Trip Rob]: Yeah hi this is Trip Rob with National General Insurance. I'm trying to get in touch with uh Jonathan Steel or his case manager legal secretary regarding uh your client Gary Martin, our insured.
+[00:23] [Receptionist]: I see. One moment please.
+[00:28] [Receptionist]: Thank you so much for holding. Um, Jonathan is not available and the case manager is on another call. Do you want to leave a voicemail?
+[00:41] [Trip Rob]: Yeah, that's fine.
+[00:43] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "scheduling_and_appointments",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist initiated a transfer to a specific staff member after the caller requested to reschedule a meeting, and the call ended immediately afterward.",
+    "call_duration_seconds": 43.27,
+    "call_duration_formatted": "00:43"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated they would check for the requested staff member's availability and the call ended immediately after, indicating the caller was placed into the transfer path."
+  }
+}

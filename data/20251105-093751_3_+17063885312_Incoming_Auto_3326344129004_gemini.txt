@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Damon]/ Role: [Receptionist] at Bain and Associates Law Firm: 8 turns
+  • Speaker 2 / [Catherine]/ Role: Caller from Emory Hillandale Hospital: 8 turns
+
+----------------------------------------
+
+[00:00] [Damon]: Bain and Associates Law Firm, Damon speaking.
+[00:05] [Catherine]: Good morning, my name is Catherine. I'm calling from Ms. Spurion on behalf of Emory Hillandale Hospital. I need to speak with someone regarding an account. I just need to see if the claim or the case is still open.
+[00:19] [Damon]: Okay.
+[00:21] [Catherine]: Um, my patient's name is, um, O-L-U-M-A-I... I- I will spell it because I have no idea how to pronounce it.
+[00:29] [Damon]: No, you're good. You can spell it for me, no problem.
+[00:33] [Catherine]: Okay, so it's O-L-U-M-A-Y-O-W-A.
+[00:44] [Damon]: Got it.
+[00:45] [Catherine]: And the last name is... Oh, you found it?
+[00:48] [Damon]: I found it. So this case at the moment, it seems like the status is litigation discovery.
+[01:00] [Catherine]: Okay. That's still open. Okay, perfect. Um, do you guys have an, like an estimated date on when it will settle or no? Just so I know it's a few years old, so...
+[01:15] [Damon]: No. Yeah, no specific date as of yet.
+[01:19] [Catherine]: Okay, perfect. I'll update my notes. Well, thank you so much for your help, I appreciate it.
+[01:27] [Damon]: You're more than welcome. If anything, give us a call back, okay?
+[01:31] [Catherine]: Perfect, thank you so much.
+[01:34] [Damon]: Bye-bye.
+[01:36] [Catherine]: All right, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

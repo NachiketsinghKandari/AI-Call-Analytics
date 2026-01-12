@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Unknown / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how may I help you?
+[00:03] [Speaker 2]: Yes, hi. I was wondering if I could please speak to Kelly?
+[00:07] [Receptionist]: Uh, Kelly... do you have the last name?
+[00:12] [Speaker 2]: Joyner.
+[00:13] [Receptionist]: Joyner?
+[00:14] [Speaker 2]: Mhm.
+[00:15] [Receptionist]: Uh, just a second. So, are you a client?
+[00:19] [Speaker 2]: Right, uh, no. Uh, I'm calling from Med Council and I just wanted to basically just uh inquire on whether this firm needs help with finding medical expert witnesses for for malpractice cases.
+[00:31] [Receptionist]: Ah sure. In this case you will need to talk with one of our associates that is in charge of the relationships for the medical facilities and everything, okay? We have a person in charge for that. So I'm going to give you the telephone number and you can call him directly and you can offer your service.
+[00:46] [Speaker 2]: Sure. So this is uh like an office manager of some sort?
+[00:49] [Receptionist]: Yes, this is the operations manager. Mhm.
+[00:52] [Speaker 2]: Operations manager. Okay, sure. Go ahead. Yep.
+[00:55] [Receptionist]: It is 404...
+[00:57] [Speaker 2]: 404...
+[00:58] [Receptionist]: 591...
+[01:00] [Speaker 2]: 591. Okay.
+[01:01] [Receptionist]: 8928.
+[01:04] [Speaker 2]: 8928. Okay. Uh, okay. And uh can I just know the person's first name that I should ask for?
+[01:11] [Receptionist]: Sure. It is Matt. M-A-T-T.
+[01:15] [Speaker 2]: Got it. Okay. Okay, sounds good. Okay, thank you very much.
+[01:19] [Receptionist]: You're more than welcome. Something else, sir, or that's all?
+[01:22] [Speaker 2]: I think that should be it. Yeah.
+[01:24] [Receptionist]: Right. Have a good one. Bye-bye.
+[01:26] [Speaker 2]: You too. Thank you. Take care. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

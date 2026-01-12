@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Michael Dasher / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo speaking, how may I help you?
+[00:04] [Michael Dasher]: Hello, is uh, Ms. Page in?
+[00:09] [Receptionist]: Uh, let's see if she's available. Can I have please your— your name?
+[00:16] [Michael Dasher]: Michael Dasher.
+[00:19] [ ... Silence (7s) ... ]
+[00:26] [Receptionist]: Can I have the date of the incident, please?
+[00:29] [Michael Dasher]: Uh... I think it was April? I don't remember.
+[00:40] [Receptionist]: Okay, yes, more or less. Let's see if Peggy is available. Stay on the line.
+[00:46] [Michael Dasher]: Okay.
+[00:50] [Receptionist]: Thank you for staying on the line. It looks like that Peggy isn't available. Would you like to leave her a voice message? Or whenever she's available, she can call you back.
+[00:59] [Michael Dasher]: Oh, I wanted to know if anybody else, uh, can assist us on the case?
+[01:05] [Receptionist]: Um, actually she's the case manager. She's the only person in charge. Yes, she's the one who's doing follow-up and everything. Okay?
+[01:14] [Michael Dasher]: Okay. All right, well, thank you.
+[01:18] [Receptionist]: All right. Anyways, I will let her know that you called, just to see if she can return the— the phone call to you, okay?
+[01:25] [Michael Dasher]: Okay.
+[01:26] [Receptionist]: Thank you. Anything else or that's all?
+[01:28] [Michael Dasher]: Oh, that's it.
+[01:30] [Receptionist]: All right, have a good one. Take care.
+[01:32] [Michael Dasher]: You too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

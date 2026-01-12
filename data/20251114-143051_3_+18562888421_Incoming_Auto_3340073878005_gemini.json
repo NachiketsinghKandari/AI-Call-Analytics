@@ -1,0 +1,27 @@
+{
+  "caller_type": "sales_vendor",
+  "call_summary": {
+    "primary_intent": "solicitation_and_spam",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist initiated a transfer to the requested staff member's voicemail after stating she was unavailable, and the caller was successfully connected to the voicemail system.",
+    "call_duration_seconds": 33.34,
+    "call_duration_formatted": "00:33"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist informed the caller that Brittany Lawson was out of the office and transferred the caller to her voicemail as requested."
+  }
+}

@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dainel / Role: [Receptionist] at Bayan and Associates: 8 turns
+  • Speaker 2 / Hope / Role: Client: 8 turns
+
+----------------------------------------
+
+[00:00] [Dainel]: Thank you for calling Bayan and Associates. This is Dainel.
+[00:04] [Hope]: This is Hope.
+[00:05] [Dainel]: Thank you for calling Bayan and Associates. This is Dainel.
+[00:09] [Hope]: Dainel. Okay. Good morning, Dainel. How are you?
+[00:10] [Dainel]: Fine. What about you?
+[00:12] [Hope]: I'm good. Uh, I- I'm calling Dainel concern- I've been trying to get in touch with Matt, with, uh, his name is Matt McCallen. He had called me about a couple weeks back and he said that you guys had been trying to reach me. But I received this a- letter from Bayan and Associates of certified- visa certified mail and email letter from you guys. Uh, it's- and it's concerning a- this is a contact letter. Uh, this says this letter is to inform you that we need to hear from you as soon as possible in regards to October 19th. You guys got 2025 incident with MARTA, but it happened October 19th, 2019. And- and it said the situation with MARTA in which we represent you for. Uh, and it said you guys had been trying to get in contact with me in the past, but, uh, I needed to call you guys back, you know, as soon as possible so my case could be discussed. So that's what I'm calling for this morning, um, Dainel.
+[00:55] [Dainel]: Okay. So let me verify if the person in charge is available. A moment.
+[01:00] [Hope]: Okay. Thank you.
+[01:01] [ ... Silence (5s) ... ]
+[01:06] [Dainel]: Um, thank you so much for holding. The case manager in charge is on another call. I will be sending her an email so she can give you a call back today, okay?
+[01:14] [Hope]: What's her name, Dainel?
+[01:16] [Dainel]: Lillian.
+[01:17] [Hope]: Okay, Lillian. Okay. Okay, thank you so much.
+[01:22] [Dainel]: Thank you, you too, and have a nice day.
+[01:24] [Hope]: You have a wonderful day and you stay safe.
+[01:27] [Dainel]: You too. Thank you.
+[01:28] [Hope]: Okay. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

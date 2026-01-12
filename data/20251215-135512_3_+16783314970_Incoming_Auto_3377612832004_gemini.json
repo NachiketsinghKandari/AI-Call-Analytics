@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested the case manager's name and email address. The receptionist provided the name but the call ended while searching for the email address.",
+    "call_duration_seconds": 90.22,
+    "call_duration_formatted": "01:30"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

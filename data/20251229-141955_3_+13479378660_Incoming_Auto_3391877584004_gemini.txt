@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kim speaking. Hello?
+[00:09] [Unknown]: Hello, good afternoon.
+[00:11] [Receptionist]: Yes, how can I help?
+[00:14] [Unknown]: Yes, who usually handles employee gifts or branded merchandise for your company?
+[00:20] [Receptionist]: I'm sorry, I didn't catch that.
+[00:23] [Unknown]: I have a quick question.
+[00:26] [Receptionist]: Yes.
+[00:27] [Unknown]: Yes, so who usually handles employee gifts or branded merchandise for your company?
+[00:33] [Receptionist]: That would be Ms. Brittany Lawson. Would you like to speak with her?
+[00:41] [Unknown]: Yeah. Yes, I'd like to speak with them.
+[00:44] [Receptionist]: All right, going to transfer you over. You have a great rest of your day, sir.
+[00:52] [Unknown]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

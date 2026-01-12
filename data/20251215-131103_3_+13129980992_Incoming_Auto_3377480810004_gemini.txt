@@ -1,0 +1,52 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 18 turns
+  • Speaker 2 / Andrea Biser / Role: Caller: 17 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Andrea Biser]: Hi, good afternoon, I'm actually looking for Matt McCarron, we have a scheduled Zoom meeting with him at this time.
+[00:13] [Receptionist]: Understood. Are you a client, ma'am?
+[00:16] [Andrea Biser]: Uh, no, I'm actually one of um the firm's partners, uh we provide insurance for the firm.
+[00:23] [Receptionist]: Oh, got it. Uh, yes, can you provide me the name of the company, ma'am?
+[00:27] [Andrea Biser]: Redan, R-E-D-A-N, Redan.
+[00:31] [Receptionist]: Perfect. All right. So let me tell you, um, do you allow me to place you on a brief hold for one minute? Let me see if Mr. Matt's legal assistant is available at the moment.
+[00:46] [Andrea Biser]: Okay, that would be great. Yeah, we were actually supposed to meet with both him as well as John and Dante.
+[00:57] [Receptionist]: And Dante, understood. Yes, uh, all right, so this is what I can do, ma'am. I I can try to reach out to Mr. Dante to see if he's available at the moment.
+[01:05] [Andrea Biser]: Yes, if you could reach any of them, that would be helpful.
+[01:08] [Receptionist]: Perfect. What is your name just so I can let them know?
+[01:11] [Andrea Biser]: Andrea Biser, B-I-S-E-R.
+[01:15] [Receptionist]: Perfect. Excellent. I'll be right back with you in one minute, ma'am.
+[01:18] [Andrea Biser]: Okay, thank you.
+
+[ ... Silence (10s) ... ]
+
+[01:30] [Receptionist]: All right, thank you so much for holding, ma'am.
+[01:33] [Andrea Biser]: Yeah, no problem.
+[01:34] [Receptionist]: Uh, let me tell you, so Mr. Dante is not available at the moment, but this is what I can do on my end. Uh, if you like, I can transfer you over to his voicemail so you can leave one, and I'm also going to send them an email along with Mr. Matt, uh so that they can get back to you as soon as possible. I'm deeply sorry about this.
+[01:42] [Andrea Biser]: Yeah, so the meeting really wasn't with Dante though, it was with Matt. Is he not available?
+[01:48] [Receptionist]: Uh, he's not available at the moment either, ma'am, but I can I can reach out to him via email.
+[01:56] [Andrea Biser]: Okay.
+[01:58] [Receptionist]: All right. Do you have a direct line where they can reach you at?
+[02:01] [Andrea Biser]: 312-
+[02:03] [Receptionist]: Yes.
+[02:04] [Andrea Biser]: 998-
+[02:05] [Receptionist]: 998, yes.
+[02:07] [Andrea Biser]: 09-
+[02:08] [Receptionist]: 09-
+[02:09] [Andrea Biser]: 92.
+[02:10] [Receptionist]: 92, perfect. I got a 312-998-0992.
+[02:16] [Andrea Biser]: Yep.
+[02:17] [Receptionist]: Perfect. Yes. So let me tell you, ma'am, uh would it be helpful if I transfer you over to Mr. Dante's voicemail?
+[02:25] [Andrea Biser]: Sure.
+[02:27] [Receptionist]: Understood. I'll send the email right away, ma'am. All right?
+[02:30] [Andrea Biser]: Okay, thank you.
+[02:32] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

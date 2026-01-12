@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist located the patient's file and the record of a sent check, then initiated a transfer to the assigned case manager to address the caller's claim that the payment was never received.",
+    "call_duration_seconds": 175.97,
+    "call_duration_formatted": "02:55"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated he would check if the case manager was available and the call ended immediately after his final statement of intent to help."
+  }
+}

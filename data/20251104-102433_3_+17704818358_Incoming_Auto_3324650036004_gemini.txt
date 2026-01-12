@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Stanes Associates: 9 turns
+  • Speaker 2 / [Alex Parton] / Role: Job Seeker: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Stanes Associates, this is Tasha, how can I help you?
+[00:07] [Alex Parton]: Hi, Brittany Lawson, please.
+[00:10] [Receptionist]: May I ask who's calling, sir?
+[00:12] [Alex Parton]: Uh, my name's Alex Parton.
+[00:15] [Receptionist]: And what is it regarding, Mr. Alex? Are you a potential client?
+[00:18] [Alex Parton]: Uh, yeah, I was call- I was calling about a job for a paralegal.
+[00:23] [Receptionist]: Okay, one moment.
+[00:29] [Receptionist]: And you said your name was Alex?
+[00:31] [Alex Parton]: Yes.
+[00:33] [Receptionist]: And last name, sir? Just want to make sure I have it right.
+[00:37] [Alex Parton]: Parton, P-A-R-T-O-N.
+[00:42] [Receptionist]: Okay, one moment.
+[00:43] [ ... Silence (5s) ... ]
+[00:48] [Receptionist]: Well, Mr. Alex, unfortunately, Ms. Brittany's not available at this very moment, sir, but I can transfer you to her personal voicemail you can leave a message for her.
+[00:58] [Alex Parton]: That'd be great. Thank you.
+[01:00] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

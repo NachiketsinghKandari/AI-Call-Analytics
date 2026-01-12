@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Brooke / Role: Receptionist at CPS: 4 turns
+  • Speaker 2 / Makaya Bridges / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling CPS, this is Brooke speaking.
+[00:06] [Makaya Bridges]: Hi, um, my name is Makaya Bridges and I was just calling to see if there was any update on my son's case.
+[00:14] [Receptionist]: Can I have his name?
+[00:17] [Makaya Bridges]: Chozyn, C-H-O-Z-Y-N, last name Bridges, and the date of birth is July 11th, 2019.
+[00:24] [Receptionist]: Okay, one second.
+[ ... Silence (20s) ... ]
+[00:45] [Receptionist]: Okay, I'm looking at the case right now.
+
+========================================
+TRANSCRIPT END
+========================================

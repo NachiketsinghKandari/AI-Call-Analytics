@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Bain and Associates: 3 turns
+  • [Jeff Huggins] / Role: From Medicaid: 3 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bain and Associates, this is Tasha, how may I help you?
+[00:08] [Jeff Huggins]: Yes, Tasha, Jeff Huggins from Medicaid. I'm looking for Michael Sole or his associate or his paralegal.
+[00:17] [Receptionist]: Michael Sole? S-O-L-E? Yeah?
+[00:21] [Jeff Huggins]: Yeah.
+[00:22] [Receptionist]: Okay, I can transfer you over.
+[00:24] [Jeff Huggins]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

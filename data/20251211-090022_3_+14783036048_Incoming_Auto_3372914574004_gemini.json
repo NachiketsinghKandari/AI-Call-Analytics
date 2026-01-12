@@ -1,0 +1,21 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller attempted to discuss ticket delivery logistics, but the receptionist was unable to hear the caller, resulting in a communication failure and the call ending without any action taken.",
+    "call_duration_seconds": 34.34,
+    "call_duration_formatted": "00:34"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

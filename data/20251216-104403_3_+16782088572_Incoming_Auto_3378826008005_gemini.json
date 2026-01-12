@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the caller with the direct phone number for the firm's COO to facilitate a discussion regarding business collaboration.",
+    "call_duration_seconds": 150.48,
+    "call_duration_formatted": "02:30"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist provided contact information for the caller to reach the staff member directly."
+  }
+}

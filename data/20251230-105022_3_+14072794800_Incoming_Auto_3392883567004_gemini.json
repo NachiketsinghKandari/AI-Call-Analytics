@@ -1,0 +1,27 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to reach the requested staff member and, upon confirming they were unavailable, transferred the caller to the staff member's voicemail.",
+    "call_duration_seconds": 67.32,
+    "call_duration_formatted": "01:07"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "After an unsuccessful attempt to reach the staff member, the receptionist transferred the caller to the staff member's voicemail at the caller's request."
+  }
+}

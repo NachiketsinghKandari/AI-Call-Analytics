@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Joao Gomes / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Joao Gomes]: Hey Angelo, how you doing? My name is Joao, J-O-A-O, last name Gomes, G-O-M-E-S. Is there any way you could um connect me to my case manager Stephanie because I received a text message from Michael but I don't really understand it and I would like Stephanie to break it down to me.
+[00:23] [Receptionist]: Sure, sure, I'm more than happy to assist you, let me help you with that. So let's see if Stephanie is available, give me just one minute, thank you.
+[00:34] [ ... Silence (7s) ... ]
+[00:41] [Receptionist]: Joao, thank you for staying on the line, so I was trying to reach Stephanie, but it looks like that she's unavailable at this moment. Would you like to take her direct line and try to call her later on? Maybe she's out of the office at this moment.
+[00:56] [Joao Gomes]: Can you just leave a message and have her call me?
+[00:58] [Receptionist]: Sure, so would you like me to leave the message or would you like to leave the voicemail?
+[01:05] [Joao Gomes]: No, no, I'd like— I'd like you to leave the message.
+[01:08] [Receptionist]: Okay, so I will leave the message for her to please call you back as soon as possible to the number that you're calling me at this moment, okay? She will call you, please keep an— keep an eye on your phone.
+[01:20] [Joao Gomes]: Alright.
+
+========================================
+TRANSCRIPT END
+========================================

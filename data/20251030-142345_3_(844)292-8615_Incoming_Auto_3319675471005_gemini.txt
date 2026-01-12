@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bain and Associates: 6 turns
+  • Speaker 2 / [Nina Call]/ Role: Representative from State Farm: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Cammy speaking.
+[00:05] [Nina Call]: Hey, Miss Cammy, this is Nina Call from State Farm, how are you today?
+[00:09] [Receptionist]: I'm doing well, thank you for asking. How about yourself?
+[00:12] [Nina Call]: I'm good, I'm good. I was calling because you guys are representing um four clients, um I guess the owner of the vehicle was Marie Tia Braswell.
+[00:26] [Receptionist]: Marie? Okay.
+[00:28] [Nina Call]: Yes.
+[00:29] [ ... Silence (12s) ... ]
+[00:42] [Receptionist]: Okay, that would be with Ms. Lonnie Pucci.
+[00:44] [Nina Call]: Okay.
+[00:45] [Receptionist]: Let me get her over- get you over to her. I'll go ahead and transfer you straight over. You have a great rest of your day.
+[00:54] [Nina Call]: Oh, you too.
+[00:55] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

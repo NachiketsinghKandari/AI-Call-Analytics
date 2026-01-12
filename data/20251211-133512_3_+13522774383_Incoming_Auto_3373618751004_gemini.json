@@ -1,0 +1,21 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the firm, searched for a case under the caller's name, confirmed no case existed in their system, and advised the caller regarding the missed call.",
+    "call_duration_seconds": 172.37,
+    "call_duration_formatted": "02:52"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

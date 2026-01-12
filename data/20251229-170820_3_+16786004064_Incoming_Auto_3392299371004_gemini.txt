@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Evelyn / Role: Caller from Dominguez Chiropractic: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Evelyn]: Hi, hello, good afternoon, this is Evelyn calling from Dominguez Chiropractic. I was calling regarding a patient with the name Darrell, D-A-R-R-E-L-L.
+[00:18] [Receptionist]: Darrell. Uh, what's his last name?
+[00:21] [Evelyn]: The last name is Stephens, that is S, T as in Thomas, E, P as in Paul, H, E, N, S.
+[00:30] [Receptionist]: Stephens. Perfect. And you said you're calling from where, sorry?
+[00:33] [Evelyn]: Dominguez Chiropractic.
+[00:36] [Receptionist]: Dominguez Chiropractic. Perfect. Let me see if the case manager is available. Um, do you mind if I place you on a brief hold for one minute?
+[00:44] [Evelyn]: Yes, that's fine. Thank you.
+[00:45] [Receptionist]: Thank you, ma'am.
+
+[ ... Silence (5s) ... ]
+
+[00:51] [Receptionist]: Alright, thank you so much for holding me.
+[00:53] [Evelyn]: Yes.
+[00:54] [Receptionist]: Alright, let me tell you, so the case manager for him would be Ms. Linda. She's not available at the moment, but this is what I can do. Um, I can transfer you over to her voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible. Is that okay?
+[01:07] [Evelyn]: Yeah, that's fine. Yeah, that's okay. Thank you.
+[01:11] [Receptionist]: Alright. Can you provide me your direct line, or a direct line?
+[01:14] [Evelyn]: Yeah, that's 404-800-3000.
+[01:21] [Receptionist]: Perfect. Alright, excellent. I'll transfer you over to her voicemail right now, ma'am.
+[01:27] [Evelyn]: Okay, thank you. I appreciate it.
+[01:29] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

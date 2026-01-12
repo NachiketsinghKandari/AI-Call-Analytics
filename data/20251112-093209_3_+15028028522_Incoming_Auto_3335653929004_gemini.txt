@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 15 turns
+  • Speaker 2 / [Martha Story] / Role: Client: 17 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is [unclear] speaking.
+[00:06] [Martha Story]: Yes, I was holding, I was talking to the other uh operator and I was holding and it disconnected. I was holding pretty long.
+[00:16] [Receptionist]: No, no, no... yo creo que no me está escuchando... no me escucha...
+[00:26] [Martha Story]: You still on here?
+[00:27] [Martha Story]: Yes, Martha Story.
+[00:28] [Receptionist]: It's not listening... it's not...
+[00:31] [Martha Story]: Can you hear me?
+[00:38] [Receptionist]: Continue. The call's breaking up.
+[00:41] [Martha Story]: Okay. Yes, it's Martha Story and I was waiting, she was gonna uh send me to whoever's handling my case.
+[00:53] [Receptionist]: Martha Story, let me pull up the file.
+[00:58] [Martha Story]: Okay.
+[01:01] [Receptionist]: No, no... yo creo que no me está escuchando... no me escucha... no... like, it's- it's- it's going right there, I'm saying things and- and it's not...
+[01:30] [Martha Story]: You still on here?
+[01:32] [Martha Story]: Hello?
+[01:35] [Martha Story]: Hello?
+[01:38] [ ... Silence (9s) ... ]
+[01:47] [Receptionist]: Wait a minute. I'm here, ma'am. Can you hear me?
+[01:51] [Martha Story]: Yes.
+[01:53] [Receptionist]: Okay. You were saying, Ms. Story, you were waiting on, uh, the attorney?
+[01:59] [Martha Story]: Well, I just- to see the status of the case.
+[02:04] [Receptionist]: Okay. Uh, so right now it seems like it's in mediation.
+[02:12] [Martha Story]: Okay. Um, can I just leave a message and ask them to call me? It's been in mediation for a while.
+[02:20] [Receptionist]: Okay. Let me get you to your case manager, okay?
+[02:26] [Martha Story]: Thank you.
+[02:28] [Receptionist]: You're welcome, ma'am. No problem.
+[02:31] [Receptionist]: Ms. Story?
+[02:33] [Martha Story]: Yes.
+[02:35] [Receptionist]: Seems like Veronica is away from her desk at this moment. What I can have her do is I can leave a message for you, to have her reach out to you, or I can have you transfer to her voicemail and she'll return the call.
+[02:47] [Martha Story]: No, if you'll just leave her a message. I'm actually at an appointment. Um, you have- you need my phone number?
+[02:57] [Receptionist]: We have your phone number on file. Do you have the 502-802-8522?
+[03:05] [Martha Story]: That's it. Thank you so, so much.
+[03:09] [Receptionist]: You're welcome, ma'am. No problem.
+[03:12] [Martha Story]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Claudia / Role: Caller from MRI Imaging Specialists: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for contacting Bey and Associates, this is Angelo speaking, how may I help?
+[00:08] [Claudia]: Hi Angelo, my name is Claudia calling from MRI Imaging Specialists. I received an order here from your patient named Kevin, and I can go ahead and spell out his last name.
+[00:19] [Receptionist]: Please.
+[00:21] [Claudia]: A last name is spelled Z as in Zulu, A as in Alpha, R as in Robert, D as in Delta, I as in India, E as in Echo, S as in Sierra.
+[00:33] [Receptionist]: Thank you. Yes, that is our client.
+[00:37] [Claudia]: Perfect. And who is the case manager?
+[00:41] [Receptionist]: Victoria Morales.
+[00:43] [Claudia]: Victoria Morales. Okay, and what's an email address?
+[00:55] [Receptionist]: Let's see.
+[00:59] [ ... Silence (30s) ... ]
+[01:29] [Claudia]: Okay, give me one brief moment.
+[01:32] [Receptionist]: No problem.
+
+========================================
+TRANSCRIPT END
+========================================

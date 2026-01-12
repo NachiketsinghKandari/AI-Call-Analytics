@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Lane and Associates Law Firm: 4 turns
+  • Speaker 2 / Jay Bruno / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Good morning, thank you for calling Lane and Associates Law Firm. My name is Fatima, how may I assist you today?
+[00:08] [Jay Bruno]: Hi, I was trying to reach Steven Lane.
+[00:11] [Receptionist]: You were trying to reach Steven Lane?
+[00:14] [Jay Bruno]: Yes.
+[00:15] [Receptionist]: Allow me one moment please. May I please ask who's calling?
+[00:18] [Jay Bruno]: Jay Bruno, B-R-U-N-O.
+[00:21] [Receptionist]: Thank you. One moment please.
+
+========================================
+TRANSCRIPT END
+========================================

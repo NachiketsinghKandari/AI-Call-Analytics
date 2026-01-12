@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / David / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [David]: Hey, how you doing? My name is David. I'm calling from Emory Decatur Hospital in regards to Shalante Spicer for the 7/11/2025 incident and I was trying to reach case management.
+[00:22] [Receptionist]: One moment.
+[00:27] [Receptionist]: The case manager is not available, do you want to leave a voicemail?
+[00:31] [David]: Yes, that's cool.
+
+========================================
+TRANSCRIPT END
+========================================

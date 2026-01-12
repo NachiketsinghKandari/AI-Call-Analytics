@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at B and Associates: 8 turns
+  • Speaker 2 / [Danielle Ross] / Role: Progressive Insurance representative: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: B and Associates, Kamy speaking.
+[00:05] [Danielle Ross]: Hey, this is Danielle Ross, Progressive Insurance. I'm sorry, what was your name?
+[00:10] [Receptionist]: Kamy.
+[00:12] [Danielle Ross]: Kamy, I am calling to make an initial offer on a client, Christopher Harris.
+[00:18] [Receptionist]: Okay, let me get it pulled up here.
+[00:22] [ ... Silence (24s) ... ]
+[00:47] [Receptionist]: That is with Ms. Lonnie, but she... let me get her for you.
+[00:49] [Danielle Ross]: Yes, please.
+[00:51] [Receptionist]: Ma'am, I was unable to get a hold of Lonnie or- nor the attorney. I don't know if you want to leave a message for either one? Voicemail?
+[01:02] [Danielle Ross]: Yeah, either one's fine.
+[01:04] [Receptionist]: Okay, I'll say... okay, so the- he is calling right now, one second. The attorney.
+[01:12] [Danielle Ross]: Mhm.
+[01:13] [Receptionist]: Okay, um, so he is still at his conference, so a voicemail would be good, he said. He would get back to you.
+[01:24] [Danielle Ross]: Okay. Thanks, Kamy.
+[01:26] [Receptionist]: All right, sending you over. Have a great rest of your day.
+[01:29] [Danielle Ross]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

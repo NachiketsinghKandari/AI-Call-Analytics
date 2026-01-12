@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Daniel / Role: Receptionist at Bayer and Associates: 12 turns
+  • [Speaker 2] / Role: Potential Client: 12 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bayer and Associates. This is Daniel.
+[00:06] [Speaker 2]: Hi, I was calling to see do you guys handle ride-share related accidents cases?
+[00:15] [Receptionist]: Okay, yes, we do handle basically all type of motor vehicle accidents. Um, when you say ride-share, was that in a Lyft or Uber?
+[00:26] [Speaker 2]: It was Lyft.
+[00:27] [Receptionist]: It was Lyft. Okay. And what was the date of this accident?
+[00:32] [Speaker 2]: The date? Yes. November 1st.
+[00:35] [Receptionist]: Okay, so it was two days ago?
+[00:42] [Speaker 2]: Yes.
+[00:43] [Receptionist]: Okay, so yes, we do handle, um, this type of cases. Um, do you know if the driver of your vehicle was at fault or was the other person?
+[00:53] [Speaker 2]: The other person was at fault.
+[00:56] [Receptionist]: Okay. Okay, so yes, in your case we can, you know, we can help you, we can complete your intake process and we can start working with your case right away.
+[01:07] [Speaker 2]: Okay, I just wanted to get a little bit of information about you guys's firm as far as percentages and the whole process.
+[01:15] [Receptionist]: Okay, so the first thing we do is to complete the intake process. Um, our normal percentage is the 33%. Um, however, um, how did you hear about us?
+[01:27] [Speaker 2]: A referral.
+[01:29] [Receptionist]: A referral. Okay, because you were referred to us by someone else, um, we can give you a 28% contract, which is the lowest we can go so far. Once we complete the intake process, um, we will obtain the police report and we will be filing claim with your with the Lyft and the other drivers as well so you can get benefits from both insurances, I mean Lyft and the other driver at fault. We also refer you for treatment if you were injured in this accident and, you know, we assign a case manager that also will follow up with you until the end.
+[02:12] [Speaker 2]: Okay, thank you so much. Is there any way, um, that you can send me an email with any of that information?
+[02:19] [Receptionist]: Um, yes, what is your email?
+[02:22] [Speaker 2]: D-A-Z-Z-E-P-P-A-3-4 at gmail dot com.
+[02:34] [Receptionist]: So D-A-G-C as in cat-E-T as in Tom-P as in Tom-A-3-4 at gmail dot com?
+[02:44] [Speaker 2]: It was D-A-Z as in zebra-Z as in zebra-E as in elephant-P-P-A.
+[02:54] [Receptionist]: And the first part B as in boy?
+[02:56] [Speaker 2]: No, D as in dog.
+[02:57] [Receptionist]: Okay. Okay, I will be sending you that email that information, okay?
+[03:02] [Speaker 2]: Thank you.
+[03:05] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

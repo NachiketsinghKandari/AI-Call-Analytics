@@ -1,0 +1,17 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bain and Associates: 2 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bain and Associates, Kim speaking.
+[00:06] [Speaker 2]: Hi, may I speak with Stephanie please?
+[00:09] [Receptionist]: Yes ma'am, let me go ahead and transfer you over.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: [Receptionist] at Bey and Associates: 6 turns
+  • Speaker 2 / Angie / Role: Caller from Georgia Spine and Orthopedic: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Jesse from Bey and Associates. How can I help you?
+[00:03] [Angie]: Hi, good morning Jesse. My name is Angie with Georgia Spine and Orthopedic. I was just calling to confirm if Cartavius Swan is being represented by your office and confirm who the case manager would be.
+[00:16] [ ... Silence (13s) ... ]
+[00:29] [Receptionist]: Sure. Uh, alright, so let me tell you. Uh, Mr. Swan, he is being represented by us and the case manager's name would be Linda.
+[00:41] [Angie]: Linda. Okay. Is there an email for Ms. Linda?
+[00:44] [Receptionist]: Give me one moment, let me see here. There should be.
+[00:51] [ ... Silence (8s) ... ]
+[00:59] [Receptionist]: Uh, yes, so the email would be Linda, just like that, L-I-N-D-A @ beyandassociates.com, all spelled out, B-E-Y-A-N-D and associates.com.
+[01:12] [Angie]: Okay, awesome, thank you. And is there also a direct line, um, available as well or is the office number just best?
+[01:18] [Receptionist]: Uh, no, it would have to be the office number. I would have to transfer you over to her. I can try to see if she's available at the moment.
+[01:27] [Angie]: Um, no, it's fine. I think I'll just send her an email. Um, I'll go ahead and list the office number for her, but thank you so much for your help.
+[01:35] [Receptionist]: Excellent. Thank you so much. I hope you have an excellent day, ma'am.
+[01:39] [Angie]: You too. Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

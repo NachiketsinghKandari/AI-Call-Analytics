@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dinel / Role: [Receptionist] at Brannon and Associates: 6 turns
+  • Speaker 2 / [Unknown] / Role: Caller from Walnut Hills Chiropractic: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Brannon and Associates, this is Dinel.
+[00:07] [Speaker 2]: Yes, I'm calling to get a hold of Kadeem Gibson.
+[00:12] [Receptionist]: Yes, you're calling from where?
+[00:14] [Speaker 2]: Cincinnati, Ohio.
+[00:18] [Receptionist]: Mhm, from which company or from where?
+[00:21] [Speaker 2]: Uh, Walnut Hills Chiropractic. I'm calling regarding Shemika Boyd and Mason Jones.
+[00:30] [ ... Silence (13s) ... ]
+[00:43] [Receptionist]: One moment. Um, thank you so much for holding. He's not in the office right now, but do you want to leave a voicemail?
+[00:49] [Speaker 2]: Is this the number to get a hold of him?
+[00:52] [Receptionist]: Yes.
+[00:54] [Speaker 2]: Okay. Yeah, let me leave a voicemail.
+[00:57] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

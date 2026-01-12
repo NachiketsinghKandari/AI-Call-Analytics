@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Mary / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Mary, how can I help you?
+[00:04] [Speaker 2]: Yes, good morning.
+[00:06] [Receptionist]: Well, good morning.
+[00:08] [Speaker 2]: How are you doing today?
+[00:10] [Receptionist]: I'm doing well, how are you?
+[00:12] [Speaker 2]: I'm doing fine, thank you.
+[00:14] [Receptionist]: Good.
+[00:15] [Speaker 2]: Uh, my name is...
+
+========================================
+TRANSCRIPT END
+========================================

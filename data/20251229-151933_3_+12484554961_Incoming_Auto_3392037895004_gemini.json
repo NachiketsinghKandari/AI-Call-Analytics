@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist offered to transfer the caller to the case management voicemail after stating that staff were unavailable due to the holidays, and the call ended following the caller's acceptance.",
+    "call_duration_seconds": 98.78,
+    "call_duration_formatted": "01:38"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist stated they would transfer the caller to the case managers' voicemail and the call ended immediately after the caller agreed."
+  }
+}

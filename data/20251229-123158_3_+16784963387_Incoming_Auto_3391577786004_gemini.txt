@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Renee / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Renee]: Hi Kim, Kim, good afternoon. This is Renee again from IGO Orthopedics. Kim, may I have two that I need to follow up on?
+[00:12] [Receptionist]: Yes ma'am. Can I have her name?
+[00:15] [Renee]: The first one is going to be last name is M as in Mary... no I did that one already. No, okay. M as in Mary, A-U-R-I-L-U-S. Maurilus. First name is Jean, G-E-A-N.
+[00:45] [Receptionist]: G-E-N?
+[00:47] [Renee]: G-E-A-N, Jean.
+[00:54] [Receptionist]: Okay, I'm on... I need that one again.
+[00:58] [Renee]: The last name is M-A-U-R as in Romeo, I-L as in Larry, U-S. First name is Jean, J-E-A-N.
+[01:14] [Receptionist]: That one is already archived.
+[01:21] [Renee]: Who's the case manager for this one?
+[01:23] [Receptionist]: Linda Huff.
+[01:26] [Renee]: Okay. Let me give you the other one before um I can't get her through email so we might have to get the attorney. Um, the next one is going to be last name A as in Alpha, G as in George, U-I-R-R-E. First name is Ruben, R-U-B-E-N.
+[01:53] [Receptionist]: Litigation review.
+[01:57] [Renee]: Is um Linda Huff available?
+[02:03] [Receptionist]: I can go ahead and transfer you over.
+[02:07] [Renee]: Thank you.
+[02:08] [Receptionist]: Okay. You have a great rest of your day, ma'am.
+[02:11] [Renee]: You too, Kim. Bye.
+[02:13] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

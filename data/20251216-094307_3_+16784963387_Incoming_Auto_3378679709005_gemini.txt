@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Renee / Role: Caller from ICO Orthopedics: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Lionel.
+[00:08] [Renee]: Hi, Lionel. My name is Renee. I'm calling from ICO Orthopedics. You said Lionel, right?
+[00:18] [Receptionist]: Yes.
+[00:19] [Renee]: Lionel, I'm calling to follow up on a payment status for a patient. Can you assist me?
+[00:25] [Receptionist]: What is the name?
+[00:27] [Renee]: The last name is Perry, P-E-R-R-Y. The first name is Antoine, A-N-T-U-A-N.
+
+[ ... Silence (11s) ... ]
+
+[00:51] [Receptionist]: The date of loss?
+[00:53] [Renee]: 12/15/23.
+
+[ ... Silence (33s) ... ]
+
+[01:29] [Receptionist]: So a payment was sent on November 13th, 25.
+[01:36] [Renee]: Okay. Um, do you, do you know who's the, um, case manager on that file?
+[01:46] [Receptionist]: Um, the person in charge last time, her name is Kerry, K-E-R-R-I.
+[01:56] [Renee]: K-E-R-R-I? Kerry?
+[01:59] [Receptionist]: R-I as in India.
+[02:02] [Renee]: And her last name?
+[02:04] [Receptionist]: W-A-I-T-E-S.
+[02:09] [Renee]: Waites. Okay, because we didn't, we didn't receive that payment as of yet. Do it also show...
+[02:19] [Receptionist]: You need to email Michael at beyandassociates.com.
+[02:23] [Renee]: Michael Soul?
+[02:24] [Receptionist]: Mhm.
+[02:25] [Renee]: Okay, Michael Soul. All right. Thank you so much, Lionel.
+[02:29] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

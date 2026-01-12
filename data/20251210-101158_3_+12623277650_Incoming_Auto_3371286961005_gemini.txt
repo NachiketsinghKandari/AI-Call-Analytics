@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Unknown / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:07] [Speaker 2]: Hi, um, I'm calling to speak to someone inside the office, uh, I'm trying to speak to someone regarding a bill.
+[00:19] [Receptionist]: Okay. Is that regarding a bill?
+[00:23] [Speaker 2]: Mhm.
+[00:27] [Receptionist]: Okay. May I have your phone number, please?
+[00:32] [Speaker 2]: It's 262-327-7650.
+[00:42] [Receptionist]: Okay. And what, um, I mean, what type of bill are you calling to talk about?
+[00:49] [Speaker 2]: So, uh, a chiropractor bill.
+[00:58] [Receptionist]: Okay. One moment.
+[01:00] [ ... Silence (13s) ... ]
+[01:13] [Receptionist]: So, you will need to discuss, um, based on, on the notes that I see here, your last case with us was on 2023 and you hired another attorney. So...
+[01:27] [Speaker 2]: Who? Who was that? Who was that?
+[01:31] [Receptionist]: I don't have that information.
+[01:39] [Receptionist]: And you just terminated our firm, so we didn't proceed with your case.
+[01:46] [Speaker 2]: Huh?
+[01:47] [Receptionist]: You terminated us on, on that time. So...
+[01:54] [Speaker 2]: I'm confused. Do you even, what bill am I talking about? What bill am I, am I, am I talking about?
+[02:01] [Receptionist]: I don't know the bill you are talking about. Um, what I mean is that based on my notes...
+[02:07] [Speaker 2]: I didn't even tell you what bill I was talking about. No, stop trying to overtalk me, okay? Because I know what I'm talking about. What they're ask— what they're talking to me about is from 2024 and you all were my lawyers at that time— uh, that firm was my lawyer at that time. So like I said, can you transfer me over to someone inside the office? 'Cause I don't know what you're talking about.
+[02:30] [Receptionist]: Okay. Give me one moment. Um, what is the name of the facility, um, you received the bill from?
+[02:37] [Speaker 2]: I'm not sure. But it's from, it's from AICA. And the only time that I have went to AICA was when I was with you all.
+[02:52] [Receptionist]: Okay. Yes, I do see the case from 2024. Give me one moment.
+[02:56] [Speaker 2]: Right. Can you transfer me to somebody, please?
+
+========================================
+TRANSCRIPT END
+========================================

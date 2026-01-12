@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at H and Associates: 5 turns
+  • Speaker 2 / [Teonka Thomas] / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: H and Associates, this is Nikki.
+[00:05] [Teonka Thomas]: Hello?
+[00:07] [Receptionist]: Yes, how can I help?
+[00:10] [Teonka Thomas]: Hey, I forgot the man's name, but he had called me and I was calling him back. [Coughing] Excuse me.
+[00:19] [Receptionist]: Can I have your name, please?
+[00:22] [Teonka Thomas]: Teonka Thomas.
+[00:27] [Receptionist]: Could you spell it for me? The first name?
+[00:31] [Teonka Thomas]: T-E-O-N-K-A Thomas.
+[ ... Silence (8s) ... ]
+[00:46] [Receptionist]: Okay, one second.
+[ ... Silence (8s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

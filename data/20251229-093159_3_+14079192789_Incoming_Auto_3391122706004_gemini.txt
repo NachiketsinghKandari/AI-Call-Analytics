@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jamie / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Frankleece / Role: Caller from Allstate: 5 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (13s) ... ]
+[00:13] [Receptionist]: Bey and Associates, Jamie speaking.
+[00:15] [Frankleece]: Uh, my name is Frankleece, I am calling from Allstate in regards of your client Sean Benton, calling to get intake information.
+[00:25] [Receptionist]: Sean?
+[00:27] [Frankleece]: Yes, last name is B-E-N-T-O-N.
+[00:30] [Receptionist]: Okay.
+[00:31] [ ... Silence (11s) ... ]
+[00:42] [Receptionist]: All right, I'll go ahead and transfer you over to Devin, he is the case manager that is handling this.
+[00:47] [Frankleece]: What's his name?
+[00:49] [Receptionist]: Devin, D-E-V-I-N.
+[00:52] [Frankleece]: Okay, thank you.
+[00:55] [Receptionist]: Okay, you have a great rest of your day.
+[00:58] [Frankleece]: You too, bye-bye.
+[00:59] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

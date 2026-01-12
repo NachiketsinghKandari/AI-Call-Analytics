@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • SPEAKER 1: 6 turns, 01:37 total speech time
+  • SPEAKER 2: 5 turns, 00:27 total speech time
+
+----------------------------------------
+
+[00:02] SPEAKER 1: Associates Law Firm. This is Marina. How can I help you?
+[00:06] SPEAKER 2: Please be advised this call might be monitored or recorded. My name is Diva. I'm calling with Medical Revenue Service on behalf of Douglas Hospital. I'm calling to verify the settle date for a Jonathan Carter.
+[00:21] SPEAKER 1: Jonathan Carter. Give me one moment. Is that the client's name?
+[00:38] SPEAKER 2: Jonathan Carter. Yes.
+
+   [ ... Hold / Silence (7s) ... ]
+
+[00:47] SPEAKER 1: I don't see any. Can I have a date of Say that again? Can I have the date of loss?
+[01:12] SPEAKER 2: It's gonna be 08/11/2018.
+
+   [ ... Hold / Silence (16s) ... ]
+
+[01:30] SPEAKER 1: 08/11/2018. Yes. I'm not seeing any file opened right now. Bear with me.
+[02:07] SPEAKER 2: It's okay.
+
+   [ ... Hold / Silence (30s) ... ]
+
+[02:38] SPEAKER 1: I have one for 10/08/2018, but it's not for August. And what exactly do you want? Do you need from
+[02:56] SPEAKER 2: I need to know the date that, like, the case settled and, like, who's the responsible for this outstanding balance.
+[03:10] SPEAKER 1: K. Let me place you on a brief hold. Alright? Goodbye. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

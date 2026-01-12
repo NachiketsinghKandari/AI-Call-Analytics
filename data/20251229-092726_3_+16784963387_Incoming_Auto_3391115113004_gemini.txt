@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Renee / Role: Caller from IKO Orthopedics: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina.
+[00:03] [Renee]: Good morning, Karina. My name is Renee. I'm calling from IKO Orthopedics. Is the attorney's office open today?
+[00:11] [Receptionist]: Most of the attorneys are not available today, honey. Well, you know, this week due to the holidays. Okay. Um, but what case do you want to talk about?
+[00:23] [Renee]: Um, the last name for this client, for this patient, is Roper, R-O-P-E-R. And the first name is, oh, Reniqua, R-E-N-I-Q-U-E-C-A.
+[00:43] [Receptionist]: You said Roper, R-O-P-E-R?
+[00:47] [Renee]: Correct.
+[00:48] [Receptionist]: And Reniqua?
+[00:51] [Renee]: Yes.
+[00:57] [Receptionist]: Well, this case is already closed.
+[01:01] [Renee]: The case is closed? We did a negotiation on them, um, some time ago, and I was wondering who is the case manager or the attorney on file so I can call them?
+[01:14] [Receptionist]: Yeah, the case manager's called Paige. But I can just provide you with her email if you want to go ahead and send her an email.
+[01:24] [Renee]: Okay. Is it Paige at Bey and Associates dot com?
+[01:28] [Receptionist]: That is right. P-A-Y-G-E.
+[01:32] [Renee]: Yes, I have that. And what was your first name?
+[01:35] [Receptionist]: Karina, K-A-R-I-N-A. So you are calling in regards of a check or something like that?
+[01:43] [Renee]: Yes, mm-hmm.
+[01:45] [Receptionist]: Um, let me see if I have something here. Just a second.
+
+[ ... Silence (22s) ... ]
+
+[02:13] [Receptionist]: Um, no, I still do not have that information. That's going to be with Paige. No, I'm so sorry. Just go ahead and send her any information that you need, and she will reply.
+[02:25] [Renee]: Okay. And you said it was settled, right?
+[02:28] [Receptionist]: Uh, yes, it is closed. It's all closed. All righty.
+[02:33] [Renee]: Oh, wow. Oh, okay. All right, I'll send the email to Paige. Thank you.
+[02:40] [Receptionist]: Sure, have a good day.
+[02:42] [Renee]: You too. Bye now.
+
+========================================
+TRANSCRIPT END
+========================================

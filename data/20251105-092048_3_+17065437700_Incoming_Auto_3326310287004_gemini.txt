@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Gabe / Role: Receptionist at Middleton Associates: 5 turns
+  • [Beth Campbell] / Beth Campbell / Role: Caller from Cal-C-E-R-T Health: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hey, Middleton Associates, Gabe speaking.
+[00:04] [Beth Campbell]: Hi, this is Beth Campbell from Cal-C-E-R-T Health. May I speak with someone in Taylor Middleton's office, please?
+[00:13] [Receptionist]: Yes, ma'am. Is this in regards to a specific client?
+[00:17] [Beth Campbell]: Yes, ma'am. Angela Kankam. That's K-A-N-K-A-M.
+[00:25] [ ... Silence (17s) ... ]
+[00:43] [Receptionist]: Okay, I can get you over to Stephanie Peck. She's the case manager.
+[00:51] [Beth Campbell]: Okay, thank you.
+[00:52] [Receptionist]: You're welcome. Have a great rest of your day.
+[00:54] [Beth Campbell]: You too.
+[00:55] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

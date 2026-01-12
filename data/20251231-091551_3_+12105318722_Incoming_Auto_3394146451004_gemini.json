@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with an attorney or the insurance team regarding a demand. The receptionist stated both were unavailable and took a message with the caller's callback number and extension.",
+    "call_duration_seconds": 91.87,
+    "call_duration_formatted": "01:31"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted because the receptionist informed the caller that the requested parties were unavailable before an attempt could be made."
+  }
+}

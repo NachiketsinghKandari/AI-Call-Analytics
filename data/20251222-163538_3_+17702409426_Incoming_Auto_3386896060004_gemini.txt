@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Katina / Role: Caller from Progressive Insurance: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Matt speaking.
+[00:04] [Katina]: Hi Matt, my name is Katina, I'm calling from Progressive Insurance. I'm calling in reference to, um, your client Gregory Moore, um, and I think the attorney is a Taylor Middleton.
+[00:17] [Receptionist]: Give me one second, I'll pull that up for you.
+[00:19] [ ... Silence (10s) ... ]
+[00:29] [Receptionist]: What's the date of loss?
+[00:31] [Katina]: Eight twenty-two twenty-five.
+[00:33] [Receptionist]: Okay.
+[00:34] [ ... Silence (19s) ... ]
+[00:53] [Receptionist]: I've got the file up, how may I help you?
+[00:56] [Katina]: Yeah, I was calling to, um, get an update on an offer that we sent out. Let me see something. Yeah, we sent out an offer, it looks like on the fourteenth.
+[01:14] [Receptionist]: I don't see that we received it. Um, can you email it over to me and I'll put it— I'll get it reviewed?
+[01:21] [Katina]: Okay, give me one second to pull that back screen. Okay.
+[01:27] [ ... Silence (22s) ... ]
+[01:49] [Katina]: Okay, um, all right, I will update this. Um, are you the case manager for this?
+[01:52] [Receptionist]: No, but I'll get it in front of the case manager and to— to Taylor. Um, if you just want to email it to Matt, M-A-T-T, at beyandassociates.com.
+[02:04] [Katina]: M-A-T-T-B-E-Y-A-N-D-A-S-S-O-C-I-A-T-E-S dot com.
+[02:10] [Receptionist]: Yeah, just like Matt at beyandassociates.com spelled all the way out.
+[02:14] [Katina]: Okay, awesome. I will get that over to you. Um...
+[02:18] [Receptionist]: And how much is the offer? So I can notate it.
+[02:21] [Katina]: The eight— the offer is for eight thousand four hundred and forty dollars.
+[02:25] [Receptionist]: Eight four four zero?
+[02:27] [Katina]: Mm-hmm.
+[02:28] [Receptionist]: Okay. Thank you.
+[02:31] [Katina]: Yes. Okay, so I'll get that over to you in a second.
+[02:34] [Receptionist]: All right, thanks.
+[02:35] [Katina]: All right, thanks.
+
+========================================
+TRANSCRIPT END
+========================================

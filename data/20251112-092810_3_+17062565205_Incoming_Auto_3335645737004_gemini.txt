@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 8 turns
+  • Speaker 2 / [Tiana] / Role: Representative for Northside Hospital: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devin speaking.
+[00:07] [Tiana]: Good morning, my name is Tiana and I'm calling on behalf of the Northside Hospital. I was wondering whether you guys have received a hospital lien that we've faxed over for Sebastian Caruso?
+[00:21] [ ... Silence (6s) ... ]
+[00:27] [Receptionist]: Let me take a look.
+[00:30] [Tiana]: Okay.
+[00:32] [Receptionist]: For Sebastian Caruso, you're looking to see if we received the lien, let me just take a look, on behalf of Northside Hospital. Hmm-mm-mm-mm-mm. Um...
+[00:46] [Tiana]: It looks like we, sorry, not faxed, emailed it. It looks like we emailed it over October the 10th.
+[00:57] [Receptionist]: Who was it emailed over to?
+[01:00] [Tiana]: Um, P-A-Y-G-E, so like Payge at bainassociates.com?
+[01:07] [Receptionist]: Yes, seems like it was received.
+[01:12] [Tiana]: Alright, awesome. And currently is the case still open or has it settled?
+[01:18] [Receptionist]: It's still open. Did you want to speak with the case manager?
+[01:23] [Tiana]: Um, well those were the only two questions I had today, but in the future is the Payge at Bain Associates an okay email for her or is it...
+[01:32] [Receptionist]: Yeah, if it was emailed to her then she received it.
+[01:38] [Tiana]: Okay, gotcha. Alright, well thank you so much.
+[01:42] [Receptionist]: You're welcome. Have a great one.
+[01:45] [Tiana]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

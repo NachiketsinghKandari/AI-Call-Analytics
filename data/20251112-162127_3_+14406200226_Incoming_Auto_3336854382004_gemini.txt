@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Dionel / Role: Receptionist at Bey and Associates: 11 turns
+  • Jennifer / Role: Representative from Progressive: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Dionel.
+[00:06] [Jennifer]: Hi, yes, my name is Jennifer, I'm calling from Progressive regarding Elmer Garcia.
+[00:12] [Receptionist]: What was the first name?
+[00:15] [Jennifer]: I'm sorry?
+[00:17] [Receptionist]: What was the first name, I'm sorry?
+[00:20] [Jennifer]: Elmer, E-L-M-E-R.
+[00:24] [Receptionist]: [ ... Silence (5s) ... ]
+[00:29] [Receptionist]: And you said the last name is Garcia?
+[00:33] [Jennifer]: Yes.
+[00:35] [Receptionist]: What is the date of loss?
+[00:37] [Jennifer]: 10/28/25.
+[00:40] [Receptionist]: Um, that is not the last name that we have, um, I mean, it's not the full name.
+[00:44] [Jennifer]: We have Elmer Domingo Garcia.
+[00:48] [Receptionist]: Yes.
+[00:50] [Jennifer]: Okay, I haven't received a rep letter yet, so I don't know how you have it in your system.
+[00:54] [Receptionist]: Um, yeah, it will be sent today.
+[00:57] [Jennifer]: I'm sorry?
+[00:59] [Receptionist]: We will send that letter today.
+[01:02] [Jennifer]: Okay. Is there someone I can— I just need to get some injury and treatment information.
+[01:07] [Receptionist]: Okay, so let me verify if the case manager is available, one moment.
+[01:12] [Jennifer]: Okay.
+[01:13] [Receptionist]: Um, thank you so much for holding. Um, the case manager is not available. Um, so the injuries that the client has is, um, headaches and whiplash so far. He's going to his local urgent care for treatment.
+[01:22] [Jennifer]: Okay. Are they— so not a chiropractor, just urgent care?
+[01:27] [Receptionist]: Yes.
+[01:29] [Jennifer]: Okay. And what is the case manager's name?
+[01:32] [Receptionist]: Lonie, L-O-N-I-E.
+[01:37] [Jennifer]: Okay. And, um, I'm sorry, what was your name?
+[01:45] [Receptionist]: Dionel, D-I-O-N-E-L.
+[01:49] [Jennifer]: All right, I'll just wait for that, um, rep letter and then, um, send the acknowledgment once I receive it. Thank you for the update.
+[01:59] [Receptionist]: Okay, thank you too.
+[02:01] [Jennifer]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

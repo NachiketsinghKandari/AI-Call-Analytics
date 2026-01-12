@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Vana Tokyo Law Firm: 8 turns
+  • Speaker 2 / [Stephanie]/ Role: Representative at Direct General Insurance: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vana Tokyo Law Firm, Devin speaking.
+[00:04] [Stephanie]: Yeah, hey, this is Stephanie with Direct General Insurance. Um, calling regarding a claim that y'all reported for client DeMario Reed.
+[00:14] [Receptionist]: One second, let me put you on a brief hold.
+[00:19] [Stephanie]: Okay.
+[00:21] [ ... Silence (5s) ... ]
+[00:26] [Receptionist]: Okay, thank you so much for patiently holding.
+[00:28] [Stephanie]: Uh-huh.
+[00:29] [Receptionist]: Um, you were calling regarding DeMario Reed, right?
+[00:33] [Stephanie]: Yes. Mm-hmm.
+[00:34] [Receptionist]: How can I assist you with this one today?
+[00:36] [Stephanie]: Um, I just—this is my first call out, I wanted to touch base on the details regarding injury, relationship with our insured, all that good stuff.
+[00:48] [Receptionist]: Alrighty, no problem. And you're calling from National General or from—
+[00:53] [Stephanie]: Yeah.
+[00:54] [Stephanie]: It's National General, the policy's Direct General. It's—
+[00:58] [Receptionist]: Okay. Let me get you to Victoria.
+[01:00] [Stephanie]: Okay, thanks.
+[01:02] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

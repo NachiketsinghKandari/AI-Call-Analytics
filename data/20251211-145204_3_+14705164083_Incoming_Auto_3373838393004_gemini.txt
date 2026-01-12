@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Andrea Obanyan / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse. How can I assist you?
+[00:06] [Andrea Obanyan]: Hi, John Bey, please.
+[00:08] [Receptionist]: Hello?
+[00:10] [Andrea Obanyan]: John Bey, please.
+[00:12] [Receptionist]: Uh, with John Bey? Yes, ma'am. Um, are you a client?
+[00:16] [Andrea Obanyan]: No, let him know it's Andrea Obanyan. Thank you.
+[00:21] [Receptionist]: Understood. And where are you calling from, ma'am?
+[00:24] [Andrea Obanyan]: I'm from the Legal Podcast Network. He should be familiar.
+[00:28] [Receptionist]: Perfect. Perfect. I'll be right back with you in one minute, ma'am.
+[00:33] [Andrea Obanyan]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

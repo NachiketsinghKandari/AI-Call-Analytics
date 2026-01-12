@@ -1,0 +1,17 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Amy / Role: Receptionist at Bey and Associates: 2 turns
+  • Speaker 2 / Unknown / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Amy speaking.
+[00:03] [Unknown]: Hi, may I speak with Jesse, please?
+[00:07] [Receptionist]: Yes, ma'am. Just one second. I'll go ahead and trans— sorry, I'll go ahead and transfer you over. Have a great rest of your day.
+
+========================================
+TRANSCRIPT END
+========================================

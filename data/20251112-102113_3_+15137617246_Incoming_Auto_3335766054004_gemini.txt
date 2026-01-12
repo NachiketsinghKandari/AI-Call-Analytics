@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Zainal / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Georgie / Role: Center for Chiropractic: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Zainal.
+[00:06] [Georgie]: Hi, this is Georgie from Center for Chiropractic. I'm calling in regards to your client Andre Howard.
+[00:14] [Receptionist]: Mhm.
+[00:16] [Receptionist]: Yes.
+[00:18] [Georgie]: Okay, sorry. Uh, we need—I had emailed Kadeem, but I need an LOP for him for a neuro-stim unit sent over to us.
+[00:28] [Receptionist]: Okay.
+[00:30] [Receptionist]: Let me verify if he's available.
+[00:33] [Georgie]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

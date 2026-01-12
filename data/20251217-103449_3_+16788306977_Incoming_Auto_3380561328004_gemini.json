@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific staff member who was unavailable. The receptionist offered a transfer to voicemail, which the caller declined, opting instead for the receptionist to send an email to the staff member to request a callback.",
+    "call_duration_seconds": 181.8,
+    "call_duration_formatted": "03:01"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was initiated as the caller declined the offer to be transferred to voicemail."
+  }
+}

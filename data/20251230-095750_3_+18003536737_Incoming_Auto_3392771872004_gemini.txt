@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Tommy / Role: Caller from Kemper Insurance: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, this is Karina, how can I assist you today?
+[00:04] [Tommy]: Hi, yes, uh, good morning. My name is Tommy. I'm giving a call on behalf of Kemper Insurance regarding a mutual customer for a Jermaine Akonbi.
+[00:14] [Receptionist]: Um, can I have the spelling of his last name, please?
+[00:17] [Tommy]: Yes, uh, E as in Edward, K as in Kite, A as in Alpha, M as in Michael, B as in Bravo, Y as in Yankee.
+[00:24] [ ... Silence (10s) ... ]
+[00:34] [Receptionist]: Let me check if the case manager is in the office. Keep in mind that due to the holiday season they're not in the office now, but I will see if she's in, okay? One moment.
+[00:43] [Tommy]: Thank you.
+[00:45] [Receptionist]: Thank you for holding. Yes, uh, she's not available today, and that's going to be until Monday. Would you like her voicemail?
+[00:52] [Tommy]: Uh, I'll just give a call back Monday. That's fine. Thank you.
+[00:55] [Receptionist]: Thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

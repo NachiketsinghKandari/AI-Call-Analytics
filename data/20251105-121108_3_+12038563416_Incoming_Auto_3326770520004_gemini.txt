@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 9 turns
+  • Speaker 2 / [Dylan Hines] / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devin speaking.
+[00:07] [Dylan Hines]: Hey, I was wondering if Brittany Lawson was in today?
+[00:11] [Receptionist]: Miss Lawson, yes, I believe she is in. May I ask who's calling?
+[00:19] [Dylan Hines]: Yeah, my name's Dylan. Um, she had called in requesting some information around DocuSign and remote online notary, so I was just, uh, following up on her last message.
+[00:32] [Receptionist]: Okay. Dylan, you have a last name?
+[00:37] [Dylan Hines]: Yeah, my last name's Hines, H-I-N-E-S.
+[00:41] [Receptionist]: Okay, Mr. Hines. So this is regarding a DocuSign, right?
+[00:45] [Dylan Hines]: Yeah, she, uh, Brittany requested information around DocuSign, um, like online notary for the firm, for Bain Associates, so I was just returning her call.
+[00:58] [Receptionist]: Okay. Let me reach out to her right now.
+[01:02] [Dylan Hines]: Thanks.
+[01:06] [Receptionist]: I'm sorry about that delay. I tried reaching out to Brittany, but I'm only getting a voicemail. Do you have her email?
+[01:34] [Dylan Hines]: Yep, I do.
+[01:36] [Receptionist]: Okay. Um, try shooting her an email regarding it. Um, if no response comes back by this afternoon, uh, you can give us a call back, Mr. Hines, and we'll try to assist you again to reach out to her, but right now it seems as though she's away from her desk. She's probably out to lunch.
+[01:45] [Dylan Hines]: Alrighty. I appreciate it. Thank you.
+[01:49] [Receptionist]: No, you're welcome, sir. If anything, just call back.
+[01:52] [Dylan Hines]: Thanks.
+[01:54] [Receptionist]: All right. Bye-bye.
+[01:55] [Dylan Hines]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

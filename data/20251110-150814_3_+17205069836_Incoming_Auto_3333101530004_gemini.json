@@ -1,0 +1,27 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist initiated a transfer to the office manager to address the caller's inquiry regarding overdue invoices and the call ended.",
+    "call_duration_seconds": 185.18,
+    "call_duration_formatted": "03:05"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist stated they would check for the office manager's availability to discuss the billing matter and the call ended immediately after the caller agreed."
+  }
+}

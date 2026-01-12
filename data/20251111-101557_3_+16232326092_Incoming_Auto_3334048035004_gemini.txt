@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 4 turns
+  • Speaker 2 / [Tracy Evans] / Role: Representative from Farmers Insurance: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Uh, it was rear-ended at 15 mph.
+[00:05] [Tracy Evans]: Hello, this is Tracy Evans calling from Farmers Insurance about Randall Rick Drummer.
+[00:11] [Receptionist]: Okay.
+[00:12] [ ... Silence (5s) ... ]
+[00:17] [Receptionist]: No, my insured...
+[00:18] [Receptionist]: Let me get you turned to the case manager. Her name is Paige Almond.
+[00:23] [Tracy Evans]: Yes, your insured was the one that hit the other.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Sarah Jenkins / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, this is Lionel. How can I help you?
+[00:05] [Sarah Jenkins]: Hi, Lionel. My name is Sarah Jenkins. I'm calling about a case.
+[00:10] [Receptionist]: Hi, Sarah. Let me look that up for you. One moment.
+[00:15] [ ... Silence (7s) ... ]
+[00:22] [Receptionist]: Okay, I have it here. What can I help you with?
+[00:25] [Sarah Jenkins]: I was just wondering, uh, if there's any update on the, um, the filing?
+
+========================================
+TRANSCRIPT END
+========================================

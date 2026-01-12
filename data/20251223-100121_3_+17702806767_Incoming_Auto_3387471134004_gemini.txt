@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Kaylen / Role: Caller from Progressive Insurance: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:03] [Kaylen]: Hey, this is Kaylen with Progressive Insurance, uh, calling on a mutual client.
+[00:09] [Receptionist]: Yes ma'am, how can I help?
+[00:11] [Kaylen]: Sure, um, I believe the attorney name is, uh, Elaine Zavala. Is she available?
+[00:21] [Receptionist]: Um, what's the mutual client's name?
+[00:26] [Kaylen]: Uh, Christian.
+[00:32] [Receptionist]: Last name?
+[00:34] [Kaylen]: The last name is kind of, um, Chamougne— I'll spell it out for you. C-H-A-M-O-U-G-N-E-dash-T-A-N-K-A-M.
+[00:50] [Receptionist]: Okay, that would be Stephanie Salamanka. Let me get her for you. I'll transfer you straight over, okay?
+[00:59] [Kaylen]: All right.
+[01:01] [Receptionist]: Have a great rest of your day.
+[01:03] [Kaylen]: All right, you too.
+[01:05] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

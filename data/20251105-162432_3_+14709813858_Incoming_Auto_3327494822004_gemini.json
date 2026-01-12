@@ -1,0 +1,21 @@
+{
+  "caller_type": "spanish_speaker",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about a second pending settlement check. The receptionist determined the assigned staff member was unavailable and confirmed that a note was in place for a callback to be made the following day.",
+    "call_duration_seconds": 260.86,
+    "call_duration_formatted": "04:20"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist checked for the staff member's availability internally, but no transfer was attempted as the staff member had already left the office for the day."
+  }
+}

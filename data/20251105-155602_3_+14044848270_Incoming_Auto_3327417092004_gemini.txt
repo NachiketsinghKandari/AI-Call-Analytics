@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 1 turn
+  • Speaker 2 / [John Smith] / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bain and Associates, Kim speaking.
+[00:04] [John Smith]: Hi, Kim. This is, uh, John Smith calling for, uh, Mr. Bain.
+
+========================================
+TRANSCRIPT END
+========================================

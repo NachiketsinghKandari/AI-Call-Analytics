@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific attorney regarding a settlement payment. The receptionist determined the attorney was unavailable and the caller agreed to a callback.",
+    "call_duration_seconds": 67.54,
+    "call_duration_formatted": "01:07"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist offered a callback after determining the attorney was unavailable."
+  }
+}

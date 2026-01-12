@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Speaker 1] / Role: [Unidentified Caller]: 9 turns
+  • Speaker 2 / [Receptionist] / Role: [Receptionist at B and S Associates]: 7 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: Uh, I need a...
+[00:02] [Speaker 1]: I need a...
+[00:04] [Speaker 1]: I need a... uh...
+[00:06] [Receptionist]: Hello?
+[00:08] [Speaker 1]: Hello?
+[00:10] [Receptionist]: Hello?
+[00:12] [Speaker 1]: Hello?
+[00:14] [Receptionist]: Yes, hello, this is Angelo from B and S Associates, how may I help?
+[00:18] [Speaker 1]: Somebody called this number.
+[00:21] [Receptionist]: Okay.
+[00:23] [ ... Silence (5s) ... ]
+[00:28] [Receptionist]: Something that I can help you?
+[00:31] [Speaker 1]: Somebody called this number, I was just calling back.
+[00:35] [Receptionist]: Okay, so you don't need help then.
+[00:41] [Speaker 1]: No.
+[00:43] [Receptionist]: All right. Have a good one then.
+[00:48] [Speaker 1]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

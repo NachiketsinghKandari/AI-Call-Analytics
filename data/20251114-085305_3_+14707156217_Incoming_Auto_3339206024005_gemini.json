@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided initial building information and then initiated a transfer to another department to provide the caller with specific directions.",
+    "call_duration_seconds": 61.92,
+    "call_duration_formatted": "01:01"
+  },
+  "transfer_context": {
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist stated he was in a different department and would put the caller through to the office for directions, and the call ended immediately after the caller agreed."
+  }
+}

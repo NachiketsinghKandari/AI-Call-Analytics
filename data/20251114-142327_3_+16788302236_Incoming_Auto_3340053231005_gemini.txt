@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at the law firm of Dabbs: 11 turns
+  • Speaker 2 / [Unnamed] / Role: Employee at Atlanta Check Cashers: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling the law firm of Dabbs, Devin speaking, how can I help you?
+[00:03] [Speaker 2]: I'm calling from Atlanta Check Cashers trying to verify a settlement check.
+[00:10] [Receptionist]: Sure, no problem. I can help you with that, of course.
+[00:14] [Receptionist]: What is the client's first and last name?
+[00:17] [Speaker 2]: Um, the first name is Da- Daisha Julius Beard.
+[00:25] [Receptionist]: You said Beard?
+[00:28] [Speaker 2]: Yes, B-E-A-R-D.
+[00:32] [Receptionist]: And first name D-I-A-S-H-A?
+[00:35] [Speaker 2]: D-I-A-S-H-A.
+[00:38] [Receptionist]: [ ... Silence (11s) ... ]
+[00:49] [Speaker 2]: Is this your first time here?
+[00:51] [Receptionist]: [ ... Silence (11s) ... ]
+[01:02] [Speaker 2]: And this...
+[01:04] [Receptionist]: [ ... Silence (3s) ... ]
+[01:07] [Speaker 2]: No, it's because we got a new system, so we just gotta make you a new- new profile. Um, I gotta take a photo of you holding the check because of the amount.
+[01:16] [Speaker 2]: I got you. You can sign the back though, your name and number.
+[01:19] [Receptionist]: This settlement check is for Daisha Julius Beard, correct?
+[01:24] [Speaker 2]: Yes.
+[01:26] [Receptionist]: By any chance is it check number 39025?
+[01:35] [Speaker 2]: Yes.
+[01:37] [Receptionist]: Dated um, November 13th, yesterday, for $4,300?
+[01:42] [Speaker 2]: Yes. Uh, your phone number too.
+[01:45] [Speaker 2]: And what is your name?
+[01:47] [Receptionist]: My name is Devin, D-E-V-I-N.
+[01:49] [Speaker 2]: Uh, any last name?
+[01:52] [Receptionist]: Uh, it's just Devin.
+
+========================================
+TRANSCRIPT END
+========================================

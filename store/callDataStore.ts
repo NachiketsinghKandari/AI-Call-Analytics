@@ -1,0 +1,175 @@
+import { create } from 'zustand';
+import { persist } from 'zustand/middleware';
+import type { FileInfo, FilterState, DataStats, SankeyOptions, CustomSankeyOptions } from '@/lib/types';
+
+interface CallDataState {
+  // Data
+  files: FileInfo[];
+  isLoading: boolean;
+  error: string | null;
+  dataSource: 'none' | 'sample' | 'uploaded';
+
+  // Computed stats
+  stats: DataStats | null;
+
+  // Filters
+  filters: FilterState;
+
+  // Selection
+  selectedFileId: string | null;
+
+  // Sankey options
+  sankeyOptions: SankeyOptions;
+
+  // Actions
+  setFiles: (files: FileInfo[]) => void;
+  setLoading: (loading: boolean) => void;
+  setError: (error: string | null) => void;
+  setDataSource: (source: 'none' | 'sample' | 'uploaded') => void;
+  setFilters: (filters: Partial<FilterState>) => void;
+  resetFilters: () => void;
+  setSelectedFileId: (id: string | null) => void;
+  setSankeyOptions: (options: Partial<SankeyOptions>) => void;
+  clearData: () => void;
+}
+
+const defaultFilters: FilterState = {
+  resolutionTypes: [],
+  achievedStatus: ['resolved', 'unresolved', 'unknown'],
+  callerTypes: [],
+  primaryIntents: [],
+  transferStatus: ['successful', 'failed', 'no_transfer'],
+  durationRange: [0, 600],
+  multiCase: ['true', 'false', 'unknown'],
+};
+
+const defaultCustomOptions: CustomSankeyOptions = {
+  showCallerType: true,
+  showIntent: false,
+  showResolutionStatus: true,
+  showResolutionType: true,
+  showTransferStatus: false,
+  showDestination: false,
+  showSecondaryAction: false,
+};
+
+const defaultSankeyOptions: SankeyOptions = {
+  preset: 'resolution',
+  customOptions: defaultCustomOptions,
+};
+
+function computeStats(files: FileInfo[]): DataStats {
+  const resolutionTypes = new Set<string>();
+  const callerTypes = new Set<string>();
+  const primaryIntents = new Set<string>();
+  let minDuration = Infinity;
+  let maxDuration = -Infinity;
+
+  for (const file of files) {
+    resolutionTypes.add(file.resolution_type);
+    callerTypes.add(file.caller_type);
+    if (file.primary_intent) {
+      primaryIntents.add(file.primary_intent);
+    }
+    if (file.call_duration !== null) {
+      minDuration = Math.min(minDuration, file.call_duration);
+      maxDuration = Math.max(maxDuration, file.call_duration);
+    }
+  }
+
+  return {
+    totalFiles: files.length,
+    resolutionTypes: Array.from(resolutionTypes).sort(),
+    callerTypes: Array.from(callerTypes).sort(),
+    primaryIntents: Array.from(primaryIntents).sort(),
+    durationRange: [
+      minDuration === Infinity ? 0 : Math.floor(minDuration),
+      maxDuration === -Infinity ? 600 : Math.ceil(maxDuration),
+    ],
+  };
+}
+
+export const useCallDataStore = create<CallDataState>()(
+  persist(
+    (set, get) => ({
+      // Initial state
+      files: [],
+      isLoading: false,
+      error: null,
+      dataSource: 'none',
+      stats: null,
+      filters: defaultFilters,
+      selectedFileId: null,
+      sankeyOptions: defaultSankeyOptions,
+
+      // Actions
+      setFiles: (files) => {
+        const stats = computeStats(files);
+        const newFilters: FilterState = {
+          ...defaultFilters,
+          resolutionTypes: stats.resolutionTypes,
+          callerTypes: stats.callerTypes,
+          primaryIntents: stats.primaryIntents,
+          durationRange: stats.durationRange,
+        };
+        set({
+          files,
+          stats,
+          filters: newFilters,
+          selectedFileId: files.length > 0 ? files[0].id : null,
+        });
+      },
+
+      setLoading: (isLoading) => set({ isLoading }),
+
+      setError: (error) => set({ error }),
+
+      setDataSource: (dataSource) => set({ dataSource }),
+
+      setFilters: (newFilters) =>
+        set((state) => ({
+          filters: { ...state.filters, ...newFilters },
+        })),
+
+      resetFilters: () => {
+        const { stats } = get();
+        if (stats) {
+          set({
+            filters: {
+              ...defaultFilters,
+              resolutionTypes: stats.resolutionTypes,
+              callerTypes: stats.callerTypes,
+              primaryIntents: stats.primaryIntents,
+              durationRange: stats.durationRange,
+            },
+          });
+        } else {
+          set({ filters: defaultFilters });
+        }
+      },
+
+      setSelectedFileId: (selectedFileId) => set({ selectedFileId }),
+
+      setSankeyOptions: (options) =>
+        set((state) => ({
+          sankeyOptions: { ...state.sankeyOptions, ...options },
+        })),
+
+      clearData: () =>
+        set({
+          files: [],
+          stats: null,
+          dataSource: 'none',
+          filters: defaultFilters,
+          selectedFileId: null,
+          error: null,
+        }),
+    }),
+    {
+      name: 'resolution-analytics-storage',
+      partialize: (state) => ({
+        sankeyOptions: state.sankeyOptions,
+      }),
+    }
+  )
+);

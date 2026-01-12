@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Morgan and Associates: 5 turns
+  • Speaker 2 / [Samantha Herndon] / Role: Potential Client: 4 turns
+
+----------------------------------------
+
+[00:03] [Receptionist]: Morgan and Associates, [Name] speaking. How can I help you?
+[00:07] [Samantha Herndon]: Um, hi. My name is Samantha Herndon and I was calling to get, um, to speak to someone in regards to issues I'm having with an apartment that I was staying in, well, I'm currently staying in.
+[00:19] [Receptionist]: So you're seeking representation for an issue that you're having at an apartment?
+[00:25] [Samantha Herndon]: Yes.
+[00:27] [Receptionist]: Um, was there any injuries involved?
+[00:30] [Samantha Herndon]: No injuries.
+[00:33] [Receptionist]: No injuries. Um, unfortunately, ma'am, we only do take personal injury cases and we would not be able to, to assist if there was no injury.
+[00:45] [Samantha Herndon]: Okay.
+[00:47] [Receptionist]: Alright.
+
+========================================
+TRANSCRIPT END
+========================================

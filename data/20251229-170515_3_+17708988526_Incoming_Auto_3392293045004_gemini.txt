@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Leila / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Leila]: Hi, my name is Leila calling from Arrowhead Clinic. Um, I was calling for one of my patients and I was just trying to confirm that you guys do represent her.
+[00:14] [Receptionist]: Sure. What is the name?
+[00:17] [Leila]: Patient name Tiffany, T-I-F-F-A-N-I-E, last name Victor, V-I-C-T-O-R.
+[00:28] [ ... Silence (23s) ... ]
+[00:51] [Receptionist]: One moment.
+[00:52] [Leila]: Okay, sure.
+[00:54] [ ... Silence (36s) ... ]
+[01:30] [Receptionist]: No, I couldn't find... you said Tiffany, right? Victor?
+[01:34] [Leila]: Yes. T-I-F-F-A-N-I-E.
+[01:40] [Receptionist]: And Victor the normal spelling?
+[01:42] [Leila]: Correct.
+[01:44] [Receptionist]: Do you have by any chance her telephone number?
+[01:47] [Leila]: Um, her telephone number it is 404-368-0183.
+[02:00] [ ... Silence (8s) ... ]
+[02:08] [Receptionist]: No, it looks like that she isn't one of our clients. I couldn't find nothing there with the full name or the telephone, nothing is here.
+[02:19] [Leila]: Okay, thank you for looking. I hope you have a great day.
+[02:22] [Receptionist]: You as well, thank you, bye-bye.
+[02:25] [Leila]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

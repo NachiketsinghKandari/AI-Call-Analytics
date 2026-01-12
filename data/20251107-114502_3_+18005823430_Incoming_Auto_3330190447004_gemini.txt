@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at B and A Associates Law Firm: 8 turns
+  • Speaker 2 / [Irfan Nadab] / Role: Representative from Allstate: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: B and A Associates Law Firm, Devin speaking.
+[00:07] [Irfan Nadab]: Hi, my name is Irfan Nadab with Allstate where you are in good hands. Just so you know this call might be recorded for quality assurance. I'm sorry, I didn't catch your name, may I know who am I speaking with?
+[00:18] [Receptionist]: Devin.
+[00:20] [Irfan Nadab]: Devin. It's D-E-V-I-N?
+[00:27] [Receptionist]: That's correct.
+[00:29] [Irfan Nadab]: All right. So hi Devin, how are you doing today?
+[00:32] [Receptionist]: Doing good so far. How can I assist?
+[00:35] [Irfan Nadab]: All right. So Devin, I'm calling in reference to your client name is Luis Solis and Hezi Aguar, as we need an update on the signed release which we have not received yet. Could you help me with the same, Devin?
+[00:51] [Receptionist]: Okay. Can you assist us with the release?
+[00:58] [Irfan Nadab]: Yes, signed release.
+[01:01] [Receptionist]: Let me see if Tara is available. Allow me just a second.
+[01:06] [Irfan Nadab]: All right, Devin. Thank you so much for your help.
+[01:11] [ ... Silence (6s) ... ]
+[01:17] [Receptionist]: I do apologize about that. The person handling the case regarding the release is not available. She's in a meeting. I can transfer you over to her voicemail and you can- and she can return a call to you regarding that?
+[01:27] [Irfan Nadab]: All right, no problem, Devin. Thank you so much for your help.
+[01:32] [Receptionist]: You're welcome, sir. Transferring you over to Tara.
+[01:36] [Irfan Nadab]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

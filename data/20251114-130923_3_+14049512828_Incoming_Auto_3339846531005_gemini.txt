@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Marina / Role: Receptionist at Nunez and Associates Law Firm: 4 turns
+  • Speaker 2 / Kenneth Jackson / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Nunez and Associates Law Firm, this is Marina speaking, how can I help you this morning?
+[00:07] [Kenneth Jackson]: Yeah, um, can I speak to Ms. Victoria?
+[00:13] [Receptionist]: Victoria?
+[00:15] [Kenneth Jackson]: Yes, Victoria Lopez.
+[00:18] [Receptionist]: She's at lunch at this moment, yeah, she's at lunch at this moment. Do you want to leave a message?
+[00:23] [Kenneth Jackson]: Yeah, tell her call Kenneth Jackson, please.
+[00:28] [Receptionist]: Can I transfer you over to her voicemail so you can leave it there? Just a moment.
+[00:34] [Kenneth Jackson]: Okay.
+[00:36] [ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Ben and Associates Law Firm: 9 turns
+  • Speaker 2 / Brian Oglesby / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Ben and Associates Law Firm, Devin speaking.
+[00:05] [Brian Oglesby]: How you doing? I was wondering is Mr. Dante Thompson in by any chance?
+[00:12] [Receptionist]: I can double check for you if Dante is in. May I ask who's calling?
+[00:15] [Brian Oglesby]: If not... it's uh Brian... Oglesby. If not Dante then... uh how about... Attorney Middleton?
+[00:24] [Receptionist]: Attorney...
+[00:27] [Brian Oglesby]: Middleton.
+[00:31] [Receptionist]: Ms. Taylor Middleton. Okay. Let me see if Attorney Middleton is in or Dante. May I have who's calling please?
+[00:38] [Brian Oglesby]: And you tell them Brian, Brian Oglesby, Brian Promised Land.
+[00:47] [Receptionist]: Alrighty Mr. Oglesby. Allow me just a minute.
+[00:51] [Brian Oglesby]: Okay, thanks.
+[00:54] [Receptionist]: Mr. Oglesby, thank you so much for patiently holding. I tried reaching out to Dante for you and to Ms. Middleton and unfortunately I only got their voicemail.
+[01:02] [Brian Oglesby]: Alright, that's cool. Appreciate it.
+[01:06] [Receptionist]: Would you like me to have one of them reach out to you?
+[01:10] [Brian Oglesby]: Nah, that's alright.
+[01:13] [Receptionist]: Okay. I'll still leave a message for Dante and have him reach out, just in case you need anything, okay?
+[01:19] [Brian Oglesby]: Alright, thanks.
+[01:22] [Receptionist]: You're welcome, sir. Thank you so much as well. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

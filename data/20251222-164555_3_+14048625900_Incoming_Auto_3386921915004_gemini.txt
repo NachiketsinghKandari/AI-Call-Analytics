@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Irene / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Shawn Benton / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Irene speaking.
+[00:03] [Shawn Benton]: How you doing?
+[00:05] [Receptionist]: Doing great. How can I help you?
+[00:09] [Shawn Benton]: Yes, ma'am. I called in earlier to talk to my case manager. I don't know his name, but he— they said they supposed to call back, they never called back. I'm trying to see what's going on with my rental car.
+[00:19] [Receptionist]: Okay. Can I have your name, sir?
+[00:22] [Shawn Benton]: My name is Shawn Benton, ma'am.
+[00:25] [Receptionist]: I'm sorry, you cut out. Can you repeat that?
+[00:31] [Shawn Benton]: Shawn, S-H-A-W-N, last name Benton, B-E-N-T-O-N.
+[00:37] [Receptionist]: Okay, one moment.
+
+[ ... Silence (5s) ... ]
+
+[00:44] [Receptionist]: Give me one moment, let me get the case manager on the line, okay?
+[00:50] [Shawn Benton]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

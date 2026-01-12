@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to the assigned attorney, but the attorney was unavailable. The receptionist then took a message for a callback, which the caller accepted.",
+    "call_duration_seconds": 105.26,
+    "call_duration_formatted": "01:45"
+  },
+  "transfer_context": {
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to attempt a transfer to the attorney, but returned to the line stating the attorney was unavailable."
+  }
+}

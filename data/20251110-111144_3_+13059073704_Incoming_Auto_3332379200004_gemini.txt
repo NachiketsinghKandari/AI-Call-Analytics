@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devin / Role: Receptionist at Anatolia Law Firm: 4 turns
+  • Speaker 2 / [Speaker 2] / Role: Claims Department at United Automobile Insurance: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Anatolia Law Firm, Devin speaking.
+[00:04] [Speaker 2]: Hi, yes, um, may I please speak with the person that's handling the file for Martha Sparks, Stark?
+[00:12] [Receptionist]: One second.
+[ ... Silence (5s) ... ]
+[00:18] [Receptionist]: And you're calling from where?
+[00:20] [Speaker 2]: United Automobile Insurance in the claims department.
+[00:24] [Receptionist]: Okay. Let me get you over to Page Almond, okay?
+[00:28] [Speaker 2]: Sure. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

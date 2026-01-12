@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kylena / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Michael Dasher / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Kylena speaking, how can I help you?
+[00:05] [Michael Dasher]: Hello, can I speak with Stephanie?
+[00:09] [Receptionist]: Stephanie, do you have a case with us, sir?
+[00:12] [Michael Dasher]: Yes.
+[00:14] [Receptionist]: Can I have your name, please?
+[00:16] [Michael Dasher]: Michael Dasher.
+[00:18] [Receptionist]: Thank you. Let me see.
+[ ... Silence (6s) ... ]
+[00:25] [Receptionist]: Have you been speaking with, with Stephanie? Because I do see the case manager is Paige.
+[00:30] [Michael Dasher]: Well, I have, I have more than two cases, I don't just have one.
+[00:34] [Receptionist]: I see. Okay, let me place you on a brief hold, alright?
+[00:38] [Michael Dasher]: Okay.
+[00:41] [Receptionist]: Stephanie's not available, sir. Do you want her voicemail?
+[00:43] [Michael Dasher]: Oh, no, that's fine. Thank you.
+[00:45] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

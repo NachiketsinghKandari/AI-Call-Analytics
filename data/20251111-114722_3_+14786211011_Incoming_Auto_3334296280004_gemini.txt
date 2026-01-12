@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at B and Associates: 10 turns
+  • Speaker 2 / Andrew / Role: Geico Claims Department: 10 turns
+
+----------------------------------------
+
+[00:00] [Jesse]: Hello, this is Jesse from B and Associates. How can I help you?
+[00:08] [Andrew]: Hello Jesse, my name is Andrew calling from the Geico claims department on a recorded line. I was giving you a call, we had issued payment on- on a case for settlement but it- payment came back because the address I guess you all had moved and so I'm just calling to confirm the correct address for B and Associates.
+[00:27] [Jesse]: B and Associates, alright. Give me one moment. Let me confirm with you, um, alright, this is what I'm gonna do. Uh, do you allow me to place you on a brief hold for one minute? Let me just confirm that the main office is the same address, uh, for payments. Is that okay?
+[00:42] [Andrew]: Okay, thank you.
+[00:44] [Jesse]: I'll be right back with you real quick.
+[00:46] [Andrew]: Thank you.
+[00:48] [Jesse]: Alright, so, uh, sir? I'm back.
+[00:52] [Andrew]: Yes.
+[00:53] [Jesse]: Got it. So I got the correct address for you. Uh, let me know when you're ready.
+[00:57] [Andrew]: Go ahead.
+[00:58] [Jesse]: It would be 4200 Northside Parkway Northwest Building Number 9 in Atlanta, Georgia 30327.
+[01:13] [Andrew]: Okay, and tell me, I'm sorry, what was your name again? I apologize.
+[01:18] [Jesse]: Uh, my name is Jesse, sir.
+[01:21] [Andrew]: Jesse, thank you so much for your help.
+[01:23] [Jesse]: Excellent. Do you need anything else at the moment?
+[01:26] [Andrew]: No, that's it.
+[01:27] [Jesse]: Excellent. I hope you have an excellent day, sir.
+[01:29] [Andrew]: You do the same, thank you.
+[01:31] [Jesse]: Goodbye.
+[01:32] [Andrew]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Natasha / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo speaking, how may I help?
+[00:05] [Natasha]: Can I speak to attorney Kadeem?
+[00:08] [Receptionist]: Sure, yes you can. Are you a client?
+[00:12] [Natasha]: Um, no, I'm not. Natasha, Progressive Insurance.
+[00:17] [Receptionist]: Okay, so in order to go ahead and talk with Kadeem, I'm going to... I'm going to do this... I'm going to give you his direct line. Ready?
+[00:28] [Natasha]: I'm ready.
+[00:29] [Receptionist]: It is 513-964-0829.
+[00:39] [Natasha]: Great, thank you.
+[00:41] [Receptionist]: No worries. Have a good one.
+[00:43] [Natasha]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

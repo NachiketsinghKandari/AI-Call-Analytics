@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 5 turns
+  • Speaker 2 / [Linda] / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hey Linda.
+[00:02] [Linda]: Hey. Oh, hey Matt. I'm sorry. I- did I- I thought I was calling Tar.
+[00:08] [Receptionist]: Oh, I think she's two-three.
+[00:11] [Linda]: Oh.
+[00:12] [Receptionist]: Seven-oh-two-three. Yep.
+[00:14] [Linda]: That's weird. The screen says seven-oh-two-three.
+[00:18] [Receptionist]: Oh, unless she's got her calls forwarded for some reason.
+[00:21] [Linda]: Okay. All right, cool beans. All right, thanks Matt. All right. Bye-bye.
+[00:24] [Receptionist]: All right. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

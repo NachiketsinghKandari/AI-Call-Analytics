@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Patricia / Role: Caller from Thrive Ortho and Spine: 5 turns
+
+----------------------------------------
+
+[00:06] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:08] [Patricia]: Hi, my name is Patricia, I'm calling from Thrive Ortho and Spine. I was calling to find out who the case manager is for Candy Faulkner?
+[00:17] [Receptionist]: Okay, one second.
+[00:19] [ ... Silence (11s) ... ]
+[00:30] [Receptionist]: Paige Almond. P-A-Y-G-E.
+[00:39] [Patricia]: All right. And what's her email address?
+[00:42] [Receptionist]: P-A-Y-G-E at Bey, B-E-Y, A-N-D, associates with an S dot com. So Paige at Bey and Associates dot com.
+[00:59] [Patricia]: Gotcha. And just to confirm, you said Paige is P-A-Y-G-E?
+[01:03] [Receptionist]: Yes, ma'am.
+[01:04] [Patricia]: Gotcha. Okay. Thank you so much, ma'am.
+[01:06] [Receptionist]: You're welcome. Have a great day.
+[01:08] [Patricia]: You as well. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

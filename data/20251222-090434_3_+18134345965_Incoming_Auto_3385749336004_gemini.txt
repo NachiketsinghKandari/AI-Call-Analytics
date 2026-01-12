@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Radio/TV Voice: 1 turn
+  • Speaker 2 / Joao Gomes / Role: Caller: 4 turns
+  • Speaker 3 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: ...Bey and Associates... killed a pedestrian...
+[00:07] [Joao Gomes]: Hello?
+[00:08] [Receptionist]: Yes, can I help?
+[00:11] [Joao Gomes]: Yes, um, I was wondering if there's any updates on my case?
+[00:15] [Receptionist]: Can I have your name?
+[00:17] [Joao Gomes]: Joao Gomes, J-O-A-O, last name Gomes, G-O-M-E-S.
+[00:24] [Receptionist]: That would be with Stephanie. Let me get her for you.
+[00:27] [Joao Gomes]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

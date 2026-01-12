@@ -1,0 +1,21 @@
+{
+  "caller_type": "spanish_speaker",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist investigated the status of the caller's settlement check and informed her that it had been mailed, advising her to wait until the following Friday for delivery.",
+    "call_duration_seconds": 243.29,
+    "call_duration_formatted": "04:03"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during the call."
+  }
+}

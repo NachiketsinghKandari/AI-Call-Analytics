@@ -1,0 +1,21 @@
+{
+  "caller_type": "family_member",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a case update for the estate of Nature Williams. The receptionist checked the case manager's availability, determined they were out of the office, and documented a request for a return call, which the caller accepted.",
+    "call_duration_seconds": 177.05,
+    "call_duration_formatted": "02:57"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist placed the caller on hold to check staff availability and returned to the line to handle the request directly."
+  }
+}

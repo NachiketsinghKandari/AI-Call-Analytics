@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Mauricio / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking?
+[00:05] [Mauricio]: Hi, good morning. This is Mauricio from Held and Hines. I just wanted to do a quick follow-up on a mutual client's case, if that's something you can help me with?
+[00:18] [Receptionist]: Sure, can I have the client's name?
+[00:22] [Mauricio]: That is Wanda G. Brooks.
+[00:27] [Receptionist]: Wanda Brooks?
+[00:30] [Mauricio]: That's the one.
+[00:32] [Receptionist]: Okay. What do you need to know?
+[00:40] [Mauricio]: Actually, the only thing that I need to know is her property damage severity, if you can help me with that?
+[00:52] [Receptionist]: And you said you were calling from where?
+[00:56] [Mauricio]: Held and Hines.
+[01:01] [Receptionist]: Okay, one second.
+[01:02] [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

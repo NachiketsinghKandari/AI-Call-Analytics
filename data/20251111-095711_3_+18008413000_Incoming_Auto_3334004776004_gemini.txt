@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dionel / Role: Receptionist at Bay and Associates: 7 turns
+  • Speaker 2 / Britney / Role: Geico Claims: 5 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Thank you for calling Bay and Associates, this is Dionel.
+[00:10] [Britney]: Hello, my name is Britney, I'm calling over from Geico Claims. Um, I was just calling in hopes to get an email address so that we can send over a declaration page to you guys. Um, let me pull up here, um, who the attorney is. Um, it wasn't included...
+[00:26] [Receptionist]: The name of the case?
+[00:28] [Britney]: I'm sorry?
+[00:29] [Receptionist]: The name of the case? Or the client?
+[00:32] [Britney]: Uh, the name of the client is, um, Richard Lockett. The accident was September the 20th of 2025.
+[00:43] [Receptionist]: Okay.
+[00:45] [Receptionist]: So you can send that to me, uh, it's going to be my first name, D as in Delta, I as in India, O as in Oscar, N as in November, E as in Echo, L as in Lima, at bayandassociates.com. Everything spelled out. It will be B-A-Y-A-N-D associates dot com.
+[01:12] [Britney]: Okay, perfect. Well, I appreciate your help and I will go ahead and send that over to your email. Thank you so much.
+[01:21] [Receptionist]: Thank you.
+[01:22] [Britney]: Have a wonderful rest of your day.
+[01:24] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

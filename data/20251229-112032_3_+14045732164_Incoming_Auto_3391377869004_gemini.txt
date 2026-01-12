@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Unknown / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Lionel, how can I help you?
+[00:03] [Unknown]: Hi, um, I had a case that, uh, has been, uh, finalized, um, but I have been waiting for my, um, my, or for someone to call me about, uh, picking up my portion, um, so I was just checking to see if there was any update in that.
+[00:24] [Receptionist]: Um, who is the case manager? What is the name?
+[00:31] [Unknown]: Um, uh, Linda House.
+[00:36] [Receptionist]: Linda, okay. Well, she is the only one that can assist you with that, but she's not in the office until next week, until Monday.
+[00:43] [Unknown]: Oh, okay.
+[00:44] [Receptionist]: Yeah. So if you can call back on Monday, that would be perfect and she will assist.
+[00:49] [Unknown]: Okay, no problem. Thank you.
+[00:51] [Receptionist]: What I can do is, uh, transfer you to her voicemail, you can leave a voicemail so she can listen to it once she comes back.
+[00:57] [Unknown]: Okay, no problem. Thank you.
+[00:59] [Receptionist]: You're welcome. One moment.
+[01:01] [ ... Silence (5s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

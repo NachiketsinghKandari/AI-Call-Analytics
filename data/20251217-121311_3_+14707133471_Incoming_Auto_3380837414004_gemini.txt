@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jamie / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Ebony / Role: Caller from Progressive Insurance: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Jamie speaking.
+[00:03] [Ebony]: Hey Jamie, uh, this is Ebony over at Progressive Insurance. I'm trying to reach Matt McCarren.
+[00:10] [Receptionist]: Sure, and in regards to which client?
+[00:13] [Ebony]: Uh, a claim for Shavia, S-H-A-V-I-A, last name Hill.
+[00:19] [Receptionist]: Okay.
+[00:20] [ ... Silence (8s) ... ]
+[00:28] [Receptionist]: So Matt is not available right now, but the case manager is Paige Allman, I can get her for you.
+[00:36] [Ebony]: Okay, thank you.
+[00:37] [Receptionist]: You said Progressive?
+[00:39] [Ebony]: Yes.
+[00:40] [Receptionist]: Progressive, okay. One second.
+
+========================================
+TRANSCRIPT END
+========================================

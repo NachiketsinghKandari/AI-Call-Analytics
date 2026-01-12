@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Victoria / Role: Representative at Progressive Insurance: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:08] [Victoria]: Hi, this is Victoria with Progressive Insurance. I was giving a call about your client Monica Brown.
+[00:16] [Receptionist]: Okay.
+[00:21] [Receptionist]: Yes.
+[00:23] [Victoria]: I was calling to try to see if you guys had gotten the offer that I had sent and had a chance to talk to your guys's client yet?
+[00:30] [ ... Silence (9s) ... ]
+[00:39] [Receptionist]: Honestly, I'm not sure. Let me verify if the case manager is available.
+[00:50] [ ... Silence (10s) ... ]
+[01:00] [Receptionist]: One moment. Thank you so much for holding. The person in charge is not available. Do you want to leave a voicemail?
+[01:08] [Victoria]: Sure.
+[01:10] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Audrey / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Audrey]: Hello, this is Audrey calling from Iceberg Health. I was calling regarding a mutual client of ours. Uh the client name is Brian Holloman. That is...
+[00:22] [Receptionist]: Byron Holloman?
+[00:24] [Audrey]: Yes.
+[00:27] [Receptionist]: What is the date of loss?
+[00:33] [Audrey]: The date of loss is November 14th, 2023.
+[ ... Silence (7s) ... ]
+[00:42] [Receptionist]: That would be Victoria. Let me get Victoria for you.
+[00:47] [Audrey]: Uh no, I just wanted the details of the case manager. Is the case manager Victoria?
+[ ... Silence (6s) ... ]
+[00:57] [Receptionist]: Victoria Morales. That's the name.
+[01:01] [Audrey]: Morales, okay. And can I get the email and phone number?
+[01:07] [Receptionist]: Phone number 470-615-0710.
+[01:17] [Audrey]: Mhm.
+[01:18] [Receptionist]: Email Victoria, V-I-C-T-O-R-I-A, at Bey, B-E-Y, and associates with an S dot com.
+[ ... Silence (6s) ... ]
+[01:38] [Receptionist]: Victoria at Bey and associates dot com.
+[01:43] [Audrey]: Okay, perfect. Thank you.
+[01:46] [Receptionist]: You're welcome. Bye-bye.
+[01:48] [Audrey]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

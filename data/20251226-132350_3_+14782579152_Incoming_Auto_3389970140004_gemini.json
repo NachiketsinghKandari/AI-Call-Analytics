@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the caller with a direct phone number for adjusters to contact the case management team regarding a specific client.",
+    "call_duration_seconds": 196.78,
+    "call_duration_formatted": "03:16"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist provided a direct dial number for the caller to reach the appropriate department instead of initiating a transfer."
+  }
+}

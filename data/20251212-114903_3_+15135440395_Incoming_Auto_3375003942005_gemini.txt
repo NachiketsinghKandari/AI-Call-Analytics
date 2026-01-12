@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Emma / Role: Caller from Ohio Reporting Company: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:05] [Emma]: Hello, my name is Emma and I'm with the Ohio Reporting Company. I had some gifts to deliver to you guys and I just wanted to make sure that I had the right address.
+[00:15] [Receptionist]: Sure.
+[00:16] [Emma]: Have you guys moved to Raynor Drive, right?
+[00:21] [Receptionist]: No. Um, no.
+[00:25] [Emma]: In Cincinnati?
+[00:27] [Receptionist]: Oh, oh in Cincinnati. Yes, we have several. Yeah. I thought you were talking about the office in in Atlanta, I'm sorry.
+[00:38] [Emma]: No, that's okay. My bad, I should have said that.
+[00:41] [Receptionist]: All right, let me let me get you with someone that can give you the direct address. One second. You said you were from where?
+[00:48] [Emma]: The Ohio Reporting Company, we're their court reporters.
+[00:52] [Receptionist]: All right, one sec.
+[00:53] [Emma]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

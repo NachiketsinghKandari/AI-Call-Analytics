@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Angelo / [Receptionist] / Role: Receptionist at B and S Associates: 16 turns
+  • Speaker 2 / [Speaker 2] / Role: Representative from First Pen Specialists: 15 turns
+
+----------------------------------------
+
+[00:00] [Angelo]: This is Angelo from B and S Associates, how may I help you?
+[00:07] [Speaker 2]: Hi, uh, good afternoon. I'm calling on behalf of First Pen Specialists because I would like to have a quick update on some of our mutual clients.
+[00:18] [Angelo]: Sure, I'm more than happy to assist. So what is the first one?
+[00:22] [Speaker 2]: Uh, well, her name is Rebecca Gribbs, date of birth is December 9, 88.
+[00:31] [Angelo]: And Rebecca, what is the last name?
+[00:36] [Speaker 2]: Uh, Reeves, I'm going to spell it. It's R-E-E-B as in Victor-E-S.
+[00:43] [Angelo]: And Rebecca with double C?
+[00:47] [Speaker 2]: I'm going to spell it too because it's, I mean, it's spelled, uh, differently than usual. It's R-E-B as in boy-E-K as in kilo-A as in apple-H.
+[01:02] [Angelo]: Um, okay, yes. It's different, that's why. No worries. Could you like me to check the status on this case?
+[01:14] [Speaker 2]: No, I just want to know a quick update on this case and the rest because the last update that I have here is that they were open, but this was from several months ago. I just want to know if the case was moved to another status or in the case that the patient is still pending for treatment or if it is already in negotiations with the insurance or if it was withdrawn, etcetera.
+[01:42] [Angelo]: Yes, it is, it shows in pre-litigation negotiation. That means that we are in negotiation with the insurance and everything.
+[01:47] [Speaker 2]: Oh, okay. Oh, okay, okay. But still is open. Let's move on to the next one. Okay, give me a moment. Okay, the next person is Arika Lowe. I'm going to spell it too, okay? It's A as in apple-R-I-K as in kilo-A, Arika. Last name is Lowe, L-O-W-E.
+[02:09] [Angelo]: Can you tell me the date of loss?
+[02:12] [Speaker 2]: Oh, give me a moment because I have here the date of birth... [ ... Silence (19s) ... ] Okay, so, uh, Arika's date of loss is March 14, 25.
+[02:40] [Angelo]: All right. Um, so on this case, it shows the same thing, pre-litigation negotiations, and the last update actually was today.
+[02:48] [Speaker 2]: Okay. Um, so the next person is Imani Gerty. It's spelled as I-M-A-N-I, Imani. And last name is Gerty, as in G-E-R-T-Y. Date of loss is April 8, 25.
+[03:01] [Angelo]: Let's see... [ ... Silence (56s) ... ] Okay, I found it. Uh, this one it shows pre-litigation closing.
+[04:05] [Speaker 2]: Oh, okay. Let me see... Another one? Yes, uh, give me a moment. Uh, next person is Jonel Walker, date of birth is December 3rd, 94, and date of accident is April 8, 25.
+[04:34] [Angelo]: What is the first name?
+[04:37] [Speaker 2]: It's Jonel. I'm going to spell it. So it's J-O-H-N-E-L-L. Walker.
+[04:50] [Angelo]: Let's see... [ ... Silence (16s) ... ] It shows, it looks like that it is closed, this one.
+[05:14] [Speaker 2]: Oh, it's closed?
+[05:15] [Angelo]: Yes, because it shows, uh, archived.
+[05:19] [Speaker 2]: Okay, but was it withdrawn?
+[05:21] [Angelo]: In the thing... No, it doesn't have that information. The last update was on, on October 17 this year.
+[05:31] [Speaker 2]: Okay, let me see. It was closed. Okay. Okay, the last person I have here is Broderick J. Hanyard Junior. I'm going to spell his name. It's B as in boy-R-O-D as in dinosaur-E-R-I-C-K as in kilo. And his last name is Hanyard, H-A-N-Y-A-R-D, D as in dinosaur.
+[06:00] [Angelo]: Let's see... [ ... Silence (11s) ... ] I found it. And the status in pre-litigation demand.
+[06:16] [Speaker 2]: Oh, okay, so it's in demand then. Okay, let me see... Okay, that was everything that I needed to know. Thank you so much for your assistance.
+[06:23] [Angelo]: You're more than welcome. If there's nothing more, you're more than welcome, you spoke with Angelo, and have a good one. Take care.
+[06:30] [Speaker 2]: Same to you, bye-bye.
+[06:34] [Angelo]: Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

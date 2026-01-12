@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Michaela / Role: Caller from Rollins Company: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Michaela]: Hi, my name's Michaela, I'm with Rollins Company. Um, I was calling to get a good fax number for your Atlanta office.
+[00:12] [Receptionist]: Sure. Ready?
+[00:15] [Michaela]: Yes, sir.
+[00:17] [Receptionist]: Okay, it is 404-393-6107. That is our fax now.
+[00:28] [Michaela]: Okay, I have 404-393-6107.
+[00:33] [Receptionist]: Yes, ma'am.
+[00:35] [Michaela]: Okay. Um, and I think I was also calling about your client, um, Christian Shirley.
+[00:44] [Receptionist]: One minute. Uh, just to confirm, how do you spell the last name?
+[00:51] [Michaela]: It is S-H-I-R-L-E-Y.
+[00:59] [Receptionist]: Christian. What do you want me to check on this client?
+[01:06] [Michaela]: Um, I was just curious about the date of accident.
+[01:09] [Receptionist]: It was on August 25th, 2023.
+[01:14] [Michaela]: Okay. Um, I think that's all I needed. Thank you very much. I appreciate it.
+[01:19] [Receptionist]: You're more than welcome, ma'am. Have an amazing rest of your day. Bye-bye.
+[01:24] [Michaela]: Thank you, too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

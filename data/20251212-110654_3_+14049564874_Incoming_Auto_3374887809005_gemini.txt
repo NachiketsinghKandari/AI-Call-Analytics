@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Katerina / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Christian Hughes / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Katerina speaking, how can I assist you?
+[00:06] [Christian Hughes]: Yes, I was calling to see if, uh, Ms. Brittany Lawson was available?
+[00:11] [Receptionist]: Are you a client? Do you have a case with us?
+[00:15] [Christian Hughes]: Um, neither. Um, I work in, uh, the PI industry, but for a chiropractor. Um, me and her, we've just been in communication about, uh, your, um, event that's tomorrow. So I just kind of wanted to, um, follow up with her. We've been emailing a little bit back and forth. Um, so I just wanted to see if I was able to talk to her instead of—
+[00:38] [Receptionist]: Can I have your name to let her know?
+[00:40] [Christian Hughes]: Yes, my name is Christian Hughes.
+[00:42] [Receptionist]: Christian Hughes. Okay. Let me place you on a brief hold. Thank you.
+[00:46] [Christian Hughes]: Okay.
+[00:48] [Receptionist]: Um, Mr. Hughes, thank you for holding. Brittany is not available at the moment. Do you want her voicemail?
+[00:54] [Christian Hughes]: Um, no. If you just— just— just, uh, let her know, um, I sent her an email a few days ago. I know she's super busy, but just, uh, just let her know I emailed her and, uh, to just see if she can find some time in between times to email me back before tomorrow.
+[01:12] [Receptionist]: Well, if you want, you can, uh, leave a voicemail to her and she will call you back.
+[01:17] [Christian Hughes]: Okay, yes. Okay, I'll try.
+[01:19] [Receptionist]: All right.
+[01:20] [Christian Hughes]: Okay.
+[01:21] [Receptionist]: All right.
+[01:22] [Christian Hughes]: Okay.
+[01:23] [Receptionist]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

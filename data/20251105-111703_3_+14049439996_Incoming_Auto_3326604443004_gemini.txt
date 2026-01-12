@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Ben and Associates: 11 turns
+  • Speaker 2 / [Keonna] / Role: Caller from Regional Medical Group: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Ben and Associates, this is Stasha, how may I help you?
+[00:07] [Keonna]: Hi, good morning. This is Keonna calling from Regional Medical Group. How are you?
+[00:12] [Receptionist]: I'm doing great, ma'am. How are you?
+[00:14] [Keonna]: I'm good, thanks for asking. I'm reaching out in regards to seeing if I could get the case manager email for Anita Sanders?
+[00:22] [Receptionist]: Sure. One moment. Let me bring that up for you. Could you say Ania Sanders?
+[00:31] [Keonna]: Anita. It's A-N-I-T-A, last name Sanders.
+[00:34] [Receptionist]: Could you please confirm the date of loss, ma'am?
+[00:42] [Keonna]: Um, we don't have that at the moment.
+[00:46] [Receptionist]: Could you please confirm the date of birth?
+[00:49] [Keonna]: We don't have that information at the moment. Um, I think let me check...
+[00:59] [Receptionist]: I don't see— I don't see an Anita Sanders here, but I do see an Ania Sanders. I was hoping maybe... [ ... Silence (11s) ... ] Where exactly are you calling from?
+[01:18] [Keonna]: Regional Medical Group. [ ... Silence (17s) ... ]
+[01:37] [Receptionist]: Can I con— can you— could you please confirm your address for me, ma'am?
+[01:41] [Keonna]: Yes, it's 1670 Scott Boulevard, and that's Decatur, Georgia.
+[01:47] [Receptionist]: No, ma'am. I don't see— I— no. If you can't confirm the client's name or the date of loss, I can't confirm the client, ma'am.
+[02:05] [Keonna]: That's fine. Um, I do have a— a couple case— um, other patients that I need policy limits for. Um, do you know if Ms. Paige is in?
+[02:15] [Receptionist]: She is, ma'am. She is in. I can transfer you over if you'd like.
+[02:19] [Keonna]: Okay.
+[02:21] [Receptionist]: Um, if she doesn't answer, she's probably taking her lunch. Um, you can leave her a message and she'll get back to you as soon as she can, ma'am.
+[02:27] [Keonna]: Okay. Thank you.
+[02:29] [Receptionist]: Alrighty.
+
+========================================
+TRANSCRIPT END
+========================================

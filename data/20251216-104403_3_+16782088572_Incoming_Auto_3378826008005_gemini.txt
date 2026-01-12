@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Oliver / Role: Caller from Active Healthcare and Rehabilitation Center: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Oliver]: Hi, Angelo. Uh, good morning. This is Oliver from Active Healthcare and Rehabilitation Center, Dr. Ricky Goins' office. How are you doing today?
+[00:14] [Receptionist]: So good, thank you so much for asking. But how are you?
+[00:17] [Oliver]: I'm also good. Thank you so much for asking. And Angelo, can I speak with Mr. Matt McCarren, your COO?
+[00:26] [Receptionist]: Uh, sure. Yes, you can. May I know the reason?
+[00:29] [Oliver]: Yes, the thing is that I've spoken with your rep on December 1st and December 5th, and also I spoke with Jesse on December 9th, and they provide me his email address and they wants me to talk him regarding personal injury collaborations between the firm and Dr. Ricky Goins. Dr. Ricky is a chiropractor in Stone Mountain, Georgia, over 20 plus years of experience, also expertise in medical malpractice and workers' comp. So I'm looking to schedule a meeting with Matt McCarren or attorney Mr. Bey, John Bey. So anyone of them available to speak?
+[01:13] [Receptionist]: Uh, let me provide for you some information. The thing is that in order to talk with them, you will need to call them directly. So do you have their telephone number?
+[01:28] [Oliver]: I'm sorry?
+[01:29] [Receptionist]: Oh, I said that in order to talk with them, you will need to call them directly, like on his direct line.
+[01:34] [Oliver]: Okay. What is their phone number?
+[01:36] [Receptionist]: Yes, and I have the Matt McCarren telephone number is 404-591-8928.
+[01:51] [Oliver]: 404-591-8928.
+[01:56] [Receptionist]: 8928. Okay. And that is his direct line? 404-591-8928?
+[02:02] [Oliver]: Yes, that is his direct line for Matt.
+[02:04] [Receptionist]: Can you repeat me once again if you don't mind?
+[02:07] [Oliver]: Yes. It is 404-591-8928.
+[02:14] [Receptionist]: 404-591-8928, right?
+[02:20] [Oliver]: Yes, that is it.
+[02:21] [Oliver]: All right. And can I get your name?
+[02:22] [Receptionist]: Oh, this is Angelo.
+[02:23] [Oliver]: Angelo. Thank you so much, Angelo. Have a good day. I will reach out to him directly. Thank you.
+[02:29] [Receptionist]: All right. Take care.
+
+========================================
+TRANSCRIPT END
+========================================

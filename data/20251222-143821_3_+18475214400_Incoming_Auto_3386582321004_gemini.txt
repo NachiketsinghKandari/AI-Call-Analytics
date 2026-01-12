@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller from Oasis Financial: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:07] [Unknown]: Hi, good afternoon. Is there somebody I could speak to on client Delvonia Quarles?
+[00:15] [Receptionist]: Spell the last name, please?
+[00:17] [Unknown]: Uh, last name is Q-U-A-R-L-E-S.
+[00:23] [ ... Silence (11s) ... ]
+[00:34] [Receptionist]: Okay, one moment. You are calling from where?
+[00:37] [Unknown]: I am with Oasis Financial.
+
+========================================
+TRANSCRIPT END
+========================================

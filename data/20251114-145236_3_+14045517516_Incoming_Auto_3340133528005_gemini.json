@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about a disbursement check for a patient. The receptionist checked for availability and informed the caller that the person in charge of checks and all attorneys were unavailable. The caller requested the receptionist's name and then terminated the call without leaving a message or scheduling a callback.",
+    "call_duration_seconds": 247.03,
+    "call_duration_formatted": "04:07"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The caller requested a transfer to the disbursement department and an attorney, but the receptionist determined no staff were available and no transfer was initiated."
+  }
+}

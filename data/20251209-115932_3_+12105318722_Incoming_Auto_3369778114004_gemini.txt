@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Candice / Role: Caller from USAA Insurance: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angel, how may I help you?
+[00:04] [Candice]: Hello, my name is Candice, I am giving you a call from USAA Insurance, how are you doing today?
+[00:10] [Receptionist]: Good, so good, thank you so much for asking, how may I help you?
+[00:14] [Candice]: I was hoping to speak with either Matt or Victoria regarding your client, um, I'm going— I'm gonna butcher his name, um, Saifuddin Abdul Haq.
+[00:30] [Receptionist]: Can you just spell it?
+[00:32] [Candice]: Yeah. First name is spelled S as in Sam, E, I, F as in Frank, U, D as in Delta, D as in Delta, I, N as in Nancy.
+[00:48] [Receptionist]: Thank you, I found it. Victoria is the case manager. Okay, and so I'm going to see if Victoria is available, just to talk with you.
+[00:59] [Candice]: Right, thank you so much.
+[01:01] [Receptionist]: One minute, stay on the line, sure.
+
+========================================
+TRANSCRIPT END
+========================================

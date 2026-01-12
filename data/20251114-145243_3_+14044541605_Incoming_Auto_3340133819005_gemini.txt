@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Gavin / Role: Receptionist at Austin Law Firm: 3 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Austin Law Firm, Gavin speaking.
+[00:04] [Speaker 2]: May I speak to Natasha Barton?
+[00:08] [Receptionist]: Natasha? Yes, Natasha's not in until tomorrow, ma'am. She won't be available until then.
+[00:15] [Speaker 2]: Uh, can you transfer me to her voicemail?
+[00:21] [Receptionist]: Yes, ma'am. No problem. Let me transfer you over to her, okay?
+[00:25] [Speaker 2]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

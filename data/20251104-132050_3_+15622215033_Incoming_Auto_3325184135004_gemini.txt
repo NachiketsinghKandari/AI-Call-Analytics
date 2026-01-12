@@ -1,0 +1,18 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at May and Associates Law Firm: 2 turns
+  • Speaker 2 / [Will] / Role: Caller from Tavern: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: May and Associates Law Firm, my name is Fatima, how may I assist you today?
+[00:08] [Will]: Hi Fatima, this is Will over at Tavern. I was looking to reach a T- sorry, Anita Washington if she's in the office.
+[00:16] [Receptionist]: Let me see if she's in. I am not aware for today, but please bear with me one moment, sir, okay?
+[00:21] [Will]: Of course.
+
+========================================
+TRANSCRIPT END
+========================================

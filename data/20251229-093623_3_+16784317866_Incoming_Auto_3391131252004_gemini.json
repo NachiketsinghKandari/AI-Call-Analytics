@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the caller that the requested staff member was unavailable for the week and that only she could provide case updates; the caller declined a transfer to voicemail and ended the call.",
+    "call_duration_seconds": 111.1,
+    "call_duration_formatted": "01:51"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered to transfer the caller to a specific staff member's voicemail, but the caller declined the offer."
+  }
+}

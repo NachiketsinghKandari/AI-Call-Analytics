@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jacy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Jasmine / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jacy, how can I assist you?
+[00:07] [Jasmine]: Hi, good morning, my name is Jasmine, I'm calling from Rockpoint Legal. I was trying to reach the attorney Anita Washington.
+[00:17] [Receptionist]: Anita Washington. This would be in regards to which client, ma'am?
+[00:21] [Jasmine]: Um, yeah, the first name is Shantel, it's S as in Sam, H as in Hotel, A as in Apple, W as in Whiskey, N as in Nancy, T as in Tom, E as in Echo, L as in Larry, L as in Larry, and last name is Holly, H-O-L-L-Y.
+[00:43] [Receptionist]: Understood, perfect. All right. Um, okay. Do you allow me to place you on a brief hold for one minute, let me see if Ms. Anita is available?
+[00:52] [Jasmine]: Sure.
+[00:53] [Receptionist]: Understood. And you said you're calling from Rock Rockpoint Legal?
+[00:57] [Jasmine]: Yes.
+[00:58] [Receptionist]: Understood. Thank you. I'll be right back with you in one minute, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

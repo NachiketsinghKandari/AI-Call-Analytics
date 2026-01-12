@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bain and Associates Law Firm: 7 turns
+  • Speaker 2 / [Abraham]/ Role: Representative from State Farm: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devin speaking.
+[00:06] [Abraham]: Yes, Devin, good morning. My name is Abraham, I'm with State Farm, and I was calling to speak with someone, uh, regarding client Harris Norman.
+[00:17] [Receptionist]: Let me locate that file. Okay. Harris Norman.
+[00:29] [Abraham]: Yes, sir.
+[00:31] [Receptionist]: Let me reach out to Tiana. She's the case manager.
+[00:36] [Abraham]: Okay.
+[00:38] [Receptionist]: And you said you were calling from...
+[00:42] [Abraham]: Yes, State Farm.
+[00:44] [Receptionist]: State Farm. Yeah, just making my notes here. Thank you. Um, I'll put you on hold for a second.
+[00:52] [Abraham]: Okay, sir.
+[00:57] [Receptionist]: Sorry about that delay, it seems like the case manager is not available. She is away from her desk at this moment. I'm only getting a voicemail. Would you like to leave a voicemail for her?
+[01:08] [Abraham]: Yes, sir. I can do that, Devin.
+[01:11] [Receptionist]: All right, let me transfer you over to Tiana, okay?
+[01:15] [Abraham]: Okay, sir.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Sarah Jenkins / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Bey and Associates, this is Lionel, how can I help you?
+[00:04] [Sarah Jenkins]: Hi, my name is Sarah Jenkins. I'm calling about a case.
+[00:08] [Receptionist]: Hi Sarah, uh, how can I help you today?
+[00:12] [Sarah Jenkins]: Well, I was, um, I was wondering if, uh, if there's any update on the, you know, the car accident thing?
+[00:18] [Receptionist]: Let me check that for you. One moment.
+[00:21] [ ... Silence (6s) ... ]
+[00:27] [Receptionist]: Okay, I see here that, uh, we're still waiting on the police report.
+[00:32] [Sarah Jenkins]: Oh, okay. Thank you, Lionel.
+[00:35] [Receptionist]: You're welcome. Have a good day.
+[00:37] [Sarah Jenkins]: You too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

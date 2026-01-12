@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Tracy Evans / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Tracy Evans]: Hey Jesse, it's Tracy Evans calling from Farmers Insurance about a negotiations on Rondel Rick Drummer?
+[00:14] [Receptionist]: Sure, give me one moment. That would be uh the last name, Rick Drummer?
+[00:19] [Tracy Evans]: Uh Drummer, D-R-U-M-M-E-R.
+[00:23] [Receptionist]: Ah, Drummer. Rondel, Rondel Rick. Perfect, I found it. Rondel Rick, Rondel Rick Drummer. Yes ma'am, there is a case manager assigned to this file. Do you allow me to place you on a brief hold for one minute? Let me see if she's available at the moment.
+[00:40] [Tracy Evans]: Thank you.
+[00:42] [Receptionist]: I'll be right back with you real quick.
+[00:50] [Receptionist]: Thank you so much for holding ma'am.
+[00:52] [Tracy Evans]: Yes.
+[00:53] [Receptionist]: Now let me tell you, so Miss Paige, uh that's the name of the case manager, she's not available at the moment. Um, so this is what I can do on my end. If you like, I can transfer you over to her voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible.
+[01:06] [Tracy Evans]: Oh that'd be perfect.
+[01:08] [Receptionist]: Do you have a direct line where they can reach you at?
+[01:11] [Tracy Evans]: It's 623-232-6092.
+[01:18] [Receptionist]: 92. Perfect. All right, I'll transfer you to her voicemail and I'll send the— I'll send her the email right away ma'am.
+[01:25] [Tracy Evans]: Thanks.
+[01:27] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

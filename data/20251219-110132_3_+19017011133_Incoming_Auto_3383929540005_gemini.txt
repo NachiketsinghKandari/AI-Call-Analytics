@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Jordan / Role: Caller from Intellevo: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how may I help you?
+[00:04] [Jordan]: Good afternoon. My name is Jordan with Intellevo. I was calling regarding one of your clients, Latonya Hendrix. Is Michael Soul available?
+[00:18] [Receptionist]: Uh, let me go ahead and take a look. So, Latonya Hendrix, right?
+[00:26] [Jordan]: Correct.
+[00:28] [ ... Silence (6s) ... ]
+[00:34] [Receptionist]: Okay. And you'd like to talk with Michael Soul?
+[00:38] [Jordan]: Right.
+[00:39] [Receptionist]: May I know a reason why?
+[00:42] [Jordan]: Uh, we sent over a— well, they sent over a reduction request, I sent over a response, just wanted to know if that reduction request is okay and the payment can be made.
+[00:53] [Receptionist]: Sure. And are you an adjuster or for which company are you calling for?
+[00:59] [Jordan]: I'm with Intellevo, we subrogate for the health insurance.
+[01:04] [Receptionist]: All right. Stay on the line, please.
+[01:07] [ ... Silence (6s) ... ]
+[01:13] [Receptionist]: Sir, so far he is unavailable, he didn't answer the phone, and the case manager is busy as well. Would you like to leave a— a voicemail to the Michael Soul? Just—
+[01:28] [Jordan]: Yes, that's fine.
+[01:29] [Receptionist]: All right. Let me pass you over to the voicemail. Stay on the line, thank you.
+[01:34] [Jordan]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

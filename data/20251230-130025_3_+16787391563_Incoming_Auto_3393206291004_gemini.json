@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist confirmed the firm has the caller's case in the system but is awaiting the physical file from the referring firm before proceeding. The receptionist informed the caller that a supervisor would send a follow-up email.",
+    "call_duration_seconds": 351.29,
+    "call_duration_formatted": "05:51"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist provided information directly to the caller after consulting a supervisor while the caller was on hold."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to connect the caller with a specific staff member regarding a payment and deposition inquiry. The staff member was unavailable, so the receptionist provided the staff member's direct phone number and email address, which the caller accepted as a resolution.",
+    "call_duration_seconds": 336.89,
+    "call_duration_formatted": "05:36"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist attempted to reach a staff member in the disbursement area while the caller was on hold, but the staff member was unavailable."
+  }
+}

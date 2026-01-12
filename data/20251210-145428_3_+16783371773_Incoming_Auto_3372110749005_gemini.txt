@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Morgan / Role: Caller from Edge CCTV: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Morgan]: Hey, this is Morgan, I'm with Edge CCTV, we do the security for you guys. I was just trying to get in touch with Matt, if he was available?
+[00:14] [Receptionist]: Sure, but in this case, in order to get in contact with Matt, you will need to try to call him directly. Would you like to take his telephone number?
+[00:23] [Morgan]: Yeah, that'd be fine. I wasn't sure if this was the direct line or if there was a better way to reach him. So you can go ahead with that whenever you're ready.
+[00:33] [Receptionist]: Sure, it is 404...
+[00:35] [Morgan]: Okay.
+[00:37] [Receptionist]: ...591...
+[00:39] [Morgan]: All right.
+[00:41] [Receptionist]: ...8928. But this is direct line.
+[00:45] [Morgan]: All right, I'm-a just read this back so I make sure I got it right. That was 404-591-8928.
+[00:54] [Receptionist]: You are right, yes.
+[00:56] [Morgan]: Okay, perfect. And this is the direct line for Matt?
+[00:59] [Receptionist]: For Matt, of course, yes, you are right.
+[01:02] [Morgan]: Okay, perfect. Thank you so much for that. I will reach out to him directly. Um, is there anything else you need from me?
+[01:11] [Receptionist]: No, that was all. Have a good one, take care.
+[01:14] [Morgan]: All right, thank you so much, you do the same. Talk to you later.
+[01:18] [Receptionist]: Thank you, bye-bye.
+[01:20] [Morgan]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

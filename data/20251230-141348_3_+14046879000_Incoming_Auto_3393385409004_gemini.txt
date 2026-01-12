@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Sarah / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:03] [Sarah]: Hi, this is Sarah with Hurt 911 Injury Centers. Um, is Michael Soul available? I'm calling in reference to an email, um, he just sent over about an hour ago.
+[00:18] [Receptionist]: Um, sure. Is there any client in specific or just in general?
+[00:22] [Sarah]: Jakayla, Jakayla Hudnett. H-O-D-N-E-T-T. I'm just trying to find out what is it he's needing because we have already sent you all the bills and records for this patient.
+[00:38] [ ... Silence (20s) ... ]
+[00:58] [Receptionist]: So let me go ahead and take a look at Michael Soul's availability, hold on please.
+[01:02] [Sarah]: Okay.
+[01:03] [ ... Silence (11s) ... ]
+[01:14] [Receptionist]: Um, it looks like that he's unavailable at this moment, ma'am. Would you like to leave him a voicemail?
+[01:19] [Sarah]: Is Stephanie available? Stephanie Pett.
+[01:23] [Receptionist]: Let me check. No, she didn't answer neither.
+[01:28] [Sarah]: Okay, I'll just respond to the email and find out what it is that they needed because we've already sent you all the bills and records. I don't know anything else about the neurology they talking about, what they talking about.
+[01:41] [Receptionist]: I see. Sorry for that. Anything else I can do for you?
+[01:44] [Sarah]: All right, thank you.
+[01:45] [Receptionist]: All right, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

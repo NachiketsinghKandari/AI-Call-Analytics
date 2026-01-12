@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 16 turns
+  • Speaker 2 / Renee / Role: Caller from Ico Orthopedics: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates for my home.
+[00:07] [Renee]: Good afternoon Angelo. Angelo, my name is Renee. I'm calling from Ico Orthopedics. Angelo, I have two patients here that, um, can you provide me with the current status, please?
+[00:19] [Receptionist]: Sure, I'm more than happy. Let me go ahead and take care of that. Just one moment.
+[00:26] [ ... Silence (6s) ... ]
+[00:32] [Receptionist]: So can you confirm for me, please, what is the name for the first client?
+[00:38] [Renee]: The first client name is Walker, W-A-L-K-E-R, and the first name is Jazaria, J-A-Z-A-R-I-A.
+[00:53] [Receptionist]: Thank you.
+[00:54] [Renee]: You're welcome.
+[00:57] [Receptionist]: Okay, it looks like this case is completed. That's what it shows.
+[01:06] [Renee]: It's settled?
+[01:07] [Receptionist]: Yes, settled. Mm-hmm.
+[01:15] [Renee]: Um, can you tell me who's the case manager?
+[01:18] [Receptionist]: I'm sorry. No worry. The case manager is Wince Thomas.
+[01:26] [Renee]: Spell the first name for me?
+[01:28] [Receptionist]: Yes, Wince is W-I-N-S.
+[01:33] [Renee]: Thomas?
+[01:34] [Receptionist]: Yes, the normal spell.
+[01:36] [Renee]: Okay. Um, the second one is going to be Archer is the last name, A-R-C-H-E-R, and the first name is Howard, H-O-W-A-R-D, Howard Archer.
+[01:56] [Receptionist]: I'm sorry.
+[01:57] [ ... Silence (7s) ... ]
+[02:04] [Receptionist]: I found it. Yes, it is settled as well.
+[02:11] [Renee]: So, um, Angelo, when you say settled, does it say settled, um, pre-litigation, settled closing, settled disbursement?
+[02:22] [Receptionist]: Uh, no. This what it shows, archived.
+[02:29] [Renee]: Oh, that's what I'm looking for, yeah. That's what I'm looking for.
+[02:31] [Receptionist]: Yes, both cases are archived.
+[02:34] [Renee]: Okay, yeah. That's that's what I'm looking for, archived. So who's the manager, um, case manager on this one?
+[02:43] [Receptionist]: The case manager is Victoria Morales.
+[02:47] [Renee]: Victoria, okay. I have her email address. Thank you so much, Angelo.
+[02:51] [Receptionist]: Not an issue at all. Anything else or that's all?
+[02:56] [Renee]: Um, that's it for today. Thank you so much.
+[02:58] [Receptionist]: You're more than welcome. Have a great rest of your day. Bye-bye.
+[03:03] [Renee]: Bye now.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devon / Role: Receptionist at Bain and Associates Law Firm: 6 turns
+  • Speaker 2 / [Unidentified] / Role: Caller from an attorney's office: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devon speaking.
+[00:06] [Speaker 2]: Yes, hi Devon. Um, calling from an attorney's office. Um, calling to get a fax number, um, for you guys. We have a- a client, um, looking that we'd need to send a- a letter to you all.
+[00:23] [Receptionist]: Okay, sure. Our fax number is the following: 404...
+[00:28] [Speaker 2]: Okay.
+[00:29] [Receptionist]: ...393...
+[00:32] [Speaker 2]: Yes, mhm.
+[00:34] [Receptionist]: ...6107.
+[00:39] [Speaker 2]: Alright, great. Thank you so much. Appreciate your help.
+[00:44] [Receptionist]: You're more than welcome.
+[00:46] [Speaker 2]: Mhm, bye-bye.
+[00:47] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

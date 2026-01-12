@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist initiated a transfer to Matt McCarney after the caller requested to speak with him, and the call ended immediately following the transfer statement.",
+    "call_duration_seconds": 102.74,
+    "call_duration_formatted": "01:42"
+  },
+  "transfer_context": {
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated they would check for Matt McCarney's availability and asked the caller to stay on the line, after which the call ended."
+  }
+}

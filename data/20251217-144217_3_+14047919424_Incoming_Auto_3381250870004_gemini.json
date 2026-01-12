@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with the person handling reductions for the Jonathan Montes case. The receptionist checked availability and determined the staff member was unavailable. The caller declined the offer to leave a voicemail and stated they would send an email instead.",
+    "call_duration_seconds": 61.2,
+    "call_duration_formatted": "01:01"
+  },
+  "transfer_context": {
+    "destinations": [
+      "billing_and_disbursements"
+    ],
+    "transfer_connection_status": [
+      "false"
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist checked for the availability of the staff member in charge of reductions but found them unavailable."
+  }
+}

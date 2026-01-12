@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Unknown / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse. How can I assist you?
+[00:05] [Speaker 2]: Uh, could you give me the address there?
+[00:08] [Receptionist]: The address for Bey and Associates, sir?
+[00:11] [Speaker 2]: Uh-huh.
+[00:13] [Receptionist]: Uh, yes sir. Do you have something to write with?
+[00:17] [Speaker 2]: I think I know, but I want to make sure. Is it 4200, uh—
+[00:23] [Receptionist]: Northside Parkway—
+[00:25] [Speaker 2]: —Northside Parkway?
+[00:26] [Receptionist]: Parkway Northwest.
+[00:28] [Receptionist]: Yes, yes sir.
+[00:32] [Speaker 2]: It's 4200 what, North what?
+[00:35] [Receptionist]: Northside Parkway.
+[00:40] [Speaker 2]: Uh-huh. That's it. 4200, uh, Northside Parkway Northwest.
+[00:44] [Receptionist]: Yes, correct. Building number nine, sir.
+[00:48] [Speaker 2]: But is it, if it, is it 4200 Northwest or Northside?
+[00:52] [Receptionist]: Northside.
+[00:54] [Speaker 2]: Okay, Northside Drive. Okay then. Thank you.
+[00:57] [Receptionist]: Northside Parkway. Yes sir.
+[01:01] [Speaker 2]: Northside Parkway. Okay.
+[01:03] [Receptionist]: Yes sir.
+[01:04] [Speaker 2]: All right.
+[01:05] [Receptionist]: All right.
+[01:06] [Speaker 2]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

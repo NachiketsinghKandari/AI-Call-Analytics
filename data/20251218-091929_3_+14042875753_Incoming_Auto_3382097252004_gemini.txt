@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Britney / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Britney.
+[00:04] [Unknown]: Gracias, ¿me podría hablar con Daniel o Lionel? Él me llamó esta mañana, me dejó un mensaje.
+[00:14] [Receptionist]: Uh, could you hold on one moment? I can transfer you to someone who can translate.
+[00:19] [Unknown]: Okay, I need talk with the Daniel, Daniel, he send me the message this morning.
+[00:26] [Receptionist]: Yeah, Daniel.
+[00:28] [Unknown]: Daniel.
+[00:29] [Receptionist]: Okay, hold on one moment, okay?
+[00:32] [Unknown]: Okay, thank you.
+[00:33] [Receptionist]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

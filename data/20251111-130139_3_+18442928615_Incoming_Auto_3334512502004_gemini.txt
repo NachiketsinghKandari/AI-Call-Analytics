@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Stasha / Role: Receptionist at Payne and Associates: 7 turns
+  • [Camille Connor] / Camille Connor / Role: Representative from State Farm: 7 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (5s) ... ]
+
+[00:06] [Receptionist]: Payne and Associates, this is Stasha, how may I help you?
+
+[00:10] [Camille Connor]: Stasha, is Tanya available? This is Camille Connor from State Farm. I received a counter-demand email from her...
+
+[00:18] [Receptionist]: Okay, can I help...
+
+[00:20] [Camille Connor]: ...late last night. Let me tell you this client's name. First name is O-S-A-S-U-M-W-E-N. Last name is I-G-B-I-N-O-B-A.
+
+[00:36] [Receptionist]: Okay, let me look to locate that file for you. One moment.
+
+[00:40] [Camille Connor]: Mhm.
+
+[00:41] [Receptionist]: You said I-G-B, last name?
+
+[00:44] [Camille Connor]: I-G-B-I-N-O-B-A.
+
+[00:52] [Receptionist]: One second, ma'am.
+
+[00:54] [Camille Connor]: Mhm.
+
+[00:55] [ ... Silence (6s) ... ]
+
+[01:01] [Receptionist]: And you stated that you wanted to speak to Ms. Taiwana Evans, is that correct?
+
+[01:06] [Camille Connor]: Correct. Is it Taiwana Evans? Hold on one... I know it's Taiwana. Let me see what that last name is because I don't think that's what I have on my... on my email. Let me just verify, please. Is her last name Evans? It is Evans. Yes, ma'am.
+
+[01:24] [Receptionist]: Alrighty, transferring now, ma'am.
+
+[01:27] [Camille Connor]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

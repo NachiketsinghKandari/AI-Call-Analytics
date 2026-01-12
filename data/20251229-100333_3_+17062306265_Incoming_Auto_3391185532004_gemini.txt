@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dainel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Devon / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Dainel.
+[00:07] [Devon]: Hey, how you doing? My name is Devon, calling from Emery University Hospital in regards to Camilla McAllister for incident on 6/28/2025 and I was trying to reach the case manager to get a, uh, case update.
+[00:26] [Receptionist]: Okay.
+[00:27] [ ... Silence (5s) ... ]
+[00:31] [Receptionist]: Uh, the case manager, let me see if she's available one moment. Thank you so much for holding. The case manager is not available. Do you want to leave a voicemail?
+[00:41] [Devon]: Yeah, that's fine.
+[00:43] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Angelo / [Receptionist] / Role: Receptionist at Bay and Associates: 6 turns
+  • Kat Wilson / Role: Case Manager for Georgia Injury Centers and Hurt 911: 7 turns
+
+----------------------------------------
+
+[00:00] [Angelo]: Hello, this is Angelo from Bay and Associates, how may I help you?
+[00:08] [Kat Wilson]: Hi, um, my name is Kat Wilson, I'm a case manager for Georgia Injury Centers and Hurt 911. Um, I'm trying to follow up on some cases, I have a list of about 20 that I'm just looking for a status on. I'm wondering who the best person to send that list to is.
+[00:27] [Angelo]: Ah, okay, this is- it will be an email. It is the intake at bayandassociates.com. That will be to the email.
+[00:38] [Kat Wilson]: Okay, intake at bayandassociates.com?
+[00:42] [Angelo]: Yes, that will be the- the result.
+[00:45] [Kat Wilson]: And Bay and Associates is spelled out, right? No and symbol in there?
+[00:49] [Angelo]: No, yes, just as spelled, yes. Bay is B-Y.
+[00:56] [Kat Wilson]: Okay, and intake is I-N-T-A-K-E?
+[01:00] [Angelo]: Yes, intake.
+[01:02] [Kat Wilson]: Okay, all right, I will send it to them. Thank you so much.
+[01:07] [Angelo]: No any issue at all. You have any- any other question you can give us a call, we can also take your case here over the phone, okay, whenever you have time.
+[01:16] [Kat Wilson]: Okay, great, thank you.
+[01:18] [Angelo]: You're more than welcome. Take care.
+[01:20] [Kat Wilson]: You too, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

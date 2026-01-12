@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Kirsten / Role: Caller from State Farm: 3 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [Kirsten]: Hi, good morning. My name is Kirsten, giving a call from State Farm. I was giving a call with regard to your guys's client, Ms. Melody Binford.
+[00:18] [Receptionist]: Yes.
+[00:26] [Kirsten]: Um, okay. I was giving a call with regard to the demand that we received for her.
+[00:35] [Receptionist]: Okay, give me one moment.
+[ ... Silence (6s) ... ]
+[00:41] [Receptionist]: Um, thank you so much for holding. The case manager is not available. Do you want to leave a voicemail?
+[00:48] [Kirsten]: Yes.
+
+========================================
+TRANSCRIPT END
+========================================

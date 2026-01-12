@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devon / Role: Receptionist at Van Asselt Law Firm: 6 turns
+  • Speaker 2 / Corey Harris / Role: Client: 6 turns
+
+----------------------------------------
+
+[00:00] [Devon]: Van Asselt Law Firm, Devon speaking, good afternoon.
+[00:07] [Corey Harris]: Good afternoon. Uh, is there any way I could speak with Ms. Middleton, please?
+[00:13] [Devon]: Okay, Ms. Middleton is out of the office today, unfortunately, but I can get a message delivered to her or get you over to her voicemail.
+[00:22] [Corey Harris]: She's not in the office today?
+[00:24] [Devon]: No, sir.
+[00:26] [Corey Harris]: Okay. Uh, I was just trying to call and get an update.
+[00:31] [Devon]: Okay.
+[00:33] [Corey Harris]: Yes, I just wanted an update on my case. I've been— it's been over three weeks or better.
+[00:40] [Devon]: Okay. May I have your first and last name, please?
+[00:42] [Corey Harris]: Corey Harris.
+[00:45] [Devon]: Alrighty. Mr. Harris, I'm going to deliver a message for Taylor to have her reach out to you to provide you with an update. So let me see what's going on here. One second.
+[00:58] [Corey Harris]: Okay.
+[01:00] [ ... Silence (8s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

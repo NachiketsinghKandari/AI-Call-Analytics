@@ -1,0 +1,73 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dino / Role: Receptionist at Bey and Associates: 27 turns
+  • Speaker 2 / Nova / Role: Caller from Medcare Recovery Solutions: 29 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Dino.
+[00:08] [Nova]: Hello, this is Nova calling from Medcare Recovery Solutions. I hope you are doing good today.
+[00:15] [Receptionist]: Yes.
+[00:17] [Nova]: I was just following up regarding one of our client— three of our clients whose payments are not sent over yet in our lockbox as the claims are settled, but we haven't received the corresponding check yet in our lockbox. And I'm calling from Medcare Recovery Solutions. I reached out to you guys 15 days back regarding these same clients. You guys transferred me to...
+[00:40] [Receptionist]: I'm sorry, what is the name of the client? What is the name of the client? I'm sorry.
+[00:44] [Nova]: Okay, it's Kyenta D. Watson. Kyenta D. Watson.
+[00:51] [Receptionist]: What's the last name?
+[00:52] [Nova]: Watson. W-A-T-S-O-N. Watson.
+[00:58] [Receptionist]: First name?
+[00:59] [Nova]: Kyenta. K-E-Y-E-N-T-A. And then a D with in between. A capital D. D for dog.
+[01:13] [ ... Silence (36s) ... ]
+[01:49] [Receptionist]: You said that you are calling from where?
+[01:56] [Receptionist]: Hello?
+[01:58] [Nova]: I'm sorry, I was on mute. I was saying I was calling from Medcare Recovery Solutions.
+[02:07] [Receptionist]: For which client— for which facility?
+[02:12] [Nova]: Hmm? What? Can you please repeat that?
+[02:13] [Receptionist]: Name of the facility you are calling from, I mean on behalf.
+[02:24] [Nova]: Okay, I'll show— I'll provide you with the provider's name. Give me a second. Okay, so the provider is Georgia Injury Center, Neurospine, and Advanced Imaging Centers. There are three of the in-network providers.
+[02:45] [Receptionist]: So yes, those checks were sent on December the 4th, so you still have to wait because they are maybe on its way.
+[02:56] [Nova]: Okay, you guys have sent the checks to Medcare?
+[03:00] [Receptionist]: To whom, I'm sorry?
+[03:02] [Nova]: To Medcare or the providers directly?
+[03:07] [Receptionist]: Correct.
+[03:09] [Nova]: Okay, you guys have sent the checks directly to the provider, yeah?
+[03:13] [Receptionist]: Correct.
+[03:15] [Nova]: Okay, thank you for the update. There are two more clients, can you please provide me the update for these two as well?
+[03:22] [Receptionist]: What is the name?
+[03:24] [Nova]: Okay, can you please give me the amount as well for the first one for our records?
+[03:30] [Receptionist]: No, I cannot.
+[03:33] [Nova]: Okay, no problem. Can you please just give me an accounting team name, email, or they can provide me with the check updates as well?
+[03:49] [Receptionist]: It's going to be Michael, Michael at beyandassociates.com.
+[03:54] [Nova]: Uh, can you please spell it for me?
+[03:56] [Receptionist]: Michael, regular spelling, and then at Bey, the name of the firm, Michael at beyandassociates.com. Everything spelled out.
+[04:06] [Nova]: M-I-C-H-A-E-L, Michael?
+[04:12] [Receptionist]: Mhm.
+[04:13] [Nova]: I'm sorry, I was not able to write it properly.
+[04:18] [Receptionist]: At, and you will write down the name of the firm, Bey and Associates dot com. Everything spelled out.
+[04:28] [Nova]: Okay, thank you for this. Okay, so the second client is Ambriala Cornell.
+[04:38] [Receptionist]: It's the same, they are on the same case, so the same answer.
+[04:43] [Nova]: Okay, the checks are sent on December 4th to the providers, right?
+[04:48] [Receptionist]: Correct.
+[04:49] [Nova]: Okay, the last one is Amari Tarvin Jackson.
+[04:54] [ ... Silence (10s) ... ]
+[05:04] [Receptionist]: What is the date of loss?
+[05:07] [Nova]: Give me a second.
+[05:10] [ ... Silence (11s) ... ]
+[05:21] [Nova]: Okay, so the date of loss is 10th of October 2024. October 10, 2024.
+[05:31] [Nova]: And the providers are the same, Advanced, Georgia, and Neurospines for the in-network.
+[05:44] [Receptionist]: So we have not prepared the checks yet for them.
+[05:49] [Nova]: Okay, so can you please let me tell that on your end the status are settled, right?
+[05:57] [Nova]: But you are not able to prepare the check yet?
+[06:01] [Receptionist]: So yes, the person in charge um has not prepared the checks yet.
+[06:07] [Nova]: Okay, so can you please give me an estimate time period for this? Or if this will send over...
+[06:12] [Receptionist]: So it is maybe this week, I mean we are working on that.
+[06:18] [Nova]: Okay, thank you. Okay, so you guys will send the checks directly to the provider or to the Medcare mailbox?
+[06:27] [Receptionist]: I think it's the provider.
+[06:31] [Nova]: Okay, thank you for this update as well. Have a good day, I really appreciate you. If you need anything from me, that's I will be grateful to help you.
+[06:43] [Receptionist]: Okay, that's fine. Thank you.
+[06:46] [Nova]: Thank you. Thank you so much for your time, have a good day.
+
+========================================
+TRANSCRIPT END
+========================================

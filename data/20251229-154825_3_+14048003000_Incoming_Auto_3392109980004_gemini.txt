@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Serena / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Gaby / Role: Caller from Dominguez Chiropractic: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Serena.
+[00:03] [Gaby]: Hello, hi, this is Gaby from Dominguez Chiropractic, how are you?
+[00:08] [Receptionist]: I'm doing great, how about yourself?
+[00:10] [Gaby]: Good, thank you. May I speak with the case manager Stephanie Yavette Williams? The day of accident was October 24th.
+[00:24] [Receptionist]: One moment, let me see.
+[00:27] [ ... Silence (12s) ... ]
+[00:39] [Receptionist]: All right, um, let me see if she's available because all of the managers and case managers, all of the attorneys are on, uh, holiday, you know, the holidays. So they're going to come back until Monday. Yes, they're going to come back until Monday.
+[00:52] [Gaby]: Nice.
+[00:53] [Receptionist]: I'm just working because I have a lot of other things to do to be honest.
+[00:58] [Gaby]: Are you working by yourself?
+[01:00] [Receptionist]: Uh, practically. And, you know, I have other stuff to do, so that's why I'm working, but, you know, yeah, let me see if she is in. If not, I'll—
+[01:11] [Gaby]: What is her name? The case manager?
+[01:14] [Receptionist]: Her name is Paige. Paige Almond. It's P-A-Y-G-E.
+[01:22] [Gaby]: Paige. Uh, Paige.
+[01:24] [Receptionist]: I can give you, uh, her direct number?
+[01:27] [Gaby]: Okay. Yes.
+[01:29] [Receptionist]: 470-615-0715.
+[01:35] [Gaby]: Sorry, 615...
+[01:37] [Receptionist]: 0715.
+[01:39] [Gaby]: 0715. 470...
+[01:42] [Receptionist]: Let me— let me see if she's in.
+[01:44] [Gaby]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

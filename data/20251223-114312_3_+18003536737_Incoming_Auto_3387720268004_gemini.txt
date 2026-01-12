@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Tommy / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:06] [Receptionist]: Bey and Associates, Kim speaking?
+[00:07] [Tommy]: Hi, excuse me. Hi, yes, uh, good morning. My name is Tommy. I'm giving a call on behalf of Kemper Insurance, calling on a mutual client for a Germaine Akombi. Um, I actually had a question regarding repairs. Um, I'm not too sure if he's going through repairs with us or if he's going through his own policy, so just wanted to kind of get an update on that.
+[00:28] [Receptionist]: Okay, um, could you spell his name for me?
+[00:34] [Tommy]: Uh, excuse me. Yes, the first name is Germaine. G as in George, E as in Edward, R as in Roger, M as in Michael, A as in Alpha, I as in Indigo, N as in Nancy. And, um, last name Akombi is Edward, K as in Kite, A as in Alpha, M as in Michael, B as in Bravo, Y as in Yankee.
+[00:58] [ ... Silence (14s) ... ]
+[01:12] [Receptionist]: Which insurance did you say you were calling from?
+[01:15] [Tommy]: Uh, Kemper Insurance.
+[01:17] [Receptionist]: Okay, one second, let me get Paige for you. She's the case manager.
+[01:22] [Tommy]: Okay, thank you.
+[01:24] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

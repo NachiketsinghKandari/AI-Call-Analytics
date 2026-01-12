@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Kelvin Lindsay / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Tasha, how may I help you?
+[00:07] [Kelvin Lindsay]: Uh, hey Tasha, this is Kelvin Lindsay calling from Progressive. Uh, I was calling to speak to the case manager for your client, Lisa Barraco.
+[00:17] [Receptionist]: One moment, let me bring that up for you. Could you spell out that last name for me, please?
+[00:22] [Kelvin Lindsay]: Yes, ma'am. I have it as B-A-R-R-A-C-O.
+[00:28] [ ... Silence (6s) ... ]
+[00:34] [Receptionist]: Sure. Uh, case manager's name is Victoria Morales. I can provide you contact her contact info and I can also transfer you over, sir.
+[00:41] [Kelvin Lindsay]: Awesome. Thank you so much. Yeah, what is that number?
+[00:45] [Receptionist]: One second.
+[00:46] [ ... Silence (6s) ... ]
+[00:52] [Receptionist]: Victoria's number is 470-615-0710.
+[01:00] [Kelvin Lindsay]: Awesome. Thank you very much. I appreciate it.
+[01:03] [Receptionist]: And would you like me to transfer you over, sir?
+[01:05] [Kelvin Lindsay]: Uh, sure. Thank you so much.
+[01:07] [Receptionist]: No problem. Transferring now.
+
+========================================
+TRANSCRIPT END
+========================================

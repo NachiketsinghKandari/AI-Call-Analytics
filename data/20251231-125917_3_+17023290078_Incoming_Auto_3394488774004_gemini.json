@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": true,
+    "final_outcome": "The receptionist provided the case manager's email for one client and took a detailed message with contact information and reduction instructions for both clients after being unable to locate the second client's file.",
+    "call_duration_seconds": 375.05,
+    "call_duration_formatted": "06:15"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist mentioned a transfer but ultimately proceeded to take a message when the second case could not be located."
+  }
+}

@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, how can I help you?
+[00:05] [Unknown]: Hello, um, I have a delivery for um someone from Bey and Associates from uh Life Balance Pain Care and I just wanted to see if was anybody in the office?
+[00:19] [Receptionist]: Uh, right at this time let me check really quick one second. Sorry, ma'am, gone for the day.
+[00:28] [Unknown]: Okay, thank you.
+[00:30] [Receptionist]: Welcome, bye.
+
+========================================
+TRANSCRIPT END
+========================================

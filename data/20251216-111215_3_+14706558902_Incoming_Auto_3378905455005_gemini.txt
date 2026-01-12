@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Serena / Bethany / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Evelyn Colin / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Serena, how can I help you?
+[00:06] [Evelyn Colin]: Hi, hello, this is Evelyn Colin from Dominguez Chiropractic, we are calling regarding a patient, uh, with the name Felix, F-E-L-I-X...
+[00:21] [Receptionist]: Okay, and last name?
+[00:24] [Evelyn Colin]: Last name is Swadogo, S-A-W-A-D-O-G-O.
+[00:36] [Receptionist]: Okay, and you're calling in from where?
+[00:40] [Evelyn Colin]: Dominguez Chiropractic.
+[00:43] [Receptionist]: All right, let me get the case manager on the line, okay? Bear with me.
+[00:47] [Evelyn Colin]: Okay, thank you, I appreciate it.
+[00:50] [Receptionist]: Mm-hmm. Hi, the case manager is not available right now. Do you want her voicemail?
+[00:57] [Evelyn Colin]: Um, yes, and I have another case from you too. I don't know if it's the same case manager or a different one.
+[01:00] [Receptionist]: My name is Bethany.
+[01:03] [Evelyn Colin]: Yeah, I have uh two more cases, three more cases that I need to talk to somebody too.
+[01:13] [Receptionist]: What is the other client's name?
+[01:16] [Evelyn Colin]: So one is Kaylee Riley, that is K-Y-L-I-E...
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Dakarai / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:03] [Dakarai]: Yes, Kimmy, how are you doing? Dakarai here.
+[00:06] [Receptionist]: Yes, sir.
+[00:08] [Dakarai]: I am just uh confirming or denying that you guys sent payment for Miss Michelle Lynch. Do you show that case to be closed and uh payment to be rendered to Pain to Wellness Center?
+[00:21] [Receptionist]: Okay, Lynch. Is it L-Y-N-C-H?
+[00:26] [Dakarai]: That's correct.
+[00:28] [Receptionist]: All right, Michelle Lynch. So that would be with Stephanie Peck. She is the one that can um answer you on this one. So I'll go ahead and transfer you over, sir.
+[00:41] [Dakarai]: Thank you.
+[00:42] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

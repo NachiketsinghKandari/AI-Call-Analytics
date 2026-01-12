@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Devin at Bain and Associates Law Firm: 16 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller from Spine Muscle and Joint: 16 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devin speaking.
+[00:06] [Speaker 2]: Yes, I'm looking for Michael.
+[00:09] [Receptionist]: Mr. Michael Salt? Sure.
+[00:12] [Speaker 2]: Yes.
+[00:13] [Receptionist]: Uh-huh. Go ahead and get you connected to him, just allow me just a second, sir.
+[00:19] [Speaker 2]: Oh, thank you.
+[00:21] [Receptionist]: [ ... Silence (20s) ... ] Okay. Now, um, are you calling regarding a specific case or just directly to speak with him?
+[00:46] [Speaker 2]: Uh, well, there's a case that he was handling. Uh, I was trying to check back with him on a name that he was asking about, but I called about earlier, so I'm trying to pinpoint exactly which patient.
+[01:02] [Receptionist]: Okay. Um, all right. May I have that name of the patient? Maybe I can look it up for you.
+[01:09] [Speaker 2]: Uh, let me see. Hold on just a second. Uh, well, let me- let me see. Sorry about that. Hold on just a second.
+[01:22] [Receptionist]: That's okay, you're good. Take your time.
+[01:24] [Speaker 2]: Oh, okay, okay, okay. Yeah, I've got him here. It's, uh, Mr. We Eh. You get that?
+[01:34] [Receptionist]: Can you help me spell that?
+[01:36] [Speaker 2]: Yeah, sure. First name is W-E and the last name is E-H.
+[01:42] [Receptionist]: Okay. We got it. So for We Eh. Okay. Um, I did notice this one, but... okay.
+[01:51] [Speaker 2]: So I was just looking for policy, uh, limits.
+[01:55] [Receptionist]: Okay. And you're calling from, let me just make sure I have this correct.
+[02:00] [Speaker 2]: Yep.
+[02:02] [Receptionist]: What location are you calling from?
+[02:05] [Speaker 2]: I'm calling from Spine Muscle and Joint. Yep, Spine Muscle and Joint. Uh-huh.
+[02:12] [Receptionist]: Okay. Now, I can get you over to Paige Almond. She is a case manager. She'd be more than happy to assist you with the information you need. And this is regarding a motor vehicle accident from August 22nd of this year, correct?
+[02:26] [Speaker 2]: Um, August 22nd. Yes, correct.
+[02:31] [Receptionist]: Alrighty. So... [ ... Silence (14s) ... ] from Spine... lost on this computer, it's not loading here. You said the location was Spine, correct? Spine Ortho?
+[02:56] [Speaker 2]: Spine Muscle and Joint. Uh-huh.
+[03:00] [Receptionist]: Spine Muscle and Joint. Got it. Let me transfer you to Paige.
+[03:04] [Speaker 2]: Okay. Yep. Thank you.
+[03:07] [Receptionist]: You're welcome, sir. [ ... Silence (8s) ... ] So Paige is not available right now. Seems like she's on another call. Um, but I can get you over to her voicemail. She'll be the best point of contact when it comes to getting the information that you need. Um, I can get you over to her voicemail and she'll happily give you a call back.
+[03:27] [Speaker 2]: Yeah, that's fine. Perfect. Thank you.
+[03:31] [Receptionist]: You're welcome, sir. So I'm transferring you over to Paige, the case manager.
+[03:33] [Speaker 2]: All right, thanks.
+[03:35] [Receptionist]: Thank you so much. Have a great rest of your day. Please remain on hold.
+[03:40] [Speaker 2]: Yeah, you too.
+
+========================================
+TRANSCRIPT END
+========================================

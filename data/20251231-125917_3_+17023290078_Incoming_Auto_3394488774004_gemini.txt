@@ -1,0 +1,62 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 26 turns
+  • Speaker 2 / Noah / Role: Caller: 21 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Emma. How can I help you?
+[00:05] [Noah]: Hello, this is Noah. I'm calling on behalf of Medicare Recovery Solutions. I hope you are doing good today.
+[00:12] [Receptionist]: I'm doing well, thanks. How can I assist you today?
+[00:16] [Noah]: I'm just following up regarding two of my clients. I see the case status of the case is settled now and it's in pending reductions. So as we are taking care for the reductions of these clients for in-network providers, so I want the case manager to send over these reductions to us so that we can work on that as it is settled now and we do get this sorted and the reduction done within a week or something.
+[00:43] [Receptionist]: Sure, I can help with that. May I have the names of the clients you're calling about?
+[00:49] [Noah]: Yeah, so first client is A-R-I-S-S-A, Arissa, Forge, F-O-R-G-E.
+[01:01] [Receptionist]: Could you please tell me the name of the second client?
+[01:06] [Noah]: Yeah, so the second client name is M-I-K-I-M-I-A, Mikimia, and the second name for this client is H-U-D-S-O-N, Hudson.
+[01:22] [Receptionist]: I found the case for Arissa Forge. The case manager handling it is Linda Huff, and the case status is pre-lit closing. Unfortunately, I couldn't locate a case for Mickey Hudson. Could you confirm the spelling or provide additional information such as their date of birth or incident date?
+[01:41] [Noah]: Yeah, so for Arissa Forge, can you please provide me the email address for the case manager?
+[01:47] [Receptionist]: The case manager for Arissa Forge is Linda Huff. Her email address is L-I-N-D-A at bayandassociates.com.
+[01:58] [Noah]: Can you repeat it with a slow voice?
+[02:02] [Receptionist]: Linda Huff's email address is L-I-N-D-A at bayandassociates.com.
+[02:11] [Noah]: At bayandassociate.com?
+[02:14] [Receptionist]: Linda Huff's email is linda@bayandassociates.com. Let me know how else I can assist you with Arissa Forge.
+[02:23] [Noah]: Now can you please tell me for the Mikimia client? It's M-I-K-I-M-I-A, Mikimia, H-U-D-S-O-N, Hudson. If you want, I can provide you with the date of birth or something.
+[02:41] [Receptionist]: Yes, please share the date of birth for Mickey Hudson to help refine the search.
+[02:46] [Noah]: Give me a second, please.
+[02:49] [Receptionist]: Certainly, take your time.
+[02:51] [ ... Silence (7s) ... ]
+[02:58] [Receptionist]: Are you still there?
+[03:00] [Noah]: Yes, I'm just finding the date of birth for the client.
+[03:05] [Receptionist]: Take your time. I'm here. Let me know when you have the date of birth.
+[03:13] [Noah]: Yeah, the date of birth for the client is Jan 17, 1978. Jan 17, 1978.
+[03:24] [Receptionist]: Unfortunately, I'm unable to locate a case for Mickey Hudson even with the provided date of birth. I can transfer you to our customer—
+[03:33] [Noah]: I can provide you with the phone number.
+[03:36] [Receptionist]: Unfortunately, I'm unable to locate a case for Mickey Hudson even with the provided date of birth. Since the office is open—
+[03:44] [Noah]: Okay, you can transfer me to someone.
+[03:53] [Receptionist]: I'm unable to locate a case for Mickey Hudson even with the date of birth provided. Could I take a message so they can reach out to you?
+[04:02] [Noah]: Yeah, sure.
+[04:05] [Receptionist]: What's your phone number?
+[04:08] [Noah]: The phone number for me is 702-329-0078.
+[04:18] [Receptionist]: Got it. 7-0-2. Also—
+[04:23] [Noah]: Yeah, also for these two clients, can you just notify the reduction team to send over the reduction proposal to the email address... and can I tell you the email address now?
+[04:37] [Receptionist]: Please go ahead and provide the email address you'd like the reduction proposal sent to.
+[04:43] [Noah]: R-E-D-U-C-T-I-O-N-S, reductions, at M-E-D-C-A-R-E-R-E-C-O-V-E-R-Y-S-O-L-U-T-I-O-N-S.com.
+[05:05] [Receptionist]: Perfect, I'll pass your message along to notify the reduction team to send the proposal to reductions@medicarerecoverysolutions.com. Is there anything else you would like me to include in the message?
+[05:16] [Noah]: Yeah, mark it as high importance as I want to done the reduction within a week.
+[05:26] [Receptionist]: Understood. I'll mark it as high importance requesting the reductions to be completed within a week. Your message will be relayed. Anything else you'd need?
+[05:33] [Noah]: No, perfect. That's all. Happy New Year.
+[05:38] [Receptionist]: Thank you. The case—
+[05:41] [Receptionist]: Thank you.
+[05:50] [Receptionist]: Are you still there?
+[05:52] [Noah]: Yes, Happy New Year.
+[05:55] [Receptionist]: Thank you, Noah. Happy New Year to you as well. Goodbye.
+[06:01] [Noah]: Goodbye.
+[06:03] [Receptionist]: Goodbye.
+[06:09] [Receptionist]: Are you still there?
+
+========================================
+TRANSCRIPT END
+========================================

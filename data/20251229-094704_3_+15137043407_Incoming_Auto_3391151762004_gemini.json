@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the caller that the requested staff were out for the holidays, provided a brief case status update regarding insurance negotiations, and provided an email address for the caller to send specific legal questions.",
+    "call_duration_seconds": 550.15,
+    "call_duration_formatted": "09:10"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist informed the caller that the attorneys and case managers were out of the office until the following week."
+  }
+}

@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Lionel / Role: Receptionist at Bey and Associates: 4 turns
+  • Juan Gomez / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Lionel, how can I help you?
+[00:05] [Juan Gomez]: Yeah, so, uh, do you know if Stephanie's in? I've got to talk to my lawyer because this is an emergency matter. My name is Gomez, G-O-M-E-Z, Larry. I already left a message, she didn't get back to me.
+[00:19] [Receptionist]: I'm sorry, can I have your last name, sir?
+[00:21] [Juan Gomez]: G-O-M-E-S— G-O-M-E-Z. Juan, J-U-A-N, first name.
+[00:29] [Receptionist]: One moment, sir.
+[00:31] [ ... Silence (12s) ... ]
+[00:43] [Receptionist]: Let me see if she's available. Let me place you on a brief hold, okay?
+[00:48] [Juan Gomez]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

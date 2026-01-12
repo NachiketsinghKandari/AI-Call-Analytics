@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller provided status updates regarding coverage and liability for a client's case. The receptionist documented the information and confirmed they would notify the assigned case manager.",
+    "call_duration_seconds": 177.84,
+    "call_duration_formatted": "02:57"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer occurred. The receptionist offered a transfer to a voicemail, but the caller identified the receptionist as the specific staff member they needed to speak with, and the matter was resolved directly."
+  }
+}

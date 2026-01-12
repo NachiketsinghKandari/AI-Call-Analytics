@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 3 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller from Business Development Office: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devon speaking.
+[00:05] [Speaker 2]: Uh, hi, good day. I'm calling from the Business Development Office. Are you still looking or have you found a location to move into?
+[00:15] [Receptionist]: Um, this is the intake department, ma'am. We wouldn't have that type of information, but I can get you over to our office manager.
+[00:24] [Speaker 2]: I mean, are you planning to move?
+[00:27] [Receptionist]: Uh, like I mentioned, ma'am, this is the intake department. We don't handle that information.
+
+========================================
+TRANSCRIPT END
+========================================

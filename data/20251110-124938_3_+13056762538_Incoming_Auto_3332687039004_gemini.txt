@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Day and Associates: 5 turns
+  • Speaker 2 / Alicia / Role: Caller from Ortho Sports and Spine Physicians: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Day and Associates, Kim speaking.
+[00:03] [Alicia]: Hi, good day. My name is Alicia and I'm calling from Ortho Sports and Spine Physicians. I'm calling to confirm the name of the case manager that is assigned to one of our client's cases.
+[00:15] [Receptionist]: Yes, can I have the client's name?
+[00:18] [Alicia]: Her name is spelled B-R-E-I-A and the last name is spelled L-O-W-E-R-Y, sorry, W-R-Y.
+[00:32] [Receptionist]: Um, I'm sorry, you cut out there for a bit. It's B-R-E?
+[00:38] [Alicia]: Yeah, B-R-E-I-A and then the last name is L-O-W-R-Y.
+[00:50] [Receptionist]: That would be Stephanie Peck. That's the case manager.
+[00:55] [Alicia]: Stephanie Peck. I got it. Thank you so much and you have a good rest of day.
+[00:59] [Receptionist]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

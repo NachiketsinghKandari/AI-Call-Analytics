@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Mauricio / Role: Caller from Health and Sync: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is [unclear], how can I help you?
+[00:05] [Mauricio]: Hey, good afternoon. This is Mauricio from Health and Sync. I am trying to get an update on a mutual client's treatment, if that's something you can help me with.
+[00:19] [Receptionist]: Can I have the client's name?
+[00:22] [Mauricio]: Jerry Manning.
+[00:26] [Receptionist]: Could you spell that for me?
+[00:30] [Mauricio]: Absolutely. That is J-E-R-R-E-E and Manning as M-A-N-N-I-N-G.
+[00:44] [Receptionist]: Date of birth?
+[00:47] [Mauricio]: September 15, 2025.
+[00:53] [Receptionist]: You said you would like treatment status?
+[00:58] [Mauricio]: Yes, please. She is um being unresponsive, so I'd just like to know what is the case status and treatment status on your end.
+[01:10] [ ... Silence (11s) ... ]
+[01:21] [Receptionist]: Okay, so that would be definitely with the case manager, which is Miss Linda Huff. She's already gone for today, but I can send you to her voicemail.
+[01:33] [Mauricio]: Sounds good. That's okay.
+[01:36] [Receptionist]: All right. Have a great rest of your day, sir.
+[01:39] [Mauricio]: You too. Bye-bye.
+[01:41] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

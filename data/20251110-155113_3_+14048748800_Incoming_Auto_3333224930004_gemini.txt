@@ -1,0 +1,49 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 17 turns
+  • Speaker 2 / Mandy Milner / Role: Attorney at Swift, Currie, McGhee & Hiers: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling, this is Karina, um, how can I assist you today?
+[00:05] [Mandy Milner]: Hi, I'm uh, trying to reach Bay and Associates?
+[00:10] [Receptionist]: Yes, this is Bay and Associates, ma'am. How can I help you?
+[00:13] [Mandy Milner]: Hi, my name is Mandy Milner. I'm an attorney with Swift, Currie, McGhee & Hiers. I'm calling to try to reach either Brian Wenger or Daryl Ford for um, the case Cali versus Stewart.
+[00:28] [Receptionist]: Bay and Associates. Cali, what is the last name?
+[00:31] [Mandy Milner]: Sorry, what was that?
+[00:33] [Receptionist]: No. And what is the- the name on the case?
+[00:38] [Mandy Milner]: Shonte Cali versus Alexander Stewart.
+[00:42] [Receptionist]: Okay. Give me a second, alright? Shonte is S-H-O-N-T-E-E?
+[00:49] [Mandy Milner]: Yes.
+[00:50] [ ... Silence (7s) ... ]
+[00:57] [Receptionist]: Okay, so Shonte Cali versus... just trying to pull up the case so that I can get to the right person, okay?
+[01:08] [Mandy Milner]: Okay, you're good.
+[01:10] [Receptionist]: Alright, so if you can just spell it out for me again please, the- the first and last name and- and we go from there.
+[01:18] [Mandy Milner]: Of the plaintiff?
+[01:19] [Receptionist]: Yes, please.
+[01:20] [Mandy Milner]: Yes. S-H-O-N-T-E-E Cali, K-A-L-I.
+[01:27] [Receptionist]: Versus Stewart, Alexander Stewart. Okay. Got it, thank you so much.
+[01:34] [Mandy Milner]: You're welcome. You're welcome.
+[01:36] [Receptionist]: And, can I know what is the- the reason for your call so that I can let them know?
+[01:43] [Mandy Milner]: Uh, we noticed plaintiff's deposition recently and I haven't um, heard back from them just to make sure that the date works for everyone and so I was just following up and, you know, making sure that the notice deposition date works and, you know, not waiting till the last minute to find out that it doesn't.
+[02:02] [Receptionist]: Alright, let me uh, go ahead and place you on a brief hold, alright? Let me try to get a hold of them.
+[02:08] [Mandy Milner]: Okay, thank you.
+[02:09] [ ... Silence (5s) ... ]
+[02:14] [Receptionist]: Alright, thank you so much for holding. I do see the case is in litigation discovery right now, so I don't know if that's enough for you to know or if you want to speak to the case manager.
+[02:22] [Mandy Milner]: Yeah, can I speak to the case manager?
+[02:25] [Receptionist]: Sure, let me try to get a hold of them for you. And I'm sorry, can I get your name again?
+[02:30] [Mandy Milner]: Mandy Milner.
+[02:32] [Receptionist]: Mandy Milner. Thank you. One moment.
+[02:35] [ ... Silence (5s) ... ]
+[02:40] [Receptionist]: Hello?
+[02:41] [Mandy Milner]: Hello?
+[02:42] [Receptionist]: Mandy? Yes, I'm sorry. You know, uh, the case manager is not available right now. Do you like to leave a- a voicemail for him?
+[02:50] [Mandy Milner]: Uh, yes please.
+[02:52] [Receptionist]: Okay, just one second.
+
+========================================
+TRANSCRIPT END
+========================================

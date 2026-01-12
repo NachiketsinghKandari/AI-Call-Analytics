@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Pankaj / Role: Caller from Allstate Insurance: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:03] [Pankaj]: Hey. Hi, uh, my name is Pankaj. I'm calling from Allstate Insurance where you're in good hands. Just so you know that this call may be recorded for quality assurance. I am following up for signed release for your client Esther, um, the last name is O-C-H-I-O-B-I.
+[00:28] [Receptionist]: Okay.
+[00:29] [ ... Silence (12s) ... ]
+[00:41] [Receptionist]: Signed release. Just one second, let me get the case manager, one second.
+[00:47] [Pankaj]: Mm-hmm.
+
+========================================
+TRANSCRIPT END
+========================================

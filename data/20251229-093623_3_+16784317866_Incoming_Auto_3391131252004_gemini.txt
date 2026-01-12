@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kyreena / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Dorian / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Good morning, this is Kyreena, thank you for calling Bey and Associates.
+[00:06] [Dorian]: Hi, may I speak to Linda, please?
+[00:09] [Receptionist]: I'm sorry?
+[00:11] [Dorian]: Uh, yeah, my— may I speak to Linda, please?
+[00:13] [Receptionist]: Linda is not in the office today.
+[00:18] [Dorian]: Okay. Um, can you take a message for her?
+[00:21] [Receptionist]: Um, sure.
+[00:22] [Dorian]: Sure, but, um, before you do that, can you, do you know if you can give me any updates on my current case, pending case?
+[00:33] [Receptionist]: Um, give me one second, let me, let me see if I can find your case. And your name is?
+[00:42] [ ... Silence (7s) ... ]
+[00:49] [Receptionist]: Your Dorian?
+[00:50] [Dorian]: That's correct.
+[00:52] [ ... Silence (10s) ... ]
+[01:02] [Receptionist]: You know what, let me see if she's in. Give me one moment, okay?
+[01:08] [Dorian]: Mhm.
+[01:15] [Receptionist]: Thanks for holding, uh, Dorian. No, she's not available, she won't be available during the entire week, it's, you know, due to the holidays. Um, in regards of your case, she's the only one that can assist you with any updates as of right now I do not see any, but, um, she's the only one that can explain. So I can either transfer you to her voicemail, but she's gonna be answering back until next week.
+[01:46] [Dorian]: Okay, no, there's no need. Um, thank you.
+[01:49] [Receptionist]: Okay, you're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

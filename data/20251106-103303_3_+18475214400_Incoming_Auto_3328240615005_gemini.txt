@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Bain and Associates: 6 turns
+  • Speaker 2 / Role: Representative from Oasis Financial: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kim speaking.
+
+[00:05] [Speaker 2]: Hi, good morning. Um, is there somebody I could speak to on client Ezekiel Stevenson?
+
+[00:12] [Receptionist]: Let me pull that up and see who's handling it. [ ... Silence (6s) ... ] Okay, that would be Stephanie. I did just transfer her call, but let me see if she's done.
+
+[00:23] [Speaker 2]: Sure.
+
+[00:24] [Receptionist]: Yes. Um, may I ask where you're calling from?
+
+[00:29] [Speaker 2]: Um, Oasis Financial.
+
+[00:33] [Receptionist]: All right, one sec. [ ... Silence (6s) ... ] Ma'am, Stephanie is still on the other call. Would you like her direct number?
+
+[00:41] [Speaker 2]: Um, yeah, that'd be great.
+
+[00:42] [Receptionist]: 470-645-1748.
+
+[00:49] [Speaker 2]: Okay. Can I leave a message for her as well?
+
+[00:51] [Receptionist]: Yes, ma'am. Sending you over.
+
+[00:54] [Speaker 2]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

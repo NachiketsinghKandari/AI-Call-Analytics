@@ -1,0 +1,48 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at B and S Associates: 17 turns
+  • Speaker 2 / [Carlotta Hughes] / Role: Client: 16 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Angelo speaking from B and S Associates, how may I help you?
+[00:07] [Carlotta Hughes]: Um, yeah, this is Carlotta Hughes calling, how are you?
+[00:10] [Receptionist]: Very good, thank you so much for asking, how may I help you?
+[00:13] [Carlotta Hughes]: I just want to know why I am waiting, this is week six for a call back from my lawyer or someone pertaining to my case. Is there someone there that I can speak to today about it?
+[00:27] [Receptionist]: Oh, let me go ahead and take a look, yes, sure, I'm more than happy to assist you. Can I have please your full name?
+[00:34] [Carlotta Hughes]: Carlotta Hughes.
+[00:37] [Receptionist]: How do you spell your first name? Sorry, I couldn't hear you.
+[00:41] [Carlotta Hughes]: Yeah, no problem. C-A-R-L-L as in lollipop, O as in octopus, T-T-A, Carlotta. And the last name is Hughes, H-U-G-H-E-S.
+[00:54] [Receptionist]: Thank you. So you are waiting for a call from the attorney, so let's see...
+[00:59] [Carlotta Hughes]: I'm sorry, say it again?
+[01:02] [Receptionist]: Let's see.
+[01:04] [Carlotta Hughes]: I didn't hear what you said.
+[01:05] [Receptionist]: Oh, no worries. Uh, you're saying that you're waiting for the case manager to call you, right?
+[01:12] [Carlotta Hughes]: Um, yeah, and it's been too long. I don't got time to keep waiting. I need to speak to somebody, I'm trying to figure out what's going on with my case and I was told that um my lawyer was out of the office for a week and that she was going to be back I guess and that was already two weeks ago. And nobody she still hasn't even so much as left a message, sent an email. It's a little bit frustrating. I'm about to have open heart surgery, I'm going to be down for two months. I'm not going to be talking to anybody about anything. So I was just trying to get things, you know, under- underway and figure out what's going on with my case before I'm down. And I could also die on the table, they're taking my ascending aorta out, um and so my heart's already pumping at 20% which isn't strong enough for surgery but we have to do it so my heart doesn't burst. So, I'm in a jam and I need to know what's going on with that 'cause they told me they were going to try to get a move on things, you know? And no one's returning my calls and I'm like are you kidding? I'm getting closer and closer to my surgery date and I still haven't heard anything from them. So I'm just panicking a little bit.
+[02:17] [Receptionist]: I'm more than happy, let me go ahead and consult her with the case manager just to find out what would be the necessary, okay? Sorry for any delay or any issue.
+[02:24] [Carlotta Hughes]: No problem, sorry to be your headache today, but I appreciate you.
+[02:28] [Receptionist]: Not an issue at all, let's see.
+[02:33] [ ... Silence (10s) ... ]
+[02:44] [Receptionist]: Oh, sorry, can you hear me?
+[02:47] [Carlotta Hughes]: Yeah, I can hear you now.
+[02:50] [Receptionist]: All right, I was trying to uh get the case manager at this moment and it looks like that she is at this moment out of the office, okay? But what I'm going to do at this moment, I'm going to leave of course in this case a kind of complaint on your behalf, let's say saying that you are you've been waiting for a long time for a phone call, you didn't receive nothing back and so I'm going to leave here in order to make sure that the case manager call you back as soon as possible, okay?
+[03:19] [Carlotta Hughes]: I'll appreciate it.
+[03:21] [Receptionist]: No an issue at all, we do apologize for any inconvenience and we really appreciate your patience so far.
+[03:27] [Carlotta Hughes]: Yeah, thank you so much, honey.
+[03:31] [Receptionist]: You are more than welcome, anything else tonight I can assist you?
+[03:34] [Carlotta Hughes]: Um, no, not unless you guys got some money I can borrow.
+[03:37] [Receptionist]: No, I totally I totally understand. Uh, before before before you go, can you confirm for me your best telephone number that the case manager can get in contact with you, please?
+[03:49] [Carlotta Hughes]: Yeah, because I also updated it, maybe that's why she didn't call me back. It's 678-492-0833.
+[04:01] [Receptionist]: 0833. Thank you so much. And so uh she will call you back later on, okay? I'm going to make sure.
+[04:07] [Carlotta Hughes]: I appreciate you, I'll keep my fingers crossed, baby. Thank you so much.
+[04:12] [Receptionist]: Yes, thank you so much. No, you are more than welcome. Have an an excellent rest of your day. Take care.
+[04:17] [Carlotta Hughes]: Okay, you too, you too.
+[04:19] [Receptionist]: Thank you, bye-bye.
+[04:21] [Carlotta Hughes]: See ya.
+
+========================================
+TRANSCRIPT END
+========================================

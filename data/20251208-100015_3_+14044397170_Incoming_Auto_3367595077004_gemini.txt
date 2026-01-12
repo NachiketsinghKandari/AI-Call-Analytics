@@ -1,0 +1,42 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Stasha / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Sarah / Role: Caller from Progressive: 11 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Bey and Associates, this is Stasha, how may I help you?
+[00:08] [Sarah]: Hi, this is Sarah from Progressive. I'm actually, um, calling about a client you guys represent, a Clarissa Hemingway.
+[00:16] [Receptionist]: Sure. Let me bring up that file for you, ma'am.
+[00:19] [Sarah]: Thank you.
+
+[ ... Silence (9s) ... ]
+
+[00:31] [Receptionist]: Okay, perfect. I have Mrs. Hemingway's file here. How can I assist you, ma'am?
+[00:39] [Sarah]: Uh, could you actually confirm what address you guys would like on file?
+[00:43] [Receptionist]: Um, sure. One second.
+[00:46] [Sarah]: Thank you.
+[00:48] [Receptionist]: Mailing address for the firm is 4200 Northside Parkway Northwest, Building 9, Atlanta, Georgia 30327.
+[01:09] [Sarah]: Okay. And then is there an email I can add to this or is that or no email provided?
+[01:17] [Receptionist]: Yes, there's an email. Um, contact number is case the case manager Victoria Morales. Her email address is, let me see. It's Victoria at BeyandAssociates.com. That's B-E-Y-A-N-D-associates.com.
+[01:40] [Sarah]: Okay. Okay, and you said her name, she's my case manager, Victoria?
+[01:45] [Receptionist]: Yes. I also, there's also a phone number I can also transfer you over, ma'am.
+[01:51] [Sarah]: Okay. Um, no, I actually, unless she's got questions for me, I am okay on my end. I just wanted to confirm that contact information.
+[01:59] [Receptionist]: Okay. Contact number is 470-615-0710. And you're stating that you're calling from Progressive, ma'am, is that correct?
+[02:12] [Sarah]: That is correct.
+[02:13] [Receptionist]: Okay. Alrighty. And you are the adjuster?
+[02:19] [Sarah]: Yep, Sarah.
+[02:21] [Receptionist]: Okay. Can you, are you confirming liability, ma'am?
+[02:26] [Sarah]: Um, yeah, we we put the other driver, um, let me see here. Give me one moment. Actually, I'm sorry. No, I was just calling to confirm details for the file.
+[02:42] [Receptionist]: Okay, perfect. Alrighty. So that would be with Miss Victoria. She would be the best person to speak to.
+[02:49] [Sarah]: Okay. Okay, that is all I actually need right now. I'll call back if I need anything else.
+[02:54] [Receptionist]: Okay. Goodbye.
+[02:56] [Sarah]: Thank you. Bye.
+[02:58] [Receptionist]: Alright.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Ryan / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo speaking, how may I help you?
+[00:05] [Ryan]: Hello, my name is Ryan calling from Progressive and, uh, I'm calling about the client Shanae Shuler.
+[00:15] [ ... Silence (6s) ... ]
+[00:21] [Ryan]: Yeah, we received a demand on this one. Do you know who I need to speak with?
+[00:26] [Receptionist]: I see. Let me go ahead and find out the customer. Can you confirm for me or can you spell please the last name?
+[00:34] [Ryan]: S-H-U-L-E-R.
+[00:39] [Receptionist]: Okay, Shuler. All right. Then let me go ahead and take a look if the case manager is available, right? She's the best point of contact. Stay on the line, please.
+[00:54] [Ryan]: Sure.
+[00:55] [ ... Silence (6s) ... ]
+[01:01] [Receptionist]: I'm sorry, I was trying to get in contact with the case manager but it looks like that she isn't available. Could you like to leave her a voicemail or could you like to take her email?
+[01:12] [Ryan]: Um, sure, I'll take her voicemail, but what is her name to start?
+[01:17] [Receptionist]: My name is Angelo. Her name is Peggy. It's spelled P-A-Y-G-E.
+[01:26] [Ryan]: Okay. And what is her email?
+[01:28] [Receptionist]: Her email is the same as the first name, Peggy, at and then the name for the company, Bey and Associates dot com. Bey is spelled B-E-Y. All right.
+[01:42] [Ryan]: Sure, let me go to her voicemail. Thank you.
+[01:45] [Receptionist]: All right, have a good one, sir.
+[01:48] [Ryan]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

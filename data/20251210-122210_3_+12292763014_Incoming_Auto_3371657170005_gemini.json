@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "document_and_evidence_submission",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to locate the case manager regarding a medical records request, but the staff member was unavailable, and the caller agreed to leave a message.",
+    "call_duration_seconds": 56.66,
+    "call_duration_formatted": "00:56"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management_voicemail"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist checked for the case manager's availability and, upon finding them unavailable, offered the caller the option to leave a message."
+  }
+}

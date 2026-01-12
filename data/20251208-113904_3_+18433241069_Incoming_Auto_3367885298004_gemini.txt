@@ -1,0 +1,29 @@
+========================================
+    TRANSCRIPT START
+    ========================================
+
+    SPEAKERS IDENTIFIED:
+      • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 7 turns
+      • Speaker 2 / Jimmy Jones / Role: Caller: 7 turns
+
+    ----------------------------------------
+
+    [00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+    [00:07] [Jimmy Jones]: This is um, good afternoon, good morning. My name is Jimmy Jones. I am trying to get in touch with um, one of your lawyers that's handling the case for me, but I forgot her name. Um, my phone, maybe you can look her up under my phone number?
+    [00:22] [Receptionist]: Um, yes. May I have your phone number?
+    [00:24] [Jimmy Jones]: 843-324-1069. I wrote her number down and her name down and I just lost it.
+    [00:31] [Receptionist]: Okay. Just give me one moment on the line, okay?
+    [00:33] [ ... Silence (8s) ... ]
+    [00:41] [Jimmy Jones]: Okay, thank you.
+    [00:46] [Receptionist]: Um, thank you so much for holding. Um, the paralegal in charge, her name is Susan, and she is actually—
+    [00:53] [Jimmy Jones]: Susan who now?
+    [00:54] [Receptionist]: Susan. Okay, Susan.
+    [00:57] [Jimmy Jones]: Yes.
+    [00:58] [Receptionist]: And she is on another call, so I will send her an email so she can give you a call back today, okay?
+    [01:04] [Jimmy Jones]: All right. Thank you very much.
+    [01:06] [Receptionist]: Thank you.
+    [01:07] [Jimmy Jones]: Thank you.
+
+    ========================================
+    TRANSCRIPT END
+    ========================================

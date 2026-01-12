@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Gaby / Role: Caller from Dominguez Chiropractic: 3 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:06] [Gaby]: Hello, hi, this is Gaby from Dominguez Chiropractic. How are you?
+[00:11] [Receptionist]: Fine, what about you?
+[00:13] [Gaby]: Good, thank you. I'm trying to, uh, reach of the case manager Kyle Riley. The name is K-Y-L-E and last name is R-I-L-E-Y.
+[00:32] [Receptionist]: Case manager is not in the office today. Do you want to leave a voicemail?
+[00:37] [Gaby]: Yeah, she can call me back or, um, if you can transfer me to the voicemail, I would like to leave her a message.
+[00:45] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karlina / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Jasmine / Role: Caller from GEICO: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Law Firm, this is Karlina, how can I help you?
+[00:06] [Jasmine]: Hey Karlina, this is Jasmine with the GEICO claims department. I was calling to see if I could speak to somebody about your client, Shantisa Brown.
+[00:16] [Receptionist]: Let me see.
+[00:17] [ ... Silence (6s) ... ]
+[00:22] [Receptionist]: Can I have the spelling of her first name?
+[00:25] [Jasmine]: Yes ma'am, it's S-H-A-N-T-I-S-A.
+[00:34] [Receptionist]: Thank you, one second here. Okay, and you're calling in from?
+[00:43] [Jasmine]: GEICO claims department.
+[00:45] [Receptionist]: Okay. Let me get the the case manager, one moment.
+[00:49] [Jasmine]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

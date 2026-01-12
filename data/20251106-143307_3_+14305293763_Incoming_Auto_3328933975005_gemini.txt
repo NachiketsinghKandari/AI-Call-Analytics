@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Automated Voice] / Role: Automated System: 1 turn
+  • Speaker 2 / [Receptionist] / Role: Receptionist at Law Offices of Gary Martin Hays: 3 turns
+  • Speaker 3 / Michael Thompson / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: A business owner, please press one to speak with a representative.
+[00:08] [Receptionist]: Thank you for calling the Law Offices of Gary Martin Hays. This is Sarah. How can I help you?
+[00:13] [Michael Thompson]: Uh, hi, Sarah. Um, my name is, uh, Michael. Michael Thompson. T-H-O-M-P-S-O-N. I'm, uh, calling because I- I was in a car accident earlier today and, uh, I think I need some legal advice.
+[00:28] [Receptionist]: I'm so sorry to hear that, Mr. Thompson. Are you, um, are you okay? Are you in a safe place right now?
+[00:34] [Michael Thompson]: Yeah, I'm, uh, I'm okay. Just a bit, you know, shaken up. My car is, uh, it's pretty bad, though.
+[00:41] [Receptionist]: I understand. Let me, uh, let me get some more information from you so I can, uh, have one of our attorneys give you a call back. Can I start with your phone number, please?
+
+========================================
+TRANSCRIPT END
+========================================

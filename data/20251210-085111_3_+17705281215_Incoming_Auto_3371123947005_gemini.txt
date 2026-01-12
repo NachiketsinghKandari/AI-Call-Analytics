@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Sarah / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:07] [Sarah]: Hello, this is Sarah with Cobb County State Court. How are you doing?
+[00:11] [Receptionist]: Fine. What about you?
+[00:13] [Sarah]: I'm good, thank you. Um, can I speak to someone who handles things with the court for, um, Deborah Blair?
+[00:26] [Receptionist]: Um, that person is no longer with us.
+[00:32] [Sarah]: Okay. Um, can I give you a case number and you could tell me who is in charge of this case?
+[00:38] [Receptionist]: No, I need the name.
+[00:41] [Sarah]: The name of who?
+[00:43] [Receptionist]: Of the client.
+[00:46] [Sarah]: Would that be the plaintiff or the defendant?
+[00:49] [Receptionist]: I don't know, honestly. Be either or.
+[00:53] [Sarah]: Okay, so the case is Courtney Green versus Carlos Castro and Carol Fulmer Logistics Corporation.
+[01:11] [Receptionist]: So the paralegal in charge of this one right now is her name is Susan.
+[01:17] [Sarah]: Okay. Am I able to speak to Susan?
+[01:22] [Receptionist]: One moment. You said you're calling from where?
+[01:26] [Sarah]: Cobb County State Court.
+[01:31] [Receptionist]: Thank you for holding. She's not available. Do you want to leave a voicemail?
+[01:36] [Sarah]: Um, yes, that would be great. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

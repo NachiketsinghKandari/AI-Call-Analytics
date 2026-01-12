@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to locate a specific attorney who was unavailable. The receptionist then offered to send an email to the attorney to request a callback, which the caller accepted.",
+    "call_duration_seconds": 77.18,
+    "call_duration_formatted": "01:17"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the requested attorney's availability, but the attorney did not answer."
+  }
+}

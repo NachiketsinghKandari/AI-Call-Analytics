@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Maria / Role: Caller from Lofty: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Matt speaking.
+[00:04] [Maria]: Hi Matt, how are you? This is Maria calling from Lofty. I do have on the line an existing client for you, it's Anthony Jones. Um, he's calling on behalf of his case, he just wanted an update on it.
+[00:19] [Receptionist]: You said Anthony Jones?
+[00:21] [Maria]: Yes, correct.
+[00:23] [ ... Silence (8s) ... ]
+[00:31] [Receptionist]: Hold on a second. Anthony Jones?
+[00:36] [Maria]: Mhm. It's a premises liability matter.
+[00:44] [Receptionist]: Okay, can you get that over to Camie? I think Camie's working on that. Or I'll transfer you to Camie, I'm sorry, you are on my line. I'm like, that won't work. My apologies.
+[00:56] [Maria]: Yes, thank you.
+[00:57] [Receptionist]: One sec.
+
+========================================
+TRANSCRIPT END
+========================================

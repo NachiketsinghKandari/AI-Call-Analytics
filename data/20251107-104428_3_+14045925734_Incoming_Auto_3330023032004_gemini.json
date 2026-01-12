@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist screened the resident for eligibility regarding a final expense plan, determined the resident did not qualify based on age, and terminated the call.",
+    "call_duration_seconds": 63.07,
+    "call_duration_formatted": "01:03"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during this call."
+  }
+}

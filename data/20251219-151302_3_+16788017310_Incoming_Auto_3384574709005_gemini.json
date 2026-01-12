@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested contact information for a case manager. The receptionist provided the name, phone number, and email address for Victoria Morales. The caller confirmed receipt of the information and the call concluded.",
+    "call_duration_seconds": 109.87,
+    "call_duration_formatted": "01:49"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered to transfer the caller to the case manager, but the caller declined, requesting contact information instead."
+  }
+}

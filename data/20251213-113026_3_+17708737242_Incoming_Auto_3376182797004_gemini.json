@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "document_and_evidence_submission",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about the receipt of case files; the receptionist informed the caller that the specific staff member was unavailable, and the caller opted to follow up via email.",
+    "call_duration_seconds": 85.75,
+    "call_duration_formatted": "01:25"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered to transfer the caller to a staff member's voicemail, but the caller declined the offer."
+  }
+}

@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Shahram Arabi / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:01] [Receptionist]: Bey and Associates law firm.
+[00:04] [Shahram Arabi]: Hi there, my name is Shahram Arabi. I'm a physician who was contacted by a Veronica Brown in your office. Is there an— an attorney who is on the same case who could give me a little bit of background? I'm not able to reach Ms. Brown.
+[00:19] [Receptionist]: Okay, are you the client? Are you— do you have a case with us?
+[00:24] [Shahram Arabi]: No, I'm a— I'm a medical expert. She reached out to help your law firm do a case review.
+[00:31] [Receptionist]: Okay, uh, what is the name of the client?
+[00:35] [Shahram Arabi]: Uh, it's like Angela Parks.
+[00:42] [Receptionist]: One second.
+[00:43] [ ... Silence (10s) ... ]
+[00:53] [Receptionist]: Angela Parks. One moment.
+[00:57] [ ... Silence (15s) ... ]
+[01:12] [Receptionist]: Let me see if Veronica's available. Just keep in mind that, you know, due to the holidays they're not available, but let me see if she's— she's at her desk. One moment.
+[01:23] [Shahram Arabi]: Uh, well, it just went to— it just went straight to her voicemail. Uh, she— she contacted me three times via email in the last 24 hours saying this is urgent. So, I— I understand the holidays, trust me, but, um, it sounds like she said it was urgent.
+[01:39] [Receptionist]: Oh, okay. Let me— let me see if she's in. One moment.
+[01:44] [ ... Silence (7s) ... ]
+[01:51] [Receptionist]: Yes, um, yeah, they're not available. The only thing I can do, sir, is send you to her voicemail.
+[01:58] [Shahram Arabi]: That's— it's okay. You know, if— if it's urgent then she'll— she's already contacted me multiple times, so I imagine... So, is there an attorney working on this case? Is she an attorney?
+[02:09] [Receptionist]: She is the case manager, you know, which is the point of contact. Yes.
+[02:14] [Shahram Arabi]: Okay. That sounds like if you guys need me, you'll call. Thanks. Yep. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

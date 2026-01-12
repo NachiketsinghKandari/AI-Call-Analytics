@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Lauren / Role: Caller from IGO Orthopedics: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina speaking, how can I help you?
+[00:06] [Lauren]: Hello, good afternoon. My name is Lauren and I'm calling from IGO Orthopedics on behalf of one of your clients by the name of Cassandra Shaw.
+[00:15] [Receptionist]: Bear with me, let me take a look.
+[00:18] [Lauren]: No problem.
+[00:20] [ ... Silence (16s) ... ]
+[00:36] [Receptionist]: Okay, uh, let me get the case manager on the line, okay? Bear with me.
+[00:42] [Lauren]: Mhm.
+[00:43] [Receptionist]: Thank you so much for holding. The case manager's not available. Can I get you to his voicemail?
+[00:51] [Lauren]: Uh, can I get the email for him as well?
+[00:54] [Receptionist]: Uh, yes, I can provide that to you.
+[00:57] [Lauren]: Go ahead.
+[00:58] [Receptionist]: One second.
+[01:00] [ ... Silence (6s) ... ]
+[01:06] [Receptionist]: That would be K as in Kilo, L as in Lima, O as in Oscar, V as in Victor, E as in Echo, at beyandassociates.com.
+[01:18] [Lauren]: Okay. And you can transfer me.
+[01:21] [Receptionist]: Okay, perfect.
+[01:22] [Lauren]: Does he have a direct line as well? Sorry.
+[01:26] [Receptionist]: She that— I mean, he does. 470-903-2756. All right?
+[01:35] [Lauren]: Yes. Thank you.
+[01:37] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

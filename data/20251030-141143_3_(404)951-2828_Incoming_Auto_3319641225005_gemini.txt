@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 6 turns
+  • Speaker 2 / [Kenneth Jackson] / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kim speaking.
+[00:04] [Kenneth Jackson]: Hi, this is um, Kenneth Jackson. I was calling because I had completed your form that you sent me.
+[00:12] [Receptionist]: You're com- you have completed the what sir? I'm sorry.
+[00:15] [Kenneth Jackson]: The form that you sent me for my medical records.
+[00:19] [Receptionist]: Okay. Can I have your name again sir so I can look up your file?
+[00:23] [Kenneth Jackson]: Kenneth Jackson.
+[00:25] [Receptionist]: Emmett Jackson?
+[00:28] [Kenneth Jackson]: K-E-N-N-E-T-H Jackson.
+[00:32] [Receptionist]: Okay Kenneth. Okay. One second.
+[00:33] [ ... Silence (9s) ... ]
+[00:43] [Receptionist]: Okay let me get Victoria for you one second.
+
+========================================
+TRANSCRIPT END
+========================================

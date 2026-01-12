@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at GDA and Associates Law Firm: 7 turns
+  • Speaker 2 / [Donovan Leary] / Role: Caller from Verjoli Services: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: GDA and Associates Law Firm, Devin speaking.
+[00:06] [Donovan Leary]: Hey, uh, can I be connected to Matt McKerron, please?
+[00:09] [Receptionist]: For Mr. Matt McKerron?
+[00:12] [Donovan Leary]: Yes, please.
+[00:13] [Receptionist]: Sure, no problem. May I ask who's calling and where you're calling from?
+[00:17] [Donovan Leary]: Yeah, absolutely. Uh, my name is Donovan Leary with Verjoli Services. I called in on Tuesday, uh, just looking to follow up on that conversation or the information I sent over to him.
+[00:27] [Receptionist]: Okay. Let me see if Mr. McKerron is available, okay?
+[00:33] [Donovan Leary]: Thank you. Thank you.
+[00:39] [Receptionist]: Donovan, unfortunately, I'm only getting a voicemail.
+[00:42] [Donovan Leary]: Okay. Um, is that fine if I leave one for him?
+[00:46] [Receptionist]: Sure, you can be transferred to his voicemail, no problem.
+[00:49] [Donovan Leary]: Awesome. Thanks for your help.
+[00:52] [Receptionist]: You're welcome, sir. Transferring over, okay?
+[00:55] [Donovan Leary]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

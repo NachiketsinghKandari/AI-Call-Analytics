@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Michaela / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:09] [Michaela]: Michaela with Progressive Fleet Claims, I'm calling on behalf of one of your clients, um, I just wanted some more information regarding our insured.
+[00:21] [Receptionist]: What is the name?
+[00:24] [Michaela]: Your client's name is Mita, M-I-T-A, Raha, R-A-H-A.
+[00:30] [Receptionist]: Date of loss?
+[00:33] [Michaela]: December 5th of this year.
+[00:37] [Receptionist]: Okay, one moment.
+[00:41] [ ... Silence (5s) ... ]
+[00:46] [Receptionist]: Thank you so much for holding, the case manager is not available, would you want to leave a voicemail?
+[00:51] [Michaela]: Yeah, I'll leave a message.
+[00:54] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

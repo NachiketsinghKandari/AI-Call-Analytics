@@ -1,0 +1,27 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to check for the case manager, but they were unavailable. The receptionist then confirmed the case status and provided the case manager's email address for further inquiry.",
+    "call_duration_seconds": 128.66,
+    "call_duration_formatted": "02:08"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist checked for the case manager's availability and informed the caller they were unavailable, offering voicemail which the caller declined in favor of an email address."
+  }
+}

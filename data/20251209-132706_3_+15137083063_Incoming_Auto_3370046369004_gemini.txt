@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karima / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Ernest Silver / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karima, how can I help you?
+[00:06] [Ernest Silver]: Uh, yes, my name is Ernest Silver. I called about a month ago and I was trying to get some, uh, some help from, from, uh, Mr. Jonah Bey and I had sent an email to K. Guzman. I was wondering did you get it?
+[00:23] [Receptionist]: Um, let's see. Uh, do you have a case with us or...
+[00:31] [Ernest Silver]: No, I was inquiring because I was going to, uh, put up the money to see if you would be able to help me.
+[00:39] [Receptionist]: Okay, you said your name is?
+[00:42] [Ernest Silver]: Ernest Silver.
+[00:44] [Receptionist]: Ernest Silver. You're calling in from where?
+[00:47] [Ernest Silver]: Um, Ohio.
+[00:51] [Receptionist]: Let me try to get his, his... Give me one moment, okay? Hang on.
+[00:56] [Ernest Silver]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

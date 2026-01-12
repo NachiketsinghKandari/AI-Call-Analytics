@@ -1,0 +1,81 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bane and Associates: 31 turns
+  • Speaker 2 / [Dr. Foster] / Role: Doctor at Vitality Center: 23 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bane and Associates, this is Devin speaking.
+[00:03] [Dr. Foster]: Hi, um, my name is Dr. Foster with Vitality Center and we are the chiropractic office that treated our patient, your client, Kameshia Lewis. And I am trying to get a case status for her case from you guys and I haven't been- I've been unsuccessful. I'm wondering if I can get some assistance.
+[00:28] [Receptionist]: Oh sure, I can definitely help you with that. Um, so you said the last name was Lewis?
+[00:36] [Dr. Foster]: Yeah, L-E-W-I-S.
+[00:41] [Receptionist]: And the first name, can you spell it for me?
+[00:44] [Dr. Foster]: K-A-M-E-S-H-I-A.
+[00:53] [ ... Silence (12s) ... ]
+[01:05] [Receptionist]: Kameshia Lewis, right?
+[01:07] [Dr. Foster]: I'm sorry?
+[01:09] [Receptionist]: Kameshia Lewis.
+[01:11] [Dr. Foster]: Kameshia Lewis, yeah, that's right. Her date of birth is 10/21/76.
+[01:19] [Receptionist]: Okay, so if I'm not mistaken...
+[01:27] [Dr. Foster]: I'm sorry?
+[01:29] [Receptionist]: Yes, if I'm not mistaken, this is a case from 2021, correct?
+[01:35] [Dr. Foster]: Yeah, 6/9/2021 was the date of loss.
+[01:41] [Receptionist]: So this one, now I'm taking a look into the case because we already archived this one. I'm looking into the details. Let's see. Disbursement, payment... let's take a look for that check, okay?
+[02:01] [Dr. Foster]: Okay.
+[02:03] [Receptionist]: Yes, so the status of this one now has been disbursed. So they already did the disbursement. I'm looking into the check disbursement sheet right now for the check. And you said you were calling from what center again? Let me have the name.
+[02:25] [Dr. Foster]: Vitality Center or Vitality Rehab and Wellness.
+[02:32] [Receptionist]: Yes, Vitality Rehab and Wellness Center. I do see here there was a check elaborated and we just recently disbursed on this one this year.
+[02:49] [Receptionist]: So for you, ma'am, there was a check elaborated back in June.
+[02:57] [Dr. Foster]: Okay. Do you know the check number? Maybe I could search for it because we still have her account as being open.
+[03:06] [Receptionist]: Yes, ma'am. I have a check number for you. I have check number 37879.
+[03:17] [ ... Silence (17s) ... ]
+[03:34] [Dr. Foster]: And you said it was sent out earlier this year in June?
+[03:37] [Receptionist]: To be honest with you, it would be around July. But what I can do is I can request for them to check for me if this check has been cashed or what the update on the tracking, right? And follow up with you, ma'am, okay? So let me go ahead and request that right now.
+[03:58] [Dr. Foster]: Okay. What I'm- I'm looking on my accounting on my end as well just to see. I do remember accepting a reduction, but uh, I don't recall uh receiving anything. So I'm going to check on my end to be sure, which is why her account has been highlighted for me to check for today. I'll also check with my bank because it could have been a possibility her check was lumped in with someone else's, but we uh do a good job at uh making sure that we uh close out cases in our account so we could have missed hers. So I'll check on my end. I'm glad that you gave me the check number. I'm sorry?
+[04:39] [Receptionist]: No, go ahead, go ahead.
+[04:41] [Dr. Foster]: Yes, I'm glad that you- let me check her file here. Maybe we put all the- we put all the receipt copies of everything in this file. Kameshia, 1976... no, we don't have it in here. I will- I will uh- I'll at least check the bank and see. If I don't have anything from the bank, then I'll give you guys a call back to see what can be done because it's possible that you sent it to another office. There is another Vitality something and sometimes we get their mails and sometimes they get ours.
+[05:10] [Dr. Foster]: Uh, but we're on Cleveland Avenue and you know, we're in a whole totally another side of Atlanta. So, we'll see. Is there any way that I can get your name?
+[05:41] [Receptionist]: Yes, my name is Devin. My name is Devin, D-E-V-I-N.
+[05:50] [Dr. Foster]: You said Devin? I couldn't hear you. Devin. D-E-V-I-N, did I hear that properly?
+[06:00] [Receptionist]: Yes, ma'am.
+[06:02] [Dr. Foster]: Okay. All right, thank you so much.
+[06:04] [Receptionist]: So by the looks of it, ma'am, it was delivered- well, not delivered, but it would normally be sent to the address we have here where we did the reduction from and it was sent to 777 Cleveland Avenue, Suite 309, Atlanta, Georgia 30315.
+[06:52] [Dr. Foster]: Mhm. Yep, that's our address. But I- I just am trying to check my records real quick to make sure. If I discover that um anything different on my end then I'll give you guys a call back, but um I'm going to just check with the bank because we don't have it in our- in our systems here that uh we received anything. Um, but if I have um any updates on my end, I'll give you guys a call back. But I do appreciate you for updating me on her file.
+[07:02] [Receptionist]: No problem, ma'am. No problem. More than a pleasure to assist you. If anything once you've already done that research...
+[07:06] [Dr. Foster]: Mhm. Go ahead. Go ahead with what you were trying to say, I'm sorry.
+[07:09] [Receptionist]: Yes, I was going to let you know that once you've done the research or checked with your bank to see if the check was cashed or- or deposited into your account, if there's- there's not anything, you can give us a call back and I'm going to also today request for them to do a tracking on it to see if what's the status, okay?
+[07:30] [Dr. Foster]: Okay. I appreciate that. Um, I have an additional question. I know that you guys were also- this is Bane and Associates. I know that you guys were also treating Erica Lucas and I couldn't recall if her case had been dropped. It was in litigation. Is there any way for you to check that on your end for me?
+[07:52] [Receptionist]: I will, yes. Allow me just a second. I can more than definitely help you.
+[07:57] [Dr. Foster]: Sure, sure. Take- take your time. I appreciate your help.
+[08:01] [Receptionist]: You're welcome, ma'am.
+[08:03] [ ... Silence (36s) ... ]
+[08:39] [Receptionist]: I'll search for Erica Lucas for ma'am. What is the name of that client you're looking for status on, ma'am, once again please?
+[08:44] [Dr. Foster]: Sure. Erica Lucas, L-U-C-A-S. Um, date of loss is 4/25/21.
+[08:54] [ ... Silence (18s) ... ]
+[09:12] [Receptionist]: Same date of birth for Erica Lynn Lucas, okay.
+[09:14] [Dr. Foster]: I'm sorry?
+[09:16] [Receptionist]: Yes, I do see here...
+[09:24] [Receptionist]: So for that one, looks like Matt or Calvin- the Calvin Foster- Dr. Foster...
+[09:43] [Dr. Foster]: Uhhuh, that's- that's my office manager, mhm.
+[09:49] [Receptionist]: Yes, looks like they spoke to Calvin on that one that there was no recovery on this file, unfortunately.
+[09:53] [Dr. Foster]: All right, I'll update my stuff over here. All right, I appreciate your help once again and I'm going to do everything I need to do on my end about the other patient. Um, thank you so much. Enjoy the rest of your day.
+[10:08] [Receptionist]: Thank you.
+[10:10] [ ... Silence (3m 56s) ... ]
+[14:06] [Receptionist]: Ma'am?
+[14:12] [Receptionist]: Hello?
+[14:18] [Receptionist]: Hello?
+[14:20] [Receptionist]: Miss, you still there?
+[14:22] [ ... Silence (6s) ... ]
+[14:28] [Receptionist]: Hello?
+[14:30] [ ... Silence (7s) ... ]
+[14:37] [Receptionist]: Hello?
+[14:39] [Receptionist]: Hello?
+[14:41] [ ... Silence (18s) ... ]
+[14:59] [Receptionist]: Hello?
+
+========================================
+TRANSCRIPT END
+========================================

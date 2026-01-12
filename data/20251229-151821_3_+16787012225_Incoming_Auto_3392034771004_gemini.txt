@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Janice / Role: Caller from AICA Orthopedics: 2 turns
+
+----------------------------------------
+
+[00:03] [Receptionist]: Bey and Associates, Kim speaking.
+[00:05] [Janice]: Hi Kim, this is Janice. I'm calling you from AICA Orthopedics. I'm calling to speak with Michael regarding uh Marilyn Chen.
+[00:16] [Receptionist]: Alrighty, let me get him for you.
+[00:19] [Janice]: Thank you.
+[00:20] [Receptionist]: You're welcome.
+[00:21] [ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

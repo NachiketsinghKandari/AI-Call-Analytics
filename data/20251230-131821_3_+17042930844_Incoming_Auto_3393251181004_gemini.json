@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the caller as an existing client and initiated a transfer to the case manager or attorney to address a settlement status inquiry, and the call ended after the caller was placed on hold for the transfer.",
+    "call_duration_seconds": 132.98,
+    "call_duration_formatted": "02:12"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist stated they would attempt to reach the case manager or the attorney and placed the caller on hold, at which point the call ended."
+  }
+}

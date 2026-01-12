@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Amy / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Shahram Arabi / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, this is Amy.
+[00:04] [Shahram Arabi]: Hello, I'm trying to reach Veronica Brown, please.
+[00:08] [Receptionist]: Veronica?
+[00:11] [Shahram Arabi]: Yes.
+[00:13] [Receptionist]: And last name?
+[00:15] [Shahram Arabi]: Veronica Brown, yes.
+[00:19] [Receptionist]: Okay. Then, uh, may I have your name and reason for calling?
+[00:21] [Shahram Arabi]: Yes. My name is Shahram Arabi. I'm a physician, a medical expert who she contacted to work on a case with her.
+[00:30] [Receptionist]: Okay. I'll just go ahead and transfer you straight over. Have a great rest of your day, sir.
+[00:36] [Shahram Arabi]: Thank you.
+[00:38] [Receptionist]: You're welcome.
+
+[ ... Silence (9s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

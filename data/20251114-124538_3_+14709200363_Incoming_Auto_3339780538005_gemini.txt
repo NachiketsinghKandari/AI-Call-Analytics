@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at D- and Associates Law Firm: 17 turns
+  • Speaker 2 / Kiara Pringle / Role: Client: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: D- and Associates Law Firm, Devon speaking.
+[00:03] [Kiara Pringle]: Hey, Devon, is that-
+[00:08] [Receptionist]: Yes, ma'am.
+[00:09] [Kiara Pringle]: How you doing, Devon? My name is Kiara Pringle. Um, I have my insurance company on- on line. I wanted to see if it's possible I can speak with the attorney. I can't hear you, there's a lot of noise in your background.
+[00:21] [Receptionist]: Yeah, unfortunately, I'm not in the office right now, but let me get you connected with an attorney regarding your case, ma'am. So-
+[00:27] [Kiara Pringle]: I'm sorry, you said what?
+[00:28] [Receptionist]: Let me get you connected to your attorney so you can have that conversation with the insurance. Sure thing, no problem. Bear with me.
+[00:39] [ ... Silence (7s) ... ]
+[00:46] [Receptionist]: This is Kiara, right?
+[00:48] [Kiara Pringle]: Yes.
+[00:50] [Receptionist]: Let me put you on a brief hold.
+[00:52] [Kiara Pringle]: Say it again?
+[00:54] [Receptionist]: Let me put you on a brief hold. Okay?
+[00:58] [Kiara Pringle]: All right.
+[00:59] [Receptionist]: Thank you for your patience in holding on me, Miss Pringle. Um, by any chance, is this case under your name?
+[01:09] [Kiara Pringle]: It's under Keith Jones' name.
+[01:13] [Receptionist]: Keith Jones. Okay. Let me see if I can find Victoria Pringle. Keith- Keith Jones. Yes.
+[01:23] [Kiara Pringle]: Mr. Keith Jones Jr.
+[01:26] [Receptionist]: Yes.
+[01:31] [Kiara Pringle]: Um, the- I- I've had somebody holding all this time. It's been like four minutes. Is there any way I can speak to the attorney?
+[01:41] [Receptionist]: Well, Stephanie's not in, ma'am. I'm trying to reach her right now, but she's not in today until Monday. That's the thing. I'll try to reach out to her for you.
+[01:49] [Kiara Pringle]: You said what?
+[01:50] [Receptionist]: I was trying to reach someone to assist you, but the case manager is not in today, unfortunately, until Monday. She's out on Monday.
+[01:58] [Kiara Pringle]: Is there anybody in the office?
+[02:01] [Receptionist]: Yes. I can get you over to her assistant. Maybe Tiana can assist.
+[02:09] [Kiara Pringle]: Okay.
+[02:11] [Receptionist]: All right? Bear with me for just a second now.
+[02:15] [ ... Silence (5s) ... ]
+[02:20] [Receptionist]: I'm sorry, Miss Pringle. Um, Victoria's not available and Tiana as well. Tiana and Victoria are out for lunch at this very moment. Uh, can the insurance give a call on Monday regarding the- the- the issue?
+[02:32] [Kiara Pringle]: No. No, 'cause we've been doing this since Wednesday. Well, they've been doing this for months. But you guys are saying you sent a demand letter that they're saying they- they didn't get it. And it's been going on since like- I just stepped into it Wednesday, but you guys are just saying you sent it, but how did they send something and they're just not getting it? And it's been days, and it's been months. So everyone is on hold because of this paper that you guys have. So no one has access to the files where they can send it or to see what day it was sent? Because why are these people saying they don't have it? Like, do you have access to the system? I'm so confused as to what kind of office I'm even calling right now.
+[03:09] [Receptionist]: Okay, so right now, ma'am, you're in the intake department. I don't have access to all that information, but I can leave a message for Victoria to give you a call right away once she returns from- from her lunch to settle this about the demand. That's no problem.
+[03:26] [Kiara Pringle]: I'll just call back. Thank you.
+[03:30] [Receptionist]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

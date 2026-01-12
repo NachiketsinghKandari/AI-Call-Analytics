@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Main Street Law Firm: 1 turn
+  • Speaker 2 / Sarah Jenkins / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Main Street Law Firm, this is Kim.
+[00:03] [Sarah Jenkins]: Hi, Kim. This is Sarah Jenkins. I'm calling to, uh...
+
+========================================
+TRANSCRIPT END
+========================================

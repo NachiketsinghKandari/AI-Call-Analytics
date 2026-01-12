@@ -1,0 +1,27 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist requested the name of the employee and initiated a transfer to the administrative department after the caller requested to speak with HR.",
+    "call_duration_seconds": 34.63,
+    "call_duration_formatted": "00:34"
+  },
+  "transfer_context": {
+    "destinations": [
+      "administration_and_operations"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist stated 'one moment' and initiated a transfer to the administrative department for an employment verification request."
+  }
+}

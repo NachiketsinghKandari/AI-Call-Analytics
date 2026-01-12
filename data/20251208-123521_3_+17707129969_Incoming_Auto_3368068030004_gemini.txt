@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller from Liberty Mutual Insurance Company: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, this is Karina speaking, how can I help you?
+[00:04] [Unknown]: Yes, I'm calling to speak with attorney Daryl Ford?
+[00:09] [Receptionist]: Daryl Ford? Do you have a— are you a client or do you have a— a client's name?
+[00:17] [Unknown]: The client's name is— your— your client is Smith, last name is Smith, first name A-R-M-A-N-D, Armand.
+[00:28] [Receptionist]: Okay, give me a second.
+[00:31] [ ... Silence (8s) ... ]
+[00:39] [Receptionist]: You are calling me from where?
+[00:43] [Unknown]: Liberty Mutual Insurance Company, I'm the attorney for the defendant.
+[00:52] [Receptionist]: Okay. Let me try to get the case manager on the line, okay? Bear with me.
+[00:58] [Unknown]: No problem.
+
+========================================
+TRANSCRIPT END
+========================================

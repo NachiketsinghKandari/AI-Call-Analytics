@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bey and Associates Law Firm: 12 turns
+  • Speaker 2 / Clarissa/ Role: Caller from Neurospine: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, Kevin speaking.
+[00:06] [Clarissa]: Hey, good afternoon. My name is Clarissa, I'm with Neurospine. I'm trying to locate the case manager for Alondra Castillo.
+[00:16] [Receptionist]: Let me look that up for you. Alondra Castillo, right?
+[00:20] [Clarissa]: Yes. Did you ask how to spell it?
+[00:23] [Receptionist]: No, no, I'm good. So you're looking for Paige, um, so let me get you connected to her, okay?
+[00:29] [Clarissa]: Thank you.
+[00:31] [Receptionist]: You're welcome. Seems like she's on another call at the very moment. Would you like me to provide you her direct number?
+[00:39] [Clarissa]: Yes, can I get her email as well?
+[00:42] [Receptionist]: Okay, yes, of course. So her number is 470—
+[00:51] [Clarissa]: Um, hold on, I'm sorry. Can you repeat that?
+[00:53] [Receptionist]: Yes, 470-615-0715.
+[01:01] [Clarissa]: Okay, I have that.
+[01:06] [Receptionist]: And her email is Payge, which is P-A-Y-G-E at beyandassociates.com.
+[01:41] [Clarissa]: Okay, so I have Paige, like T as in Tom—
+[01:46] [Receptionist]: It would be P as in Paul, Payge.
+[01:51] [Clarissa]: Okay, I'm sorry, it's kind of hard to hear. T as in Tom?
+[01:56] [Receptionist]: P as in Paul.
+[01:58] [Clarissa]: And then A-I—
+[02:04] [Receptionist]: Y as in Yankee, G-E.
+[02:13] [Clarissa]: Okay, so T-A-Y-G-E at beyandassociates.com. And then "and" is spelled out, correct?
+[02:23] [Receptionist]: Yes, that's B-E-Y for Bey, the "and" would be spelled out, and Associates is plural dot com.
+[02:31] [Clarissa]: Okay, thank you so much. Goodbye.
+[02:35] [Receptionist]: Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

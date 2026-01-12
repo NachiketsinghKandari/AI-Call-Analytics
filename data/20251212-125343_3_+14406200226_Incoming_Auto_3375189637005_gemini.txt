@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Ms. Alani / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking?
+[00:04] [Ms. Alani]: Uh, yes, Ms. Alani?
+[00:07] [Receptionist]: Yes, ma'am. One second, let me go ahead and transfer you.
+[00:11] [Ms. Alani]: Thank you.
+[00:13] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

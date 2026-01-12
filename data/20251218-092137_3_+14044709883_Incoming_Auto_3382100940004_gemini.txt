@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Aersimo / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you?
+[00:04] [Aersimo]: Hi, my name is Aersimo, I'm calling from Physical Therapy and Balance in Reno, and I was trying to get a case manager information for one of your clients.
+[00:12] [Receptionist]: All right, can I have that client's name?
+[00:16] [Aersimo]: Yes, her name is Candy Faulkner.
+[00:21] [Receptionist]: Paige Almond.
+[00:24] [Aersimo]: Almond?
+[00:26] [Receptionist]: P-A-Y-G-E.
+[00:30] [Aersimo]: Almond, A-L-M-O-N, or is it have a D?
+[00:36] [Receptionist]: Without the D.
+[00:38] [Aersimo]: Okay. And what's a good email and phone number for her?
+[00:42] [Receptionist]: Email is Paige, P-A-Y-G-E, at Bey and Associates dot com. Direct number 470-615-0715.
+
+[ ... Silence (12s) ... ]
+
+[01:05] [Aersimo]: Thank you. Could you, um, respell her first name for me? I'm sorry.
+[01:11] [Receptionist]: P for Paul, A for Alpha, Y for Yellow, G for Grape, E for Echo.
+[01:18] [Aersimo]: All right, perfect. Thank you so much.
+[01:21] [Receptionist]: You're welcome. Bye-bye.
+[01:23] [Aersimo]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bayan and Associates: 7 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bayan and Associates. This is Lionel.
+[00:07] [Speaker 2]: Hey, good morning. How you doing?
+[00:10] [Receptionist]: Fine, what about you?
+[00:12] [Speaker 2]: Can't complain. Can you transfer me or may I speak with Miss Middleton please? Is she in?
+[00:19] [Receptionist]: Um, yes. May I have your phone number?
+[00:24] [Speaker 2]: My phone number? 404... well, 310-927-6923.
+[00:31] [Receptionist]: Okay, one moment.
+[00:32] [ ... Silence (6s) ... ]
+[00:38] [Receptionist]: Um, thank you so much for holding. Attorney Middleton is not available right now. I can send her an email so she can give you a call back.
+[00:49] [Speaker 2]: Oh, do you know when she would be back or available? I just... I just returned a call, I just got a call back. I just need to speak with her.
+[00:59] [Receptionist]: Yeah, but, you know, I don't have any time, I am... the best thing I can do is to send her an email so she can give you a call back as soon as she's available.
+[01:09] [Speaker 2]: Okay, well, I- I have her email. I'll send it.
+[01:15] [Receptionist]: Okay.
+[01:17] [Speaker 2]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,48 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Nekita / Role: Caller from Hollis Cobb Associates: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:07] [Nekita]: Hey Daniel, good afternoon, how are you?
+[00:10] [Receptionist]: I'm fine, what about you?
+[00:12] [Nekita]: Good. My name is Nekita reaching out to you on a recorded line from Hollis Cobb Associates on behalf of Northside Physicians Billing Services and I wanted to get the status of your client Milagro Mejia.
+[00:26] [ ... Silence (7s) ... ]
+[00:33] [Receptionist]: And the date of loss?
+[00:36] [Nekita]: Let me get that for you. It is, um, August 24th of 2024.
+[00:44] [ ... Silence (11s) ... ]
+[00:55] [Nekita]: I have three bills and I'll tell you the total amount. It's for 3,577.
+[01:00] [ ... Silence (13s) ... ]
+[01:13] [Receptionist]: So, so you're calling on behalf of which hospital, I'm sorry?
+[01:22] [Nekita]: Northside Physicians Billing.
+[01:29] [ ... Silence (12s) ... ]
+[01:41] [Receptionist]: What is the date of birth for this patient?
+[01:43] [Nekita]: All right, let me get it for you. It is January the 30th, 1997.
+[01:52] [ ... Silence (16s) ... ]
+[02:08] [Receptionist]: Um, give me one moment, please. Okay, so thank you so much for holding. So the only case that I see for this client, I don't see any like she went to that hospital or that was added to to the case, like Emory.
+[02:33] [Nekita]: Okay. Hmm.
+[02:35] [Receptionist]: So yeah, I don't see that. Based on the notes and everything, I just see that she went to Magnolia Medical Clinic, but I don't see any Emory. Yeah.
+[02:49] [Nekita]: Magnolia? Well, this is North— it's the doctors, Northside Physicians is what I have. Was it on this date of service? Because I'll have to reach back out to it to see, because this is what I have.
+[02:59] [Receptionist]: What is— what was the amount that you're looking for?
+[03:03] [Nekita]: I have three bills totaling up to 3,577. So I have a bill for, uh, 1,457, a bill for another bill for 1,457, one bill for 663.
+[03:18] [Receptionist]: And what is the total amount of that?
+[03:21] [Nekita]: 3,577.
+[03:26] [Receptionist]: Yeah, I don't see those amounts either here in the, um, in the file.
+[03:35] [ ... Silence (6s) ... ]
+[03:41] [Nekita]: So you all don't represent her for these dates or for this physician's bill?
+[03:46] [Receptionist]: And actually that, um, the accident date that I have is October 24th of '23. So maybe she has another case that we were not, um, aware of or she has maybe—
+[04:03] [Nekita]: So I'll reach out to her.
+[04:05] [Receptionist]: Yeah, maybe she has another representation for that, but the only accident is from October 24th of '23 and I don't see that bill.
+[04:13] [Nekita]: Okay. So I'll reach out to her and let her know. Thank you.
+[04:16] [Receptionist]: Okay. Thank you. Have a great day.
+[04:18] [Nekita]: You too.
+[04:19] [Receptionist]: Okay, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

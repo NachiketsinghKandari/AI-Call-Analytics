@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START (ENHANCED)
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Angelo - Call center agent at a law firm representing attorney John Bay (11 turns)
+  • Hazel - Representative from Relief and Rehab Center seeking collaboration (10 turns)
+
+----------------------------------------
+
+[00:02] [Angelo]: Hello. This is Angelo. How may I help you?
+[00:05] [Hazel]: Hi. This is Hazel with Relief and Rehab Center. How are you?
+[00:11] [Angelo]: So good. Thank you so much for asking. What about you?
+[00:14] [Hazel]: I'm good. Thanks for asking. May I speak with John?
+[00:20] [Angelo]: Sure. And so are you representing one of our client, assisting our client? What is the name for the client?
+[00:29] [Hazel]: Tell you, Han, it is not for any specific case. It is just for our future collaboration. So I just wanted to speak with attorney Kim. Yeah.
+[00:41] [Angelo]: Okay. So
+[00:41] [Hazel]: discuss to schedule a meeting so we can discuss how we can support to each other.
+[00:47] [Angelo]: Sure. Sure. I'll be more than happy to assist you with that. That will be a good idea. But in this case, in order to talk with John, right, you will need to talk with one of his, like, teammates.
+[01:01] [Angelo]: Alright? Because in order to talk with, John Bay, it's a little bit complicated. So you will need to explain the situation to one of his associates, the closer one, and I will give you the telephone number just now. Ready?
+[01:15] [Hazel]: Sure. Yeah. Yeah.
+[01:17] [Angelo]: So the phone number is 404404. 591591. 8928.
+[01:31] [Hazel]: 89.
+[01:34] [Angelo]: 28.
+[01:37] [Hazel]: Okay. And I'm repeating it. If I'm wrong, do correct me. Okay? It's (404) 591-8928.
+[01:51] [Angelo]: Yeah. Name is Matt. Matt McCarran. He is the closest one.
+[01:59] [Hazel]: Okay. And what is the name?
+[02:01] [Angelo]: Matt. Matt McCarran.
+[02:05] [Hazel]: Matt McCarron. Okay. I got you. Perfect. Bye bye.
+[02:09] [Angelo]: Helen. Any anything else would you like to know I can assist you? That's all.
+[02:14] [Hazel]: Sure.
+
+========================================
+TRANSCRIPT END (ENHANCED)
+========================================

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Rebecca / Role: Caller from USAA: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, how can I help you?
+[00:05] [Rebecca]: Hi, this is— hi, this is Rebecca with USAA. I, um, I'm calling about your client Cynthia Cromartie. I can spell that if you'd like.
+[00:15] [Receptionist]: Yes, spell her last name.
+[00:18] [Rebecca]: Sure, C-R-O-M-A-R-T-I-E.
+[00:25] [Receptionist]: Okay. Give me just a moment, alright? Bear with me.
+[00:31] [Rebecca]: Sure, no problem. Thank you.
+[00:36] [Receptionist]: And you said you're calling in from...
+[00:40] [Rebecca]: USAA.
+[00:42] [Receptionist]: USAA. Let me get the case manager, okay? One moment.
+[00:46] [Rebecca]: Sure, thank you.
+[00:50] [Receptionist]: Thank you for holding, ma'am. Uh, the case manager's not available right now. Would you like his voicemail?
+[00:55] [Rebecca]: Yes, that'd be great. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

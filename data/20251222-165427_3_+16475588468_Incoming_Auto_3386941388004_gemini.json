@@ -1,0 +1,21 @@
+{
+  "caller_type": "sales_vendor",
+  "call_summary": {
+    "primary_intent": "solicitation_and_spam",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the caller with the direct phone number and name of the operations manager to discuss medical expert witness services.",
+    "call_duration_seconds": 122.18,
+    "call_duration_formatted": "02:02"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist provided a direct phone number for the caller to dial themselves."
+  }
+}

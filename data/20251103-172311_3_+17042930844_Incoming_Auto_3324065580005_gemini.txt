@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at DeBains Associates: 4 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: DeBains Associates, this is Tasha, how can I help you?
+[00:08] [Speaker 2]: Oh yes, Tasha, is this the after-hours, um, call service or is this you in office?
+[00:15] [Receptionist]: Um, after-hours call service, sir.
+[00:18] [Speaker 2]: Ah, okay. I was trying to reach somebody in the office, uh, but I guess they're closed at this time. They close at five?
+[00:24] [Receptionist]: Yeah, so they close at five, sir. You can call back tomorrow morning at 8:00 AM, sir.
+[00:29] [Speaker 2]: I'll do that. Thank you so much.
+[00:32] [Receptionist]: You're welcome.
+[00:33] [Speaker 2]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Natasha Coleman / Role: Caller from Progressive: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel speaking.
+[00:05] [Natasha Coleman]: Hi, this is Natasha Coleman from Progressive. How are you today?
+[00:09] [Receptionist]: I'm doing well. Thank you for asking. How can I help you?
+[00:12] [Natasha Coleman]: Um, I received a letter of representation for your client Dorian Council yesterday and I was trying to respond via fax, but the fax number was unclear on the letter of rep. Are you able to provide that to me?
+[00:27] [Receptionist]: Yes, ma'am. It is, um, our fax is 404-393-6107.
+[00:38] [Natasha Coleman]: Okay, and I'm going to repeat that back to you. You said 404-393-6107?
+[00:43] [Receptionist]: Yes, ma'am.
+[00:45] [Natasha Coleman]: Okay, I'll get that information over to you right now. Thank you.
+[00:49] [Receptionist]: You're welcome. Have a great rest of your day.
+[00:52] [Natasha Coleman]: You too. Happy holidays.
+[00:53] [Receptionist]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

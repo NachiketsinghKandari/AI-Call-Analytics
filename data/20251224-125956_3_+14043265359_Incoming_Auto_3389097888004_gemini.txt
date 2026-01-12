@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Brittany / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, looking to help you?
+[00:05] [Brittany]: Hi, yeah, this is Brittany calling with Ace Cash Express. I'm calling to do a second verification of a check before cashing for a customer, please.
+[00:14] [Receptionist]: Okay, and what is the customer's name?
+[00:18] [Brittany]: Her name is Kayla Rosenquist.
+[00:26] [Receptionist]: Kayla what?
+[00:28] [Brittany]: Last name is spelled R-O-S-E-N-Q-U-I-S-T.
+[00:38] [ ... Silence (11s) ... ]
+[00:48] [Receptionist]: Okay, and you say you're calling from?
+[00:51] [Brittany]: Ace Cash Express. I'm doing a second verification.
+[00:58] [ ... Silence (22s) ... ]
+[01:19] [Receptionist]: Okay. Um, let's see. For what check?
+[01:26] [Brittany]: Check number is 39280.
+[01:31] [ ... Silence (5s) ... ]
+[01:35] [Receptionist]: Okay, that has a date for, uh, December 23rd, 2025.
+[01:40] [Brittany]: Okay, and what amount do you have, please?
+[01:43] [Receptionist]: 7,777 with 97 cents.
+[01:47] [Brittany]: All right, thank you. And your name, please?
+[01:50] [Receptionist]: Karina.
+[01:52] [Brittany]: Marina?
+[01:53] [Receptionist]: Karina. K-A-R-I-N-A.
+[01:56] [Brittany]: All right, thank you. Happy holidays to you.
+[01:58] [Receptionist]: Thank you, likewise.
+[02:00] [Brittany]: Bye-bye.
+[02:01] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

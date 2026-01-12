@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Julia Ruiz Mendieta / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo speaking, how may I help you?
+[00:05] [Julia Ruiz Mendieta]: Aló?
+[00:07] [Receptionist]: Hola, muy buenas tardes, le habla Angelo, ¿cómo le podría ayudar el día de hoy?
+[00:11] [Julia Ruiz Mendieta]: Ah, muchas gracias, Angelo. La semana pasada me dijeron que llamara hoy, por lo menos hoy martes o miércoles, de que está pendiente un cheque a nombre mío que tiene que salir y me dijeron que tenía que firmar unos documentos y ya mi cirugía es la próxima semana y estoy, estoy en eso, que sin ese cheque yo no puedo pagar el deducible de la cirugía.
+[00:33] [Receptionist]: Ah, claro que sí, me acuerdo de usted. Eh, disculpa, eh, ¿recuerda que yo le había dado un número de teléfono de Michael Soul? ¿Se comunicó con él?
+[00:43] [Julia Ruiz Mendieta]: No, no me diste ninguno, me diste el de Tara, pero no el de Michael.
+[00:49] [Receptionist]: Ah, okay. ¿El de Tara? ¿Y Tara le respondió algo?
+[00:54] [Julia Ruiz Mendieta]: Me dijo que me devolvía la llamada, eso fue hace como una semana y nunca me llamó.
+[00:59] [Receptionist]: Mmm.
+[ ... Silence (6s) ... ]
+[01:05] [Julia Ruiz Mendieta]: Yo necesito que si me resuelven esto esta semana porque yo necesito pagar ese deducible esta semana a fin de de semana, porque mi cirugía es el 17, ya es el próximo miércoles.
+[01:21] [Receptionist]: Claro. ¿Me podría por favor indicar su nombre nuevamente? Disculpa.
+[01:24] [Julia Ruiz Mendieta]: Julia Ruiz Mendieta.
+[01:29] [Receptionist]: Julia Ruiz Mendieta.
+[01:33] [Julia Ruiz Mendieta]: La verdad me da mucha pena estar llamando, pero ya pasaron tres meses de eso y nada que me dicen nada.
+[01:42] [Receptionist]: Claro, claro. Déjame mirar a ver qué ha pasado.
+[ ... Silence (84s) ... ]
+[03:11] [Receptionist]: Espéreme un segundo, estamos acá haciendo unas validaciones. Muchas gracias. Espéreme un segundo en la línea.
+[03:16] [Julia Ruiz Mendieta]: Okay, está bien.
+[03:18] [Receptionist]: Muchas gracias por permanecer en la línea, estoy haciendo las respectivas verificaciones. Disculpe un momento más.
+[03:24] [Julia Ruiz Mendieta]: Okay, está bien.
+[03:26] [Receptionist]: Un segundo.
+
+========================================
+TRANSCRIPT END
+========================================

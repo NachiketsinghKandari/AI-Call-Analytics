@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Britney / Role: Caller: 4 turns
+  • Speaker 3 / Dianel Reynoso / Role: Case Manager: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Associates, I am Emma, how can I help you Britney?
+[00:05] [Britney]: Hi, yes, I need to speak to my case manager, Michael Soul.
+[00:11] [Receptionist]: Our records show your case manager as Dianel Reynoso. Let me check if you can speak with them, is that alright?
+[00:20] [Britney]: Yes.
+[00:23] [Receptionist]: Transferring you to Dianel Reynoso. Thank you for holding.
+[00:30] [Dianel Reynoso]: I'm gonna have to talk to him about that. Thank you for calling, Dianel Reynoso.
+[00:37] [Dianel Reynoso]: Please hold while I try to connect you.
+[00:40] [Britney]: Mm-hmm.
+[00:41] [ ... Silence (27s) ... ]
+[01:08] [Dianel Reynoso]: Your call has been forwarded to the voicemail for Dianel Reynoso. No one is available to take your call. At the tone, please record your message. When you've finished recording, you may hang up or press the pound key for more options.
+[01:23] [Britney]: Hi Dianel, this is Britney. Give me a call back when you have a moment. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

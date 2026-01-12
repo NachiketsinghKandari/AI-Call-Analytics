@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "intake_completed",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist completed a full intake for a new car accident claim involving the caller and her two children, and explained that a contract would be sent via text message for review.",
+    "call_duration_seconds": 1823.33,
+    "call_duration_formatted": "30:23"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist handled the intake process directly."
+  }
+}

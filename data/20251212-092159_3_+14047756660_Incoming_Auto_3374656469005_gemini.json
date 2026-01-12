@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "scheduling_and_appointments",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested login information for a deposition. The receptionist attempted to locate the paralegal, determined they were unavailable, and committed to sending an email to the paralegal to facilitate a callback before the scheduled time.",
+    "call_duration_seconds": 71.28,
+    "call_duration_formatted": "01:11"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the paralegal's availability while the caller held, then informed the caller the paralegal was unavailable and offered to send an email."
+  }
+}

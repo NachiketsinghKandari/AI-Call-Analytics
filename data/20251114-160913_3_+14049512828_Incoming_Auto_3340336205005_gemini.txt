@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bain and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bain and Associates, Kimmy speaking.
+[00:05] [Speaker 2]: Hi, may I speak to Victoria...
+[00:09] [Receptionist]: Sure. Let me go ahead and transfer you over. Have a great rest of your day.
+[00:15] [Speaker 2]: Thank you. Thank you so much.
+[00:17] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

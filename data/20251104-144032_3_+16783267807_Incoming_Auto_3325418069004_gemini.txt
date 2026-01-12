@@ -1,0 +1,64 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist: 23 turns
+  • Speaker 2 / [Speaker 2]/ Role: Martha Starks' Husband: 19 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello?
+[00:02] [Speaker 2]: Mr. Donald?
+[00:03] [Receptionist]: This is Devin.
+[00:05] [Speaker 2]: Mr. Donald?
+[00:07] [Receptionist]: No, sir. This is Devin.
+[00:09] [Speaker 2]: Is Donald there?
+[00:11] [Receptionist]: No, sir. This is Devin.
+[00:14] [Speaker 2]: Is uh, Donald there?
+[00:17] [Receptionist]: Donald?
+[00:21] [Receptionist]: Yes. Sure, I can look him up. May I have your first and last name, please?
+[00:25] [Speaker 2]: It's gonna be for Martha Starks.
+[00:29] [Receptionist]: Marcus?
+[00:31] [Speaker 2]: I thought- I thought he said the handler was Janay.
+[00:35] [ ... Silence (13s) ... ]
+[00:49] [Receptionist]: Okay, I'm looking for the case, sir. One second.
+[00:54] [Receptionist]: You said it's under Marcus?
+[00:56] [Speaker 2]: But I don't want-
+[00:58] [Receptionist]: Go ahead.
+[01:00] [Receptionist]: No, you go ahead, sir.
+[01:02] [Speaker 2]: I said I don't want to be connected to a voicemail. I need to talk to someone personally.
+[01:08] [Receptionist]: Okay.
+[01:10] [Receptionist]: And this is in regards to the case for Marcus, you said?
+[01:14] [Speaker 2]: Martha. M-A-R-T-H-A Starks. S-T-A-R-K-S.
+[01:22] [Receptionist]: Okay. The case manager, her name is Paige. Paige is not available today. She is out right now.
+[01:31] [Receptionist]: Uh, the person you spoke to yesterday is Dionel, and he may be available.
+[01:34] [Speaker 2]: Okay.
+[01:36] [Receptionist]: I can get you over- I can get you over to him, okay?
+[01:40] [Speaker 2]: Okay. Thanks a lot.
+[01:42] [Receptionist]: No problem, sir. Now, let me just see if he's available. Let me put you on a brief hold.
+[01:47] [Speaker 2]: Thank you, sir.
+[01:49] [ ... Silence (19s) ... ]
+[02:09] [Receptionist]: Thank you so much for patiently holding.
+[02:12] [Speaker 2]: Thank you.
+[02:14] [Receptionist]: Um, Dionel is not available right now, and Paige as well, but I did manage to get a message across to Dionel for you, and he said he can give you a call back.
+[02:27] [Speaker 2]: Okay.
+[02:29] [Receptionist]: Okay. And you're any- you're a relative to Martha?
+[02:32] [Speaker 2]: Huh?
+[02:34] [Receptionist]: Are you any relative?
+[02:37] [Speaker 2]: I'm her husband.
+[02:39] [Receptionist]: Oh, okay. Yeah, I didn't see your name here. That's the reason why I'm asking, sir. No problem. I will let him know to give you a call back once he returns from the meeting, 'cause he's resolving something in a meeting right now.
+[02:52] [Speaker 2]: Okay. I have one other question, please.
+[02:55] [Receptionist]: Yes, sir.
+[02:56] [Speaker 2]: Uh, do you guys have like a case number or something that my wife can refer to when she calls?
+[03:01] [Receptionist]: A number for what exactly, sir?
+[03:03] [Speaker 2]: Case number.
+[03:05] [Receptionist]: A case number?
+[03:07] [Receptionist]: No, sir.
+[03:09] [Speaker 2]: Okay. Thanks a lot.
+[03:11] [Receptionist]: Thank you.
+[03:13] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

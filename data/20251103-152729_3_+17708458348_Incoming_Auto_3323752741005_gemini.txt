@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bane and Associates Law Firm: 11 turns
+  • Speaker 2 / Cassandra Shaw / Role: Client: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bane and Associates Law Firm, Devon speaking.
+[00:05] [Cassandra Shaw]: Hi, um, this is Cassandra Shaw. Um, is Dianelle or Paige available to speak with? I think they were my contacts on my case.
+[00:16] [Receptionist]: Okay, let me take a look for you. Okay. Shaw. All right, let me take a look real quick for you. So, I'm guessing this is regarding the motor vehicle accident?
+[00:29] [Cassandra Shaw]: Correct.
+[00:30] [Receptionist]: From September of this year? Okay. So yeah, so Dianelle was working on this one, Paige as well, but it's been reassigned... let me see... oh, it was Kevin, but I see Paige working this. Okay. Let me reach out to Paige for you, okay?
+[00:45] [Cassandra Shaw]: Okay.
+[00:48] [ ... Silence (11s) ... ]
+[00:59] [Receptionist]: Okay, Ms. Shaw, thank you so much for patiently holding. I apologize for that delay. So, Mr. Kevin Love, he is your case manager. Unfortunately, he is out for today. He will not return to office until tomorrow. Um, Paige is in a meeting right now, so I couldn't reach out to her, but she did say that she would return a call just in case if Kevin, you know, was not available. But I think Kevin is the one that's handling the information on this one, and we do not want to, you know, provide you the wrong update. So, I can leave a message for him or you can leave a message for him on his voicemail and have him reach out for you tomorrow, or I can give you his direct number, you could call him directly tomorrow for an update, if that's okay with you.
+[01:30] [Cassandra Shaw]: Uh, yeah, that's fine. Uh, what is his direct number?
+[01:35] [Receptionist]: Yes. So, for Kevin... let me get to this real quick. So Kevin's number is 470...
+[01:46] [Cassandra Shaw]: Mhm.
+[01:47] [Receptionist]: 903...
+[01:49] [Cassandra Shaw]: Mhm.
+[01:50] [Receptionist]: 2756.
+[01:52] [Cassandra Shaw]: 2756. And what's Kevin's last name?
+[01:54] [Receptionist]: Love.
+[01:55] [Cassandra Shaw]: Love. Okay. All right. 470-903-2756.
+[02:00] [Receptionist]: Yes, ma'am. So I can transfer you over to his voicemail, you can leave that message, and I'll leave a message as well for him to just, you know, be alert and give you that call back tomorrow. Okay?
+[02:08] [Cassandra Shaw]: All right. Sounds great. Thank you.
+[02:11] [Receptionist]: You're welcome, Ms. Shaw. If anything, give this number once again a call back and we'll more than happily assist you, okay?
+[02:16] [Cassandra Shaw]: All right. Thank you.
+[02:18] [Receptionist]: You're welcome. Transferring you over. Have a great rest of your day.
+[02:21] [Cassandra Shaw]: Thank you, you too.
+
+========================================
+TRANSCRIPT END
+========================================

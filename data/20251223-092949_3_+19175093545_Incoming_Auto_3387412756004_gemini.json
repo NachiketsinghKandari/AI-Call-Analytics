@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist initially declined the case, then placed the caller on hold to consult a supervisor, and returned to the line to confirm the firm does not handle bad faith insurance claims without personal injury.",
+    "call_duration_seconds": 89.57,
+    "call_duration_formatted": "01:29"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist placed the caller on hold to consult a supervisor and returned to the line to provide a resolution."
+  }
+}

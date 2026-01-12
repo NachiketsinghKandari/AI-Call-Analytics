@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates Law Firm: 11 turns
+  • Speaker 2 / [Jennifer] / Role: State Farm Claims Office: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fatima, how may I assist you today?
+[00:07] [Jennifer]: Hi, this is Jennifer with the State Farm Claims Office and I was calling regarding client Carrie Fleming.
+[00:14] [Receptionist]: All right, allow me just one moment while I pull up her file.
+[00:19] [Jennifer]: Okay.
+[00:22] [Receptionist]: All right, I have it here. And just to confirm, the date of loss was on October the 27th, is that right?
+[00:27] [Jennifer]: Correct, yes.
+[00:31] [Receptionist]: All right, how may I assist you from Ms. Carrie's file?
+[00:33] [Jennifer]: I was just calling to get an update on her injuries and treatment so far. I know it's still kind of early.
+[00:41] [Receptionist]: All right, would you please allow me one moment? I'll see if the case manager is available for you, okay? One moment.
+[00:47] [Jennifer]: Okay, thank you.
+[00:48] [Receptionist]: Thank you, you're welcome.
+[00:51] [Receptionist]: Ms. Jennifer, thank you so much for the waiting time. I truly apologize for the delay. So it seems that Ms. Tyauna, which is the case manager, is unavailable. I think she might be out for lunch. However, I am seeing on file here that the client has sent us a text message letting us know that she has gone a different direction with a different firm. So, um, we haven't received an official withdrawal letter as of yet. So I'm not sure if you would like to have the case manager's email or phone number so that you guys can communicate later on, or I can transfer you directly to her voicemail so you can leave a message for her.
+[01:31] [Jennifer]: Yeah, what- what is her- her direct line and her email?
+[01:37] [Receptionist]: All right, so let's see. Her direct line is 404-889-8965. And her email is her name. I'm gonna spell that for you. T as in Tom, Y as in yellow, A as in apple, U as in umbrella, N as in Nancy, A as in apple. So Tyauna at Bey, B-E-Y, and associates dot com. And it's spelled out A-N-D.
+[02:18] [Jennifer]: Okay, andassociates.com.
+[02:22] [Receptionist]: Yeah.
+[02:23] [Jennifer]: All right, I will send her over an email.
+[02:27] [Receptionist]: All right, thank you so much for your time. You have an amazing rest of your day. Bye-bye.
+[02:31] [Jennifer]: You too, bye-bye.
+[02:33] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

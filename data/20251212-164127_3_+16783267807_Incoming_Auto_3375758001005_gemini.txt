@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Martha Starks / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, this is Lionel, how can I help you?
+[00:05] [Martha Starks]: Uh, yes, ma'am— uh, my name is Martha Starks. I'm trying to reach uh, Paige. She's my case manager?
+[00:13] [Receptionist]: Okay, could I have your name again?
+[00:16] [Martha Starks]: My name is Martha Starks. S-T-A-R-K-S.
+[00:22] [Receptionist]: Thank you, one moment, ma'am.
+[00:25] [Martha Starks]: Okay.
+[00:27] [ ... Silence (25s) ... ]
+[00:52] [Receptionist]: Let's see, she's not available because it seems they're all gone for the day. So let me see. Yeah.
+[01:02] [Martha Starks]: Well, who— who do I uh, need to uh, get with to— I need to— I want to uh, have my case uh... what you call that word right there? Oh, release. I want to have my case released.
+[01:18] [Receptionist]: Okay. Yeah, it has to be with her. Let me try to see if she's available. Okay. Yeah, she's gone for the day. Can I send you to her voicemail so you can leave a voicemail and she can call back?
+[01:33] [Martha Starks]: Uh, yes, please. Do you have her direct number?
+[01:38] [Receptionist]: I actually do. Let me see. 470-615-0715.
+[01:54] [Martha Starks]: Okay. All right, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

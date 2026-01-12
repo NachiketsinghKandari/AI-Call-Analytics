@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Angelo / Role: Receptionist at Behan and Satoshi: 7 turns
+  • Kenneth / Role: Caller from another attorney's office: 7 turns
+
+----------------------------------------
+
+[00:00] [Angelo]: This is Angelo from Behan and Satoshi, how may I help you?
+[00:07] [Kenneth]: Hi, my name is Kenneth. I'm calling from another attorney's office. I was calling to get a fax number or email from you guys to send over documentation.
+[00:16] [Angelo]: Uh, we have the fax. Uh, what kind of documentation are you trying to send?
+[00:23] [Kenneth]: It's a relieving of former counsel.
+[00:26] [Angelo]: Okay, just to confirm. So we have the fax, ready?
+[00:31] [Kenneth]: Yep, I'm ready.
+[00:33] [Angelo]: It is 404-393-6107.
+[00:43] [Kenneth]: So 404-393-6107?
+[00:49] [Angelo]: Yes sir, that is it.
+[00:51] [Kenneth]: Okay, awesome. Thank you so much for your help, I appreciate it.
+[00:54] [Angelo]: You're more than welcome. Can anything else or that's all?
+[00:58] [Kenneth]: Nope, that's it for today. Thank you.
+[01:00] [Angelo]: All right, have a good one. Bye-bye.
+[01:03] [Kenneth]: You as well. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

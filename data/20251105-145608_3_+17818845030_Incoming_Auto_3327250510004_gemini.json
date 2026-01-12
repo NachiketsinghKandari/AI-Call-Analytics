@@ -1,0 +1,21 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist located the case details associated with a check and provided the full case number to the caller for their records.",
+    "call_duration_seconds": 306.79,
+    "call_duration_formatted": "05:06"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist provided the requested information directly."
+  }
+}

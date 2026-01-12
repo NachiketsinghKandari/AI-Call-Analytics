@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with Mr. Harvest, but the receptionist could not locate that individual in the directory. The caller declined the offer to leave a message and stated they would call back later.",
+    "call_duration_seconds": 58.1,
+    "call_duration_formatted": "00:58"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted because the requested staff member could not be identified in the firm directory."
+  }
+}

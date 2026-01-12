@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Dorian O'Neal / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (7s) ... ]
+[00:07] [Receptionist]: Bey and Associates, my name is Jesse, how can I assist you?
+[00:11] [Dorian O'Neal]: Hi, yes, I would like to speak to my attorney Linda.
+[00:14] [Receptionist]: Linda, uh yes sir, uh are you the client?
+[00:17] [Dorian O'Neal]: Yes I am.
+[00:19] [Receptionist]: Understood. Can you provide me your name so I can search your information?
+[00:22] [Dorian O'Neal]: First name Dorian, last name O'Neal.
+[00:26] [Receptionist]: Dorian O'Neal. Perfect. All right. And your accident was uh December the 6th of this year?
+[00:34] [Dorian O'Neal]: Correct.
+[00:35] [Receptionist]: Understood. Uh perfect. Do you allow me to place you on a brief hold?
+[00:40] [Dorian O'Neal]: Okay.
+[00:45] [Receptionist]: Thank you so much for holding, sir. Uh let me tell you, so Miss Linda is not available at the moment. What I can do on my end is I can transfer you over to her to her voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible.
+[00:59] [Dorian O'Neal]: That's fine.
+[01:01] [Receptionist]: All right. Thank you so much, sir. Have a good one.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Justin James / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you today?
+[00:04] [Justin James]: Hi, I need to speak with Dante?
+[00:07] [Receptionist]: Dante's not available today until next week.
+[00:11] [Justin James]: He I'd— I've been talking to him back and forth all morning. Y'all have Harold Wright coming into the office and me and him's been kind of back and forth so this is it's kind of time sensitive because I know he just emailed me too he just missed my call uh previously and I have to get back to him on a about a patient balance.
+[00:27] [Receptionist]: Right, he might not be in the office, he may be, you know, working remotely. Let me see if he picks up the his line, okay?
+[00:35] [Justin James]: Thank you, because he he he should be in the office because he had me me him and Mr. Bey on. Thank you.
+[00:42] [Receptionist]: And your name is?
+[00:43] [Justin James]: Uh, Justin James.
+[00:45] [Receptionist]: All right, one moment, thank you.
+[00:47] [Justin James]: All righty, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

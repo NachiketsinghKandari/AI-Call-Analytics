@@ -1,0 +1,21 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist verified the details of a settlement check for a caller from Atlanta Check Cashers, confirming the client name, check number, date, and amount.",
+    "call_duration_seconds": 123.34,
+    "call_duration_formatted": "02:03"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist provided the requested information directly."
+  }
+}

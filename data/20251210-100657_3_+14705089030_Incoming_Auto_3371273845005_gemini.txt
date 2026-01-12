@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Cami / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Diana / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Cami speaking.
+[00:05] [Diana]: Hi Cami, a very good morning. This is Diana, and I'm calling from Gaim on behalf of ATR Physical Therapy and uh a few other providers who are our clients. Uh, could you help me with that please?
+[00:21] [Receptionist]: Sure. Um, you said that you needed...
+[00:26] [Diana]: The status of settlement disbursement payment for some of our clients.
+[00:31] [Receptionist]: Uh, okay. How much is it? 'Cause if it's like a big list then you would have to to send an email to Michael.
+[00:40] [Diana]: No, I have just uh for Michael I have two clients and uh I have another two more clients for other paralegals. But when I'm trying to call the different, you know, different numbers, uh it says that lines are busy. So would you be able to help me with that, Cami, please?
+[00:56] [Receptionist]: Yes, go ahead and let me know the client's name, please.
+[01:00] [Diana]: Great. The first one is Tracy, spelled as T-R-A-C-E-Y, last name Young.
+[01:11] [Receptionist]: All right. This is in litigation settled.
+[01:17] [Diana]: So it's in litigation right now, right?
+[01:20] [Receptionist]: Yes, it's settling right now. They're in the final stages.
+[01:25] [Diana]: Final stages. Okay. Uh, great. No problem. Uh, the next one is Lucinda Calleja. That's one of Michael's cases. Lucinda.
+[01:41] [Receptionist]: Litigation litigation closing.
+[01:44] [Diana]: Litigation closing. So it's the end of the litigation process, right?
+[01:48] [Receptionist]: Yes.
+[01:49] [Diana]: Okay, great. The next one is Juan, G-R- sorry, J-U-A-N, last name Garcia.
+[01:59] [Receptionist]: Litigation closing.
+[02:01] [Diana]: Okay, great. Uh, the very last one is Dolly, D-O-L-L-Y, Cole would be the last name, C-O-L-E.
+[02:11] [Receptionist]: Litigation settling.
+[02:14] [Diana]: Okay, so that's great. Thank you so much, Cami. For all these litigation cases, when next can I uh call back, Cami? Would it be around 30 days, 60 days, just to get another update?
+[02:26] [Receptionist]: 30 I would say.
+[02:28] [Diana]: 30 days. Okay. Thank you so much, Cami. Hope you have a beautiful day ahead.
+[02:32] [Receptionist]: You too. Bye-bye.
+[02:34] [Diana]: Thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

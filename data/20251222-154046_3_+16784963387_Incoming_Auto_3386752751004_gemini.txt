@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Renee / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [Renee]: Hi Lionel. Lionel, good afternoon. My name is Renee. I'm calling from I-Core Orthopedics. Lionel, I have one that's um a little bit troublesome. Can I provide you with the name?
+[00:19] [Receptionist]: Mhm.
+[00:21] [Renee]: The last name is Tillery, T-I-L-L-E-R-Y, and the first name is Catherine.
+[00:32] [Receptionist]: Date of loss?
+[00:34] [Renee]: Date of loss is 6/28/2023.
+[00:42] [Receptionist]: Mhm. How can I help?
+[00:44] [Renee]: Okay. I'm calling to see if the case is in litigation or um do you guys um the status? I'm getting I'm getting I'm getting conflict saying it's in litigation, saying that they are at fault, saying that it's UM coverage, so I need to clarify those things.
+[01:06] [Receptionist]: One moment.
+[01:08] [Renee]: Thank you.
+
+[01:10] [ ... Silence (14s) ... ]
+
+[01:24] [Receptionist]: So the case was dismissed, um we are no longer representing her.
+[01:32] [Renee]: Oh. Because there was no coverage? Because she was at fault?
+[01:37] [Receptionist]: I don't have like to discuss I mean this was in litigation so um I don't have the details of that so the last note is that it has been dismissed.
+[01:51] [Renee]: Um, do you know what date that was dismissed from?
+[01:55] [Receptionist]: It was sometime in around June of 2024.
+[02:01] [Renee]: And who's the um if I need this information who can I reach out to?
+[02:07] [Receptionist]: You can email Jim, um who was the attorney. His email is Jim, J-I-M, at beyandassociates.com.
+[02:20] [Renee]: Okay, good. Thank you so much. I appreciate it, thank you.
+[02:25] [Receptionist]: Bye now.
+[02:27] [Renee]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

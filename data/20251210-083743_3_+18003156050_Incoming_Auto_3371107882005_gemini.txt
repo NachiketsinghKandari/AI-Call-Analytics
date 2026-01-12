@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Diva / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how may I help you?
+[00:03] [Diva]: Hi, please be advised this call might be monitored or recorded. My name is Diva, I'm calling with Medical Revenue Service on behalf of Emory University Hospital Midtown, and I'm calling to verify attorney representation for a Myesha Jackson.
+[00:18] [Receptionist]: How you spell the first name?
+[00:20] [Diva]: M-Y-E-S-H-A.
+[00:24] [ ... Silence (15s) ... ]
+[00:39] [Receptionist]: I don't have an open file with that name.
+[00:42] [Diva]: All right, well thank you so much and you have a good day.
+[00:45] [Receptionist]: All right, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

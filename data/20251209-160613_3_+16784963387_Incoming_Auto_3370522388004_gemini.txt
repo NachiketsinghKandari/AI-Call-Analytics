@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Renee / Role: Caller from Ika Orthopedics: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Renee]: Good afternoon. My name is Renee, I'm calling from Ika Orthopedics. I'm calling to see if the attorney represents um a patient of ours.
+[00:18] [Receptionist]: What is the name of the patient?
+[00:20] [Renee]: The last name is Jones, J-O-N-E-S, and the first name is going to be Lamar or Lamir, L-A-M-I-R. It's a minor. You guys represent the guardian, but we want to know if you represent the minor.
+[00:40] [Receptionist]: Understood. All right, give me one moment.
+[00:44] [ ... Silence (18s) ... ]
+[01:02] [Receptionist]: All right, I'm still here with you, ma'am. Give me one moment.
+[01:06] [Renee]: Okay.
+[01:07] [ ... Silence (14s) ... ]
+[01:21] [Receptionist]: All right, let me confirm with you, his first name would be spelled L-A-M-I as in India R, right?
+[01:28] [Renee]: Correct, correct. He have a hyphen here, so it might be L-A-hyphen-M-I-R. I don't know if that make a difference.
+[01:36] [Receptionist]: Understood. Let me tell you, so for what I'm seeing here on my side, ma'am, it looks like that we do not— we are not representing this person because I cannot find any information about him. I cannot find either a contract or a pending contract.
+[01:56] [Renee]: Okay. Let's— let's— let's look at the guardian. Let's see if anything on the guardian's account, okay?
+[02:02] [Receptionist]: Yes, what is the name of the guardian, ma'am?
+[02:04] [Renee]: Her name is Nakia Barnes.
+[02:10] [ ... Silence (12s) ... ]
+[02:22] [Receptionist]: All right, give me one moment. Yes, I found it here.
+[02:26] [ ... Silence (14s) ... ]
+[02:40] [Receptionist]: Um, let me tell you, ma'am. So we are representing Nakia Barnes and we are representing Jamari Lovett. Yes, we are not representing um Lamir— Lamir Jones. Yes, we're not representing him.
+[02:57] [Renee]: Okay, good. And you said the name was Jesse?
+[03:01] [Receptionist]: Uh, my name is Jesse, yes. J-E-S-S-E.
+[03:04] [Renee]: Thank you so much, Jesse. I can note that in the file. Thank you so much.
+[03:08] [Receptionist]: Thank you so much.
+[03:10] [Renee]: Bye now.
+[03:11] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to check the availability of a specific staff member. Upon finding the staff member was in a meeting, the receptionist recorded the caller's phone number and claim number for a callback.",
+    "call_duration_seconds": 160.06,
+    "call_duration_formatted": "02:40"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to locate Matt McKernan but returned to the line to inform the caller he was unavailable."
+  }
+}

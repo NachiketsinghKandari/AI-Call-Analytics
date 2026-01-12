@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Cammy / Role: Receptionist at Bey and Associates: 10 turns
+  • [Alexis] / Alexis / Role: Representative at Assurance America: 10 turns
+
+----------------------------------------
+
+[00:03] [Receptionist]: Bey and Associates, Cammy speaking.
+[00:06] [Alexis]: Take it— you said Cammy?
+[00:08] [Receptionist]: Cammy.
+[00:09] [Alexis]: Cammy, I am so sorry, Cammy. How are you today?
+[00:14] [Receptionist]: I'm doing well, thank you for asking.
+[00:17] [Alexis]: Okay, that is good to hear. I am reaching out to you, well first and foremost, my name is Alexis with Assurance America on a recorded line for quality. I am reaching out to you regarding your client, it looks like it is Joseph Haynes.
+[00:33] [Receptionist]: Okay, one second, let me pull that up.
+[00:36] [Alexis]: Mhm.
+[00:38] [Receptionist]: Okay, that would be Victoria Morales. Let me get her for you.
+[00:43] [Alexis]: Okay, thank you.
+[00:44] [Receptionist]: You're welcome. Oh, I do see that she is on another call right now. Would you like her direct number?
+[00:52] [Alexis]: Yeah, what is her direct number?
+[00:54] [Receptionist]: Okay, her name is Victoria, last name Morales. Number is 470-615-0710. I can send you over to her voicemail if you wish.
+[01:11] [Alexis]: Uh, yes. Do you actually have an email for her as well?
+[01:15] [Receptionist]: Yes, it is Victoria, V-I-C-T-O-R-I-A at Bey, B-E-Y, A-N-D, Associates with an S, dot com. So Victoria at Bey and Associates dot com.
+[01:31] [Alexis]: With an S?
+[01:33] [Receptionist]: With an S, dot com.
+[01:36] [Alexis]: Perfect. Thank you so much, Cammy. If you wouldn't mind sending me, um, to her voicemail, that would be truly appreciated.
+[01:47] [Receptionist]: All right, you have a great rest of your day. Bye-bye.
+[01:50] [Alexis]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

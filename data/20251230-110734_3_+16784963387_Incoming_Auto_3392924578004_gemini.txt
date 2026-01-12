@@ -1,0 +1,52 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Renee / Role: Caller: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:03] [Renee]: Hi Angelo, Angelo, my name is Renee calling from I-Core Orthopedics. Angelo, I'm looking to speak to a Tara Chapman. [Cough]
+[00:12] [Receptionist]: Tara Chapman. Let's see. Um, are you calling on behalf of any of our client, which client or something? Can I have the name?
+[00:22] [Renee]: The client last name is Cade, C-A-D-E. And the first name is Rodriguez, Rodriguez Cade.
+[00:31] [Receptionist]: Let's see. One moment.
+
+[ ... Silence (27s) ... ]
+
+[01:02] [Receptionist]: You said that the first name is C or K at the beginning? Or the last name?
+[01:11] [Renee]: The last— the last name is Cade, C-A-D-E.
+[01:19] [Receptionist]: K-C-A-D-E. I cannot find Rodriguez. One minute.
+[01:31] [Renee]: Well let me give you another name, okay, since you can't find that one. It's going to be, the last name is going to be Broom, B-R-O-O-M. And the first name is Tangela, T-A-N-G-E-L-I-A, Tangela Broom.
+[01:46] [Receptionist]: Tangela Broom. I found it. This one I found it. Would you like to talk with the case manager?
+[01:53] [Renee]: I want to speak to Tara Chapman.
+[01:57] [Receptionist]: Okay, hold on.
+[02:02] [Receptionist]: Hey, they're saying that you're calling from here?
+[02:04] [Renee]: I-C-A Orthopedics.
+[02:07] [Receptionist]: Okay. Stay on the line, please.
+[02:09] [Renee]: Thank you.
+[02:11] [Receptionist]: Thank you for staying on the line. It looks like that Tara Chapman didn't answer the phone. Would you like me to give it a try with the case manager, Stephanie?
+[02:22] [Renee]: Um... or what is the request for?
+[02:28] [Renee]: Um, what about um, Britney Lawson? Is she in the office today?
+[02:34] [Receptionist]: Britney? But may I know the reason why? Because sometimes some cases are handled not for...
+[02:44] [Renee]: I know. Is Britney Lawson in the office today?
+[02:48] [Receptionist]: Yes, but I need to know the reason why because she is not even on this case, on this file. So before to transfer the phone call, I need to consult and let them know why you are calling. Can you please tell me what happened?
+[03:04] [Renee]: I'm calling in regards to a courier pickup for— for Britney Lawson. Courier pickup.
+[03:10] [Receptionist]: What do you mean with that?
+[03:12] [Renee]: Checks— checks to be picked up. We pick up checks from Bey every week and Britney Lawson is the contact. Is she in the office today?
+[03:20] [Receptionist]: In this case it will be Michael Soul is the person in charge for the finance of the company.
+[03:27] [Renee]: Okay, so— but Britney Lawson is not in the office today?
+[03:33] [Receptionist]: Uh, let's see. Stay on the line.
+[03:43] [Receptionist]: She— she didn't answer the phone neither. So would you like to leave a voicemail?
+[03:52] [Renee]: Yes, thank you.
+[03:54] [Receptionist]: For Britney or for Tara Chapman?
+[03:57] [Renee]: Britney.
+[03:59] [Receptionist]: Okay.
+
+[ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

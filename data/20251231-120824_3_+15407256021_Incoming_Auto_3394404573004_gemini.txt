@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Emily Evans / Role: Caller from Allstate Insurance: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Emma. How can I help you?
+[00:03] [Emily Evans]: Uh hi, my name is Emily Evans. I'm calling from Allstate Insurance. Um, I was calling regarding a newer client of yours, Nichelle Stevenson.
+[00:14] [ ... Silence (6s) ... ]
+[00:20] [Receptionist]: I found the case for Nichelle Stevenson. How can I assist you with it?
+[00:24] [Emily Evans]: Okay. Um, I was looking to see if who the case manager is, if I could speak with them?
+[00:31] [Receptionist]: The case manager Linda Huff is currently unavailable. Let me take a message and I'll make sure she gets back to you. What would you like me to let her know?
+[00:41] [Emily Evans]: Um, could you provide a phone number for her or an email? Or both?
+[00:47] [Receptionist]: Linda Huff's phone number is 5 1 3 3 7 3 4 0 6 4. For email, you can reach her at L-I-N-D-A at bayandassociates.com.
+[01:09] [Emily Evans]: Okay. Okay, I'll just email her. I appreciate your help.
+[01:17] [Receptionist]: You're welcome. Thank you for calling. Have a great day.
+
+========================================
+TRANSCRIPT END
+========================================

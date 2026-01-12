@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dennis / Role: [Receptionist] at Bain and Associates Law Firm: 9 turns
+  • Speaker 2 / Ms. Jupiter / Role: Client: 9 turns
+
+----------------------------------------
+
+[00:00] [Dennis]: Bain and Associates Law Firm, Dennis speaking, good afternoon.
+[00:06] [Ms. Jupiter]: Hi, how you doing? Dennis, this is Ms. Jupiter. 
+[00:11] [Ms. Jupiter]: Um, can you connect me...
+[00:13] [Dennis]: Huh?
+[00:15] [Dennis]: Hi, good day. How can I assist you, ma'am?
+[00:17] [Ms. Jupiter]: Can you connect me to Jim O'Brien, please?
+[00:21] [Dennis]: Sure. Let me see if he's in the office. Let me double-check, okay?
+[00:26] [Ms. Jupiter]: Okay, thank you.
+[00:30] [Dennis]: Ms. Jupiter?
+[00:32] [Ms. Jupiter]: Yes.
+[00:34] [Dennis]: Seems like Mr. Jim O'Brien is not available, um, via phone. I just tried reaching him twice and...
+[00:42] [Ms. Jupiter]: Look, I'm not understanding this. They have my case going on five years. I gotta keep calling them. Nobody call me. If they- they can't do nothing, I need to get me another attorney. Even John- John Bey, he don't even do nothing. And he told me don't leave. He busy, but he- he... I'm not understanding this. It's like they just throw me to the side. I lost my husband and his children want to know, uh, what they doing. If they not doing nothing, I need to move on.
+[01:14] [Ms. Jupiter]: So if nobody in the office that have the case with him?
+[01:19] [Dennis]: Yes, I was gonna tell you he's not available, but let me try reaching out to your case manager, Susan.
+[01:27] [Ms. Jupiter]: Because this is too much.
+[01:32] [Dennis]: Yeah, he's been in the- in the court for the past couple of weeks. So let me try reaching out to someone for you, alright?
+[01:43] [Ms. Jupiter]: Okay.
+[01:45] [Dennis]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

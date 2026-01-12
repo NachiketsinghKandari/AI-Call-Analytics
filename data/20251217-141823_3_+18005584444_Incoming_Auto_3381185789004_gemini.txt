@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Sarah / Role: Caller from Humana Subrogation: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:07] [Sarah]: Hi, this is Sarah calling from Humana Subrogation on a recorded line. How are you?
+[00:14] [Receptionist]: Very good, thank you so much for asking. What about you?
+[00:17] [Sarah]: Good, good. If you had a minute, I was just calling for a status on a case for Barbara Jackson.
+[00:25] [Receptionist]: Sure, I'm going to be happy to assist you. Let me go ahead and take a look here.
+[00:31] [ ... Silence (18s) ... ]
+[00:49] [Receptionist]: I found it. Can I have please the date of loss?
+[00:52] [Sarah]: From October 19th of 2023.
+[00:56] [ ... Silence (6s) ... ]
+[01:02] [Receptionist]: Okay, I found it. Tell me, how may I help you?
+[01:08] [Sarah]: Okay. Um, just checking if it had settled or if lawsuit's been filed or what happened with the case.
+[01:14] [Receptionist]: Oh, it is still in litigation. It's on litigation negotiation. That means we are working on the litigation part. Mm-hmm.
+[01:25] [Sarah]: Okay. Okay, well, we'll give it a few months before we check back.
+[01:31] [Receptionist]: Yes, please. Still we are working on that. Thank you. Anything else or that's all?
+[01:34] [Sarah]: No, that was it. Thanks for your help.
+[01:37] [Receptionist]: All right. You're more than welcome. Have a good one. Take care.
+[01:40] [Sarah]: Thanks. Yes, same to you.
+[01:42] [Receptionist]: Bye-bye.
+[01:43] [Sarah]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

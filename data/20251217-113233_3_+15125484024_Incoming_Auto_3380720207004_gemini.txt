@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:06] [Unknown]: Hi, is Brittany available?
+[00:10] [Receptionist]: Um, you're calling from where?
+[00:12] [Unknown]: Dialpad.
+[00:14] [Receptionist]: Dialpad?
+[00:16] [Unknown]: Mhm. Is this an answering service?
+[00:20] [Receptionist]: Okay, let me verify one moment.
+[ ... Silence (5s) ... ]
+[00:27] [Receptionist]: Thank you so much for holding. She is in a meeting right now. Do you want to leave a voicemail?
+[00:32] [Unknown]: Sure, thank you so much.
+[00:34] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

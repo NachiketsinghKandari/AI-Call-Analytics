@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Tamara / Role: Caller from State Farm: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:04] [Tamara]: Hi, my name is Tamara and I'm with State Farm, and I'm trying to get a hold of the paralegal for Kyle Riley.
+[00:15] [Receptionist]: Uh, Kyle Riley. Give me a moment, okay? Bear with me.
+[00:21] [Tamara]: Sure, thank you.
+[00:23] [ ... Silence (9s) ... ]
+[00:32] [Receptionist]: Victoria. Let me try to get her on the call, okay?
+[00:38] [Tamara]: Thank you so much.
+[00:40] [Receptionist]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

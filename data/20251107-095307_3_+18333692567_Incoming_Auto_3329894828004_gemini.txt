@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Devin / Role: Receptionist at Bay and Associates: 10 turns
+  • [Joanne Kennedy] / Joanne Kennedy / Role: Representative from Nationwide Insurance: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bay and Associates, this is Devin speaking.
+[00:06] [Joanne Kennedy]: Hey, good morning. This is Joanne Kennedy calling from Nationwide Insurance and call may be monitored for quality assurance. I'm looking to speak to Matthew regarding your client Gustav Charles.
+[00:19] [Receptionist]: Let me pull this up. Gustav Charles, right?
+[00:26] [Joanne Kennedy]: Yes, sir.
+[00:28] [Receptionist]: And just to make sure I have this correct, you're calling from...
+[00:32] [Joanne Kennedy]: Nationwide Insurance.
+[00:35] [Receptionist]: Nationwide. I'm going to connect you with Tyauna. She is the case manager.
+[00:41] [Joanne Kennedy]: Perfect. Thank you.
+[00:44] [Receptionist]: You're welcome.
+[00:46] [Receptionist]: Ooh, Tyauna's not available. She won't return...
+[00:51] [Joanne Kennedy]: Do you have...
+[00:52] [Receptionist]: Go ahead.
+[00:53] [Joanne Kennedy]: So I have a demand here that I'm going to tender my limits. Do you have an email that I can send to her? This is a bodily injury. Go ahead.
+[01:03] [Receptionist]: Yes. Okay, let me give you... Tyauna's email is her first name, Tyauna, which is spelled T for Tom, Y, A, U, N as in Nancy, A at bayandassociates.com. That is B-E-Y and associates...
+[01:36] [Joanne Kennedy]: And is the "and" spelled out or is it the symbol?
+[01:42] [Receptionist]: Yes, ma'am. The "and" is spelled out, A-N-D. Associates will be plural, dot com.
+[01:49] [Joanne Kennedy]: Perfect. Thank you very much for your help. But you can send me over to her voicemail too, if you can.
+[01:55] [Receptionist]: Sure. Let me get you over to her.
+[01:59] [Joanne Kennedy]: Thank you.
+[02:02] [Receptionist]: You're welcome, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

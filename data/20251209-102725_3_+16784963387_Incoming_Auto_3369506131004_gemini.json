@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": true,
+    "final_outcome": "The receptionist provided specific payment status, amounts, and check numbers for three distinct clients requested by the medical provider.",
+    "call_duration_seconds": 412.34,
+    "call_duration_formatted": "06:52"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist resolved the inquiry directly."
+  }
+}

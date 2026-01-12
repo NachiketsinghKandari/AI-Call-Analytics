@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Dolly Cole / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kim speaking.
+[00:04] [Dolly Cole]: Uh, this is Dolly Cole. I want to speak to my lawyer, the assistant, or whoever. Dolly Cole.
+[00:12] [Receptionist]: Cole. Okay. Yes, sir. Yes, ma'am. One second.
+[ ... Silence (6s) ... ]
+[00:18] [Receptionist]: Okay. Let me see. Let me see. Let me see. Let me see. That would be... Let me see. Let me see. Let me get him for you one second. Okay.
+[ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

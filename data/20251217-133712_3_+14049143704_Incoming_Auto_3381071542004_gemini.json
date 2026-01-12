@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "intake_completed",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist completed a full intake for a new car accident claim and informed the caller that an attorney would review the details within 24 to 48 hours.",
+    "call_duration_seconds": 1593.43,
+    "call_duration_formatted": "26:33"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist completed the intake process directly."
+  }
+}

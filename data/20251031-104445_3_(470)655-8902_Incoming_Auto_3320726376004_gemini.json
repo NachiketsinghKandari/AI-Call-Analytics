@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable. The caller did not leave a message or schedule a callback after being informed no other staff were available.",
+    "call_duration_seconds": 49.82,
+    "call_duration_formatted": "00:49"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to transfer the caller to Paige, but returned to the line to state she was away from her desk."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the case manager for the client file and initiated a transfer to check her availability, at which point the call ended.",
+    "call_duration_seconds": 62.86,
+    "call_duration_formatted": "01:02"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist stated she would check if the case manager was available to take the call regarding the reduction request and the call ended."
+  }
+}

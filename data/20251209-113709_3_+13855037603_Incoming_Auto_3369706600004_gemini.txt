@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Hona / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:05] [Hona]: Hey, is Kadim available?
+[00:08] [Receptionist]: I can check for you. Are you a client?
+[00:11] [Hona]: Uh, no. I'm calling with Hona. Uh, we met him at OAJ.
+[00:16] [Receptionist]: Sorry, you're calling from where?
+[00:18] [Hona]: You're good. It's Hona. H-O-N-A.
+[00:22] [Receptionist]: Hona. Okay. Let me see if he's available then, okay? One second.
+[00:26] [Hona]: Okay. Sounds good. Thanks.
+[00:32] [Receptionist]: Thank you so much for holding, sir. Kadim is in another call right now. Would you like his voicemail?
+[00:38] [Hona]: Uh, gotcha. Yeah, that'd be great.
+[00:41] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

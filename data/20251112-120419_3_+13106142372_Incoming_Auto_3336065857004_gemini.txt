@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devin / Role: Receptionist at Vance and Associates Law Firm: 6 turns
+  • Speaker 2 / Gail Tassell / Role: Client: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vance and Associates Law Firm, Devin speaking.
+[00:06] [Gail Tassell]: Ah yeah, this is Gail Tassell. I was trying to get in touch with, um, the person who's handling my case. I can't remember, I think it's, a couple people have changed. Might be Kristen, Christian, I don't even know.
+[00:22] [Receptionist]: Ms. Tassell, no problem. Let me get you connected over to Stephanie. She is the person in charge at the moment. Um...
+[00:30] [Gail Tassell]: Who is? What's her name?
+[00:32] [Receptionist]: Stephanie.
+[00:34] [Gail Tassell]: Oh, Stephanie. Oh my god, yeah, Stephanie. Sorry. I don't know, I don't know what's with me today. Thank you so much.
+[00:42] [Receptionist]: No, you're welcome, Ms. Tassell. And by any chance, is this call related to disbursement?
+[00:48] [Gail Tassell]: Uh, well, yeah, I just don't even know what's happening, so I just wanted to get an update.
+[00:53] [Receptionist]: Okay. Perfect. The reason I'm asking is because I see that they have already begun to draft the disbursement for you, so I wanted to see where to connect the call. But let me get you over to Stephanie, okay?
+[01:08] [Gail Tassell]: Okay, thank you.
+[01:10] [Receptionist]: You're welcome, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

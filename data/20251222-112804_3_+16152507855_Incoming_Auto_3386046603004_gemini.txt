@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Malcolm Pollard / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how may I help you?
+[00:04] [Malcolm Pollard]: Good morning. My name is Malcolm Pollard from First Acceptance calling on your client Lisa Daniels, uh, looking to see if you guys have any record of any household UM coverage for her.
+[00:14] [Receptionist]: One moment. You said Lisa Daniels?
+[00:20] [Malcolm Pollard]: Yeah.
+[00:21] [Receptionist]: I don't think we do. Let me get you over to Tiana, I know she's been working on the file.
+[00:29] [Malcolm Pollard]: Okay, thank you.
+[00:31] [Receptionist]: One moment.
+[00:33] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

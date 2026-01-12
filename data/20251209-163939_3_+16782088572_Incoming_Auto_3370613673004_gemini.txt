@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Oliver / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. My name is Jesse. How can I assist you?
+[00:06] [Oliver]: Hello, uh, good afternoon. This is Oliver from Frederick Chiropractic Plus, Dr. Mark Frederick's office. How are you doing today?
+[00:12] [Receptionist]: Ah, good, sir. How can I assist you?
+[00:15] [Oliver]: Uh, can I speak with, uh, attorney Mr. Matt?
+[00:19] [Receptionist]: Mr. Matt. Uh, let me tell you, so Mr. Matt is not available at the moment over the phone.
+[00:25] [Oliver]: He's a paralegal.
+[00:26] [Receptionist]: Yeah, yes, correct. He's not available at the moment over the phone, sir. You would only be able to reach him through email, sir. Do you have his email?
+[00:34] [Oliver]: And who am I speaking with?
+[00:36] [Receptionist]: My name is Jesse, sir. I'm from the intake department.
+[00:39] [Oliver]: Jesse, the thing is that, uh, in the last conversation I have with you, uh, I have sent information you provided me his email. So can you please, uh, convey my number to him and whenever he's available he will give me a call back?
+[00:52] [Receptionist]: Uh, yes, sir. Yes, what would be, uh, the best phone number to reach you at?
+[00:57] [Oliver]: 847-238-2421.
+[01:04] [Receptionist]: 2421. Perfect. And you say your name was Oliver, right?
+[01:08] [Oliver]: Right.
+[01:09] [Receptionist]: Perfect. Perfect. Yes, sir. Uh, I'll send him an email to let him know that you sent your information and and to ask him if they can please reach out to you, all right?
+[01:18] [Oliver]: Okay, all right. Thank you. Thank you so much.
+[01:21] [Receptionist]: Thank you, sir. Have a great day.
+[01:23] [Oliver]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

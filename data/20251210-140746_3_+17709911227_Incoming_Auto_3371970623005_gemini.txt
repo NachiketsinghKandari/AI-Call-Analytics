@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Unknown / Role: Caller from Southern Crescent Injury and Rehab: 7 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:05] [Unknown]: Um, hey, I was... I'm calling to see if...
+[00:11] [Receptionist]: I'm sorry, you're cutting out.
+[00:13] [Unknown]: Hello?
+[00:14] [Receptionist]: Yes, ma'am.
+[00:16] [Unknown]: Okay. Um, I was giving you a call from Southern Crescent Injury and Rehab to see if I could get a patient's case manager's name and email.
+[00:24] [Receptionist]: Sure. Can I have the patient's name?
+[00:27] [Unknown]: Yes, it is Jocelyn Fedon.
+[00:38] [Receptionist]: Okay. Jocelyn, could you spell it for me?
+[00:41] [Unknown]: Yes, it's J-O-C-E-L-Y-N. Fedon.
+[00:50] [Receptionist]: Linda Huff. L-I-N-D-A H-U-F-F. And then her email would be Linda at Bey, B-E-Y, A-N-D associates with an S dot com. So Linda at Bey and Associates dot com.
+[01:07] [Unknown]: Okay, thank you so much. You have a great one.
+[01:09] [Receptionist]: You too. Bye-bye.
+[01:11] [Unknown]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

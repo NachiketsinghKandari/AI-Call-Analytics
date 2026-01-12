@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific staff member; the receptionist informed the caller she was unavailable and offered a callback, which the caller accepted.",
+    "call_duration_seconds": 24.7,
+    "call_duration_formatted": "00:24"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist immediately identified the requested staff member as unavailable."
+  }
+}

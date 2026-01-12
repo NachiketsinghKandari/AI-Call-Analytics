@@ -1,0 +1,48 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kaymie / Role: Receptionist at Bey and Associates: 17 turns
+  • Speaker 2 / Ryan Collins / Role: Caller: 17 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kamy speaking.
+[00:05] [Ryan Collins]: Hi, uh, this is Ryan Collins. How are you doing?
+[00:09] [Receptionist]: I'm doing well, thank you for asking. How can I help?
+[00:12] [Ryan Collins]: So, I am looking for the case status of two of our clients, and I'm calling you from Virtual Med Group.
+[00:21] [Receptionist]: I'm ready for those names.
+[00:24] [Ryan Collins]: So the name is Jonathan Sellers. Sellers would be with S.
+[00:31] [Receptionist]: Sure. This is in pre-litigation reduction.
+[00:42] [Ryan Collins]: Okay. And may I know their case manager, please?
+[00:48] [Receptionist]: Yes. Tyana. That is T-Y-A-U-N-A.
+[00:57] [Ryan Collins]: Last name, please?
+[00:58] [Receptionist]: Evans. E-V-A-N-S.
+[01:02] [Ryan Collins]: Email, please?
+[01:04] [Receptionist]: First name, Tyana, T-Y-A-U-N-A, at Bey, B-E-Y, A-N-D, associates with an S, dot com. Tyana at beyandassociates.com.
+[01:25] [Ryan Collins]: Thank you. So for the second one, it is Daryl Chambers. Daryl would be D-A-R-R-Y-L. Chambers would be with S.
+[01:40] [Receptionist]: Chambers. Okay. This one is in pre-lit— pre-litigation treating.
+[01:48] [Ryan Collins]: Treating?
+[01:49] [Receptionist]: Mm-hmm. Um, Paige Almon is the case manager. That is P-A-Y-G-E.
+[01:59] [Ryan Collins]: And last name again?
+[02:01] [Receptionist]: Almon. A-L-M-O-N.
+[02:05] [Ryan Collins]: Okay. And email would be in the same manner, Paige at beyandassociates.com, right?
+[02:14] [Receptionist]: Yes, sir.
+[02:15] [Ryan Collins]: Thank you. Beyandassociates.com. Okay. So the first case is in pre-litigation reduction, and the second one is in pre-litigation— it is in treatment, right?
+[02:32] [Receptionist]: Yes, sir.
+[02:33] [Ryan Collins]: And for first one, it is Tyana Evans, who— Evans with S, right?
+[02:39] [Receptionist]: Mm-hmm.
+[02:40] [Ryan Collins]: Okay. Tyana Evans is taking care of this case. And for the second one, it is Paige Almon. Almon would be A-L-M-O-N is treating this case.
+[02:51] [Receptionist]: Yes, sir.
+[02:52] [Ryan Collins]: Okay. And may I know your name again?
+[02:55] [Receptionist]: Kamy. K-A-Y-M-I-E.
+[02:58] [Ryan Collins]: Kamy. Okay, Kamy. Thank you so much for your help. Um, and is there anything that you need from me?
+[03:06] [Receptionist]: No, sir.
+[03:07] [Ryan Collins]: Perfect. So thank you for the time and happy holidays.
+[03:12] [Receptionist]: You too. Bye-bye.
+[03:14] [Ryan Collins]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:03] [Speaker 2]: Yeah, hi. I would like to go ahead and see if I could speak to an attorney about filing a bad faith claim, uh, case?
+[00:11] [Receptionist]: Sir, we we are an injury firm, so we take um just personal injury uh cases.
+[00:18] [Speaker 2]: Oh, okay. Thank you.
+[00:19] [Receptionist]: Okay. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: [Receptionist] at Bey and Associates: 5 turns
+  • Speaker 2 / Carly / Role: Caller from Elite Radiology: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking?
+[00:03] [Carly]: Yes, hi, good afternoon. My name is Carly calling with Elite Radiology, and I was trying to get a few case status up- updates for your clients.
+[00:14] [Receptionist]: Okay, you can send an email to Michael and he would be able to, um, give you the updates about that.
+[00:23] [Carly]: Okay, what, uh, what's his email?
+[00:25] [Receptionist]: Michael, M-I-C-H-A-E-L at Bey, B-E-Y, A-N-D, associates with an S dot com.
+[00:42] [Carly]: Associates. Okay. Alrighty then, I will email him. Thank you so much.
+[00:45] [Receptionist]: You're welcome. Have a great rest of your day.
+[00:47] [Carly]: You too. Bye-bye.
+[00:48] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

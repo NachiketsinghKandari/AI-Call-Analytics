@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about picking up their portion of a finalized case. The receptionist identified the case manager was out of the office and initiated a transfer to her voicemail.",
+    "call_duration_seconds": 65.95,
+    "call_duration_formatted": "01:05"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist offered to transfer the caller to the case manager's voicemail since she was out of the office, and the caller accepted before the call ended."
+  }
+}

@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Yasmir / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Tasha, how may I help you?
+[00:08] [Yasmir]: Hello, good morning, miss. This is Yasmir from Metro Ambulance Services. I'm trying to get information about one of your clients. Could you help me with that, miss?
+[00:19] [Receptionist]: Sure, can I have the client's name?
+[00:22] [Yasmir]: Thank you. Well, the first name would be Patricia and the last name Hurd.
+[00:29] [Receptionist]: Could you spell out the last name for me please, sir?
+[00:32] [Yasmir]: Oh sure, it would be H, Echo, Apple, Romeo, Daniel. Hurd.
+[00:46] [Receptionist]: Hurd. And first name?
+[00:50] [Yasmir]: Well, it would be Patricia. P-A-T-R-I-C-I-E. Patricia.
+[01:11] [Receptionist]: Can you confirm the date of birth, sir?
+[01:15] [Yasmir]: Uh, the date of birth would be, give me a sec, September 23, 1990.
+[01:22] [Receptionist]: Do you have the date of loss for this case?
+[01:25] [Yasmir]: Sure, it was on August 8, 2025, of this year. Okay?
+[01:32] [Receptionist]: Okay, this... unfortunately, sir, this client is no longer with us. We no longer represent Ms. Patricia.
+[01:46] [Yasmir]: Oh, okay, perfect. Thank you very much.
+[01:50] [Receptionist]: Okay.
+[01:51] [Yasmir]: All right, just to confirm, you don't know the another law firm?
+[01:57] [Receptionist]: No, sir. I can't... I don't... I don't know.
+[02:01] [Yasmir]: All right, thank you very much for your time, miss. Have a great day.
+[02:05] [Receptionist]: You too.
+[02:07] [Yasmir]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

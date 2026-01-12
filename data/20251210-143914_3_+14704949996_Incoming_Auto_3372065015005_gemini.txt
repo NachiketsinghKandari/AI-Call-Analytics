@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Cedrick Nord / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, can I help you check on a claim?
+[00:05] [Cedrick Nord]: Uh, I'm calling to check on a claim.
+[00:07] [Receptionist]: Sure, can I have your name?
+[00:10] [Cedrick Nord]: Um, it's, um, it's Cedrick Nord. Nord. Okay.
+[00:21] [Receptionist]: All right, sir, one second.
+
+[ ... Silence (37s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

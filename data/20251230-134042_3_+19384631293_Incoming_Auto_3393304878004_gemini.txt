@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Melody Binford / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Angelo, how may I help you?
+[00:05] [Melody Binford]: Uh, yes, is this Bey and Associates?
+[00:08] [Receptionist]: Yes, this is Bey and Associates.
+[00:11] [Melody Binford]: Um, I'm just... Ty, T-Y-S-H-E-N...
+[00:20] [Receptionist]: Hello?
+[00:21] [Receptionist]: I'm not getting you. What do you want me to...
+[00:24] [Melody Binford]: Say that again?
+[00:25] [Receptionist]: Yes, what do you want me to do for you?
+[00:29] [Melody Binford]: Um, I'm looking for the, my negotiator that's over the case that I'm on.
+[00:34] [Receptionist]: Can I have your name?
+[00:35] [Melody Binford]: Melody Binford.
+[00:47] [Receptionist]: Okay. So are you trying to talk with the case manager?
+[00:51] [Melody Binford]: Sir?
+[00:53] [Receptionist]: Would you like to talk with the case manager?
+[00:57] [Melody Binford]: Um, no, the negotiator. Her name is Ty.
+[01:02] [Receptionist]: Tara or Taiwan?
+[01:05] [Melody Binford]: T-Y is what she texted me in a text message. I might be pronouncing it wrong.
+[01:13] [Receptionist]: Let's see. When did you receive the text message?
+[01:21] [Melody Binford]: Today.
+[01:24] [Receptionist]: The Taiwan... let's see.
+[01:32] [Melody Binford]: She just put T-Y in the text message, sir.
+[01:35] [Receptionist]: T-Y means thank you, but she says that her name is T-Y? Let's see. One moment.
+[01:43] [Melody Binford]: Sir?
+[01:44] [Receptionist]: Ah, okay. Taiwan. Okay. Stay on the line. Please hold on.
+
+========================================
+TRANSCRIPT END
+========================================

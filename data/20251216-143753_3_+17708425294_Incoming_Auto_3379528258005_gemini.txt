@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jassy / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Gina / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates. My name is Jassy. How can I assist you?
+[00:07] [Gina]: Um, good afternoon, sir. I was calling to, uh, speak to Kevin Love. Is he around today?
+[00:14] [Receptionist]: Uh, let me see. Are you a client?
+[00:17] [Gina]: I am. I wanted to see the, um, status. I've been expecting a call back from him for over three weeks now. Um, we were supposed to, um, uh, wrap my case up and he was supposed to have the executive meeting to tell me what the numbers look like.
+[00:35] [Receptionist]: Understood, understood. All right. I can help you with this. Do you allow me to place you on a brief hold for one minute? Let me see if he's available at the moment.
+[00:43] [Gina]: No problem. Thank you.
+[00:45] [Receptionist]: Just to confirm with you, am I speaking with, uh, Gina?
+[00:48] [Gina]: Yes, you are.
+[00:50] [Receptionist]: Perfect. Thank you. I'll be right back with you in one minute, ma'am.
+[00:53] [Gina]: Take your time.
+[00:57] [Receptionist]: Thank you so much for holding, ma'am.
+[00:59] [Gina]: Yes.
+[01:01] [Receptionist]: Uh, let me tell you. So it looks like that he's not available at the moment. I tried twice and it went straight to his voicemail. But this is what I can do. If you'd like, I can transfer you over to his voicemail so you can leave one and I'm also going to send him an email so that he can get back to you as soon as possible, ma'am.
+[01:18] [Gina]: Okay. Is he still there? Because I did, um, leave him a message this morning and I tried again and it went to, um, voicemail. Is he there on the premises or what exactly is going on?
+[01:30] [Receptionist]: Well, yeah, I- I really couldn't tell you. I mean, I'm- I'm not sure if he's in the office like physically because it doesn't show he- it doesn't show here on my system that he's available. So I really couldn't tell you. Um, he- you know, he might have left, he might come back later on. I- I really couldn't tell you, ma'am. But if you like, um, if you already left a message already, uh, if he doesn't get back to you today, you can give us a call back tomorrow, ma'am, and we can try again. I'm deeply sorry about that.
+[01:56] [Gina]: Okay, no problem. If you would shoot him an email as well, um, I would really appreciate it. I'd like to speak to him very, very soon.
+[02:05] [Receptionist]: Uh, yes, ma'am. Yes, I will. I'll send him an email right away.
+[02:09] [Gina]: Okay. Thank you very kindly, sir, and you have a great day.
+[02:12] [Receptionist]: Thank you. You too, ma'am.
+[02:14] [Gina]: Bye now.
+[02:15] [Receptionist]: Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

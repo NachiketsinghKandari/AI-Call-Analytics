@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Unknown / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Emma, how can I help you?
+[00:03] [Speaker 2]: Hi Emma, how are you doing today?
+[00:06] [Receptionist]: I'm doing well, thank you. How can I assist you today?
+[00:11] [Speaker 2]: Yeah, I'm just calling to test the phone system. Thank you.
+[00:16] [Receptionist]: Got it. Thanks for calling. Have a great day.
+[00:19] [Speaker 2]: You too. Bye.
+[00:22] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

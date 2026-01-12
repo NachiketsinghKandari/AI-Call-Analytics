@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Bain and Associates: 6 turns
+  • Martha Start / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Em speaking?
+[00:05] [Martha Start]: Uh, this is Martha Start.
+[00:08] [Receptionist]: Wait, leave it on the screen? You can leave it on the screen.
+[00:12] [Martha Start]: Uh, is Paige or Dionel, one of them there?
+[00:19] [Receptionist]: Let me check, one second.
+[00:22] [ ... Silence (18s) ... ]
+[00:41] [Receptionist]: Okay, are you an existing client with us, ma'am?
+[00:44] [Martha Start]: Uh, well, I've been having issues there. I mean, it's, uh, my case contact is either Paige or either Dionel, D-I-O-N-E-L, D-I-O-N-E-L.
+[01:00] [Receptionist]: Okay, um, okay, give me your name one more time, I'm sorry about that.
+[01:05] [Martha Start]: Did you get it right? Name is Martha Start.
+[01:09] [Receptionist]: Martha Start. All right, one sec.
+
+========================================
+TRANSCRIPT END
+========================================

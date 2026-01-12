@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Vance and Vance Law Firm: 7 turns
+  • Speaker 2 / [Jairus Walker] / Role: Client: 6 turns
+
+----------------------------------------
+
+[00:03] [Receptionist]: Vance and Vance Law Firm, Simon speaking.
+[00:06] [Jairus Walker]: Hey, yes, I want to know if I'm still in y'all files.
+[00:09] [Receptionist]: Okay. May I have your first and last name, please?
+[00:12] [Jairus Walker]: Jairus Walker. J-A-I-R-U-S.
+[00:18] [Receptionist]: Okay. One moment, Jairus.
+[ ... Silence (8s) ... ]
+[00:26] [Receptionist]: Okay. For the motor vehicle accident from last month, the 27th?
+[00:36] [Jairus Walker]: Yeah, on- yeah.
+[00:42] [Receptionist]: Yes, we are representing you for the motor vehicle accident. Stephanie Peck is your- is your case manager. What happened?
+[00:58] [Jairus Walker]: Yes, I need to talk to her because, um, now I had- I sent my car to the shop, but now that I'm trying to get a rental, they telling me that I gotta pay for, I guess, um, the insurance trying to make me pay for everything and then, um, they- they want to reimburse at the end, but I feel like I shouldn't be able to- I shouldn't have to do that only because it wasn't my fault, so I shouldn't have to come out of pocket for nothing. So I just need to- I need to talk to somebody and, um, see what they can do.
+[01:36] [Receptionist]: Alrighty, no problem. I'll get you over to your case manager, okay?
+[01:43] [Jairus Walker]: Okay.
+[01:44] [Receptionist]: Thank you.
+[01:45] [Jairus Walker]: Nevermind, nevermind, I'm gonna go pick them up then. I don't know, you gonna be at the house with Mark?
+
+========================================
+TRANSCRIPT END
+========================================

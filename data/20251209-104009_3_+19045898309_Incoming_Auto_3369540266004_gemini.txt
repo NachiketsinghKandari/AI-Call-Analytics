@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Shante Ray / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:05] [Shante Ray]: Hi, is Dante Thompson available?
+[00:09] [Receptionist]: Can I know who's speaking?
+[00:12] [Shante Ray]: Sure, this is Shante Ray with Hotel 45 in Macon.
+[00:17] [Receptionist]: Hotel 45, do you have a case with us?
+[00:21] [Shante Ray]: Uh, no ma'am. I'm actually just working with him, um, in regards to, uh, some hotel accommodations.
+[00:28] [Receptionist]: Oh, I see. Let me see if he's available, okay? Can you just give me a moment?
+[00:33] [Shante Ray]: Okay, thank you so much.
+[00:36] [Receptionist]: You're welcome. Oh, Dante's in another call right now. Would you like his voicemail?
+[00:42] [Shante Ray]: Yes, ma'am. Thank you.
+[00:44] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

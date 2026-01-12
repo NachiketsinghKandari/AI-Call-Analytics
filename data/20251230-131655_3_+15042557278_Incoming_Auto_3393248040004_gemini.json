@@ -1,0 +1,27 @@
+{
+  "caller_type": "family_member",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist stated he would verify the availability of the requested attorney and the call ended immediately, initiating the transfer path.",
+    "call_duration_seconds": 54.5,
+    "call_duration_formatted": "00:54"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist told the caller he would check if the attorney was available and the call concluded."
+  }
+}

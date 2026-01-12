@@ -1,0 +1,153 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Emma / Role: Receptionist at Bey and Associates: 38 turns
+  • [Ryan Collins] / Ryan Collins / Role: Caller from Virtual Medical Group: 44 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Associates, this is Emma. How can I help you?
+[00:04] [Ryan Collins]: Hi Emma, how are you?
+[00:08] [Receptionist]: I'm here to assist. Let me know what you need. How can I help you?
+[00:15] [Ryan Collins]: Uh, my name is Ryan Collins and I'm calling you from Virtual Medical Group. So I'm looking for the case status.
+[00:28] [Receptionist]: Sure I can help. May I have the client's full name?
+[00:34] [Ryan Collins]: The full name is Deasean Barnett. It will be D-A-Y-S-E-A-N Barnett would be B-A-R-N-E-T-T.
+[00:40] [ ... Silence (12s) ... ]
+[00:52] [Receptionist]: The case status for Deasean Barnett is pre-lit treating. Let me know if there's anything else you'd like to know.
+[00:58] [Ryan Collins]: Uh, it is in treatment, right?
+[01:01] [Receptionist]: Yes, that is correct. The case status is listed as—
+[01:06] [Ryan Collins]: And who— who's the case manager?
+[01:11] [Receptionist]: The case manager is Stephanie Peck.
+[01:14] [Ryan Collins]: Stephanie and uh what is the spelling of last name?
+[01:18] [Receptionist]: The spelling of the last name is P as in Paul, E as in Echo, C as in Charlie, K as in Kilo.
+[01:26] [Ryan Collins]: What is the email of this case manager?
+[01:29] [Receptionist]: The case manager's email is S-T-E-P-H-A-N-I-E at beyandassociates.com.
+[01:39] [Ryan Collins]: Beyandassociates.com.
+[01:42] [Receptionist]: That's correct. Let me know if there's—
+[01:46] [Ryan Collins]: You're welcome. Uh, the second client—
+[01:51] [Receptionist]: What is the full name of the client?
+[01:52] [Ryan Collins]: It is Janecia Wilson.
+[01:59] [ ... Silence (8s) ... ]
+[02:07] [Receptionist]: I've found the case for Janecia Wilson. The case status is pre-lit medicals and the case manager is Victoria Morales.
+[02:15] [Ryan Collins]: Victoria Morales.
+[02:19] [Receptionist]: Yes, that's correct. Is there anything else I can assist you with?
+[02:23] [Ryan Collins]: Yeah, it is pre-litigation, right?
+[02:27] [Receptionist]: Yes, the case status is pre-lit medicals.
+[02:32] [Ryan Collins]: Pre-lit medicals. So you guys are uh gathering the medical records, right?
+[02:38] [Receptionist]: Yes, the case is currently in the phase where medical records are being gathered.
+[02:43] [Ryan Collins]: Okay. Medical records are being gathered. Okay. Let me know when you are ready for the next client.
+[02:49] [ ... Silence (9s) ... ]
+[02:58] [Receptionist]: All right, I'm ready for the next client. Please provide the full name.
+[03:02] [Ryan Collins]: The full name is Ines Cole. Ines would be I-N-A-S.
+[03:06] [ ... Silence (10s) ... ]
+[03:16] [Receptionist]: I did not find any cases under the name Ines Cole. Could you please spell out both the first and last name to ensure accuracy?
+[03:25] [Ryan Collins]: Yes, it is I, N like Nancy, A like Alpha, S like Sam. Cole would be C-O-L-E Cole.
+[03:36] [Receptionist]: Thank you. Let me confirm, I-N-A-S C-O-L-E. Is that correct?
+[03:44] [Ryan Collins]: Yes.
+[03:45] [Receptionist]: I found the case for Ines Cole. The case status is pre-lit treating and the case manager is Linda Huff.
+[03:54] [Ryan Collins]: Okay, it is in treatment, right?
+[03:57] [Receptionist]: Yes, the case is in the pre-litigation treating phase. The case manager is Linda Huff.
+[04:06] [Ryan Collins]: Huff would be H-U-G-H?
+[04:11] [ ... Silence (6s) ... ]
+[04:17] [Receptionist]: It would be H as in Hotel, U as in Uniform, F as in Foxtrot, F as in Foxtrot.
+[04:25] [Ryan Collins]: Thank you. And the next client is Sebastian Caruso.
+[04:33] [ ... Silence (6s) ... ]
+[04:39] [Receptionist]: I found the case for Sebastian Caruso. The case status is pre-lit medicals and the case manager is Paige Almon.
+[04:48] [Ryan Collins]: Paige Oman, P-A-I-G-E O-M-A-N, right?
+[04:56] [Receptionist]: The spelling is P-A-Y-G-E A-L-M-O-N.
+[05:04] [Ryan Collins]: P-A-Y-G-E A-L-M-O-N, right?
+[05:11] [Receptionist]: Yes, that's correct.
+[05:13] [Ryan Collins]: Thank you. And you said the case status was?
+[05:17] [Receptionist]: The case status is pre-lit medicals.
+[05:22] [Ryan Collins]: Pre-lit medicals. Okay, thank you. Next one is Shaylee Hinton.
+[05:33] [ ... Silence (8s) ... ]
+[05:41] [Receptionist]: I found the case for Shaylee Hinton. The case status is pre-lit demand and the case manager is Paige Almon.
+[05:50] [Ryan Collins]: Okay, P-A-Y-G-E Paige.
+[05:56] [Receptionist]: Yes, Shaylee called care, tell supports, community— absolutely Paige.
+[06:04] [Ryan Collins]: Okay. It is in demand, right?
+[06:07] [Receptionist]: Yes, the case is in the pre-litigation demand phase.
+[06:12] [Ryan Collins]: Okay. So has the demand been sent out?
+[06:17] [Receptionist]: The case manager Paige Almon would have information on whether the demand has been sent out. Would you like me to transfer you to her?
+[06:26] [Ryan Collins]: Okay, well after getting the case status of Tyra Weiss.
+[06:33] [Receptionist]: May I have the full name spelled out, please?
+[06:36] [Ryan Collins]: Yes, Tyra would be T like Tango, Y like Yellow, R like Romeo, A like Alpha.
+[06:45] [Receptionist]: I'm not finding a case—
+[06:47] [Ryan Collins]: Last name is Weiss, W-I-S-E.
+[06:51] [Receptionist]: I'm still not finding a case under that name. Would you please spell the last name again?
+[06:56] [Ryan Collins]: Weiss would be W-I-S-E. Is that okay?
+[07:03] [Receptionist]: I'm not able to find any cases under the name Tyra Weiss. Could you verify the spelling or provide any additional details?
+[07:12] [Ryan Collins]: Their date of birth, it is 8/21/2003.
+[07:16] [ ... Silence (9s) ... ]
+[07:25] [Receptionist]: I couldn't find any cases under the name Tyra Weiss with the date of birth August 21st, 2003. Could you confirm the details or provide additional information?
+[07:36] [Ryan Collins]: Uh, forget this one. I want to know the case status for Mikimia Hudson.
+[07:49] [ ... Silence (8s) ... ]
+[07:57] [Receptionist]: I'm not finding any cases under the name Mikimia Hudson. Could you please spell the name out for verification?
+[08:04] [Ryan Collins]: Yeah. It is M like Mike, I, K like Kilo, I like Indigo, M like Mike, I like Indigo, A like Alpha.
+[08:18] [Receptionist]: Thank you. Let me confirm, M-I-K-I-M-I-A. Is that correct?
+[08:25] [Ryan Collins]: Yes.
+[08:26] [Receptionist]: I'm still not finding any cases under the name Mikimia Hudson. Could you verify the spelling or provide any additional details that might help?
+[08:38] [Ryan Collins]: Okay, can you check for Dominique Luster?
+[08:50] [ ... Silence (8s) ... ]
+[08:58] [Receptionist]: I found the case for Dominique Luster. The case status is pre-lit reductions and the case manager is Victoria Morales.
+[09:06] [Ryan Collins]: Okay, Victoria Morales.
+[09:11] [Receptionist]: Yes, that's correct.
+[09:15] [Ryan Collins]: And next one is Reginald Lestage.
+[09:23] [ ... Silence (7s) ... ]
+[09:30] [Receptionist]: I found two cases under Reginald Lestage. Can you provide the date of birth or incident date to help narrow it down?
+[09:39] [Ryan Collins]: Yeah, for this it is 3/21/1982.
+[09:44] [ ... Silence (7s) ... ]
+[09:51] [Receptionist]: I located the case for Reginald Lestage. The case status is pre-lit medicals and the case manager is Stephanie.
+[10:01] [Ryan Collins]: Okay. Let me know if you need further—
+[10:06] [Ryan Collins]: Devon James.
+[10:08] [ ... Silence (8s) ... ]
+[10:16] [Receptionist]: I found the case for Devon James. The case status is pre-lit withdrawal and the case manager is Victoria Morales.
+[10:26] [Ryan Collins]: So may I know who dropped the case?
+[10:30] [Receptionist]: The case manager Victoria Morales would have the information regarding why the case was withdrawn and who made that decision. Would you like me to connect you with her?
+[10:42] [Ryan Collins]: Can you check the case status for Glenn Isles?
+[10:50] [ ... Silence (7s) ... ]
+[10:57] [Receptionist]: I'm not finding any cases under the name Glenn Isles. Could you please spell the name out to ensure accuracy?
+[11:04] [Ryan Collins]: Yeah, it's G-L-E-N-N.
+[11:11] [ ... Silence (10s) ... ]
+[11:21] [Receptionist]: I am still not finding any cases under the name Glenn Isles. Could you confirm the spelling or provide any other details such as a date of birth or incident date?
+[11:30] [Ryan Collins]: Uh, the date of injury is 12/3/2024.
+[11:32] [ ... Silence (8s) ... ]
+[11:40] [Receptionist]: I still couldn't locate any cases under the name Glenn Isles with the incident date of December 3rd, 2024. Could you confirm the details or provide any additional information?
+[11:52] [Ryan Collins]: Okay. And uh you said for Reginald Lestage, the case manager was Stephanie, right?
+[12:04] [Receptionist]: Yes, that's correct. The case manager for Reginald Lestage is Stephanie Peck.
+[12:11] [Ryan Collins]: Okay. And can you connect me with Victoria Morales?
+[12:15] [Receptionist]: Victoria Morales isn't available right now. Let me take a message and make sure she reaches out to you.
+[12:21] [Ryan Collins]: Okay. Is Linda available?
+[12:27] [Receptionist]: Linda Huff isn't available right now. Let me take a message and I'll make sure she reaches out to you.
+[12:33] [Ryan Collins]: What about—
+[12:35] [Ryan Collins]: What about Paige Almon?
+[12:37] [Receptionist]: Could you provide the name of the person—
+[12:41] [Receptionist]: Paige Almon isn't available right now. Let me take a message and I'll ensure she gets back to you.
+[12:49] [Ryan Collins]: Okay. Take my message for Victoria Morales.
+[12:55] [Receptionist]: What's your phone number?
+[12:58] [Ryan Collins]: 702-482-9315.
+[13:04] [ ... Silence (8s) ... ]
+[13:12] [Receptionist]: Confirming your phone number: 7-0-2-4-8-2-9-3-1-5. Is that correct?
+[13:24] [Ryan Collins]: Yes.
+[13:27] [Receptionist]: And can I get your email, please?
+[13:30] [Ryan Collins]: Yeah.
+[13:33] [ ... Silence (9s) ... ]
+[13:42] [Ryan Collins]: Go ahead. It is B-M-V like Victor, M like Mike, G like Gold at A like Alpha, U like Umbrella—
+[13:53] [Receptionist]: So far I have—
+[13:55] [Ryan Collins]: R like Romeo, U like Umbrella, M like Mike, S-S-E-T advisors with S dot com.
+[14:01] [ ... Silence (8s) ... ]
+[14:09] [Receptionist]: Confirming your email: B-M-G at A-U-R-U-M asset advisors with S dot com. Is that correct?
+[14:18] [Ryan Collins]: Yes.
+[14:21] [Receptionist]: What would you like me to include in the message for Victoria Morales?
+[14:30] [Ryan Collins]: I want the withdrawal letter. Are you still there?
+[14:35] [Ryan Collins]: Yeah, I want the drop letter for Devon James.
+[14:45] [Receptionist]: Got your message for Victoria Morales about the drop letter for Devon James. She will get back to you soon.
+[14:52] [Ryan Collins]: Okay, thank you.
+[14:56] [Ryan Collins]: Bye-bye.
+[14:57] [Receptionist]: You're welcome. Goodbye.
+[15:00] [Receptionist]: Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

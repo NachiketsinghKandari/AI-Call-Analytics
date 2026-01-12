@@ -1,0 +1,54 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 19 turns
+  • Speaker 2 / Christina Vesterick / Role: Caller from GEICO: 18 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Matt speaking, how can I help you?
+[00:05] [Christina Vesterick]: Hi, um, my name is Christina Vesterick from the GEICO claims department on a recorded line. Um, I was follow— following up on a client, Larry Lugo.
+[00:16] [Receptionist]: One moment. What's the date of loss?
+[00:20] [Christina Vesterick]: Uh, looks like it's December 16th of this year.
+[00:24] [Receptionist]: Okay, I've got the file pulled up. How can I help you?
+[00:26] [Christina Vesterick]: Um, I've just been assigned to the claim. Um, from my understanding, it looks like you guys are probably already getting a letter of rep over. Is that correct?
+[00:34] [Receptionist]: Yeah, I think it's... let me see when it went out. But yeah, it went out today.
+[00:42] [Christina Vesterick]: Okay, all right. Then I'll keep an eye on it then. Um, I can't discuss the claim details in full on my end until I get that letter of rep, but I was hoping I could get some missing information updated related to your client.
+[00:53] [Receptionist]: Mhm.
+[00:54] [Christina Vesterick]: Um, I did want to confirm, do you know if your client has Medicare or Medicaid?
+[00:58] [Receptionist]: No, he's 26.
+[01:02] [Christina Vesterick]: Okay. Does he have Medicaid?
+[01:04] [Receptionist]: I... I do not see any on file.
+[01:07] [Christina Vesterick]: Okay. Does he or did he have any minors or passengers in the vehicle with him?
+[01:14] [ ... Silence (10s) ... ]
+[01:24] [Receptionist]: None... none reported, no.
+[01:26] [Christina Vesterick]: Okay, cool. All right, get that updated. And do we know, um, what his reported injuries are?
+[01:33] [Receptionist]: Yeah, one sec. Neck pain, headaches, upper and lower back, and shoulder.
+[01:44] [Christina Vesterick]: Upper and lower back and shoulder. Okay. And do we know what type of treatment he's completed so far?
+[01:54] [ ... Silence (11s) ... ]
+[02:05] [Receptionist]: Uh, he's at a chiropractor, no hospital visit.
+[02:11] [Christina Vesterick]: Okay. Um, just that. And what's the name of the chiropractor?
+[02:18] [Receptionist]: It's like Arrowhead Clinics.
+[02:22] [Christina Vesterick]: Okay. Arrowhead. Do you know if there's been any imaging done?
+[02:28] [Receptionist]: Uh, I don't know yet.
+[02:30] [Christina Vesterick]: Okay. Do you know if he has any injections planned?
+[02:34] [Receptionist]: I... I don't have any details on the treatment. Okay. I mean, I think it just happened on the 16th, so...
+[02:44] [Christina Vesterick]: Ah, you'd be surprised what I see. Okay. All right. And do we know, um, do you know if he plans or has already has any lost wages we might have to consider?
+[02:55] [Receptionist]: Uh, there's nothing in the file to that... about that one way or the other yet.
+[03:00] [Christina Vesterick]: Okay. So we don't know his occupation yet then either.
+[03:04] [Receptionist]: Uh... let's see if it's noted.
+[03:07] [ ... Silence (21s) ... ]
+[03:28] [Receptionist]: Uh, no lost wages documented at this stage.
+[03:31] [Christina Vesterick]: Okay. And we don't know his occupation either then.
+[03:34] [Receptionist]: Not yet, no.
+[03:35] [Christina Vesterick]: Okay. All right, cool. That was everything I needed. Once I get, um, the letter of rep, I'll give you a call and we can go a little bit more detail. Um, do you know, does your firm allow recorded statements?
+[03:49] [Receptionist]: We don't, no.
+[03:51] [Christina Vesterick]: Okay. Well, that's everything I need. All right, awesome. Then I will touch base once I get that letter of rep on my end.
+[03:56] [Receptionist]: I appreciate it. Thank you.
+[03:57] [Christina Vesterick]: All right, thank you. All right, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

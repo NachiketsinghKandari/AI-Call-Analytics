@@ -1,0 +1,75 @@
+========================================
+TRANSCRIPT START (ENHANCED)
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Britney - Caller named Britney requesting copier/email support (18 turns)
+  • Eric - IT support agent assisting with copier email settings (22 turns)
+  • Unknown Agent - Unidentified speaker in a separate legal context mistakenly included (2 turns)
+
+----------------------------------------
+
+[00:02] [Britney]: This is Britney.
+[00:04] [Eric]: Hey, Britney. It's Eric.
+[00:06] [Britney]: Hey, Eric.
+[00:08] [Eric]: Are you at your desk?
+[00:09] [Britney]: Yes. I am.
+[00:11] [Eric]: I'm a connect real quick. Okay?
+[00:13] [Britney]: Okay. Alright.
+[00:17] [Eric]: What's weird is I thought I had the right settings for the Sharp copier in Cincinnati, but it's not sending emails.
+[00:24] [Britney]: So Oh, okay.
+[00:26] [Eric]: Let's see if we can look at one of these copiers real quick.
+[00:30] [Britney]: Okay. Or
+[00:33] [Eric]: do you have a browser we can open up? Yeah. Your middle monitor is okay if I add a site here?
+[00:42] [Britney]: Go ahead.
+[00:44] [Eric]: Alright. Let me see what is the the two printers.
+[00:51] [Britney]: No. No. This one's yeah. I do have Let me look it up. The Okay.
+[00:54] [Britney]: But we definitely do check. But, no, I don't think there would be
+[00:58] [Eric]: any Actually, no. I can get it from your. Well, it looks like the Windows 11 must have finished.
+[01:46] [Britney]: Yeah. Yeah. It did.
+
+   [ ... Hold / Silence (15s) ... ]
+
+[02:04] [Eric]: Let's see. Which Canon do we wanna look at? Which one do you usually scan from when you scan the email? Usually,
+[02:13] [Britney]: that that one, the C5840. Okay.
+
+   [ ... Hold / Silence (9s) ... ]
+
+[02:26] [Eric]: And that's 21685Dot194. Mhmm.
+[02:31] [Unknown Agent]: What what charges who were you charged for the reimbursement? So that's what I I was in charge with the aggravated assault. Accumated assault. That's the time. Well, thank you for asking answering those preliminary questions.
+[02:45] [Unknown Agent]: Now the claim that you would like to file against the county, tell me a little bit about that. What happened? You Okay.
+
+   [ ... Hold / Silence (21s) ... ]
+
+[03:17] [Eric]: Okay. That was it. If you ever need to know, the username is administrator. Mhmm. And the password is 7654321.
+[03:28] [Britney]: 7654321. Okay. Yeah.
+[03:34] [Eric]: Alright. Let's see. Where's my SMTP? Do you see it? Holler.
+[03:44] [Britney]: Oh, right there. Hold on. Right here? No.
+[03:49] [Eric]: No. That's STP. That's SN. No. That's that's a N.
+[03:54] [Eric]: That's not a M.
+[03:55] [Britney]: Oh, M?
+[03:57] [Eric]: Yeah. SMTPForMale.
+[04:00] [Britney]: Oh, okay. Sorry. Thought you said N.
+
+   [ ... Hold / Silence (7s) ... ]
+
+[04:10] [Eric]: Here. Oh, it might be here. Here we go. Email packs.
+[04:13] [Britney]: Okay.
+[04:15] [Eric]: I get I get so many of these. Oh, it's scanners. Okay. But no password. I'm a take a picture of that.
+
+   [ ... Hold / Silence (5s) ... ]
+
+[04:29] [Eric]: Alright. No. I don't see a password. It's an email. Scroll on down.
+[04:35] [Eric]: There's no Can you elaborate on that for me? What it is? And the port is 25. No TLS and no authentication. Okay.
+
+   [ ... Hold / Silence (6s) ... ]
+
+[04:58] [Eric]: Okay. Well, I will log out and give that a shot up in Cincinnati.
+[05:06] [Britney]: Okay. Alright.
+[05:07] [Eric]: Okay. Thank you for your time, Britney. Appreciate it.
+[05:09] [Britney]: You're welcome. Bye. Uh-huh. Bye bye.
+[05:13] [Eric]: Bye.
+
+========================================
+TRANSCRIPT END (ENHANCED)
+========================================

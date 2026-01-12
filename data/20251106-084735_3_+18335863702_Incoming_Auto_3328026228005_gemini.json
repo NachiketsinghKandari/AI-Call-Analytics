@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a case status for a specific individual. The receptionist identified that the case manager was unavailable but provided the status directly, informing the caller that the case was in pre-litigation treating.",
+    "call_duration_seconds": 79.06,
+    "call_duration_formatted": "01:19"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist provided the requested information directly to the caller."
+  }
+}

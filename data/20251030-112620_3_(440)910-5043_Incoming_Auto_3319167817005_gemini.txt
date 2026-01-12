@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 3 turns
+  • Speaker 2 / [Ariana] / Role: Representative from Progressive: 3 turns
+
+----------------------------------------
+
+[00:03] [Receptionist]: Bain and Associates Law Firm, Devon speaking.
+[00:07] [Ariana]: Hi, my name is Ariana. I'm calling from Progressive. I'm calling about your client Wanda Brooks, um, I'm calling from the UIM claim.
+[00:16] [ ... Silence (7s) ... ]
+[00:23] [Ariana]: I'm just calling for treatment status.
+[00:25] [Receptionist]: Okay. Let me get you over to Paige.
+[00:30] [Ariana]: Okay.
+[00:31] [Receptionist]: One moment.
+
+========================================
+TRANSCRIPT END
+========================================

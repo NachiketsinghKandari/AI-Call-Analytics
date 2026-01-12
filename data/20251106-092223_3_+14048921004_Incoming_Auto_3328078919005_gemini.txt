@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 5 turns
+  • Speaker 2 / [Teena] / Role: Caller from Hurt 911: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kimmy speaking.
+[00:03] [Teena]: Hey, this is Teena calling from the Hurt 911. Um, I have a Mr. Willie Knox with us. I just wanted to make sure he was being represented by you guys before we furthered his case.
+[00:14] [Receptionist]: Okay, one sec.
+[00:15] [ ... Silence (9s) ... ]
+[00:25] [Receptionist]: You said Willie Knox, right?
+[00:27] [Teena]: Mm-hmm. It's gonna be W-I-L-L-I-E, last name K-N-O-X.
+[00:32] [Receptionist]: Yes, we are. Um, this is, um, the case manager is Paige Almond.
+[00:39] [Teena]: Okay. Is there- is she available right now or- or not?
+[00:43] [Receptionist]: Let me see. One second.
+[00:45] [Teena]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

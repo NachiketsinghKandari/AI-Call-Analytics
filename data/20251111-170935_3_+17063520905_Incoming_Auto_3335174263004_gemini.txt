@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 11 turns
+  • Speaker 2 / [Corey Harris] / Role: Client: 9 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hello, my name is Jack. How can I assist you?
+[00:06] [Corey Harris]: Hey, uh, I was trying to reach Taylor Millicent or Dante Thompson?
+[00:12] [Receptionist]: Understood. Are you a client of ours?
+[00:15] [Corey Harris]: Yes. I have a case right now.
+[00:19] [Receptionist]: Understood. Can you provide me your name, sir, so I can search for your information?
+[00:22] [Corey Harris]: Corey Harris.
+[00:24] [Receptionist]: Got it. [ ... Silence (7s) ... ]
+[00:31] [Receptionist]: Corey Harris. Understood. [ ... Silence (6s) ... ]
+[00:37] [Receptionist]: Um, all right. Let me see what I can do on my end, sir. I can try to reach out to your case manager, see if she's- see if she's available so she can talk to you, give you an update.
+[00:48] [Corey Harris]: All right. Who is my case manager?
+[00:50] [Receptionist]: Uh, I'm seeing here that her name is India, I-N-D-I-A, India Miller. So let me see- let me see if she's available at the moment, sir, all right?
+[00:59] [Corey Harris]: All right. All right.
+[01:01] [Receptionist]: I'll be right back with you real quick.
+[01:03] [Corey Harris]: All right. Thank you.
+[01:09] [Receptionist]: Uh, thank you so much for holding, sir.
+[01:12] [Corey Harris]: Uh-huh.
+[01:13] [Receptionist]: Uh, so let me tell you, the case manager, India Miller, is not available at the moment. What I can do is I can transfer you over to her line so you can leave a voicemail, and I'm going to send her an email so she can get back to you as soon as possible, all right?
+[01:24] [Corey Harris]: Okay. All right. Thank you very much.
+[01:27] [Receptionist]: Thank you, sir. So I'm going to transfer you over right now.
+[01:29] [Corey Harris]: All right. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

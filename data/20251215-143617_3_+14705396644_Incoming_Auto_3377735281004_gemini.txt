@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Unknown / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, can I help you?
+[00:04] [Unknown]: Uh, yeah, can I speak to Victoria, please?
+[00:07] [Receptionist]: Sure, what case you calling about, sir?
+[00:09] [Unknown]: Um, your client is Diana Griffin.
+[00:13] [Receptionist]: One moment, let me pull it up.
+[00:19] [Receptionist]: I'm gonna transfer you now. Would you like her direct dial for future reference?
+[00:22] [Unknown]: Yeah, that'd be great.
+[00:24] [Receptionist]: Yes, sir. Whenever you're ready.
+[00:26] [Unknown]: Yeah, I'm ready.
+[00:27] [Receptionist]: 470-615-0710 and I'll transfer you.
+[00:35] [Unknown]: Thank you.
+[00:36] [Receptionist]: Yep.
+
+========================================
+TRANSCRIPT END
+========================================

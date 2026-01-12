@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Alexis McConnell / Role: Caller from Geico: 5 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates Law Firm. My name is Fatima, how may I assist you?
+[00:10] [Alexis McConnell]: Hello. My name is Alexis McConnell from Geico, as I have to advise that calls may be monitored or recorded for quality and training purposes. I was calling to see if we would be able to obtain a tax ID number for your law firm.
+[00:22] [Receptionist]: A tax number? I don't have—
+[00:25] [Alexis McConnell]: Tax ID. You don't have it?
+[00:28] [Receptionist]: No. I can— do you have a file for a client? I might be able to reach the CM and they might be able to help.
+[00:31] [Alexis McConnell]: Um, yes. It appears that your— the client that you're representing, last name is Clark, first name is Shantrece, if I'm saying that correctly, C-H-A-N-T-R-E-C-E?
+[00:53] [Receptionist]: Shantrece. And what is the last name?
+[00:56] [Alexis McConnell]: Clark.
+[00:58] [Receptionist]: Clark.
+[01:00] [ ... Silence (11s) ... ]
+[01:12] [Receptionist]: All right. Would you please bear with me one moment? I'll see if Ms. Victoria is available for you.
+[01:18] [Alexis McConnell]: Okay, perfect. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

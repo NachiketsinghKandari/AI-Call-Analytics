@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the firm's mailing address, the case manager's email, and the case manager's direct phone number to the insurance representative. The caller declined a transfer offer and the call concluded after the requested information was shared.",
+    "call_duration_seconds": 178.06,
+    "call_duration_formatted": "02:58"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered to transfer the caller to the case manager, but the caller explicitly declined the offer, stating they only needed to confirm contact information."
+  }
+}

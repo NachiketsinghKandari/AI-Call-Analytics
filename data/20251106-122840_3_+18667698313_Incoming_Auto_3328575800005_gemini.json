@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist initiated a transfer to an unspecified internal department after the caller provided client details for an insurance-related inquiry.",
+    "call_duration_seconds": 118.08,
+    "call_duration_formatted": "01:58"
+  },
+  "transfer_context": {
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist stated they would get the caller to someone who could assist and the call concluded immediately after the caller acknowledged."
+  }
+}

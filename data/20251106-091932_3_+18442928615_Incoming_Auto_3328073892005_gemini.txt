@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Benn and Associates: 4 turns
+  • Speaker 2 / [Lashandra] / Role: State Farm Claims representative: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Benn and Associates, Kim speaking.
+[00:06] [Lashandra]: Hi, this is Lashandra calling from State Farm Claims, following up on your client Willie Low. Is Deitra available?
+[00:14] [Receptionist]: One second. You said Willie Low?
+[00:18] [Lashandra]: Yes.
+[00:20] [ ... Silence (18s) ... ]
+[00:38] [Receptionist]: And you said you were calling from State Farm, right?
+[00:41] [Lashandra]: Yes.
+[00:43] [Receptionist]: All right, let me see if Deitra's available. One sec.
+[00:47] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

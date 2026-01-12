@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Benson Associates: 3 turns
+  • Speaker 2 / [Jasmine Trice] / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Benson Associates, this is Pete speaking.
+[00:05] [Jasmine Trice]: Hi, can I speak to Stephanie?
+[00:08] [Receptionist]: Sure, can I have your name please?
+[00:10] [Jasmine Trice]: Jasmine Trice.
+[00:13] [Receptionist]: Yes, one second.
+[00:15] [ ... Silence (13s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

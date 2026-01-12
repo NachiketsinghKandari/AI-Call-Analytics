@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Sam / Role: Caller from Canal Insurance Company: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kimmy speaking.
+[00:05] [Sam]: Yeah, hi. This is Sam. I'm calling from Canal Insurance Company. I got your letter of rep for your client Jamario Davis.
+[00:14] [Receptionist]: Okay.
+[00:15] [Sam]: Uh, not sure— the letter's from Jonathan Steel.
+[00:19] [Receptionist]: Okay. Um, could you spell— okay, Jamario, I got it.
+[00:24] [Sam]: You got it? Okay. Yeah. Um, I just need to speak to somebody about that because, uh, there's a lot of confusion here, I guess. Um, your letter says you represent for personal injuries, but I know that your client is already represented by another attorney for personal injuries.
+[00:43] [Receptionist]: Hmm. Okay. One second, let me see. So the— the case manager is not in today, but let me get the— let me get the attorney Jonathan Steel on the line, one second.
+[01:05] [Sam]: Okay.
+[01:06] [ ... Silence (5s) ... ]
+[01:11] [Receptionist]: Sir, Mr. Steel wasn't available either. Would you like to leave him a voicemail?
+[01:16] [Sam]: Uh, yeah, sure.
+[01:18] [Receptionist]: All right. Sending you over. You have a great rest of your day.
+[01:21] [Sam]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

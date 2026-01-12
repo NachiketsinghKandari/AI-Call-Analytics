@@ -1,0 +1,74 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 21 turns
+  • Speaker 2 / [Jeff] / Role: Representative from Georgia Medicaid: 20 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Angel from Bay and Associates, how may I help you?
+[00:02] [Jeff]: Hey yes, my name is Jeff with Georgia Medicaid. I'm checking with you on a case we share in common, Bianca Lassiter.
+[00:16] [ ... Silence (10s) ... ]
+[00:26] [Receptionist]: Okay, can I have please the date of loss?
+[00:29] [Jeff]: June 23rd, 2024.
+[00:34] [ ... Silence (5s) ... ]
+[00:39] [Receptionist]: And do you have her phone number?
+[00:42] [Jeff]: No.
+[00:44] [Receptionist]: Um, and you're saying that it is Bianca Lassiter, it is spelled L-A-S-S-I-P-E-R?
+[00:53] [Jeff]: Yes, first name spelled B-I-A-N-C-A.
+[00:58] [Receptionist]: Yes, I found this but the date of loss does not match. That's the thing. Um...
+[01:06] [Jeff]: Well, your letter of rep says June 23rd, 2024.
+[01:10] [Receptionist]: Do you have her date of birth?
+[01:14] [Jeff]: Yes, date of birth is March 8th, 1990.
+[01:20] [Receptionist]: 90. Ah yes, I found it. But I guess then you have the wrong date of loss, but that's fine. What do you want me to check on this account?
+[01:25] [Jeff]: Whoa, wait, easy. What date of loss do you show?
+[01:28] [ ... Silence (6s) ... ]
+[01:34] [Receptionist]: Uh, for my end, it shows... it shows here for my end like March 8th, 2025. That is the date of loss or the date of incident.
+[01:54] [Jeff]: Oh, well, that's a huge issue because do- does she have two files open then?
+[02:01] [Receptionist]: No, it is only one.
+[02:03] [Jeff]: Well, uh, your letter is very specific, says June 23rd, 2024, Lassiter comma Bianca versus Tate versus Glenda.
+[02:14] [Receptionist]: Versus...?
+[02:17] [Jeff]: And you are Bay and Associates.
+[02:20] [Receptionist]: Yes.
+[02:23] [Receptionist]: Let's see if she has another... another file. Let's see.
+[02:27] [Jeff]: Yeah, but you still said there was one.
+[02:30] [Receptionist]: No, it is versus Richard. But actually it is the same date of birth. But you're saying that you're calling from who? Which facility?
+[02:43] [Jeff]: Georgia Medicaid. Georgia Medicaid.
+[02:48] [Receptionist]: Thank you, let's see. Um-hum.
+[02:53] [Jeff]: I have the legal assistant as a Paige Almon, A-L-M-O-N.
+[03:01] [Receptionist]: Okay. And would you like to talk with me... what do you want me to check on this account?
+[03:12] [Jeff]: Well, I guess we gotta get on the same page. Your- I have a June 23rd per your letter of rep date of loss, but you're saying there's something totally different.
+[03:21] [Receptionist]: Yes. Um-hum. That is a different date of loss. Maybe that- that was the date that she went to the hospital or to the Medicaid or something. But what do you want me to check? Would you like to...
+[03:33] [Jeff]: That would be- that would be a year before what you're saying though. That would be a little weird.
+[03:37] [Receptionist]: Would you like to talk with the case manager of- regard of this case? Or what do you want me to... with the case manager?
+[03:44] [Jeff]: Say that again?
+[03:46] [Receptionist]: Yes, would you like to talk with the case manager of- regard of this case? Or what do you want me to... with the case manager?
+[03:51] [Jeff]: Yes, yes, yes. Case manager. Yeah, case manager.
+[03:53] [Receptionist]: Let's see if she is available, okay? Stay on the line, please.
+[03:57] [Jeff]: Thank you.
+[04:01] [Receptionist]: Hello?
+[04:02] [Jeff]: Yes.
+[04:03] [Receptionist]: Thank you for stay on the line. So it looks like that the case manager at this moment is a little bit busy. She's saying that she- you can leave your number and she can call you back, uh, through a voice message, okay? So if you wish I can transfer you.
+[04:19] [Jeff]: Wait, wait. Do you have a associate by name of Michael Sole, S-O-L-E there?
+[04:27] [Receptionist]: Michael Sole?
+[04:30] [Jeff]: Michael Sole, S-O-L-E.
+[04:32] [Receptionist]: Uh, yes, we have. Would you like to... uh, may I know the reason why you wish to talk with him? I mean, he's not the case manager or nothing.
+[04:47] [Jeff]: Well, he- he's the one that told me the case settled about three weeks ago and the check should be going out, and that was back in July. If that qualifies for an answer.
+[04:57] [Receptionist]: Yes. Ah, okay. So you're saying that you talk with him.
+[04:59] [Jeff]: Yes.
+[05:00] [Receptionist]: About this case.
+[05:01] [Jeff]: Yes.
+[05:02] [Receptionist]: Okay, so let me go ahead and let him know that you wish to talk with him. Let's see if he's available. Stay on the line then.
+[05:13] [Jeff]: Okay.
+[05:15] [Receptionist]: Uh, sir?
+[05:17] [Jeff]: Yes.
+[05:18] [Receptionist]: Sorry for any inconvenience. It looks like that Michael Sole didn't answer my phone call neither. So would you like to leave a voice message so he can call you back?
+[05:27] [Jeff]: Sure. Yes, thank you.
+[05:29] [Receptionist]: Okay, stay on the line, let me put you in the voice message. You can leave your callback number, anyways I'm going to leave a email here as well, okay? Have a good day.
+[05:39] [Jeff]: Bye. Thank you. Just transfer me. Please don't hang up.
+
+========================================
+TRANSCRIPT END
+========================================

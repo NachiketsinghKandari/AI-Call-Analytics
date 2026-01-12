@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Benoit & Joseph Law Firm: 3 turns
+  • Speaker 2 / Melissa / Role: Caller from Rex Direct: 2 turns
+  • Speaker 3 / Brittany Lawson / Role: Voicemail: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Benoit & Joseph Law Firm, Devin speaking.
+[00:03] [Melissa]: Yes, hi. My name is Melissa, I'm calling from Rex Direct and we're a digital marketing company. I'm following up on an email that I sent to Brittany Lawson. Can you please see if she's available for a follow-up call?
+[00:18] [Receptionist]: Ms. Brittany is not available in office right now. She left for today, but I can get you over to her voicemail. She'll get a notification and call you back.
+[00:26] [Melissa]: Okay, that would be great. Thank you.
+[00:28] [Receptionist]: Alright, hold on.
+[00:30] [Brittany Lawson]: Hi, you've reached Brittany Lawson...
+
+========================================
+TRANSCRIPT END
+========================================

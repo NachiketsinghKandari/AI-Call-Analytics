@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:07] [Unknown]: Hi, I'm just wanting to speak to Taylor Middleton, please.
+[00:11] [Receptionist]: You're calling from where?
+[00:13] [Unknown]: From Wilson Elser. I'm defense counsel on one of her cases.
+[00:18] [Receptionist]: What is the name of the client?
+[00:21] [Unknown]: Alonzo, Alfonso Key. K-E-Y.
+[00:28] [Receptionist]: And the date of loss?
+[00:33] [Unknown]: I don't know.
+[00:35] [ ... Silence (10s) ... ]
+[00:45] [Receptionist]: I'm sorry, you said you're calling from where?
+[00:48] [Unknown]: Wilson Elser. W-I-L-S-O-N, next word E-L-S-E-R, S as in Sam, E-R.
+
+========================================
+TRANSCRIPT END
+========================================

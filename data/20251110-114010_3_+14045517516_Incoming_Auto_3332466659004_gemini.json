@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about a settlement check and disputed the disbursement amount. The receptionist attempted to transfer the caller to the disbursement department, but the staff member was unavailable. The caller agreed to a callback from the head of the disbursement team.",
+    "call_duration_seconds": 497.66,
+    "call_duration_formatted": "08:17"
+  },
+  "transfer_context": {
+    "destinations": [
+      "billing_and_disbursements"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist attempted to connect the caller to the head of the disbursement team while the caller was on hold, but the staff member was in a meeting and unavailable to take the call."
+  }
+}

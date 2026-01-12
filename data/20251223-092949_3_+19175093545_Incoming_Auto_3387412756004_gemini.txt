@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking?
+[00:05] [Speaker 2]: Yes, I'm trying to get a consultation to find out if I have a case or not for bad faith, um, homeowners insurance.
+[00:16] [Receptionist]: Okay. Um, yeah, we don't do those type of cases. We are injury firm, so it has to be personal injury in order for us to be able to assist.
+[00:27] [Speaker 2]: I'm sorry, this is Bey and Associates, right?
+[00:30] [Receptionist]: Yes, sir.
+[00:32] [Speaker 2]: Uh, pretty sure I saw on your site that you do bad faith. I mean, I see Atlanta bad faith insurance lawyers, like, that's on your site.
+[00:46] [Receptionist]: It's okay. Let me, uh, get someone that can help with that then. One second.
+[00:55] [ ... Silence (63s) ... ]
+[01:58] [Receptionist]: Sir? Um, I spoke to the supervisor and he said if it doesn't involve personal injury then no, we are not taking those types of cases.
+[02:17] [Speaker 2]: Okay. Sure. Yeah, you should probably, you should probably update your website because that's really misleading. Thank you.
+[02:26] [Receptionist]: You're welcome, sir. Have a great rest of your day.
+
+========================================
+TRANSCRIPT END
+========================================

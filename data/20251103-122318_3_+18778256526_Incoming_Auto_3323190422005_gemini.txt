@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: [Receptionist] at Bain Associates: 7 turns
+  • Speaker 2 / Cynthia / Role: Bank of America representative: 7 turns
+
+----------------------------------------
+
+[00:00] [Matt]: Bain Associates, Matt speaking, how may I help you?
+[00:04] [Cynthia]: Hi Matt, my name is Cynthia. I'm calling from Bank of America. This call may be monitored and recorded. Um, the purpose of my phone call, sir, is there's a check that the law firm has issued to my client here at Bank of America, and I'm calling to confirm if the check is good.
+[00:23] [Matt]: Okay. Client's name?
+[00:25] [Cynthia]: Um, Ola, O-L-A, middle initial E, last name's Johnson.
+[00:31] [Matt]: Yeah, she- she was a client of ours. I can pull the check up one second.
+[00:38] [Cynthia]: Thank you, sir.
+[00:39] [Matt]: So we gave her a disbursement check in the amount of $17,338.19, check number 38585.
+[00:49] [Cynthia]: Thank you. And I- I thank you so much for taking this phone call with me.
+[00:54] [Matt]: Is she there with you?
+[00:56] [Cynthia]: Oh, no. I'm calling from the back office in Phoenix, Arizona, sir.
+[01:00] [Matt]: Oh, okay. I was gonna say tell her we said thanks again. But yeah, no, that check is good.
+[01:06] [Cynthia]: Okay. Have a great day, sir.
+[01:08] [Matt]: Yep, take care.
+[01:09] [Cynthia]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

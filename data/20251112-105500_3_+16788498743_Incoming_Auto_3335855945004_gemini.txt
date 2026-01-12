@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Ben and Associates: 9 turns
+  • Speaker 2 / [Shamel Nicholson] / Role: Client/Referrer: 8 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Ben and Associates. How can I help you?
+[00:07] [Shamel Nicholson]: How you doing?
+[00:08] [Receptionist]: I'm doing well, sir. How can I help?
+[00:11] [Shamel Nicholson]: Yes, my name is Shamel Nicholson. Y'all had took over my case I believe last- what- beginning of this year or last year it should have been. Um, I have a- a friend of mine's he had- had a car accident.
+[00:29] [Receptionist]: Okay, um, was there any personal injuries involved?
+[00:33] [Shamel Nicholson]: I believe so. He just now texted me the photos of- his accident and I was like wow for real. Dang.
+[00:44] [Receptionist]: Okay. And, um, when did it happen?
+[00:47] [Shamel Nicholson]: Uh, I'm not sure- I- I'm gonna give him- y'all number and let him call y'all.
+[00:55] [Receptionist]: Perfect, then sir. So if there was any personal injury and if he wasn't at fault, then we would be able to take the case.
+[01:05] [Shamel Nicholson]: Yeah, because he- I don't think he's at fault because he never got the ticket. The other- the other party got the ticket.
+[01:12] [Receptionist]: Okay. Well in that case, sir, you can give him our number and, um, we would gladly go ahead and reach out and complete the intake, get him signed up.
+[01:23] [Shamel Nicholson]: Hey- hey- ain't no- ain't no referral fee come to that?
+[01:27] [Receptionist]: Um, I can check with, um, with the- my boss. Just- just- just let him know that who referred because we always ask and then, um, we can see about that for you, sir.
+[01:42] [Shamel Nicholson]: Okay. Thank you.
+[01:44] [Receptionist]: You're welcome.
+[01:45] [Shamel Nicholson]: Bye.
+[01:46] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

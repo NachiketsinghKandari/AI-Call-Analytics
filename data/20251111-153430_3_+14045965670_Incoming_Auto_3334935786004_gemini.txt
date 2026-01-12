@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates Law Firm: 10 turns
+  • Speaker 2 / Laura / Role: Caller from Georgia Spine Orthopedics: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bay and Associates Law Firm. My name is Fatima. How may I assist you today?
+[00:05] [Laura]: Hi, good afternoon. This is Laura calling from Georgia Spine Orthopedics, and I just wanted to confirm a presentation on a patient.
+[00:12] [Receptionist]: Oh, absolutely, ma'am. May I please have the client's first and last name?
+[00:15] [Laura]: Yes, it'll be DeAndre, D-E-A-N-D-R-E, last name... yes.
+[00:23] [Receptionist]: DeAndre, I think I already have... I know who this client is. It's DeAndre Price.
+[00:29] [Laura]: Yes.
+[00:31] [Receptionist]: All right. Yeah.
+[00:32] [Laura]: Yes, ma'am. If you would be able to provide me the case manager's information?
+[00:38] [Receptionist]: Absolutely. This is going to be Stephanie... Stephanie, last name is Peck, P-E-C-K as in King.
+[00:54] [Laura]: Okay.
+[00:56] [Receptionist]: But here's the thing. I- I will provide you with her info and things, but here's what happened in this client is currently... we're waiting for an amendment for a police report that he was not added on. He was not added on the police report. The person he was in the accident with, because he's a passenger, did not add him on the report when she spoke to the insurance. And we are trying or we've been waiting for him to speak to the officer and he hasn't been able to do that for the last like four weeks. And the case manager just spoke to him yesterday letting him know that we will withdraw if he doesn't um get the police report amended. So I will give you her info but just keep that in mind, okay? That we are um sort of like on a pending note with him.
+[01:51] [Laura]: Okay, yes, I will keep that in mind. Um, okay, yes.
+[01:56] [Receptionist]: Okay, so her- Stephanie's email address is just her name, Stephanie, S-T-E-P-H-A-N-I-E @ bayandassociates.com. And that's spelled out A-N-D.
+[02:10] [Laura]: Okay. .com. Yes, ma'am.
+[02:14] [Receptionist]: Yeah. And her phone number is 470-645-1748.
+[02:25] [Laura]: Perfect. Okay, thank you so much for that information. That helps out a lot, actually. I did speak with him today earlier. He was just a little off, so that- that's...
+[02:34] [Receptionist]: He is a little off too, so... he doesn't know how it's going to end up. So we're waiting, but the- the case manager, Ms. Stephanie, already let him know that it's most likely a withdraw.
+[02:47] [Laura]: Okay. Alrighty. Thank you, ma'am. I appreciate that.
+[02:50] [Receptionist]: You're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

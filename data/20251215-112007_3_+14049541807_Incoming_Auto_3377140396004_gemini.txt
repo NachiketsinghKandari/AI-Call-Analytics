@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelos / Role: Receptionist at Bey and Associates: 16 turns
+  • Speaker 2 / Unknown / Role: Caller: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelos speaking, how may I help?
+[00:05] [Unknown]: Hey, is John Bey in?
+[00:07] [Receptionist]: Hi, John? Who's calling? A man or reason why you're seeking John Bey?
+[00:15] [Unknown]: Yeah, to speak with John Bey, he's the owner here, right?
+[00:18] [Receptionist]: Yes.
+[00:20] [Unknown]: Yeah, perfect.
+[00:23] [Receptionist]: All right, uh, you're to go ahead and talk with John, uh, since he is a really busy, uh, businessman, I have one of his associates that can give you the...
+[00:34] [Unknown]: Oh, no, no, no, that's fine. No, I don't want to speak to one of his associates. Um, do you guys have like a manager here?
+[00:45] [Receptionist]: Uh, no specific, like, man or reason why, or if you wish I can share the email from Mr. Bey and you can get in touch with him via email.
+[00:54] [Unknown]: Yeah, it's regarding the city of Atlanta, so you guys don't have a regional manager, a vice president...
+[01:04] [Receptionist]: Oh, yes, that's the one, that's the telephone number that I was about to give you. That is the person in charge for all operations.
+[01:12] [Unknown]: So, I'm sorry, I don't know what you're saying. You said that you can't give me a number? I didn't ask for— I was just wondering what their name was.
+[01:26] [Receptionist]: Uh, yes, his name is Matt McCarren and I can give you the telephone number for him.
+[01:33] [Unknown]: Okay, uh, and he's the regional manager?
+[01:37] [Receptionist]: The, yes, the supervisor of... the operation manager.
+[01:42] [Unknown]: Okay, what's his phone number?
+[01:43] [Receptionist]: 404...
+[01:45] [Unknown]: 404...
+[01:47] [Receptionist]: 591...
+[01:50] [Unknown]: Okay.
+[01:52] [Receptionist]: 8928.
+[01:57] [Unknown]: Okay, and that's Matt Karen?
+[02:01] [Receptionist]: Matt, space, McCarren.
+[02:05] [Unknown]: Matt McCarren.
+[02:08] [Receptionist]: It's spelled M-C-C-A-R-R-E-N.
+[02:19] [Unknown]: Okay, and what's his title?
+[02:23] [Receptionist]: He's the supervisor or the operation manager.
+[02:29] [Unknown]: Okay, sounds good. Thank you.
+[02:31] [Receptionist]: All right, anything else for us?
+[02:34] [Unknown]: That's all. Thank you. Bye.
+[02:36] [Receptionist]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

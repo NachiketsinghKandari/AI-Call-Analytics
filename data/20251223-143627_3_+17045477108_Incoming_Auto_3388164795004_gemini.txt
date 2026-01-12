@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Amber / Role: Caller from Allstate: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:06] [Amber]: Hey, my name's Amber. I'm with the Allstate claims department. Just so you know, this call may be monitored or recorded for quality assurance and claim handling purposes. I just was following up on your client, Ms. India Mintz.
+[00:21] [Receptionist]: Okay, one second. Let me pull that up.
+[00:23] [Amber]: Okay, thank you.
+[00:25] [Receptionist]: Mhm.
+[00:26] [ ... Silence (7s) ... ]
+[00:33] [Receptionist]: The last name Mintz? M-I-T-Z?
+[00:39] [Amber]: M-I-N-T-Z.
+[00:42] [Receptionist]: M-I-T-Z?
+[00:43] [Amber]: Mm-mm. M-I-N-T-Z.
+[00:46] [Receptionist]: Oh, N. India. What is the date of loss? 'Cause I have a few here for her.
+[00:53] [Amber]: Um, this one is September 9th of '25.
+[00:58] [Receptionist]: Okay, that would be with Ms. Linda Huff. Let me get her for you.
+[01:03] [Amber]: Okay, thank you.
+[01:04] [Receptionist]: You're welcome.
+[01:05] [ ... Silence (9s) ... ]
+[01:14] [Receptionist]: Ma'am?
+[01:15] [Amber]: Mhm.
+[01:16] [Receptionist]: Um, it seems like Ms. Linda is on another call right now. Would you like to leave her a voicemail?
+[01:22] [Amber]: Sure.
+[01:23] [Receptionist]: All right. Sending you over. You have a great rest of your day.
+[01:26] [Amber]: Thank you. You too.
+[01:28] [Receptionist]: Thank you too.
+
+========================================
+TRANSCRIPT END
+========================================

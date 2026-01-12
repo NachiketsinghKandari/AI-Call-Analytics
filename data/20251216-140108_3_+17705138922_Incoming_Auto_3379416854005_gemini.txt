@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Jessica / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel speaking, how may I help?
+[00:04] [Jessica]: Hi, good afternoon. My name is Jessica, I'm calling from AICA Orthopedics about a mutual client, Ms. Candy Faulkner, date of loss 8/28/25.
+[00:15] [Receptionist]: Let's see.
+[00:18] [ ... Silence (19s) ... ]
+[00:37] [Receptionist]: Thank you. And how may I help you?
+[00:41] [Jessica]: Um, sorry, I just need an update on her case. She's been treating with us now since, um, early November, and I just wanted to give an update on her balance and see if you guys had any additional information, um, as far as her claim.
+[00:53] [Receptionist]: Let's see if the case manager is available, okay? Give me just one minute.
+[00:58] [ ... Silence (9s) ... ]
+[01:07] [Receptionist]: Thank you for staying on the line. It looks like that the case manager isn't available at this moment, and she's the one in charge for releasing those kind of bills information and everything. Would you like to take her email, her personal phone number, or leave her a voicemail?
+[01:22] [Jessica]: Um, I'll do all three, if that's okay.
+[01:26] [Receptionist]: Okay, so her name is Peggy. It is spelled P-A-Y-G-E.
+[01:33] [Jessica]: P-A-Y-G-E. Okay, Peggy.
+[01:36] [Receptionist]: Yes, like Pay and then G-E. And the email is the same as the first name, Peggy at B-E-Y A-N-D associates with an S at the end dot com. It's Peggy at, that is her email. I'm going to give you her telephone number. It is...
+[01:58] [Jessica]: Okay.
+[01:59] [Receptionist]: It is 470-615-0715. That is her telephone number. And I will pass you over right now to the voicemail, okay?
+[02:14] [Jessica]: Okay, thank you.
+[02:16] [Receptionist]: Have a good one. Bye-bye.
+[02:18] [Jessica]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

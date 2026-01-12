@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Maggie / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Matt speaking, how may I help you?
+[00:05] [Maggie]: Good morning, Matt. This is Maggie with Country Financial. I was calling to speak to attorney Steele or his paralegal regarding, um, our insured, your client, Inez Cole.
+[00:17] [Receptionist]: Let me see who's handling that. One moment, ma'am.
+[00:21] [Maggie]: Thanks.
+[00:23] [Receptionist]: Looks like that's going to be Ms. Linda. May I transfer you? Would you also like their email or her email addresses?
+[00:29] [Maggie]: Absolutely. Let me get my— let me find my pen here. Um, um, um. Okay, go ahead.
+[00:37] [Receptionist]: Yeah, so Linda is just going to be her first name, Linda at beyandassociates.com.
+[00:45] [Maggie]: Is the and a ampersand or spelled out?
+[00:49] [Receptionist]: Uh, it's spelled out.
+[00:52] [Maggie]: Okay. Okay, so it's beyandassociates.com?
+[00:57] [Receptionist]: Mhm. And then, uh, attorney Steele's is J Steele, so J-S-T-E-E-L-E at beyandassociates.com.
+[01:09] [Maggie]: Awesome. Okay, so she's a case manager or the paralegal?
+[01:13] [Receptionist]: Uh, Linda's the case manager and Jonathan's the attorney, Attorney Steele, yep.
+[01:21] [Maggie]: Alrighty. Yeah, if you can transfer me to her, I'd appreciate it. Thank you so much. You have a wonderful day.
+[01:27] [Receptionist]: You too. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

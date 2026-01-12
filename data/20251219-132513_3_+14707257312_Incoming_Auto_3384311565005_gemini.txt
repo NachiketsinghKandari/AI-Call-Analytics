@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Unknown: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 3 / Christian Buck / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: ...very funny about shoes.
+[00:02] [Receptionist]: Good shoes.
+[00:03] [Unknown]: The moment she sticks her foot in it, she's like, "Oh, yeah."
+[00:06] [Receptionist]: Yeah.
+[00:07] [Christian Buck]: Yeah, uh, I was calling because I was trying to check on my case that I have with you all.
+[00:13] [Receptionist]: Sure, can I have your name please?
+[00:15] [Christian Buck]: Yes, Christian Buck.
+[00:18] [Receptionist]: Got it. Let me see. How do you spell your last name?
+[00:23] [Christian Buck]: Uh, B-U-C-K.
+[00:26] [Receptionist]: And can I have the date of the incident?
+[ ... Silence (5s) ... ]
+[00:34] [Christian Buck]: Uh, I can't remember. I think it was, it was May 2019.
+[00:39] [Receptionist]: Okay, yes, just to make sure. Yes, I found it. So let me go ahead and see if there is any update. I'm going to also see if the case manager is available. Give me one minute.
+[00:50] [Christian Buck]: Okay, thank you.
+[00:51] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

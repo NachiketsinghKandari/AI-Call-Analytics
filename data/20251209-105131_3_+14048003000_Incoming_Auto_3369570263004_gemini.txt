@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Jennifer / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Angelo, may I help you?
+[00:06] [Jennifer]: Hi, good, good morning. This is Jennifer, I'm calling with Dominguez Chiropractic. Um, calling to see if I can speak with Paige in regards to patient Daryl Chambers?
+[00:19] [Receptionist]: Sure. Let's see.
+[00:23] [ ... Silence (18s) ... ]
+[00:41] [Receptionist]: And can I have please the date of loss of this client?
+[00:45] [Jennifer]: Um, let me see because he didn't give me much information. He's not a patient with us yet. Um, I believe it was August 28th?
+[00:53] [Receptionist]: Yes, thank you. Let me see if the case manager is available. Hold on.
+[00:58] [Jennifer]: Okay. Thank you.
+[01:00] [ ... Silence (14s) ... ]
+[01:14] [Receptionist]: Hello?
+[01:17] [Jennifer]: Hello, I'm here. Sorry about that.
+[01:19] [Receptionist]: No worries. Thank you for staying on the line. It looks like um the case manager is unavailable at this moment. Would you like to leave her a voicemail?
+[01:29] [Jennifer]: Okay, that's fine. Thank you.
+[01:31] [Receptionist]: Yes.
+[01:32] [ ... Silence (11s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

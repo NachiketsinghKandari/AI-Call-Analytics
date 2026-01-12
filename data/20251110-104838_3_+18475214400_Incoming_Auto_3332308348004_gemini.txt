@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Day and Associates: 4 turns
+  • Speaker 2 / [Unknown] / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Day and Associates, Kim speaking.
+[00:03] [Speaker 2]: Hi, good morning. Is Paige available?
+[00:06] [Receptionist]: Good morning. Let me check.
+[00:11] [Receptionist]: Are you calling in regards to a specific client?
+[00:14] [Speaker 2]: Yes, it is on client Candy Faulkner.
+[00:18] [Receptionist]: Okay, one second.
+
+========================================
+TRANSCRIPT END
+========================================

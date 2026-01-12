@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist]: Role: Receptionist at a Law Firm: 6 turns
+  • [John Ballard]: Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Law firm, Kevin speaking.
+[00:05] [John Ballard]: Yes, is this, uh, Tony Obada?
+[00:11] [Receptionist]: Um, no, but I can— I can get you over to Mr. Obada.
+[00:17] [John Ballard]: Is he in today or is Carrie— Carrie in today?
+[00:22] [Receptionist]: He should be in today. I can double-check for you, sir, no problem.
+[00:27] [John Ballard]: Yes, I would like— I would love to speak to, uh, Mr. Obada first, but if not, Ca— Carrie will be just fine.
+[00:35] [Receptionist]: Okay. And may I have your name, please?
+[00:39] [John Ballard]: John, John Ballard.
+[00:43] [Receptionist]: Mr. Ballard. Okay. Let me go ahead and get you over to Mr. Obada, okay?
+[00:54] [John Ballard]: Okay, sir. Yes, okay. Thank you.
+[00:56] [Receptionist]: You're welcome.
+[00:58] [ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

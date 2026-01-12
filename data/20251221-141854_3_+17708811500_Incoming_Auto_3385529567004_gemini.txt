@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm. My name is Fatima. How may I assist you today?
+[00:08] [Unknown]: I was calling Audra, my niece. She's not there?
+[00:14] [Receptionist]: Audra?
+[00:17] [Unknown]: Audra.
+[00:20] [Unknown]: Isn't this the Bey—
+[00:22] [Receptionist]: Bey and Associates?
+[00:24] [Unknown]: Yes it is.
+[00:25] [Receptionist]: Audra is—
+[00:29] [Unknown]: Audra is N'Kosi Bey's wife.
+[ ... Silence (7s) ... ]
+[00:39] [Receptionist]: Oh, I am so sorry. The office is closed on Sundays. So and if the person is not in office, I am not able to co— to contact you with them. So I am sorry to say that there is no one with that name at the office today. You might want to get back and give us a call tomorrow and we might be able to contact Mr. John Bey's personal assistant and he might be able to give us a hand and try to contact her for you.
+[01:12] [Unknown]: Oh, that's okay. I'll get. Thank you.
+[01:15] [Receptionist]: You're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

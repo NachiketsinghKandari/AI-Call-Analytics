@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Toby Red / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Toby Red]: Yes, good afternoon, I'm Toby Red calling from Fulton County State Court. May I speak to Ms. Brown, Veronica Brown, please?
+[00:14] [Receptionist]: Veronica Brown, give me one moment.
+[00:17] [Toby Red]: Okay, thank you.
+[00:20] [ ... Silence (14s) ... ]
+[00:34] [Receptionist]: Do you allow me to place you on a brief hold for one minute, ma'am?
+[00:37] [Toby Red]: Yes, that's fine. Thank you.
+[00:39] [Receptionist]: Thank you. Thank you so much for holding, ma'am.
+[00:43] [Toby Red]: Yes.
+[00:44] [Receptionist]: Let me tell you, so I tried to call the client twice and she's unresponsive. Um, how else could I assist you, ma'am?
+[00:51] [Toby Red]: Uh, I'll just go ahead, she has sent an email and um, let me just go ahead and reject that and then she can just call us.
+[01:01] [Receptionist]: Right, because I have her direct line, I can provide you with that number if that helps you.
+[01:06] [Toby Red]: Okay, um, do you, is she in the office today?
+[01:10] [Receptionist]: Um, no, unfortunately no, ma'am.
+[01:13] [Toby Red]: Okay, um, okay. I tell you what, let, maybe she'll, I'll just go ahead and just try to respond to her email and she can see if she'll be able to give us a call back.
+[01:24] [Receptionist]: Perfect. Let me tell you what I'm going to do. I'll send her an email to let her know that you tried to reach out to her, alright?
+[01:30] [Toby Red]: That's fine.
+[01:31] [Receptionist]: That is fine.
+[01:32] [Toby Red]: Okay, thank you.
+[01:33] [Receptionist]: All right.
+[01:34] [Toby Red]: Uh-huh. Bye-bye.
+[01:36] [Receptionist]: Uh-huh. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Beyen and Associates: 4 turns
+  • Speaker 2 / John / Role: Representative from Katch: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Beyen and Associates. This is Daniel.
+[00:07] [John]: Hello, my name is John, calling from Katch, on behalf of United Healthcare Insurance, calling regarding a case for Danielle Humans.
+[00:20] [ ... Silence (7s) ... ]
+[00:27] [Receptionist]: I'm sorry, you said you're calling from where?
+[00:29] [John]: Katch, K-A-T-C-H, on behalf of United Healthcare Insurance.
+[00:40] [Receptionist]: Yes.
+[00:42] [John]: Yes. And I'm calling regarding... so I'm calling regarding patient Danielle Humans. We need to know if Danielle filed a claim with his own auto insurance or just pursued with the third party's insurance.
+[00:54] [Receptionist]: Um, give me one moment please. Let me verify with the case manager's department.
+[01:03] [John]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

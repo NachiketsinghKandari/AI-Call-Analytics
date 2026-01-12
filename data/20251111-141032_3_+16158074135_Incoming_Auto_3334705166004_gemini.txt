@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: [Receptionist] at Bain and Associates: 10 turns
+  • Speaker 2 / Shamika Sabala / Role: Traxis One Insurance: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kaimi speaking.
+[00:03] [Shamika Sabala]: Hi, did you say Kim?
+[00:06] [Receptionist]: Kaimi.
+[00:08] [Shamika Sabala]: Hi. My name is, I apologize. My name is Shamika Sabala and I'm with Traxis Insurance. How are you today?
+[00:15] [Receptionist]: I'm doing well, thank you for asking. How can I help?
+[00:18] [Shamika Sabala]: I am calling to see if I can speak with Victoria, um, in regards to a mutual insured or client. I'm calling from Traxis One Insurance.
+[00:30] [Receptionist]: Okay. All right. What's the client's name?
+[00:36] [Shamika Sabala]: First name Joseph, last name is Haynes, H-A-Y-N-E-S.
+[00:47] [Receptionist]: Okay, someone just called for that same client. She was on another call. Let me see if she's off. One second.
+[00:56] [Shamika Sabala]: Okay. Thank you.
+[00:58] [Receptionist]: You're welcome.
+[01:02] [Receptionist]: Hello?
+[01:04] [Shamika Sabala]: Hello. Is this Victoria?
+[01:06] [Receptionist]: No, she was still on another call.
+[01:09] [Shamika Sabala]: Okay. Um, I will just email her. I just wanted to introduce myself, um, since I'm going to be working with her in regards to this client.
+[01:19] [Receptionist]: Oh, okay. Would you like to leave her a voicemail?
+[01:23] [Shamika Sabala]: Yes. Thank you so much.
+[01:26] [Receptionist]: You're welcome. Have a great rest of your day. Bye-bye.
+[01:29] [Shamika Sabala]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

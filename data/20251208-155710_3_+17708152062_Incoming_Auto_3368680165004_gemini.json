@@ -1,0 +1,27 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist gathered case details and initiated a transfer to the billing department regarding a past due invoice.",
+    "call_duration_seconds": 76.97,
+    "call_duration_formatted": "01:16"
+  },
+  "transfer_context": {
+    "destinations": [
+      "billing_and_disbursements"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist stated she would get the caller to the right person and the call ended immediately after."
+  }
+}

@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Shawn Benton / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Shawn Benton]: How you doing today?
+[00:06] [Receptionist]: I'm doing well, thanks for asking. How can I help?
+[00:09] [Shawn Benton]: Right, um, I was calling about my case, ma'am. Um, I just had to reach out to my insurance company to get a rental car and they told me y'all already involved so they can't talk to me about it, to contact y'all.
+[00:21] [Receptionist]: Okay, can I have your name?
+[00:23] [Shawn Benton]: Yes, ma'am. Shawn, S-H-A-W-N, last name Benton, B-E-N-T-O-N.
+[00:29] [Receptionist]: Okay, I got it. Let me, um, let me get Mr. McLaughlin on the line for you. He's your case manager. One sec.
+[ ... Silence (12s) ... ]
+[00:42] [Receptionist]: Mr. Benton, Mr. McLaughlin is on another call right now. I can have him reach out to you as soon as he's off.
+[00:49] [Shawn Benton]: Yes, ma'am.
+[00:51] [Receptionist]: Okay, perfect. You have a great rest of your day.
+[00:53] [Shawn Benton]: Would it be today?
+[00:55] [Receptionist]: Yes, sir. As soon as he gets off the other call.
+[00:59] [Shawn Benton]: Okay.
+[01:00] [Receptionist]: Okay, perfect. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

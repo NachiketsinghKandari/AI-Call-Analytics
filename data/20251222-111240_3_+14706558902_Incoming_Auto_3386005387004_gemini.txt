@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Evelyn / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:07] [Evelyn]: Hi, hello Angelo, this is Evelyn calling from Dominguez Chiropractic. Uh, we were calling regarding a patient with the name Freddy, F-R-E-D-D-I-E, and last name is Deborah.
+[00:26] [Receptionist]: Thank you. And how may I help you?
+[00:29] [Evelyn]: Yes, we would like to know if you have the policy limit for this case?
+[00:34] [Receptionist]: Policy limit, let's see.
+[00:38] [ ... Silence (45s) ... ]
+[01:23] [Receptionist]: Uh, the amount is 500k, 500,000.
+[01:36] [Evelyn]: Okay, so 500, you said?
+[01:39] [Receptionist]: Yes, mhm.
+[01:41] [Evelyn]: Okay. Okay, perfect. Do you know the property damage, was it a total loss or moderate?
+[01:51] [Receptionist]: No, we don't have information about that.
+[01:54] [Evelyn]: No, it's fine. Okay, I appreciate it. The liability has been accepted?
+[01:58] [Receptionist]: Uh, it says it's still pending.
+[02:01] [Evelyn]: Still pending. Okay. Okay, got it. Okay, thank you, I appreciate it.
+[02:09] [Receptionist]: You're more than welcome. Anything else for today?
+[02:11] [Evelyn]: That's all. Thank you, have a good one.
+[02:14] [Receptionist]: Have a good one. Bye-bye.
+[02:16] [Evelyn]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

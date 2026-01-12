@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist stated he would identify the staff member handling the case and the call ended after the caller was placed on hold.",
+    "call_duration_seconds": 266.69,
+    "call_duration_formatted": "04:26"
+  },
+  "transfer_context": {
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist initiated a transfer to locate the staff member handling the file and the call ended immediately after the caller agreed to the hold."
+  }
+}

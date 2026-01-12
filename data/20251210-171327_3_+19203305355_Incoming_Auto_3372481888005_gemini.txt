@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Jeff / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Angelo from Bey and Associates, how may I help?
+[00:06] [Jeff]: Uh, yes, hi. My name's Jeff. I'm calling with American Family Insurance. Um, calling from a recorded line. I was checking on the status of an offer that we had made for a mutual client, Cynthia Gantt, G-A-N-T-T, for a UIM case.
+[00:27] [Receptionist]: Let me see. Thank you, let me see. And I'm sorry, what was your first name again?
+[00:32] [Jeff]: Oh, this is Jeff.
+[00:34] [Receptionist]: Oh, this is Angelo.
+[00:36] [Jeff]: Angelo. Okay.
+[00:38] [Receptionist]: Let's see. Let's see. Cynthia. Cynthia Gantt. All right, let's see if the case manager is available to talk with you.
+[00:52] [Jeff]: Okay, thank you.
+[00:54] [ ... Silence (12s) ... ]
+[01:06] [Receptionist]: Hey, sir, I'm sorry. It looks like that the case manager isn't available at this moment. Would you like to leave her a voice message?
+[01:13] [Jeff]: Uh, that's fine. Is that Victoria Morales?
+[01:16] [Receptionist]: Victoria Morales, yes. Do you have her email?
+[01:19] [Jeff]: I do. Yep. Okay, I can get in contact with her. She can answer tomorrow.
+[01:25] [Receptionist]: All right.
+[01:27] [Jeff]: All right, sounds good. Thank you.
+[01:29] [Receptionist]: No issue at all. Anything else or that's all?
+[01:32] [Jeff]: No, that's it. Thank you.
+[01:34] [Receptionist]: All right, have a good one.
+[01:36] [Jeff]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

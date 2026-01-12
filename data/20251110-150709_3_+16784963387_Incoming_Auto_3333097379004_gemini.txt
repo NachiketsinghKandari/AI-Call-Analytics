@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Kimmy / Role: [Receptionist] at Bain and Associates: 10 turns
+  • Renee / Role: Caller from IGO Orthopedics: 9 turns
+
+----------------------------------------
+
+[00:03] [Kimmy]: Bain and Associates, Kimmy speaking.
+[00:06] [Renee]: Hi Kimmy. Kimmy, my name is Renee. I'm calling from IGO Orthopedics. Kimmy, I'm calling to follow up on the status for a patient. Can you assist me?
+[00:15] [Kimmy]: Yes ma'am. Patient's name?
+[00:17] [Renee]: The patient's last name is Martin, M-A-R-T-I-N, and the first name is Shay, S-H-A-H.
+[00:26] [ ... Silence (6s) ... ]
+[00:32] [Kimmy]: Okay, this is in pre-litigation closing.
+[00:36] [Renee]: It's in pre-litigation closing?
+[00:41] [Kimmy]: Mhm.
+[00:42] [Renee]: Kimmy, do it, um, have a county that it's in pre-litigation with?
+[00:48] [Kimmy]: A what? I'm sorry.
+[00:51] [Renee]: Do I have like, like a court number or a county number? No?
+[00:56] [Kimmy]: Um, I'm not sure. I can get Victoria on the line. She's the case manager.
+[01:01] [Renee]: Okay. Case manager's Victoria. What's Victoria's last name?
+[01:04] [Kimmy]: Morales.
+[01:07] [Renee]: M-O-R-A-L-E-S?
+[01:09] [Kimmy]: Yes ma'am.
+[01:10] [Renee]: Oh, okay. I don't, I don't, um, need you to get her on the line. Um, thank you so much, Kimmy.
+[01:18] [Kimmy]: You're welcome. Have a good rest of your day.
+[01:21] [Renee]: You too. Bye now.
+[01:23] [Kimmy]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

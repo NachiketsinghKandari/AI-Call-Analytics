@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 14 turns
+  • Speaker 2 / [Ben] / Role: Caller from Check Cashing: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bay and Associates, Kim speaking?
+[00:04] [Ben]: Yes, uh, my name is Ben, I'm calling from Check Cashing to verify a check made out to your client.
+[00:14] [Receptionist]: I'm ready for the name.
+[00:16] [Ben]: The name is Arissa Forge.
+[00:20] [Receptionist]: Could you spell that for me?
+[00:22] [Ben]: A-R-I-S-S-A, last name F-O-R-G-E.
+[00:29] [ ... Silence (30s) ... ]
+[00:59] [Receptionist]: Um... is the check from Safeway?
+[01:02] [Ben]: Uh, check is... this is Bay and Associate LLC?
+[01:07] [Receptionist]: Okay, one second, I got the wrong one.
+[01:09] [ ... Silence (14s) ... ]
+[01:23] [Receptionist]: All right, for $2,700?
+[01:27] [Ben]: No.
+[01:28] [Receptionist]: Wait then, wait, I have a few here, just one second.
+[01:33] [ ... Silence (19s) ... ]
+[01:52] [Ben]: I'm sorry?
+[01:54] [Ben]: Hello?
+[01:56] [ ... Silence (6s) ... ]
+[02:02] [Ben]: Hello?
+[02:04] [Receptionist]: Yes sir, can you hear me?
+[02:06] [Ben]: I hear you now.
+[02:08] [Receptionist]: Can you hear me?
+[02:10] [Ben]: I hear you now.
+[02:12] [Receptionist]: Yes.
+[02:13] [Receptionist]: 39051?
+[02:16] [Ben]: Yes, that's check number.
+[02:18] [Receptionist]: Okay, 5,313.90?
+[02:21] [Ben]: Correct.
+[02:23] [Receptionist]: All right, that is good to go.
+[02:26] [Ben]: Okay.
+[02:27] [Ben]: Thank you.
+[02:29] [Receptionist]: You're welcome, have a great day, bye-bye.
+[02:32] [Ben]: You too, bye.
+
+========================================
+TRANSCRIPT END
+========================================

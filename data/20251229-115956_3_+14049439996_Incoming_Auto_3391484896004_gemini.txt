@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 15 turns
+  • Speaker 2 / Chivana / Role: Caller from Regional Medical Group: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Chivana]: Hi, good morning. This is Chivana calling from Regional Medical Group, how are you?
+[00:10] [Receptionist]: Uh, good, ma'am, thank you for asking. How can I assist you?
+[00:13] [Chivana]: Yes, I'm reaching out to see if I could get the case manager email for two of your clients.
+[00:18] [Receptionist]: All right, what's the name of the first client?
+[00:21] [Chivana]: First name is Bellatigra, B-E-L-L-A-T-I-G-R-A, last name is Pool.
+[00:28] [Receptionist]: Got it.
+[00:31] [Chivana]: And what would be the name of the second client? Matthew, last name is spelled G-O-U-L-D.
+[00:38] [Receptionist]: Got it.
+[ ... Silence (19s) ... ]
+[00:58] [Receptionist]: Um, all right, I'm not able to find Mr. Matthew right now, but let me, let me start with the first one. Uh, I'll provide you the email for, uh, Ms. Pool or Pooley. Give me one moment. Uh, the case manager's name would be Stephanie. Stephanie and her last name is Peck, P as in Peter, E-C-K.
+[01:23] [Chivana]: And that will be her first name and then...
+[01:26] [Receptionist]: I'm sorry, could you repeat that?
+[01:28] [Chivana]: Her email would be, uh, Stephanie, which is her first name, at Bey and Associates dot com?
+[01:34] [Receptionist]: Give me one moment. Let me just confirm if it has her first initial. Uh, yes, it's just Stephanie, her first name, S-T-E-P-H-A-N-I-E, Stephanie at Bey and Associates dot com.
+[01:55] [Chivana]: Got it. And what is the last name of Mr. Matthew again? It is G-O-U-L-D.
+[02:03] [Receptionist]: Understood. Give me one moment.
+[ ... Silence (13s) ... ]
+[02:18] [Receptionist]: The last letter would be B as in Bravo, right?
+[02:22] [Chivana]: No, D as in Dog.
+[02:24] [Receptionist]: Oh, perfect.
+[ ... Silence (38s) ... ]
+[03:03] [Receptionist]: And let me tell you, for Mr. Gould, um, it looks like that there is no, there is no case manager assigned. It seems like there was one, but it looks like that that person is no longer working with the company because it says here prior employee. So he doesn't have a case manager assigned at the moment. Uh, this is what I can do. I can provide you with the case, with the email for the Mr., uh, Mr. Bey's legal assistant, Mr. Matt. So, so you can reach out to him and he can provide you a bit of insight on this case, ma'am.
+[03:34] [Chivana]: Okay.
+[03:35] [Receptionist]: All right. Uh, the email for Mr. Matt would be Matt, M-A-T-T, and it would be the same, at Bey and Associates dot com, B-E-Y-A-N-D-associates dot com.
+[03:49] [Chivana]: So I have Matt, M-A-T-T, at Bey and Associates dot com.
+[03:54] [Receptionist]: Bey and Associates dot com, yeah.
+[03:56] [Chivana]: All righty, thank you so much. You have a great rest of your day, okay?
+[04:00] [Receptionist]: Perfect, you too, ma'am. Goodbye.
+[04:02] [Chivana]: Thank you, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

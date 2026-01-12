@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "scheduling_and_appointments",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to schedule an appointment with a specific staff member but then opted to send an email instead, which the receptionist confirmed was an acceptable method.",
+    "call_duration_seconds": 46.08,
+    "call_duration_formatted": "00:46"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was initiated; the caller decided to use email for their request during the interaction."
+  }
+}

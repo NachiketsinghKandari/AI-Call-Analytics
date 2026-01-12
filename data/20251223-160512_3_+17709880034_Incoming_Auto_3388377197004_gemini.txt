@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Kim / Role: Receptionist at Bey and Associates: 6 turns
+  • [Leslie] / Leslie / Role: Caller from Marietta Physical Rehab: 5 turns
+
+----------------------------------------
+
+[00:03] [Receptionist]: Bey and Associates, Kim speaking.
+[00:07] [Leslie]: Hi, this is Leslie, I'm calling from Marietta Physical Rehab. I'm trying to get a good email address for records to be sent to?
+[00:15] [Receptionist]: For what to be sent?
+[00:18] [Leslie]: Records.
+[00:20] [Receptionist]: Oh, Michael, M-I-C-H-A-E-L...
+[00:28] [Leslie]: Mhm.
+[00:30] [Receptionist]: Okay, at Bey and Associates dot com, that's B-E-Y-A-N-D-associates with an S dot com.
+[00:43] [Leslie]: Okay, associates as in plural?
+[00:46] [Receptionist]: Yes, ma'am.
+[00:48] [Leslie]: Okay, thank you so much.
+[00:50] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

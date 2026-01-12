@@ -1,0 +1,50 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at H and Associates: 16 turns
+  • Speaker 2 / [Kenneth Jackson] / Role: Client: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: H and Associates, Kim speaking.
+[00:04] [Kenneth Jackson]: Hi, um, so she's- she hasn't picked up the last two times I called. Would I be able to talk to her, um, any of her associates that work with her?
+[00:19] [Receptionist]: Okay, let me see.
+[00:22] [ ... Silence (21s) ... ]
+[00:44] [Receptionist]: One second, let me see if the- oh... looks like she's already gone for today. Um, let me check for the attorney one sec.
+[01:05] [Receptionist]: Um, in regards to what client this one is for? Or are you the client?
+[01:09] [Kenneth Jackson]: Yes, Kenneth.
+[01:12] [Receptionist]: I'm sorry about that, sir. Can I have your name?
+[01:15] [Kenneth Jackson]: Kenneth.
+[01:17] [Receptionist]: Okay. Kenneth... and last name?
+[01:21] [Kenneth Jackson]: Kenneth, K-E-N-N-E-T-H. I'm just trying to see, um, where we are in the process of my case and everything.
+[01:38] [Receptionist]: Can I have your last name, sir?
+[01:42] [Kenneth Jackson]: Jackson.
+[01:44] [Receptionist]: Zach?
+[01:46] [Kenneth Jackson]: Jackson. Yeah, I wanted to see if they did the reductions and, um, if they already did the hospital bills and paid for those and everything else and if I was- how much I would end up getting.
+[02:03] [Receptionist]: Okay.
+[02:05] [ ... Silence (33s) ... ]
+[02:39] [Receptionist]: Okay, that one is already gone for today also. I do see that they began reduction.
+[02:47] [Kenneth Jackson]: I'm sorry?
+[02:49] [Receptionist]: I do see that, um, they have a note here that they have begun, um, doing the reduction. Let me see...
+[03:00] [ ... Silence (41s) ... ]
+[03:42] [Receptionist]: Mr. Jackson, I do apologize for the hold up. Um, the- the attorney did not answer and like I said, Stephanie- I mean, Victoria and Tyauna, which has been I see on your file, both of them has already gone for today. I- the best I can do is have them reach out to you on Monday once they're in.
+[04:00] [Kenneth Jackson]: Okay. Who- what was the name of the other- what was the other lady?
+[04:10] [Receptionist]: Tyauna.
+[04:12] [Kenneth Jackson]: Tyauna. Can I have her number? Or their line- their line numbers or whatever it is.
+[04:19] [Receptionist]: All right, Tyauna would be 404-889-8965.
+[04:32] [Kenneth Jackson]: Okay. And what was her name again? Tyauna?
+[04:41] [Receptionist]: Yeah, T-Y-A-U-N-A.
+[04:52] [ ... Silence (9s) ... ]
+[05:02] [Receptionist]: Is that everything I could help you with, sir?
+[05:05] [Kenneth Jackson]: Yes, ma'am.
+[05:07] [Receptionist]: All right, I'll go ahead and pass them so that they can reach out to you first thing on Monday when they- come in.
+[05:15] [Kenneth Jackson]: Thank you so much.
+[05:17] [Receptionist]: You're welcome. Have a great rest of your day.
+[05:20] [Kenneth Jackson]: You too.
+[05:22] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

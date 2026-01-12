@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Bianca Lassiter / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina.
+[00:04] [Bianca Lassiter]: Hey, good afternoon. How are you doing today?
+[00:08] [Receptionist]: I am doing great. And how is yourself?
+[00:11] [Bianca Lassiter]: I'm well, thank you. I was calling to see if I can get in, um, contact with Michael.
+[00:19] [Receptionist]: And do you have a case with us?
+[00:22] [Bianca Lassiter]: Yes, I do.
+[00:24] [Receptionist]: May I please have your name?
+[00:27] [Bianca Lassiter]: Bianca Lassiter.
+[00:31] [Receptionist]: Okay, give me a moment.
+[00:34] [Bianca Lassiter]: Okay.
+[ ... Silence (6s) ... ]
+[00:41] [Receptionist]: All right, I'll try to get the case manager, okay? So that she can assist you. So give me just a moment. I'll place you on a brief hold.
+
+========================================
+TRANSCRIPT END
+========================================

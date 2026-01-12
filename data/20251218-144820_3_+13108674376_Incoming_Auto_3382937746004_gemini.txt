@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Freddy Barron / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bey and Associates, this is Tasha, how can I help you?
+[00:05] [Freddy Barron]: Hello, may I speak with Nicholas Obata?
+[00:09] [Receptionist]: Yes sir, can I have your name?
+[00:11] [Freddy Barron]: Freddy Barron, B-A-R-R-O-N.
+[00:15] [Receptionist]: Okay, one second.
+[00:20] [Receptionist]: Mr. Barron?
+[00:21] [Freddy Barron]: Yes ma'am.
+[00:22] [Receptionist]: Mr. Obata answered but he said he's going into a meeting in one minute. He will give you a call by the end of the day.
+[00:29] [Freddy Barron]: Thank you very much, ma'am.
+[00:32] [Receptionist]: You're welcome. You have a great rest of your day.
+[00:34] [Freddy Barron]: You too. Bye-bye.
+[00:36] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

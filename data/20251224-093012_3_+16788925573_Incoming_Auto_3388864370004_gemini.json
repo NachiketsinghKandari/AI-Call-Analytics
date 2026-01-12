@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the legal assistant's name, extension, and email address to the caller. The receptionist then stated she would inform the legal assistant of the call.",
+    "call_duration_seconds": 128.52,
+    "call_duration_formatted": "02:08"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist provided the staff member's contact information and extension, then stated she would let the staff member know the caller reached out."
+  }
+}

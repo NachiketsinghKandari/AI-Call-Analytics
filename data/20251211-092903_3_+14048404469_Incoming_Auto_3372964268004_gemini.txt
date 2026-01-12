@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Namrata / Role: Court Reporter: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:03] [Namrata]: Hi, uh, I'm the court reporter here. Uh, for some reason I can't find the building, so I am near building 12.
+[00:13] [Receptionist]: No, it's building 9.
+[00:15] [Namrata]: I know, but I can't figure out where it is.
+[00:20] [Receptionist]: You're at the 4200 Northside Parkway, West?
+[00:26] [Namrata]: Yeah, so I see 12 is Gordon-Wooten Law Firm, but I saw building 10 and 14, but I... didn't see building 9.
+[00:42] [Receptionist]: Okay, let me get someone that is in the office because I am at the Macon office, so just one second. So, let me find... I'm sorry, your name?
+[00:58] [Namrata]: My name is Namrata, I'm the court reporter.
+[01:04] [Receptionist]: You're the what?
+[01:05] [Namrata]: Court reporter.
+[01:08] [Receptionist]: Gold reporter?
+[01:09] [Namrata]: Court, C-O-U-R-T, court.
+[01:13] [Receptionist]: Call reporter?
+[01:14] [Namrata]: Court, C-O-U-R-T, court.
+[01:18] [Receptionist]: Court reporter. Oh, okay. One second.
+
+========================================
+TRANSCRIPT END
+========================================

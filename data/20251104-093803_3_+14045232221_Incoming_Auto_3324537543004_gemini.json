@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller notified the firm of a lost phone and provided an updated email address. The receptionist confirmed the contact information and initiated a transfer to the case manager.",
+    "call_duration_seconds": 77.62,
+    "call_duration_formatted": "01:17"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated intent to transfer the caller to their case manager and the call ended immediately afterward."
+  }
+}

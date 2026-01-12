@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Ben and Associates: 9 turns
+  • Speaker 2 / Sadie Hill / Role: Client: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Ben and Associates, this is Daniel.
+[00:06] [Sadie Hill]: Ah, hi. This is, um, Sadie Hill. And I need to get an appointment to come in.
+[00:14] [Receptionist]: Okay. May I have your phone number please?
+[00:20] [Sadie Hill]: 404-481-8079.
+[00:26] [Receptionist]: Okay. And are you a client? Well, yes, you are a client. But I mean, are- are we representing you on a- on a case right now?
+[00:45] [Sadie Hill]: No, that case was settled. I got- I got something else going on.
+[00:52] [Receptionist]: Okay. Okay, let me verify, um... well, in this case you can just let me know what time and what day you would like to go to the office and I can send an email so we can schedule the appointment.
+[01:05] [Sadie Hill]: Oh, okay. Can I come in tomorrow?
+[01:09] [Receptionist]: Okay, tomorrow around what time?
+[01:12] [Sadie Hill]: Uh, 11:00?
+[01:14] [Receptionist]: AM?
+[01:16] [Sadie Hill]: Yes. Y'all know me.
+[01:18] [Receptionist]: Okay. Okay, I will be sending this email so they can, um, receive you by tomorrow, okay?
+[01:26] [Sadie Hill]: Okay.
+[01:28] [Receptionist]: Okay, thank you.
+[01:31] [Sadie Hill]: Thank you.
+[01:33] [Receptionist]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

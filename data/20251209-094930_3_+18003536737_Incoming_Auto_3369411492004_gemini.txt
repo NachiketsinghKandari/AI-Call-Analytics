@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Serina / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Brian / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Serina speaking, how can I help you?
+[00:05] [Brian]: Hey, uh, good morning. This is, uh, Brian with Kemper Insurance. Um, calling about a mutual customer, last name is Lee, uh, Zibion Lee.
+[00:21] [Receptionist]: Can I have the spelling of that? Is it L-E-E or L-E-I-G-H?
+[00:26] [Brian]: L-E-E is the last name.
+[00:31] [Receptionist]: And her first name?
+[00:36] [Brian]: Yeah, Z, I, B as in boy, E as in echo, O as in Oscar, N as in Nancy.
+[00:46] [ ... Silence (12s) ... ]
+[00:58] [Receptionist]: Is that the name listed as the client or...
+[01:08] [Brian]: Yeah, that, yeah, that's the name.
+[01:12] [Receptionist]: Z as in Zulu, right? I-B-E-O-N?
+[01:18] [Brian]: Yeah, Z-I-B, B as in boy.
+[01:23] [ ... Silence (46s) ... ]
+[02:09] [Receptionist]: Does it have another name? Because I'm not— I cannot find a file with that name.
+
+========================================
+TRANSCRIPT END
+========================================

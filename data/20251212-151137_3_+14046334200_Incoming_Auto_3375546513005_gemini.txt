@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Skylar / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, this is Skylar, how can I help you?
+[00:05] [Unknown]: Yes, uh, good afternoon, uh, is Ms. Deborah Blair available?
+[00:12] [Receptionist]: I'm sorry, who?
+[00:14] [Unknown]: Deborah Blair.
+[00:17] [Receptionist]: Do you have a case number for her?
+[00:20] [Unknown]: I don't have a case, I'm a lawyer who has a case on a Gwinnett County trial calendar, uh, and just wanted to talk to her about her case. Is she available?
+[00:33] [Receptionist]: Give me a moment, just, I haven't heard about her for a long time. No, she's not available here.
+[00:43] [Unknown]: Oh, okay. How about a James Griffin O'Brien?
+[00:47] [Receptionist]: No.
+[00:49] [Unknown]: He's not there? Okay.
+[00:51] [Receptionist]: No.
+[00:52] [Unknown]: All right. Thank you. Bye.
+[00:54] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

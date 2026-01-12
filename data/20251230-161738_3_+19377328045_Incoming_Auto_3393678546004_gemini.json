@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "unknown_or_undetermined",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired if they had reached Top Dog Law. The receptionist identified the firm as Bey and Associates, and the caller disconnected after acknowledging they had the wrong number.",
+    "call_duration_seconds": 22.46,
+    "call_duration_formatted": "00:22"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

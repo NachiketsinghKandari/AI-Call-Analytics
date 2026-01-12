@@ -1,0 +1,21 @@
+{
+  "caller_type": "family_member",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": true,
+    "final_outcome": "The receptionist searched for case records for both the granddaughter and the mother, provided status updates on historical files found for each, and informed the caller that the firm could not provide representation for the new incident.",
+    "call_duration_seconds": 468.43,
+    "call_duration_formatted": "07:48"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist handled the inquiry directly after consulting with a supervisor internally."
+  }
+}

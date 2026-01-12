@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 7 turns
+  • Speaker 2 / [Cartavious Swan] / Role: Client: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kim speaking.
+[00:05] [Speaker 2]: Hey, how you doing? Someone just called this number?
+[00:11] [Receptionist]: Um, did they leave a- a message saying their name or anything?
+[00:15] [Speaker 2]: No, ma'am. I just- I just tried to answer- they called and I tried to answer and they didn't say anything, so I hung up and called back.
+[00:23] [Receptionist]: Okay, let me see if I can pull up anything.
+[00:29] [ ... Silence (17s) ... ]
+[00:46] [Receptionist]: No, sir. We- I don't have anything here that- well, on my end that anyone have reached out.
+[00:54] [Speaker 2]: Oh, okay. All right, if it- it might have been because they just- the hospital just called me, um, because I was in a car accident yesterday and they was trying to- I think that's what it was, because she just asked me would it- um, about Bain and Associates, I had to sign some paperwork.
+[01:12] [Receptionist]: Okay, can I have your name?
+[01:14] [Cartavious Swan]: Cartavious Swan.
+[01:17] [Receptionist]: Have we completed an intake with you, sir?
+[01:21] [Cartavious Swan]: No, ma'am. I just got in a car accident yesterday.
+[01:24] [Receptionist]: Okay, Swan. Okay, that- um, yes, that would be with my coworker Jesse. Let me get him for you. I do see he just texted me, let me know.
+[01:43] [Cartavious Swan]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

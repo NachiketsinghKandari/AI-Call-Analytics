@@ -1,0 +1,17 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Asset Solutions: 1 turn
+  • Speaker 2 / [Speaker 2] / Role: Unknown: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Asset Solutions, call-
+
+[00:02] [Speaker 2]: Uh, yeah, hi. Um, I'm calling to, uh, see if I could, uh, speak with, uh, someone in, uh, your, uh, billing department, please?
+
+========================================
+TRANSCRIPT END
+========================================

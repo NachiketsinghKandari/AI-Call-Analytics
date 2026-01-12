@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to be transferred to the case manager's voicemail after being informed of their unavailability, and the call ended following the transfer request.",
+    "call_duration_seconds": 66.53,
+    "call_duration_formatted": "01:06"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "voicemail_or_message_request"
+    ],
+    "description": "The receptionist offered a voicemail transfer for the unavailable staff member, which the caller accepted, and the call concluded."
+  }
+}

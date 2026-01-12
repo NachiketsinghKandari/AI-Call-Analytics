@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dinel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Yolanda Peña / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Dinel.
+[00:07] [Yolanda Peña]: Yes, hi. Um, is this, uh, is this the office or is this an answering service?
+[00:12] [Receptionist]: Office.
+[00:14] [Yolanda Peña]: Okay. Is Miss Green or Miss Green's assistant in this morning?
+[00:19] [Receptionist]: I'm sorry, you're calling from where?
+[00:23] [Yolanda Peña]: Uh, I'm sorry, my name's Yolanda Peña, I'm a court reporter in Baton Rouge.
+[00:29] [ ... Silence (10s) ... ]
+[00:39] [Receptionist]: Are you calling for a particular case?
+[00:41] [Yolanda Peña]: Uh, yes, let's see, Miss, uh, Green's client is Berklin Scott.
+[00:51] [Receptionist]: Can you spell the first name?
+[00:53] [Yolanda Peña]: Berklin.
+[00:57] [Receptionist]: Yes, can you spell it?
+[00:58] [Yolanda Peña]: B-E-R-K-E-L-I-N.
+[01:06] [ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

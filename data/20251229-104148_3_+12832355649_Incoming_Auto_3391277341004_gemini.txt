@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Gerald Coston / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, what can I do for you?
+[00:05] [Gerald Coston]: Hello?
+[00:07] [Receptionist]: Yes, Bey and Associates?
+[00:10] [Gerald Coston]: Yes, this is Gerald Coston. I'm checking up on a— I'm checking up on a case.
+[00:21] [Receptionist]: Can I have your name, sir?
+[00:24] [Gerald Coston]: Gerald, G-E-R-A-L-D, Coston, C-O-S-T-O-N.
+[00:30] [ ... Silence (23s) ... ]
+[00:53] [Receptionist]: Gerald and your last name?
+[00:56] [Gerald Coston]: Coston, C-O-S-T-O-N.
+[01:00] [ ... Silence (13s) ... ]
+[01:13] [Receptionist]: All right, the case manager is Lonnie, but she is not available right now and I believe that she won't be available until next week due to the holidays.
+[01:24] [Gerald Coston]: Right. Okay.
+[01:26] [Receptionist]: Yes, sir. If you want, I can give you her email?
+[01:29] [Gerald Coston]: Um, I'll just call back sometime next week.
+[01:33] [Receptionist]: All right. Perfect. Thank you. Have a good one.
+[01:35] [Gerald Coston]: Yes, ma'am. Yes, ma'am. You too.
+[01:37] [Receptionist]: You too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

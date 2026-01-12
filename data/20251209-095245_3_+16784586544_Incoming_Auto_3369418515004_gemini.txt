@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tashaun / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Dr. Deborah Little / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:03] [Receptionist]: Bey and Associates, this is Tashaun, how may I help you?
+[00:07] [Dr. Deborah Little]: Hi Tashaun, it's Dr. Deborah Little. How are you today?
+[00:10] [Receptionist]: I'm doing great, ma'am. How are you? Thank you for asking.
+[00:13] [Dr. Deborah Little]: Oh, you're welcome. I was calling to find out if you guys are having a, um, a chiropractor of Christmas party this year, and I typically have patients together.
+[00:27] [Receptionist]: Okay. Are you calling regarding a specific client, ma'am?
+[00:33] [Dr. Deborah Little]: No, it's not settled yet. No. But I was calling to see, trying to get my schedule together, to see if you guys are having any Christmas celebrations this year.
+[00:44] [Receptionist]: Um, you want to know if we're having any Christmas celebrations. Um, okay. That would be with the case manager. Do you have Ms. Brittany's email? She would be the best person.
+[00:56] [Dr. Deborah Little]: Who is that?
+[00:58] [Receptionist]: Her name is Brittany Lawson. She is the office manager, sorry.
+[01:04] [Dr. Deborah Little]: Okay. Brittany Lawson. All right. Does she have a phone number?
+[01:09] [Receptionist]: Um, she does have— the best way to contact Ms. Brittany is via email. Um, I can provide that for you.
+[01:16] [Dr. Deborah Little]: All right.
+[01:17] [Receptionist]: It's Brittany at beyandassociates.com.
+[01:23] [Dr. Deborah Little]: Okay, and that's Bey and Associates, A-N-D?
+[01:27] [Receptionist]: That is correct. B-E-Y-A-N-D associates dot com.
+[01:33] [Dr. Deborah Little]: Okay. Brittany is spelled B-R-I-T-T-N-E-Y?
+[01:40] [Receptionist]: Yes, at the end.
+[01:42] [Dr. Deborah Little]: B-R-I-T-T-N-E-Y.
+[01:45] [Receptionist]: That is correct, ma'am.
+[01:46] [Dr. Deborah Little]: Okay. All right. Thank you.
+[01:48] [Receptionist]: All righty.
+[01:49] [Dr. Deborah Little]: Okay. Take care. All right. Bye-bye.
+[01:51] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

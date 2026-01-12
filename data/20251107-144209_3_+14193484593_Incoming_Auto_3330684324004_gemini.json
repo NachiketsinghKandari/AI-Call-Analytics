@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist investigated the status of the caller's settlement check, informed the caller that the check had been cut on the 30th but its current location was unknown, and took a message for the attorney to provide a follow-up.",
+    "call_duration_seconds": 478.37,
+    "call_duration_formatted": "07:58"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist placed the caller on hold to check internal records and staff availability before taking a message."
+  }
+}

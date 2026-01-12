@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "document_and_evidence_submission",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller stated he had completed a medical records form, and the receptionist initiated a transfer to a specific staff member named Victoria before the call ended.",
+    "call_duration_seconds": 48.67,
+    "call_duration_formatted": "00:48"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist identified the appropriate staff member to handle the caller's document submission and stated she was getting her for the caller; the call ended immediately after."
+  }
+}

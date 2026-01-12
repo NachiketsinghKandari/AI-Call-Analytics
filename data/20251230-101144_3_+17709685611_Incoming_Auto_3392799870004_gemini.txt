@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Deshaun / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Megan / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, this is Deshaun, how can I help you?
+[00:04] [Megan]: Hi, good morning. My name is Megan. I'm calling from AIC Orthopedics in Jonesboro. I was wanting to confirm representation for a patient.
+[00:13] [Receptionist]: The patient?
+[00:15] [Megan]: Adrian Yumans.
+[00:17] [Receptionist]: Okay, let me see. Adrian. A-D-R-I-E-N-N-E?
+[00:39] [Megan]: Let me see. One second. A-D-R-I-A-N.
+[00:45] [Receptionist]: And you said the last name is...
+[00:49] [Megan]: Yumans. Y-O-U-M-A-N-S.
+[00:54] [Receptionist]: Is she a minor?
+[01:14] [Megan]: No, he's not.
+[01:18] [Receptionist]: Because I have other names, but not with Adrian. Give me one moment, let me see. Y-O-U-M-A-N-S?
+[01:39] [Megan]: Yes, ma'am.
+[01:41] [Receptionist]: Okay, got it here. Adrian Yumans. Can I have the date of loss?
+[01:51] [Megan]: Yes, ma'am. Um, date of accident is 12/23/2025.
+[02:01] [ ... Silence (24s) ... ]
+[02:25] [Receptionist]: It's not coming up at all. I don't see any file with that name.
+[02:31] [Megan]: Okay. Then I will, um, just verify again with the patient.
+[02:35] [Receptionist]: Yes, please. Thank you.
+[02:37] [Megan]: Thank you. Have a great one.
+[02:39] [Receptionist]: Thank you, likewise. Bye-bye.
+[02:41] [Megan]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

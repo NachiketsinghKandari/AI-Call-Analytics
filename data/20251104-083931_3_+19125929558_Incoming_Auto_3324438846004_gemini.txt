@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 7 turns
+  • Speaker 2 / [Daniel Smith] / Role: Client: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kim speaking.
+[00:03] [Daniel Smith]: Yes ma'am, I was gonna see about um I was trying to speak with the lady to see about how my case was going. If there's anything she might need from me.
+[00:12] [Receptionist]: Okay, can I have your name, sir?
+[00:15] [Daniel Smith]: It's Daniel Smith.
+[00:18] [Receptionist]: Alrighty.
+[ ... Silence (6s) ... ]
+[00:24] [Daniel Smith]: It's just a Blackstone case.
+[00:27] [Receptionist]: Okay. Daniel Brent Smith?
+[00:33] [Daniel Smith]: Yes ma'am.
+[00:35] [Receptionist]: Alrighty. [ ... Silence (15s) ... ] Mr. Smith, um, Ms. Berlin is not available right now. I can have her reach out to you once she is. Would you like to leave her a voicemail also?
+[01:02] [Daniel Smith]: Uh no, that'd be fine. So she- she can just reach out to me whenever- whenever she gets a chance.
+[01:07] [Receptionist]: Alright then, I'll let her know.
+[01:10] [Daniel Smith]: Thank you.
+[01:12] [Receptionist]: You're welcome. Have a great day. Bye-bye.
+[01:15] [Daniel Smith]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

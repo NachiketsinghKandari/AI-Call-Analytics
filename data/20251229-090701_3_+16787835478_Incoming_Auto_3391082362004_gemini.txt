@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Zoe / Role: Caller from Progressive Insurance: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:04] [Zoe]: Hi, good morning. This is Zoe calling with Progressive Insurance, calling on behalf of Morgan Williams, trying to speak to Matt Mc- Mc- McCaren?
+[00:16] [Receptionist]: What was that client's name?
+[00:18] [Zoe]: Morgan Williams.
+[00:22] [Receptionist]: Just one sec, I'll look that up right now.
+[00:25] [Zoe]: Okay, thank you.
+[00:28] [ ... Silence (7s) ... ]
+[00:36] [Receptionist]: So the- the case manager is Paige Almon. Uh, Matt is just the- he's the COO, so he's someone that's in case the case manager is not in, they always add him on the LOR. So I'll get her, um, on the line for you once-
+[00:52] [Zoe]: What's her name? Pay-?
+[00:54] [Receptionist]: Paige. Yeah, P-A-Y-G-E.
+[00:58] [Zoe]: And last name?
+[01:00] [Receptionist]: Almon, like the- the nut, but without the D. A-L-M-O-N. All right, let me get you- do you want her direct number also?
+[01:12] [Zoe]: Um, yes.
+[01:14] [Receptionist]: 470-615-0715.
+[01:23] [Zoe]: Okay, thank you.
+[01:25] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

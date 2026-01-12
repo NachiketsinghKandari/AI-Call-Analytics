@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at The Associates: 7 turns
+  • Speaker 2 / [Bryson Lax] / Role: Attorney with Growth Mock Rinko Kaiser Idex: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hi, this is the associates, Kim speaking?
+
+[00:04] [Bryson Lax]: Uh, good morning. My name is Bryson Lax. I'm an attorney with Growth Mock Rinko Kaiser Idex. Uh, I'm trying to find out who- who do you have working a case over there?
+
+[00:16] [Receptionist]: Okay. Can I have the client's name?
+
+[00:19] [Bryson Lax]: Uh, it'll either be Hazel Alilitaris, Hazel Litaris. I have it spelled both ways.
+
+[00:30] [Receptionist]: Uh, okay. I got it. It's, um, Kevin Love.
+
+[00:38] [Bryson Lax]: Okay, because we had Daryl Ford. I was like, I think Daryl Ford said he was leaving.
+
+[00:45] [Receptionist]: Yeah, he's no longer with us. Um, but this one is the case, um, the paralegal. Let me see who is the- it's loading, just one second. The...
+
+[01:02] [Bryson Lax]: It should be four different files, I think. I got four of them over here.
+
+[01:05] [Receptionist]: Yeah, let me see. I'm trying to see who is the- the attorney on it. Um... [ ... Silence (17s) ... ] I'm not sure why this is not loading. One second. Okay. Okay, so paralegal, okay, so litigation attorney would be, um, Taylor Middleton.
+
+[01:49] [Bryson Lax]: Is there any chance I can speak with him?
+
+[01:52] [Receptionist]: Okay, I can get- I can get, um, I can send you over to Mr. Love.
+
+[02:02] [Bryson Lax]: Okay. That'll work too. I'm just trying to see what we had on this.
+
+[02:07] [Receptionist]: All right. Sending you over, sir. You have a great rest of your day.
+
+[02:15] [Bryson Lax]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,71 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bank of America: 27 turns
+  • Speaker 2 / [Kawajhai Warren] / Role: Client: 28 turns
+
+----------------------------------------
+
+[00:14] [Receptionist]: Thank you for calling Bank of America. This is Devin speaking.
+[00:16] [Kawajhai Warren]: Uh, I'm just trying to get a hold of my lawyer.
+[00:21] [Receptionist]: Sure, what is your first and last name?
+[00:25] [Kawajhai Warren]: Hi, this is Ms. Warren.
+[00:29] [Receptionist]: Ms. Warren, last name?
+[00:33] [Kawajhai Warren]: Yes, I was a Warren.
+[00:39] [Receptionist]: And your first name?
+[00:41] [Kawajhai Warren]: K-A-W-A-J-H-A-I.
+[00:47] [ ... Silence (7s) ... ]
+[00:54] [Receptionist]: Uh, Ms. Warren, this case was withdrawn.
+[00:59] [Kawajhai Warren]: Pardon me?
+[01:02] [Receptionist]: This case was withdrawn.
+[01:07] [Kawajhai Warren]: I'm a little... I'm a little confused. Can you explain that to me?
+[01:25] [Receptionist]: Okay, is this regarding... the only case I have here for you is one from 2018.
+[01:33] [Kawajhai Warren]: Okay, and that was closed, right? Is that correct?
+[01:42] [Receptionist]: Yes, this case was closed off.
+[01:45] [Kawajhai Warren]: Okay, okay. I still need some of the paperwork on that though, because I lost it in a fire, uh, so I kind of need that paperwork for my files.
+[02:00] [Receptionist]: Okay, so you're calling regarding to obtain your file information.
+[02:08] [Kawajhai Warren]: Pardon me? Sir, if you could just repeat that one more time, sir. I'm dealing with some technical difficulties here. I don't know if you're aware of that, so I'm just, uh, kind of filling you in if you don't mind.
+[02:33] [Receptionist]: Yeah, no, I was asking you, um, Ms. Warren, if you were calling in regards to, um, getting the file information from your case.
+[02:42] [Kawajhai Warren]: Yes, I do. I need all of that for my files. If you need the email, that's perfectly fine. I don't mind, you know, affording that over to you. I just need one more large cup. Yeah, oh no, that's fine. Hello?
+[02:57] [Receptionist]: Yes, ma'am.
+[02:58] [Kawajhai Warren]: Gracias, hasta luego. Yeah, so if you are ready for the email, do I need to, uh, give you that email?
+[03:11] [Receptionist]: Would it be to the one name amandawarren359@gmail.com?
+[03:16] [Kawajhai Warren]: Did you say 359 or 354? Because those numbers are critical to me.
+[03:21] [Receptionist]: 359.
+[03:23] [Kawajhai Warren]: That's incorrect, sir. So let me just go ahead and give you another one. Let me know when you're ready for the details.
+[03:30] [Receptionist]: I'm ready for the details.
+[03:32] [Kawajhai Warren]: levelupluxurycarsatl@gmail.com.
+[03:47] [Receptionist]: Can you repeat that? Because there's a lot of background noise going on. I can't hear you.
+[03:51] [Kawajhai Warren]: Okay, one moment. One second, okay, because I can't see my phone. One moment.
+[03:57] [ ... Silence (123s) ... ]
+[06:00] [Kawajhai Warren]: Hello? Sir?
+[06:02] [Receptionist]: Yes, ma'am.
+[06:03] [Kawajhai Warren]: Okay, uh, are you ready for that email? I'm sorry. Uh, crap. I'm sorry, my apologies. Okay, are you ready?
+[06:17] [Receptionist]: I'm ready.
+[06:18] [Kawajhai Warren]: Could you check that at level L as in lion, E as in elevate, V as in victory, E as in elevate, L as in level, U as in up, P as in Paul, L as in luxury, U as in unicorn, X as in X-ray, U as in unicorn, R as in rain, Y as in Yancy, C as in Charlie, A as in angel, R as in residual, S as in success, ATL@gmail.com.
+[07:13] [Receptionist]: So that would be levelupluxurycarsatl@gmail.com.
+[07:21] [Kawajhai Warren]: That's correct. I'm sorry, I'm receiving a call. Give me one moment. Sir? Is there anything else you need from me? And can you update my phone number and have my lawyer give me a call, please? Because I do have something I do need to talk to him about. It's about a new case.
+[07:41] [Receptionist]: Yeah, I can reach out to the attorney that's been working on this.
+[07:46] [Kawajhai Warren]: All right, thanks so much. You have a blessed day. Do you need anything else?
+[07:49] [Receptionist]: What is your phone number?
+[07:51] [Kawajhai Warren]: Oh, 404-446-6866. That's my business. And my personal is 470... or just use my business number, that's fine.
+[08:03] [Receptionist]: No problem. I'll have that put on your file. You too, ma'am.
+[08:11] [Kawajhai Warren]: Okay, did you already email that over or no?
+[08:14] [Receptionist]: That has to be requested by the attorney, so I'm requesting that right now for them to send it over to you.
+[08:20] [Kawajhai Warren]: Okay, that's perfectly fine. And who do I have the pleasure of speaking with today?
+[08:24] [Receptionist]: Yes, today my name is Devin.
+[08:27] [Kawajhai Warren]: Sammy?
+[08:29] [Receptionist]: Devin.
+[08:31] [Kawajhai Warren]: Seven?
+[08:33] [Receptionist]: Yeah, Devin. D-E-V-I-N.
+[08:37] [Kawajhai Warren]: Oh, Devin! Okay, you have a blessed day, Devin. Thanks for your time and concern. And, uh, did you set up an appointment with me and him? Did you schedule a call back?
+[08:48] [Receptionist]: No, ma'am.
+[08:49] [Kawajhai Warren]: Okay, well could you also schedule a call back if you can?
+[08:52] [Receptionist]: Okay, no problem.
+[08:54] [Kawajhai Warren]: All right, thank you. Have a blessed day. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

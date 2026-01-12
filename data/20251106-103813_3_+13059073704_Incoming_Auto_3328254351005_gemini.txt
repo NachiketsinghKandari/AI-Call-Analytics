@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bae and Associates: 6 turns
+  • Speaker 2 / [Speaker 2] / Role: Representative at United Automobile Insurance Company: 6 turns
+
+----------------------------------------
+
+[00:03] [Receptionist]: Bae and Associates, good morning, this is...
+[00:06] [Speaker 2]: Yes, good um morning. I'm calling from United Automobile Insurance Company. I was trying to speak to I believe it's Darnell Lopez in regards to the claim Martha Starks.
+[00:17] [Receptionist]: [ ... Silence (5s) ... ] Martha Starks. Okay. Um, what's the client's name?
+[00:25] [Speaker 2]: The client is Martha, last name is Starks, S-T-A-R-K-S.
+[00:34] [Receptionist]: Okay. So the case manager working this is Paige Almon.
+[00:42] [Speaker 2]: Okay, could I speak to Paige, please?
+[00:44] [Receptionist]: Yes ma'am, let me go ahead and get you over.
+[00:48] [Speaker 2]: Thank you.
+[00:53] [Receptionist]: And I'm sorry, I didn't catch where you were calling from?
+[00:59] [Speaker 2]: United Automobile Insurance Company.
+[01:02] [Receptionist]: All right, one sec.
+[01:04] [Speaker 2]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

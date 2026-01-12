@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jassy / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Michael Brail / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates. My name is Jassy. How can I assist you?
+[00:07] [Michael Brail]: Uh, yes. I was trying to reach the attorney for a case that's Adeduro, A-D-E-D-U-R-O, versus SBJ Inc.
+[00:22] [Receptionist]: Understood. Are you our client, sir?
+[00:25] [Michael Brail]: I'm the attorney on the other side of the case.
+[00:28] [Receptionist]: Got it. Got it. Understood. All right. Perfect. Let me help you with this. Uh, what is the name of the client again, sorry?
+[00:35] [Michael Brail]: The last name is Adeduro. A-D-E-D-U-R-O.
+[00:44] [Receptionist]: Give me one moment.
+[ ... Silence (15s) ... ]
+[00:59] [Receptionist]: Yes. Let me confirm with you that the date of the accident was June the 15th of 2023?
+[01:06] [Michael Brail]: Correct.
+[01:08] [Receptionist]: Understood. Perfect. Let me help you with this. Um, do you allow me— what is your name again, sorry?
+[01:14] [Michael Brail]: My name is Michael Brail.
+[01:18] [Receptionist]: Michael Brail. Perfect. Got it. There is a case manager assigned, sir. Let me see if she's available at the moment. Do you allow me to place you on a brief hold for one minute?
+[01:27] [Michael Brail]: That'd be fine. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

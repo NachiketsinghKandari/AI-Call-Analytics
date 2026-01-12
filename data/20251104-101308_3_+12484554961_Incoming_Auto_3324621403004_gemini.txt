@@ -1,0 +1,66 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 21 turns
+  • Speaker 2 / Vanessa / Role: Employee at Team Rehab: 21 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Gavin speaking, how can I help you?
+[00:04] [Vanessa]: Hi Gavin, uh good morning. My name is Vanessa. I'm calling from Team Rehab. Um, I have a- a weird situation that I need assistance with. Um, a while back your firm told us Team Rehab that, I guess the- you guys transferred the file over to Calvin Smith Law, Daniel Johnson. Um, but now I have Daniel Johnson from Calvin Smith saying that he does not and never represented this patient and we're stuck with a high bill. So I just- I need to speak to someone to just to confirm information basically.
+[00:30] [Receptionist]: Okay. What client are we talking about?
+[00:32] [Vanessa]: Uh, Eugene Hudson.
+[00:35] [ ... Silence (12s) ... ]
+[00:47] [Receptionist]: What was the date of the loss?
+[00:49] [Vanessa]: Uh, March 7, 2022.
+[00:53] [ ... Silence (5s) ... ]
+[00:58] [Vanessa]: I'm gonna get- I'm gonna get the- oh, it was Mabel that let us know.
+[01:02] [ ... Silence (11s) ... ]
+[01:13] [Receptionist]: Well, as I can see, this case is still being handled under our hands.
+[01:19] [Vanessa]: Oh, okay.
+[01:20] [Receptionist]: It was never- it was never transferred. So there still haven't been any type of, um, settlement yet. This- this is still in litigation.
+[01:30] [Vanessa]: Yeah, that's what I have. That it's in litigation, but then Mabel- I'm trying to get the date, but Mabel from the office, uh, said- she was the one that wrote to us that it's being handled by Bain and Associates. Sorry, by- to- by Calvin Smith for the litigation.
+[01:49] [Receptionist]: Oh.
+[01:50] [Vanessa]: So maybe it never went?
+[01:52] [Receptionist]: No, it didn't. I- I don't think it ever did. This was reassigned to another attorney, um, under our hands.
+[02:01] [Vanessa]: Oh, okay.
+[02:02] [Receptionist]: And, yeah. Let me see what I have here. Um...
+[02:05] [Vanessa]: I have- so Daniel Johnson, does he work for Bain and Associates?
+[02:11] [ ... Silence (5s) ... ]
+[02:16] [Vanessa]: 'Cause his email is from Calvin Smith. Yeah.
+[02:20] [Receptionist]: No.
+[02:21] [Vanessa]: No.
+[02:22] [Receptionist]: No, he does not work for Bain and Associates.
+[02:24] [Vanessa]: Okay. So, and- and can you confirm with me you have the bill and records on file?
+[02:29] [Receptionist]: Let me take a look.
+[02:31] [ ... Silence (7s) ... ]
+[02:38] [Receptionist]: Okay, so we do have the records and billing.
+[02:43] [Vanessa]: Mm-hmm.
+[02:44] [Receptionist]: Yeah, we do. I- I see an amount here listed for 24.
+[02:48] [Vanessa]: Yep, 24,095. That's what I have as well.
+[02:52] [Receptionist]: Perfect.
+[02:54] [Vanessa]: Okay.
+[02:56] [Vanessa]: So I'm just gonna flip the account back to you guys then. Uh, I don't know why, maybe it was confused. I don't know. Um, I'm gonna switch it over and update it.
+[03:09] [Receptionist]: Yeah, I don't know what- what would have happened at that moment.
+[03:13] [Vanessa]: Yeah.
+[03:14] [Receptionist]: Yeah, I don't know what happened at that moment.
+[03:18] [Vanessa]: Yeah.
+[03:19] [Receptionist]: But, um, not sure. Yeah, this- this client is still under our firm.
+[03:26] [Vanessa]: Okay. And then who's the attorney on there?
+[03:30] [Receptionist]: Taylor Middleton.
+[03:32] [Vanessa]: I'm sorry, what is it?
+[03:34] [Receptionist]: And the- Taylor Middleton.
+[03:37] [Vanessa]: Oh, Taylor Middleton. Gotcha. I'm gonna update that. And then is there a case manager that I should be sending requests to?
+[03:43] [Receptionist]: Lillian Breland.
+[03:45] [Vanessa]: Lillian.
+[03:47] [Receptionist]: Breland.
+[03:48] [Vanessa]: Perfect. Thank you so much for your help today. I hope you have a wonderful Tuesday.
+[03:56] [Receptionist]: You too. Have a great one.
+[03:58] [Vanessa]: Bye. You too.
+[03:59] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

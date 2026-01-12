@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller contacted the firm to return a call from an unidentified staff member. After the receptionist gathered the caller's name and asked for 'one second,' the call ended without a transfer or any other operational resolution.",
+    "call_duration_seconds": 56.66,
+    "call_duration_formatted": "00:56"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was initiated or attempted before the call ended."
+  }
+}

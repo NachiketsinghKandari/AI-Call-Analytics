@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Iris / Role: Caller from Auto-Owners Insurance: 10 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, how may I help you?
+[00:04] [Iris]: Hi, this is Iris, I'm calling from Auto-Owners Insurance. How are you?
+[00:08] [Receptionist]: I'm well, how are you?
+[00:09] [Iris]: I'm doing good, thank you. I am following up with you regarding your client, Kaitai McIntosh, that's K-A-I-T-A-I McIntosh.
+[00:22] [Receptionist]: I'm looking now. How do you spell McIntosh?
+[00:24] [Iris]: Um, M-C-I-N-T-O-S-H. And date of loss was 9/25/25.
+[00:31] [Receptionist]: Yes. I have the file up.
+[00:33] [Iris]: Okay, great. Calling to get her, her date of birth and social security number and her treatment status at this time?
+[00:46] [Receptionist]: She's three, so her date of birth is September 8th, 2022.
+[00:53] [Iris]: Okay. And do you have her social number at this time?
+[00:57] [Receptionist]: 030-95-3159.
+[01:07] [Iris]: All righty. And her treatment status.
+[01:09] [Receptionist]: It looks like, I think she just got checked out at Piedmont, uh, Northside Macon. Um, we don't have the, the records yet, but they've been requested.
+[01:21] [Iris]: Okay. All righty then, we'll just then wait for your, your demand for her then.
+[01:26] [Receptionist]: Okay.
+[01:27] [Iris]: Okay. And I'm sorry, what is your first name?
+[01:29] [Receptionist]: Matt.
+[01:30] [Iris]: Matt. Thank you so much, Matt, for your help this morning. I greatly appreciate it.
+[01:34] [Receptionist]: All right, take care.
+[01:35] [Iris]: All right. You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

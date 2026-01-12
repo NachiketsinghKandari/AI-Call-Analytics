@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Shakeia / Role: Caller from Progressive: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angel, how may I help you?
+[00:05] [Shakeia]: Um, my name is Shakeia, I'm calling from Progressive. I was calling to see if I could be connected to Attorney Kadeem Gibson about Julie Downey.
+[00:17] [Receptionist]: Let's see.
+[00:19] [ ... Silence (14s) ... ]
+[00:33] [Receptionist]: Um, just to confirm, how do you spell that last name, Downey?
+[00:39] [Shakeia]: Downey is D-O-W-N-I-E.
+[00:44] [Receptionist]: Okay, Downey. All right, let's see if the attorney's ready. May I know the reason why you wish to speak with him?
+[00:59] [Shakeia]: This is in regards to settlement.
+[01:03] [Receptionist]: Okay. One moment please.
+[01:07] [ ... Silence (6s) ... ]
+[01:13] [Receptionist]: Thank you for your stay on the line. It looks like that at this moment, Kadeem is busy with another thing. He says to please leave your name, telephone number on his voice message and he will call you back as soon as he gets like ready, resolve the issue that he's working on. So I will transfer you over, you can leave your name and all your information, okay? He'll call you back.
+[01:45] [Shakeia]: Okay, thank you.
+[01:47] [Receptionist]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

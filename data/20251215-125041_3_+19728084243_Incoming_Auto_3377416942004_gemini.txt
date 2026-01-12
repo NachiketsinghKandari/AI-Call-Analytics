@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Kaymie / Role: Receptionist at Bey and Associates: 13 turns
+  • [Tequila Marshall] / Tequila Marshall / Role: Caller from Liberty Mutual: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kaymie speaking.
+[00:04] [Tequila Marshall]: Hi, yes, are you able to hear me?
+[00:08] [Receptionist]: Hello?
+[00:09] [Tequila Marshall]: Yes, ma'am, I'm able to hear you.
+[00:12] [Receptionist]: Okay.
+[00:13] [Tequila Marshall]: Okay, hi. I'm calling with Liberty Mutual. I'm following up on a release for Denzel, last name is M-U-T-L-A-Q.
+[00:23] [Receptionist]: Okay. This would be with Paige Allman. Let me get her for you.
+[00:37] [Tequila Marshall]: Okay, thank you.
+[00:40] [Receptionist]: You said that you are following up on a what?
+[00:42] [Tequila Marshall]: Release.
+[00:43] [Receptionist]: Release. Okay. One second.
+[00:45] [ ... Silence (8s) ... ]
+[00:53] [Receptionist]: Hello?
+[00:54] [Tequila Marshall]: Yes.
+[00:55] [Receptionist]: Um, so the release is all— is ready. It's already signed and ready. Can I have a good fax number we can go ahead and fax that over to you guys?
+[01:08] [Tequila Marshall]: We'll take email.
+[01:11] [Receptionist]: Okay, I'm ready.
+[01:13] [Tequila Marshall]: Tequila, T-E-Q-U-I-L-A, M-A-R-S-H-A-L-L at libertymutual.com.
+[01:29] [Receptionist]: Tequila Marshall at libertymutual.com?
+[01:34] [Tequila Marshall]: Tequila.Marshall, I'm sorry, I left the dot off. Tequila.Marshall at libertymutual.com.
+[01:45] [Receptionist]: Okay. All right, I'll have Paige go ahead and send that over in just a sec.
+[01:51] [Tequila Marshall]: Okay, and your name?
+[01:53] [Receptionist]: Kaymie, K-A-Y-M-I-E.
+[01:56] [Tequila Marshall]: Thank you.
+[01:57] [Receptionist]: You're welcome. Bye-bye.
+[01:59] [Tequila Marshall]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

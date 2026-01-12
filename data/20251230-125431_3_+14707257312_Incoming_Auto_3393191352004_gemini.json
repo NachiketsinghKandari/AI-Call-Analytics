@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the assigned paralegal and initiated a transfer to address the caller's case status inquiry, and the call ended immediately afterward.",
+    "call_duration_seconds": 57.17,
+    "call_duration_formatted": "00:57"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist identified the paralegal assigned to the case and asked the caller to wait while she initiated the transfer."
+  }
+}

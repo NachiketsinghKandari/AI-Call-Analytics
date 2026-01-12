@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the client that the assigned staff were unavailable, provided a brief status update regarding case reductions, provided a direct phone number for a staff member, and scheduled a callback for the following Monday.",
+    "call_duration_seconds": 319.32,
+    "call_duration_formatted": "05:19"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during the call."
+  }
+}

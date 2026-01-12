@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Tiffany Smith / Role: Caller from Progressive: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Emma. How can I help you?
+[00:03] [Tiffany Smith]: Hey Emma, it's Tiffany over here at Progressive. I'm calling to present offers for two of your clients. Um, the first name is W-E, the last name is E-H.
+[00:18] [Receptionist]: May I have your last name, Tiffany?
+[00:20] [Tiffany Smith]: Smith.
+[00:24] [Receptionist]: All right. How can I assist further?
+[00:29] [Tiffany Smith]: Okay, did you hear what I just stated? I was calling to present offers.
+[00:36] [Receptionist]: I found W-E's case. It's currently in the pre-lit demand phase, which means we've sent a demand to the insurance company. The case manager is Paige Almon. How can I assist you further regarding this case?
+[00:49] [Tiffany Smith]: Can you connect me to Paige?
+[00:52] [Receptionist]: The case manager, Paige Almon, isn't currently available. Let me take a message for you. What would you like me to pass along?
+[01:05] [Tiffany Smith]: Do you have a email address for her?
+[01:09] [Receptionist]: Yes, I do. Her email address is P-A-Y-G-E at Bey and Associates dot com.
+[01:17] [Tiffany Smith]: Can you repeat that?
+[01:19] [Receptionist]: Certainly. Her email address is P-A-Y-G-E at Bey and Associates dot com.
+[01:26] [Tiffany Smith]: Okay, I'll send her a email. Thank you.
+[01:29] [Receptionist]: You're welcome. Thank you for calling. Have a great day.
+
+========================================
+TRANSCRIPT END
+========================================

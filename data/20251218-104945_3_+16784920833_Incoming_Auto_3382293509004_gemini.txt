@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Carlotta Hughes / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel.
+[00:04] [Carlotta Hughes]: Good morning.
+[00:06] [Receptionist]: Good morning.
+[00:07] [Carlotta Hughes]: Now, if you want me to, I will, when I come back. Hold on one second. Hello? I'm sorry, Bey and Associates again?
+[00:21] [Receptionist]: Yes.
+[00:22] [Carlotta Hughes]: Yeah, I was disconnected a while ago. Um, I was transferred to a voicemail. I need to speak to a live representative. I don't have time to keep leaving messages. I've been doing that for two months. I'm not willing to leave a message today. Can you transfer me to someone else, please?
+[00:39] [Receptionist]: Um, yeah, give me one moment. May I have your phone number, please?
+[00:46] [Carlotta Hughes]: I'm sorry, what do you need? Say it again?
+[00:48] [Receptionist]: Your phone number, please?
+[00:51] [Carlotta Hughes]: 678-492-0833. And my name is Carlotta Hughes.
+[00:59] [Receptionist]: Okay, give me one moment.
+
+========================================
+TRANSCRIPT END
+========================================

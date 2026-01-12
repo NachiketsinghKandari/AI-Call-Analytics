@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / [Receptionist] / Role: Receptionist at Bain and Associates: 5 turns
+  • Speaker 2 / Sam Truman / Role: Progressive Insurance representative: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kimmy speaking.
+[00:07] [Sam Truman]: Hello, my name is Sam Truman with Progressive Insurance. Um, we have a mutual customer, Eliza, Elizia Abdelrazak, I can spell that name if need be. Um, but I believe Matt's my point of contact, I just had a really quick, I want to give him some information for medical.
+[00:30] [Receptionist]: Okay, okay, that would be with actually with Tiana. Let me get her for you.
+[00:36] [Sam Truman]: Awesome, thank you.
+[00:42] [Receptionist]: Sir, Tiana was not available. Would you like to leave her a voicemail?
+[00:47] [Sam Truman]: Uh, sounds like a plan. I appreciate it. Yeah.
+[00:51] [Receptionist]: All right, I will go ahead and transfer you over. You have a great rest of your day.
+[00:58] [Sam Truman]: You too.
+[00:59] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

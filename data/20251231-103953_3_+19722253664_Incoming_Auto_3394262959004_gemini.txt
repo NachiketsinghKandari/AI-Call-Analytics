@@ -1,0 +1,18 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:06] [ ... Silence (6s) ... ]
+[00:12] [Receptionist]: Sorry, can you hear me? Hello?
+[00:15] [ ... Silence (8s) ... ]
+[00:22] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help? Sorry, since I was unable to hear, I will need to go ahead and disconnect this call. Can you hear me? Sorry, since I was unable to hear, I will need to go ahead and disconnect this call. Can you hear me? Sorry, I can't hear you. So if you have any questions or something, you're more than welcome to give us a call back at some other time.
+
+========================================
+TRANSCRIPT END
+========================================

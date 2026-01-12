@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates Law Firm: 12 turns
+  • Speaker 2 / [Andreas] / Role: Caller from Hope Neurology: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bay and Associates Law Firm. My name is Fatima. How may I assist you today?
+[00:09] [Andreas]: Hi, good afternoon, Fatima. My name is Andreas. I'm calling from Hope Neurology. Uh, I'm calling to try to get a case manager email address for a mutual client. Uh, her name is Carrie Fleming.
+[00:18] [Receptionist]: Oh, absolutely. What is the client's name?
+[00:20] [Andreas]: Carrie Fleming.
+[00:21] [Receptionist]: One moment, please, let me pull up her file.
+[00:23] [Andreas]: Thank you.
+[00:24] [Receptionist]: You're welcome.
+[00:25] [ ... Silence (8s) ... ]
+[00:33] [Receptionist]: The date of loss was on October the 27th.
+[00:36] [Andreas]: Let me check.
+[00:37] [ ... Silence (7s) ... ]
+[00:44] [Andreas]: Uh, October 28th is what I have.
+[00:46] [Receptionist]: It is the 28th. Okay, we have it on the 27th. And the case manager is Ms. Taiwana. I'll spell her name for you.
+[00:58] [Andreas]: Okay.
+[01:01] [Receptionist]: T as in Tom, Y as in yellow, A as in apple, U as in umbrella, N as in Nancy, A as in apple. At bayandassociates.com. And it's spelled out A-N-D. And her last name is Evans.
+[01:29] [Andreas]: Uh, I have Carrie Fleming. Only first name Carrie, last name Fleming. Okay, uh, you're giving me the case manager's last name, right?
+[01:39] [Receptionist]: Yes.
+[01:41] [Andreas]: Okay, so what's her first name?
+[01:43] [Receptionist]: T as in Tom, Y as in yellow, A as in apple, U as in umbrella, N as in Nancy, A as in apple. Taiwana. And her last name is Evans. E as in echo, V as in victor, A, N as in Nancy, S as in Sam. And her email is just her name, Taiwana at bayandassociates.com. And it's spelled out A-N-D.
+[02:26] [Andreas]: Okay, so her email is T- is her first name, T-Y-A-U-N-A at bayandassociates, all together, like B-E-Y- A-N-D- A-S-S- O-S-I- A-T-E-S.com?
+[02:46] [Receptionist]: It's actually after S-S-O is C as in Charlie.
+[02:53] [Andreas]: Okay, yeah, for associates.
+[02:56] [Receptionist]: Right, associates.com.
+[02:58] [Andreas]: Got it. Thank you so much. I appreciate it.
+[03:01] [Receptionist]: You're welcome. Have a great day. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

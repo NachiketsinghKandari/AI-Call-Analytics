@@ -1,0 +1,61 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Lionel / Role: Receptionist at Bey and Associates: 8 turns
+  • [Spencer] / Spencer / Role: Attorney at Gullett Sanford: 18 turns
+  • [John Bey] / John Bey / Role: Attorney at Bey and Associates: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how may I help you?
+[00:05] [Spencer]: Hey there, is uh, is John Bey available? I'm an attorney calling to talk with him about a case.
+[00:12] [Receptionist]: Uh, let me see if he's available. What case you calling about, sir?
+[00:15] [Spencer]: This is Graybar, my client is Graybar, and uh, your his client is Sherice Robinson. This is a case in the Eastern District of Tennessee.
+[00:29] [Receptionist]: Uh, I see Sherice Robinson v. Chancellor Prescott et al.
+[00:37] [Spencer]: Yeah, I'm yeah, Chancellor Prescott and Graybar, yeah, there's two defendants. I'm sorry.
+[00:43] [Receptionist]: Okay, okay. Do you mind if I put you on hold and see if he's available?
+[00:46] [Spencer]: Sure. Sure, that's fine.
+[00:47] [Receptionist]: And what was your name, sir?
+[00:48] [Spencer]: Spencer.
+[00:50] [Receptionist]: All right, one moment, Spencer.
+[00:51] [Spencer]: Thank you.
+
+[ ... Silence (63s) ... ]
+
+[01:54] [Receptionist]: Spencer, one moment, I'm going to transfer you over to John.
+[01:57] [Spencer]: Thank you.
+[01:58] [Receptionist]: Go ahead.
+[02:01] [John Bey]: Hello, Spencer!
+[02:03] [Spencer]: Hey, John, this is uh, this is Spencer over at Gullett Sanford. I don't think we've we've formally ever spoken on the phone. I might have sent you an email or two, but—
+[02:14] [John Bey]: Oh, are you over— you're giving me a call on the Tennessee trucking case with Chris Caldwell, right?
+[02:19] [Spencer]: Yes, I I work with Chris here at Gullett Sanford and uh, he's he's tied up this morning and we we got your uh, email and letters yesterday, so I I thought I could take the lead on talking through that with you.
+[02:31] [John Bey]: Sure, I sure. No, I appreciate that. Uh, yeah, I we had a hearing yesterday, uh, which was kind of uh, like I think it was just we had that extra line there in that motion and I think I was like dang, I wish we wouldn't have uh, wish my associate wouldn't have put that in there, but at least we didn't all have to drive down to the courthouse.
+[02:56] [Spencer]: Sure, yeah, yeah. No, I was I was happy to get that.
+[02:59] [John Bey]: Yeah, I don't know how far Chris got you updated, but we all during the hearing the judge was like, well, you know, how are we looking with discovery? And it was like, well, I got a letter and there's a couple of depos and Chris was like, yeah, I think we're I think discovery closes on the ninth, um, and so I mean I I don't think I have to tell you about how how we got here. I think we got all got a bunch of emails and everything going on.
+[03:30] [Spencer]: Sure, sure.
+[03:31] [John Bey]: So yeah, so I guess my like the judge said, well, you know, hopefully y'all aren't going to argue about it, but if y'all are going to argue about it, before you file a motion, um, give us a call and we'll, you know, we're happy to get involved and, you know, call some balls and strikes or whatever. Um, and I, you know, before before doing that, I was, you know, I called right after the hearing to try and see what we could sort out. I wasn't able to get him. I mean, we didn't have anything scheduled, so I get that. Uh, but then out of an abundance of caution I had the associate draft the—
+[04:08] [Spencer]: Yeah, and you and I can chat here for a little bit this morning and I can get a better idea of kind of what the what the dispute is and and if it necessitates maybe a call with with Chris before we get, you know, the judge involved, that's certainly an option and something that we would welcome.
+[04:24] [John Bey]: And I'm just telling you before you, man, like I think what we would like to get is like there were a bunch of boilerplate and, you know, and there was no privilege log on the written discovery. I'd like to shore that up. And they're really it almost looking at and he sent some emails about some of the folks we asked for down. I think we wanted like five or six depos. I think we really need two depositions, a 30(b)(6) and the driver. And that's the extent of what of what we want. And I guess I just don't know what Chris's position is. The judge was like, well, if you all can agree, then we don't have to call and like that would be—
+[05:01] [Spencer]: I mean, I I think our position would be that the scheduling order has been amended I think twice at this point to extend discovery and, you know, we've we've deposed the plaintiff and we've sent you all discovery that's been answered. I think we've answered your discovery appropriately. I I will say that I'm happy to get you a verification page for Mr. Prescott that is uh, that is notarized. I you're you're correct that our verification page that we gave you on his interrogatories are not notarized. So I will I will get you one from him that is either notarized or complies with the, you know, the perjury rule on it's verified. I'll get you a verified um, page. But, you know—
+[05:47] [John Bey]: Well, I mean, you can take deposition. I mean, I think that's, you know, like that's well within your rights. I think though our position is going to be, well, you know, we got this written discovery with all this boilerplate, no privilege log, no verification. We need our written discovery before we take our these two depositions we want. We'd asked for those depos before, you know, I never got any dates on the for those depos and and here we are. I I mean, what's the saying? Like where everybody's poking each other's eye and, you know, and everybody gets blind? I guess we we could go back before the judge and say that, but I was trying to just work it out. And you know last time when you all wanted the dates, we were like we were like, okay, we'll get it done next week. Or when there needed to be more time to get us some written stuff, we said, okay, we'll give you some more time. So like I don't know that—
+[06:39] [Spencer]: Sure. And I and I get—
+[06:40] [John Bey]: I don't know that I've ever asked like, hey, like let's work let's uh, let's work, you know, other than I guess in July when we were all going back and forth, but like I'm saying like, hey, let's take a couple of Zoom depos and let's clear up the written stuff. But if your if your stance is uh, pound sand and you'll have to get the judge to say that, then I guess we gotta we gotta go about it that way. I'm trying to not bother the court on it is my is my goal. But you you tell me your position, I will I will handle it however you want, but I'm just kind of trying to give you some insight into how I'm looking at it.
+[07:23] [Spencer]: Sure. I mean, let me just I guess talk about the the written discovery first. I'm looking at our responses. I don't, you know, I don't think the objections are are boilerplate necessarily and I certainly don't see where responses are deficient. I mean, a lot of areas we tell you we we either provide something or we don't have something you're seeking. And then in other areas, you know, you sent more than 25 interrogatories. That's really kind of a non-negotiable rule there. I mean, that's just Federal Rules of Civil Procedure. We're not we don't respond to greater than 25 unless there's some court order, you know, or some stipulation to that. That's that's kind of what the rule says. And I I guess I'm just puzzled on some of the deficiencies that that you take issue with in the written discovery aside from the the verification page for Mr. Prescott. I understand that. But, you know, like our Graybar's Graybar's responses are verified and I think the objections to the extent there are some are proper and then even when there's an objection, most times there's also an answer along with that objection. Um, you know, it's not like we didn't blanket object to everything you asked for. I think we produced a a lot of documents for you that we have. I mean, it's a car, you know, it's a rear-end car wreck case. I don't know that there's really much more there beyond what we've what we've given you, you know, aside from privileged attorney-client material. So I I think we were just a little puzzled on on the things you took issue with there. You know, I'll talk to Chris and maybe he'll want to talk with you about that more before getting the court involved, but I I assume that our position would be that, you know, there's been two amendments to the scheduling order to now and I don't see a reason to amend it again. I I think there's records where we've given you all opportunity to take those depositions and we've discus— we've tried to discuss the 30(b)(6) topics.
+[09:30] [John Bey]: Um, I think you sent an email about 30(b)(6) topics and I don't think I've ever gotten a date for Prescott, so.
+[09:37] [Spencer]: Okay, well, you know, I'll factor that in. But I mean, I'm not telling you how to practice law or what to do. I'm just telling you I want to work it out, man. Uh, honestly at this point, like I I mean, I don't uh, I don't see the need— I mean, we you know, I think this case for being the case size that it is, like as far as monetary, there's been so much huffing and puffing. I mean, you know—
+[10:01] [John Bey]: Usually there's uh, on both sides, but I mean usually there's somebody dead when we, you know, when you gotta go through this this much. So you if you want to talk to Chris, you let me know. I mean, your position on the depos are you're not going to put up Prescott or 30(b)(6) uh, or you want to talk to Chris about it and just let me know.
+[10:21] [Spencer]: I'll let you know. I appreciate you uh, taking the time to to chat with me this morning and uh, to talk through that.
+[10:29] [John Bey]: Sure. And uh, do you want my cell phone so you can just get me directly?
+[10:33] [Spencer]: Sure, that'd be fine. Let me let me grab a note here. All right, I'm ready.
+[10:40] [John Bey]: All right, it's 404-877-8199.
+[10:48] [Spencer]: 404-877-8199.
+[10:51] [John Bey]: Yep, and you can call or text that one. I'll, you know, uh, if I'm, you know, if I'm in the middle of something, I'll call you right back.
+[11:00] [Spencer]: All right. Thanks, John. I appreciate it.
+[11:02] [John Bey]: No problem. Have a great day.
+[11:03] [Spencer]: Yeah, you too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

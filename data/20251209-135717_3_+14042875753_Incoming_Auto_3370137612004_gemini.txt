@@ -1,0 +1,48 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 17 turns
+  • Speaker 2 / Julia / Role: Caller: 16 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Señora Julia, parece que la llamada se desconectó.
+[00:09] [Julia]: ¿Cómo?
+[00:10] [Receptionist]: Parece que la llamada se desconectó. ¿Usted colgó?
+[00:13] [Julia]: Se desconectó, pero se regresó otra vez.
+[00:17] [Receptionist]: Sí, qué raro. Dale, aquí estoy contestando la llamada nuevamente, o sea, haciendo las respectivas verificaciones para ver qué más procede. Okay, espérame un segundo.
+[00:35] [Julia]: Okay.
+[00:36] [ ... Silence (5s) ... ]
+[00:41] [Receptionist]: Señora Julia, estaba tratando de comunicarme con Tara, con Tara Chapman, eh, con pues la persona encargada y pues parece ser que no, no está disponible, no está disponible en estos momentos. Eh, lo único que queda es dejarle un correo electrónico diciendo que por favor se comunique con usted lo más pronto posible.
+[01:08] [Julia]: Mmm, y si pasa lo mismo, ya hablé con ella, ya le dejé correos electrónicos, ya le hablé por teléfono una semana y no, no me... cuando hablé con ella me dijo "déjame y te regreso la llamada para hablar con Susan" y de ahí ya no sé más nada de ella, nunca me llamó. Entonces no sé qué hacer ya.
+[01:31] [Receptionist]: Eh, pues en este caso, eh, el mejor número o el mejor punto de contacto sería su case manager. Eh, ¿ya usted tiene el número de Susan? ¿El número de teléfono de ella directo? Bueno, señora Julia, entonces le recomiendo que llame a la señora Susan...
+[01:49] [Julia]: Ya la llamé, ya la llamé y me dijo que eso no está en manos de ella porque ella ya pasó para que Tara hiciera el cheque. Ella ya, yo hablé con ella y me dijo "ya eso no está en manos mías, tiene que llamar es a Tara porque ella es la que ya está el cheque ahí para que lo hagan". Y entonces Tara no, no me contesta, ni le dejo mensaje y todo, no, ella no contesta. Entonces ya no sé qué hacer, ya estoy desesperada porque sin ese down que tengo que dar es un porcentaje de la cirugía que sale en treinta y seis mil dólares y tengo que dar un porcentaje porque fue un accidente, no fue cuestión de salud.
+[02:33] [Julia]: Ya, entonces estoy desesperada porque ya el abogado me dijo "entre cuatro a cinco semanas ya eso está listo" y ya han pasado tres meses y yo cogí un nuevo appointment y cancelé la cirugía pasada. Ahora no puedo cancelar otra cirugía más, ya el médico no me va a querer ver.
+[02:54] [Receptionist]: Claro. Vamos a mirar a ver qué más se puede hacer. Espérame un segundo. Thank you for staying on. Ah, muchas gracias por la espera en la línea. Un segundo, por favor.
+[03:07] [Julia]: Okay.
+[03:08] [Receptionist]: Muchas gracias. Muchas gracias por su permanencia en línea, señora Julia. Estaba tratando de insistirle a la señora Tara Chapman, ya que pues ella es la persona encargada. Este, me comuniqué con Susan y pues me informa lo mismo. Me dice que básicamente el caso en estos momentos para lo del cheque que necesita está en manos de Tara. Pero pues estaba tratando de comunicarme con Tara y básicamente no hubo respuesta alguna. En este caso lo que puedo hacer es...
+[03:44] [ ... Silence (7s) ... ]
+[03:51] [Receptionist]: En este caso lo que podemos hacer es este dejarle un correo y pues seguirle insistiendo, no hay más.
+[04:03] [Julia]: Ya. No, okay. Entonces ¿cómo sería? Yo vuelvo a llamar mañana, pues ya el tiempo se me viene encima a ver qué ha pasado, si se ha comunicado, si contestó el correo o si quieren que yo vaya hasta allá, no sé qué hacer, ya estoy desesperada, ya necesito pagar eso y para estar tranquila.
+[04:28] [Receptionist]: Claro, esa, esa era otra opción, eh, señora Julia. Eh, una pregunta, ¿tiene usted de casualidad la facilidad de, de ir a la oficina en caso dado?
+[04:43] [Julia]: Sí, pero yo voy a la oficina y, y si voy allá yo sé, yo tengo que gastar en taxi la ida y si no está o no me contesta o no está disponible me gasto sesenta ida para allá y sesenta de venida porque yo no estoy cerca.
+[05:02] [Receptionist]: Pues le queda muy lejos, sí, muy, muy lejos. No, señora Julia, entonces le recomiendo que pues en la más tarde le siga insistiendo a la señora Chapman, ¿cierto? A Tara, a ver si, si hay alguna respuesta, ¿vale? Sin embargo, aquí le dejamos el correo de Tara.
+[05:26] [Julia]: No, bueno, yo la voy a llamar entonces como a las cuatro de la tarde antes que cierre. Ella se va como a las cinco, ¿no?
+[05:34] [Receptionist]: Sí, sí, sí. Te recomiendo... ¿qué hora es en estos momentos en su, en su...?
+[05:38] [Julia]: Tengo las dos y diez, dos y dieciséis.
+[05:41] [Receptionist]: Ah, sí, sí, sí. Entonces a las cuatro está bien, ajá.
+[05:45] [Julia]: Sí, yo la llamo a las cuatro. Muchas gracias por la ayuda.
+[05:49] [Receptionist]: No, señora Julia, no se preocupe.
+[05:51] [Julia]: Si no me contacto con ella yo mañana voy a volver a llamar porque yo ya, ya esto es lo último que me falta que tenga que otra vez cancelar.
+[06:01] [Receptionist]: Claro que sí, señora Julia, totalmente entendido.
+[06:04] [Julia]: Bueno, pues. Entonces yo si no me contacta ella ni tengo nada con ella pues ya eso ya hablé con Susan, Susan me dijo ya no podía hacer nada que estaba en manos de Tara. Entonces yo, yo este, yo mañana voy a volver a llamar hoy si no me contacto con ella hoy, ¿okay?
+[06:26] [Receptionist]: Listo, listo. Claro que sí. De todas maneras mil disculpas.
+[06:29] [Julia]: Okay, muchas gracias.
+[06:31] [Receptionist]: Listo, que estés muy bien. Hasta luego.
+[06:33] [Julia]: Igual, igual.
+
+========================================
+TRANSCRIPT END
+========================================

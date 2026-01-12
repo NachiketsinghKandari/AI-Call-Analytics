@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Speaker 1] / Role: News Broadcaster: 1 turn
+  • Speaker 2 / [India Vance] / Role: Client: 13 turns
+  • Speaker 3 / [Receptionist] / Role: Receptionist at Bain & Associates: 14 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: ...reopening and reaction to the government reopening versus a money rotation. Well, this is a really good question, Ash, because right now we're seeing...
+[00:10] [India Vance]: Hello?
+[00:11] [Receptionist]: Yes, this is Angel speaking, how may I help you?
+[00:14] [India Vance]: Hi, this is Bain Associates, right?
+[00:17] [Receptionist]: Yes, how may I help?
+[00:19] [India Vance]: My name is India Vance, my lawyer is, uh, Linda. I'm trying to figure out, uh, her information because my phone reset. I can't get in touch with her. I need to talk to her about my treatment.
+[00:33] [Receptionist]: Okay, no issue at all. Uh, would you like to take her number? Ready?
+[00:40] [India Vance]: Wait one second.
+[00:42] [Receptionist]: Okay.
+
+[ ... Silence (6s) ... ]
+
+[00:48] [Receptionist]: So you're saying that your case manager is Linda, right?
+[00:52] [India Vance]: Uh-huh.
+[00:53] [Receptionist]: Yes, and so this is her number.
+[00:57] [India Vance]: Okay.
+[00:58] [Receptionist]: 513...
+[01:01] [India Vance]: Uh-huh.
+[01:02] [Receptionist]: 373...
+[01:05] [India Vance]: Uh-huh.
+[01:06] [Receptionist]: 4064.
+[01:10] [India Vance]: Okay, perfect. And, uh, does she have a text number on file or no?
+[01:16] [Receptionist]: No, this is the only call- a call number. Would you like to take her email?
+[01:22] [India Vance]: Uh-huh.
+[01:24] [Receptionist]: Okay. It is Linda at Bain and Associates with an S at the end dot com.
+[01:39] [India Vance]: Okay, got it. Perfect. Thank you so much.
+[01:42] [Receptionist]: You are more than welcome. Something else or that's all?
+[01:45] [India Vance]: No, thank you.
+[01:47] [Receptionist]: All right, have a good one. Take care.
+[01:49] [India Vance]: You too. Bye-bye.
+[01:51] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

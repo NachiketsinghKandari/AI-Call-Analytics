@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Bey and Associates: 17 turns
+  • [Alejandro] / Role: Caller from Cope and Rehab: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Angelo from Bey and Associates, how may I help you?
+[00:08] [Alejandro]: Hello, my name is Alejandro. I'm calling from Cope and Rehab. I'm just trying to obtain the email address for the case manager for Amari Wilson.
+[00:19] [Receptionist]: Let's see.
+[00:20] [ ... Silence (6s) ... ]
+[00:26] [Receptionist]: How do you spell Amari?
+[00:29] [Alejandro]: A as in apple, M as Maria, A as in apple, R, I at the end.
+[00:43] [Receptionist]: Okay, found it.
+[00:47] [Receptionist]: Wilson, right? Can I have the date of birth?
+[00:52] [Alejandro]: Uh, October 8, 25.
+[00:59] [Receptionist]: And you are saying that you're calling from who?
+[01:09] [Alejandro]: From Cope and Rehab, the chiropractic clinic.
+[01:12] [Receptionist]: Ah, okay, thank you. So I have the email address ready.
+[01:19] [Alejandro]: Okay.
+[01:20] [Receptionist]: It is Victoria. Would you like me to spell it?
+[01:21] [Alejandro]: No, I got it, Victoria.
+[01:24] [Receptionist]: Okay, yes, Victoria, the normal spell, at Bey and Associates dot com. Bey, it is B-E-Y and Associates with S at the end dot com.
+[01:39] [Alejandro]: Okay, and do you have his or her phone number?
+[01:43] [Receptionist]: Yes.
+[01:44] [ ... Silence (5s) ... ]
+[01:49] [Receptionist]: Ready?
+[01:51] [Alejandro]: Yeah.
+[01:52] [Receptionist]: It is 470-615-0710.
+[02:04] [Alejandro]: 470-615-0710.
+[02:10] [Receptionist]: Yes.
+[02:14] [Alejandro]: All right, perfect. Thank you. And the last thing that is she— is she available right now, Victoria?
+[02:23] [Receptionist]: Uh, no, it shows me as red, that means that she's not available. So you can call her in about 20 minutes, maybe she's busy with another client.
+[02:35] [Alejandro]: All right, perfect. Thank you.
+[02:39] [Receptionist]: No, I need— sure about anything else?
+[02:41] [Alejandro]: No, everything good. Thank you, thank you.
+[02:43] [Receptionist]: All right, have a good one.
+[02:45] [Alejandro]: You too, bye-bye, have a great day.
+[02:47] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

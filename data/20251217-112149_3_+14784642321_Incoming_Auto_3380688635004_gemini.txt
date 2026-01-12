@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / April / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Matt speaking, how may I help you?
+[00:04] [April]: Hey, this is April with Geico Claims. I'm calling about your client, the estate of Tyrone White.
+[00:10] [Receptionist]: One moment.
+[00:11] [ ... Silence (5s) ... ]
+[00:16] [Receptionist]: Okay, let me get you over to Kevin Lowe. He's the paralegal working on that with attorney Middleton.
+[00:21] [April]: Okay.
+[00:22] [Receptionist]: One sec.
+[00:24] [ ... Silence (35s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

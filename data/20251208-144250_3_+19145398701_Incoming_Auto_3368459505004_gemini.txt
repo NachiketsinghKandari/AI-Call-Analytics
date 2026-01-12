@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Scott / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, my name is Fatima, how may I assist you?
+[00:07] [Scott]: Hi, my name is Scott, I work for Pure Insurance, just calling to get an update on an open file. The client is James and Elaine Patrick.
+[00:17] [Receptionist]: James and Elaine Patrick. Thank you. Please bear with me while I pull up that file.
+[00:23] [Scott]: Of course.
+[00:25] [Receptionist]: Thank you.
+[00:26] [ ... Silence (7s) ... ]
+[00:33] [Receptionist]: I'll see if the case manager is available, Mr. Matt McCarren, for this case. Allow me one moment.
+[00:41] [Scott]: Thank you.
+[00:43] [Receptionist]: Mr. Scott, thank you so much for the waiting time, I apologize for the delay.
+[00:49] [Scott]: No worries.
+[00:51] [Receptionist]: Thank you. So, Matt McCarren is currently not answering the call. He is currently, uh, appears to be unavailable, but you mentioned that you just needed an update on this case. I might be able to assist. What type of update do you need? The status of the account?
+[01:11] [Scott]: Okay.
+[01:12] [Receptionist]: Is that what you need, the status?
+[01:14] [Scott]: Yeah, I mean, if I could leave a message for Matt, I'm looking to get some details on the treatment trajectory.
+[01:22] [Receptionist]: Okay. Well, it's currently, yeah, he is currently, um, the status of the account remains on treatment, but I will, uh, please bear with me one moment, I'll see if he's available now.
+[01:35] [Scott]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

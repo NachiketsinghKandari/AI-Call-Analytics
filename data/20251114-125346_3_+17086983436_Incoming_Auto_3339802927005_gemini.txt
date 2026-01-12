@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 7 turns
+  • Speaker 2 / [Carla Thomas] / Role: Client: 7 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (12s) ... ]
+[00:12] [Receptionist]: Hello, this is Angelo from Bay and Associates, how may I help?
+[00:17] [Carla Thomas]: Uh, yes, uh, calling to see if Tara is available, if she's not I can leave a message.
+[00:23] [Receptionist]: Sure, I'm more than happy to assist you. Uh, are you a client?
+[00:29] [Carla Thomas]: Uh, yeah, I was a client.
+[00:31] [Receptionist]: Okay, can you confirm for- for me what is your name, please?
+[00:35] [Carla Thomas]: Ms. Thomas.
+[00:37] [Receptionist]: Thank you. Ms. Thomas, but your first name?
+[00:42] [Carla Thomas]: It's Carla.
+[00:45] [Receptionist]: Carla... let's see... okay, I found... let's see... Carla Thomas... um, okay, I found. And you wish to speak with the case manager?
+[01:08] [Carla Thomas]: I asked for Tara. Tara, if she's not there I can leave her a message.
+[01:15] [Receptionist]: Okay. [ ... Silence (6s) ... ]
+[01:22] [Carla Thomas]: Are you okay?
+[01:24] [Receptionist]: I'm just confirming this information, please don't be disrespectful, okay? I'm just needed to confirm everything before to transfer you, before to make any mistake. I'm so okay. Thank you for asking. Stay on the line. All right. All right. It looks like that she is not available, so I will need to transfer you over to the voicemail, okay? Have a good one.
+[01:49] [Carla Thomas]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

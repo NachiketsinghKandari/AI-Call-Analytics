@@ -1,0 +1,21 @@
+{
+  "caller_type": "sales_vendor",
+  "call_summary": {
+    "primary_intent": "solicitation_and_spam",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller asked for a specific individual. The receptionist identified the caller as a repeat caller, stated 'I'm good', and ended the call.",
+    "call_duration_seconds": 17.57,
+    "call_duration_formatted": "00:17"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

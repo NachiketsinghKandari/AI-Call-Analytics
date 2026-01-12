@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Amy / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Melissa / Role: Caller from State Farm: 2 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Amy speaking.
+[00:05] [Melissa]: Hi, this is Melissa from State Farm, calling with an offer for Rosalind Smith.
+[00:12] [Receptionist]: Okay.
+[00:13] [ ... Silence (10s) ... ]
+[00:23] [Receptionist]: All right, let me get the attorney for you.
+[00:27] [Melissa]: Okay, thank you.
+[00:28] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

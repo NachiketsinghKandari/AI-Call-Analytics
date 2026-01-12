@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:05] [Unknown]: Hi there, um, I was wondering if you guys handled cases against health insurance companies that, um, terminated our coverage before the birth of our daughter?
+[00:17] [Receptionist]: Uh, no ma'am, unfortunately we are a injury firm, so we deal with personal injury only.
+[00:26] [Unknown]: Oh, okay. Um, yeah, it says— it says you guys do bad faith insurance.
+[00:32] [Receptionist]: Yes ma'am, if there was personal injuries involved.
+[00:38] [Unknown]: Oh, okay, gotcha. Okay, thank you so much.
+[00:42] [Receptionist]: You're welcome, you have a happy New Year's.
+[00:44] [Unknown]: Yeah, you too. Bye.
+[00:45] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Diva / Role: Caller from Medical Revenue Service: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:03] [Diva]: Hi, please be advised this call might be monitored or recorded. My name is Diva, I'm calling with Medical Revenue Service on behalf of Douglas Hospital and I was calling to get a case status update for Abekia Owens.
+[00:16] [Receptionist]: Okay, one second.
+[00:18] [ ... Silence (15s) ... ]
+[00:33] [Receptionist]: This is in litigation settling.
+[00:39] [Diva]: Um, do you have an ETA?
+[00:42] [ ... Silence (6s) ... ]
+[00:48] [Receptionist]: No, ma'am.
+[00:50] [Diva]: Alright, we'll follow up in 30 days.
+[00:53] [Receptionist]: Alrighty, you have a great rest of your day. Bye-bye.
+[00:56] [Diva]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

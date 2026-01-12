@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:07] [Unknown]: Hello, can you hear me?
+[00:09] [Receptionist]: Yes.
+[00:11] [Unknown]: Hey, I just tried calling, um, I'm trying to get a hold of John Bey, um, I'm trying to get him some Mayor's Ball tickets that he ordered. Um, is there a best way to get them to him?
+[00:28] [Receptionist]: So you are calling from where?
+[00:32] [Unknown]: Macon-Bibb County.
+[00:35] [ ... Silence (8s) ... ]
+[00:43] [Receptionist]: Okay, so you said that you are trying to do what, I'm sorry?
+[00:46] [Unknown]: I'm trying to deliver some Mayor's Ball tickets to him. He ordered, they bought, the Bey and Associates purchased a table for the ball that's on Saturday. I'm trying to get them to him today.
+[01:00] [Receptionist]: Let me verify if his representative is available. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

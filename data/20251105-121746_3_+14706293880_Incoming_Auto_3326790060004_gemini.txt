@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain Associates Law Firm: 7 turns
+  • Speaker 2 / Keon Box / Role: Client/Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain Associates Law Firm, Devon speaking.
+[00:06] [Keon Box]: Hi Devon, is Mr. Kevin Love, is he available?
+[00:10] [Receptionist]: Yes sir, he is available today.
+[00:14] [Keon Box]: Can I speak with him? This is Keon Box.
+[00:19] [Receptionist]: Sure, I can get you transferred over to him, no problem. Allow me just a second, let me just close off something I'm working on.
+[00:34] [Receptionist]: May I have your first and last name please?
+[00:38] [Keon Box]: Keon, K-E-O-N, last name is B-O-X.
+[00:43] [ ... Silence (16s) ... ]
+[00:59] [Receptionist]: Um, and you are calling in regards to a case for yourself or for someone else?
+[01:05] [Keon Box]: For myself.
+[01:07] [Receptionist]: And last name C-O-X, right?
+[01:16] [Keon Box]: B-O-X.
+[01:18] [Receptionist]: Oh. Alrighty, Mr. Box, let me get you over to Kevin.
+[01:30] [Keon Box]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

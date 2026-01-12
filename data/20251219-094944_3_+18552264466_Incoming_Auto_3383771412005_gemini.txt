@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kamy / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Alicia Gomez / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kamy speaking?
+[00:04] [Alicia Gomez]: Hello, good morning. My name is Alicia Gomez with Verb Adjusters. I'm sorry, I missed your name?
+[00:10] [Receptionist]: Kamy.
+[00:11] [Alicia Gomez]: Kamy. I was calling in reference to your client Deborah Daniels to follow up on the offer that we made on November 14th. We just hadn't heard from your office.
+[00:26] [Receptionist]: Is it Deborah or Deborah?
+[00:32] [Alicia Gomez]: I don't know how you pronounce it, but it's Deborah, D-E-B-O-R-A-H. Last name is Daniels.
+[00:41] [Receptionist]: Okay, that would be with Stephanie Peck. Let me go ahead and get her for you.
+[00:45] [Alicia Gomez]: Okay.
+[00:47] [ ... Silence (5s) ... ]
+[00:52] [Receptionist]: And you said you were calling from where?
+[00:55] [Alicia Gomez]: Verb Adjusters.
+[00:57] [Receptionist]: All right, one sec.
+
+========================================
+TRANSCRIPT END
+========================================

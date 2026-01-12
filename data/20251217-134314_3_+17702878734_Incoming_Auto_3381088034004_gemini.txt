@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Santiago / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Unknown / Role: Caller from Collision Specialists: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Santiago from Bey and Associates, how may I help?
+[00:05] [Unknown]: Hey there, do you guys have an accounting department I could speak with?
+[00:10] [Receptionist]: Uh, may I know the reason why? Yes, because we have the records department and I guess and that could work, but can I have the reason why, what do you want to ask, just to see?
+[00:28] [Unknown]: Sure. I'm calling from Collision Specialists in Gainesville and you guys retained us for an accident reconstruction matter, and I'm trying to follow up on a past due invoice.
+[00:39] [Receptionist]: Mm-hmm, yes. I need to give you the telephone number for for the records department. Are you ready?
+[00:46] [Unknown]: Sure.
+[00:48] [Receptionist]: So, her telephone number is 470-615-0712. Or...
+[00:58] [Unknown]: And what is the name of this person?
+[01:01] [Receptionist]: Brianna.
+[01:02] [Unknown]: Brianna. Perfect.
+[01:04] [Receptionist]: Her name is Brianna. Or I can give you another telephone number if she doesn't answer. I have another person, it is 470-339-7214. Her name is Brittany.
+[01:16] [Unknown]: And that's 7234?
+[01:19] [Receptionist]: Yes. 7234.
+[01:22] [Unknown]: And what was her name?
+[01:24] [Receptionist]: Yes, her name is Brittany.
+[01:26] [Unknown]: Brittany. Okay. Thank you so much. I appreciate it.
+[01:29] [Receptionist]: You're more than welcome. Anything else? Or that's all?
+[01:33] [Unknown]: That's all. That's all. Thank you.
+[01:35] [Receptionist]: All right. You're more than welcome. Have a nice rest of your day. Bye-bye.
+[01:39] [Unknown]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

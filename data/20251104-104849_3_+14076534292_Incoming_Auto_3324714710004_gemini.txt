@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 3 turns
+  • Speaker 2 / Lana / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kim speaking.
+[00:03] [Lana]: Hi, um, this is Lana. Um, I just got sent to her, um, voice message, so I just left a message. Um, I wanted to see if I could get an update on the remaining, um, clients. I have their names if you're ready, but I just wanted to see if I could get the releases for them because they've been settled.
+[00:29] [Receptionist]: What are their names? Are they- are they the companions for this one?
+[00:34] [Lana]: Yes. Um, so I have Jaylen Murray, um, Jeremiah Murray, and Lewis Murray. I think the only release I received was from Kyrie Sanders.
+[00:49] [Receptionist]: Okay. That definitely would be with Victoria. Let me- let me check because she is in today. Let me see. Okay. One second again. Maybe she was away from her desk, one sec.
+[01:01] [ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

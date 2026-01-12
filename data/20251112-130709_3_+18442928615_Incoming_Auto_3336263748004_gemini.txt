@@ -1,0 +1,53 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Angelo / [Receptionist] / Role: Receptionist at The Associates: 19 turns
+  • Fermy / [Fermy] / Role: Claims Representative at State Farm Claims: 17 turns
+
+----------------------------------------
+
+[00:00] [Angelo]: The Associates, Angelo speaking, how may I help you?
+[00:07] [Fermy]: Hi Angelo, this is Fermy with State Farm Claims, how are you doing?
+[00:10] [Angelo]: Very good, thank you so much for asking, how may I help you?
+[00:14] [Fermy]: Hi, um, good, thank you. I'm calling, um, regarding, uh, your client Kevin Ashley on the declaration page that y'all are requesting, um, the date of loss is September 4th.
+[00:27] [Angelo]: Hey, sorry, it is Ashley and the last name?
+[00:31] [Fermy]: The Ashley, the last name's Ashley, first name's Kevin.
+[00:34] [Angelo]: Kevin.
+[00:35] [Fermy]: Yes. I was just returning a call that I received a missed call too, I think it's on the declaration page.
+[00:44] [Angelo]: Mm, okay, let me, let me see, please stand by, thank you. Didn't answer, didn't answer. Yes, I have here the notification that we called you to get the declaration page. Uh, are you ready to send it?
+[01:05] [Fermy]: Um, yes, well we have it prepared but, um, the department that's ready to release it, they have everything ready but they're wanting, they have a couple questions that they want, they wanted me to ask. Um, who is Elizabeth O'Neil and Yamis Gilbert, if y'all can ask the insured that and if they live, they all live together because that, these people are appearing on the, I guess, uh, address, I guess, policy, they have some policy related policies address. They, before they release those people, um, related policy, they want to know who are these people to the named insured, are they related to the named insured, does, they, they're populating at that address, so.
+[02:10] [Angelo]: I see. All right. Go ahead. Uh-huh.
+[02:16] [Fermy]: If the named insured doesn't know them, they could be, it could be former people that lived at that address that don't live there anymore and they're just, you know, and then we won't release those popula-, those policy documents, that's the thing, we, and then we can just release simply, we'll only release Kevin Ashley's policy to y'all, that's all. If you can ask him that for us and then I can send that up to the people and then we, because we have the declaration pages and then we can just send that over.
+[02:41] [Angelo]: Thank you. Let me go ahead and consult here with the same lady that was calling you. Give me just one second, okay? Please stand on the line, please.
+[02:50] [Fermy]: All right.
+[02:51] [Angelo]: Thank you for staying on the line. So I was making here some verification and so far, uh, we only represent Kevin Ashley. Uh, we don't have any information about the other person and everything. The only documentation that we request or the only document that we are asking for, it is the declaration page for this specific customer. Mm-hmm.
+[03:18] [Fermy]: Okay. All right. And on the, um, also, do you know about the other, um, insurance carrier Allstate? Do you know if they accepted liability? Because we're having difficulty reaching them.
+[03:32] [Angelo]: Mm.
+[03:33] [Fermy]: And do you know any-, yeah, do you know, do you know anything about their limits or, um, the other insurance carrier, um, for the at-fault party? Have you heard from them?
+[03:44] [Angelo]: Let me see who is the at-fault liability. It is Allstate. Uh, we have, it looks like that we have the declaration page for them.
+[03:58] [Fermy]: Yes, do you know if they've accepted liability, um, and do you know what their policy limits are?
+[04:07] [Angelo]: It says policy limits, it says 30/85 BI 50K PD. That's the only information that it shows as policy limit.
+[04:22] [Fermy]: Okay. And and did, do you know if they've accepted liability yet?
+[04:27] [Angelo]: Let's see. We don't have that information yet, only the declaration page. Let's see if they accepted liability because we don't have that yet.
+[04:41] [Fermy]: Okay.
+[04:42] [Angelo]: No. Nothing yet. I have the, the adjuster information. Would you like me to give you the, the telephone number and you can call with the adjuster?
+[04:51] [Fermy]: Yeah, sure. Yeah, sure. Thank you.
+[04:54] [Angelo]: It will be good.
+
+[ ... Silence (13s) ... ]
+
+[05:09] [Angelo]: Catherine Valentin. One minute, I need to search for this. Catherine, Catherine. Okay. Okay. This is the, the telephone number from the adjuster, ready?
+[05:34] [Fermy]: Yes, sir.
+[05:35] [Angelo]: The telephone number is 248-994-9898. That is it, without any extension or nothing. And the name is Catherine Valentin.
+[05:53] [Fermy]: Okay. All righty, thank you so much. I will go ahead and let the, um, higher-ups know that everything's good to go. They'll have the, um, declaration page sent over to you right away. Thank you so much.
+[06:05] [Angelo]: Thank you so much. Anything else or that's all?
+[06:08] [Fermy]: That is all. We'll have those documents sent to you shortly.
+[06:12] [Angelo]: Thank you. Have a good one. Take care.
+[06:15] [Fermy]: You too. All right, bye-bye.
+[06:17] [Angelo]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Terry / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Law firm, this is Terry, what can I do for you?
+[00:04] [Speaker 2]: Hello, is this Top Dog?
+[00:07] [Receptionist]: I'm sorry?
+[00:08] [Speaker 2]: Is this Top Dog Law?
+[00:11] [Receptionist]: This is Bey and Associates Law Firm.
+[00:15] [Speaker 2]: Oh, okay. You're not part of Top Dog Law?
+[00:18] [Receptionist]: No.
+[00:19] [Speaker 2]: Oh, okay. Thank you.
+[00:21] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

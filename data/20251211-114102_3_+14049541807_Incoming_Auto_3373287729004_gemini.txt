@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Reese / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. My name is Jesse. How can I assist you?
+[00:05] [Reese]: Hey, is uh, John Bey in?
+[00:08] [Receptionist]: Um, are you a client, sir?
+[00:11] [Reese]: No.
+[00:12] [Receptionist]: No, understood. Are you calling on- on regards to a client?
+[00:15] [Reese]: No.
+[00:17] [Receptionist]: Uh, understood. Uh, and then, where are you calling from, sir? Just so I can let them know.
+[00:21] [Reese]: Uh, say that again?
+[00:23] [Receptionist]: I- I- I'm just- I'm just asking so I can let them know, I can explain who's calling.
+[00:27] [Reese]: Yeah, it's regarding the city of Atlanta.
+[00:31] [Receptionist]: Understood. Um, can you provide me your name, sir?
+[00:36] [Reese]: Yeah, my name is Reese.
+[00:39] [Receptionist]: Perfect. All right. Perfect. I'll place you on a brief hold. Uh, I'll be right back with you in one minute, sir.
+[00:46] [Reese]: Okay, thank you.
+[00:48] [ ... Silence (12s) ... ]
+[01:00] [Receptionist]: All right. Um, I'll transfer you over to Mr. Bey's- Mr. Bey's legal assistant, sir. All right?
+[01:06] [Reese]: Oh, is he not in?
+[01:08] [Receptionist]: Um, not at the moment, not available, but his assistant is available, sir.
+[01:12] [Reese]: That's- that's all right. I'm just looking to speak to him, um, no one else. So thank you, sir.
+[01:17] [Receptionist]: Oh, got it. Thank you.
+[01:19] [Reese]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

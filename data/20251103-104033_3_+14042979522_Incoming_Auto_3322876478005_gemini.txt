@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Daniel, Receptionist at Bayan and Associates: 10 turns
+  • Speaker 2 / [Speaker 2]/ Role: Caller from Georgia Piedmont Technical College: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bayan and Associates. This is Daniel.
+[00:08] [Speaker 2]: Yes, I was calling to see if some information regarding a police report was received. The police report number that I have from you all is 2808.
+[00:20] [Receptionist]: I'm sorry, you- you're calling from where?
+[00:23] [Speaker 2]: Yes.
+[00:25] [Receptionist]: Yes.
+[00:27] [Receptionist]: Um, I mean, I- I'm not sure what do you mean with that police report.
+[00:36] [Speaker 2]: Okay, can I speak to somebody who can tell help me with this case?
+[00:41] [Receptionist]: So, are you a client?
+[00:43] [Speaker 2]: I'm calling, it's a judg- it's, I'm calling because I'm wanting to see if you all got the insurance. I'm representing...
+[00:51] [Receptionist]: Okay, but what is the name of the case?
+[00:54] [Speaker 2]: Kelly, her name is Kelly Franklin Bonnet.
+[01:00] [ ... Silence (23s) ... ]
+[01:24] [Receptionist]: Okay. And I'm sorry, you're calling from where?
+[01:26] [Speaker 2]: I'm calling from Georgia Piedmont Technical College.
+[01:30] [ ... Silence (10s) ... ]
+[01:41] [Receptionist]: Um, let me see. Yes, we do have a police report for this incident.
+[01:45] [Speaker 2]: Do you have the disclosure of insurance coverage? That's what I was calling to ask.
+[01:51] [Receptionist]: Um, not so far.
+[01:54] [Speaker 2]: Okay, thank you so much.
+[01:57] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

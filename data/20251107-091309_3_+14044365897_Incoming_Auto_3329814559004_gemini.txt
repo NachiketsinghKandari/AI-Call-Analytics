@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / David / Role: Receptionist at Ben and Associates Law Firm: 4 turns
+  • Speaker 2 / Ahmad Cade / Role: Client: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Ben and Associates Law Firm, this is David, how can I help you?
+[00:05] [Ahmad Cade]: Uh, good morning.
+[00:08] [Receptionist]: Good morning, sir.
+[00:10] [Ahmad Cade]: Um, I was actually calling to follow up on the status of a case that I have open with you all.
+[00:15] [Receptionist]: Okay. Um, may I have your first and last name, please?
+[00:19] [Ahmad Cade]: Yes, sir. Uh, first name Ahmad, spelled A-H-M-A-D. Last name Cade, spelled C-A-D-E.
+[00:28] [Receptionist]: [ ... Silence (11s) ... ] Let me get you over to your case manager.
+[00:42] [Ahmad Cade]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

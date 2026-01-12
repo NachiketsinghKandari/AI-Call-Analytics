@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 4 turns
+  • Speaker 2 / [Malik] / Role: Representative from 911 Hurt 911 Injury Centers: 3 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bain and Associates, Kim speaking.
+[00:07] [Malik]: Hello, this is Malik from 911 Hurt 911 Injury Centers, um, I'm calling about two mutual clients of ours.
+[00:15] [Receptionist]: Yes, can I have their names?
+[00:17] [Malik]: Yes, so the first name is... her last name is Booker and first name is spelled C-U-R-T-A-J-I-A and the other patient in the same case as her is her... I think it's her cousin, and her last name is Gaines and her first name is spelled Q-U-I-N-apostrophe-N-Y-A.
+[00:47] [ ... Silence (5s) ... ]
+[00:52] [Receptionist]: Tiana Evans is the case manager, um, did you need to speak with her or you wanted to know the status?
+[00:58] [Malik]: Yes, please. The case... no, just um, to speak with her.
+[01:03] [Receptionist]: All right. One second.
+
+========================================
+TRANSCRIPT END
+========================================

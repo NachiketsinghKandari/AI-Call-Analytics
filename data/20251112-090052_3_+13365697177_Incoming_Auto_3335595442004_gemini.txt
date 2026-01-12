@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Blair and Associates: 8 turns
+  • Speaker 2 / Diego / Role: Caller from Case Pulse: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Blair and Associates. This is Lionel.
+[00:07] [Diego]: Hi, yes, my name's Diego. Um, calling from Case Pulse and I was looking to speak with whoever's in charge of operations or IT, if they're available.
+[00:14] [Receptionist]: Um... let me verify one moment.
+[ ... Silence (7s) ... ]
+[00:21] [Diego]: Sure.
+[00:22] [Receptionist]: Said you're calling from where?
+[00:24] [Diego]: From Case Pulse.
+[00:26] [Receptionist]: Okay.
+[00:28] [Receptionist]: And do you have, um, like business with us?
+[00:33] [Diego]: No, just reaching out to make an introduction.
+[00:37] [Receptionist]: Okay, one moment.
+[00:42] [Receptionist]: Um, thank you so much for holding. The person in charge is not available. Would you want to leave a voicemail?
+[00:46] [Diego]: Uh, yeah, that'd be great.
+[00:49] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

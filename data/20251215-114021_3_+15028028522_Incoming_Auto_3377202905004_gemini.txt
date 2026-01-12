@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Martha Story / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Bey and Associates, this is Lionel, how may I help you?
+[00:06] [Martha Story]: Yes, this is Bey and Associates?
+[00:09] [Receptionist]: Yes, it is.
+[00:11] [Martha Story]: Okay, I have a really bad reception. Uh, my name is Martha Story, S-T-O-R-Y, birthdate 1-1-5-3, and I have a case pending and I had left a message last week for someone to call me to let me know where it is in the system and I haven't heard anything and I thought maybe you could leave another message.
+[00:43] [Receptionist]: Oh, I see.
+[00:47] [ ... Silence (9s) ... ]
+[00:56] [Receptionist]: Let me make a review. And just to confirm, when did the incident happen? When was the date of the accident?
+[01:04] [Martha Story]: It was 2021.
+[01:09] [Receptionist]: Okay. Let's see if your case manager is available. Please hold on. One moment please.
+[01:19] [Martha Story]: I'll hold the line, yes. Thank you.
+[01:22] [ ... Silence (9s) ... ]
+[01:31] [Receptionist]: Thank you for staying on the line. It looks like that so far, uh, the case manager isn't available. Would you like to leave her a voice message?
+[01:40] [Martha Story]: And what's her first name?
+[01:42] [Receptionist]: Her first name is Veronica.
+[01:45] [Martha Story]: Veronica. Okay. Yes, I'll leave her a message. Thank you.
+[01:51] [Receptionist]: All right, let me pass you over.
+[01:54] [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

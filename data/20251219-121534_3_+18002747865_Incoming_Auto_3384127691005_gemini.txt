@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Maya / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I—
+[00:06] [Maya]: Hi Angelo, this is Maya from Bristol West. It looks like our phone got disconnected.
+[00:14] [Receptionist]: Ah yes, the call dropped, sorry. I was about to tell you that uh this is for Dorian Council.
+[00:23] [Maya]: Yes, that's who you're calling for, yes. I, before you continue, I just have to advise that the call is being recorded. Do I have your permission to continue?
+[00:32] [Receptionist]: Yes, that's fine. Uh no, I was about to tell you that no, uh since that is our client, we don't need to file or make any claim. So I just needed to find out if there was any claim created. And that's it.
+[00:46] [Maya]: Okay, yes. Okay. All right, then there's no problem then.
+[00:51] [Receptionist]: All right, thank you for your cooperation. Have a nice rest of your day. Bye-bye.
+[00:54] [Maya]: You too. Bye.
+[00:57] [Receptionist]: Thank you, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Jamie / Role: Caller from Travelers Insurance: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Matt, how can I help you?
+[00:04] [Jamie]: Yes, hi. My name is Jamie. I'm calling from Travelers Insurance on a recorded line regarding a demand that we received for your client, Sheree Hamilton.
+[00:15] [Receptionist]: One moment.
+[00:19] [Receptionist]: Okay, I've got the file up. How can I help you?
+[00:21] [Jamie]: Yes, so I am following up on the demand, um, that we received, um, and so I do have an offer given that, um, she did have soft tissue complaints but with there being no treatment and this being a minor impact accident, our offer's going to be $500.
+[00:43] [Receptionist]: Okay. I'll let the person handling that know.
+[00:47] [Jamie]: Okay. Thank you so much. Have a good day.
+[00:49] [Receptionist]: Can you send it to me in writing just so we can respond?
+[00:52] [Jamie]: What's the email?
+[00:53] [Receptionist]: You can just send it to me. I'll put it in the file. It's just Matt, M-A-T-T, at Bey and Associates dot com, spelled all the way out.
+[01:05] [Jamie]: All right. Thank you so much. I'll get it sent over.
+[01:08] [Receptionist]: All right. Thank you.
+[01:09] [Jamie]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

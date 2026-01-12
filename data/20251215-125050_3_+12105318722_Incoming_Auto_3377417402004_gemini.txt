@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Ethan / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Angelo, how may I help you?
+[00:04] [Ethan]: Hi, uh, this is Ethan, I was calling from USA's first party medical claims. I was trying to call regarding, uh, a Cynthia Cromartie, I believe I was trying to get in contact with John.
+[00:16] [Receptionist]: Let's see, give me one minute.
+[00:18] [ ... Silence (11s) ... ]
+[00:29] [Receptionist]: You said that the first name is Cynthia, the last name?
+[00:33] [Ethan]: Cromartie, C-O-R-M-A-R-T-I-E?
+[00:40] [Receptionist]: Thank you. Can I have the date of birth?
+[00:42] [Ethan]: November 28th, 2025.
+[00:45] [Receptionist]: Thank you. Just to confirm, would you like to check if the case manager is available?
+[00:51] [Ethan]: Yes, if not, can I get his email?
+[00:54] [Receptionist]: Yes. Uh, the name for the case manager is Kevin. Let's see if Kevin is available. Stay on the line, please.
+[01:04] [Ethan]: Okay.
+[01:05] [ ... Silence (11s) ... ]
+[01:16] [Receptionist]: Thank you for staying on the line, so I was waiting for Kevin to answer the phone call. It looks like that he's busy with another client. You said that you would like to take his email, right?
+[01:27] [Ethan]: Yeah, yeah, email will work just okay.
+[01:30] [Receptionist]: Yes, I'm going to spell it. It is K for Kilo, and then the word love, L-O-V-E, at B-E-Y-A-N-D associates with S at the end dot com. So it is klove@beyandassociates.com.
+[01:49] [Ethan]: Perfect, I thank you so much. And, I'm so sorry, could I get your name real quick?
+[01:53] [Receptionist]: Yes, Angelo.
+[01:55] [Ethan]: Angelo. Perfect, Angelo. Thank you so much, I appreciate you, uh, following up and giving me the email address. I'm gonna send him a follow-up here in just a minute, okay?
+[02:03] [Receptionist]: You're more than welcome. Have a good one.
+[02:06] [Ethan]: Thank you, you too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

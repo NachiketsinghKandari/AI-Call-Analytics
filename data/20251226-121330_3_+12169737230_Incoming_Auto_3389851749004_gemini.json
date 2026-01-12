@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a case update and expressed dissatisfaction with their case manager. The receptionist attempted to transfer the call to the customer success team, but the party was unavailable, resulting in a message being taken for a follow-up.",
+    "call_duration_seconds": 386.42,
+    "call_duration_formatted": "06:26"
+  },
+  "transfer_context": {
+    "destinations": [
+      "administration_and_operations"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist attempted to transfer the caller to the customer success team to address concerns regarding their case and case manager, but the recipient was away from the line."
+  }
+}

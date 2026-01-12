@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (6s) ... ]
+[00:06] [Receptionist]: Bey and Associates, this is Lionel.
+[00:08] [Unknown]: Hi, I'm um, trying to get in contact with Kevin Love.
+[00:11] [Receptionist]: Sure, I'll go ahead and transfer you over, one second.
+[00:15] [Unknown]: Thank you.
+[00:16] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

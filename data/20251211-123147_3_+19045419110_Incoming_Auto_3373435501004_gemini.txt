@@ -1,0 +1,74 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Angelo / Role: Receptionist at Bey and Associates: 29 turns
+  • [Olivia] / Olivia / Role: Caller from Lean Star: 25 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Olivia]: Hi, my name is Olivia, I'm calling from Lean Star. I was just calling to get a status update on two patients.
+[00:13] [Receptionist]: Sure. Can I have the name for the first one?
+[00:17] [Olivia]: Yes, the first one is Leah Fields.
+[00:22] [Receptionist]: How do you spell the last name?
+[00:24] [Olivia]: F-I-E-L-D-S.
+[00:29] [Receptionist]: Fields. Teresa?
+[00:35] [Olivia]: Pardon?
+[00:36] [Receptionist]: Uh, the name is the second name is Teresa, by any chance?
+[00:42] [Olivia]: Um, let me look at her documents. Or what is the date of birth, if you have?
+[00:47] [Olivia]: Oh, yeah. Um, it is 7/30/1991.
+[00:54] [Receptionist]: No, it's not this one then.
+[00:58] [ ... Silence (15s) ... ]
+[01:13] [Receptionist]: Yes, I found it. What do you want me to check on this?
+[01:19] [Olivia]: Um, just the status of the case. Um, if it's still in litigation or not.
+[01:24] [Receptionist]: No, it shows us archived. Let's see.
+[01:29] [ ... Silence (9s) ... ]
+[01:38] [Receptionist]: Yes, it is archived. Mm-hmm.
+[01:41] [Olivia]: Okay. What— what does that mean?
+[01:43] [Receptionist]: That means that the state is closed. We already paid what's the compensation. The case is done. Mm-hmm.
+[01:51] [Olivia]: Um, is there someone I could talk to, uh, because I— we just didn't get paid out for United Spine and Ortho, or maybe just to see where that check got sent to?
+[02:04] [Receptionist]: Let's see, because I can check that information.
+[02:11] [Olivia]: Thank you.
+[02:12] [ ... Silence (17s) ... ]
+[02:29] [Receptionist]: We have United Spine and Ortho for 3,150. The check was mailed out. Yes, it was mailed, let me tell you when. Actually, it was on June 26th this year. And I have the check number.
+[02:49] [Olivia]: Okay. One second. Um, okay, I'm ready for the check number.
+[02:55] [Receptionist]: It is 37882 from Bank of America.
+[03:07] [Olivia]: Bank of America. And then, uh, you said it was 3,000 and...
+[03:13] [Receptionist]: 150. Are you United Spine and Ortho, right?
+[03:18] [Olivia]: Well, we purchased their medical bills from them and then they have closed down, um, so they're not no longer open. So we're technically supposed to get paid out for it, but we've been running into this problem a lot where they were accepting checks for a half when we were supposed to receive them. So just— this has been happening, so I'll just add it to my list of missing checks. Um, are you able to see if it was cashed or not?
+[03:59] [Olivia]: Hello?
+[04:01] [Receptionist]: Sorry, I lost you for a minute. What did you say?
+[04:04] [Olivia]: Oh, you're good. Um, are you able to see if the check was cashed or not?
+[04:09] [Receptionist]: Oh, I don't have that information. You will need to try to get in contact with Bank of America, provide for them the date and the check information and they can— they can provide for you the bank. Mm-hmm.
+[04:21] [Olivia]: Okay, no worries. I will do that. Um, and then, are you okay if I ask you about one more patient?
+[04:27] [Receptionist]: That's okay. Give me just one moment.
+[04:35] [Receptionist]: Let me refresh here. Let me go back. What is the name for the second?
+[04:40] [Olivia]: Um, this one is Megan, M-E-G-H-A-N.
+[04:45] [Receptionist]: Last name?
+[04:47] [Olivia]: The last name is M-A-C-L-E-L-L-A-N.
+[04:55] [Receptionist]: And what's the date of loss?
+[04:58] [Olivia]: Um, it is 3/10/2023.
+[05:03] [Receptionist]: One minute, it's loading.
+[05:06] [ ... Silence (18s) ... ]
+[05:24] [Receptionist]: No worries.
+[05:25] [ ... Silence (29s) ... ]
+[05:54] [Receptionist]: No, it looks like that this client have consult with us twice. Let's see this second one because that's not match. Let me move on to the next case. It looks like that she's have two accidents. So let me go back. One it was in 2024 and the one that you asking me is was in 2023, right?
+[06:23] [Olivia]: Yes.
+[06:24] [Receptionist]: Let me see the one for 2023. It's loading now.
+[06:28] [ ... Silence (26s) ... ]
+[06:54] [Receptionist]: All right. Um, based on the documentation, it shows that this case is still in litigation.
+[07:09] [Olivia]: Okay.
+[07:10] [Receptionist]: Let's see if there is any check mailed. Let's see. Generic equipment, office settlement, settlement over Morgan and Morgan. No. No, no. No, there is not any check yet for this one.
+[07:30] [Olivia]: Um, and then are you able to see if United Spine and Ortho is included in the case?
+[07:36] [Receptionist]: Sure. Let me— let me see. Medical. United Spine and Ortho, 5,000. Yes. Mm-hmm. It is pending a bill for 5,000.
+[07:48] [Olivia]: Perfect. That's great. Thank you so much for all your help. I appreciate you, um, looking all of that up and being patient with me.
+[07:56] [Receptionist]: You're more than welcome. Anything else or that's all?
+[07:59] [Olivia]: Um, that's all. I hope you have a wonderful day.
+[08:02] [Receptionist]: You as well. Take care. Bye-bye.
+[08:05] [Olivia]: Thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

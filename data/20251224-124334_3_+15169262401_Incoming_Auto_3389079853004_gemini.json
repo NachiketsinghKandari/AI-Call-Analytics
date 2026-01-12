@@ -1,0 +1,21 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the case manager's email address to the caller so they could request a former client's file.",
+    "call_duration_seconds": 143.71,
+    "call_duration_formatted": "02:23"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered a transfer to the case manager's voicemail, but the caller requested an email address instead, which the receptionist provided."
+  }
+}

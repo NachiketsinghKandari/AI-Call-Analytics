@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Angel / Role: Caller from Georgia Spine and Orthopedics: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Mink speaking?
+[00:03] [Angel]: Yes, good morning. My name is Angel and I'm calling with Georgia Spine and Orthopedics. Um, is Stephanie Salamone available?
+[00:13] [Receptionist]: Yes. Um, which client are you calling in reference to?
+[00:19] [Angel]: Yes, patient's name is Kasey Wood. Kasey Wood.
+[00:25] [Receptionist]: Okay. I'll go ahead and transfer you over to Stephanie.
+[00:29] [Angel]: Thank you very much.
+[00:30] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

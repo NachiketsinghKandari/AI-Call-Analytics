@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Automated Voice]: 1 turn
+  • Speaker 2 / [Receptionist] / Role: Receptionist at Spectrum: 1 turn
+
+----------------------------------------
+
+[00:00] [Automated Voice]: Spectrum Account. Please call us back...
+[00:03] [Receptionist]: Thank you for calling Spectrum. This is, uh, this is Spectrum. How can I help you?
+
+========================================
+TRANSCRIPT END
+========================================

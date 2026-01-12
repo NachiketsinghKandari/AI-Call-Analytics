@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 5 turns
+  • Speaker 2 / [Autumn Lumpkin] / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kim speaking.
+[00:07] [Autumn Lumpkin]: Hi, I wanted to know if Ty was in.
+[00:11] [Receptionist]: Hi, good morning. Um, can I have your name please?
+[00:15] [Autumn Lumpkin]: It's Autumn Lumpkin.
+[00:19] [Receptionist]: Okay, I do see that she's not in yet. Um, I think she's gonna be in in another maybe 20 minutes. Would you like to leave her a voicemail?
+[00:33] [Autumn Lumpkin]: Um, is Tara in?
+[00:36] [Receptionist]: Tara? Let me see. She is, but she's on another call.
+[00:45] [Autumn Lumpkin]: Okay, is there any way that like you can leave her a message?
+[00:53] [Receptionist]: For which one? Tara or Ty?
+[00:56] [Autumn Lumpkin]: Tara to tell her give me a call back 'cause I'm supposed to be picking up my um my accident check today, but I just didn't know what time and I know it went through her, so um yeah 'cause I was about to head up there.
+[01:15] [ ... Silence (7s) ... ]
+[01:22] [Autumn Lumpkin]: Hello?
+[01:23] [ ... Silence (5s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

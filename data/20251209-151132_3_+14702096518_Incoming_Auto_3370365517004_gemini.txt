@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Lionel. How can I help you?
+[00:06] [Unknown]: Hi, hello. I just have a quick question. So, I did, um, get you guys, I signed the contract, um, I signed the contract yesterday and everything and I went to my first, like, um, physical therapy appointment today. But I just have a question, like, do— am I supposed to file the insurance claim or do you guys file the insurance claim?
+[00:28] [Receptionist]: We do take care of everything. You mean filing the claim for the other driver?
+[00:34] [Unknown]: Uh, yeah, like the initial first claim.
+[00:39] [Receptionist]: Yes, we can— we will handle everything as soon as the police report, um, is ready.
+[00:44] [Unknown]: Mhm. Oh, okay. So I don't have to do anything at all?
+[00:48] [Receptionist]: Correct.
+[00:49] [Unknown]: Okay. Thank you so much.
+[00:51] [Receptionist]: Okay. You're welcome.
+[00:53] [Unknown]: All right. You have a good one.
+
+========================================
+TRANSCRIPT END
+========================================

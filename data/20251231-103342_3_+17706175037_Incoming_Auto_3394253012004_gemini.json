@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with two specific staff members. The receptionist stated she did not have contact information for either and offered to take a message, which the caller declined.",
+    "call_duration_seconds": 50.76,
+    "call_duration_formatted": "00:50"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist did not attempt a transfer as she stated she did not have contact information for the requested staff members."
+  }
+}

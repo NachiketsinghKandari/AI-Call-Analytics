@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Angelo Homejo / Role: Receptionist at Bey and Associates: 14 turns
+  • [Renee] / Renee / Role: Representative from AICA Orthopedics: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Angelo Homejo, how can I help you?
+[00:08] [Renee]: Good afternoon Angelo. Angelo, my name is Renee. I'm calling to follow up on a status for a patient and to see if you guys truly represent this patient.
+[00:19] [Receptionist]: Sure, what is the name?
+[00:21] [Renee]: The first name is Kenneth, K-E-N-N-E-T-H, and the last name is Foster, F-O-S-T-E-R, Kenneth Foster.
+[00:31] [Receptionist]: Okay, what do you want me to check on this?
+[00:37] [Renee]: I'm calling to see if your firm represent the patient and the claim status.
+[00:43] [Receptionist]: Yes, it shows that actually we represent him. Let's see. And the status, it is in pre-lit demand.
+[00:57] [Renee]: Okay. Um, who is the, um, case manager?
+[01:02] [Receptionist]: Um, the case manager, it is Keri Waites. But just a second, can I have the date of loss?
+[01:15] [Renee]: The date of loss is 5/21/2023.
+[01:19] [Receptionist]: Yes, that's what I'm notice- um, actually it shows that, like, the time that we have to represent a customer is two years, and it shows that it already had been passed the two years, and so I'm assuming that this case is closed, but right now, case was assigned to Warren and Perez, and so referred to USP demand waiting to response. It shows that we are awaiting for the response of the demand. The last update was on October 9th.
+[01:52] [Renee]: For the pre-litigation demand, waiting for response? October the 9th of this year?
+[02:00] [Receptionist]: October 9th, yes, this year, 2025, that's what it shows.
+[02:09] [Receptionist]: And just to confirm, you are calling from who?
+[02:12] [Renee]: It's A-I-C-A Orthopedics.
+[02:16] [Receptionist]: Ah, the orthopedics, like the medical records. No issue at all. But yes, that's in pre-litigation demand so far. And any other thing you would like to check?
+[02:30] [Renee]: Who's the, um, case manager's name for me?
+[02:34] [Receptionist]: Um, the case manager, it shows Keri Waites. It's spelled K-E-R-I White- no, K-E-R-I.
+[02:48] [Renee]: White.
+[02:49] [Receptionist]: No, K-E-R-I.
+[02:52] [Renee]: Okay.
+[02:53] [Receptionist]: And then the last name is W-A-I-T-E-S.
+[03:00] [Renee]: Oh, W-A-I-T-E-S. Waites.
+[03:05] [Receptionist]: Yes.
+[03:06] [Renee]: And her email is going to be her first name and last name?
+[03:14] [Receptionist]: Um, let's see if that is the email, okay? Because sometimes it's that or sometimes... ah, no. The email is K and then the last name, W-A-I-T-E-S at Bey and Associates dot com. Associates in plural, okay? Just dot com.
+[03:43] [Renee]: Thank you so much, Angelo. I will note that. Thank you so much.
+[03:47] [Receptionist]: You're more than welcome. Anything else you would like to know or that's all?
+[03:51] [Renee]: That's it.
+[03:53] [Receptionist]: All right. Have an eternal rest of your day. Bye-bye.
+[03:58] [Renee]: You too. Bye-now.
+
+========================================
+TRANSCRIPT END
+========================================

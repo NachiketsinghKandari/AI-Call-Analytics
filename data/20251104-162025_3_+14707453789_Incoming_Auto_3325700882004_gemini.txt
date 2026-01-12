@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devin / Role: Receptionist at Day and Associates Law Firm: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Day and Associates Law Firm, Devin speaking.
+[00:05] [ ... Silence (6s) ... ]
+[00:11] [Receptionist]: Hello?
+
+========================================
+TRANSCRIPT END
+========================================

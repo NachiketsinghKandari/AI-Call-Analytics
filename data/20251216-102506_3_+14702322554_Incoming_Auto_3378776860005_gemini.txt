@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Lionel.
+[00:07] [Speaker 2]: Uh, yes, I spoke to somebody a few, uh, about about 30 minutes ago regarding a case and I was just trying to get get back in contact with her.
+[00:17] [Receptionist]: Okay. One moment. Thank you so much for holding. Um, she's not available. I can have her to give you a call back.
+[00:29] [Speaker 2]: Okay. That's fine.
+[00:32] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

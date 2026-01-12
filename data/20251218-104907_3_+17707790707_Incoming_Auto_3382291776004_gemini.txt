@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Todd / Role: Caller from Progressive: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:03] [Todd]: Yes, this is Todd with Progressive. How are you doing today?
+[00:07] [Receptionist]: I'm doing well, Todd. Thank you for asking. How can I help?
+[00:10] [Todd]: Yes, I'm giving a call in regards to client, uh, Romero, Randall.
+[00:18] [Receptionist]: Okay. Okay, that would be with Paige Allman. Uh, what insurance did you say you were calling from?
+[00:29] [Todd]: Progressive.
+[00:31] [Receptionist]: All right. One second. Let me get Paige for you.
+
+========================================
+TRANSCRIPT END
+========================================

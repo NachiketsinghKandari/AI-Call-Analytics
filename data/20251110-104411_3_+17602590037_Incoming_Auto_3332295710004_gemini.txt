@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / [Speaker 2]/ Role: Marketing Representative: 15 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (8s) ... ]
+[00:08] [Receptionist]: Bey and Associates, can I help you?
+[00:09] [Speaker 2]: Hello, is Mr. Bey available?
+[00:13] [Receptionist]: Bey? Uh, the thing is that he normally he doesn't answer like phone calls. May I know the reason why?
+[00:22] [Speaker 2]: Uh, well, maybe somebody from your marketing team is available because I have a marketing campaign. So it's a business matter. I would like to just...
+[00:33] [Speaker 2]: Yeah.
+[00:34] [Receptionist]: Uh, the thing is that those kind of marketing campaigns, it would be resolved via email. So would you like to get the email?
+[00:43] [Speaker 2]: Sure.
+[00:44] [Receptionist]: Yes. And so norm- the email for handling those kind of cases, it is intake... would you like me to spell it?
+[00:56] [Speaker 2]: Uh, intake... well, actually yes.
+[00:59] [Receptionist]: It is I-N-T-A-K-E at Bey, B-E-Y, and, A-N-D, Associates, with an S at the end, dot com.
+[01:17] [Speaker 2]: Okay, thank you so much. And would you know by any chance if they are accepting car accident cases and those kind of offers?
+[01:25] [Receptionist]: Yes, of course. Car accidents, yes.
+[01:29] [Speaker 2]: Car accidents. And do they work with, um, like kind of companies that we are?
+[01:36] [Speaker 2]: Because basically we work with personal injury firms to connect them with pre-qualified clients and we are clients and they are fully documented and they are- they are basically ready to hire and each client has verified police reports and medical records and you know, I know nowadays it's, um, like scammers are a lot in everywhere and they call it everywhere. So that's why I'm asking. Um, we're not that kind of company, so I would like to kind of talk with them. So would that be the only way or a best way to email them?
+[02:13] [Receptionist]: Um, yes, but also I have the number for- for our boss. I can mean- we can go ahead and give you the telephone number from our boss, which they recollect all those kind of contracts and those kind of things, okay? If you would like, I can give you his telephone number as well because he's the manager for those kind of things.
+[02:39] [Speaker 2]: Yeah, sure. Actually, that would be great.
+[02:42] [Receptionist]: Thank you. Ready?
+[02:44] [Speaker 2]: Ready.
+[02:45] [Receptionist]: So his name is Matt, is spelled M-A-T-T, Matt Corren.
+[02:52] [Speaker 2]: Okay.
+[02:53] [Receptionist]: All right. And the telephone number is 404-591-8928. His name is Matt. You can speak with him. He recover all the cases in order that we can complete the intake process and everything. You can talk about negotiations, rates, fees, all those kind of things, okay? With him.
+[03:19] [Speaker 2]: All right, that would be great. Thank you so much. And you would have a huge role in our success. Okay.
+[03:26] [Receptionist]: No- no issue at all. You're more than welcome. Anything else or that's all?
+[03:31] [Speaker 2]: No, thank you. That's all.
+[03:33] [Receptionist]: Take care. Bye-bye.
+[03:35] [Speaker 2]: Bye.
+[03:36] [Receptionist]: Ciao.
+[03:37] [Speaker 2]: Hasta la vista.
+
+========================================
+TRANSCRIPT END
+========================================

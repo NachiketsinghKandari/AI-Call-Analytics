@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to connect the caller to a specific staff member who was unavailable; the receptionist then took a message and confirmed the caller's contact information for a callback.",
+    "call_duration_seconds": 79.06,
+    "call_duration_formatted": "01:19"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to reach Taylor Middleton, but the staff member was unavailable, so the receptionist proceeded to take a message."
+  }
+}

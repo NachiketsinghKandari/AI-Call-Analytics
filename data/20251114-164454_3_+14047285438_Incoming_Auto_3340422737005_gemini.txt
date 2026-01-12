@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 12 turns
+  • Speaker 2 / [Allison] / Role: Employee at Lynn Leonard and Associates: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bain and Associates, how may I help?
+[00:06] [Allison]: Hi Angelo, this is Allison from Lynn Leonard and Associates for Cecilia Strong. Um, the reason for my call is to, um, find out if Ms. Taylor Middleton, um, was going to sign the ADR to send to court?
+[00:27] [Receptionist]: Let's see, let me go ahead and double check that information. Can you confirm for me the name for the client one more time, please?
+[00:34] [Allison]: Um, I believe it's Cassandra Molina, M-O-L-I-N-A.
+[00:42] [Receptionist]: Cassandra Molina. Okay, I found it. Taylor Middleton, right? Is the one who's going to sign that letter?
+[00:52] [Allison]: Yes. Yeah, we...
+[00:58] [Receptionist]: Go ahead, I'm sorry. Oh, no. Oh, no worries. I was about to ask you, what is the name for the letter?
+[01:07] [Allison]: Um, the ADR form for the court so that, um, it could be waived.
+[01:16] [Receptionist]: Let's see. I'm going to consult if Taylor Middleton is available, just to ask that information, okay? Give me just few minutes and hold, stay on the line.
+[01:32] [Receptionist]: Hello?
+[01:34] [Allison]: Hi.
+[01:35] [Receptionist]: Thank you for stay on the line. It looks like that Taylor Middleton is- isn't available at this moment. It looks like that is busy. So, what I can do so far is that you can leave me like- leave a callback number and to see if Taylor can call you by Monday or Tuesday, okay?
+[01:55] [Allison]: Well, um, Monday is the court, so, um, just note that I called. Yeah, so if she's unavailable then we won't be able to send it to the court this evening. They will have to go to court, um, for the calendar call. Okay.
+[02:14] [Receptionist]: I'm so- but so far Taylor is- isn't available.
+[02:19] [Allison]: Yeah, I'll let the attorney know. That's okay. She'll have to go. She'll have to go, I mean, if she's unavailable, you know, can't do anything about that.
+[02:31] [Receptionist]: I see, I see.
+[02:33] [Allison]: Thank you.
+[02:34] [Receptionist]: No an issue at all. You are more than welcome. Anything else or that's all?
+[02:37] [Allison]: No. Have a good- you said your name was Antonio, right?
+[02:38] [Receptionist]: Angelo.
+[02:40] [Allison]: Angelo. Thank you, Angelo. Have a good weekend.
+[02:45] [Receptionist]: You as well. Have a good one. Bye.
+[02:48] [Allison]: Okay. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

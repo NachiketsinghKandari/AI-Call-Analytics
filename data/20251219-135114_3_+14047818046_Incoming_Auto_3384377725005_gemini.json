@@ -1,0 +1,30 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to reach two specific staff members at the caller's request. Both were unavailable. The caller declined to leave a message and the call concluded.",
+    "call_duration_seconds": 149.69,
+    "call_duration_formatted": "02:29"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member",
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false,
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff",
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to transfer the caller to Stephanie and then to Jonathan Steel; both were unavailable, and the caller declined to leave a message."
+  }
+}

@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Vane and Associates: 5 turns
+  • Speaker 2 / [Hannah] / Role: Caller from Esquire: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vane and Associates, Kim speaking.
+[00:06] [Hannah]: Yes, is uh Jayla available?
+[00:09] [Receptionist]: Jayla?
+[00:12] [Hannah]: Mhm.
+[00:13] [Receptionist]: Uh, Jayla Kennedy?
+[00:15] [Hannah]: Oh, okay.
+[00:16] [Receptionist]: Can I have your name and reason for calling?
+[00:19] [Hannah]: Uh, yes. This is Hannah with Esquire and I'm following up on um OAJ pricing.
+[00:26] [Receptionist]: Okay, one second.
+[00:27] [Hannah]: Sure.
+[00:28] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

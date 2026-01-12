@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Elizabeth / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Lionel speaking?
+[00:03] [Elizabeth]: Hi, Lionel. My name's Elizabeth calling from an attorney's office, calling from Jurewitz Law Firm. How are you?
+[00:09] [Receptionist]: I'm doing well, thank you for asking. How about yourself?
+[00:12] [Elizabeth]: I'm doing all right. Um, so reason for my call, so we actually have a current client, his name is Javonte Wright. It looks like you guys actually represent this client. I'm just trying to get clarification amongst his case. It looks like the case has settled, but then he reached out to us. Um, I have called previously, um, messages left to the case manager and I, um, went ahead and emailed her, but I haven't heard back.
+[00:41] [Receptionist]: Okay, that would be Victoria Morales. So, he, did he, um, retain you guys also?
+[00:48] [Elizabeth]: He did, yes, but it looks like this case has settled, so I'm trying to figure out, um, if you guys settled it...
+[00:55] [Receptionist]: Yes, it's in pre-lit closing. Just one sec, let me get her for you.
+[00:59] [Elizabeth]: Please, thank you.
+[01:01] [Receptionist]: Ma'am, looks like she's on another call right now. Can I have your number so I could have her reach out to you?
+[01:07] [Elizabeth]: Yeah, my name— um, my phone number, I'm sorry, is the 470-299-7622 number.
+[01:16] [Receptionist]: 7622. And the name?
+[01:19] [Elizabeth]: My name's Elizabeth.
+[01:21] [Receptionist]: Elizabeth.
+[01:22] [Elizabeth]: And then the case, I guess, the case has settled from— you guys have settled this case, are you able to provide me some type of details by any chance?
+[01:34] [Receptionist]: Um, other than the status, not really. I mean, it would definitely be Victoria, you know, that she could be able to update you. Mm-hmm.
+[01:44] [Elizabeth]: Okay. That's fine. All righty, I'll, um, keep an eye out for her call. Thank you.
+[01:50] [Receptionist]: Okay, you're welcome. Have a great rest of your day.
+[01:52] [Elizabeth]: You too. Bye-bye.
+[01:53] [Receptionist]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

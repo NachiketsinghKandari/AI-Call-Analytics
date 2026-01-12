@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the case manager for the file, informed the caller that she was currently unavailable, and the caller agreed to follow up by replying to the existing email demand.",
+    "call_duration_seconds": 157.25,
+    "call_duration_formatted": "02:37"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist checked the case manager's availability internally and provided the caller with instructions to follow up via email."
+  }
+}

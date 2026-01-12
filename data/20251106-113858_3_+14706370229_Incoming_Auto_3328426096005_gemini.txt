@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Baines and Associates: 8 turns
+  • Speaker 2 / [Tlisha Baines] / Role: Client: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Baines and Associates, Kimmy speaking.
+[00:04] [Tlisha Baines]: Hi, um, I'm calling to get information on my case.
+[00:10] [Receptionist]: Can I have your name please?
+[00:12] [Tlisha Baines]: Talisha Baines.
+[00:15] [Receptionist]: Could you spell that for me?
+[00:17] [Tlisha Baines]: It's T-L-I-S-H-A, last name is Baines, B-A-I-N-E-S.
+[00:23] [Receptionist]: Miss Baines, okay. Let me see if Miss Hobbs is available.
+[00:31] [ ... Silence (10s) ... ]
+[00:41] [Receptionist]: Miss Baines, Miss Linda is on another call right now. I can have her reach out once she's done.
+[00:47] [Receptionist]: Hello?
+[00:51] [Tlisha Baines]: Okay, that's fine.
+[00:53] [Receptionist]: All right then, I'll- I'll task her and then I'll send her a direct message so she can go ahead and reach out as soon as she's finished.
+[01:00] [Tlisha Baines]: Okay, thank you.
+[01:02] [Receptionist]: You're welcome. Have a great rest of your day.
+[01:05] [Tlisha Baines]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

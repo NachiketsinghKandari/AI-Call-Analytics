@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist gathered details regarding a potential bad faith insurance claim, consulted an attorney internally, and informed the caller that the firm could not accept the case because it did not involve bodily injury.",
+    "call_duration_seconds": 313.49,
+    "call_duration_formatted": "05:13"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist consulted an attorney while the caller was on hold and then provided the firm's decision directly to the caller."
+  }
+}

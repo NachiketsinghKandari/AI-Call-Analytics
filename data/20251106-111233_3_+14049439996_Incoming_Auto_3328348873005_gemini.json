@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": true,
+    "final_outcome": "The receptionist provided case manager email addresses for three different clients and then transferred the caller to a specific staff member.",
+    "call_duration_seconds": 169.63,
+    "call_duration_formatted": "02:49"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist provided contact information for three separate clients and then initiated a transfer to a specific staff member at the caller's request."
+  }
+}

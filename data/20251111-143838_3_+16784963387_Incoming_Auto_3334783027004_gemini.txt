@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Angelo / Role: Receptionist at Bay Area Associates: 11 turns
+  • Renee / Renee / Role: Employee at I-CO Orthopedics: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Angelo from Bay Area Associates, how may I help you?
+[00:07] [Renee]: Hi Angelo, Angelo, this is Renee again. I'm sorry, I missed one. This is Renee from I-CO Orthopedics.
+[00:15] [Receptionist]: No issue at all. Uh, what is the- what is the one that you missed?
+[00:20] [Renee]: Angelo, it's um, Khan is the last name, K-H-A-N, and the first name is Sh- Sh- Shakwana, I can spell it for you.
+[00:31] [Receptionist]: Okay.
+[00:32] [Renee]: It's S-H-A-K-W-A-N-A.
+[00:41] [Receptionist]: [ ... Silence (5s) ... ]
+[00:46] [Receptionist]: And the last name one more time?
+[00:49] [Renee]: It's K as in kite, H-A-N.
+[00:53] [Receptionist]: Thank you. When- when was the date of loss?
+[00:56] [Renee]: The date of loss is 1/31/25.
+[01:03] [Receptionist]: Yes. It shows liability demand mailed out. It shows UM demand ready.
+[01:16] [Renee]: Shows UM in- in demand ready.
+[01:20] [Receptionist]: Ready.
+[01:21] [Renee]: Okay. And the case manager for that one, Angelo?
+[01:24] [Receptionist]: The case manager is Peggy Almond.
+[01:33] [Renee]: Okay. I don't see her. How do you spell her- um, Peggy?
+[01:38] [Receptionist]: Peggy? Yes, it is P-A-Y-G-E. Like Pay-G-E.
+[01:47] [Renee]: Okay, I got it. I- I got it, yeah. And then Almond, yeah. I got it. Angelo, thanks a lot!
+[01:52] [Receptionist]: No- no issue at all. Have a good one. Bye-bye.
+[01:56] [Renee]: You too. Bye now.
+
+========================================
+TRANSCRIPT END
+========================================

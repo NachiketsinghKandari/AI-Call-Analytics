@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Diana Associates Law Firm: 3 turns
+  • Speaker 2 / [Dr. Hewitt McNeal] / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: The Diana Associates Law Firm, Devin speaking.
+[00:06] [Dr. Hewitt McNeal]: Yes, I'm trying to reach Tara Chapman, please.
+[00:10] [Receptionist]: Sure, may I ask who's calling?
+[00:13] [Dr. Hewitt McNeal]: Dr. Hewitt McNeal.
+[00:16] [Receptionist]: Okay, Mr. McNeal, let me put you on brief hold and connect you over.
+[00:19] [Dr. Hewitt McNeal]: Thank you so much.
+
+========================================
+TRANSCRIPT END
+========================================

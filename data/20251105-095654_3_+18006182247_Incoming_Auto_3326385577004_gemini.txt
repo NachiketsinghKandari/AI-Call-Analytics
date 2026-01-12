@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Automated Voice / Role: Automated Recording: 1 turn
+  • Speaker 2 / Maria / Role: Receptionist at Law Offices of Michael A. DeMayo: 7 turns
+  • Speaker 3 / Sarah Jenkins / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: Please call us back at 1-800-245-1900.
+[00:03] [Receptionist]: Thank you for calling the Law Offices of Michael A. DeMayo. This is Maria, how can I help you?
+[00:08] [Sarah Jenkins]: Hi, Maria. My name is Sarah Jenkins. I'm calling because I was in a car accident yesterday.
+[00:14] [Receptionist]: Oh, I'm so sorry to hear that, Sarah. Um, are you okay?
+[00:18] [Sarah Jenkins]: I'm, uh, I'm okay, but my- my neck is really stiff and I'm just, you know, a bit shaken up.
+[00:25] [Receptionist]: I understand. Let me get some information. What is a good phone number to reach you at?
+[00:31] [Sarah Jenkins]: It's, uh, 704-555-0123.
+[00:37] [Receptionist]: 704-555-0123. Got it. And, uh, where did the accident occur?
+[00:44] [Sarah Jenkins]: It was in Charlotte, on, um, Independence Boulevard.
+[00:49] [Receptionist]: Okay. And, uh, were you the driver or a passenger?
+[00:54] [Sarah Jenkins]: I was the driver.
+[00:56] [Receptionist]: Alright. I'm going to transfer you to one of our intake specialists, okay? Her name is Jessica.
+[01:02] [Sarah Jenkins]: Okay, thank you.
+[01:04] [Receptionist]: You're welcome. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

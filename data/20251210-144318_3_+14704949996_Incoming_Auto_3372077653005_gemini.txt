@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel. How can I help you?
+[00:06] [Unknown]: I'm trying to check on my claim.
+[00:09] [Receptionist]: Okay, may I have your phone number?
+[00:12] [Unknown]: 470-494-9966.
+[00:18] [ ... Silence (5s) ... ]
+[00:23] [Receptionist]: Okay, give me one moment.
+[00:26] [Receptionist]: Um, thank you so much for holding. The attorney is in a meeting right now. I will send her an email so that she can give you a call back.
+[00:34] [Unknown]: Okay.
+[00:38] [Unknown]: Tell her to call me back ASAP.
+[00:43] [Receptionist]: Yes, I will have her to give you a call back.
+[00:47] [Unknown]: Alright.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: [Receptionist] at Bain Associates: 10 turns
+  • Speaker 2 / Sarah / Role: Representative from Tutwiler Regional Hospital: 7 turns
+
+----------------------------------------
+
+[00:04] [Tasha]: Bain Associates, this is Tasha, how may I help you?
+[00:08] [Sarah]: Hi, this is Sarah with Tutwiler Regional Hospital. Um, I'm following up on a bill request that they had sent you all and trying to see if the bills ever got there.
+[00:19] [Tasha]: Okay.
+[00:21] [Sarah]: The patient is Ronald Kimbrow.
+[00:25] [Tasha]: Alrighty. Could you spell out that name, that last name for me please?
+[00:29] [Sarah]: K-I-M-B-R-O-W.
+[00:33] [Tasha]: One second here.
+[00:34] [ ... Silence (23s) ... ]
+[00:58] [Tasha]: I'm sorry, you said Kimbell or C- Kimbrow?
+[01:03] [Sarah]: Kimbrow. K-I-M-B-R-O-W.
+[01:06] [Tasha]: Oh, Ronald Kimbrow, got it. One second here.
+[01:07] [ ... Silence (21s) ... ]
+[01:29] [Tasha]: Okay. The person you need to speak to, ma'am, is the case manager. Uh, I can provide- I can transfer you over here and I can also provide you her contact info.
+[01:39] [Sarah]: You can transfer me over.
+[01:42] [Tasha]: Okay. Her case manager's name is Ms. Linda.
+[01:46] [Sarah]: Who?
+[01:48] [Tasha]: Ms. Linda. Linda Huff. Um, her contact number is 513-373-4064. I can see that Ms. Linda is on the other line. Um, would you like me to transfer her- transfer you to her personal voicemail?
+[02:06] [Sarah]: No, I'll just wait till she calls if she's looking for him. Thank you.
+[02:11] [Tasha]: Alrighty. Have a good one.
+
+========================================
+TRANSCRIPT END
+========================================

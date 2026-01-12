@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Daniel / Role: Receptionist at Beyer and Associates: 7 turns
+  • Daniel / Role: Representative at Acuity Insurance: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Beyer and Associates. This is Daniel.
+[00:07] [Daniel]: Hi, yes. My name is Daniel. I'm with Acuity Insurance. I'm calling in regards to your client, uh, Bree Simpson.
+[00:15] [Receptionist]: Um, I'm sorry, what was your name?
+[00:19] [Daniel]: Bree Simpson.
+[00:21] [Receptionist]: Yes, but what was your name?
+[00:24] [Daniel]: Oh, my name is, uh, Daniel with Acuity Insurance.
+[00:28] [Receptionist]: Oh.
+[00:31] [Receptionist]: Yes, how can I help you?
+[00:33] [Daniel]: I need to get some information in regards to the injuries she sustained.
+[00:39] [Receptionist]: Okay. Um, I can transfer to the case manager. Do you have any updates on the liability for this one?
+[00:46] [Daniel]: Uh, I just got this one. Uh, so I'm just trying to get all the information on it and see what's going on on this.
+[00:54] [Receptionist]: Okay. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

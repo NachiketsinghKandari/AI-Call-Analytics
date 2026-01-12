@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to locate the case manager for the caller. The staff member was unavailable, and the caller declined the offer to leave a voicemail, stating they would call back later.",
+    "call_duration_seconds": 57.46,
+    "call_duration_formatted": "00:57"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the case manager's availability, but the staff member was unavailable, and the caller declined the offer to be transferred to voicemail."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist determined the staff member was unavailable and offered voicemail, which the caller declined.",
+    "call_duration_seconds": 47.23,
+    "call_duration_formatted": "00:47"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist checked for the requested staff member, found them unavailable, and the caller declined to leave a voicemail."
+  }
+}

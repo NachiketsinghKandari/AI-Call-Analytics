@@ -1,0 +1,55 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Devon / Role: Receptionist at Bain and Associates Law Firm: 16 turns
+  • [Speaker 2] / Role: Caller from The PHIA Group: 16 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devon speaking.
+[00:05] [Speaker 2]: Hi Devon, I was wondering if you could help me with a check we received from your office?
+[00:11] [Receptionist]: Sure.
+[00:13] [Speaker 2]: Um, so the account number looks like we're missing some numbers or I just I can't find it in in our system to a person to apply it to. So I didn't know if you could pull up the account and maybe there'd be more information.
+[00:28] [Receptionist]: Okay. Um, did it have a client's name by any chance on it or anything?
+[00:34] [Speaker 2]: It does. Um, yep. The name in the memo is Andrea, A-N-D-R-E-A, space, Harris, H-A-R-R-I-S, dash, Goodwater.
+[00:50] [Receptionist]: Got it. Okay.
+[00:53] [ ... Silence (11s) ... ]
+[01:05] [Receptionist]: And where are you calling from?
+[01:07] [Speaker 2]: The PHIA Group, P-H-I-A.
+[01:11] [Receptionist]: Okay.
+[01:13] [Receptionist]: So what assistance can I give you with this one?
+[01:18] [Speaker 2]: I'm sorry, what was that?
+[01:20] [Receptionist]: I'm sorry?
+[01:22] [Speaker 2]: Oh, I thought you said something, I didn't hear.
+[01:24] [Receptionist]: No, uh, what assistance can I give you with this one today?
+[01:27] [Speaker 2]: Um, so there we have a check, um, check number 37162 and, um, I can't find it in our system with that name. So I didn't know if you had a fan number or, um, anything else to help us identify where to apply this check. Like did we send you any correspondence with, which would have a fan number on it, which is typically like starts with like a year, like 2025 or 2024 and then followed by numbers?
+[02:00] [Receptionist]: Okay. Let me take a look into that. That check was made out to PHIA Group.
+[02:11] [ ... Silence (42s) ... ]
+[02:54] [Receptionist]: I'm looking at the details right now, okay?
+[03:00] [ ... Silence (16s) ... ]
+[03:17] [Speaker 2]: If I, um, if I give you something that's also in the memo, it's an account number. It looks like it could be ours, but it's missing numbers at the end, but I didn't know if it was also maybe just your account number.
+[03:31] [Receptionist]: Okay. So this is regarding a Blue Cross Blue Shield lien.
+[03:35] [Speaker 2]: Mhm.
+[03:37] [Receptionist]: Okay. Let me look at the details of what account number. One second, okay?
+[03:52] [Speaker 2]: Does it, um, start with 2- 2019 1215?
+[03:57] [Receptionist]: Yes. So it would be related to, yes sir?
+[04:02] [Speaker 2]: Um, is just, is there numbers, like six numbers following that number?
+[04:09] [Receptionist]: It is. It is. Um, I was going to provide that to you. Um, so this lien was for, the case number is 2019 1225-001756.
+[04:30] [Speaker 2]: Can I repeat that to you? Um, 201225 or am I missing a number?
+[04:39] [Receptionist]: Yes, it's 2019. So 20- 20- yes, 2019 1225.
+[04:53] [Speaker 2]: Perfect.
+[04:55] [Receptionist]: 001756.
+[04:58] [Speaker 2]: 001756, correct.
+[05:01] [Speaker 2]: Perfect. Thank you so much. I appreciate the help.
+[05:03] [Receptionist]: You're more than welcome.
+[05:05] [Speaker 2]: Have a good day.
+[05:07] [Receptionist]: Is there anything else?
+[05:09] [Speaker 2]: Okay. Bye. Um, no, that's it. Thank you.
+[05:12] [Receptionist]: All right. You too.
+[05:14] [Speaker 2]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about a settlement check. The receptionist provided a status update and attempted to locate available staff. No staff were available to take the call, and no fallback action was established before the call concluded.",
+    "call_duration_seconds": 224.5,
+    "call_duration_formatted": "03:44"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered a transfer to voicemail and checked for available staff, but no transfer was successfully initiated as no one was available and the caller declined further assistance."
+  }
+}

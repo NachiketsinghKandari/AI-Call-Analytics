@@ -1,0 +1,27 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist initiated a transfer to a specific staff member to address the caller's request for settlement releases, and the call ended immediately afterward.",
+    "call_duration_seconds": 67.18,
+    "call_duration_formatted": "01:07"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated she would check for Victoria and the call ended during the transfer attempt."
+  }
+}

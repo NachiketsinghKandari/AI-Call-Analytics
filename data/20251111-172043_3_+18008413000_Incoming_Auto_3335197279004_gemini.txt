@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Fatima] / Role: Receptionist at MAP and Associates Law Firm: 3 turns
+  • Speaker 2 / [Logan] / Role: Representative from GEICO: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: M-A-P and Associates Law Firm, my name is Fatima, how may I assist you today?
+[00:07] [Logan]: Hi, yes, this is To- Logan with GEICO. I was calling to follow up in regards to your tax ID for your client Mr. Richard Lockett. Are you able to provide me with that at this moment?
+[00:19] [Receptionist]: What is the client's name? Richard Lockett?
+[00:23] [Logan]: Yes, ma'am.
+[00:24] [Receptionist]: All right. Allow me one moment. I'll see if the case manager is available because only she can help, okay? One moment, please.
+
+========================================
+TRANSCRIPT END
+========================================

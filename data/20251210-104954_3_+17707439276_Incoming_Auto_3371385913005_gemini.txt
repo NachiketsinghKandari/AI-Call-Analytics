@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Stacy / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Hello, this is Angelo speaking, how may I help you?
+[00:07] [Stacy]: Yes, my name is Stacy of Dominguez Chiropractic. I need to speak with the case manager of Christian Serrano.
+[00:13] [Receptionist]: Sure.
+[00:14] [ ... Silence (9s) ... ]
+[00:23] [Receptionist]: Can I have the date of birth?
+[00:25] [Stacy]: Yes, let me see. September 15, 1994.
+[00:33] [Receptionist]: Thank you.
+[00:34] [ ... Silence (6s) ... ]
+[00:40] [Receptionist]: All right, please stay on the line. Thank you for staying on. It looks like the case manager isn't available at this moment. Would you like to leave her a voicemail?
+[00:52] [Stacy]: Yes, I need to contact somebody ASAP with this case, you know. So who is the case manager, the name?
+[00:59] [Receptionist]: The name is Stephanie. Would you like to take her email?
+[01:04] [Stacy]: Stephanie, okay. I think I have the email already for her. Okay, um, can you take a message for her that I need that if she can call me back regarding this patient Dominguez Chiropractic please?
+[01:19] [Receptionist]: Sure, as I said, I can transfer you over to her voicemail and you can leave your name and number and everything.
+[01:27] [Stacy]: Okay.
+[01:28] [Receptionist]: Okay, let me pass you over right now.
+
+========================================
+TRANSCRIPT END
+========================================

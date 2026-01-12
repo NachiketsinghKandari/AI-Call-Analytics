@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to reach the assigned paralegal and attorney; both were unavailable. The receptionist provided the paralegal's direct phone number to the caller, who accepted the information to call back on Monday.",
+    "call_duration_seconds": 390.1,
+    "call_duration_formatted": "06:30"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to reach the paralegal and the attorney while the caller was on hold, but both were unavailable."
+  }
+}

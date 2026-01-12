@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller, a medical provider, attempted to return a call to a case manager regarding an urgent case review. The receptionist stated the staff member was unavailable and offered to transfer the caller to voicemail, but the caller declined and ended the call before any action was taken.",
+    "call_duration_seconds": 138.31,
+    "call_duration_formatted": "02:18"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was initiated. The receptionist offered a transfer to voicemail, but the caller ended the call before the transfer path was entered."
+  }
+}

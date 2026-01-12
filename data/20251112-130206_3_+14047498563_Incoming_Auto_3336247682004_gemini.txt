@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Design Yellow Sticky: 16 turns
+  • Speaker 2 / [Caller] / Role: Mother of Malia Skinner: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Design Yellow Sticky, may I help you?
+[00:06] [Caller]: Hi, good afternoon. May I speak with Matt Macaron?
+[00:16] [Receptionist]: Uh, yes. Good afternoon to you.
+[00:19] [Caller]: Hi, can you hear me?
+[00:22] [Receptionist]: Yes, I can hear you now. How may I help you?
+[00:24] [Caller]: Is this Matt Macaron?
+[00:26] [Receptionist]: Uh, no. But, uh, do you want to talk with him?
+[00:32] [Caller]: Yes, please. If I can, thank you.
+[00:35] [Receptionist]: May I know the reason? Are you a client?
+[00:38] [Caller]: Um, my daughter is.
+[00:42] [Receptionist]: Ah, okay, okay. Uh, what is your daughter's name?
+[00:44] [Caller]: Malia Skinner.
+[00:47] [ ... Silence (14s) ... ]
+[01:02] [Receptionist]: Okay. Uh, in this case, the one that you will need to talk with is with the case manager on this, on this case, which is...
+[01:12] [Caller]: Okay, it doesn't matter. Whomever is in charge, that's fine.
+[01:16] [Receptionist]: Yes, the person in charge of this. I going to consult if Payge is available. Let's stay on the line, okay?
+[01:21] [Caller]: No worries. Thank you.
+[01:24] [Receptionist]: Hello?
+[01:27] [Caller]: Hello?
+[01:28] [Receptionist]: Thank you for stay on the line. It looks like that your case manager at this moment is busy with another client. Uh, would you like to leave her a voice message in order that she can call you back?
+[01:37] [Caller]: Yeah, she can just return the call whenever she has time. That's fine. And her name is again, I'm sorry?
+[01:44] [Receptionist]: I going to spell it. It is P-A-Y-G-E. Payge.
+[01:52] [Caller]: P-A-Y-G-E. Payge. Okay.
+[01:55] [Receptionist]: Yes. And what is the best telephone number that she can call you back?
+[01:58] [Caller]: Um, 404-749-8563.
+[02:05] [Receptionist]: Thank you.
+[02:07] [Receptionist]: I going to leave her a, uh, a note here, an email saying that you wish to get a call back, okay?
+[02:13] [Caller]: Thank you.
+[02:15] [Receptionist]: All right. You're more than welcome. Something else or that's all?
+[02:18] [Caller]: No, that's it.
+[02:20] [Receptionist]: Have a good one.
+[02:22] [Caller]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

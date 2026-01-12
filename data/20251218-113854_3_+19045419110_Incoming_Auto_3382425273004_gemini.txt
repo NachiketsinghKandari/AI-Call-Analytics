@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dainel / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Olivia / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Dainel.
+[00:05] [Olivia]: Hi, my name is Olivia. I'm calling from Lane Star. Um, I was just calling to confirm that a check has been sent out for, um, a patient. The first name is K-A-S-H—
+[00:19] [Receptionist]: Sorry, can you just pronounce the name?
+[00:21] [Olivia]: Yes, Kesha Johnson.
+[00:24] [Receptionist]: Kesha Johnson.
+[00:28] [Olivia]: Yes.
+[00:30] [Receptionist]: Okay, and the date of loss?
+[00:33] [Olivia]: 8/5/2023.
+[00:37] [Receptionist]: 8/5/2023.
+[ ... Silence (15s) ... ]
+[00:56] [Receptionist]: And I'm sorry, for which facility?
+[01:01] [Olivia]: Um, I'm calling from Lane Star, but we own the United Spine and Ortho medical bills.
+[01:07] [Receptionist]: Okay, what is the amount of the check?
+[01:12] [Olivia]: Say that again? Sorry.
+[01:14] [Receptionist]: Yes, the amount of the check you're looking for.
+[01:17] [Olivia]: Um, let's see. The notes say... it should be 10,000.
+[ ... Silence (100s) ... ]
+[03:09] [Receptionist]: Honestly, I'm not sure, let me see something. Um, thank you so much for holding. I'm not quite sure if they were sent or not. You will need to talk to Tara. I tried to call her but she's not available. So you will need to send her an email to see what's going on.
+[03:30] [Olivia]: Yes. Could I be sent to her voicemail and leave, um, a voicemail?
+[03:35] [Receptionist]: Yes, definitely. One moment.
+[03:38] [Olivia]: Okay, thank you so much.
+
+========================================
+TRANSCRIPT END
+========================================

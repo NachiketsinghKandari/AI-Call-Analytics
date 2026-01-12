@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "pending_action",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist placed the caller on hold to check availability, and the call ended before a transfer or other terminal action was initiated.",
+    "call_duration_seconds": 40.82,
+    "call_duration_formatted": "00:40"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the call ended after the receptionist placed the caller on hold."
+  }
+}

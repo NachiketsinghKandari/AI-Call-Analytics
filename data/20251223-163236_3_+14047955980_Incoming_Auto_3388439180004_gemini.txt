@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller from AICA Orthopedics: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:04] [Unknown]: Hi, good afternoon. I'm calling from AICA Orthopedics in Buckhead. I was calling to speak to Linda Huff if she's available regarding Jabria Shelton?
+[00:14] [Receptionist]: Okay, I'll go ahead and transfer you over.
+[00:18] [Unknown]: Thank you.
+[00:19] [Receptionist]: You're welcome. You have a great rest of your day. Bye-bye.
+[00:22] [Unknown]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

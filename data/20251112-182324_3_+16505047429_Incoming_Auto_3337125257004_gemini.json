@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller contacted the firm to follow up on an intake regarding a slip and fall incident. The receptionist was unable to locate a file for the caller and stated that no other staff members were available to assist at that time. The caller was advised to call back the following day, and the call ended without a transfer or a message being taken.",
+    "call_duration_seconds": 417.17,
+    "call_duration_formatted": "06:57"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during this call."
+  }
+}

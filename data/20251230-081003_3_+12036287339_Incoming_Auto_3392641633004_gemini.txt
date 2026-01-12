@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 2 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bey and Associates, Kimmy speaking. Bey and Associates, Kimmy speaking. Hello?
+[ ... Silence (7s) ... ]
+[00:20] [Receptionist]: Hello? Hello? Hello?
+
+========================================
+TRANSCRIPT END
+========================================

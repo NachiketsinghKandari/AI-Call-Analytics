@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: [Receptionist] at Spencer and Associates: 12 turns
+  • Speaker 2 / Martin Drakes / Role: Deputy General Counsel at Esperion: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: S- Spencer and Associates, this is Angelo, how may I help you?
+[00:08] [Martin Drakes]: Hi, this is Martin Drakes, I'm the Deputy General Counsel at Esperion. May I speak with Michael Saul, please?
+[00:16] [Receptionist]: Uh, sure, you can talk with him, but just to confirm, are you calling in regards for one of our clients or...?
+[00:25] [Martin Drakes]: Yes, your client is Elizabeth Cole.
+[00:29] [Receptionist]: Elizabeth... alright. One minute. Cole, how do you spell Cole?
+[00:38] [Martin Drakes]: C-O-L-E.
+[00:40] [Receptionist]: Thank you, just to confirm and make sure, can I have the date of loss?
+[00:46] [Martin Drakes]: Uh, let's see, that is going to be 12/30/2023.
+[00:54] [Receptionist]: Thank you.
+[00:56] [ ... Silence (25s) ... ]
+[01:21] [Receptionist]: It's loading the case here. So, would you like to talk with Michael?
+[01:27] [Martin Drakes]: Yeah, he's who I've been corresponding with. Uh, is he the attorney or is he a case manager?
+[01:34] [Receptionist]: Um, but here in the system shows another person as the case manager, which is Victoria. Maybe Michael is the, just the intake person, like the person in charge for mailing and everything. Would you like to talk just with the case manager?
+[01:50] [Martin Drakes]: That would be wonderful.
+[01:52] [Receptionist]: Yes, which is Victoria, just for you to know before to transfer you. So I going to consult if she's available and, and pretty much it. Okay, stay on the line, please. Hold on.
+[02:01] [Martin Drakes]: Thank you.
+[02:06] [Receptionist]: Hello?
+[02:08] [Martin Drakes]: Yes, this is Martin Drake.
+[02:10] [Receptionist]: Yes, this is the same person. Thank you for staying on the line. Victoria is asking me like, from who are you calling from? Sorry, from the facility or insurance?
+[02:20] [Martin Drakes]: Um, no, so I'm with Esperion. We handle Northside and Houston Clinics' billing and, uh, hospital liens.
+[02:31] [Receptionist]: Mhm.
+[02:33] [Martin Drakes]: So we're call- there are actually liens from both Northside and Houston Clinic for your firm's client, Elizabeth Cole.
+[02:42] [Receptionist]: Ah, okay, okay. Stay on the line, please, then. Thank you, let me explain this to her.
+
+========================================
+TRANSCRIPT END
+========================================

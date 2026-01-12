@@ -1,0 +1,60 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bay and Associates Law Firm: 22 turns
+  • Speaker 2 / [Andrew]/ Role: Geico Claims Department: 21 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bay and Associates Law Firm, Devon speaking.
+[00:07] [Andrew]: Hello, uh, Devon, this is Andrew with the Geico Claims Department on a recorded line. I was giving you a call in reference to a Terrica Lockhart.
+[00:19] [Receptionist]: Let me pull it up. [ ... Silence (10s) ... ] Terrica Lockhart. Yes. Okay. Let me get you over to Stephanie. Thank you.
+[00:32] [ ... Silence (7s) ... ]
+[00:39] [Receptionist]: I'm sorry about that. Since Stephanie is away from her desk at the very moment, I'm only getting her voicemail.
+[00:47] [Andrew]: Is there a paralegal that I can speak to?
+[00:52] [Receptionist]: I can try reaching the attorney working on the file.
+[00:55] [Andrew]: Oh, that's fine.
+[00:56] [Receptionist]: Let me see if he's available, okay?
+[00:59] [Andrew]: Thanks.
+[01:02] [Receptionist]: Yeah, unfortunately, the attorney is unavailable as well. I'm only getting a voicemail as well.
+[01:12] [Receptionist]: I can provide you with Stephanie's email if you'd like.
+[01:15] [Andrew]: Uh, I'm sorry, you— I can't hear you now.
+[01:20] [Receptionist]: [Inaudible]
+[01:23] [Andrew]: No, it's very faint. Like you're on some, uh, phone from a long distance away.
+[01:33] [Receptionist]: Can you hear me better now?
+[01:39] [Andrew]: I can.
+[01:40] [Receptionist]: Yes, so apparently, uh, the attorney is unavailable as well. So I'm unable to connect the call. Yeah.
+[01:57] [Andrew]: Okay.
+[01:58] [Receptionist]: I can only get you over to Stephanie's...
+[02:03] [Andrew]: ...email...
+[02:04] [Receptionist]: ...voicemail or email.
+[02:06] [Andrew]: I'll take both. What's the, um, email and then you can put me over to the voicemail.
+[02:16] [ ... Silence (6s) ... ]
+[02:22] [Andrew]: You there?
+[02:23] [Receptionist]: Yes, I'm here. Can you hear me?
+[02:27] [Andrew]: I can hear you now.
+[02:29] [Receptionist]: Okay.
+[02:30] [Andrew]: Yes.
+[02:31] [Receptionist]: So, Stephanie's email is the following, which is Stephanie, that is S-T-E-P-H-A-N-I-E at bayandassociates.com.
+[02:57] [Andrew]: A-N-D?
+[02:58] [Receptionist]: Yes, sir. That's B-E-Y A-N-D associates dot com.
+[03:07] [Andrew]: Okay. Do you know the tax ID for your office or no?
+[03:13] [Receptionist]: I do. I do.
+[03:17] [Andrew]: Okay.
+[03:18] [Receptionist]: It is, let me just get it for you. Let me get my notes up. The tax ID is 263 849 125.
+[03:42] [Andrew]: Okay. [ ... Silence (15s) ... ] Now, what? Now I've got a problem. Just a moment here. [ ... Silence (15s) ... ] Can you give me that tax ID one more time? I'm sorry.
+[04:31] [Receptionist]: Yeah, no problem. 263 849 125.
+[04:44] [Andrew]: 125?
+[04:46] [Receptionist]: Yes, 125.
+[04:48] [Andrew]: Okay. All right, excellent. I appreciate it.
+[04:59] [Andrew]: Um, if they don't, I guess I'll send her an email then. And if you wouldn't mind, I'll still leave a message with her.
+[05:13] [Receptionist]: Okay. I can transfer over to the voicemail if you'd like.
+[05:18] [Andrew]: That's fine.
+[05:19] [Receptionist]: Let me go ahead and transfer you over, okay? Thank you so much.
+[05:24] [Andrew]: Great.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Sanjelo / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Susie Ockleberry / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Sanjelo from the Bey and Associates, how may I help?
+[00:08] [Susie Ockleberry]: Is this the law firm?
+[00:11] [Receptionist]: Yes, this is Sanjelo from Bey and Associates, how may I help?
+[00:15] [Susie Ockleberry]: Oh, okay. I couldn't understand, I'm sorry. Um, hey, I was trying to reach John. My name is Susie Ockleberry. Sorry, I couldn't hear you.
+[00:26] [Receptionist]: No worries. Are you trying to reach, uh, John Bey?
+[00:29] [Susie Ockleberry]: Yes. Yes.
+[00:31] [Receptionist]: Oh, may I know a reason why?
+[00:33] [Susie Ockleberry]: Uh, tell him it's in reference to an email I sent him about tournament sponsorship. He knows me.
+[00:42] [Receptionist]: Tournament sponsorship. Let me see if he's available, hold the line, thank you. Ma'am, thank you for staying on the line. It looks like that at this moment John isn't available. Uh, just to confirm, would you like to take the telephone number for one of his coworkers, the one of his associates? You can get in contact with him as well.
+[01:08] [Susie Ockleberry]: No, um, if you can just leave a message and have him call me back.
+[01:14] [Receptionist]: All right. Uh, I can pass you over to the voicemail for John Bey. Just leave your name, telephone, thank you. Have a good day.
+[01:24] [Susie Ockleberry]: Okay, that'll work. Thank you.
+[01:26] [Receptionist]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

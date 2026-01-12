@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the assigned attorney and initiated a transfer to the disbursement team after the caller agreed to be connected.",
+    "call_duration_seconds": 75.02,
+    "call_duration_formatted": "01:15"
+  },
+  "transfer_context": {
+    "destinations": [
+      "billing_and_disbursements"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist stated the intent to transfer the caller to the disbursement team and the call ended immediately after the caller was placed on hold."
+  }
+}

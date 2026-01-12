@@ -1,0 +1,210 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Jesse / Role: Receptionist at Bey and Associates: 41 turns
+  • [Jeneal Edwin] / Jeneal Edwin / Role: Caller: 40 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse. How can I assist you?
+[00:07] [Jeneal Edwin]: Hi, um, good morning. Um, I was calling to find an attorney, uh, because of my accident, my car accident yesterday.
+[00:17] [Receptionist]: Oh, you had a car accident today?
+[00:19] [Jeneal Edwin]: Yes.
+[00:21] [Receptionist]: Understood. Um, alright. Give me one more moment. I believe I can help with this.
+[00:29] [ ... Silence (10s) ... ]
+[00:31] [Jeneal Edwin]: What did you say your name was?
+[00:32] [Receptionist]: Uh, my name is Jesse. J-E-S-S-E.
+[00:36] [Jeneal Edwin]: Oh, okay. Okay.
+[00:42] [Receptionist]: And, uh, you were the person involved in the accident, correct?
+[00:46] [Jeneal Edwin]: Yes, I'm a— yeah, they hit me. Yeah, I was the driver, but I got hit from behind.
+[00:53] [Receptionist]: Got it. Got it. Understood. All right. Let me help you with this. Okay, do you allow me to place you on a brief hold for one minute, ma'am?
+[01:03] [Jeneal Edwin]: Sure.
+[01:04] [Receptionist]: I'll be right back with you real quick.
+[01:06] [Jeneal Edwin]: Okay.
+[01:09] [Receptionist]: All right, thank you so much for holding, ma'am.
+[01:11] [Jeneal Edwin]: Yes.
+[01:12] [Receptionist]: Excellent. So let me tell you, um, what we're going to do right now is we're going to complete your intake process. I'm going to take your information, I'm going to get some details regarding the accident, and then, um, I will send you the contract for you to sign, all right?
+[01:26] [Jeneal Edwin]: A contract, huh? Okay.
+[01:29] [Receptionist]: All right. That— that way you can review it and decide whether you want to sign it or not, okay?
+[01:35] [Jeneal Edwin]: Okay. Sure.
+[01:37] [Receptionist]: Perfect. So, can you provide me your name, ma'am?
+[01:41] [Jeneal Edwin]: Uh, Jeneal Edwin. J-E, J as in Jack, E as in elephant, N as in Nancy, N as in Nancy, I as in igloo, E as in elephant, L as in lion. Edwin.
+[02:00] [Receptionist]: Edwin. Got it.
+[02:02] [Jeneal Edwin]: E-D-W-I-N.
+[02:05] [Receptionist]: All right, perfect. Can you provide me with your address, ma'am?
+[02:09] [Jeneal Edwin]: Um, it's 331 Cheryl Court, C-H-E-R-Y-L, Jonesboro, Georgia, 30238.
+[02:26] [Receptionist]: 38 at the end?
+[02:28] [Jeneal Edwin]: Yeah, 30238.
+[02:34] [Receptionist]: And what was the name of the street, sorry?
+[02:37] [Jeneal Edwin]: The street? Uh, Valley Hill Road.
+[02:44] [Receptionist]: Oh, Valley Hill Road.
+[02:58] [Jeneal Edwin]: It was between, um, Valley Hill Road and between Robert Drive and Upper Riverdale Road.
+[03:11] [Receptionist]: Give me one moment. And you said that it was in Jonesboro, Georgia, right? Takes me to Riverdale. One moment.
+[03:20] [Jeneal Edwin]: Um, yeah, right at— I mean, I was in Riverdale already? I mean, I live in Jonesboro, but I don't— I think, I don't know if I was in Riverdale already because the border is so close, so must have been in Riverdale. But it's between— it's between Robert Drive and Upper Riverdale Road. Valley Hill— this road between is Valley Hill Road. Yeah.
+[03:51] [ ... Silence (20s) ... ]
+[04:11] [Receptionist]: You said that it was between which road, ma'am? Sorry.
+[04:14] [Jeneal Edwin]: No, no, I said Valley Hill Road, the— where I was, it was between the two intersection, the two steps— stoplights between, um, Robert Drive and Upper Riverdale Road. I was driving towards Upper Riverdale Road, going towards—
+[04:31] [Receptionist]: Oh, yeah, I'm sorry, ma'am. Uh, what I was asking is your physical address, where you live.
+[04:38] [Jeneal Edwin]: This is my— I gave you the physical address. What? It's in Jonesboro. Jonesboro. Oh, okay.
+[04:46] [Receptionist]: Jonesboro. Understood. I thought you were talking about the location of the accident.
+[04:50] [Jeneal Edwin]: No, no, no. It's Cheryl 331 Cheryl Court, Jonesboro, Georgia, 30238 zip code.
+[05:08] [Receptionist]: All right, excellent. Is this a house or an apartment, ma'am, where you live?
+[05:21] [Jeneal Edwin]: It's a house.
+[05:22] [Receptionist]: It's a house. Perfect. Can you provide me the best phone number to reach you?
+[05:27] [Jeneal Edwin]: Um, it's 470-855-8733.
+[05:43] [Receptionist]: 8733. Perfect. Can you provide me your email address, ma'am?
+[05:49] [Jeneal Edwin]: Uh, that would be J-A-Y, J as in Jack, A as in apple, Y as in yo-yo, E as in elephant, D as in dog, W as in watch, I as in ink, number one at gmail.com.
+[06:14] [Receptionist]: Thank you. Can you provide your date of birth, please?
+[06:18] [Jeneal Edwin]: Um, July 13, '83.
+[06:23] [Receptionist]: 1983. Okay.
+[06:29] [ ... Silence (11s) ... ]
+[06:40] [Receptionist]: Great. Can you provide me with your driver license number, ma'am?
+[06:43] [Jeneal Edwin]: Okay. Let me just see my driver license. Um, it's 061907263.
+[07:04] [Receptionist]: 263. Perfect. Thank you.
+[07:13] [Receptionist]: Uh, when did the accident happen to you, ma'am?
+[07:17] [Jeneal Edwin]: Yesterday morning. It was between, um, almost— almost 7:00. Between probably 6:50-some— 6:50-something. Let me see.
+[07:33] [Receptionist]: Between 6:50 and 7:00 o'clock in the morning?
+[07:37] [Jeneal Edwin]: Yeah. Yeah, around that time.
+[07:45] [Receptionist]: Got it. All right. And you said that it was today, right?
+[07:49] [Jeneal Edwin]: Yesterday.
+[07:50] [Receptionist]: Ah, yesterday. So it was December the— the 9th, right?
+[07:54] [Jeneal Edwin]: Yes, December the 9th.
+[07:56] [Receptionist]: Understood. Perfect. All right. Um, can you provide me a brief description of what happened, ma'am?
+[08:03] [Jeneal Edwin]: Um, it's— you know, normally in that area, um, I was driving heading towards Upper Riverdale Road. I was on my way to drop the kids, um, on the bus. And normally before you go in that intersection, you know, you have to slow down. So the vehicle in front of me slowed down, pulled the brakes, then I held my brakes. I don't drive close to vehicles, you know, that's something I always— because I have two children. And, um, that's when I held my brakes and like two seconds later, I just heard somebody went back in my butt. Hit me from behind.
+[08:48] [Receptionist]: Understood. All right.
+[08:51] [Jeneal Edwin]: The only bad thing I did was I was on my way to the bus, and, you know, and— they go to private school, right? And, um, they— um, there was this— this mom, both of us take our kids to the same— our kids go to the same school, so we they ride the bus together. And she was like about two or three vehicles behind me. And when the accident happened, I got out of the car and then I went to see, um, the other driver, asked if she was okay. I said, 'Was you not paying attention?' And she said something about, oh, her— she had some issues with her wheels. But I think she lied to the police and said— said something about her— her windshield was frosty or something. But what happened, the kids— the kids got out of the bus and the other lady was like, 'Okay, I'm going to take the kids to the bus.' And that was the wrong thing I did. Anyway, she took them to the bus and they went to school. And I called, you know, I called the police and they came. But when they came, the kids wasn't in the car. Right. However, they did take the information for the kids and, um, so— then while my daughter was, um, she was at school, while she was on the bus on arrival, I checked on her after. She said she had a slight headache. So I was like, 'You know what? I should go back for them.' So I went back for them and I took them to the— to the hospital to be checked.
+[10:28] [Receptionist]: Understood. Got it.
+[10:31] [Jeneal Edwin]: Yeah. So they wasn't in the car, but I did tell the police officer that they were there, but they weren't at the scene when the police officer came, you know, each way.
+[10:43] [Receptionist]: Understood. Understood. Okay. All right. And let me ask you, um, did you have previous representation for this case? Did you speak to another attorney about this?
+[10:51] [Jeneal Edwin]: No, I haven't spoken to nobody.
+[10:55] [Receptionist]: Ma'am, I'm sorry about this. Can you provide me the legal spelling for your first name again?
+[11:02] [Jeneal Edwin]: Legal spelling? J as in Jack, E as in elephant, N as in Nancy, N as in Nancy, I as in igloo or ink— ink. And E as in elephant, L as in lion.
+[11:23] [Receptionist]: Jeneal. Perfect. Jeneal. Excellent. Thank you so much, ma'am. All right. And let me ask you, ma'am, what is your current marital status?
+[11:32] [Jeneal Edwin]: Um, I'm— I'm divorced. Been single for— I've been single for a while. Nine years.
+[11:42] [Receptionist]: Nine years. Got it. Got it. All right. You mentioned that the incident happened between 6:50 and 7:00 AM. You mentioned that the police arrived at the scene. Who was the department that arrived at the scene, ma'am?
+[11:55] [Jeneal Edwin]: Who— you mean the name of the lieutenant?
+[12:00] [Receptionist]: No, well, the name of the police department. I'm sorry.
+[12:03] [Jeneal Edwin]: Clayton County. Clayton. The Clayton County, um, County Police Department.
+[12:15] [Receptionist]: Clayton County. Got it.
+[12:17] [Jeneal Edwin]: And the— um, the ambulance, it was the firefighters, you know, um, came.
+[12:21] [Receptionist]: Got it. So you were transported in an ambulance?
+[12:24] [Jeneal Edwin]: No. What hap— I mean, I'm not going to lie. I'm— I'm a very— I try to be honest because I don't do well when I'm dishonest, to tell you the truth. So I— I'm not feeling anything to tell you the truth. I feel fine. I didn't really have like— I didn't get hit my head or anything. They didn't get hit. So I was fine. The kids told me at the time they were fine. But now, um— so I didn't go to the emergency room. They checked, but I was fine. They said if I wanted to go, I said no. But when I called my boss—
+[12:59] [Receptionist]: Right.
+[13:00] [Jeneal Edwin]: —he said, 'Oh, I need you to go checked out, medically cleared before you could go back to work.' Got it. And when I— when I realized that, I said, 'You know what? If I'm going to go, I should as well go and—' so I went back to pick up my kids at the school and I took them— we went to the hospital and I took took them as well. But this morning I realized— this morning my daughter and, you know, they said the neck is feeling a little stiff, they— you know. I gave them some Tylenol and, um, so we have a follow-up. I'm going to follow up with the pediatrician tomorrow. Um, but as far as for myself, I feel fine. For so far, I'm feeling okay.
+[13:50] [Receptionist]: Okay. Okay. So, um, there was no ambulance at the scene. However, you did go to the hospital. Did you go to the hospital, uh, right away?
+[14:00] [Jeneal Edwin]: Like I said, the ambulance— it wasn't the— it was the— the firefighters. Yeah. So the— you know, they do the same thing as the ambulance basically. Well, to some extent. Um, so after, you know, the other car was— got told on— told and, um, you know, her car got real bad. I got some pictures. My— so after I was relieved to go, the police gave me the card with, you know, with the incident report number and everything. I— I spoke to my boss. Then my boss— I called my boss after I called 911, I called my boss and that's when he said, 'You need to go checked out.' And then my daughter, she— um, she did tell me that, you know, her head was hurting her. So I said, 'You know what? I felt really— I guess I just didn't act right because I allowed them to go to school and I did not allow, you know, the police to see them or—' they said they were fine. And, um, so I went and— I went and get them and— they go to school in Atlanta.
+[15:16] [Receptionist]: All right. Uh, okay. So, right. No worries, ma'am. Let me tell you what— um, let me, um, ask you a few more questions and then I'm going to get the detail for the police report, all right?
+[15:28] [Jeneal Edwin]: Okay.
+[15:29] [Receptionist]: Okay. So just to be clear, you did go to the hospital, right, after the accident?
+[15:34] [Jeneal Edwin]: I did. But it was— I went and pick up the kids first and then I went straight. I didn't go anywhere else but to the school, pick up the children and went— took them to the hospital at Southern Regional.
+[15:45] [Receptionist]: All right. Yeah, yeah. No worries. Excellent. That's what I wanted to ask you. What is the name of the hospital that you went to?
+[15:50] [Jeneal Edwin]: Yeah, Southern Regional Medical Center in Riverdale.
+[15:58] [Receptionist]: Southern. Southern.
+[16:11] [Receptionist]: Okay, so I found here the Southern Regional Medical Center. Did you go to the one located in 11 Upper Riverdale Road in Riverdale, ma'am? Is that the location you went?
+[16:23] [Jeneal Edwin]: Yes. Yes, sir.
+[16:27] [Receptionist]: Excellent. And did you get X-rays taken at the hospital, ma'am?
+[16:32] [Jeneal Edwin]: Nope. Um, you know, that's why my boss said I'd rather you go to the hospital, but because I told them that I wasn't, you know, I wasn't feeling sick or anything, I wasn't feeling hurt, they didn't take any X-rays.
+[16:47] [Receptionist]: Understood. No X-rays. Got it. All right. And—
+[16:51] [Jeneal Edwin]: But I'm going to take my kids back. They said if anything, bring them back in two days. And this morning they wasn't feeling well. They— you know, I gave them some Tylenol. The doctor said if I feel any pain, whatever, take some, you know, painkillers. But I will definitely bring the kids back. As for me, I'm feeling fine, but they said the neck is stiff and, um, you know, I'm concerned about the children.
+[17:18] [Receptionist]: All right. No worries, ma'am. Let me tell you, um, uh, I'll get all those details. Um, so let me ask you, can you provide me with the police report number?
+[17:29] [Jeneal Edwin]: Okay. It's 25015243.
+[17:40] [Receptionist]: 243. Got it. And this police report was complete— was, let's say, was done today, right?
+[17:47] [Jeneal Edwin]: Yesterday. At the— at the, you know, the time it happened on the 9th. Accident was yesterday.
+[17:53] [Receptionist]: Ah, yes, yes. My— my bad. Yes, it happened yesterday. All right. So the police report usually takes like around five business days to be ready. So I'm going to be following up with— with it daily, all right?
+[18:05] [Jeneal Edwin]: Okay.
+[18:06] [Receptionist]: All right. So just to confirm with you, you said 25015243, right?
+[18:13] [Jeneal Edwin]: Yes.
+[18:15] [Receptionist]: Perfect. All right. Um, okay. Now let me ask you, um, what insurance do you have, ma'am?
+[18:24] [Jeneal Edwin]: At this current moment?
+[18:26] [Receptionist]: Yes.
+[18:27] [Jeneal Edwin]: At this current moment, I do not have— I was using Aetna, I'm using, but, um, I think it's going to— as of this month, it's not going to be available next year. And, um, I just applied for insurance at my job. I think it's, um, Cigna, but it hasn't been— I haven't really— everything hasn't been finalized yet. So basically I have— I could say that I don't have no insurance right now. And the children are using PeachCare, but they didn't even ask us for no insurance at the hospital since it was an accident.
+[19:01] [Receptionist]: Okay. Okay. So, um, basically you don't have insurance at the moment, right?
+[19:08] [Jeneal Edwin]: No. Because the Aetna I used it— I used it last year. I had the Aetna and I was using it, but they kept on sending me a bill. And I'm like, I did pay for my copay, but yet still they sending me a bill. So I don't think Georgia is really accepting Aetna anymore. So I don't really have insurance right now.
+[19:31] [Receptionist]: Understood. All right.
+[19:33] [Jeneal Edwin]: Other than Medicaid for the children.
+[19:37] [Receptionist]: Okay. Can you provide me the, uh, year, make, and model of the vehicle you were driving, ma'am?
+[19:45] [Jeneal Edwin]: Um, it's a Nissan Rogue, um, 2011. I know my vehicle is old, but, um, this is my only means of transportation.
+[20:00] [Receptionist]: No, no, don't worry, ma'am. Don't worry at all.
+[20:03] [Jeneal Edwin]: It is my only means of trans— I just bought this house that I'm in. It's crazy. I just bought my house in— um, in June, actually in May, the last day of May. And I only have one vehicle. The trunk is not opening. I got some pictures if you, um, I could send you the pictures so you could see.
+[20:27] [Receptionist]: Ah, yes, ma'am. Yes. Let me just, um, yes, yes. I do got to ask you a few more questions. So let me go ahead and complete the intake and I'll get those details, ma'am. For sure. Just— just one moment. You mentioned that you do have pictures of the damages, right?
+[20:43] [Jeneal Edwin]: Yes, I do.
+[20:45] [Receptionist]: Got it. Was your vehicle towed?
+[20:48] [Jeneal Edwin]: No. It's still drivable, which I'm— I'm thankful because like I said, that's my only means of transportation.
+[20:56] [Receptionist]: Right. Right.
+[20:58] [Jeneal Edwin]: The other vehicle, however, was towed.
+[21:01] [Receptionist]: All right. Let me ask you now, ma'am, um, you mentioned that your neck was stiff. Aside from that, is there any other injury that we need to report?
+[21:11] [Jeneal Edwin]: Well, I— I said I do not have any injury. My kids were the one who said their neck are stiff this morning. It wasn't me.
+[21:20] [Receptionist]: Got it. Got it.
+[21:21] [Jeneal Edwin]: I don't know if I'm going to feel anything afterwards, later on, but, you know, as of now, honestly speaking, I'm not feeling anything and I'm not going to lie about it, you know.
+[21:31] [Receptionist]: Understood. And let me ask you, ma'am, would you like us to represent your children also on this case?
+[21:38] [Jeneal Edwin]: Sure.
+[21:40] [Receptionist]: Understood. All right, so I'm going to get, uh, some information from them. Can you provide me the first name of your child?
+[21:48] [Jeneal Edwin]: Oh. Oh, okay. Okay. Yes, my first name— my daughter is Danaya. D as in David or dog, A as in apple, N as in Nancy, I as in ink, A as in apple, H as in horse. Danaya David. Danaya— you need the middle name too?
+[22:20] [Receptionist]: Uh, no, it's okay. Just her last name. You said it was Davis?
+[22:23] [Jeneal Edwin]: David. D-A-V-I-D. D as in dog, A as in apple, V as in van, I as in ink, D as in dog.
+[22:34] [Receptionist]: All right. And, um, is she a minor?
+[22:38] [Jeneal Edwin]: Yes, she's 12 years old.
+[22:41] [Receptionist]: Minor. All right. Got it. And, uh, she was the one that had her neck stiff?
+[22:47] [Jeneal Edwin]: Yeah. Actually both— both of them said their neck is kind of stiff this morning. So, um, I gave them some Tylenol and, um, I sent them to school, but I told them, um, I'm going to take them to the doctor. I know the Tylenol kind of, you know, take away the pain. And, um, I will take them to the doctor tomorrow. Or if when I pick them up this afternoon, it's still— I told my daughter if anything, just let the teacher know or call me, you know, I'll pick her up. Um, I wasn't able to go to work. My boss said I had to take the— the doctor said I have to take two days off. So, which—
+[23:30] [Receptionist]: Okay.
+[23:31] [Jeneal Edwin]: I am not happy about getting two days off. Um.
+[23:35] [Receptionist]: I— I understand. Thank you so much for the information, ma'am. And let me ask you a few more questions. So for Danaya, aside from her neck, is there any other injury that she sustained?
+[23:46] [Jeneal Edwin]: No. No, sir.
+[23:49] [Receptionist]: No. Perfect. Uh, is— was there other child involved in the accident, ma'am?
+[23:53] [Jeneal Edwin]: Yes, my son. My son, um, Dreton. He's D as in dog, R as in rose, E as in elephant, he put an accent right on top of the E, and T as in Tom, O as in octopus, and N as in Nancy. He's Dreton David.
+[24:18] [Receptionist]: David. Is he a minor also?
+[24:20] [Jeneal Edwin]: Yes, he's 10 years old.
+[24:23] [Receptionist]: He's 10. And, um, aside from his stiff neck, uh, did he sustain any other injury?
+[24:29] [Jeneal Edwin]: No. No, sir.
+[24:33] [Receptionist]: Got it. Was there any other person involved in the accident, ma'am?
+[24:36] [Jeneal Edwin]: Well, like— like I said, nobody else. But like I said, be mindful that I did, like I said, I told— the police wasn't in the car when the police arrived. But I did take them to the hospital. Um, um, there was nobody else involved. Like I said, my— the other parent was two vehicles away from me, so she took them to the bus. Which I wasn't thinking at the time, all I was thinking was getting them to school and resolving that accident so I could head to work. I wasn't thinking that I might have to go to the hospital. Like if I was feeling sick, of course, but the— my— my boss said you gotta go to the hospital to get medically cleared or else you can't come back to work, you know. And, um—
+[25:27] [Receptionist]: Okay. Got it. Perfect. Thank you so much for those details, ma'am. Now, um, let me ask you, did— did you had any prior injuries previous to this accident?
+[25:37] [Jeneal Edwin]: No. I've been— I've been in perfect health.
+[25:42] [Receptionist]: No. Perfect. All right. And are you losing wages because of the accident?
+[25:46] [Jeneal Edwin]: Yes. That's what I'm saying. Like I missed two days, yesterday and today, they don't— I don't get paid. Um, I don't really have benefits.
+[25:56] [Receptionist]: All right. Have you ever filed for bankruptcy, ma'am?
+[26:00] [Jeneal Edwin]: No, sir.
+[26:03] [Receptionist]: No bankruptcy. Got it. And do you receive Medicaid or Medicare?
+[26:08] [Jeneal Edwin]: I only receive Medicaid for the children. I don't receive for myself.
+[26:13] [Receptionist]: Yes, that's what I was asking. So for yourself, no, but the children do. Perfect.
+[26:18] [Jeneal Edwin]: Yeah. PeachCare. Yeah.
+[26:24] [Receptionist]: PeachCare. PeachCare would be the provider of the Medicare for your children?
+[26:29] [Jeneal Edwin]: Yeah, Medicaid. Yeah. Um, they use Amerigroup. Amerigroup Solution. Yeah.
+[26:42] [Receptionist]: Medicaid for the children. Perfect. Thank you, ma'am.
+[26:51] [ ... Silence (6s) ... ]
+[26:57] [Receptionist]: So, um, these are all the questions that I needed to ask you to complete your intake process, ma'am. Let me tell you. Um, so the next step— the next step will be that, um, we're going to send you the contract via text message for you to review and sign. Once you sign the contract, if you decide to continue with us, you will be assigned a case manager who will be your best point of contact. And then we'll let you know what the next steps will be, ma'am, all right? Just start working on your case.
+[27:23] [Jeneal Edwin]: Do I have to pay any fee?
+[27:25] [Receptionist]: Uh, no, ma'am. It's a contingency-based contract. What this means is that you do not have to pay anything until we win the case, all right?
+[27:35] [Jeneal Edwin]: Okay.
+[27:36] [Receptionist]: In case we do not win the case, there will be no fees for you to cover, all right?
+[27:44] [Jeneal Edwin]: Okay. So, um, okay. Let's— let's say you guys have the case, am I— are they going to fix my vehicle? Because I need my vehicle fixed.
+[27:55] [Receptionist]: Uh, well, um—
+[27:57] [Jeneal Edwin]: The insurance, the other person's insurance will fix my vehicle, right?
+[28:01] [Receptionist]: Uh, yes, that's what we're going to do. We're going to, um, once we have the police report and we'll see if there is a claim filed under the other person's insurance. If there isn't one, we'll go ahead and file one for you.
+[28:15] [Jeneal Edwin]: Well, I haven't filed a claim yet. Should I go ahead or you leave that on to you guys to do?
+[28:22] [Receptionist]: Um, I mean, you could file a claim if you like, no— no troubles with that. But if you would like for us to file it, we can also do that, ma'am. No issues with it.
+[28:38] [Jeneal Edwin]: Um, because I didn't even take, I don't, you know, I didn't even take her information or anything. I guess the police did.
+[28:47] [Receptionist]: Right. That's what we get from the police report. Once we have the police report, like, let's say, the digital copy of the police report, we'll get all the information about the other driver, the policy number, the insurance, all that. So if you don't have any information for you to file the claim, don't worry, ma'am, we can do that for you once we have the police report.
+[29:10] [Jeneal Edwin]: Okay.
+[29:12] [Receptionist]: Okay. Great.
+[29:14] [Jeneal Edwin]: Okay. Great.
+[29:16] [Receptionist]: Okay. So, um, let me ask you, let me tell you, as of right now, that will be all from my end. We completed your intake process. Like I said, I'm going to send you the contract via text message. Do you have any questions for me, ma'am, at the moment?
+[29:31] [Jeneal Edwin]: Um, not really. I just wanted to know, you know, when we file the claim and the— I just want my vehicle fixed and, you know, whatever medical bill that I'm going to have, you know, taken care of, my— and my kids and, um—
+[29:46] [Receptionist]: Yes. Yes, I believe all of that comes out of the settlement, ma'am.
+[29:51] [Jeneal Edwin]: Yeah.
+[29:53] [Receptionist]: Okay.
+[29:55] [Jeneal Edwin]: All right. That's it.
+[29:56] [Receptionist]: Do you have any other questions?
+[29:58] [Jeneal Edwin]: No, sir.
+[30:02] [Receptionist]: Understood. Understood. Perfect. All right. So I'll send you the contract, ma'am, um, via text message and I'll follow up with you, all right?
+[30:08] [Jeneal Edwin]: All right. Thank you.
+[30:11] [Receptionist]: Perfect. Thank you. And thank you so much for calling Bey and Associates. I hope you have an excellent day, ma'am.
+[30:17] [Jeneal Edwin]: You too. Thank you. Bye-bye.
+[30:20] [Receptionist]: Thank you. All right.
+[30:22] [Jeneal Edwin]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

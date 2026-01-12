@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 1 turn
+  • Speaker 2 / Unknown / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina speaking. How can I help you?
+[00:08] [Unknown]: Hello?
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Nathan / Role: Receptionist at the Law Firm: 4 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling the Law Firm. This is Nathan speaking.
+[00:05] [Speaker 2]: Hello. Um, I was trying to reach Ms. Anita Washington?
+[00:12] [Receptionist]: Ms. Anita's not available at the moment. She's in court today. But can I get you over to her line for a message?
+[00:21] [Speaker 2]: Yes, please.
+[00:23] [Receptionist]: Okay. Let me transfer you over, alright?
+[00:27] [Speaker 2]: Thank you.
+[00:28] [Receptionist]: You're welcome, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

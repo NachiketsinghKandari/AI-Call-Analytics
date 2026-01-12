@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the status of the case filing and confirmed that a courtesy copy of the suit would be sent to the insurance representative.",
+    "call_duration_seconds": 87.41,
+    "call_duration_formatted": "01:27"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered a transfer to a specific staff member, but the caller declined the offer after receiving the requested case information."
+  }
+}

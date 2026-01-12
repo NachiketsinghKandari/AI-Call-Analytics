@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / James / Role: Caller from Progressive Claims: 2 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bey and Associates, Kim speaking?
+[00:09] [James]: Excuse me. Hey, good afternoon. This is James with Progressive Claims, calling to speak to somebody handling the case for Gracia Orellana, O-R-E-L-L-A-N-A.
+[00:21] [Receptionist]: Sure. Um, let me see who's handling that. Stephanie Peck is handling it. I'll go ahead and transfer you over to her.
+[00:33] [James]: All right. Thank you.
+[00:35] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

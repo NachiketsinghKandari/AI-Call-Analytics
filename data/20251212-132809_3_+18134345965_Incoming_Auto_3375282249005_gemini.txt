@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Alonzo Gomez / Role: Caller: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you?
+[00:06] [Alonzo Gomez]: How are you guys? I was wondering if I could talk to my attorney Michael?
+[00:11] [Receptionist]: Michael, sure. Can I have your name?
+[00:14] [Alonzo Gomez]: Alonzo, A-L-O-N-Z-O, Gomez, G-O-M-E-Z.
+[00:22] [ ... Silence (8s) ... ]
+[00:30] [Receptionist]: And can I have the, sorry, the date of loss?
+[00:34] [Alonzo Gomez]: The date of what? The claim? Uh, May 14th, 2025, yes.
+[00:42] [Receptionist]: All right. Uh, remember then the best point of contact it is your case manager in case that you wish to get any update or something—
+[00:49] [Alonzo Gomez]: No, I know, I know, I know you're talking about Stafford. No, I want to talk to my attorney though, I want to talk to Michael.
+[00:57] [Receptionist]: Um, your attorney it is— it isn't Michael, it is Taylor Middleton.
+[01:04] [Alonzo Gomez]: Oh, so they switched? All right, well, him.
+[01:08] [Receptionist]: Okay, may I know a reason why? Because he will ask me.
+[01:12] [Alonzo Gomez]: Um, because I want to talk about my settlement.
+[01:16] [Receptionist]: Your settlement. Hold on. All right, sir, thank you for staying on the line so far. Taylor Middleton isn't available. Would you like to leave a voice message and whenever he's available he will call you back? Would you like to take his personal number?
+[01:31] [Alonzo Gomez]: Yes.
+[01:32] [Receptionist]: All right, ready?
+[01:34] [Alonzo Gomez]: 813—
+[01:36] [Receptionist]: It is—
+[01:37] [Alonzo Gomez]: 813-434-5665.
+[01:43] [Receptionist]: All right, would you like me to take your number too for him to call you? Okay, let me look at the number.
+[01:49] [Alonzo Gomez]: All right.
+[01:50] [Receptionist]: So I will leave the documentation here to please call.
+[01:56] [Alonzo Gomez]: All right.
+[01:57] [Receptionist]: Anything else or that's all?
+[02:00] [Alonzo Gomez]: That's all.
+[02:01] [Receptionist]: All right, have a good one, have a—
+[02:04] [Alonzo Gomez]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

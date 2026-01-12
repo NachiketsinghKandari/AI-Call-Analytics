@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Candy / Role: Caller from AICA Orthopedics: 9 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:07] [Candy]: Hi, this is Candy with AICA Orthopedics. I'm trying to reach a case manager for one of your clients. The client's name is Kelly Franklin Bonnet.
+[00:18] [Receptionist]: Okay, Kelly...
+[00:22] [ ... Silence (6s) ... ]
+[00:28] [Candy]: And I did call, I was told Fatima was her case manager, but I have called her a couple of times and I've never received any response, so I'm not sure if she's still the case manager or not.
+[00:41] [ ... Silence (15s) ... ]
+[00:56] [Receptionist]: Okay. Um, actually the one that is handling this is Mr. Matt McCarren, but he's not in today. Would you like to leave him a voicemail?
+[01:05] [Candy]: Yes. Can you— how do you spell his last name?
+[01:08] [Receptionist]: M-C-C-A-R-R-E-N, McCarren.
+[01:13] [Candy]: Okay, and is he the attorney or is he the, um, case manager or legal assistant?
+[01:20] [Receptionist]: Um, he's a legal assistant.
+[01:22] [Candy]: All right. Does he have a phone number that I can plug in my system here so I don't call the wrong person again?
+[01:30] [Receptionist]: Okay. Um, well his is the same one and then his extension is 7014.
+[01:37] [Candy]: All right. And what's his email, if you don't— if you don't mind?
+[01:40] [Receptionist]: Matt, M-A-T-T, at Bey, B-E-Y, A-N-D, associates with an S, dot com.
+[01:51] [Candy]: Okay, perfect. Yes, if you don't mind putting me in touch with his, um, voicemail, I'll go ahead and leave him a message. Now, is he going to be in on Friday? Because I'm off on Friday.
+[01:59] [Receptionist]: He possibly is, yeah. Okay, I'll let him know.
+[02:03] [Candy]: All right then. Thank you.
+[02:05] [Receptionist]: You're welcome. Have a great day.
+[02:07] [Candy]: You too. Bye-bye.
+[02:08] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

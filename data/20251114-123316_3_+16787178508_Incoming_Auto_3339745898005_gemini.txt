@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Serena / [Receptionist] / Role: Receptionist at A and S Law Firm: 6 turns
+  • Speaker 2 / [Unknown] / Role: Potential Client: 6 turns
+
+----------------------------------------
+
+[00:00] [Serena]: A and S Law Firm, this is Serena speaking, how may I help you today?
+[00:07] [Speaker 2]: Hi there. Good morning. I had... I wanted to know if you guys offer like free consultations?
+[00:16] [Serena]: Free consultations?
+[00:19] [Speaker 2]: Yes.
+[00:21] [Serena]: Um, give me just a second. B-E-Y for bay, the N with N without doubt. Thank you for holding. Yes, we do give free consultations.
+[00:32] [Speaker 2]: I'm sorry, what was that?
+[00:34] [Serena]: Yes, we do provide free consultations. How can I help you?
+[00:41] [Speaker 2]: Okay. Um, yes. So I wanted to, you know, um, I wanted to speak to someone um because I am dealing with a a hit and run um and I'm having to go through my insurance my insurance which is fine.
+[01:00] [Serena]: Okay, so you'd like to speak to an attorney?
+[01:04] [Speaker 2]: Yes.
+[01:06] [Serena]: Perfect. Let me place you on a brief hold, okay?
+[01:11] [Speaker 2]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

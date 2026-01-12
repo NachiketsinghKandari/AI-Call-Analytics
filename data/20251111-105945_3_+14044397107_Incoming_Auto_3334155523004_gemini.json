@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist placed the caller on hold to consult with a case manager and then returned to the line to grant the insurance representative permission to contact the client regarding property damage.",
+    "call_duration_seconds": 100.15,
+    "call_duration_formatted": "01:40"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist resolved the inquiry directly after an internal consultation while the caller remained on the line."
+  }
+}

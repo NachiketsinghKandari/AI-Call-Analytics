@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devin / Role: [Receptionist] at Bain and Associates Law Firm: 6 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devin speaking.
+[00:05] [Speaker 2]: Yes, I'm trying to get in contact with Taylor Middleton.
+[00:08] [Receptionist]: Taylor Middleton?
+[00:12] [Speaker 2]: Yes.
+[00:13] [Receptionist]: Okay. Let me see if she's still available because she may have already left the office today, sir.
+[00:19] [Speaker 2]: All right.
+[00:20] [Receptionist]: Let me check for you real quick.
+[00:22] [Speaker 2]: Yes. Get your blood pressure again? Right.
+[00:24] [Receptionist]: Yes, sir. She already left for today. I can transfer you over to her voicemail if you'd like.
+[00:30] [Speaker 2]: All right, please.
+[00:32] [Receptionist]: One moment.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 17 turns
+  • Speaker 2 / Gregory Gilyord / Role: Caller: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Gregory Gilyord]: Oh, yes, this is uh, Gregory Gilyord. I was calling about uh, I received an email saying that y'all can no longer uh, assist me in my case. And I was trying to uh, get some more information about that.
+[00:22] [Receptionist]: About your case, sir?
+[00:24] [Gregory Gilyord]: Uh, yes.
+[00:28] [Receptionist]: Let me go ahead and take a look. Can I please have your name?
+[00:31] [Gregory Gilyord]: Yes, uh, my name is Gregory Gilyord. G-I-L-Y-O-R-D.
+[00:42] [Receptionist]: Thank you, Gregory. Let's see. Just one moment.
+[00:48] [ ... Silence (8s) ... ]
+[00:56] [Receptionist]: And did you apply for uh, for a contract recently by any chance?
+[01:05] [Gregory Gilyord]: Yes, I applied for one.
+[01:07] [Receptionist]: Ah, okay. Your case is under review.
+[01:11] [Gregory Gilyord]: Okay. Yes.
+[01:13] [Receptionist]: Yes, so far it is under review. And what, did you receive an email? You said you received an email?
+[01:22] [Gregory Gilyord]: Oh, yeah, yeah. Yeah, email said uh, um, can no longer uh, assist.
+[01:31] [Receptionist]: It says that we can no longer assist? Uh, if it says that, it's because the, let's see. Let me make some review.
+[01:41] [ ... Silence (16s) ... ]
+[01:57] [Receptionist]: All right, so it looks like, let's see. Uh, I was making the review and yes, it looks like that the case was reviewed for the attorney, so so far uh, the case was declined, was declined because the attorney uh, doesn't want to proceed with, maybe something is missing or any issue. Would you wish to get like more explanation about the case? Uh, I can ask for the attorney to give you a call.
+[02:39] [Gregory Gilyord]: Oh, oh yeah, oh, the attorney's gonna give me a call?
+[02:43] [Receptionist]: I can ask if you want to get like a better explanation.
+[02:47] [Gregory Gilyord]: Right, right, right. So you, you can't, but uh, you say somebody else could, you said?
+[02:54] [Receptionist]: Yes, it looks like that it was declined, right, your case. So, um, hm.
+[03:03] [Gregory Gilyord]: Okay, so the, okay, so the uh, Pintas and Mullins people are the ones that referred it to y'all.
+[03:12] [Receptionist]: Yes.
+[03:13] [Gregory Gilyord]: Uh, are y'all like the only people in Louisiana that they refer stuff to, or do you know that, or... I mean, because I can't, look, look, here's the deal. Okay, and I'm not trying to, I'm not upset with you, but these nursing home people, I cannot let these people get off like that. I can't. The way they did my dad, I, I'm sorry, I just can't do that. So, um, and like I said, I'm not upset with you, but they, if I don't do something to punish these people, they gonna continue to do that to folks. And I just, I just cannot allow them to do that. I mean, I don't know why your attorney didn't take the case or whatever. It's ridiculous what they did. And I mean, the state even said that they committed violations. So I don't know why they can't even do something.
+[04:01] [Receptionist]: Mhm.
+[04:02] [Gregory Gilyord]: I mean, but anyway, um, since y'all can't, I mean, is there, I mean, do you know if the, well, you know what, is the attorney gonna call me himself?
+[04:11] [Receptionist]: Yes, they will call you. I'm going to schedule a phone call. They will call you to explain, to give you a better explanation. Maybe you have something missing, something extra that we need to do, or like an extra step we are missing, you know? It could be something, you know, that you can do it. So I can schedule a phone call for the attorney just for a better explanation.
+[04:34] [Gregory Gilyord]: Okay, yeah, okay. Yeah, that's, yeah, that would be a good idea then.
+[04:40] [Receptionist]: So, anything else would you like to know I can assist you?
+[04:44] [Gregory Gilyord]: Uh, no. No, uh, thank you for taking my call and...
+[04:49] [Receptionist]: No, and I'm sorry for everything that happened. So if there's nothing more, remember you spoke with Angelo and have an excellent rest of your day. Take care.
+[04:57] [Gregory Gilyord]: Okay, you too. Okay, bye-bye.
+[04:59] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

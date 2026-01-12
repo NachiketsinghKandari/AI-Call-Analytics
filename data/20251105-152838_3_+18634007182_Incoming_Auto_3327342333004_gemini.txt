@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Vance Associate: 7 turns
+  • [Kira] / Role: Claims Representative at Geico: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vance Associate, speaking.
+[00:02] [Kira]: This is— this is Kira with Geico claims, calls recorded for quality. I'm calling on Stephanie Williams.
+[00:13] [Receptionist]: Um, what's the first name?
+[00:15] [Kira]: Stephanie.
+[00:18] [Kira]: Stephanie Williams.
+[00:21] [Receptionist]: Mhm.
+[00:23] [Receptionist]: That's the client's name?
+[00:26] [Kira]: It is.
+[00:29] [Receptionist]: Okay, okay, I got it. Paige Almond. What was the date of loss? Just to be sure this is one.
+[00:40] [Kira]: 10/24/24.
+[00:42] [Receptionist]: Okay, and you said that you were calling from where?
+[00:45] [Kira]: Geico.
+[00:46] [Receptionist]: Geico. I'm sorry about that. Okay, one second.
+
+========================================
+TRANSCRIPT END
+========================================

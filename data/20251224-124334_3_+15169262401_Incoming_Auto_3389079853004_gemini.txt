@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Haley / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Lionel, how can I help you today?
+[00:05] [Haley]: Hi, my name is Haley from Stone and Stone Law Firm and um, I'm actually calling regarding one of our clients that um, was associated with you guys.
+[00:15] [Receptionist]: What's the name of the client?
+[00:18] [Haley]: The client's name is Jesus Stewart.
+[00:23] [Receptionist]: Let's see.
+[00:28] [ ... Silence (14s) ... ]
+[00:42] [Receptionist]: I don't have anything but Jesus Stewart.
+[00:44] [Haley]: Um, he might not be with you guys anymore, like he, he, I believe he dropped you guys. Um, but we, we were in need of his file, um, since he just retained us.
+[00:59] [Receptionist]: Yes, that has been archived, it's closed out.
+[01:02] [Haley]: Got it.
+[01:09] [Receptionist]: Anything else?
+[01:11] [Haley]: I'm sorry, can you repeat that?
+[01:13] [Receptionist]: Anything else?
+[01:15] [Haley]: No, um, so how would we be able to get his file since, you know, um, we're in need of it?
+[01:23] [Receptionist]: Well, that would be with the case manager, but the case manager's right now, they're gone for the day. I can transfer you to her voicemail and she can take care of it on Friday.
+[01:33] [Haley]: Can you send her an email possibly and I can give you my contact information?
+[01:38] [Receptionist]: I can provide you with hers if you want to and you can...
+[01:41] [Haley]: That works, that works. What's her email address?
+[01:45] [Receptionist]: Okay. Her email would be Lonnie, which is L as in Lima, O as in Oscar, N as in Nancy, I as in India, E as in Echo, at beyandassociates.com, which is B as in Bravo, E as in Echo, Y as in Yankee, A-N-D associates.com.
+[02:08] [Haley]: Okay, just to confirm that, the, it was L-O-N-I-E at Bey and Associates, right?
+[02:15] [Receptionist]: Yes, ma'am.
+[02:17] [Haley]: Okay, perfect, I'll send her an email. Thank you so much.
+[02:20] [Receptionist]: You are welcome. Bye-bye.
+[02:22] [Haley]: Have a good day. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

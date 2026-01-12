@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Jonathan / Role: Caller from First Pain Specialists: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:06] [Jonathan]: Hello, good afternoon. This is Jonathan from First Pain Specialists Medical Provider Office. I'm just trying to confirm that you received bills and records that we sent for a patient.
+[00:18] [Receptionist]: Name?
+[00:22] [Jonathan]: Name? Hussain... Hussain Sayad?
+[00:30] [ ... Silence (7s) ... ]
+[00:37] [Receptionist]: Date of loss?
+[00:38] [Jonathan]: You want me to spell? September 5th, 2025.
+[00:44] [ ... Silence (16s) ... ]
+[01:00] [Receptionist]: Spell the last name.
+[01:02] [Jonathan]: It's S as in Sam, A as in Alpha, I as in India, Y as in Yellow, A as in Alpha, D as in Delta.
+[01:13] [ ... Silence (11s) ... ]
+[01:24] [Receptionist]: You said you're calling from where?
+[01:26] [Jonathan]: First Pain Specialists.
+[01:30] [ ... Silence (17s) ... ]
+[01:47] [Receptionist]: Um, no. We have not received any bills or records.
+[01:53] [Jonathan]: I sent it to Linda at BeyandAssociates.com.
+[02:01] [Receptionist]: Okay. Maybe she hasn't uploaded— uploaded them yet, but I don't see them in the file.
+[02:06] [Jonathan]: Got it.
+[02:08] [Receptionist]: Give me one moment.
+[02:10] [ ... Silence (15s) ... ]
+[02:25] [Receptionist]: Thank you so much for holding. She is not available. I will send her an email asking if she received the bills and, you know, you can call back tomorrow. Um, well, one moment. Thank you so much for holding, Mr. Jonathan.
+[02:31] [Jonathan]: Hello? Yes, I'm here.
+[02:33] [Receptionist]: Okay, so, um, the reason why the bills are not in the file is because the client terminated us, so we are not representing them anymore.
+[02:45] [Jonathan]: Oh, I understand. Okay, thank you so much.
+[02:51] [Receptionist]: Yeah. I don't know what is the name of the new attorney yet because they haven't sent the termination letter, but yes, they terminated us.
+[03:02] [Jonathan]: Okay. Okay, got it. Yes. That will be all. Thank you.
+[03:08] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

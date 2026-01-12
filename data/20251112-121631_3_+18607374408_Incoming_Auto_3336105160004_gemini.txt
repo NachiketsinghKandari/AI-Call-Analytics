@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at DNA Associates Law Firm: 7 turns
+  • Speaker 2 / [Sam] / Role: Representative at The Hartford Insurance Company: 7 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: DNA Associates Law Firm, this is T-C speaking.
+[00:06] [Sam]: Uh, hi, this is Sam with The Hartford Insurance Company, uh, calling on your two clients, Lashanta Bailey and Ezekiel Stevenson, uh, just looking for injury treatment update.
+[00:18] [Receptionist]: Okay, I do apologize, I was not able to hear the names, it broke up when you were saying them. Can you give me them one at a time one more time?
+[00:29] [Sam]: Okay, yeah. The first one is Lashanta Bailey.
+[00:33] [Receptionist]: Okay. Lashanta Bailey and companion, right?
+[00:41] [Sam]: Yes, and the other one's a Mr. Stevenson.
+[00:49] [Receptionist]: Okay, and let me get you over to Stephanie, I see she's available, okay? And this is from The Hartford, The Hartford Insurance, right?
+[01:01] [Sam]: Correct, yep.
+[01:04] [Receptionist]: Okay, bear with me for just a minute.
+[01:07] [Sam]: Thank you.
+[01:09] [ ... Silence (5s) ... ]
+[01:14] [Receptionist]: I'm sorry for that delay, sir. It seems like Stephanie, the case manager, is away from her desk, but I can get you over to her voicemail.
+[01:22] [Sam]: Okay, that's fine.
+[01:24] [Receptionist]: She'll get a notification and give you a call back, okay?
+[01:27] [Sam]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

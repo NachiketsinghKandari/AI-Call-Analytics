@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist: 3 turns
+  • Speaker 2 / Matt / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hi Matt, good afternoon.
+[00:03] [Matt]: Hey, uh, who am I speaking with?
+[00:08] [Receptionist]: Fatima.
+[00:10] [Matt]: Oh, hey Fatima. Hey, I was just trying to test to see if, uh, the AI agent would pick up, but I guess it's already turned off for the day. Thank you.
+[00:18] [Receptionist]: Oh, oh you're welcome. Bye-bye.
+[00:21] [Matt]: All right, bye.
+
+========================================
+TRANSCRIPT END
+========================================

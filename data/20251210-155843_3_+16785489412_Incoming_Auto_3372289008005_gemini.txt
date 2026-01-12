@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:05] [Unknown]: Hi, I'm calling, I'm back to see if I can speak to somebody about my daughter's case.
+[00:10] [Receptionist]: What is your daughter's name?
+[00:12] [Unknown]: Maleah, M-A-L-E-A-H.
+[00:18] [Receptionist]: And her last name?
+[00:21] [Unknown]: Johon-Pressard.
+[00:24] [Receptionist]: Can you say it again?
+[00:26] [Unknown]: Johon-Pressard.
+[00:27] [Receptionist]: And you are the mother of Maleah?
+[00:30] [Unknown]: Yes, I am.
+[00:33] [Receptionist]: Okay, give me a moment let me get the case management system up.
+[00:38] [Receptionist]: Thank you for holding, um, the case manager is on another call right now, her name is Stephanie. I can send you to her voicemail and she can call you back.
+[00:46] [Unknown]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

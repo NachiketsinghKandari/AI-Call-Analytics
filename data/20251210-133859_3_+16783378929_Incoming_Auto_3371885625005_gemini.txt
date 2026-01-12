@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Joe / Role: Caller from Spine Muscle and Joint: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fatima, how may I assist you today?
+[00:08] [Joe]: Yes, I'm calling with Spine Muscle and Joint. My name is Joe. Uh, patient's name for policy limits is Leigh and the last name is H-U-E-R.
+[00:22] [Receptionist]: And the client's first name, the patient's first name is Joe?
+[00:28] [Joe]: No, the client's first name is Leigh or Leigh, L-E-I-G-H.
+[00:36] [Receptionist]: Thank you. Bear with me while I search.
+[00:40] [Joe]: Sure, thank you.
+[00:41] [Receptionist]: You're welcome. Thank you, Shivam, I appreciate it. The date of loss was on November the 14th of this year?
+[00:49] [Joe]: Uh, let me take a look. No, this is... I don't have... November 14th, yes, of this year.
+[00:56] [Receptionist]: All right. How may I assist you from my end?
+[00:59] [Joe]: Uh, just need policy limits on her.
+[01:04] [Receptionist]: Uh, let's see if I have that information that I can help you with. Okay, Shivam, you're good to go? Okay. Thanks, Shivam. Is that going to be for the adverse?
+[01:16] [Joe]: I'm sorry?
+[01:18] [Receptionist]: For the adverse policy limits? I am... let me confirm if the case manager is available because I am not able to see the info. One moment, please.
+
+[ ... Silence (5s) ... ]
+
+[01:30] [Joe]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

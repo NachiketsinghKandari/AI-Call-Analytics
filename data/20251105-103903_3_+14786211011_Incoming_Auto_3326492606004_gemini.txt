@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] (Tasha) / Role: Receptionist at Bain and Associates: 7 turns
+  • Speaker 2 / [Andrew] / Role: Geico Claims Department: 8 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bain and Associates, this is Tasha, how may I help you?
+[00:06] [Andrew]: Hello Tasha, this is Andrew calling from the Geico claims department on a recorded line.
+[00:11] [Receptionist]: Yes, sir?
+[00:12] [Andrew]: I was giving you a call in reference to a Terrica Lockhart.
+[00:17] [Receptionist]: One moment, let me try to bring up that file for you, sir.
+[00:22] [Andrew]: Okay.
+[00:24] [Receptionist]: All right. Yes, I have Ms. Terrica's file here. How can I assist you with this matter anyway?
+[00:28] [Andrew]: Just wanted to see, I'm trying to get everything out to answer the demand, I wanted to find out how do we, how do you all want us to handle any liens?
+[00:38] [Receptionist]: That would be a question for the case manager, sir. Um, the case manager's name is Ms. Stephanie. I can provide you her contact info and I can also transfer you over.
+[00:49] [Andrew]: Ms. Stephanie, okay.
+[00:51] [ ... Silence (10s) ... ]
+[01:01] [Andrew]: All right, what's her direct phone line?
+[01:02] [Receptionist]: Her direct number is 470-645-1748.
+[01:18] [Andrew]: I've got her email already. Can you put me over to her?
+[01:24] [Receptionist]: Yes, sir, transferring now.
+[01:26] [Andrew]: Thanks.
+
+========================================
+TRANSCRIPT END
+========================================

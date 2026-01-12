@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bay and Associates Law Firm: 6 turns
+  • Speaker 2 / [Dr. Betty]/ Role: Caller from Serenity Chiropractic and Rehab: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bay and Associates Law Firm, Devon speaking.
+[00:06] [Dr. Betty]: Hi, I am trying to reach someone who's in charge of disbursement.
+[00:12] [Receptionist]: Sure, I can get you over to that department and the person in charge.
+[00:19] [Dr. Betty]: Thank you.
+[00:21] [Receptionist]: Okay, bear with me for just a second.
+[00:24] [ ... Silence (8s) ... ]
+[00:32] [Receptionist]: Alrighty, so you're looking for this person on a case, I'm guessing? Is this a case for yourself?
+[00:42] [Dr. Betty]: Yes, a case.
+[00:44] [Receptionist]: Okay, now may I have your first and last name, please?
+[00:47] [Dr. Betty]: Hi, my name is Dr. Betty and I'm calling from Serenity Chiropractic and Rehab.
+[00:52] [Receptionist]: Okay, Dr. Betty, okay, let me get you over to Tara.
+[00:59] [Dr. Betty]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

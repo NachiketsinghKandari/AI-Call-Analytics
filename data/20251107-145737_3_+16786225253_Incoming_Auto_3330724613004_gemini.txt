@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 12 turns
+  • Speaker 2 / Abriana Horton / Role: Attorney: 10 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hey, this is [unintelligible] speaking.
+[00:06] [Abriana Horton]: Hi, this is Attorney Abriana Horton. I was wondering if, uh, Taylor was available?
+[00:13] [Receptionist]: Taylor?
+[00:15] [Abriana Horton]: Yes.
+[00:16] [Receptionist]: Let me see.
+[00:19] [Abriana Horton]: Or her paralegal maybe, if she's not.
+[00:24] [Receptionist]: Is it in regards to a specific client?
+[00:27] [Abriana Horton]: Um, yes, the- the plaintiff is Ashley Gooker.
+[00:42] [Receptionist]: Okay, that would be Mr. Kevin Love. Let me get him for you.
+[00:46] [Abriana Horton]: Okay.
+[00:47] [ ... Silence (6s) ... ]
+[00:53] [Receptionist]: And you said Attorney, I forgot your name.
+[00:58] [Abriana Horton]: Uh, yeah, Abriana Horton.
+[01:01] [Receptionist]: Okay, one second.
+[01:05] [Receptionist]: Ms. Horton, um, neither one of them were available. Would you like to leave a voicemail for either one?
+[01:13] [Abriana Horton]: Um, I have, I mean, I guess I'll- I'll follow up with an email. I mean, and I know people are busy, but I- I've been having a hard time, you know, ever getting in touch with any of them.
+[01:31] [Receptionist]: Yes, ma'am, I do understand. I do apologize for that. But I- I tried both of them and, you know...
+[01:42] [Abriana Horton]: Do you think either one would have like availability on Monday? I'll send another email, but I mean it's even hard to get a...
+[01:51] [Receptionist]: Yes, Mr.- Mr. Love usually, um, answers. I'm not sure, he might be away from his desk right now.
+[01:57] [Abriana Horton]: Yeah, I- I think typically the- the subject is over, I mean, more for an attorney decision, but... Okay, um, sure. Thank you though. I'll- I'll give them an email.
+[02:09] [Receptionist]: Alrighty then. You have a great rest of your day and weekend.
+[02:14] [Abriana Horton]: You as well. Thank you.
+[02:16] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about a loan status; the receptionist attempted to contact the case manager, who was unavailable, and the caller declined the offer to leave a voicemail.",
+    "call_duration_seconds": 165.17,
+    "call_duration_formatted": "02:45"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to locate the case manager but reported him as unavailable and offered a voicemail, which the caller declined."
+  }
+}

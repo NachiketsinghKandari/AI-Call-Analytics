@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Maria / Role: Caller from Assurance America: 6 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hello, this is Angel, how may I help you?
+[00:05] [Maria]: Hello, this is Maria with the claims department here with Assurance America. Is this the office, the main office or is this like an answering service?
+[00:14] [Receptionist]: Eh, this is the main office. How may I help you?
+[00:18] [Maria]: I'm calling for client Britt Bailey, date of loss 12/04?
+[00:25] [Receptionist]: Let me see...
+[00:27] [ ... Silence (5s) ... ]
+[00:32] [Receptionist]: Britt Bailey, okay, found this. 12/04. Tell me how may I help you?
+[00:41] [Maria]: I wanted to confirm injuries reported and treatment to date.
+[00:45] [Receptionist]: Sure. Let me go ahead and see if the case manager is available in order that she can confirm that for you, okay? Hold on.
+[00:52] [Maria]: Okay. Thank you.
+[00:54] [ ... Silence (10s) ... ]
+[01:04] [Receptionist]: Um, it looks like that Stephanie is the case manager, she's not available. So, would you like to leave her a voicemail?
+[01:13] [Maria]: Yes.
+[01:14] [Receptionist]: Alright, let me pass you over. Have a good one.
+[01:18] [Maria]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

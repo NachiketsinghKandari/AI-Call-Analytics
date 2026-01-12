@@ -1,0 +1,72 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Karina / Role: Receptionist at a Law Firm: 24 turns
+  • [Renee] / Renee / Role: Caller from ICOS Orthopedics: 23 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is the law offices of [unintelligible] and Associates. I'm gonna be putting you on a brief hold.
+[00:07] [Receptionist]: I need to have a conversation with her. Short hold, no problem.
+[00:12] [Renee]: Hello?
+[00:13] [Renee]: Hello?
+[00:15] [Renee]: I- I just hear- I just hear, um, a couple people talking. I couldn't understand. My name is Renee. I'm calling from ICOS Orthopedics. Hi.
+[00:24] [Receptionist]: Hi.
+[00:25] [Receptionist]: How can I help you? I'm gonna put you on a brief hold.
+[00:29] [Renee]: Oh, I- I hear two people.
+[00:31] [Receptionist]: I need to put you on a brief hold.
+[00:33] [Renee]: Sorry, could you repeat that? No.
+[00:34] [ ... Silence (11s) ... ]
+[00:46] [Receptionist]: Can you hear me better?
+[00:48] [Renee]: Oh, I can hear you better. I was like, am I- am I hearing double things? I'm okay, how are you?
+[00:53] [Receptionist]: Doing great, how about yourself?
+[00:56] [Renee]: Good, I'm doing good. I'm calling from ICOS Orthopedics. I'm calling to follow- to try to follow up on the status for these clients that are treating together. And the guardian name is going to be... last name is Cruz, C-R-U-Z, and it's Jose, J-E-S-U-S, or Jesus, or...
+[01:12] [Receptionist]: J-E-S-U-S.
+[01:14] [Renee]: Yes. It's Ortega Cruz.
+[01:21] [ ... Silence (28s) ... ]
+[01:50] [Receptionist]: You want the date of birth?
+[01:52] [Renee]: Can I have the date of loss? Date of loss is 6/15/24.
+[02:00] [ ... Silence (13s) ... ]
+[02:14] [Receptionist]: Okay, let me go ahead and- and get a hold of the case manager, okay? Is this Stephanie?
+[02:18] [Renee]: Yes, ma'am.
+[02:19] [Receptionist]: And what was your first name?
+[02:21] [Receptionist]: My name is Karina, K-A-R-I-N-A.
+[02:30] [Receptionist]: I'll place you on a brief hold, okay?
+[02:32] [Renee]: Thank you.
+[02:36] [Receptionist]: Renee, thank you so much for patiently waiting. Stephanie's not available at the moment. I can send you to her voicemail if you wish.
+[02:45] [Renee]: Um, it do not... you- you can't see the status of the- the case? The status of the case.
+[02:57] [ ... Silence (19s) ... ]
+[03:17] [Receptionist]: Thank you so much for holding, Renee. I'm still here. Yes, I was checking out the- the case and I could see that, uh, a check was disbursed on September 4th. So you have to wait 90 days for that.
+[03:30] [Renee]: On September 4th for all three of those clients?
+[03:38] [Receptionist]: For all three, that's right.
+[03:41] [Renee]: Alrighty. And do, um, Karina, do you know the check number and... if you don't- only if you have it available.
+[03:56] [Receptionist]: Yeah, 38372.
+[04:01] [Renee]: 38372. And that was for- for one client?
+[04:11] [Receptionist]: For Jesus.
+[04:14] [Renee]: So, um, like Karina was saying that- that they was treating with three clients. So is- does that go for all three that it was, um, settled?
+[04:30] [Receptionist]: Three clients, but you mentioned only Jesus, right?
+[04:34] [Renee]: Yes, and I said- and I said- yes. And what are the other clients?
+[04:48] [Renee]: It's Rosalyn Lopez and Carla Rodriguez. They all should be treating together.
+[04:55] [Receptionist]: Okay, yeah, give me a second.
+[05:04] [Receptionist]: You said Carla, right?
+[05:06] [Renee]: Yes, K-A-R-L-A Rodriguez.
+[05:14] [Receptionist]: Okay, for Carla, um, it was disbursed on September 25th.
+[05:21] [Renee]: What's the check number?
+[05:23] [Receptionist]: For ICOS? It's 38767.
+[05:31] [Renee]: Okay, and I'm assuming that's going to be for Atlas also, right? They disbursed for Atlas too, right?
+[05:39] [Receptionist]: Yes, that's right. For Atlas, that is the check number 38766.
+[05:48] [Renee]: Okay, Karina, what about for Rosalyn Lopez?
+[05:55] [Receptionist]: Yeah, give me a sec, let me get that for you.
+[06:01] [Receptionist]: Rosalinda? Lopez, right?
+[06:04] [Renee]: Rosalyn, Rosalyn Lopez, yes.
+[06:07] [Receptionist]: Rosalyn. Okay.
+[06:18] [Receptionist]: It was disbursed on September 4th. Check number 38370.
+[06:29] [Renee]: Okay, good. Karina, thank you, I can update those and keep a look out for those checks. Thank you.
+[06:36] [Receptionist]: You're welcome. Have a great day.
+[06:38] [Renee]: You too. Bye now.
+
+========================================
+TRANSCRIPT END
+========================================

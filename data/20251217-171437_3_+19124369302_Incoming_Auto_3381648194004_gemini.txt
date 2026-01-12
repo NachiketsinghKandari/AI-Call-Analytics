@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tyree / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Jarye Crafton / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Tyree speaking, how can I help you?
+[00:05] [Jarye Crafton]: Hey, this is Jarye Crafton, is this B-E-Y and Associates?
+[00:10] [Receptionist]: Yes sir.
+[00:12] [Jarye Crafton]: Hey, so, um, I just got a call from my insurance company. I'm not sure if I'm really supposed to be doing this but, I, I think that they said that y'all may send papers. Is there a way that y'all can do stuff like directly to email or do y'all always send out stuff in the mail?
+[00:30] [Receptionist]: No, we can send it to email as well. Do you have a case with us already or...
+[00:36] [Jarye Crafton]: Um, yeah, somebody that's claiming to be hurt is, uh, they hired you guys, so I was involved in a crash where I was at fault. I'm just trying to...
+[00:45] [Receptionist]: And what is her name?
+[00:47] [Jarye Crafton]: Uh, my name?
+[00:49] [Receptionist]: No, the other person.
+[00:51] [Jarye Crafton]: Uh, Dorian O'Neal.
+[00:55] [Receptionist]: Okay.
+[00:56] [ ... Silence (5s) ... ]
+[01:01] [Receptionist]: You are the person at fault?
+[01:04] [Jarye Crafton]: Yeah.
+[01:07] [Receptionist]: Give me just a moment, I can figure it out. Hold on for one sec.
+[01:12] [ ... Silence (30s) ... ]
+[01:42] [Receptionist]: Thank you so much for holding Mr. Crafton. Okay, um, the case manager for this, this particular case is not available now. She's gone for the day. I can transfer you to her voicemail and you can go ahead and leave your request there, okay?
+[01:58] [Jarye Crafton]: Okay, that's fine.
+[02:01] [Receptionist]: Alright, thank you, and her name is Latoya.
+[02:05] [Jarye Crafton]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

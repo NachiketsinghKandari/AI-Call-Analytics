@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START (ENHANCED)
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Fatima - Front desk agent at Bay and Associates Law Firm (4 turns)
+  • Jackson - Caller seeking to speak with his case manager about a loan debt (1 turns)
+
+----------------------------------------
+
+[00:02] [Fatima]: Thank you for calling Bay and Associates Law Firm. My name is Fatima. How may I assist you today? Yes. I was calling because I needed to talk to my case manager about a loan debt you put in.
+[00:15] [Fatima]: Oh, please allow me one moment while I pull up your file. Mister Jackson, allow me one moment. I'll see if miss Galarza is in today. Okay? Alright.
+[00:27] [Fatima]: Hey, mister Jackson. Thank you for the waiting time. I apologize for the delay, sir. I have that mister Kevin Love is currently unavailable. Would you like to leave a message for him on his voice mail?
+[00:39] [Jackson]: No. Please. Nah. It's alright. It's okay?
+[00:45] [Fatima]: Alright. I will leave him a message, though, that you're calling, that he should get in contact with you. Okay? Alright.
+
+========================================
+TRANSCRIPT END (ENHANCED)
+========================================

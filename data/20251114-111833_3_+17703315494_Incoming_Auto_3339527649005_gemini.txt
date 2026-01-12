@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bain and Associates: 7 turns
+  • Speaker 2 / Paul / Role: Caller from Cyber Security Auditing Technology: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bain and Associates, this is Lionel.
+[00:07] [Paul]: Hi, uh, my name is Paul. I'm looking for Matt McLaren, McLaren?
+[00:12] [Receptionist]: Yes, um, you're calling from where?
+[00:15] [Paul]: Uh, Cyber Security Auditors?
+[00:22] [Receptionist]: Okay, is that related to business with us or...
+[00:26] [Paul]: Um, it's related to business with some of his clients, yes.
+[00:31] [Receptionist]: I'm sorry, what is the name of your company?
+[00:34] [Paul]: Cyber Security Auditing Technology.
+[00:41] [Receptionist]: Okay, one moment.
+[00:44] [Receptionist]: Thank you so much for holding. He's actually on another call. Do you want to leave a voicemail?
+[00:53] [Paul]: Sure.
+[00:55] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

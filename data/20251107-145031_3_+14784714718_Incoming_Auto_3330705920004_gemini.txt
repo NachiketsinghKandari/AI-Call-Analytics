@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Vance and Associates: 6 turns
+  • [Speaker 2] / Role: Allstate Claims Office Representative: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vance and Associates, this is...
+[00:02] [Speaker 2]: Hi, good afternoon. I'm calling from the Allstate claims office. I was hoping to get a status update on your client, Sabrina Minifee, please?
+[00:12] [Receptionist]: [ ... Silence (5s) ... ] Okay. Sabrina...
+[00:19] [Speaker 2]: Mhm.
+[00:20] [Receptionist]: Minifee?
+[00:23] [Speaker 2]: Yes.
+[00:24] [Receptionist]: Stephanie Peck is the one that is in charge of this. You said you were calling from where?
+[00:33] [Speaker 2]: Allstate.
+[00:35] [Receptionist]: Allstate. I do see that Stephanie is on another call right now. Would you like to leave her a voicemail?
+[00:42] [Speaker 2]: Sure.
+[00:44] [Receptionist]: Okay. Sending you over. You have a great rest of your day.
+[00:47] [Speaker 2]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

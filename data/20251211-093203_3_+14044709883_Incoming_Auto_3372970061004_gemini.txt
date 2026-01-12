@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Ershima / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:04] [Ershima]: Hi, my name is Ershima calling from Physical Therapy and Balance Center in Bowie, and I was trying to get confirmation to see if you guys were representing a client.
+[00:12] [Receptionist]: Sure. Can I have the client's name?
+[00:14] [Ershima]: Candy Faulkner.
+[00:18] [ ... Silence (12s) ... ]
+[00:30] [Receptionist]: Yes, Paige Almond is the case manager.
+[00:37] [Ershima]: Bye. Uh, Almond, you said?
+[00:41] [Receptionist]: Yeah, like the nut but without the D.
+[00:45] [Ershima]: Okay. Okay, thank you.
+[00:47] [Receptionist]: You're welcome. Have a great day.
+[00:49] [Ershima]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

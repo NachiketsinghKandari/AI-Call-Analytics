@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates Law Firm: 7 turns
+  • Speaker 2 / Diane Evans / Role: Caller from Emmett Alexander: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bay and Associates Law Firm, Devon speaking.
+[00:05] [Diane Evans]: Uh, yes, can I speak to John Bay or Bee?
+[00:10] [Receptionist]: Unfortunately John Bay is not available at the moment, but how can I assist you?
+[00:14] [Diane Evans]: Uh, yes sir. So my name is Diane Evans and I work for Emmett Alexander in Virginia. And, um, I've been following the hair relaxer cases, um, for the fibroids, the mass tort cases...
+[00:30] [Receptionist]: Mhm.
+[00:32] [Diane Evans]: ...um, I didn't know if you were taking on these cases.
+[00:43] [Receptionist]: Okay, I do not have that information to be honest with you, um, but Diane I can get you over to his assistant.
+[00:58] [Diane Evans]: Okay, that would be great. Thank you.
+[01:01] [Receptionist]: You're welcome. Let me go ahead and transfer the call over, right?
+[01:05] [Diane Evans]: Thank you. Mhm.
+[01:07] [ ... Silence (5s) ... ]
+[01:12] [Receptionist]: Diane, I do apologize about that. Seems like the case, uh, his assistant is on the other line or away from his desk at the moment. I'm only getting a voicemail, but if you can leave a message, they would highly return a call to you regarding that information you're needing. Okay?
+[01:27] [Diane Evans]: Okay, that would be great. Thank you.
+[01:30] [Receptionist]: All right. Let me transfer you over to John Bay.
+
+========================================
+TRANSCRIPT END
+========================================

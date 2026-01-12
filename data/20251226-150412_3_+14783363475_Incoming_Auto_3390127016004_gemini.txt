@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Eros Smith / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you today?
+[00:03] [Eros Smith]: Yes, uh, please reach Mr. Harvest.
+[00:06] [Receptionist]: Sure, I can try to reach Mr. Harvest. May I have your name?
+[00:09] [Eros Smith]: Eros Smith.
+[00:13] [Receptionist]: I'm sorry, but I couldn't find Mr. Harvest in our directory. If you meant someone else, please let me know. Otherwise, I can take a message for you so that the right person can get back to you.
+[00:23] [Eros Smith]: And I'm sorry, are you saying you couldn't find his direct number?
+[00:28] [Receptionist]: Yes, unfortunately. Hello? I apologize for any confusion. I couldn't find a Mr. Harvest in our directory. If you might be referring to someone else or if there's a specific role he holds, I'd be happy to assist further. Alternatively, I can take a message and ensure it gets to the appropriate person. Let me know how you'd like to proceed. All right, what's the best call back?
+[00:54] [Eros Smith]: I'll call you back later.
+[00:56] [Receptionist]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

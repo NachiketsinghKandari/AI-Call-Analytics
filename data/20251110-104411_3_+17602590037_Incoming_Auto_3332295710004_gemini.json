@@ -1,0 +1,21 @@
+{
+  "caller_type": "sales_vendor",
+  "call_summary": {
+    "primary_intent": "solicitation_and_spam",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the caller with a department email address and the direct phone number for a manager to discuss marketing and business contracts.",
+    "call_duration_seconds": 224.21,
+    "call_duration_formatted": "03:44"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist provided contact information for the caller to reach out to the firm independently."
+  }
+}

@@ -1,0 +1,17 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bay and Associates Law Firm: 2 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:03] [Receptionist]: Thank you for calling Bay and Associates Law Firm. My name is Fatima. How may I assist you today?
+[00:09] [Speaker 2]: Hello, yes. I am trying to reach Vanessa Cole. Can I be transferred?
+[00:15] [Receptionist]: One moment, please.
+
+========================================
+TRANSCRIPT END
+========================================

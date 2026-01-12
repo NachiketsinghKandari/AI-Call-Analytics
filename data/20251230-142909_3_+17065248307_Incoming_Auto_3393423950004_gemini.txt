@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Sarah / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:06] [Sarah]: Hi, my name is Sarah, I am calling on behalf of Emory Hospital, or company's Experian. I was calling in regards to the patient Keywessi Landers.
+[00:23] [Receptionist]: Let's see, give me one minute.
+[00:29] [Receptionist]: All right, how may I help you?
+[00:31] [Sarah]: I just wanted to let you guys know that the account was returned back to Emory, so you will want to contact Emory directly for a reduction request and to see what the balance is.
+[00:47] [Receptionist]: Yes, let me go ahead and, and consult that information needs to be reported for, for the case manager, okay? Stay on the line.
+[00:56] [Sarah]: Okay.
+[00:59] [Receptionist]: Thank you for staying on the line. It looks like the case manager is unavailable. Would you like to leave her a voice message saying that information?
+[01:09] [Sarah]: Uh, sure.
+[01:11] [Receptionist]: Okay, I will transfer you over right now. Have a good day.
+[01:15] [Sarah]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

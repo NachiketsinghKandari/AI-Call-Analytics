@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Kyle Thomas / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Bey and Associates, this is Tasha, how may I help you?
+[00:08] [Kyle Thomas]: Uh, good afternoon. Could I speak to someone in your accounts payable department, please?
+[00:12] [Receptionist]: May I ask who's calling, ma'am?
+[00:15] [Kyle Thomas]: Yes, uh, my name is Kyle Thomas, I'm with Caliber Court Reporting.
+[00:23] [Receptionist]: Okay. Is this regarding a case, ma'am?
+[00:26] [Kyle Thomas]: It's regarding a past due invoice on a case.
+[00:30] [Receptionist]: Okay. Can I have the case's name so I can get you over to the right person?
+[00:35] [Kyle Thomas]: Uh, Carlotta Hughes. I believe the attorney was Taylor Middleton. I tried her number, but she's not available, so do you have an accounts payable department?
+[00:46] [Receptionist]: One moment, ma'am.
+[00:49] [Kyle Thomas]: Thank you.
+[00:51] [ ... Silence (25s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

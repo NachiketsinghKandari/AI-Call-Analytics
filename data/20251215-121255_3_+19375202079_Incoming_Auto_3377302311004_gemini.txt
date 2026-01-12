@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Caller: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+
+----------------------------------------
+
+[00:07] [Unknown]: Hi, uh, may I speak with Rina?
+[00:12] [Receptionist]: Yes, one moment.
+[00:13] [ ... Silence (5s) ... ]
+[00:18] [Receptionist]: Um, she's actually on another call. I will have her to give you a call back, okay?
+[00:23] [Unknown]: Okay, thank you.
+[00:24] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

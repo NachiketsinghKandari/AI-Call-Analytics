@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Joao / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thanks for calling Bey and Associates, I am Emma. How can I help you, Joao?
+[00:05] [Joao]: Oh, could you hook me up with, uh, Michael, please?
+[00:10] [Receptionist]: Could you please confirm Michael's last name or role? I will ensure you reach the right person.
+[00:16] [Joao]: He's the bill advisor, he just takes care of the checks. I don't know what his role is.
+[00:22] [Receptionist]: I can take a message for Michael and make sure he gets back to you. What would you like me to tell him?
+[00:28] [Joao]: I want him to call me back. That's it.
+[00:31] [Receptionist]: Got it. Michael will call you back soon. What else can I help you with?
+[00:36] [Joao]: That's it.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 6 turns
+  • Speaker 2 / [Quintoria Wynn] / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Hello?
+[00:06] [Quintoria Wynn]: Hello.
+[00:07] [Receptionist]: Hello.
+[00:08] [Quintoria Wynn]: Good morning, how you doing?
+[00:10] [Receptionist]: I'm doing great, ma'am. Good morning. How are you?
+[00:13] [Quintoria Wynn]: I'm fine. I was trying to see who was the lawyer on my case.
+[00:18] [Receptionist]: Sure. May I have your first and last name, please?
+[00:21] [Quintoria Wynn]: Quintoria Wynn.
+[ ... Silence (10s) ... ]
+[00:33] [Receptionist]: Ms. Quintoria Wynn. Let me just take a look into the file here. [ ... Silence (7s) ... ] So at the moment, I see that the attorney on your file is Ms. Taylor Middleton. And the- the case itself, it's pending to be released. Would you like me to connect you over to the- the disbursement team?
+[01:09] [Quintoria Wynn]: Mhm.
+[01:10] [Receptionist]: Let me put you on a brief hold.
+[01:13] [Quintoria Wynn]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

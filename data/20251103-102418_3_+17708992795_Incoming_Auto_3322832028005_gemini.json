@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "document_and_evidence_submission",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided information regarding a medical lien, shared email contact information for document submission, and discussed the implications of an amended police report. The caller confirmed they would email the documents to the firm.",
+    "call_duration_seconds": 977.26,
+    "call_duration_formatted": "16:17"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist addressed the caller's concerns directly and provided instructions for submitting evidence."
+  }
+}

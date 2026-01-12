@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Nikki Razer / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Emma. How can I help you?
+[00:05] [Nikki Razer]: Um, hi Emma. Um, I was calling because my lawyer was supposed to call me yesterday and I never heard anything.
+[00:13] [Receptionist]: Can I have your name, please?
+[00:16] [Nikki Razer]: Nikki. Razer. Um, it's over my daughter though, uh, Nicolata. Loni is the one I normally speak to.
+[00:28] [Receptionist]: I found your case, Nicole. Your case manager is Loni Pouchie. Would you like me to connect you with them?
+[00:34] [Nikki Razer]: Please.
+[00:36] [Receptionist]: Loni isn't available right now. Let me take a message and I'll make sure he reaches out to you. What would you like me to tell him?
+[00:44] [Nikki Razer]: Um, I was just trying to, um, get in touch with the lawyer that's on my case actually, um, because he was supposed to call or she was supposed to call, I'm not sure if it's a he or she. I've never actually spoken directly to the lawyer. Haha.
+[00:58] [Receptionist]: What's your callback number?
+[01:01] [Nikki Razer]: 502-663-3948.
+[01:06] [Receptionist]: Got it. What's the message you'd like me to pass to the lawyer?
+[01:11] [Nikki Razer]: Um, I was just kind of curious as to what was going on. That where he was supposed to reach out to me.
+[01:21] [Receptionist]: Thank you. Loni will call you back soon to discuss your case.
+[01:29] [Nikki Razer]: Well, that's the thing because I spoke with Loni, uh, today's Wednesday, I spoke with her Monday and I guess I had just missed the lawyer and that's when she told me that the lawyer was supposed to call me yesterday to go over what I guess was going on, um...
+[01:48] [Receptionist]: I hear you. I'll ensure the lawyer follows up promptly to provide clarity.
+[01:52] [Nikki Razer]: Alrighty, thank you.
+[01:54] [Receptionist]: You're welcome. Take care.
+[01:56] [Nikki Razer]: You too. Bye-bye.
+[01:58] [Receptionist]: Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

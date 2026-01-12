@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Rick / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help you today?
+[00:05] [Rick]: Hi, this is Rick with Progressive. I'm trying to reach Stephanie, please, regarding Andre Woodley.
+[00:12] [Receptionist]: Thank you. Let me go ahead and look up for the client. Okay. Can I have the date of loss?
+[00:21] [Rick]: It will be August 26th, 2025.
+[00:27] [Receptionist]: All right. Let's see if Stephanie's available. Stay on the line. Thank you. Thank you for staying on the line, sir. It looks like that Stephanie isn't available. Would you like to leave her a voice message?
+[00:42] [Rick]: That'd be fine. Thank you.
+[00:44] [Receptionist]: All right. Have a good one. Let me pass you over.
+
+========================================
+TRANSCRIPT END
+========================================

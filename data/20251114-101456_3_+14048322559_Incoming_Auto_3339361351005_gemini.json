@@ -1,0 +1,21 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the caller that the requested staff member is no longer with the firm, and the caller ended the call after acknowledging this information.",
+    "call_duration_seconds": 68.11,
+    "call_duration_formatted": "01:08"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted because the requested staff member was no longer employed at the firm."
+  }
+}

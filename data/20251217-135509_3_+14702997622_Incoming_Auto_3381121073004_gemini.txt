@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Elizabeth / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:07] [Elizabeth]: Hi, my name is Elizabeth, I'm calling from an attorney's office. How are you?
+[00:12] [Receptionist]: Fine, what about you?
+[00:14] [Elizabeth]: Doing well. Do you mind confirming a client of mine? I need clarification if you guys represent this client and more as of if this case has already settled.
+[00:25] [Receptionist]: What is the name?
+[00:28] [Elizabeth]: Javonte, J-A-V as in Victor O-N-T-E, last name is Wright, W-R-I-G-H-T.
+[00:41] [Receptionist]: Okay, let me verify if the case manager is available. One moment.
+[00:46] [Receptionist]: Thank you so much for holding. The case manager is not available. Do you want to leave a voicemail?
+[00:52] [Elizabeth]: Is there anybody I could speak to? It is kind of urgent.
+[00:57] [Receptionist]: She's the only one. You can try maybe send her an email.
+[01:01] [Elizabeth]: Is this case open or is this case closed? Are you able to check that?
+[01:06] [Receptionist]: It's open.
+[01:08] [Elizabeth]: It is still open?
+[01:09] [Receptionist]: Mhm.
+[01:10] [Elizabeth]: Okay. Has this case settled?
+[01:12] [Receptionist]: I don't have any information about the case. You will need to talk to her.
+[01:16] [Elizabeth]: Do you have an email address for that case manager?
+[01:19] [Receptionist]: So it's her first name, Victoria, V as in Victor I-C-T-O-R-I-A at beyandassociates.com. Everything spelled out.
+[01:36] [Elizabeth]: Victoria, V as in Victor I-C-T-O-R-I-A and then the at symbol and then beyandassociates.com, correct?
+[01:47] [Receptionist]: Correct. And everything spelled out, B-Y-A-N-D-associates.com.
+[01:55] [Elizabeth]: And then B-Y-and then after that Y after Bey, it's A-N-D, right?
+[01:59] [Receptionist]: Mhm.
+[02:01] [Elizabeth]: Okay. I'll send her an email. Thank you.
+[02:03] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

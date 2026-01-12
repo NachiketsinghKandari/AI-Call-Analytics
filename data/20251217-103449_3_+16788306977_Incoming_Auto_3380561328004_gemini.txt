@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Carla Valdez / Role: Caller: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Carla Valdez]: Hi, good morning, excuse me, can I speak with Stephanie?
+[00:11] [Receptionist]: Stephanie... yes ma'am, are you a client?
+[00:14] [Carla Valdez]: Yes.
+[00:15] [Receptionist]: Understood. Can you provide me your name so I can search for your file?
+[00:19] [Carla Valdez]: Uh, my name is Carla Valdez. But I, uh, I, uh, I called Stephanie but, uh, make a voicemail but no return my, my call.
+[00:41] [Receptionist]: Understood. Is Carla spelled, sorry, is Carla spelled with a C or a K?
+[00:44] [Carla Valdez]: K.
+[00:45] [Receptionist]: K. Carla.
+[ ... Silence (6s) ... ]
+[00:51] [Receptionist]: And you said your last name was Valdez?
+[00:54] [Carla Valdez]: Yes.
+[00:55] [Receptionist]: Understood. Give me one moment.
+[ ... Silence (25s) ... ]
+[01:20] [Receptionist]: All right. Um, do you allow me to place you on a brief hold for one minute? Let me see if she's available at the moment.
+[01:25] [Carla Valdez]: Okay, thank you.
+[ ... Silence (18s) ... ]
+[01:43] [Carla Valdez]: Hello? Hello?
+[01:46] [Receptionist]: Hello, hello, can you hear me?
+[01:47] [Carla Valdez]: Yes.
+[01:48] [Receptionist]: Uh, thank you ma'am. So, uh, I tried to reach out to Miss Stephanie twice and she's, she is not available at the moment, but this is what I can do on my end if you'd like. If you'd like, I can transfer you over to her voicemail so you can leave another voicemail and I'm also going to send her an email so that she can get back to you as soon as possible.
+[02:07] [Carla Valdez]: Uh, okay. Is she in the office or is she...
+[02:13] [Receptionist]: Well, I, I'm assuming she is working, although I'm not sure why she's not answering the phone. She might be with another client, but she is working today, ma'am.
+[02:23] [Carla Valdez]: Okay, I'm wait to the call me back, Stephanie.
+[ ... Silence (11s) ... ]
+[02:34] [Carla Valdez]: Hello?
+[02:35] [Receptionist]: Uh, yes ma'am.
+[02:37] [Carla Valdez]: Okay, uh, okay, I'm wait to the, uh, Stephanie call me back, okay?
+[02:44] [Receptionist]: Until she calls you back, understood. So you do not wish to leave another voicemail?
+[02:48] [Carla Valdez]: Uh, okay, it's fine, thanks.
+[02:51] [Receptionist]: Understood. I'll send her an email right away, ma'am.
+[02:54] [Carla Valdez]: Okay. Oh, anyway...
+
+========================================
+TRANSCRIPT END
+========================================

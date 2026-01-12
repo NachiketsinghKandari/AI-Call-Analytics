@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the caller that the firm handles personal injury cases and would not be able to assist with the traffic citation, advising that the caller's mother must attend court to address the citation regardless of the firm's involvement.",
+    "call_duration_seconds": 211.75,
+    "call_duration_formatted": "03:31"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist provided direct information regarding the firm's scope of services."
+  }
+}

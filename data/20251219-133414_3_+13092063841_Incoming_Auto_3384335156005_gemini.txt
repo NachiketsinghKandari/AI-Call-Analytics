@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Unknown / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, home— how may I help you?
+[00:07] [Unknown]: Is Daryl available?
+[00:09] [Receptionist]: Who?
+[00:10] [Unknown]: Daryl? Daryl Ford?
+[00:15] [Receptionist]: Uh, just to confirm, are you a client?
+[00:18] [Unknown]: No, I'm calling in regards to a client.
+[00:23] [Receptionist]: And who is Daryl? Like a case manager?
+[00:27] [Unknown]: I'm sorry?
+[00:29] [Receptionist]: Yes, who is Daryl? A case manager, an attorney?
+[00:34] [Unknown]: Oh, I'm calling in regards to a defen— I'm a defendant.
+[00:40] [Receptionist]: All right. What is the name for the client?
+[00:42] [Unknown]: Gwendolyn Cheatham.
+[00:47] [Receptionist]: Could you spell the last name?
+[00:50] [Unknown]: C-H-E-A-T-H-A-M.
+[ ... Silence (8s) ... ]
+[01:03] [Receptionist]: Um, can I have the date of loss?
+[01:07] [Unknown]: March 5th of '23.
+[01:11] [Receptionist]: In this case, uh, you will need to talk with the case manager. Let's see if the case manager is available, okay? Hold on.
+[ ... Silence (13s) ... ]
+[01:31] [Receptionist]: It looks like that Breland isn't available at this moment. Would you like to leave her a voice message?
+[01:38] [Unknown]: Is Daryl available?
+[01:41] [Receptionist]: Let's see. Let's see if he is available. Hold on.
+[01:44] [Unknown]: I talked to him before.
+[01:46] [Receptionist]: All right, let's see if he is available. Hold on. Um, thank you for staying on the line. It looks like that he isn't available neither. It looks like that they are like in a lunch time so far.
+[02:02] [Unknown]: Okay. All right. Are you able to leave me a— leave a message?
+[02:07] [Receptionist]: Yes, let me go ahead and connect you with the voice message. You can leave all your information and I'm going to pass you right now. Have a good one. Bye-bye.
+[02:16] [Unknown]: Thanks.
+
+========================================
+TRANSCRIPT END
+========================================

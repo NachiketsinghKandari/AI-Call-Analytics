@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Angelo / Role: Receptionist at Bay and Associates: 15 turns
+  • [Renee] / Renee / Role: Caller from Ico Orthopedics: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Angelo from Bay and Associates, how may I help you?
+[00:09] [Renee]: Hi, good afternoon. My name is Renee, I'm calling from I- Ico Orthopedics. I'm calling to follow up on a payment status for a patient, can you assist me?
+[00:19] [Receptionist]: Sure, can you tell me what is the name?
+[00:22] [Renee]: The last name is Mitchell, M-I-T-C-H-E-L-L, and the first name is O as in Oscar, R as in Robert, I as in Ice, E as in Echo, L as in Larry.
+[00:38] [Receptionist]: Thank you. Can I have the date of loss?
+[00:43] [Renee]: Date of loss is 12/20/2024.
+[00:46] [Receptionist]: Thank you. And you're calling to get the status of this?
+[00:50] [Renee]: Yes, can you provide me with the status?
+[00:53] [Receptionist]: Let's see. [ ... Silence (8s) ... ] All right. It says pre-litigation closing.
+[01:09] [Renee]: Pre-litigation closing?
+[01:13] [Receptionist]: Yes.
+[01:15] [Renee]: What was your first name?
+[01:19] [Receptionist]: Angelo, from Bay and Associates.
+[01:22] [Renee]: Angelo, and the case manager for that one is who?
+[01:27] [Receptionist]: Linda.
+[01:29] [Renee]: Okay, yeah, I do- I do see her. What's Linda's last name? Huff's, right? Linda Huffs?
+[01:36] [Receptionist]: Yes, you are right.
+[01:38] [Renee]: Got it. Angelo, thank you so much.
+[01:42] [Receptionist]: You're more than welcome. Something else?
+[01:44] [Renee]: Um, hold on, let me just look real quick. Uh, they got a lot of money. Yeah, I see one with quite a few dollars. No, yeah. The last name is Traylor, T-R-A-L-O-R. T-R-A-Y-L-O-R. And the first name is- the first name is Darren, D-A-R-R-O-N.
+[02:10] [Receptionist]: Okay, what do you want me to check on this?
+[02:14] [Renee]: The same thing, the status.
+[02:17] [Receptionist]: The status, let's see. It shows the same status, pre-litigation closing.
+[02:27] [Renee]: Pre-lit closing. Okay. And who's the- and the- um, manager is Stephanie?
+[02:31] [Receptionist]: Stephanie, yes, the case manager.
+[02:34] [Renee]: And Stephanie's last name is Peck?
+[02:40] [Receptionist]: Yes, you are right.
+[02:42] [Renee]: Got it. Angelo, thank- thank you so much, Angelo. You enjoy the rest of your day.
+[02:48] [Receptionist]: You're more than welcome, you as well. Thank you so much. Bye-bye.
+[02:52] [Renee]: You're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

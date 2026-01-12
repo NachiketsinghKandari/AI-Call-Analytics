@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Vandis Associates: 3 turns
+  • Speaker 2 / Malik Khan / Role: Caller from Hurt 911 Andrew Santos: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vandis Associates, Kim speaking.
+[00:05] [Malik Khan]: Hello, this is Malik Khan from Hurt 911 Andrew Santos. I'm calling about one of your mutual clients today.
+[00:13] [Receptionist]: Can I have the client's name please?
+[00:15] [Malik Khan]: Yes, so the client's last name is spelled M-C-H-A-N-E-Y and first name is Adario, spelled D-A-R-I-O.
+[00:27] [Receptionist]: All right, that would be with Victoria Morales. I can get you over to her.
+[00:36] [Malik Khan]: Yes, please.
+[00:37] [ ... Silence (5s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

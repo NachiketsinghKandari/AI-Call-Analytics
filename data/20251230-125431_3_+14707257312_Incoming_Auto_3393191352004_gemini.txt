@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Britney / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Christian Buck / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Britney.
+[00:04] [Christian Buck]: Hi, um, I was calling because I was trying to check on a case that I have with you all.
+[00:12] [Receptionist]: Okay. What's your— if I can get your name, please?
+[00:16] [Christian Buck]: Uh, yes, Christian Buck.
+[00:20] [ ... Silence (7s) ... ]
+[00:27] [Christian Buck]: Christian Buck, uh, B-U-C-K.
+[00:32] [Receptionist]: Okay. So it looks like your, let me see, your paralegal is Susan. Give me one moment, okay?
+[00:44] [Christian Buck]: Okay.
+[00:46] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

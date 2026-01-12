@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Clarina / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Leonard King / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Clarina.
+[00:05] [Leonard King]: Um, yes, this is Leonard King. I was, uh, I had received a call from you guys earlier.
+[00:12] [Receptionist]: I'm sorry, can I have your name again?
+[00:15] [Leonard King]: Leonard King.
+[00:18] [Receptionist]: Leonard, Leonard King?
+[00:21] [Leonard King]: Yes, yes.
+[00:23] [Receptionist]: One moment, sir.
+[00:25] [ ... Silence (12s) ... ]
+[00:37] [Receptionist]: All right, uh, let me see if the, uh, case manager is available, okay? Because they are actually off for the holidays, but let me check. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

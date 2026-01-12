@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Tanisha / Role: NextGen Medical Centers: 6 turns
+  • [Receptionist] / Role: Receptionist: 2 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (8s) ... ]
+[00:08] [Tanisha]: Hello?
+[00:15] [Tanisha]: Hello?
+[00:16] [ ... Silence (16s) ... ]
+[00:32] [Receptionist]: Hello, can you hear me?
+[00:34] [Tanisha]: Okay, now I can hear you. Hi, my name is Tanisha and I'm calling from NextGen Medical Centers. How are you today?
+[00:42] [Receptionist]: I'm good, thank you so much for asking. What about you?
+[00:45] [Tanisha]: I'm good, um, hopefully you can help me out with this. I was uh calling to see if I can get a status on payment for a Gawain Towns. It looks like we sent a reduction request over to you all and sent a response back on June the 5th. So I was just looking for a status on that payment going out.
+[01:05] [ ... Silence (14s) ... ]
+[01:19] [Tanisha]: Sorry, did your line break up again?
+[01:21] [ ... Silence (31s) ... ]
+[01:52] [Tanisha]: Hello?
+
+========================================
+TRANSCRIPT END
+========================================

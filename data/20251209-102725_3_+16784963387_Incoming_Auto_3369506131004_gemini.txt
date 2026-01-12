@@ -1,0 +1,60 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Angelo / Role: Receptionist at Bey and Associates: 20 turns
+  • [Renee] / Renee / Role: Caller from IGO Orthopedics: 18 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help you?
+[00:05] [Renee]: Hi, good morning, Angelo. Angelo, this is Renee from IGO Orthopedics. How's you?
+[00:11] [Receptionist]: Oh, it's a great, thank you so much for asking. What about you?
+[00:14] [Renee]: I'm okay, Angelo. Angelo, I have um three clients that need to be addressed.
+[00:23] [Receptionist]: Okay. Can you confirm me the name for the first one?
+[00:27] [Renee]: Okay. The last name was Williams with an S, W-I-L-L-I-A-M-S. The first name is Taylor, T-Y-L-E-R. Taylor Williams.
+[00:38] [Receptionist]: Thank you. Just one moment.
+[00:41] [ ... Silence (21s) ... ]
+[01:02] [Receptionist]: Mm, Taylor Williams. I couldn't find nothing under that name. Let's see.
+[01:11] [ ... Silence (19s) ... ]
+[01:30] [Receptionist]: No, for this one I couldn't find nothing. I search even in the closed cases and nothing show up.
+[01:39] [Renee]: Let's let's um yeah, we we have him. Let's put um like the date of birth or phone number because we did a reduction on him.
+[01:47] [Receptionist]: All right. What is the telephone number?
+[01:51] [Renee]: Telephone number is going to be 404-909-5197.
+[02:00] [ ... Silence (8s) ... ]
+[02:08] [Receptionist]: And can I have please the date of loss?
+[02:12] [Renee]: The date of loss is 2/27/25.
+[02:18] [ ... Silence (7s) ... ]
+[02:25] [Receptionist]: Let's see. Yes, for any reason with the telephone number show up. And what is it that you want me to check on this?
+[02:33] [Renee]: To see um the status of the payment.
+[02:37] [ ... Silence (29s) ... ]
+[03:06] [Receptionist]: All right. The amount for your for your clinic it will be $6,000.
+[03:14] [Renee]: Yes.
+[03:15] [Receptionist]: Okay. That's what it shows here in in our file. So so far it shows that the check is getting ready. It's getting ready in order to be mailed. Mm-hmm. For the next one?
+[03:29] [Renee]: The next one last name is Perry, P-E-R-R-Y. And the first name is going to be Antoine, A-N-T-U-A-N.
+[03:44] [ ... Silence (24s) ... ]
+[04:08] [Receptionist]: Uh, can I please have the date of loss?
+[04:12] [Renee]: Date of loss is 11/20/23.
+[04:17] [ ... Silence (22s) ... ]
+[04:39] [Receptionist]: For this one is 1,000.
+[04:44] [Renee]: This one is um yes, 1,000, yes.
+[04:48] [Receptionist]: Actually, this check it shows that it was mailed out on November 13th this year. And I have the check number.
+[04:58] [Renee]: November 13th? Okay. I can I can take the check number.
+[05:03] [Receptionist]: Thank you. It is 39043.
+[05:09] [Renee]: Okay. And the last one, the last one last name is going to be Scott, S-C-O-T-T. And her first name is Tiaje, T-I-A-J-E.
+[05:28] [ ... Silence (46s) ... ]
+[06:14] [Receptionist]: One minute, it's loading. Let's see.
+[06:17] [Renee]: Thank you.
+[06:18] [Receptionist]: This one is for 5,250. It shows that it was mailed on October the 2nd. And I have the check number.
+[06:29] [Renee]: Okay, I'm waiting.
+[06:36] [Receptionist]: It is 38803.
+[06:41] [Renee]: Good. That's what I need. Angelo, thank you so much.
+[06:45] [Receptionist]: You are more than welcome. Anything else that you would like that I can assist you or that's all?
+[06:50] [Renee]: That's just for today. Thank you.
+[06:52] [Receptionist]: All right. Have an excellent rest of your day. Bye-bye.
+[06:55] [Renee]: You too. Bye now.
+
+========================================
+TRANSCRIPT END
+========================================

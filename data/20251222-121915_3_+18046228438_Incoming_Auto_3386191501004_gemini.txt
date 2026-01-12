@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Dina / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Dina]: Hey, my name is Dina with Selective Insurance. I'm looking to speak to Paige Allman regarding your clients Janiah Franklin and Kayla Cobb.
+[00:14] [Receptionist]: Okay, one second. Janiah, could you spell that for me?
+[00:23] [Dina]: J-A-apostrophe-N-I-Y-A-H.
+[00:29] [ ... Silence (17s) ... ]
+[00:46] [Receptionist]: What's the last name?
+[00:49] [Dina]: Franklin.
+[00:51] [ ... Silence (11s) ... ]
+[01:02] [Receptionist]: Okay, let me get Paige for you, one second.
+[01:05] [Dina]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is [unintelligible] speaking.
+[00:04] [Speaker 2]: Hello? Hello? Hello? I'm sorry, I can't— I can't hear you, I can barely hear you. Hello?
+[00:16] [Receptionist]: Hello? Can you hear me better now?
+[00:19] [Speaker 2]: A little bit, not that much. Hello?
+[00:22] [Receptionist]: That's weird.
+[00:24] [Speaker 2]: Let me call you back. Hold on.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Emma / Role: Progressive Insurance Representative: 6 turns
+  • Maranda / Role: Progressive Insurance Representative: 12 turns
+  • Receptionist / Cindy / Role: Receptionist at Bey and Associates: 8 turns
+
+----------------------------------------
+
+[00:00] [Emma]: This is Emma, how can I help you?
+[00:04] [Maranda]: Good morning, with Progressive Insurance. I was calling in regard to, uh, a new client or a new injury claim for me, Dorian Council, and the letter of rep shows that Matt, uh, McKaren is the case manager and was wanting to see if I could get his email.
+[00:26] [Emma]: Sure, I can help. May I have your name?
+[00:29] [Maranda]: Maranda with Progressive.
+[00:33] [Emma]: Let me pull up Dorian Council's case to assist you. One moment.
+[00:37] [Maranda]: Uh-huh.
+[00:38] [Emma]: I'm not finding a— I'm not finding a file under the name Dorian Council. Could you spell it for me to make sure I have the correct name?
+[00:49] [Maranda]: D-O-R-I-A-N. The last name is C-O-U-N-C-I-L. Let me make sure your letter of rep spells it the same way.
+[01:00] [Emma]: I'm still not finding that file. Let me get you to our customer success team. Is that all right?
+[01:06] [Maranda]: That's fine.
+[01:07] [Emma]: Transferring you to our customer success team. Handoff initiated.
+
+[01:15] [ ... Silence (24s) ... ]
+
+[01:39] [Receptionist]: Thank you for calling Bey and Associates, how may I help you?
+[01:43] [Maranda]: May I get your name?
+[01:45] [Receptionist]: My name is Cindy.
+[01:47] [Maranda]: Cindy, this is Maranda with Progressive Insurance. I'm giving a call in regard to a new loss I received for your client Dorian Council, and I'm trying to get the case manager's email and see if they're available.
+[02:03] [Receptionist]: Okay, let me see if someone is available to help you with that.
+[02:07] [Maranda]: Uh-huh.
+[02:13] [Receptionist]: Okay, it's, um, giving me another number to get you. This is the firm's updated line for adjusters, so I'm going to give you a new phone number. It says if you do not reach someone, please leave a message and someone will get back to you. And if you're ready, I'll give you this number.
+[02:30] [Maranda]: Ready.
+[02:32] [Receptionist]: It's 470-645-2835.
+[02:48] [Maranda]: 470-645-2835. That's the updated number?
+[02:56] [Receptionist]: 470-645-2835.
+[03:01] [Maranda]: Yes, I'm asking that is the updated number though, not what's on the letter of rep?
+[03:07] [Receptionist]: This is the number that it's, uh, telling me to give you. Yes.
+[03:12] [Maranda]: Okay, thank you.
+[03:14] [Receptionist]: Uh-huh. You're welcome. You have a great day.
+
+========================================
+TRANSCRIPT END
+========================================

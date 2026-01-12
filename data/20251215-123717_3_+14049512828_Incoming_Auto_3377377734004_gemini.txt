@@ -1,0 +1,64 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 24 turns
+  • Speaker 2 / Kenneth Jackson / Role: Caller: 21 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: This is Angelo from Bey and Associates, how may I help?
+[00:07] [Kenneth Jackson]: Yes sir.
+[00:09] [Receptionist]: Yes, hello, how may I help?
+[00:13] [Kenneth Jackson]: Hi, how are you, sir?
+[00:15] [Receptionist]: Oh, so good, thank you so much for asking. What about you?
+[00:19] [Kenneth Jackson]: I'm doing amazing today. Is Victoria in the office or is uh, Tai- Taiwana? Oh, or Ti- I forgot, Taiwana?
+[00:31] [Kenneth Jackson]: May I ask to either of them? Uh, my name is Kenneth, I was just trying to get updated on my case.
+[00:42] [Receptionist]: Let me go ahead and double check. Can I please have, uh, let's see, the name for your case?
+[00:50] [Kenneth Jackson]: Kenneth Jackson.
+[00:53] [Receptionist]: Let's see.
+[00:59] [Receptionist]: Uh, you said your last name is Jackson, and what is your first name?
+[01:05] [Kenneth Jackson]: Kenneth.
+[01:07] [Receptionist]: Uh, how do you spell Kenneth?
+[01:12] [Kenneth Jackson]: K-E-N-N-E-T-H.
+[01:15] [Receptionist]: All right, thank you. Let me see. Something is not working properly. Give me just one minute. Stand by.
+[01:33] [Receptionist]: Hello?
+[01:34] [Kenneth Jackson]: Hello?
+[01:35] [Receptionist]: Thank you for staying on the line. So I was trying to look up for Victoria, but they are asking me to please confirm or double check the first name. Can you spell it for me?
+[01:47] [Kenneth Jackson]: Kenneth Jackson.
+[01:52] [Receptionist]: Ah, yes. You said Kenneth, but how do you spell Kenneth?
+[01:56] [Kenneth Jackson]: K-E-N-N-E-T-H Jackson.
+[02:00] [ ... Silence (13s) ... ]
+[02:13] [Kenneth Jackson]: Or if Taiana is there?
+[02:17] [Receptionist]: Let's see.
+[02:18] [Kenneth Jackson]: Taiana is, she's under Victoria or she's working my case with Victoria, please.
+[02:29] [Receptionist]: Yes, let me go ahead. Let's see if Taiana is available. Let me go ahead and check. Hold on.
+[02:46] [Receptionist]: Thank you for staying on the line. So it looks like that she's unavailable, Taiana. Uh, would you like to take her telephone number and try to call her in about 30 minutes to one hour?
+[03:01] [Receptionist]: Just to see if she's available?
+[03:08] [Receptionist]: Hello?
+[03:10] [ ... Silence (5s) ... ]
+[03:15] [Receptionist]: Sorry, I cannot hear you.
+[03:17] [ ... Silence (5s) ... ]
+[03:22] [Receptionist]: Sorry, for quality purposes, if I don't hear you, I'm going to go ahead and disconnect this phone call. Can you hear me?
+[03:29] [ ... Silence (5s) ... ]
+[03:34] [Receptionist]: Hello? Hello?
+[03:38] [ ... Silence (5s) ... ]
+[03:43] [Receptionist]: Sorry, I cannot hear you. Can you hear me? Hello, can you hear me?
+[03:50] [Kenneth Jackson]: Yes.
+[03:51] [Receptionist]: All right. So I said that I was trying to get in contact with Taiana, but she wasn't able, uh, to answer my phone call. So I have the direct line for her, you can try to call her in about 30 minutes.
+[04:05] [Kenneth Jackson]: Taiana?
+[04:06] [Receptionist]: Yes, I have her direct line. Would you like to write it down?
+[04:11] [Kenneth Jackson]: Okay.
+[04:13] [Receptionist]: Ready?
+[04:14] [Kenneth Jackson]: Yes.
+[04:15] [Receptionist]: It is 404-889-8965.
+[04:29] [Kenneth Jackson]: Okay, thank you.
+[04:31] [Receptionist]: You're more than welcome. Anything else or that's all?
+[04:36] [Kenneth Jackson]: That's everything. Have a good one.
+[04:38] [Receptionist]: Yes, bye-bye.
+[04:43] [Kenneth Jackson]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Sherry Gannaway / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel, how can I help you?
+[00:05] [Sherry Gannaway]: Yes, is this the head of attorneys in Mr. John Bey?
+[00:13] [Receptionist]: I'm sorry?
+[00:15] [Sherry Gannaway]: The head of attorneys.
+[00:18] [Receptionist]: Uh...
+[00:24] [Sherry Gannaway]: And look in that bag and give me uh two packs of hot sauce. It's over there by the corner to the right. Two packs of hot sauce. To the right in that bag.
+[00:40] [Receptionist]: Okay. Um, I'm sorry, you said that you are trying to talk to John Bey?
+[00:43] [Sherry Gannaway]: Yes.
+[00:45] [Receptionist]: Okay. Um, he's not available. Let me verify if his representative is available. One moment. Um, thank you so much for holding. The representative is not available. I will send an email so they can get back to you as soon as possible, okay?
+[01:04] [Sherry Gannaway]: Well, let me speak to Suzanne.
+[01:07] [Receptionist]: Let me verify one moment. Thank you so much for holding. Suzanne is on another call. I can have her to give you a call back later on today.
+[01:20] [Sherry Gannaway]: All right. Sherry Gannaway.
+[01:22] [Receptionist]: Okay. We'll do that, okay?
+[01:25] [Sherry Gannaway]: Okay, thanks.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jasper / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Cedric Jackson / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Jasper, what can I do for you today?
+[00:05] [Cedric Jackson]: Hey, this is Ben Associates?
+[00:08] [Receptionist]: Yes.
+[00:09] [Cedric Jackson]: Hey, um, I need to speak to my case manager about a loan that I asked for you guys that I put in over two weeks ago and I haven't heard anything back, not only from you guys' office but from the loan people. I just called them today and they told me that I needed to get in contact with my case manager so they could push it push it through. I need you guys to put me in contact with them.
+[00:29] [Receptionist]: Yes sir, what is your name?
+[00:31] [Cedric Jackson]: Cedric Jackson.
+[00:33] [ ... Silence (8s) ... ]
+[00:41] [Receptionist]: Sorry, what is your first name?
+[00:42] [Cedric Jackson]: Cedric, C-E-D-R-I-C.
+[00:45] [ ... Silence (28s) ... ]
+[01:13] [Receptionist]: Just one moment, let me see if he's available.
+[01:17] [Cedric Jackson]: Okay.
+[01:18] [Receptionist]: Okay. Uh, Mr. Jackson, I'm sorry, but he's not available right now. Would you like his voicemail?
+[01:26] [Cedric Jackson]: Is he going to be available anytime today? Is there anybody else I could talk to like maybe the my um my attorney or anybody else? Because I've been calling since yesterday. I've been calling since yesterday and he still y'all still telling me the same thing that he's not trying to pick up the phone. I don't understand that. He's in y'all office. He's my case manager, he need to answer the phone. I've been calling since Monday.
+[01:49] [Receptionist]: Yes sir, I understand that, I'm sorry about that. Honestly, because of the holidays, you know, uh, it's very hard to get a hold of them, so maybe until Friday or next week.
+[02:02] [Cedric Jackson]: I can't wait until Friday or next week. I have something that's put in through you guys that I need approval from. I need someone to send over something to to the capital funding people letting them know that they could put that that application through.
+[02:18] [Receptionist]: Yeah, the thing is that they're not available, I mean...
+[02:22] [Cedric Jackson]: It don't make sense. Like everything that I have going on with y'all is always delayed. It's starting to like really upset me and it's not your problem so I don't want to take my frustration out on you because you're not the one that I'm having a problem with. But Mr. Ken Kennedy, Ken, whatever my attorney name and his paralegal are pissing me off. Because my case should have been taken care of two two years ago. So I'm not understanding why every time I need y'all assistance I have to be put on hold.
+[02:51] [Receptionist]: Right, give me one moment. Give me one moment, let me see if the attorney is available. One moment. [ ... Silence (5s) ... ] Yeah, Mr. Jackson, they're not available at all.
+[03:08] [Cedric Jackson]: Oh, Lord, man.
+[03:11] [Receptionist]: I can uh put you to the voicemail directly, you know, with the attorney if you want and you can leave a voicemail and they can uh give you a call back.
+[03:21] [Cedric Jackson]: Okay. I can do that.
+[03:23] [Receptionist]: You let them know what you actually need, everything, and then he will call you back, okay?
+[03:28] [Cedric Jackson]: Okay.
+[03:29] [Receptionist]: I'm going to put you through.
+
+========================================
+TRANSCRIPT END
+========================================

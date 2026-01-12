@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 12 turns
+  • Speaker 2 / Nishita / Role: Caller from Neurospine: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Law firm, Devin speaking.
+[00:05] [Nishita]: Uh, hey, this is Nishita, I'm calling from Neurospine, the doctor's office. I have two of your clients and I just need an update on the case statuses.
+[00:15] [Receptionist]: Okay, what is the first and last name of the client?
+[00:19] [Nishita]: Uh, the first name is Tyler Passmore, spelled as T-Y-L-E-R, last name P-A-S-S-M-O-R-E.
+[00:34] [Receptionist]: Okay, for Tyler Passmore, it's in pre-litigation reduction at this moment.
+[00:45] [Nishita]: Okay, and could you also provide me with the name and email address for the case manager?
+[00:52] [Receptionist]: Paige Almond.
+[00:59] [Nishita]: Paige Almond.
+[01:02] [Receptionist]: Yes, Almond.
+[01:04] [Nishita]: Can you spell that out for me?
+[01:07] [Receptionist]: Yeah, that's A for apple, L as in Lima, M as in Mary, O as in Oscar, N as in Nancy.
+[01:16] [Nishita]: Oh, Almond. Got it. And her email address?
+[01:19] [Receptionist]: It will be her first name, Paige, which is P-A-Y-G-E, at B-A-Y-and-associates.com. And that's B-E-Y for Bay, and N is spelled out A-N-D, associates will be plural, dot com.
+[01:46] [Nishita]: Got it. Uh, next client that I have is Jerry Pope. Jerry, J-E-R-R-Y, and last name spelled as P-O-P-E.
+[02:00] [ ... Silence (6s) ... ]
+[02:06] [Receptionist]: For Jerry, okay, Jerry Pope. Um, that would be Victoria Morales as case manager. It status is in pre-litigation demand. The email for Victoria would be the same as Paige, the only thing changes would be the first name, Victoria. V-I-C-T-O-R-I-A.
+[02:29] [Nishita]: Victoria at Bay and associates dot com?
+[02:32] [Receptionist]: Yes, miss.
+[02:34] [Nishita]: Got it. All right, can I get your name please?
+[02:43] [Receptionist]: Anything else?
+[02:45] [Nishita]: Yeah, uh, can I get your name please?
+[02:49] [Receptionist]: Oh, Devin. D-E-V-I-N.
+[02:52] [Nishita]: Devin. All right, Devin, thank you so much for the information. That's all I needed. Have a good one.
+[02:59] [Receptionist]: You too, have a great one.
+[03:01] [Nishita]: Thanks, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain & Associates: 5 turns
+  • Speaker 2 / Kenyatta Bell / Role: Client: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain & Associates, this is Brittany.
+[00:03] [Kenyatta Bell]: Hi Brittany, how are you today?
+[00:05] [Receptionist]: Hi, I'm well. How are you?
+[00:08] [Kenyatta Bell]: I'm doing great. Um, this is Kenyatta Bell. Um, is- is Attorney Middleton, is she available?
+[00:14] [Receptionist]: She is actually not this week. How- she's in trial. I'm not sure... uh, let me take a look at her calendar. I'm not sure if she'll be available Friday, but she is in trial right now. Do you have a moment to hold?
+[00:30] [Kenyatta Bell]: I- I do. Um, I did get an email from her because, um, my daughter was coming to pick up her final payment for her settlement. And she said she would be in the office today working on it with her team. And I just finished my treatment, uh, at the Cancer Institute and we were heading that direction.
+[00:51] [Receptionist]: Mm... let me... because I can't get in touch with her at the moment. Could you just give me a few minutes and I'll give you a call right back?
+[01:03] [Kenyatta Bell]: Yes, ma'am.
+[01:04] [Receptionist]: Okay. All right. Thank you.
+[01:06] [Kenyatta Bell]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

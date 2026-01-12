@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "scheduling_and_appointments",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member regarding an appointment. The transfer failed because the staff member was in a meeting, so the receptionist noted the caller's request to change their arrival time and confirmed the update.",
+    "call_duration_seconds": 91.08,
+    "call_duration_formatted": "01:31"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to connect the caller to a specific staff member (Tara), but returned to the line stating she was unavailable due to a meeting."
+  }
+}

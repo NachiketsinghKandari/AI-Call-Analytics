@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 1 turn
+  • Speaker 2 / Unknown / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I help you?
+[00:04] [Unknown]: Hi, my name is...
+
+========================================
+TRANSCRIPT END
+========================================

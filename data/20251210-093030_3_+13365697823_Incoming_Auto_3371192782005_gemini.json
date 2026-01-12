@@ -1,0 +1,27 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the appropriate contact for operations and initiated a transfer, ending the call immediately after brief pleasantries.",
+    "call_duration_seconds": 21.6,
+    "call_duration_formatted": "00:21"
+  },
+  "transfer_context": {
+    "destinations": [
+      "administration_and_operations"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated the intent to transfer the caller to the person in charge of operations and the call concluded."
+  }
+}

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Lastenia / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Associates, this is Emma. How can I help you?
+[00:05] [Lastenia]: Hi, um, my name's Lastenia and I have you guys as my attorney, um, and I was curious to see if you guys were handling the vehicle damage on my case and whatnot. I didn't ask that when I first signed up.
+[00:23] [ ... Silence (5s) ... ]
+[00:28] [Receptionist]: I see a few files for that name. Can you provide your date of birth or the date of the incident to narrow it down?
+[00:35] [Lastenia]: Um, 03/19/2003.
+[00:42] [Receptionist]: I see several cases for that name. Could you please provide your date of birth to narrow it down further?
+[00:49] [Lastenia]: Yeah, it's 03/19/2003.
+[00:57] [Receptionist]: I'm not finding your file under that name. Could you spell your name for me?
+[01:04] [Lastenia]: It's L-A-S-T-E-N-I-A.
+[01:12] [Receptionist]: Lastenia, got it. Let me check again. I'm still not finding your file. Let me get you to our customer success team to help track this down. Is that all right?
+[01:24] [Lastenia]: Yeah.
+[01:26] [Receptionist]: Office is closed right now. Let me take a message and the customer success team will call you back. What's your callback number?
+
+========================================
+TRANSCRIPT END
+========================================

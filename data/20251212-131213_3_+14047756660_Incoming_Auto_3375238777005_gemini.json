@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "scheduling_and_appointments",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to connect the caller with the case manager and other staff regarding a deposition inquiry. Upon finding them unavailable, the receptionist initiated a transfer to the attorney's voicemail and the call ended.",
+    "call_duration_seconds": 156.6,
+    "call_duration_formatted": "02:36"
+  },
+  "transfer_context": {
+    "destinations": [
+      "legal_counsel_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist offered a transfer to the attorney's voicemail after confirming staff unavailability. The caller agreed, and the receptionist initiated the transfer."
+  }
+}

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Ora Jones / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina speaking, how can I assist you?
+[00:06] [Ora Jones]: Hi, my name is Ora and I'm— can I speak to John Bey's assistant or, uh, about his upcoming holiday party? I need to— I have a question for her.
+[00:16] [Receptionist]: I'm sorry, for whom?
+[00:19] [Ora Jones]: Mr. Bey's assistant, John Bey's assistant.
+[00:23] [Receptionist]: Oh, uh, Dante? Uh, and you're calling in from where?
+[00:27] [Ora Jones]: I'm— I'm in the Metro Atlanta area.
+[00:31] [ ... Silence (10s) ... ]
+[00:41] [Receptionist]: Okay, can I have your name?
+[00:43] [Ora Jones]: My name is Ora, O-R-A, last name is Jones.
+[00:47] [Receptionist]: Thank you, bear with me. Ms. Jones, Dante's not available right now, do you want his voicemail?
+[00:55] [Ora Jones]: Yes, thank you.
+[00:57] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

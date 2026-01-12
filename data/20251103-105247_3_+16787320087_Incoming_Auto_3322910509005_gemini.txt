@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Devin / Role: Receptionist at Bane and Associates Law Firm: 8 turns
+  • [Nita] / Nita / Role: Representative from Three Injury Center: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bane and Associates Law Firm, Devin speaking.
+[00:07] [Nita]: Hi, this is Nita with Three Injury Center. I was calling about a mutual patient, a couple actually, um, just trying to see if liability was accepted and policy limits.
+[00:18] [Receptionist]: Okay. What is the name of this client?
+[00:22] [Nita]: Um, first one is Shrhonda Bryant. Her first name is spelled S-H-R-H-O-N-D-A Bryant.
+[00:31] [Receptionist]: Yeah, Shrhonda Bryant. Yeah, it still hasn't been, um, accepted or determined yet. We're still pending on that.
+[00:43] [Nita]: Okay. Um, and then two more. I'm sorry, just one more. Um, last name is Wilson, first name is Lafayette.
+[00:57] [Receptionist]: Let's take a look. [ ... Silence (11s) ... ] For Lafayette Wilson, liability is still under investigation.
+[01:13] [Nita]: Okay.
+[01:16] [Receptionist]: All right.
+[01:22] [Nita]: All right. And Bryant said that she stated to you guys that she was done with treatment, that she no longer needed it?
+[01:32] [Receptionist]: I think so. She was speaking with Stephanie. Stephanie's her case manager.
+[01:40] [Nita]: Okay.
+[01:42] [Receptionist]: All right. Thank you.
+[01:44] [Nita]: You're welcome. All right, have a good one. Bye.
+[01:46] [Receptionist]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

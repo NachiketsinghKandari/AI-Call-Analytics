@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Chris Catageridis / Role: Caller from Pure Insurance Company: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Chris Catageridis]: Hi, this is Chris Catageridis calling from Pure Insurance Company, can I please speak to, um, Matt McKernan?
+[00:16] [Receptionist]: Uh, are you calling on behalf of one of our clients?
+[00:21] [Chris Catageridis]: Yes.
+[00:22] [Receptionist]: Okay, what is the name for the client?
+[00:24] [Chris Catageridis]: Sure, James Patrick and Elaine Patrick.
+[00:29] [ ... Silence (8s) ... ]
+[00:37] [Chris Catageridis]: Excuse me.
+[00:39] [Receptionist]: James Patrick. Can I have please the date of loss?
+[00:41] [Chris Catageridis]: Yes, date of loss is 7/14/25.
+[00:45] [Receptionist]: Okay. And you're saying that you're calling from who? Which insurer?
+[00:49] [Chris Catageridis]: Pure, yeah, Pure Insurance.
+[00:52] [Receptionist]: Pure Insurance. Okay. Thank you, let's see if Matt is available, okay?
+[00:58] [Chris Catageridis]: Sure.
+[00:59] [ ... Silence (14s) ... ]
+[01:13] [Receptionist]: Thank you for staying on the line. It looks like that Matt is busy at this moment in a meeting. But, he left a voice message for you. He said that he received your message, I don't know if you communicate with them, with him, sorry. And he received your message and he will call you, uh, in the afternoon. He's busy at this moment.
+[01:28] [Chris Catageridis]: Sure, thank you so much. I appreciate it. What's your name?
+[01:32] [Receptionist]: Oh, this is Angelo.
+[01:34] [Chris Catageridis]: Angelo. Thank you, Angelo, I appreciate it. Do you need my phone number or he's talking about the message that we left for him before?
+[01:43] [Receptionist]: Uh, if you wish I can leave your telephone number as well, just in case.
+[01:47] [Chris Catageridis]: Sure. Yeah, let me, let me give it to you. It's 914-539-8701.
+[02:03] [Receptionist]: Mm-hmm.
+[02:04] [Chris Catageridis]: And can I please give you my claim number as well?
+[02:07] [Receptionist]: Yes. Mm-hmm.
+[02:09] [Chris Catageridis]: The claim number is GA, like Georgia, GA-011-519.
+[02:21] [Receptionist]: Okay, so I leave your telephone number and the claim as well, just for him to know, okay?
+[02:28] [Chris Catageridis]: Thank you so much.
+[02:30] [Receptionist]: No issue at all. Something else or that's all?
+[02:34] [Chris Catageridis]: Nope, that's it. Thank you so much, Angelo. Have a great day.
+[02:38] [Receptionist]: All right, have a good one. You as well. Bye-bye.
+[02:41] [Chris Catageridis]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

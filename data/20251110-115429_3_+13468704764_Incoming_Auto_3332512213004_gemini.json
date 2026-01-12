@@ -1,0 +1,21 @@
+{
+  "caller_type": "family_member",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a case status update for her son. The receptionist located the case file, but the call ended before any information was provided or a resolution was reached.",
+    "call_duration_seconds": 49.97,
+    "call_duration_formatted": "00:49"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during this call."
+  }
+}

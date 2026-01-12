@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 15 turns
+  • Speaker 2 / Karthik / Role: Caller: 16 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help you?
+[00:06] [Karthik]: Um, hi, my name is Karthik, I'm calling from Reveco on behalf of Southern Regional Medical Center. Please be advised calls are recorded for quality and training purposes. I was calling to verify representation for the patient.
+[00:21] [Receptionist]: Sure. And what is it— what is the name?
+[00:24] [Karthik]: Uh, it's Dania Davis.
+[00:29] [Receptionist]: How do you spell that first name?
+[00:33] [Karthik]: Uh, sure. It's Delta, Alpha, November, India, Alpha, Hotel.
+[00:46] [Receptionist]: Davis. I found it. What are you wanting me to check on this?
+[00:51] [Karthik]: Uh, just want to know whether the Bey and Associates law office is, sorry, representing the patient for the date of injury 12/09/2025.
+[01:11] [Receptionist]: Sorry, what are you wanting me to check on this? I couldn't hear it.
+[01:16] [Karthik]: I would like— whether the Bey and Associates law office is representing the patient for the date of injury 12/09/2025.
+[01:27] [Receptionist]: Yes. Yes, we represent this client. Uh-huh. You are right. We represent, and it is a minor. Yes, I can see. Uh-huh. Yes, we do.
+[01:41] [Karthik]: A minor. Who's the patient's first-party insurance?
+[01:48] [Receptionist]: Um, the patient insurance?
+[01:52] [Karthik]: Yes.
+[01:53] [Receptionist]: Let's see. Um, it says Progressive.
+[02:04] [Karthik]: Um, may I have the claim number?
+[02:08] [Receptionist]: Um, one moment. Because I'm looking here. Ah, yes. Progressive. Since he's a minor, the claim was opened under the father. So this is the claim number: 25503549983.
+[02:48] [Karthik]: Okay. So, like, it's going to be PIP or MedPay coverage? I mean, like, which one is it for the patient?
+[03:09] [Receptionist]: [ ... Silence (11s) ... ] Uh, the coverage, it says 25/50 verbal limit, but we don't have like the coverage just yet.
+[03:29] [Karthik]: Okay. And may I have your fax number and mailing address?
+[03:38] [Receptionist]: Yes. Our fax, it is 404-393-6100. And our address, it is 4200 Northside Parkway Northwest, Building 9, Atlanta, Georgia 30327.
+[04:29] [Karthik]: Okay. So let me repeat the fax number one more time. It's 443-93-6107. Am I correct?
+[04:39] [Receptionist]: The beginning is 404, right?
+[04:42] [Karthik]: Yes.
+[04:43] [Receptionist]: Got it. That is correct.
+[04:48] [Karthik]: Yep. Thank you so much, Angelo.
+[05:00] [Karthik]: [ ... Silence (8s) ... ] Thank you so much for your assistance, Angelo.
+[05:04] [Receptionist]: All right. Anything else for us, sir?
+[05:07] [Karthik]: No, Angelo, I think that's all for the day. Thank you.
+[05:10] [Receptionist]: All right. Have a good one. Bye-bye, sir.
+[05:13] [Karthik]: Yep, you too. Have a nice day. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

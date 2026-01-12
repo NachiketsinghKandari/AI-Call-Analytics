@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Morgan & Morgan: 5 turns
+  • Speaker 2 / [Shanti Kelly] / Role: Client: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Morgan & Morgan, this is Shanti, how can I help you?
+[00:08] [Shanti Kelly]: Hello, good morning. I couldn't hear you, you sound like you're breaking up.
+[00:12] [Receptionist]: Thank you for calling Morgan & Morgan, this is Shanti, how can I help you?
+[00:17] [Shanti Kelly]: Hi, um, so I was just following up on my case. I was— there was supposed to be a deposition date set for today, well the proposal was sent to the, uh, opposing, uh, side and they were supposed to answer to it, so I was just told to follow up, um, around this time.
+[00:40] [Receptionist]: Oh, okay. Thank you so much for that. Um, may I have your phone number please?
+[00:42] [Shanti Kelly]: Yes, 470-519-5097.
+[00:48] [Receptionist]: Okay, thank you. Shanti Kelly?
+[00:52] [Shanti Kelly]: Yes.
+[00:53] [Receptionist]: Okay, give me one moment please.
+[00:55] [Shanti Kelly]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

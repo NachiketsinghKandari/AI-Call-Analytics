@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 3 turns
+  • Speaker 2 / [Rowie] / Role: Representative from Georgia Spine and Orthopedics: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kim speaking.
+[00:03] [Rowie]: Hi, this is Rowie from Georgia Spine and Orthopedics. I'm calling in regards to Kevin Ashley.
+[00:09] [Receptionist]: Let me pull that up here.
+[00:11] [ ... Silence (16s) ... ]
+[00:27] [Receptionist]: Okay, that would be with Paige Almond. Just one sec, let me get her for you.
+
+========================================
+TRANSCRIPT END
+========================================

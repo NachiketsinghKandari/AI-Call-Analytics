@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Amy / Role: Caller from Emery Hospital: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fatima, how may I assist you?
+[00:07] [Amy]: Hi, my name is Amy, I'm calling from Emery Hospital. Um, I'm calling on a patient Dayana Gardner to confirm that you have our hospital lien on file and to get a case status.
+[00:20] [Receptionist]: Allow me just one moment please while I search for her file and then I can give you an update. You said her name is Dayana Gardner?
+[00:29] [Amy]: Yes, D-A-Y-A-N-A.
+[00:32] [Receptionist]: Thank you. And the date of loss was on October the third?
+[00:38] [Amy]: Excuse me, yes, that's correct.
+[00:41] [Receptionist]: All right, so the status on the account is in treatment. She remains treatment. What else did you needed from our end?
+[00:49] [Amy]: Um, to confirm that, um, you guys have our hospital lien on file.
+[00:53] [Receptionist]: Let me just see that.
+[00:58] [ ... Silence (10s) ... ]
+[01:08] [Receptionist]: I have here that there is some bills that I'm able to see but I do not see any documents that says lien.
+[01:15] [Amy]: Okay, it would be from Esperion, if that helps, I don't know, I'm just to make sure.
+[01:22] [Receptionist]: No.
+[01:24] [Amy]: Okay, I can resend it to you.
+[01:26] [Receptionist]: Okay. May I— can I give you the case manager's email address?
+[01:31] [Amy]: Yes, that's great.
+[01:33] [Receptionist]: All right, so her name is Paige. P-A-Y—
+[01:38] [Amy]: P-A-I-G-E?
+[01:39] [Receptionist]: Oh, I'm sorry. It's P as in Peter, A, Y as in yellow, G as in golf, E as in echo. Paige. At Bey and Associates dot com. And it's spelled out A-N-D.
+[02:06] [Amy]: Okay, and it's P-A-I-G-E.
+[02:09] [Receptionist]: It's P-A-Y as in yellow, G-E.
+[02:14] [Amy]: Mhm. Got it.
+[02:16] [Receptionist]: Okay.
+[02:17] [Amy]: Okay, I'll get this sent to her. Thank you so much for your help. You have a great rest of your day.
+[02:21] [Receptionist]: You're so welcome. You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

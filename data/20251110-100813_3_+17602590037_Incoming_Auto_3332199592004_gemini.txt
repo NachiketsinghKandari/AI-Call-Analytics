@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: [Receptionist at BNS Associates]: 6 turns
+  • Speaker 2 / [Speaker 2] / Role: [Representative from Legal Post Hub]: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: BNS Associates, this is Angelo, how may I help you?
+[00:07] [Speaker 2]: Hello, is Mr. Bay available?
+[00:11] [Receptionist]: Uh, Mr. Bay, like the owner of the company?
+[00:17] [Speaker 2]: Yes. Uh, sorry?
+[00:20] [Receptionist]: Uh, yes, like, may I know the reason why? Do you have any case or something? Because he's a...
+[00:26] [Speaker 2]: No, it's about, uh, no, I'm calling regarding potential motor vehicle accident cases.
+[00:33] [Receptionist]: Potential, of course, yes, yes. Um, so, would you like to, would you like to complete, uh, like an intake or would you like just to talk with him? Because as long as I know, if... Oh, go ahead.
+[00:50] [Speaker 2]: I would, I would actually love to have a quick conversation to speak with him, if, uh, he's available and if you could connect me to him.
+[00:59] [Receptionist]: Mhm. Let's see if it is, if he's available, okay? Uh, and you are saying that you're calling from who? Any medical facility or something? Just to make sure.
+[01:12] [Speaker 2]: Uh, I'm calling from Legal Post Hub, it's an American company, and I'm calling for about, like, business matter. So, I see that he's accepting car accident cases and I would like to discuss the topic with him if possible.
+[01:30] [Receptionist]: Mhm. Let's see if he's available, okay? Stay on the line. Thank you so much.
+[01:38] [Speaker 2]: Sure. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

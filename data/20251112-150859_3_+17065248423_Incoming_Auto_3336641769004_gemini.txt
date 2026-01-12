@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 6 turns
+  • Speaker 2 / [Amanda] / Role: Representative for Emory University Hospital: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devon speaking.
+[00:03] [Amanda]: Hi Devon, my name is Amanda and I'm calling on behalf of Emory University Hospital and I'm calling to see if I could um confirm that the case for Jessica McCallum is still open and also that your office has a copy of the hospital lien on file.
+[00:18] [ ... Silence (10s) ... ]
+[00:28] [Receptionist]: One second, I'm looking for the case right now. [ ... Silence (5s) ... ] So yes, the case for Jessica McCallum is still open and you wanted to confirm if we have a uh lien?
+[00:43] [Amanda]: Hospital lien on file, yes.
+[00:44] [Receptionist]: Let's take a look. [ ... Silence (6s) ... ] It seems like we did receive a lien. [ ... Silence (9s) ... ] Yes, we did receive the- we just received the lien. Yes, we do have it.
+[01:15] [Amanda]: Okay, thank you!
+[01:18] [Receptionist]: You're welcome.
+[01:19] [Amanda]: You have a great day!
+[01:21] [Receptionist]: You too.
+[01:22] [Amanda]: Thank you. Bye-bye.
+[01:23] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

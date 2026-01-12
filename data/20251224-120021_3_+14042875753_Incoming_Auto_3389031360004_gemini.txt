@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Julia Ruiz / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Julia Ruiz]: Gracias Angelo, mi nombre es Julia Ruiz, ¿te acuerdas que hablé contigo?
+[00:11] [Receptionist]: Señora Julia, sí, buenas...
+[00:14] [Julia Ruiz]: Bueno, este, lo último que me dijeron que firmara el papel, lo firmé con la señora notaria de al frente y ella me dijo unos días y esto hace una semana. Y entonces llamaba para ver si me podías averiguar cuántos días porque hace una semana me dijeron couple days.
+[00:38] [Receptionist]: Vamos a mirar a ver qué pasa acá.
+[00:42] [ ... Silence (5s) ... ]
+[00:47] [Receptionist]: ¿Se ha intentado comunicar con Michael Sobo?
+[00:52] [Julia Ruiz]: No, a mí no me han dado ningún número de Michael Sobo, me dijeron que llamara si no llegaba en unos días. La chica, la notaria, fue la que me dijo en unos días y no te ha llegado por overnight, me lo iban a mandar por overnight check de FedEx o yo no sé de dónde, que llamara.
+[01:10] [Receptionist]: ¿Y cuándo? ¿Qué día se lo enviaron?
+[01:13] [Julia Ruiz]: Yo no sé si lo han enviado, te estoy diciendo que me dijeron couple days y esos couple days fue el miércoles pasado, ya hicieron ocho días y todavía no he tenido noticias.
+[01:26] [Receptionist]: Nada, vale, espérame un segundo, vamos a hacer una pequeña investigación, señora Julia. Por favor, espera en la línea, gracias.
+[01:37] [ ... Silence (5s) ... ]
+[01:42] [Receptionist]: ¿Julia?
+[01:43] [Julia Ruiz]: Sí.
+[01:44] [Receptionist]: Julia, muchísimas gracias por su amable espera en la línea. Bueno, Julia, lo que pasa es que el día de hoy, ¿cierto?, ya han salido los ejecutivos, las personas que generan los cheques, dan información bancaria y todo esto. Entonces, estaba tratando de consultar con uno de ellos, pero lo único que pude obtener es que ya el cheque ha sido enviado de nuestra parte, ya solo queda es esperar. Por el momento, pues como...
+[02:18] [Julia Ruiz]: ¿Ha sido enviado a dónde?
+[02:22] [Receptionist]: Dice que supuestamente, espérame, es para mail, ¿cierto? Entonces...
+[02:28] [Julia Ruiz]: Me dijeron overnight.
+[02:30] [Receptionist]: Sí, se supone que a su mailbox.
+[02:33] [Julia Ruiz]: ¿A mi mailbox? Yo no tengo mailbox.
+[02:43] [Receptionist]: Pues no sé, acá me dice que ya ha sido enviado por mail. Si le dijeron que FedEx y overnight, entonces como son días feriados y eso, hay veces suele demorarse un poco más. Sí, pero por el momento me informan que no hay nadie en la oficina que nos pueda brindar más información que una amable espera. Le recomiendo que por favor, amablemente espere hasta el 26, que es el viernes, para mirar a ver si hay algo más o le llega el cheque para ese día, mhm.
+[03:34] [Julia Ruiz]: Bueno, ¿qué más puedo decir yo? Tuvieron ocho días y tuvieron que esperar el día feriado. Imagínate. Esto me parece un juego, de verdad, esto es un juego tremendo que tienen. Bueno, muchas gracias.
+[03:54] [Receptionist]: Claro, señora Julia, me disculpo por usted, no se preocupe. ¿Algo más que le podría ayudar o es todo?
+[03:59] [Julia Ruiz]: No, nada más, bueno, gracias.
+[04:02] [Receptionist]: Listo, señora Julia.
+
+========================================
+TRANSCRIPT END
+========================================

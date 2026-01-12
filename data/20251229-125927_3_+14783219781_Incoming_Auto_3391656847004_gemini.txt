@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Michelle White / Role: Caller from Geico Claims: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Michelle White]: Hi Angelo, this is uh Michelle White, I'm calling from Geico Claims on a recorded line. Uh, was trying to follow up um if Page was available regarding client Laquita Wingfield.
+[00:19] [Receptionist]: Thank you. Just one minute, let me look for the file.
+[00:27] [ ... Silence (14s) ... ]
+[00:41] [Receptionist]: All right. Let's see if Peggy is available. Thank you so much. Hold on.
+[00:48] [Michelle White]: Mhm.
+[00:49] [Receptionist]: Michelle, thank you for staying on the line. It looks like that Peggy isn't available at this moment. Would you like to leave her a voicemail?
+[00:58] [Michelle White]: Uh, yes. I'm just following up on the offer of the policy limits to settle the claim. Um, if they could give me a call back at their earliest convenience.
+[01:08] [Receptionist]: Sure. So let me pass you over to the voicemail and you can leave your your information and also I'm going to leave her a documentation here like a task to call you back. Okay?
+[01:22] [Michelle White]: All right. Thank you.
+[01:23] [Receptionist]: Have a good one. Let me pass you over.
+
+========================================
+TRANSCRIPT END
+========================================

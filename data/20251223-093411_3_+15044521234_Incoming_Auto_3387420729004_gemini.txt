@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Desiree Saint Paul / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:07] [Desiree Saint Paul]: Hi, um, I was calling to see if Mr. Wayne gives free consultations for divorce?
+[00:16] [Receptionist]: No, we just handle personal injury cases.
+[00:19] [Desiree Saint Paul]: Mr. Wayne doesn't do divorces anymore?
+[00:24] [Receptionist]: Who, I'm sorry?
+[00:25] [Desiree Saint Paul]: Mr. Wayne, Stephen Wayne.
+[00:29] [Receptionist]: Oh, yeah. Yeah, he does, but, um, may I have your name and phone number so I can send an email, he can get back to you?
+[00:41] [Desiree Saint Paul]: Sure. Um, my name is Desiree, that's spelled D-E-S-I-R-E-E. My last name is Saint Paul, S-T period space P-A-U-L.
+[01:01] [Receptionist]: Okay. Is your phone number the one on my caller ID, 504-452-1234?
+[01:09] [Desiree Saint Paul]: Yes, sir.
+[01:11] [Receptionist]: Okay. Okay, I will send an email. So...
+[01:13] [Desiree Saint Paul]: You want to— you want to spell my name back to me to make sure you have it right?
+[01:17] [Receptionist]: First name Desiree, D as in David, E-S-I-R-E-E. Last name Saint Paul, S-T period P-A-U-L.
+[01:29] [Desiree Saint Paul]: Yes, D-E-S-I-R-E-E. You got it. You have it. Thank you so much. You have a Merry Christmas. Okay, bye-bye.
+[01:39] [Receptionist]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

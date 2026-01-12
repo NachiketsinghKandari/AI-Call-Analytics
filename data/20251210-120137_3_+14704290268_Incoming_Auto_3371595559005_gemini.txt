@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Euphrates Gamble / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Lionel speaking, how may I help you?
+[00:06] [Euphrates Gamble]: Um, yes, I was calling because I was trying to get an update on my case. I tried to reach out to my case manager and it's just been no reply and everything. So I was just trying to get an update on it.
+[00:19] [Receptionist]: Sorry for any issues. Can I have your name?
+[00:23] [Euphrates Gamble]: It's Euphrates Gamble.
+[00:26] [Receptionist]: Okay.
+[00:27] [ ... Silence (14s) ... ]
+[00:41] [Receptionist]: Okay, can you confirm for me please the date of birth?
+[00:45] [Euphrates Gamble]: The date of birth?
+[00:47] [Receptionist]: Uh, yes, your date of birth.
+[00:51] [Euphrates Gamble]: 09-21-1978.
+[00:56] [Receptionist]: All right. Let me see. All right, please hold on. Let's see if the case manager is available. Thank you for staying on the line. I'm still trying to get in contact with the case manager, okay? Hold on, give me just one moment.
+[01:16] [Euphrates Gamble]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

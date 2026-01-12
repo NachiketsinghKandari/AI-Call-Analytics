@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist confirmed representation for the patient, provided the case manager's name and email address, and determined the staff member was unavailable. The caller declined a voicemail transfer, opting to email the staff member directly.",
+    "call_duration_seconds": 176.18,
+    "call_duration_formatted": "02:56"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist checked the availability of the case manager and offered a voicemail transfer, which the caller declined."
+  }
+}

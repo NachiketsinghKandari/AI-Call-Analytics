@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to locate the attorney and case management staff to facilitate a conversation with the caller and an insurance representative. After determining the staff were unavailable, the receptionist offered to take a message, which the caller declined before ending the call.",
+    "call_duration_seconds": 209.66,
+    "call_duration_formatted": "03:29"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the availability of the attorney and case management staff but found they were out of the office or at lunch."
+  }
+}

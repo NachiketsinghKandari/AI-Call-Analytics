@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the current case phase and then initiated a transfer to the case manager for specific treatment and demand details.",
+    "call_duration_seconds": 84.46,
+    "call_duration_formatted": "01:24"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist stated she would transfer the caller to the case manager or their voicemail to address specific questions about treatment status."
+  }
+}

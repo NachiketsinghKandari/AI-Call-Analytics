@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kaymie / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Manuela / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kaymie speaking.
+[00:05] [Manuela]: Uh, hey, good morning. This is Manuela from Tristar Injury Center. I'm calling regarding two of my patients to see if you can provide me with case status, please.
+[00:18] [Receptionist]: Sure. Can I have the client's name?
+[00:21] [Manuela]: First name is Eric, last name is Boggs, B as a boy, O, G, G, S.
+[00:28] [Receptionist]: This is in pre-litigation demand.
+[00:32] [Manuela]: Okay. And same for the companion, Miracle Brown.
+[00:36] [Receptionist]: Yes.
+[00:38] [Manuela]: And can I have please the case manager?
+[00:41] [Receptionist]: You want her what? You want me to transfer you to her?
+[00:45] [Manuela]: No, just the name or the email address.
+[00:48] [Receptionist]: Tyana. That is T, Y for yellow, A, U, N, A.
+[00:59] [Manuela]: Yep.
+[01:01] [Receptionist]: And then it would be the same for her email, so it's Tyana at Bey, B, E, Y, A, N, D associates with an S dot com. So Tyana at Beyandassociates dot com.
+[01:16] [Manuela]: And what is your name again?
+[01:18] [Receptionist]: Kaymie. K, A, Y, M, I, E.
+[01:23] [Manuela]: Awesome. Thank you so much.
+[01:25] [Receptionist]: You're welcome. Have a great day. Bye-bye.
+[01:27] [Manuela]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

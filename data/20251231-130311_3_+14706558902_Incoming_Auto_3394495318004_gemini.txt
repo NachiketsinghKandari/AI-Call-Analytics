@@ -1,0 +1,19 @@
+========================================
+    TRANSCRIPT START
+    ========================================
+
+    SPEAKERS IDENTIFIED:
+      • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 3 turns
+
+    ----------------------------------------
+
+    [00:00] [Receptionist]: This is Emma. How can I help you?
+    [ ... Silence (10s) ... ]
+    [00:14] [Receptionist]: Are you still there?
+    [ ... Silence (10s) ... ]
+    [00:25] [Receptionist]: Are you still there?
+    [ ... Silence (7s) ... ]
+
+    ========================================
+    TRANSCRIPT END
+    ========================================

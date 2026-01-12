@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Charles Sirganas / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:06] [Charles Sirganas]: Oh hi, it's Charles Sirganas. Speak to Paige?
+[00:11] [Receptionist]: Paige? Um, yes, in regards to a specific client?
+[00:17] [Charles Sirganas]: Oh yeah, well actually it's about the IT setup. Uh, we had a conversation, you know, it's been a while, and they asked me to call this month of December just to, you know, follow up the conversation.
+[00:29] [Receptionist]: All right, let me go ahead and transfer you over.
+[00:32] [Charles Sirganas]: Thank you.
+[00:34] [Receptionist]: You're welcome. You have a great rest of your day.
+
+========================================
+TRANSCRIPT END
+========================================

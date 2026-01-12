@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / [Charlie] / Role: Employee at Health and Sync: 7 turns
+
+----------------------------------------
+
+[00:06] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:09] [Charlie]: Hi, good afternoon. This is Charlie. Um, calling from Health and Sync. Um, I was actually just calling, um, to get some information in regards to getting case statuses.
+[00:22] [Receptionist]: Okay, I can help you with some of them.
+[00:27] [Charlie]: Okay, perfect. Um, and sorry, you said your name was Kimmy, correct?
+[00:32] [Receptionist]: Yes, sir.
+[00:33] [Charlie]: Perfect. Yes, actually I have around about maybe, um, 60 or so cases, like clients with me, and I like required the status for them. So, um, what do you think is the best way I can do that? Like, um, do I send you guys an email?
+[00:51] [Receptionist]: By email.
+[00:52] [Charlie]: By email. Okay. Okay, and um, what's the best email address to send that to?
+[00:56] [Receptionist]: Michael, M-I-C-H-A-E-L, at B-E-Y, A-N-D, associates with an S, dot com. So, michael@beyandassociates.com.
+[01:06] [Charlie]: Got it. All right. Okay, and then, um, for this, like, I'll be sending a sheet, um, in that I'll have mentioned, you know, the, um, patient's name, date of injury, and date of birth. Um, is that the main thing that's needed?
+[01:21] [Receptionist]: Yes.
+[01:23] [Charlie]: Okay, perfect. All right then, and I'll have that email sent out as soon as possible then. But yeah, thank you so much for confirming that with me. And also, so sorry, so sorry. Um, for that email, is it all right if I send like all 60 of them in one, like, sheet?
+[01:46] [Receptionist]: Yeah, I think that would be fine.
+[01:49] [Charlie]: Okay, okay, perfect. So thank you so much once again, Ms. Kimmy. You have a good day. Goodbye.
+[01:56] [Receptionist]: You're welcome. You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

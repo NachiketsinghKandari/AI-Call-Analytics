@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to check the availability of a specific staff member for a case status inquiry. The staff member was unavailable, and the caller accepted the receptionist's offer to schedule a callback.",
+    "call_duration_seconds": 64.22,
+    "call_duration_formatted": "01:04"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to reach Miss Hobbs/Linda, but returned to the line to report she was on another call and offered a callback."
+  }
+}

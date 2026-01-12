@@ -1,0 +1,381 @@
+# Function Occurrences
+# Extracted from 406 gemini.json file(s)
+# Total occurrences: 3121
+# Unique functions: 14
+============================================================
+
+## Values by Frequency
+
+clarify_details: 638
+greet_caller: 406
+unknown_function: 352
+end_call: 336
+system_lookup: 241
+initiate_transfer: 221
+place_on_hold: 189
+request_caller_name: 188
+request_case_reference: 134
+validate_status: 129
+verify_identity: 124
+take_message: 96
+state_policy_limitation: 56
+reject_request: 11
+
+============================================================
+
+## Unknown Function Descriptions
+
+Found 352 unknown_function occurrence(s) with descriptions:
+
+1. The caller self-identifies and provides case context. This represents a missing function for 'caller_provides_identification' as the library only contains agent-side request functions.
+2. The call ends without a formal closing. This represents a missing function for 'abrupt_disconnect' or 'unmanaged_termination'.
+3. Missing mandatory step: request_caller_name. This represents a missing function in the agent's execution of the intake process.
+4. Receptionist clarifies she is an intake specialist. No defined function exists for staff role clarification.
+5. The agent provides specific instructions to delete the email and mark it as spam. This represents a missing 'provide_instruction' function.
+6. The agent denies that the hackers could access that level of information. This represents a missing 'provide_reassurance' or 'factual_denial' function.
+7. The transcript ends abruptly without a formal closing; this represents a missing function for abrupt disconnection or a truncated recording.
+8. The caller proactively provided their name and organization. This represents a missing function in the library for 'receiving identification' as the library only contains 'request_caller_name'.
+9. The caller provided the case reference name without a prompt. This represents a missing function in the library for 'receiving case details' as the library only contains 'request_case_reference'.
+10. Receptionist provides direct contact details (phone/email) for a specific staff member because the internal transfer failed. This represents a missing function: 'provide_contact_info'.
+11. Caller provides constructive criticism regarding office communication systems. This represents a missing function: 'receive_feedback' or 'handle_complaint'.
+12. The agent acknowledges the staff change with 'I forgot,' which is a one-off edge case involving outdated internal staff knowledge not covered by standard functions.
+13. The call terminates mid-process; no formal end_call function was executed, representing a missing function in the interaction.
+14. The receptionist acknowledges the caller's identity. This represents a missing function for 'acknowledge_identity' or 'receive_caller_info' as the receptionist did not need to 'request_caller_name'.
+15. The receptionist provides the specific phone number (470-615-0710). This is a missing function for 'provide_information' or 'provide_contact_details'.
+16. Speaker 3 (Janay) provides a claim number and name that contradicts the primary caller's info; represents background cross-talk or a recording error.
+17. The caller acknowledges the greeting. This is marked as an unknown_function because the library lacks a specific function for a caller's response to a greeting (e.g., 'acknowledge_greeting').
+18. The caller identifies their organization and states the purpose of the call. This is marked as an unknown_function because the library lacks a function for a caller's unsolicited self-identification or statement of intent.
+19. The caller voluntarily provided her name and affiliation without a direct prompt; the library lacks a 'caller_self_identify' function.
+20. Receptionist explains the HIPAA/SSN requirement and the text-to-file communication system. This represents a missing function for 'procedural_onboarding_instructions'.
+21. The receptionist states 'I don't have any time', which is an unprofessional disclosure of personal capacity and does not map to standard business functions. This represents a missing function for staff capacity constraints or a one-off edge case.
+22. Agent attempts to verify if the caller can hear them clearly. This represents a missing function for technical line verification.
+23. Caller confirms the audio issue persists and they cannot hear the agent. This represents a missing function for caller reporting technical failure.
+24. Agent proposes calling the caller back immediately. This represents a missing function for technical callback initiation.
+25. The receptionist provides procedural advice regarding court appearances and fighting citations. This represents a missing function for 'procedural guidance' or 'external advice'.
+26. The receptionist provides a status update regarding the requested party's availability. This represents a missing function for 'state availability' or 'provide status'.
+27. The caller provides a brief acknowledgment ('All right') which does not map to specific functions like 'clarify_details' or 'verify_identity'.
+28. A formal closing or sign-off is missing from the transcript. This represents a failure to meet the success criteria for the terminate_call checkpoint.
+29. The agent provides and spells his name (Dionel Lopez). This represents a missing function for 'agent_identification' or 'provide_employee_info' during an escalation.
+30. The caller proactively provided identification. This represents a missing function for 'receive_volunteered_information' as the library only contains 'request' functions.
+31. The caller states 'disregard, sorry'. This represents a missing function for 'caller_retraction' or 'immediate_cancellation' as it is a specific caller-led event that does not fit the standard 'end_call' (agent-led) or 'reject_request' (agent-led) functions.
+32. The caller provides self-identification and firm details. This represents a missing function for 'caller_introduces_self' as existing functions only cover agent-led requests.
+33. The caller declines the callback offer due to the immediate court deadline. This represents a missing function for 'caller_declines_offer' or 'caller_provides_instruction'.
+34. The receptionist concludes that no assistance is needed ('Okay, so you don't need help then'). This is a missing function for 'confirm_no_action_needed' or 'triage_conclusion'.
+35. The caller proactively provided their name and organization. This represents a missing function in the library (e.g., 'receive_caller_info') as the agent did not need to 'request' the information.
+36. The caller proactively provided her name and firm. The library only contains 'request_caller_name', which is an agent-led action. This represents a missing function for 'receiving volunteered identity'.
+37. The caller proactively provides her name and organization. This represents a missing function for 'caller_self_identification' as existing functions like 'request_caller_name' or 'verify_identity' are agent-led.
+38. The caller volunteered her name and organization without a prompt. This represents a missing function in the library for 'receive_caller_identity' or 'acknowledge_identity'.
+39. The caller requests to speak with 'Ms. Victoria'. The function library lacks a 'request_target_party' function.
+40. The caller confirms the full name 'Victoria Lopez'. The function library lacks a 'confirm_target_party' function.
+41. The caller self-identifies and explains her situation (ringing the bell at the front desk) without being prompted. This represents a missing function for 'state_identity' or 'provide_context' in the library.
+42. The receptionist attempts to respond but becomes stuck in a repetitive stuttering loop ('you're-'). This is a one-off edge case.
+43. The transcript terminates mid-stutter, indicating an abrupt cut-off. This is a one-off edge case of a disconnected line or total communication failure.
+44. The agent instructs the caller to call back on Monday to speak with an adjuster or manager. This represents a missing function: 'refer_to_callback'.
+45. Missing function: The library lacks a function for an agent providing their own name/identity to the caller upon request.
+46. The agent provides a direct answer to a navigational query. The library lacks a 'provide_information' or 'answer_query' function.
+47. The agent provides visual landmarks to assist the caller. This is a missing 'provide_information' function.
+48. The caller says 'Okay' and the interaction ends for the current agent. The library lacks a function for 'caller_acknowledgment' at the end of a call.
+49. The transcript ends during a hold; this represents a missing function for 'abrupt disconnection' or 'unplanned termination'.
+50. The caller asks the receptionist to 'hang on' and mentions she might be calling an insurance company. This represents a missing function for 'caller_requested_pause' or 'destination_verification' and is a one-off edge case.
+51. Receptionist mentions they are not in the office; this is a situational status update that does not map to standard functions like identity verification or triage.
+52. The agent provides a direct-dial phone number for the case manager. This represents a missing function in the library for 'provide_contact_info'.
+53. Missing function: The call lacks a formal end_call or sign-off sequence.
+54. The 'end_call' function is missing; the receptionist did not provide a formal closing statement (e.g., 'Goodbye') before the transfer. This represents a missing function in the observed workflow.
+55. The caller volunteered her name without being prompted; the library only contains 'request_caller_name' which is an agent-led function. This represents a missing 'provide_identity' function.
+56. Internal side-talk ('leave it on the screen'); no matching function exists in the library for internal coordination.
+57. The caller is providing/confirming identity information; no 'provide_info' or 'confirm_identity' function exists in the library.
+58. The call disconnected without a formal closing; represents a missing function for 'abrupt_disconnect' or 'line_drop'.
+59. The caller asks 'Who am I speaking with?'. This represents agent self-identification, which is not explicitly covered by the function library.
+60. The caller and agent exchange pleasantries ('How you doing?'). This is a social edge case not covered by the function library.
+61. The receptionist promises that the staff member will call the caller back after lunch. This represents a missing function for 'arrange_callback' or 'callback_promise' as 'take_message' implies receiving information rather than promising an outbound action.
+62. Caller acknowledges the hold ('Okay, thank you'); no defined function exists for simple process acknowledgement, and no formal end_call occurs.
+63. The agent provides their own name to the caller. This represents a missing function in the library for 'agent identification' rather than a one-off edge case, as it is a standard professional requirement.
+64. The receptionist provides a specific email address (michael@beyandassociates.com). This is a missing function: 'provide_contact_info'.
+65. Jamie introduces herself and her organization (Georgia Injury and Rehab Centers). No specific 'request_caller_name' was made, but the identity was established. This is a standard 'identify_caller' phase.
+66. The receptionist addresses the caller's inquiry about their well-being as 'disrespectful' and explains the need for accuracy before transferring. This represents a missing function for 'behavioral correction' or 'process explanation' that does not fit administrative or case-handling categories.
+67. The caller asks for the agent's name. This is a missing function (request_agent_name) as the library only contains 'request_caller_name'.
+68. The receptionist provides the direct phone number and email address. This represents a missing function for 'provide_contact_info'.
+69. The speaker provides a callback number and says 'Thank you'. This does not map cleanly to a single function because it combines a callback instruction (not in library) with a sign-off (end_call). This represents a missing function for 'provide_callback_info' or a one-off edge case.
+70. Caller identifies the person they are trying to reach (Taylor Middleton). This is an 'identify_target' action not explicitly in the library.
+71. The caller proactively provided their name and organization. This represents a missing function in the library (e.g., 'receive_identification') rather than a one-off edge case, as 'request_caller_name' implies an agent inquiry that did not occur.
+72. The caller provided his name and company voluntarily without a prompt. This represents a missing function for 'receive_unsolicited_identification' as 'request_caller_name' implies an agent-led action.
+73. The agent acknowledges the caller's self-identification. This is an unknown_function because the library lacks a function for receiving/acknowledging identity without a prior request.
+74. Agent provides the email address. This is an unknown_function because 'clarify_details' is restricted to 'retrieve_case' or 'transfer_call' contexts, representing a missing function for 'provide_contact_info'.
+75. The caller engages in a side conversation with the patient while waiting for the transfer to complete; this interaction does not map to receptionist functions.
+76. The patient provides the attorney's name directly to the caller; this represents a missing function for multi-party interaction or side-talk.
+77. The caller volunteered his name and company. This is a missing function for 'caller_self_identification' as the library only provides 'request_caller_name'.
+78. The agent provides the specific email address. No function in the library covers the act of providing information to a caller; 'clarify_details' is reserved for case/routing context which does not apply here.
+79. Caller reports audio issues; represents a missing function for technical troubleshooting or line quality acknowledgment.
+80. The call ends without a formal closing; represents a missing function for abrupt disconnection or edge-case termination.
+81. The receptionist transmits the contract and HIPAA forms via SMS. This represents a missing function in the library for 'document dispatch' or 'SMS transmission'.
+82. Missing mandatory function 'end_call' or equivalent professional sign-off.
+83. The caller volunteers her name and client status immediately. The library lacks a function for 'receive_identity' or 'acknowledge_identity' without a prior request.
+84. The transcript terminates without a concluding dialogue turn, representing a missing 'end_call' function or an abrupt disconnection.
+85. The speaker delivers a pre-recorded message regarding Google listing status. This is a marketing or notification function which is not present in the allowed function library.
+86. Shakita identifies herself and her company (Hurt 911 Injury). This is an unknown_function because the library only contains 'request_caller_name', representing a missing function for 'receive_caller_identity'.
+87. The call concludes without a mapped function for disconnection or abandonment; this represents a missing function for 'unintentional_disconnection' or 'call_dropped'.
+88. The receptionist clarifies and offers to spell the name. This is a missing 'provide_clarification' function as it does not relate to a case or call routing.
+89. The receptionist provides the phone number. The library lacks a function for 'provide_information' or 'data_delivery'.
+90. The caller makes a spontaneous remark ('three hours went by') prior to the receptionist's greeting. This does not map to any professional function in the library.
+91. The caller unilaterally withdraws the request to pursue an alternative contact method. The library lacks a function for 'caller_withdrawal' or 'channel_switch'.
+92. The receptionist provides the name and direct phone number of the manager (Matt Corren). This is a missing 'provide_contact_info' function as it is neither a transfer nor a message-taking action.
+93. The agent acknowledges the request to check availability. This is a missing function in the library (e.g., acknowledge_request or check_staff_availability).
+94. The transcript ends abruptly while the caller is on hold. This represents a one-off edge case where the call was disconnected or the recording stopped before a formal closing could be performed.
+95. The caller commits to requesting the policy information and UM selection page. This represents a missing function for 'commitment_to_action' or 'document_request_agreement' as 'take_message' does not accurately capture the caller's proactive agreement to send files.
+96. The caller exhibits a severe repetitive speech pattern ('Ben-' repeated hundreds of times) which does not map to any standard greeting or information-gathering function. This is an edge case of a broken or looped audio/speech interaction.
+97. No formal end_call function was reached; the interaction simply ceased while in a failure state.
+98. The caller requested the physical address of the law firm. This represents a missing function in the library for providing general office information/logistics.
+99. The call terminates without a concluding statement; this is a missing function for an abrupt termination.
+100. The caller self-identified and stated her intent spontaneously. No specific function from the library (like request_caller_name) was explicitly performed by the agent to elicit the name.
+101. The speaker said 'Huh?', which is a request for repetition or an indication of audio failure; no function in the library specifically covers conversational repair or basic audio clarification.
+102. David identifies himself as a claims representative from Geico. This is a missing function 'provide_identity' as the library only contains 'request_caller_name'.
+103. David acknowledges the transfer. This is a missing function 'acknowledge_action' or 'accept_transfer'.
+104. The receptionist apologizes for the wait time ('I truly apologize for the delay'). The current library lacks a function for hold recovery or professional courtesy/apology.
+105. The agent identifies the specific staff members assigned to the case. No function exists for 'identify_staff'.
+106. The agent provides phone numbers and email addresses for the case manager and attorney. No function exists for 'provide_information'.
+107. The caller self-identifies without being prompted; the library lacks a function for 'receive_identification' or 'acknowledge_identity'.
+108. The agent confirms the spelling 'A-N-D'. This is an administrative clarification; 'clarify_details' is restricted by the library to case or routing contexts, neither of which apply here.
+109. The caller explicitly declined the transfer offer. This represents a missing function in the library for 'caller_refusal' or 'decline_offer', which is a common conversational path.
+110. The caller volunteered her name and organization without a prompt. This represents a missing function for 'receive_caller_identity' as the library only contains 'request_caller_name'.
+111. The receptionist provides the spelling of their own name. This represents a missing function for 'provide_staff_identity' or 'administrative_detail'.
+112. The caller volunteered his name and role in response to the greeting; the library lacks a specific function for an agent receiving volunteered identification without a direct request.
+113. The transcript ends immediately after the caller's response; no formal end_call function or professional sign-off was performed by the agent, representing a missing function or an incomplete transcript.
+114. The transcript ends during a hold period; this represents a missing function for 'abrupt disconnection' or 'abandoned transfer'.
+115. The receptionist says 'one second' to initiate the transfer to voicemail, but the call record ends before a sign-off. This represents a missing function for 'technical_transition' or 'initiate_voicemail'.
+116. The receptionist says 'S-H-O-N-T-E', which appears to be a system lookup or spelling verification not explicitly covered by defined functions.
+117. The caller acknowledges the receptionist by name. This represents a missing function for 'caller_acknowledgment' as the library only contains agent-side actions.
+118. The caller provides her name and begins to state her intent. This represents a missing function for 'caller_provides_info' or 'state_intent' in the current library.
+119. The call terminates unexpectedly. This represents a missing function for 'abrupt_disconnect' or 'system_failure', as 'end_call' implies a deliberate professional closing.
+120. The speaker repeats a name fragment indefinitely. This represents a missing function in the library for 'technical_glitch' or 'stuck_audio_loop' and does not constitute a 'greet_caller' attempt.
+121. The caller states the purpose of the call (sending authorization documents) but does not identify themselves, and the receptionist does not explicitly request the caller's name. This represents a missing function for 'state_intent'.
+122. The receptionist dictates the fax number to the caller. This is a missing function for 'provide_contact_info'.
+123. The receptionist confirms the accuracy of the fax number. This is a missing function for 'confirm_information'.
+124. The receptionist provides and spells out a specific email address for the caller to use. This action of 'providing information' is not represented in the current function library.
+125. The receptionist says 'Okay' to acknowledge the name. This represents a missing 'acknowledge_receipt' function in the library; the transcript ends immediately after this turn.
+126. The receptionist reports that the caller is breaking up. This represents a missing function for 'audio_quality_check' and is a one-off edge case.
+127. The receptionist provides a simple acknowledgment ('Okay') which does not perform a specific action defined in the function library; this represents a missing function for basic acknowledgment/filler turns.
+128. The caller says 'Hello?' after the agent's speech is cut off. This represents a missing function for 'line_disconnect' or 'dead_air' as it is not a formal 'end_call'.
+129. Recipient says 'Hello?'. This represents a missing function in the library for 'recipient_greeting' or 'passive_acknowledgment' in an automated context.
+130. The caller acknowledges the greeting and specifies the person they are calling for. This represents a missing function for 'caller_response' or 'state_intent' as the library focuses on agent actions.
+131. Courtney confirms she is the person requested. This is a missing function for 'confirm_agent_identity' because 'verify_identity' is defined for determining the caller's identity and role.
+132. The call cuts off. This is a one-off edge case of a truncated transcript where the 'end_call' function (formal closing) was not performed.
+133. The caller provides their name, organization, and intent proactively. The library lacks a function for receiving unsolicited caller identification/intent.
+134. The caller requests the agent's name again for their records. The library lacks a function for the agent providing their own identity upon request.
+135. Missing function: 'internal_escalation' or 'task_assignment'. The agent states they will reach out to the case manager, Stephanie, to work on the LOR.
+136. The call ends with the transfer; no formal closing function (like end_call) was performed. This represents a missing function in the conversation (a formal sign-off).
+137. The agent provides the fax number (404-393-6107). There is no function in the library for 'provide_information' or 'share_contact_details', representing a missing function.
+138. The caller self-identifies without a prompt. This represents a missing function in the library for 'receive_identification' or 'acknowledge_identity', as existing functions only cover 'request' or 'verify' actions.
+139. The caller provides identity and intent proactively. The function library lacks a specific entry for the agent's receipt of unsolicited identification or a 'caller_identifies_self' action.
+140. The call ends prematurely; the 'end_call' function was never reached. This represents a missing segment in the data or an abrupt disconnection.
+141. The caller volunteered her name and affiliation (Ico Orthopedics) without a prompt; missing 'volunteer_identity' function in the library.
+142. Caller requested agent's name during the case retrieval process; missing 'identify_agent' function.
+143. The receptionist asks 'Hello?' to verify if a caller is present on the line. This represents a missing function for 'presence_check' or 'line_verification' in the library.
+144. The call ended abruptly; no formal closing function from the library was used. This represents a missing function for 'abrupt_disconnect' or a one-off edge case.
+145. The call does not reach a formal closing or sign-off. This represents a missing checkpoint in the data stream.
+146. The caller provides identification and intent voluntarily. The library lacks a function for the agent acknowledging or receiving unsolicited identity information; it only contains 'request_caller_name'. This represents a missing function.
+147. The call cuts off mid-action. This represents a missing segment or an edge case disconnection, not a standard 'end_call' function. This is a missing function/segment.
+148. The library lacks a function for reporting the availability status of a specific staff member (India Miller is not available).
+149. The library lacks a function for internal administrative follow-ups like sending an email to a colleague.
+150. The caller provides his name and company (GEICO) and states his intent (Tax ID request) immediately following the greeting. The function library lacks a specific entry for a caller providing identification or intent without a direct prompt.
+151. The call ends in silence. This represents a missing function for 'abrupt_disconnect' or 'unresponsive_end' in the library.
+152. The caller proactively provided their name and organization. This represents a missing function for 'receive_caller_identification' as 'request_caller_name' is an agent-initiated action.
+153. The agent offered to transfer the caller to a case manager. This represents a missing function for 'offer_transfer' as 'initiate_transfer' implies the actual execution of a transfer.
+154. The call disconnected abruptly. This represents a one-off edge case (dropped call) rather than a missing function in the library.
+155. The caller volunteered identification and role without a direct prompt from the agent. This represents a missing function for 'receive_identification' or 'acknowledge_identity'.
+156. The receptionist states they must check with a supervisor regarding referral fees. This is a missing function for 'defer_to_management' or 'check_incentive_eligibility'.
+157. The caller volunteers her identity and states her intent to speak with Stephanie Peck. This is marked as unknown because the library lacks a 'provide_identity' or 'state_intent' function.
+158. Receptionist acknowledges the caller's identity and request. This is marked as unknown because the library lacks an 'acknowledge_request' function.
+159. The caller agrees to wait. This is marked as unknown because the library lacks an 'acknowledge_hold' function.
+160. Receptionist reports that the recipient is on another call. This represents a missing function for 'report_recipient_status' or 'provide_routing_update', which is a standard part of transfer logic.
+161. The caller provides his name and company affiliation spontaneously. The function library lacks a specific function for 'receive_identification' or 'caller_self_identifies' as 'request_caller_name' implies an agent-led prompt.
+162. The receptionist reports that the case manager is away from her desk. This reporting of party unavailability is a missing function in the library.
+163. The call disconnected or was cut off; represents a missing end_call function.
+164. Checking internal staff availability for call routing is not explicitly defined in the function library; system_lookup is reserved for case records.
+165. The receptionist asks 'Are you a client?' to determine the caller's role. This is a triage question, but 'clarify_details' is restricted to other checkpoints.
+166. The caller volunteered her identity and role without a direct request; the function library lacks a 'receive_identification' or 'acknowledge_identity' function.
+167. The parties engage in personal conversation about their professions; the function library lacks a 'social_rapport' or 'personal_exchange' function.
+168. The call disconnected or the transcript ended before a formal closing could be performed; represents a missing function for abrupt termination.
+169. The speaker provides business hours. This specific action of stating operational hours is not defined in the function library, representing a missing function for 'state_information'.
+170. The automated voice delivers an IVR instruction and a solicitation pitch ('Press one to speak with an agent...'). This represents a missing function in the library for 'ivr_instruction' or 'outbound_solicitation'.
+171. The agent acknowledges the caller's name and expresses empathy ('I'm sorry to hear that, Mr. Miller'). This represents a missing function for 'acknowledge_caller' or 'express_empathy'.
+172. The caller provides their name and organization. This is an 'unknown_function' because the library lacks a specific function for caller self-identification or intent statement, and 'verify_identity' typically refers to an agent-led security process.
+173. The transcript ends immediately after the transfer is initiated. This is an 'unknown_function' because no formal sign-off or 'end_call' function was performed; it represents a missing function for transfer-based termination or an edge case of an incomplete transcript.
+174. The receptionist repeats 'Al-' incessantly, which does not constitute a valid 'greet_caller' action. This appears to be a technical glitch or a significant communication barrier.
+175. The call terminated abruptly without a standard 'end_call' function being performed.
+176. The caller proactively provides their name and affiliation. This represents a missing function in the library (e.g., 'receive_identification') as the receptionist did not need to 'request_caller_name'.
+177. The caller's final statement ('Nevermind... house with Mark?') is a one-off edge case that does not map to any defined function, likely representing a side conversation or a sudden change of mind.
+178. Automated system voice reading back a number. This represents a missing function for 'system_prompt' or 'automated_announcement'.
+179. The caller verifies the firm's location and specialty. No function in the library specifically covers firm-info verification or general triage questions before case retrieval.
+180. Agent proposes a specific callback time and provides their own availability and direct contact instructions. The library lacks a function for scheduling logistics.
+181. Agent re-identifies themselves and provides the spelling of their name. No function exists for agent self-identification during the closing phase.
+182. Receptionist provides the case manager's name (Lonie) and her own name (Dionel). This is a missing function for 'provide_staff_info'.
+183. The caller voluntarily provides her name and references a previous talk with Dyanel. This represents a missing function for 'voluntary_identification' or 'caller_self_identification'.
+184. The caller states she will call back later when the representative is available. This represents a missing function for 'caller_initiated_callback' as it is not an agent-scheduled event or a message taken.
+185. The caller identifies their role (attorney's office) and states their intent to get a fax number. No function exists for 'state_intent' or 'identify_role' without a name.
+186. The agent provides the requested office fax number. No function exists for 'provide_information' or 'administrative_response'.
+187. Jesse requests the caller to call back at her convenience. This represents a missing function in the library for 'request_customer_callback'.
+188. The receptionist repeats the same syllable indefinitely. This does not constitute a 'greet_caller' function as it lacks professional presence and intent. This is a missing function for handling corrupted audio or technical errors.
+189. The caller proactively provides identity and intent. The function library lacks a 'receive_identification' or 'process_intent' function for caller-side actions.
+190. Receptionist acknowledges the request to look up policy limits. This is a missing function for 'acknowledge_request'.
+191. Caller provides the second client's name without a prompt. The library lacks a function for receiving unprompted case data.
+192. Caller confirms the date of loss. The library lacks a function for caller-side confirmation.
+193. Caller thanks the receptionist and begins the closing. The library lacks a function for caller-initiated closing.
+194. An automated voice plays a pre-recorded message ('Spectrum Account. Please call us back...'). This represents a missing function for 'automated_system_message' and is a one-off edge case.
+195. The transcript terminates immediately after the greeting. This represents a missing function for 'abrupt_disconnection' or 'line_drop'.
+196. Devon provides and spells out the case manager's email address. This represents a missing function for 'provide_contact_info'.
+197. The receptionist requests and verifies the caller's email address. This specific type of contact data acquisition for a new lead is not covered by functions like 'request_caller_name' or 'clarify_details' (which is restricted to case/routing context).
+198. The caller volunteered her identity and affiliation without a prompt. The function library lacks a specific function for receiving unsolicited identification (e.g., 'receive_identification').
+199. The call ended before a formal closing function could be performed. This represents a missing 'end_call' execution or a one-off disconnection.
+200. Receptionist states 'I'm not sure'. This represents a missing function for 'unable_to_provide_information' or 'uncertain_response'.
+201. Caller asks for the receptionist's name for her records. This represents a missing function for 'provide_employee_identity'.
+202. The caller provides her name, organization, and the purpose of the call. This is marked as an unknown_function because the library lacks a specific 'provide_identification' or 'state_purpose' function; this represents a missing function in the library.
+203. Matt provides the correct extension number (7023) and suggests call forwarding as the reason for the error. This represents a missing function for 'Provide Information' or 'Technical Troubleshooting'.
+204. The receptionist provides the specific email and phone number. This represents a missing function in the library for 'provide_contact_details'.
+205. The agent promises a callback ('I'll give you a call right back'). This represents a missing function 'arrange_callback' in the library; 'take_message' is insufficient as it does not capture the agent's active commitment to return the call.
+206. The caller proactively provides their name and intent. This is marked as an unknown function because the library lacks a specific function for a caller providing identification without a prompt (e.g., 'provide_caller_name').
+207. The agent attempts to locate an employee. The function library lacks a specific 'staff_lookup' or 'verify_employee' action; 'clarify_details' is reserved for case-related or routing contexts.
+208. Receptionist acknowledges the hold and explains that Kevin is out and Paige is in a meeting. This represents a missing function 'state_availability' or 'return_from_hold'.
+209. Receptionist provides Kevin Love's direct phone number. This represents a missing function 'provide_contact_info'.
+210. The caller explains their frustration with Taylor Middleton and the lack of updates on their mediation. This represents a missing function for 'state_intent' or 'report_grievance'.
+211. The caller self-identifies name and organization. This is marked as unknown_function because the library only contains functions for requesting or verifying identity, not for the passive receipt of unsolicited identification info.
+212. The receptionist informs the caller that the targets are unavailable. This is an unknown_function as the library lacks a function for reporting status or explaining a failed transfer attempt.
+213. The caller accepts the offer for voicemail. This is an unknown_function because the library does not have a function to capture caller acceptance or confirmation of a proposal.
+214. The caller asks to identify if the respondent is the after-hours service or the main office. This represents a missing function for 'identify_service_entity' as existing functions are case or routing specific.
+215. The call ended abruptly without a closing statement. This represents a one-off edge case where the call was dropped or the transcript is incomplete.
+216. The call concludes with six seconds of silence; this is a missing function as there is no verbal 'end_call' or sign-off.
+217. The caller provides her name, company, and a mandatory recording disclosure. The function library lacks a specific entry for 'caller-initiated identification' or 'legal disclosure/consent'.
+218. The receptionist admits she does not know the answer. The function library lacks a specific entry for 'admitting lack of information' or 'deferring to specialist'.
+219. The caller proactively provides his name and case context; the library lacks a 'receive_identification' function.
+220. Agent records the change in contact preference to email; the library lacks an 'update_record' function.
+221. The interaction ends without a formal closing; the library lacks a function for an abrupt end or transfer-based termination.
+222. The caller volunteers their name and company. This represents a missing function for 'receive_unsolicited_identification' as the receptionist did not use 'request_caller_name'.
+223. The call ends with a transfer; no formal closing function from the library was performed. This represents a missing function for 'transfer_sign_off'.
+224. Social rapport/pleasantries; this represents a missing function for non-business dialogue.
+225. Kim asks for repetition ('Huh?'); this represents a missing function for communication/audio clarification.
+226. The call ends with silence during the transfer; this is a one-off edge case where the formal closing is bypassed by the transfer action.
+227. The caller proactively provides his name and company affiliation. This represents a missing function for 'receive_caller_identification' as no request was made.
+228. Receptionist and caller troubleshoot audio volume issues. This is a missing function for 'technical_troubleshooting'.
+229. Receptionist provides Stephanie's email address. This is a missing function for 'provide_firm_information'.
+230. Receptionist looks up and provides the firm's Tax ID number. This is a missing function for 'provide_firm_information'.
+231. Receptionist repeats the Tax ID to ensure accuracy.
+232. The speaker is an automated system providing a solicitation prompt ('Press one to speak with an agent...'). This represents a missing function for 'automated_solicitation' or 'ivr_prompt' in the library.
+233. The library lacks a specific function for 'update_record' or 'input_data'; the agent recorded the new business phone number.
+234. The library lacks a function for agent self-identification or name clarification.
+235. Agent provides and spells their name (Devin) for the caller's records. This is a missing function for agent self-identification.
+236. Agent commits to requesting a tracking update on the check. This is a missing function for initiating internal research/tracking.
+237. Agent repeatedly asks if the caller is still there during extended silence. This is a missing function for handling 'ghost' or un-dropped lines.
+238. The caller says 'Of course' to acknowledge the hold; this represents a missing 'acknowledge' function in the library.
+239. Missing function: The transcript ends abruptly without a standard closing statement or 'end_call' function execution.
+240. The caller provides their name and organization proactively. The current library lacks a 'provide_identity' or 'state_intent' function, making this a missing function in the library.
+241. The request for dating app accounts (Grinder/Tinder) is not a defined business function and represents a missing function for 'handle_inappropriate_request'.
+242. Receptionist offers to switch to Spanish. This represents a missing function for 'language_preference' or 'translation_offer' in the library.
+243. The caller proactively provided her name and organization. The library only contains 'request_caller_name', which does not fit because no request was made by the receptionist.
+244. The caller proactively provided the patient name (Candy Faulkner). The library only contains 'request_case_reference', which does not fit because no request was made by the receptionist.
+245. Missing function: 'provide_identity'. The caller proactively volunteers their name and company without being prompted by a 'request_caller_name' function.
+246. Edge case: Polite acknowledgment. The library lacks a function for a caller's polite acknowledgment of a process (e.g., 'All right, thank you').
+247. The caller provided identification and role information without a prompt. The function library lacks a 'receive_identification' or 'acknowledge_caller_info' function; it only contains 'request_caller_name'.
+248. The receptionist repeatedly says 'Hello?' to check for caller presence. This represents a missing function for 'presence_check' or 'audio_verification'.
+249. The receptionist states 'If you can hear me, I cannot hear you.' This represents a missing function for 'technical_issue_notification'.
+250. Caller asks 'Did you say Devon?' and agent affirms. The library lacks functions for caller-side inquiries or simple agent affirmations during the greeting phase.
+251. Caller proactively provides her name, firm, and the reason for her call. The library lacks a function for receiving caller identification or intent without a direct prompt.
+252. Agent affirms the caller's recap with 'Yes, ma'am.' The library lacks a function for simple agent affirmations or acknowledging a caller's summary.
+253. The receptionist provides and spells their name. This is a missing function for 'provide_staff_identity' or 'confirm_employee_details'.
+254. The receptionist says 'Hello?' to check for caller presence. This represents a missing function for 'presence_check' or 're-prompt' in the library.
+255. The receptionist states he does not have that information. This is a missing function for 'decline_internal_disclosure' or 'general_inquiry_response'.
+256. Receptionist confirms the firm has approximately 45 employees. This is a missing function for 'confirm_firm_demographics'.
+257. The agent acknowledges the caller's self-identification with pleasantries. This represents a missing function for 'social_rapport' or 'acknowledge_identity' as the agent did not need to 'request_caller_name'.
+258. Receptionist provides empathy and encouragement regarding the caller's near-death experience and patience. No function exists for rapport/empathy.
+259. Receptionist provides his name and invites the caller to ask for him specifically in the future. No function exists for personal identification/re-identification.
+260. The agent provides the requested email address. This represents a missing function (provide_information) in the library, as the current list only covers requests, lookups, and status validations.
+261. The receptionist expresses empathy and performs a wellness check ('are you okay?'). No existing function covers emotional support or wellness checks.
+262. The caller self-identifies and the agent provides their own name. This represents a missing function in the library for agent self-identification and passive identity capture.
+263. The caller requests the agent's name for their notes. This represents a missing function in the library for agent self-identification.
+264. The caller provides her name and facility name without a direct prompt. This represents a missing function for unsolicited self-identification.
+265. Agent records a note in the system regarding the update. This represents a missing function for internal documentation/note-taking.
+266. The caller asks for the correct email address for future updates. This represents a missing function for providing general contact information.
+267. The agent confirms the intake email address. This represents a missing function for providing general contact information.
+268. The agent acknowledges and accepts the caller's commitment. This represents a missing function in the library for 'confirm_caller_commitment' or 'acknowledge_followup_action'.
+269. The system provides instructions to be removed from the list (opt-out/DNC request). This represents a missing function in the library for handling Do Not Call or opt-out requests.
+270. The caller provides their name and organization. The library lacks a function for caller-initiated identification (e.g., 'provide_identity').
+271. The caller requests the case status for Corey Benson. The library lacks a function for caller-initiated requests (e.g., 'make_request').
+272. This represents a missing function; the call cut off before a formal termination could be reached. This is a one-off edge case in the data stream.
+273. The caller proactively provided their name and role. The current function library lacks a specific function for a receptionist to acknowledge or record identity/role in a non-case context (e.g., 'receive_caller_info'). This represents a missing function for general triage.
+274. The caller proactively provided their name and case status. This represents a missing function in the library for caller-initiated identification or intent stating.
+275. The caller provided a polite acknowledgment. This represents a missing function for general caller acknowledgment or politeness.
+276. The caller acknowledges the greeting ('Good morning Candy'). The library lacks a function for receiving a greeting acknowledgment.
+277. The caller provides her name and role proactively. The library lacks a function for receiving unsolicited caller identification.
+278. The caller provides 'Kennedy Achampong'. The library lacks a function for the receipt of requested case data.
+279. The receptionist reports that the party is unavailable and only a voicemail was reached. This represents a missing function for 'report_unavailability' or 'transfer_status_update'.
+280. The receptionist asks if the caller has the email address and instructs them to send an email or call back later. This represents a missing function for 'provide_alternative_contact_instruction' or 'self_service_redirection'.
+281. The caller asks for a specific individual's availability. This represents a missing function in the library for 'check_staff_availability'.
+282. The caller identifies herself and her company. No matching function exists in the library for a caller's self-identification turn, and 'clarify_details' is restricted to case or routing contexts.
+283. The receptionist requests the caller to call back tomorrow. No matching function exists for requesting the caller to initiate the follow-up.
+284. The transcript ends mid-process. This represents a missing function for 'abrupt_disconnect' or a one-off edge case where the transcript is truncated.
+285. This step involves verifying and spelling out contact information. The library lacks a 'verify_information' or 'provide_contact_details' function for non-identity data.
+286. The system plays a pre-recorded solicitation pitch regarding Google business listings. This represents a missing function for 'automated_announcement' or 'marketing_pitch'.
+287. The caller provided identification details voluntarily without an agent prompt; the library lacks a 'receive_identification' function.
+288. The call ended abruptly without a formal closing; the library lacks a function for 'unexpected_disconnect'.
+289. The caller volunteered her name and purpose without a specific 'request_caller_name' prompt; the library lacks a function for 'receive_caller_identity'.
+290. The receptionist provides the Office Manager's email address. This action (providing contact info) is not covered by the existing function library.
+291. The caller repeats the email to confirm accuracy. This is a verification step but is not 'verify_identity' or 'clarify_details' (which is restricted to case/routing context).
+292. One-off edge case: The transcript is truncated mid-interaction, preventing the execution of a formal 'end_call' function.
+293. The caller provides identity and routing intent spontaneously. This represents a missing function for 'receive_caller_info' or 'process_incoming_request'.
+294. The call ends without a formal closing or the 'end_call' function being executed. This represents a missing function for 'abrupt_disconnect' or a one-off edge case.
+295. Caller provides a polite greeting response; represents a missing function for caller social reciprocity in the library.
+296. Agent offers a social apology ('Qué pena') for the wait; represents a missing function for social maintenance or apology.
+297. The caller asks 'did your line break up again?', which is a technical troubleshooting inquiry. This represents a missing function in the library for handling audio/connectivity issues.
+298. The receptionist speaks Spanish to an external party or self followed by silence; this represents a one-off edge case (hot mic).
+299. The caller requests the receptionist's name; this represents a missing function (request_receiver_name) in the library.
+300. The call does not reach a formal conclusion or end_call function within the provided text.
+301. The call ends without a dialogue-based termination; no 'end_call' function was performed. This represents a missing function for 'abrupt_disconnect' or an edge case of an incomplete transcript.
+302. Missing function: The call ends abruptly after the caller says 'Thank you'. No 'end_call' function was performed by the agent.
+303. The caller proactively provides their name and firm. This represents a missing function in the library for 'receive_caller_identity' or 'state_intent'.
+304. The caller provides verbal consent for the transfer. This represents a missing function in the library for 'receive_caller_consent'.
+305. The caller requests a specific person by name. This represents a missing function in the library (e.g., 'request_target_party') as requesting a specific employee is a standard part of law firm intake.
+306. The caller self-identified name and organization without a prompt. This represents a missing function in the library for 'receive_caller_info'.
+307. The agent acknowledged the caller's identity and the request to assist. This represents a missing function in the library for 'acknowledge_request'.
+308. The receptionist asks for the name of the calling organization. This represents a missing function in the library, as 'request_caller_name' is defined for individuals and 'verify_identity' is for security/authentication.
+309. The caller proactively provides identity and role. The function library lacks a specific 'provide_identity' or 'acknowledge_identity' function for caller turns.
+310. Caller asks for the agent's name. The function library lacks a 'request_agent_identity' mapping.
+311. Agent provides and spells his name. The function library lacks an 'identify_agent' mapping.
+312. The request for spelling ('Could you spell that for me?') is a clarification of identity. The 'clarify_details' function is restricted by the library to 'Case-related' or 'Routing/triage' contexts. As this occurs during identification, it represents a missing function for identity verification/clarification.
+313. The call disconnected or the transcript was cut short before any closing function could be performed. This represents a one-off edge case of an incomplete recording or an immediate hang-up.
+314. The caller proactively provided their name and company. The library only includes 'request_caller_name', which is an agent action. This represents a missing function for 'provide_identity'.
+315. The caller provided a polite acknowledgment ('Thank you'). The library lacks a function for general polite responses or acknowledgments of intent.
+316. The caller proactively provides her name and organization. This is marked as unknown because the library lacks a 'provide_identity' function, and 'request_caller_name' implies an agent-led action.
+317. The caller proactively provides the patient's name to reference the case. This is marked as unknown because 'request_case_reference' implies an agent-led action.
+318. The receptionist requests the caller's phone number. This represents a missing function for 'request_contact_information' or 'capture_lead_details' in the library, as it is distinct from requesting a case reference or verifying identity.
+319. The speaker provides a callback number. This does not map to interactive functions like 'greet_caller' or 'take_message' as it is a one-way automated broadcast. This is a missing function for 'automated_announcement'.
+320. The caller self-identifies his name and organization. This represents a missing function (e.g., 'receive_identification') as the agent did not use 'request_caller_name' or 'verify_identity' to prompt the information.
+321. Agent offers and provides the attorney's email address. This function is missing from the library as it is neither taking a message nor clarifying case details.
+322. Agent clarifies the spelling of the email and provides their own name. This is general administrative assistance not covered by 'clarify_details' (which is restricted to case/routing).
+323. The caller says 'Yes. Get your blood pressure again? Right.' This is a one-off edge case (likely a side conversation) and does not map to any defined business functions.
+324. The caller says 'Hello?' during a 7-second silence, indicating a technical failure or dropped line. This represents a missing function for handling connectivity issues or silence.
+325. The caller asks for the agent's name. This represents a missing atomic function in the library for 'provide_agent_identity' or 'confirm_agent_name'.
+326. The transcript ends before a formal closing. This represents a missing function (end_call) in the provided data rather than a one-off edge case.
+327. The receptionist responds 'No, I'm here' to reassure the caller. This represents a missing function for 'presence_confirmation' and is a one-off edge case related to call latency.
+328. The transcript cuts off immediately after the caller agrees to the transfer. This is an edge case of a partial transcript rather than a missing function in the library.
+329. The receptionist provides the firm's email address. This represents a missing function: 'provide_contact_information'.
+330. The receptionist lists specific data points required (dates, relationship, etc.). This represents a missing function: 'provide_intake_instructions'.
+331. The receptionist provides and spells out the email address. This is a missing function for 'provide_contact_details'.
+332. The receptionist confirms he will perform the update. This represents a missing function for 'commit_data_update' or 'confirm_action_taken'.
+333. The receptionist reports that Tara is in a meeting. This represents a missing function for 'report_unavailability'.
+334. The receptionist agrees to note the new arrival time. This represents a missing function for 'update_record' or 'modify_appointment'.
+335. The receptionist confirms that he has already advised the team of the 2:30 PM arrival. This represents a missing function for 'confirm_action'.
+336. The automated voice prompt 'Having trouble finding you...' represents a missing function in the library for handling IVR or automated outbound dialing systems.
+337. The exchange regarding the name 'Candy' vs 'Kamy' is a social correction/rapport building that does not map to any defined business functions. This is a one-off edge case.
+338. No formal sign-off or termination was recorded.
+339. An automated opt-out message plays before the agent speaks; this represents a missing function for 'automated_disclosure' or 'pre_roll_message'.
+340. The caller volunteers his name ('Michael Smith') without an explicit 'request_caller_name' function being invoked by the agent; this is a missing function for 'self_identification'.
+341. The agent provides a 1-2 week estimate for the next update; this is a missing function for 'provide_timeline' or 'set_expectations' as 'clarify_details' is restricted to the 'retrieve_case' checkpoint.
+342. The phrase 'get you put into the page' is linguistically ambiguous and does not map to a standard function; it represents a one-off edge case of unclear terminology or a transcription error.
+343. Missing function: The receptionist did not provide a formal closing or sign-off (end_call) before the transcript concluded.
+344. The caller provides her name and role spontaneously. This represents a missing function for 'receive_unsolicited_identification' as the agent did not yet request or verify the info.
+345. The agent provides empathy and an apology. This represents a missing function for 'empathy_statement' or 'rapport_building'.
+346. The agent provides information on the staff member's typical habits and current desk status. This represents a missing function for 'provide_staff_status'.
+347. The caller provided a case name and a request for an email address without identifying themselves. This represents a missing function in the library for 'volunteer_information' or 'request_information'.
+348. The caller asks for the receptionist's identity. This represents a missing function for 'request_agent_identity' as 'request_caller_name' is the only identity-request function available.
+349. The caller explains his intent was to see if the AI agent would answer. This represents a missing function for 'state_intent' or 'system_test_explanation'.
+350. Missing function; the call was cut off or ended prematurely without a formal closing or the use of the end_call function.
+351. The caller says 'Okay' to acknowledge the hold. This represents a missing 'acknowledge_instruction' function in the library for simple affirmations.
+352. The call was terminated due to inactivity or disconnection. This represents a missing function in the library for 'call_abandoned' or 'line_disconnect', as 'end_call' implies a formal closing.

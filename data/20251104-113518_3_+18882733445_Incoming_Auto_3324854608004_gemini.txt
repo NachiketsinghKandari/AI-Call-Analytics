@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Dana and Associates Law Firm: 6 turns
+  • Speaker 2 / [Denise] / Role: Representative from Outpatient Imaging: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Dana and Associates Law Firm, Gavin speaking.
+[00:06] [Denise]: Uh yes, my name is Denise. I am calling from Outpatient Imaging. I am needing to speak—I'm not even sure if I have the correct, um, attorney's office. I'm needing to get an email address or a fax number to submit some bills on a patient.
+[00:16] [ ... Silence (6s) ... ]
+[00:23] [Receptionist]: Okay. May I have the name, the first and last, of that patient?
+[00:27] [Denise]: Um, Michaela, M-I-C-H-A-E-L-A, last name is H-O-E-K-S-T-R-A.
+[00:45] [Receptionist]: Thank you. Okay, you're actually at the right firm for Michaela Hoekstra, right?
+[00:58] [Denise]: Yes.
+[01:00] [Receptionist]: So you're calling from Outpatient Outsource, right?
+[01:06] [Denise]: Outpatient Imaging.
+[01:08] [Receptionist]: Imaging, got it. All right, so you want to speak with Paige Amon. Paige Amon is the case manager. Let me direct this call over to her, right?
+[01:19] [Denise]: Thank you.
+[01:21] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

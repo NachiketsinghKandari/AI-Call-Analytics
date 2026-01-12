@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Dorian O'Neill / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Dorian O'Neill]: Yes, is Linda still unavailable?
+[00:07] [Receptionist]: Who?
+[00:08] [Dorian O'Neill]: Is Linda still unavailable?
+[00:11] [Receptionist]: Oh, let's see. Are you a client?
+[00:13] [Dorian O'Neill]: Yes I am.
+[00:14] [Receptionist]: Can I please have your name?
+[00:16] [Dorian O'Neill]: First name Dorian, last name O'Neill.
+[00:19] [Receptionist]: Okay, one minute.
+[00:22] [ ... Silence (35s) ... ]
+[00:57] [Receptionist]: Hmm.
+[01:02] [Receptionist]: I was trying to look up your profile as Dorian O'Neill, but I couldn't find it. Can I have your telephone number that we have on file?
+[01:12] [Dorian O'Neill]: 678-431-7866.
+[01:20] [Receptionist]: Oh, the apostrophe. That's why.
+[01:23] [Dorian O'Neill]: What happened?
+[01:24] [Receptionist]: Oh, I found your profile.
+[01:26] [Dorian O'Neill]: Okay.
+[01:28] [Receptionist]: So let me see if Linda is available, hold on.
+[01:31] [Dorian O'Neill]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

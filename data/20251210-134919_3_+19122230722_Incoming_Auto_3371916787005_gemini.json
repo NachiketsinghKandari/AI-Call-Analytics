@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided information regarding the status of the caller's settlement check and documented the caller's request to pick up the check in person rather than receiving it by mail.",
+    "call_duration_seconds": 283.97,
+    "call_duration_formatted": "04:43"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist placed the caller on hold to consult with a case manager and returned to the line to provide information directly."
+  }
+}

@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kareem / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Tiana / Role: Caller from Northside Hospital: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kareem speaking, how can I assist you today?
+[00:05] [Tiana]: Good morning. My name is Tiana calling from the Northside Hospital. I was calling in reference to a reduction we have on file for Brian Capriel.
+[00:15] [Receptionist]: Can I have the spelling of his last name, please?
+[00:18] [Tiana]: Um, it's C as in Charlie, A, P as in Papa, R, I, E, L.
+[00:27] [Receptionist]: And first name is Brian?
+[00:29] [Tiana]: Uh, it's B-R-A-Y-A-N.
+[00:37] [Receptionist]: Northside Medical you're calling from, right?
+[00:41] [Tiana]: Yes, uh, Northside Hospital. Yes, sir.
+[00:46] [Receptionist]: Let me place you on a brief hold, okay? One moment.
+[00:50] [Tiana]: Okay.
+[00:52] [Receptionist]: Thank you for holding, ma'am. The case manager for this is not available right now. I can transfer you to her voicemail and she can call you back.
+[01:00] [Tiana]: Okay. And also, could you provide me with the case manager's email address?
+[01:05] [Receptionist]: Uh, sure. One moment, let me get that for you.
+[01:09] [Tiana]: Okay.
+[ ... Silence (8s) ... ]
+[01:17] [Receptionist]: That would be Stephanie, which is S as in Sierra, T as in Thomas, E as in Echo, P as in Paul, H as in Hotel, A as in Alpha, N as in Nancy, I as in India, E as in Echo, at beyandassociates.com. Bey is B-E-Y, mm-hmm.
+[01:42] [Tiana]: B-E-Y, okay. Awesome. All right, thank you.
+[01:44] [Receptionist]: And associates with an S at the end, okay?
+[01:47] [Tiana]: Okay, got you.
+[01:49] [Receptionist]: Let me transfer you to her voicemail.
+[01:52] [Tiana]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

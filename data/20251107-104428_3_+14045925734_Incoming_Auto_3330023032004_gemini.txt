@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Local Senior Resource Center: 3 turns
+  • Speaker 2 / [Speaker 2] / Role: Resident: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: I'm calling to follow up about the early access to the cash amount that you can get in the Georgia final expense plan for all Georgia residents. Have you received it? [ ... Silence (7s) ... ] Hello? I'm from the local senior resource center and we just wanted to tell you about the cash borrow policy, which can get you early access to the money. Did you receive it?
+[00:27] [Speaker 2]: Um, no, we haven't received it. What do you mean with that?
+[00:33] [Receptionist]: Okay, but your state has recently approved new funding for cash borrow plans that can help cover essential costs and ease your financial burden for the time being. Your age plays a factor in maximizing your benefits. So can you please confirm how old you are?
+[00:48] [Speaker 2]: 30.
+[00:52] [Receptionist]: Sorry, you don't seem to qualify for the benefit plans I have. Have a good day.
+[00:58] [Speaker 2]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

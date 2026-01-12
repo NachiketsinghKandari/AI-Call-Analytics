@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Christina Vestoid / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:07] [Christina Vestoid]: Hi, good morning. Uh, my name is Christina Vestoid from the Geico Claims Department on a recorded line. I was calling on your client, uh, Larry Lugo.
+[00:19] [Receptionist]: Mhm.
+[00:23] [Receptionist]: Yes.
+[00:26] [Christina Vestoid]: Um, are you this person I need to speak with?
+[00:29] [Receptionist]: No. One moment.
+[00:32] [Receptionist]: Thank you so much for holding. Case manager is not available. Do you want to leave a voicemail?
+[00:39] [Christina Vestoid]: Yes, please.
+[00:41] [Receptionist]: Just...
+
+========================================
+TRANSCRIPT END
+========================================

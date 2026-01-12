@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Devon / [Receptionist] / Role: Receptionist at Law Offices of Platform: 7 turns
+  • Christie / [Christie] / Role: Representative at Cognizant RCM: 7 turns
+
+----------------------------------------
+
+[00:00] [Devon]: Law Offices of Platform, Devon speaking.
+[00:04] [Christie]: Hi, this is Christie with Cognizant RCM and this call may be recorded. I was seeking to get status on a case for Monet Dillard.
+[00:15] [Devon]: Yo le habia enseñado un poquito y después nos fuimos. [ ... Silence (06s) ... ] Can you repeat that name?
+[00:26] [Christie]: Monet, M-O-N-A-E, last name Dillard.
+[00:31] [Devon]: Okay. Um, for Monae Dillard. Okay. Um, as I can see here the case manager is not available at the moment. Um, let me see. You were looking for a case status?
+[00:48] [Christie]: Yes.
+[00:51] [Devon]: So seems like this, um, case is still in pre-litigation treating at the moment.
+[01:01] [Christie]: All right. And your name, sir?
+[01:05] [Devon]: Devon.
+[01:07] [Christie]: Devon, thank you so much.
+[01:10] [Devon]: You're welcome.
+[01:12] [Christie]: You have a great day.
+[01:14] [Devon]: You too. Have a great rest of your day.
+[01:18] [Christie]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

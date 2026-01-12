@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dino / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Peter / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Dino.
+[00:07] [Peter]: Yes, hi, my name is Peter, I'm calling from Spine Muscle and Joint Care. I'm calling in regards to, excuse me, calling you in regards to a mutual patients and clients. Um, one is called We, W-E, and then Eh, E-H. And the other one is K-Y-W-E-E, and then Poe, P-O-E. I need to know who their case managers are and if possible, um, the name and the, I I get the email address is Pay G-E at Bey and Associates dot com, but I need to know who the case manager is when it comes for bills and records, can send that to?
+[00:51] [Receptionist]: It's the same case manager.
+[00:53] [Peter]: Who is it, sorry?
+[00:54] [Receptionist]: It's the same case manager, Page, for everything.
+[00:58] [Peter]: Oh, Page. And it's Pay, I heard it's Pay, P-A-Y-G-E, that's how you spell her name?
+[01:05] [Receptionist]: Yes.
+[01:07] [Peter]: And what's her last name?
+[01:09] [Receptionist]: A-L, M as in Mary, O-N as in Nancy.
+[01:15] [Peter]: Almon.
+[01:17] [Receptionist]: Mhm.
+[01:18] [Peter]: All right, perfect. Thank you, that's all I need to know. You have a great one.
+[01:22] [Receptionist]: You too.
+[01:23] [Peter]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

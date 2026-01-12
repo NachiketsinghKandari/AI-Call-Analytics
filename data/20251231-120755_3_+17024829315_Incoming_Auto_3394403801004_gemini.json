@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": true,
+    "final_outcome": "The receptionist provided case statuses for multiple clients. The caller requested to speak with specific case managers, but the receptionist identified they were unavailable and took a message with the caller's contact information and a request for a withdrawal letter.",
+    "call_duration_seconds": 824.69,
+    "call_duration_formatted": "13:44"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The caller requested to speak with Victoria Morales, but the receptionist stated she was unavailable and offered to take a message instead."
+  }
+}

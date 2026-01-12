@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Jasmine Drummond / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel, how can I help you?
+[00:08] [Jasmine Drummond]: Hi, how you doing? May I please speak with the caseworker, uh, Ty Middleton? Is she around?
+[00:14] [Receptionist]: Um, I'm sorry, you're calling from where?
+[00:18] [Jasmine Drummond]: I'm the— I'm a client, I have a case, open case with y'all. Um, my caseworker is Ty Middleton, but I just tried to text her and I guess her phone isn't working, so I just— I just called the job to see if she'd be able to answer. My name is Jasmine Drummond, I'm sorry.
+[00:35] [Receptionist]: Okay, give me one moment.
+[00:37] [Jasmine Drummond]: Sure.
+[00:39] [ ... Silence (8s) ... ]
+[00:47] [Receptionist]: Um, thank you so much for holding. She is not in as of yet. I will send her an email so she can give you a call back as soon as she's in the office.
+[00:57] [Jasmine Drummond]: Okay, do you have her number? 'Cause the number that I have is, uh, 478-245-5474.
+[01:05] [Receptionist]: Let me see.
+[01:07] [Jasmine Drummond]: Is that like her office number or something?
+[01:13] [Receptionist]: Um, her number is 404—
+[01:16] [Jasmine Drummond]: One second, and thank you so much. Um, I'm gonna add the contact while I'm on the phone. I really appreciate it. Hello, Ty. Okay. So you said 404, uh-huh?
+[01:29] [Receptionist]: One moment.
+[01:30] [ ... Silence (5s) ... ]
+[01:35] [Receptionist]: Yeah, it is 404-889—
+[01:40] [Jasmine Drummond]: Uh-huh.
+[01:41] [Receptionist]: —8965.
+[01:43] [Jasmine Drummond]: 8965. Okay, thank you so much, sir. I hope you have a great day and Merry Christmas.
+[01:48] [Receptionist]: You too.
+[01:49] [Jasmine Drummond]: You too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

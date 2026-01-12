@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Angela / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: You've been calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:07] [Angela]: Hey, this is Angela with Travelers, how you doing today?
+[00:10] [Receptionist]: Uh, good, ma'am. How can I help you?
+[00:12] [Angela]: I received a letter of representation for a Shania Addison.
+[00:19] [Receptionist]: All right, give me one moment.
+[00:22] [ ... Silence (7s) ... ]
+[00:29] [Receptionist]: Uh, yes. Uh, the date of the incident was November 29th of this year?
+[00:37] [Angela]: Yes.
+[00:38] [Receptionist]: Perfect. Uh, all right. So, let me tell you, ma'am, there is a case manager assigned to this file. Um, do you allow me to place you on a brief hold for one minute? Let me see if she's available at the moment.
+[00:48] [Angela]: Sure.
+[00:49] [Receptionist]: I'll be right back with you real quick.
+[00:52] [Angela]: Sure.
+[00:54] [Receptionist]: Thank you so much for holding, ma'am.
+[00:56] [Angela]: Okay.
+[00:57] [Receptionist]: Let me tell you, so, uh, Ms. Victoria Morales, that's the name of the case manager, Victoria Morales, she's currently busy with another client. Um, this is what I can do, ma'am. I can transfer you over to her voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible.
+[01:15] [Angela]: I'm just— I'm just confused because it says to call the legal assistant Matt McKernan and this is the number I called with the letter of rep.
+[01:26] [Receptionist]: Right, right. Uh, yes. Uh, yes, Mr. Matt, uh, is— is the legal assistant of Mr. Bey. Uh, however, for this specific file, there is— there is a case manager assigned.
+[01:36] [Angela]: And what's her name again?
+[01:38] [Receptionist]: Uh, her name is Victoria Morales.
+[01:42] [Angela]: And does she have a direct line?
+[01:43] [Receptionist]: Yes, ma'am. I can provide that. Uh, her direct line would be 470-615-0710.
+[01:57] [Angela]: Okay, sure. Transfer me.
+[01:59] [Receptionist]: Do you have a direct line, ma'am, where they can reach you at?
+[02:02] [Angela]: 813-424-3593.
+[02:08] [Receptionist]: 3593. Perfect. I'll transfer you right now, ma'am.
+[02:12] [Angela]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

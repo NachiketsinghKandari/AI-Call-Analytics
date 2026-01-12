@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Mary / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:07] [Mary]: Hello, uh, this is Mary from GMR Ambulance Service. I'm calling just to verify the case status for one of our patients, please.
+[00:18] [Receptionist]: All right, um, let me help with this. Uh, what would be the name of the first patient?
+[00:24] [Mary]: It's going to be Wanda Moore, M-O-O-R-E.
+[00:33] [Receptionist]: M-O-O-R-E. All right.
+[ ... Silence (6s) ... ]
+[00:41] [Receptionist]: Uh, okay, so the case status for that client would be in pre-litigation treatment.
+[00:47] [Mary]: Okay. Um, when do you suggest to call back for an update? Like 30, 60, 90 days?
+[00:56] [Receptionist]: It could be 30. I don't think it would take much to get at least an update, you know.
+[01:05] [Mary]: Okay. Uh, okay, perfect. Thank you. Have a great day. Bye-bye.
+[01:11] [Receptionist]: Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

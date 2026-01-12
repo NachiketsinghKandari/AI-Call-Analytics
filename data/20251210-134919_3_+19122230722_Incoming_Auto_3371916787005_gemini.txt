@@ -1,0 +1,58 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 21 turns
+  • Speaker 2 / Oriel Mitchell / Role: Caller: 19 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hello, this is Bey and Associates speaking, how may I help you?
+[00:05] [Oriel Mitchell]: Hi, um, I was calling because I received um paperwork for me to I guess pick up my check but I wasn't given any directions on when I can do that and I was wondering if someone can give me some information.
+[00:18] [Receptionist]: Surely, let's see what happened. Can I have your name?
+[00:21] [Oriel Mitchell]: It's Ariel Mitchell.
+[00:23] [Receptionist]: [ ... Silence (18s) ... ]
+[00:41] [Receptionist]: Ariel is spelled A-R-I-E-L?
+[00:44] [Oriel Mitchell]: It's O-R-I-E-L.
+[00:48] [Receptionist]: [ ... Silence (28s) ... ]
+[01:16] [Receptionist]: Okay, can you please spell for me what is your last name?
+[01:19] [Oriel Mitchell]: Mitchell, M-I-T-C-H-E-L-L.
+[01:22] [Receptionist]: Thank you. Let's see. Ariel. I found it. Can I have the date of loss?
+[01:27] [Oriel Mitchell]: I'm sorry?
+[01:28] [Receptionist]: The date of the incident, when was it?
+[01:32] [Oriel Mitchell]: Uh, 2024 of December, I don't I don't know. I don't know the exact date.
+[01:37] [Receptionist]: Yes. No worries. Stay on the line, let's see if your case manager is available. Hold on.
+[01:43] [Oriel Mitchell]: He's not answering the phone. That's why I was calling to see if I could speak with someone else.
+[01:48] [Receptionist]: Let's see. So basically your question is you received your check and you wish to know where to get it in cash, right?
+[01:58] [Oriel Mitchell]: No, I received the paperwork for on the amount but I don't know when I'm going to get a check or where it's going, if it's being mailed to me, if I'm picking it up. I got the paperwork, I signed it and I haven't heard from you guys.
+[02:15] [Receptionist]: When did you receive the paperwork?
+[02:18] [Oriel Mitchell]: Yesterday.
+[02:19] [Receptionist]: Yesterday, okay.
+[02:21] [ ... Silence (6s) ... ]
+[02:27] [Receptionist]: All right. Stay on the line, let me consult that for you. Hold on.
+[02:31] [ ... Silence (5s) ... ]
+[02:36] [Receptionist]: Thank you for staying on the line, hello?
+[02:38] [Oriel Mitchell]: Yes, I'm here.
+[02:40] [Receptionist]: All right, it looks like that your case manager wasn't available so I consult with another case manager to find out further information about this case. They said that the check will be ready for maybe the next week or at the end of the next week, all right.
+[02:55] [Oriel Mitchell]: It'll be ready in the next week?
+[02:57] [Receptionist]: Yes, that's what they said.
+[03:00] [Oriel Mitchell]: Okay, are they going to call me or do I have to continue to call? Because communication has been very poor.
+[03:07] [Receptionist]: Uh, they said that you will get it by mail, so you don't need to keep calling. So just wait for some information.
+[03:13] [Oriel Mitchell]: Oh. They put it in the mail?
+[03:15] [Receptionist]: Yes, mhm.
+[03:17] [Oriel Mitchell]: They put they put it in the mail already?
+[03:19] [Receptionist]: No yet, but by the next week you will get it. So that means that on the next week will start all this information.
+[03:27] [Oriel Mitchell]: Oh my god. Wait, can you did they put it in the mail already? Is what I'm asking.
+[03:33] [Receptionist]: No yet, it is getting ready.
+[03:36] [Oriel Mitchell]: Can you see if I can pick it up instead of them putting it in the mail? Because I have a uh um a new build and my mail gets lost all the time.
+[03:49] [Receptionist]: Yes. I can leave documentation here and so to please call you when the check is ready instead of send you. So I can leave a documentation here. Let me see. Prefer... one moment... prefer to pick it up to the office whenever is ready. So I leave the documentation here saying that you contact to ask when you will get the check and if it is possible to let you know when it's ready in order that you can pick it up.
+[04:32] [Oriel Mitchell]: Okay, thank you.
+[04:35] [Receptionist]: Okay, anything else that's all for today?
+[04:38] [Oriel Mitchell]: That's it.
+[04:39] [Receptionist]: All right, have an excellent rest of your day. Bye-bye.
+[04:43] [Oriel Mitchell]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

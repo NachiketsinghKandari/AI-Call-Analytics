@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelos / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Unknown / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelos speaking. How may I help you?
+[00:07] [Unknown]: Hello, I'm calling from Esperion on behalf of Emory Hillandale Hospital. May I speak with the case manager for Antoinette Norman?
+[00:18] [Receptionist]: The last name is Norman?
+[00:21] [Unknown]: Yes, N-O-R-M-A-N.
+[00:27] [Receptionist]: And first name?
+[00:30] [Unknown]: Antoinette, A-N-T-I-O-N-E-T-T-A.
+[00:42] [Receptionist]: Um, no, not in this... Do you have her phone number?
+[00:47] [Unknown]: Um, no sir, I just have a name, Stephanie, and I have a Linda on file.
+[00:57] [Receptionist]: Yes, but what is the telephone number for my client?
+[01:01] [Unknown]: Oh, for the patient? Sorry about that. It's 470-409-5255.
+[01:11] [ ... Silence (12s) ... ]
+[01:23] [Receptionist]: Sorry, it is 470-495-2555?
+[01:29] [Unknown]: No sir, 470-409-5255.
+[01:38] [Receptionist]: Sorry.
+[01:40] [ ... Silence (17s) ... ]
+[01:57] [Receptionist]: Let me see... And are you sure that client it is with us?
+[02:01] [Unknown]: Yes, we had received a reduction request from your office for the client.
+[02:07] [ ... Silence (6s) ... ]
+[02:13] [Receptionist]: Okay. All right. And could you like to talk with Stephanie, the case manager?
+[02:19] [Unknown]: Yes.
+[02:21] [Receptionist]: And are you calling from the insurance company? Emory Hospital, you said?
+[02:26] [Unknown]: I'm from Esperion on behalf of Emory Hillandale Hospital.
+[02:30] [Receptionist]: Yes, give me one minute.
+
+========================================
+TRANSCRIPT END
+========================================

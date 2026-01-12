@@ -1,0 +1,57 @@
+# Resolution Status Analysis
+# Analyzed 48 gemini.json file(s)
+# Files with resolution_achieved=true: 34
+# Files matching criteria (resolution_achieved=true AND resolution_type != 'transfer_attempt'): 19
+================================================================================
+
+## Matching Files
+
+(Ctrl+Click or Cmd+Click on paths to open files)
+
+1. non-intake dump copy/CallLog_20251115-080853/20251110-091344_3_+14699973265_Incoming_Auto_3332076982004_gemini.json
+   (CallLog_20251115-080853/20251110-091344_3_+14699973265_Incoming_Auto_3332076982004_gemini.json)
+2. non-intake dump copy/CallLog_20251115-080853/20251110-092958_3_+14044825407_Incoming_Auto_3332109740004_gemini.json
+   (CallLog_20251115-080853/20251110-092958_3_+14044825407_Incoming_Auto_3332109740004_gemini.json)
+3. non-intake dump copy/CallLog_20251115-080853/20251110-094346_3_+12692776887_Incoming_Auto_3332140954004_gemini.json
+   (CallLog_20251115-080853/20251110-094346_3_+12692776887_Incoming_Auto_3332140954004_gemini.json)
+4. non-intake dump copy/CallLog_20251115-080853/20251110-101723_3_+15138784141_Incoming_Auto_3332223210004_gemini.json
+   (CallLog_20251115-080853/20251110-101723_3_+15138784141_Incoming_Auto_3332223210004_gemini.json)
+5. non-intake dump copy/CallLog_20251115-080853/20251110-102200_3_+14046879000_Incoming_Auto_3332235256004_gemini.json
+   (CallLog_20251115-080853/20251110-102200_3_+14046879000_Incoming_Auto_3332235256004_gemini.json)
+6. non-intake dump copy/CallLog_20251115-080853/20251110-103854_3_+14708554461_Incoming_Auto_3332280564004_gemini.json
+   (CallLog_20251115-080853/20251110-103854_3_+14708554461_Incoming_Auto_3332280564004_gemini.json)
+7. non-intake dump copy/CallLog_20251115-080853/20251110-104411_3_+17602590037_Incoming_Auto_3332295710004_gemini.json
+   (CallLog_20251115-080853/20251110-104411_3_+17602590037_Incoming_Auto_3332295710004_gemini.json)
+8. non-intake dump copy/CallLog_20251115-080853/20251110-105541_3_+18015616830_Incoming_Auto_3332329356004_gemini.json
+   (CallLog_20251115-080853/20251110-105541_3_+18015616830_Incoming_Auto_3332329356004_gemini.json)
+9. non-intake dump copy/CallLog_20251115-080853/20251110-111215_3_+18442928615_Incoming_Auto_3332380287004_gemini.json
+   (CallLog_20251115-080853/20251110-111215_3_+18442928615_Incoming_Auto_3332380287004_gemini.json)
+10. non-intake dump copy/CallLog_20251115-080853/20251110-114010_3_+14045517516_Incoming_Auto_3332466659004_gemini.json
+   (CallLog_20251115-080853/20251110-114010_3_+14045517516_Incoming_Auto_3332466659004_gemini.json)
+11. non-intake dump copy/CallLog_20251115-080853/20251110-115634_3_+16783314970_Incoming_Auto_3332519300004_gemini.json
+   (CallLog_20251115-080853/20251110-115634_3_+16783314970_Incoming_Auto_3332519300004_gemini.json)
+12. non-intake dump copy/CallLog_20251115-080853/20251110-124938_3_+13056762538_Incoming_Auto_3332687039004_gemini.json
+   (CallLog_20251115-080853/20251110-124938_3_+13056762538_Incoming_Auto_3332687039004_gemini.json)
+13. non-intake dump copy/CallLog_20251115-080853/20251110-133758_3_+18032133695_Incoming_Auto_3332833445004_gemini.json
+   (CallLog_20251115-080853/20251110-133758_3_+18032133695_Incoming_Auto_3332833445004_gemini.json)
+14. non-intake dump copy/CallLog_20251115-080853/20251110-142046_3_+14043017482_Incoming_Auto_3332961355004_gemini.json
+   (CallLog_20251115-080853/20251110-142046_3_+14043017482_Incoming_Auto_3332961355004_gemini.json)
+15. non-intake dump copy/CallLog_20251115-080853/20251110-143554_3_+19518015952_Incoming_Auto_3333005979004_gemini.json
+   (CallLog_20251115-080853/20251110-143554_3_+19518015952_Incoming_Auto_3333005979004_gemini.json)
+16. non-intake dump copy/CallLog_20251115-080853/20251110-144136_3_+19518015952_Incoming_Auto_3333022551004_gemini.json
+   (CallLog_20251115-080853/20251110-144136_3_+19518015952_Incoming_Auto_3333022551004_gemini.json)
+17. non-intake dump copy/CallLog_20251115-080853/20251110-145258_3_+18006182247_Incoming_Auto_3333055833004_gemini.json
+   (CallLog_20251115-080853/20251110-145258_3_+18006182247_Incoming_Auto_3333055833004_gemini.json)
+18. non-intake dump copy/CallLog_20251115-080853/20251110-150709_3_+16784963387_Incoming_Auto_3333097379004_gemini.json
+   (CallLog_20251115-080853/20251110-150709_3_+16784963387_Incoming_Auto_3333097379004_gemini.json)
+19. non-intake dump copy/CallLog_20251115-080853/20251110-152216_3_+16784963387_Incoming_Auto_3333142258004_gemini.json
+   (CallLog_20251115-080853/20251110-152216_3_+16784963387_Incoming_Auto_3333142258004_gemini.json)
+
+================================================================================
+
+## Resolution Types Distribution
+
+information_provided: 14 (73.68%)
+voicemail_handoff: 3 (15.79%)
+intake_completed: 1 (5.26%)
+callback_scheduled: 1 (5.26%)

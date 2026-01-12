@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Ben and Associates Law Firm: 6 turns
+  • Natasha / Role: Employee at Progressive: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Ben and Associates Law Firm, Sevin speaking.
+[00:04] Natasha: Hi, Natasha from Progressive. May I speak to, um, attorney Kadeem?
+[00:14] [Receptionist]: Kadeem?
+[00:16] Natasha: Yep.
+[00:19] [Receptionist]: Sure. Um, let me have the name of the client in regards to whom you're calling.
+[00:25] Natasha: Herbie Folks.
+[00:28] [Receptionist]: Can you spell that last name for me?
+[00:32] Natasha: Uh, Folks, F-U-L-K-S.
+[00:39] [Receptionist]: Herbie Folks, okay. Let me get you to Kadeem Gibson.
+[00:46] [ ... Silence (16s) ... ]
+[01:02] [Receptionist]: I'm so sorry about the delay. Seems like Mr. Kadeem is unavailable at the moment and he won't return to the office until tomorrow. I can have a message delivered to him and have him reach out by then, in the morning time.
+[01:18] Natasha: Oh, thank you.
+[01:20] [Receptionist]: You're welcome. Let me transfer you over to his voicemail, okay?
+[01:25] Natasha: All right, thank you.
+[01:27] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

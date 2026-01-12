@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to the specific staff members requested, but they were unavailable. The receptionist then took a message with the caller's contact information and their inquiry regarding a client's role in a claim.",
+    "call_duration_seconds": 403.63,
+    "call_duration_formatted": "06:43"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist attempted to transfer the caller to the staff members handling the case, but reported they had stepped away from their lines, leading to a message being taken."
+  }
+}

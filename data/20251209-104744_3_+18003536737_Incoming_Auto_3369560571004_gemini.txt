@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Harmony Lucas / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:06] [Harmony Lucas]: Hey, good morning, Karina. This is Harmony Lucas at Kemper Infinity Insurance. I'm calling to speak with Matt McCarron in regards to Anaya Sanders, if possible.
+[00:19] [Receptionist]: Anaya Sanders. Give me one moment, let me put you on hold.
+[00:23] [Harmony Lucas]: Sure.
+[00:24] [Receptionist]: Mhm. Let me see if I have the case manager on the line, okay? Give me just a moment.
+[00:33] [Harmony Lucas]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

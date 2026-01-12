@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to her case manager, but the staff member was unavailable. The receptionist then provided information regarding check pickup hours and promised to have a staff member call the client back.",
+    "call_duration_seconds": 222.55,
+    "call_duration_formatted": "03:42"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to transfer the caller to Ty, but then informed the caller that Ty was away from her desk."
+  }
+}

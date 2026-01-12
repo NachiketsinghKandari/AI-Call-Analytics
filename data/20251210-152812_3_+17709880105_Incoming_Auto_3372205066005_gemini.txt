@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Alejandro / Role: Caller from Copay and Rehab: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:04] [Alejandro]: Hello, good afternoon, my name is Alejandro, I'm calling from Copay and Rehab. Um, just trying to obtain the email address for Latigra Pool.
+[00:13] [Receptionist]: For who?
+[00:15] [Alejandro]: For the case manager for Latigra Pool.
+[00:19] [Receptionist]: Could you spell the name for me?
+[00:21] [Alejandro]: Yeah, it's L-A-T-I-G-R-A.
+[00:33] [Receptionist]: Okay, so case manager is Stephanie, that is S-T-E-P-H-A-N-I-E at Bey, B-E-Y, A-N-D, associates dot com.
+[00:50] [Alejandro]: Stephanie... uh-huh, Stephanie at Bey and Associates dot com.
+[00:58] [Receptionist]: Mhm.
+[01:01] [Alejandro]: Okay, let- let me be sure at the end, you said S-T-A-P-H-A-N-I-E?
+[01:07] [Receptionist]: I-E.
+[01:09] [Alejandro]: I-E. Okay. Perfect. And do you have a- her direct number, phone number?
+[01:21] [ ... Silence (6s) ... ]
+[01:27] [Receptionist]: 470-645-1748.
+[01:36] [Alejandro]: All right. And is she available right now?
+[01:40] [Receptionist]: I can transfer you over.
+[01:42] [Alejandro]: All right, thank you. If you may.
+[01:44] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimberly / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Joe Spaziano / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kimberly, how can I help you?
+[00:05] [Joe Spaziano]: Hi, my name is Joe Spaziano, I'm calling from Direct General Insurance and I'm following up on a release for Annette Cross.
+[00:15] [Receptionist]: Annette Cross? One second.
+[00:17] [ ... Silence (10s) ... ]
+[00:27] [Receptionist]: That would be with Victoria Morales. I'll go ahead and transfer you over.
+[00:31] [Joe Spaziano]: Thank you so much.
+[00:33] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

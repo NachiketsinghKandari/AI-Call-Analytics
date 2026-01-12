@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific individual. The receptionist stated that a transfer was not possible because the individual was in a different department without a direct line. No message was taken or alternative contact method provided before the call concluded.",
+    "call_duration_seconds": 192.46,
+    "call_duration_formatted": "03:12"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist explicitly stated that a transfer could not be performed because the requested individual did not have a direct line or was in a different department."
+  }
+}

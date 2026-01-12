@@ -1,0 +1,60 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 22 turns
+  • Speaker 2 / Diala Nasir / Role: Caller: 21 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:07] [Diala Nasir]: Hi, I'd like to speak to Tara Chapman.
+[00:11] [Receptionist]: Sure. Are you a client?
+[00:14] [Diala Nasir]: Yes, I am a client. I've been trying to get a hold of her for several weeks with an update on my case, but I have not heard back.
+[00:25] [Receptionist]: Okay. Sorry for any issue. Can you confirm for me, please, what is your name?
+[00:30] [Diala Nasir]: Diala Nasir.
+[00:35] [Receptionist]: Can you spell for me the last name?
+[00:44] [Diala Nasir]: N-A-S-I-R.
+[00:51] [Receptionist]: Diala, right? Thank you. Let me see if the case manager is available. Um, just one moment. It's loading.
+[01:12] [ ... Silence (32s) ... ]
+[01:44] [Receptionist]: All right, so I'm going to go ahead and see if Tara is available. While I'm making this review, I'm going to consult some details here in the system, okay? Stay on the line, please.
+[02:00] [Diala Nasir]: Mhm.
+[02:01] [ ... Silence (6s) ... ]
+[02:07] [Receptionist]: Hello?
+[02:09] [Diala Nasir]: Yes.
+[02:10] [Receptionist]: I was trying to get in contact with the case manager or with Peggy in this case, but it looks like that they are busy. I was reading here your your profile here in like the notes, and actually I can see a recent note that they are like waiting for an answer from the attorney. So so far, this case is pending recently. So I'm going to leave a note here asking for for Tara Chapman or your case manager to call you whenever they have an answer for your case.
+[02:49] [Diala Nasir]: Who is my case manager?
+[02:52] [Receptionist]: The case manager is Peggy Almond.
+[02:58] [Diala Nasir]: Okay. Can I be transferred to her, please?
+[03:01] [Receptionist]: Yes, I was try— that's why I put you in a hold, and that's the the information that I—
+[03:07] [Diala Nasir]: Oh, she's not available either?
+[03:09] [Receptionist]: No.
+[03:11] [Diala Nasir]: Okay. Um, so what attorney are they waiting to hear back from?
+[03:14] [Receptionist]: Uh, from Taylor Middleton. Actually, your case is documented, everything is on file, so we'll just have to wait. If you wish, I can give you the telephone number from your case manager to call her later on or tomorrow.
+[03:33] [Diala Nasir]: Okay, 'cause I've been calling every week and I have not heard anything from anybody, and it's been over a month, so I'm getting a little concerned about my case.
+[03:49] [Receptionist]: Yeah, I understand. Mhm.
+[03:53] [Diala Nasir]: What's the phone number?
+[03:56] [ ... Silence (8s) ... ]
+[04:04] [Receptionist]: All right, so this is the direct line for your case manager. It is 470-615-0715.
+[04:24] [Diala Nasir]: And what's her name again?
+[04:27] [Receptionist]: The name is Peggy, P-A-Y-G-A, Almond. That is her name.
+[04:37] [Diala Nasir]: P-A-Y-G-A?
+[04:44] [Receptionist]: Almond, like the nuts. A-L-M-O-N.
+[04:53] [Diala Nasir]: P-A-Y-G-A A-L-M-O-N. Is she a new case manager?
+[05:05] [Receptionist]: Um, actually this is the case manager that you have been since the beginning.
+[05:12] [Diala Nasir]: Okay. 470-615-0715.
+[05:17] [Receptionist]: Yes, that is her phone number.
+[05:21] [Diala Nasir]: Okay, and then what's the uh Taylor, what's the other person's number?
+[05:27] [Receptionist]: For your attorney, or which?
+[05:31] [Diala Nasir]: Yes, my attorney.
+[05:34] [Receptionist]: The telephone number is 470-440-4520.
+[05:50] [Diala Nasir]: What's her name? Middleton what?
+[05:53] [Receptionist]: Taylor Middleton. That's it.
+[05:56] [Diala Nasir]: Taylor Middleton. All right, thank you.
+[05:59] [Receptionist]: You're more than welcome. Something else for today?
+[06:03] [Diala Nasir]: No, that's all. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

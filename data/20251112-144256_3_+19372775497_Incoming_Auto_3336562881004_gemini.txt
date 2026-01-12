@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bane and Associates: 8 turns
+  • Speaker 2 / Dina / Role: Representative from Physical Therapy and Balance Center: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bane and Associates, Jamie speaking.
+[00:04] [Dina]: Hi, my name is Dina with Physical Therapy and Balance Center and I am calling uh on beha- in regards to a Kevin Pigford 3-12-61. Um, we had sent a records fee request to your office and we are just questioning if you guys had received that yet.
+[00:26] [Receptionist]: Kevin Pickford you said?
+[00:29] [Dina]: Yes. P-I-G-F-O-R-D.
+[00:31] [ ... Silence (21s) ... ]
+[00:52] [Receptionist]: Okay, that would be... so you just want to verify if we received it, right?
+[01:01] [Dina]: Yeah, the uh records fee request. And then if you guys have, if you guys have mailed out a check. We're just trying to see if we can clear this up and get these off the records desk.
+[01:12] [Receptionist]: Okay, let me get the case manager, her name is Lonnie. I'll go ahead and transfer you straight over.
+[01:22] [Dina]: Alright, thank you.
+[01:23] [Receptionist]: You're welcome. Would you like her direct number also?
+[01:25] [Dina]: Yes, please.
+[01:26] [Receptionist]: 404-592-9370.
+[01:36] [Dina]: Alright, thank you so much.
+[01:38] [Receptionist]: You're welcome. Have a great rest of your day.
+[01:41] [Dina]: You too.
+[01:42] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

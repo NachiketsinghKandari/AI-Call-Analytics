@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a status update on their claim. The receptionist attempted to reach the attorney, determined they were in a meeting, and took a message for a callback.",
+    "call_duration_seconds": 50.26,
+    "call_duration_formatted": "00:50"
+  },
+  "transfer_context": {
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist checked the attorney's availability while the caller was on hold and determined the attorney was in a meeting."
+  }
+}

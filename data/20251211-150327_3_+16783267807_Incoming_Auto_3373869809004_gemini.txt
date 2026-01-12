@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Martha Starks / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking?
+[00:05] [Martha Starks]: Uh, this is Martha Stark, uh, it's S-T-A-R-K-S. I just got off the phone with one of your, uh, associates, uh, just a coworker or whatever. I forgot her name already, but I had one more question. Uh, Paige is my, uh, case manager. Um, but, uh, she was unable to reach her, so, uh, she left— got— took a message and I gave her my phone number and everything. But my— I have another question I suppose. Uh, who is— who's the lawyer? I mean, I'm keep— I'm not dealing directly with a lawyer, I'm just dealing with the case workers and stuff. So.
+[00:45] [Receptionist]: Okay, can I have your last name again so I can look up your file?
+[00:49] [Martha Starks]: Uh, it's S-T-A-R-K-S.
+[00:58] [Receptionist]: First name Martha?
+[01:01] [Martha Starks]: Yes ma'am. Mhm.
+[01:03] [Receptionist]: Okay, Mr. Jonathan Steel, he is your attorney.
+[01:07] [Martha Starks]: Jonathan Steel?
+[01:09] [Receptionist]: Yes.
+[01:12] [Martha Starks]: I mean, I have not talked to— is it S-T-E-E-L?
+[01:18] [Receptionist]: E to the N. Let me see if he is available.
+[01:24] [Martha Starks]: Okay.
+[01:25] [Receptionist]: One second.
+[01:26] [ ... Silence (5s) ... ]
+[01:31] [Receptionist]: So you just want to speak to him about your case?
+[01:34] [Martha Starks]: I mean, I haven't spoke to him from day one. I don't know what's going on. I mean, it seem like it's— I'm not getting the results that I want.
+[01:41] [Receptionist]: Okay. Let me see if I could—
+[01:43] [Martha Starks]: Okay.
+[01:44] [Receptionist]: Okay, well let me get him on the line for you. One second.
+[01:48] [Martha Starks]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

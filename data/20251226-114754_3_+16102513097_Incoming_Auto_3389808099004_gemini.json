@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to the case manager to discuss case status, but the transfer failed. The caller stated they would send an email instead.",
+    "call_duration_seconds": 69.26,
+    "call_duration_formatted": "01:09"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      "false"
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist attempted to transfer the caller to the case manager, but the transfer could not be completed."
+  }
+}

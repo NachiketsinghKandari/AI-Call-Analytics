@@ -1,0 +1,60 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates: 22 turns
+  • Speaker 2 / [Renee] / Role: Caller from Ico Orthopedics: 21 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Dionel.
+[00:08] [Renee]: Good afternoon. My name is Renee. I'm calling from Ico Orthopedics. I'm calling to follow up on a payment status for two patients. Can you assist me?
+[00:20] [Receptionist]: Um, one moment.
+[00:23] [ ... Silence (12s) ... ]
+[00:36] [Receptionist]: Okay, so what is the client's name?
+[00:38] [Renee]: The client last name is Moore, M-O-O-R-E, and the first name is Tatiana, Tatiana Moore. I can provide you with the date of birth.
+[00:53] [Receptionist]: Um, one moment.
+[00:54] [ ... Silence (30s) ... ]
+[01:25] [Receptionist]: Okay, so based on my notes, what is the amount of the check?
+[01:29] [Renee]: The amount that was negotiated is $3,000.
+[01:39] [Receptionist]: Okay, that check was sent on August 21st of '25.
+[01:45] [Renee]: Okay, I don't see it, but, um, I don't see that Tatiana Moore. All right, let me give you the other one.
+[01:59] [Receptionist]: Yeah, I have the check number as well if you need it.
+[02:05] [Renee]: Yes, what's the check number?
+[02:07] [Receptionist]: 38290.
+[02:11] [Renee]: And the amount for $3,000?
+[02:14] [Receptionist]: Correct.
+[02:16] [Renee]: And it was sent on August 21st of '25 and was sure for that patient Tatiana Moore?
+[02:23] [Receptionist]: Mhm.
+[02:25] [Renee]: Okay, I will have to, um, research it or get a copy to see if it was cashed. Who's the case manager?
+[02:37] [Receptionist]: I'm sorry?
+[02:39] [Renee]: Oh, wait a minute, I do see that we did receive something. No, I don't think it was from your office. Who's the case manager?
+[02:47] [Receptionist]: Her name is Victoria.
+[02:50] [Renee]: Oh, Victoria Morales.
+[02:53] [Receptionist]: Mhm. Yeah.
+[02:55] [Renee]: And spell your first name for me?
+[02:58] [Receptionist]: D-I-O-N-E-L.
+[03:05] [Renee]: Okay. So let me give you the, um, next one. And this is the last one.
+[03:12] [Receptionist]: Mhm.
+[03:14] [Renee]: The last name is going to be Allen, A-L-L-E-N, and the first name is going to be Doreen, D-O-R-R-I-A-N.
+[03:29] [Receptionist]: [ ... Silence (5s) ... ] And the date of loss?
+[03:35] [Renee]: 11/17/24.
+[03:36] [ ... Silence (12s) ... ]
+[03:49] [Receptionist]: Okay, what is the amount?
+[03:51] [Renee]: The amount is for Ico Orthopedics is $3,984 and Atlas Surgery Center is 2,500.
+[04:08] [Receptionist]: So that check was sent, the one for 3,984, it was sent on September 18th of '25.
+[04:20] [Renee]: And do you see the Atlas one?
+[04:23] [Receptionist]: Yes, that was also sent on the same date. So the check number for the 3,000 one is 38459 and the other one is 38458. And the case manager is Linda.
+[04:47] [Renee]: Linda?
+[04:49] [Receptionist]: Yes.
+[04:51] [Renee]: What is Linda's last name?
+[04:53] [Receptionist]: Huff, H-U-F-F.
+[04:57] [Renee]: Okay. All righty, I will research those. Thank you so much.
+[05:01] [Receptionist]: Okay, thank you.
+[05:03] [Renee]: Bye now.
+[05:05] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

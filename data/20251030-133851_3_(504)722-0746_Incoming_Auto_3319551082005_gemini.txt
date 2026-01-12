@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist and Intake Specialist at Bain and Associates: 11 turns
+  • Speaker 2 / [Speaker 2] / Role: Client: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kim speaking.
+[00:07] [Speaker 2]: Hi, um, I'm calling, I was given, um, an attorney in New Orleans with Jones Walker made a referral to, uh, Stephen J. Lane.
+[00:21] [Receptionist]: Yes, I can, I can get you over to him.
+[00:27] [Speaker 2]: Is, um, sorry, is there, do you guys have an office in New Orleans?
+[00:31] [Receptionist]: Yes, ma'am.
+[00:34] [Speaker 2]: Okay, uh, is he local to New Orleans? Because 404, what number is that? Is that Georgia?
+[00:43] [Receptionist]: Yes, ma'am.
+[00:44] [Speaker 2]: Okay.
+[00:45] [Receptionist]: But he is local to the ar— um, his, his number actually is 504. I can—
+[00:52] [Speaker 2]: Oh, sorry, what is his number? 504?
+[00:55] [Receptionist]: 208-5861.
+[00:59] [Speaker 2]: Okay, 504-208-5861. Is he still practicing?
+[01:08] [Receptionist]: Yes, ma'am.
+[01:10] [Speaker 2]: Okay. And are, sorry, I, um, are you a receptionist or switchboard or...
+[01:19] [Receptionist]: Receptionist. I actually intake specialist.
+[01:22] [Speaker 2]: Oh, okay. Uh, okay, so I am looking for an attorney and the person at Jones Walker, I thought I was, you know, I'm looking for potentially somebody in trust and estate, but she suggested because we're working on a post-nup agreement that I might want to see somebody in family law. So, you know, it's not about a divorce or anything like that, I have a very amicable relationship with my husband and we're just trying to, uh, rectify what we think is an inadequate, uh, pre-nup and, uh, you think that Stephen Lane may be able to help me?
+[01:56] [Receptionist]: Um, I'm not sure about that part, uh, because we are in Georgia, but, um, and then he's in our office in, in New Orleans. But, okay, usually we—
+[02:13] [Speaker 2]: The, the, the thing that kind of threw me a little bit as I was looking at a magazine and, you know, I got this referral from Jones Walker, but I think I had seen him in my list of attorneys to contact and I tried calling one number and associated with his name under family law, you know, I have no idea like who he is or anything like that, just, you know, he's just a name in a magazine, uh, no picture or anything like that. And it said that they, they had no office, like no working office in New Orleans, but you're saying they do. So, maybe I was like looking at an old number or something. Are you able to transfer me directly to him?
+[02:52] [Receptionist]: Yes, ma'am.
+[02:55] [Speaker 2]: Okay, that'd be great.
+[02:58] [Receptionist]: All right, sending you over. You have a great rest of your day.
+[03:01] [Speaker 2]: Okay, you too. Thanks. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

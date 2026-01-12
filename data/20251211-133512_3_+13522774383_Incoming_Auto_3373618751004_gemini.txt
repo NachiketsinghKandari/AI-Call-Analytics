@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Robert Lynn / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, Karina, can I help you?
+[00:06] [Robert Lynn]: Yes, this is Robert.
+[00:09] [Receptionist]: My name is Karina.
+[00:12] [Robert Lynn]: And where are you calling from?
+[00:15] [Receptionist]: Well, you are calling us, we're Bey and Associates Law Firm.
+[00:21] [Robert Lynn]: Okay, you just, I'm sorry, you called my phone, I called you back.
+[00:26] [Receptionist]: Okay, um, you received a phone call from us, you said? Can I have your name to see if we have a case for you?
+[00:36] [Robert Lynn]: Uh, Robert. Are we Wiki Watchi Pools?
+[00:41] [Receptionist]: Robert and your last name?
+[00:44] [Robert Lynn]: Lynn, L-Y-N-N.
+[00:49] [ ... Silence (7s) ... ]
+[00:56] [Receptionist]: I'm sorry, can you repeat your last name?
+[00:59] [Robert Lynn]: Lynn, L-Y-N-N.
+[01:03] [ ... Silence (16s) ... ]
+[01:19] [Receptionist]: And you say you received a phone call from us?
+[01:22] [Robert Lynn]: Yeah, but nobody was on the line. Somebody just called. I hung up and called right back. We get customers from everywhere, so I didn't know.
+[01:38] [Receptionist]: Right. We are a law firm, right, Bey and Associates. I just, I'm trying to see if we have a case for you. Do you have a case, uh, right now or...
+[01:50] [ ... Silence (6s) ... ]
+[01:56] [Receptionist]: Mr. Lynn?
+[01:58] [Robert Lynn]: Yes.
+[02:00] [Receptionist]: Yeah, I'm asking you if, if, do you have a case open with us?
+[02:06] [Robert Lynn]: No.
+[02:07] [Receptionist]: No?
+[02:08] [Robert Lynn]: No, not in Georgia. No, I'm down here in Florida.
+[02:12] [Receptionist]: No, I see. Okay, well, I'm so sorry, I'm not sure why they were calling you. If you received another phone call from us, hopefully, then you can just either ignore it or just answer to see what's—
+[02:23] [Robert Lynn]: How about Wiki Watchi Pools?
+[02:26] [ ... Silence (15s) ... ]
+[02:41] [Receptionist]: No, we have nothing. Hopefully they can call you back and then you can see what's going on, okay?
+[02:46] [Robert Lynn]: All right, have a Merry Christmas.
+[02:49] [Receptionist]: My— Merry Christmas, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to reach the assigned case manager regarding a certified letter the caller received. The case manager was unavailable, so the receptionist collected the caller's name and phone number to schedule a callback.",
+    "call_duration_seconds": 268.63,
+    "call_duration_formatted": "04:28"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist identified the case manager but determined she was on another call, preventing the transfer from being completed."
+  }
+}

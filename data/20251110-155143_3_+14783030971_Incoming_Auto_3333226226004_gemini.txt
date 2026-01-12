@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 8 turns
+  • Speaker 2 / [Jacob Jordan] / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Okay, 73... [typing sounds]
+[00:05] [Jacob Jordan]: Hello?
+[00:07] [Receptionist]: Hello. And what is the- the name of the case?
+[00:10] [Jacob Jordan]: How you doing? Can I speak to Dyanel?
+[00:13] [Receptionist]: Sure. I can get you over to Dyanel. May I ask who's calling?
+[00:17] [Jacob Jordan]: Jacob Jordan.
+[00:19] [Receptionist]: S-H-O-N-T-E. Mr. Jordan. Let me put you on brief hold.
+[00:23] [Jacob Jordan]: Thank you.
+[00:24] [ ... Silence (5s) ... ]
+[00:29] [Receptionist]: All right. Thank you so much for patient- being patient on hold, Mr. Jordan. Um, Dyanel at the moment is on another call, but I can take a message for him?
+[00:40] [Jacob Jordan]: I'm sorry, I cannot hear you at all.
+[00:43] [Receptionist]: Sure. D- Dyanel is on a call right now. Would you like to leave a message for him?
+[00:49] [Jacob Jordan]: Yes, can you please tell him to, uh, give me a call when he gets a chance, as early as convenience?
+[00:55] [Receptionist]: Okay. Okay. No problem.
+[00:58] [Jacob Jordan]: All right, thank you. Have a good one.
+[01:01] [Receptionist]: Hello. Me too.
+
+========================================
+TRANSCRIPT END
+========================================

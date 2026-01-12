@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / [Anita]/ Role: Representative from Allstate: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Darnell.
+[00:05] [Anita]: Hi.
+[00:06] [Anita]: My name is Anita, I'm calling from Allstate, and I'm calling in reference to your client Bianca, last name is L-A-S-S-I-T-E-R.
+[00:19] [Receptionist]: Um, I'm sorry, what was the last name?
+[00:22] [Anita]: Last name is L-A-S-S-I-T-E-R as for Robert.
+[00:29] [Receptionist]: Yes.
+[00:31] [Anita]: I'm following up in reference to our release.
+[00:34] [Receptionist]: I'm sorry, um, you are breaking up.
+[00:37] [Anita]: Okay. Is it better?
+[00:42] [Receptionist]: Yes.
+[00:44] [Anita]: Okay. So I'm calling to follow up in reference to our release. We haven't received the release yet.
+[00:52] [Receptionist]: Okay. Let me verify if the case manager is available a moment.
+[00:58] [Anita]: Okay.
+[00:59] [ ... Silence (5s) ... ]
+[00:59] [Receptionist]: Thank you so much for holding. The case manager is not available. Do you want to leave a voicemail?
+[01:06] [Anita]: Um, hold on one second. Before you do that, is the email address for the case manager Reese at beyandassociates.com?
+[01:17] [Receptionist]: No, it's Victoria at beyandassociates.com.
+[01:21] [Anita]: Hold on one second, please.
+[01:24] [Anita]: Victoria at beyandassociates.com?
+[01:28] [Receptionist]: Yes.
+[01:30] [Anita]: Okay. And, uh, if you can transfer me please. And your name again, please?
+[01:39] [Receptionist]: Darnell.
+[01:41] [Anita]: Darnell?
+[01:43] [Receptionist]: Yes.
+[01:45] [Anita]: Okay. All right. If you can transfer me please.
+
+========================================
+TRANSCRIPT END
+========================================

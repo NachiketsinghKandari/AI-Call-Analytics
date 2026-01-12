@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Kate / Role: Caller from Advanced Insurance Solutions Agency: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, my name is Jesse. How can I assist you?
+[00:06] [Kate]: Uh, hello? My name is Kate. I'm calling from Advanced Insurance Solutions Agency. I missed your call, sorry. Um, so how can I help you?
+[00:15] [Receptionist]: Ah, yes. Hello, ma'am. Uh, yes. I was actually calling you. I'm calling to confirm if there is a claim filed. I have a policy number.
+[00:23] [Kate]: Sure. Go ahead.
+[00:25] [Receptionist]: The policy number that I have is 02 T as in Tango, R as in Romeo, M as in Mary, 06436001.
+[00:43] [Kate]: And the name of the company, do you know?
+[00:46] [Receptionist]: Uh, well, I have the name of the driver, that is Gene Lois. But I don't have the name of the company.
+[00:59] [Kate]: Do you have a certificate of insurance?
+[01:03] [Receptionist]: Uh, well, I have a police report and, uh, from the police report I got the policy number.
+[01:11] [Kate]: Okay. Uh, and what is the date of loss?
+[01:15] [Receptionist]: Uh, the date of loss would be December the 12th of this year.
+[01:20] [Kate]: No, I'm not aware about any claim open. Let me check, double check, but...
+[01:30] [ ... Silence (9s) ... ]
+[01:39] [Receptionist]: Yeah, I'm sorry. He is listed as the driver, I mean, he is listed as the driver and the owner of the vehicle. Uh, there's no name of a company here.
+[01:51] [Kate]: Mhm.
+[01:52] [Receptionist]: I have the VIN number also and the tag if that helps.
+[02:01] [Kate]: No, I found this customer and, uh, as I said, I-I double checked. Uh, I don't have any claims open, uh, on December 12th, 2025. So, uh, as I understand, you-you are looking for liability coverage, correct? So you represent some-some other party from this police report?
+[02:29] [Receptionist]: Yes, yes. Yes, we're representing the other party.
+[02:33] [Kate]: Okay, let me check what insurance carrier you need to... so you would like to open a claim, correct?
+[02:41] [Receptionist]: Yes, I would like to file a claim then.
+[02:44] [Kate]: Mhm. Give me one mor— can I put you on a brief hold for a moment?
+[02:48] [Receptionist]: Yes, ma'am. Yes, ma'am.
+[02:50] [Kate]: One moment, please.
+[02:52] [ ... Silence (241s) ... ]
+[06:53] [Kate]: Thank you so much for holding. So, if you would like to file a claim, uh, to cover liability, uh, you would need to contact Berkshire Hathaway Guard Insurance Company. And their phone number is 1-888-639-2567. And their claim number is claims, like plural, at G like golf, U like umbrella, A like apple, R like Robert, D like dog, dot com.
+[07:31] [Receptionist]: Guard dot com. Excellent. Perfect. All right. And what is the name of the company again, ma'am?
+[07:38] [Kate]: Berkshire. Would you like to spell me for you?
+[07:41] [Receptionist]: Uh, no, no. It's okay. Uh, I-I found it here in Google, I'm searching online. Uh, all right. Perfect. So let me give them a call then. Thank you so much for your help, ma'am.
+[07:55] [Kate]: No problem. Have a good one.
+[07:57] [Receptionist]: Thank you. Goodbye.
+[07:59] [Kate]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

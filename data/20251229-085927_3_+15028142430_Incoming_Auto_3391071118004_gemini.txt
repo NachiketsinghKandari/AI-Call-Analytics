@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Cassidy / Role: Caller from the Rollins Company: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Lionel.
+[00:06] [Cassidy]: Hi, this is Cassidy from the Rollins Company on a recorded line. Um, hoping to speak with somebody regarding a case for Christian Shirley.
+[00:18] [Receptionist]: Give me one moment.
+[00:20] [ ... Silence (5s) ... ]
+[00:25] [Receptionist]: Um, the paralegal is not available right now.
+[00:29] [Cassidy]: Okay, and who who is the paralegal?
+[00:32] [Receptionist]: Her name is Carrie.
+[00:35] [Cassidy]: Carrie, do they have an email?
+[00:42] [Receptionist]: So it's K, last name W A I T E S at beyandassociates.com.
+[00:58] [Cassidy]: Okay. And do they have a voicemail?
+[01:01] [Receptionist]: Okay.
+[01:04] [ ... Silence (5s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

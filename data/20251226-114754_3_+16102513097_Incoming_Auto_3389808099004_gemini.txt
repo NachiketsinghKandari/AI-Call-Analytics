@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Chris / Role: Caller from Allstate Claims: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Emma, how can I help you?
+[00:03] [Chris]: Hello, my name is Chris, I work with Allstate Claims. I'm calling today regarding your client Habib Ba.
+[00:12] [Receptionist]: I found Habib's case. How can I help you?
+[00:16] [Chris]: Sure, at this time I'm just giving you guys a call to follow up on the injury and treatment status for this client.
+[00:24] [Receptionist]: I found Habib Ba's case. The case manager assigned is Tiana Evans. Unfortunately, we don't have a current injury or treatment status updated in our system. Would you like me to connect you with the case manager for more detailed information?
+[00:39] [Chris]: Yeah, please.
+[00:41] [Receptionist]: Transferring you to Tiana Evans.
+[00:44] [ ... Silence (15s) ... ]
+[00:59] [Receptionist]: Could not transfer the call.
+[01:02] [Chris]: Okay, I'll go ahead and send an email. Thank you.
+[01:06] [Receptionist]: Thanks for calling.
+
+========================================
+TRANSCRIPT END
+========================================

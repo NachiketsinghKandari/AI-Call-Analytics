@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Unknown / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, what can I do for you?
+[00:04] [Unknown]: Hi, um, I have PC on the line Jesus Gil... looks like you guys were trying to reach out to him.
+[00:13] [Receptionist]: I'm sorry, you said Jesus and his last name?
+[00:17] [Unknown]: Uh, Gil, that's G like Gary, I like igloo, L like Larry.
+[00:25] [Receptionist]: Okay, one second.
+[00:29] [Unknown]: It's for an animal bite.
+[00:33] [Receptionist]: He's on the line?
+[00:35] [Unknown]: Yes.
+[00:37] [Receptionist]: Okay, uh, I'm gonna try to get the the case manager because I'm not the case manager for this thing.
+[00:46] [Unknown]: Uh, is it Kaimi, right?
+[00:48] [Receptionist]: It's Loni.
+[00:50] [Unknown]: Oh, okay. It says Kaimi was looking for him here. Uh, she must be the assistant then. Okay, um, I'll be on the line then. Thank you.
+[00:58] [Receptionist]: One second. Thank you.
+[01:00] [ ... Silence (14s) ... ]
+[01:14] [Receptionist]: Hello?
+[01:16] [Unknown]: Oh, yes, I'm sorry, are you waiting?
+[01:18] [Receptionist]: I'm waiting, yes, for Jesus.
+[01:21] [Unknown]: Oh, I thought you said you were going to get Loni on the line. Uh, he's a Spanish speaker, is that okay?
+[01:27] [Receptionist]: All right, no, let me get Loni, let me see if she's available then. One second.
+[01:31] [Unknown]: All right.
+[01:32] [Receptionist]: Sorry, uh, thank you for holding. Loni is in another call right now. So, I don't know if you would like to get her voicemail or call back.
+[01:44] [Unknown]: Uh, yeah, I'll just advise him that you guys will call him later. I'll send an email to the to the thread, the email thread, okay?
+[01:51] [Receptionist]: Okay, perfect. Thank you. Bye.
+[01:54] [Unknown]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

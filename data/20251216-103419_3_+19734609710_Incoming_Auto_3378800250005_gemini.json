@@ -1,0 +1,21 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the caller that the requested staff member was unavailable and provided a direct phone number for the caller to use for a follow-up call.",
+    "call_duration_seconds": 157.75,
+    "call_duration_formatted": "02:37"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist stated the staff member was unavailable and provided a direct contact number for the caller to dial later."
+  }
+}

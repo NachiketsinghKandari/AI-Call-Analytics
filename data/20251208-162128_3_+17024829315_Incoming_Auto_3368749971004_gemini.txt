@@ -1,0 +1,50 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Bionel / Role: Receptionist at Bey and Associates: 15 turns
+  • Speaker 2 / Ryan Collins / Role: Caller: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Bionel, how can I help you?
+[00:07] [Ryan Collins]: Uh, hi, this is Ryan Collins from Telecare Pharmacy. How are you doing?
+[00:12] [Receptionist]: Fine, what about you?
+[00:14] [Ryan Collins]: I'm also good. I'm calling to get the case status of one of our clients. Can you please help me with that?
+[00:23] [Receptionist]: What is the name?
+[00:25] [Ryan Collins]: Name is TNS Dewberry. I will spell it for you. So the first name is T like Tango...
+[00:33] [Receptionist]: I don't need it. Okay. So we are in the reduction phase of the on this one so far.
+[00:42] [Ryan Collins]: In the reduction phase for this client, right?
+[00:46] [Receptionist]: Mhm.
+[00:47] [Ryan Collins]: Okay. And may I know the name of the case manager?
+[00:51] [Receptionist]: Stephanie.
+[00:54] [Ryan Collins]: Stephanie. Stephanie is the last name or the first name?
+[00:58] [Receptionist]: First name.
+[01:00] [Ryan Collins]: Okay. And the last name, please?
+[01:04] [Receptionist]: B-E-C-K.
+[01:07] [Ryan Collins]: Okay. And uh, can you please provide me with the email of Stephanie?
+[01:13] [Receptionist]: Stephanie at beyandassociates.com. Everything spelled out.
+[01:18] [Ryan Collins]: Stephanie at Beck, right?
+[01:21] [Receptionist]: No. At Bey and Associates dot com. Okay. Stephanie at the name of the firm dot com.
+[01:29] [Ryan Collins]: Okay. Bey and Associates. Okay. And may I know your name as well?
+[01:37] [Receptionist]: Bionel. B-I-O-N-E-L.
+[01:41] [Ryan Collins]: B-I-O-N-E-L. Bionel.
+[01:45] [Receptionist]: Mhm.
+[01:46] [Ryan Collins]: That's a nice name.
+[01:47] [Receptionist]: Thank you.
+[01:48] [Ryan Collins]: You're welcome. So, uh, Bionel, um, the case is in the reduction phase and is there anything else that you need from me?
+
+[ ... Silence (18s) ... ]
+
+[02:17] [Receptionist]: Um, you will need to email the case manager because I'm not in charge of this case.
+[02:23] [Ryan Collins]: Okay. Just to make sure, the Stephanie's email is stephanie@beyandassociates.com and Stephanie is spelled as S-T-E-P-H-A-N-I-E.
+[02:36] [Receptionist]: Yes.
+[02:37] [Ryan Collins]: Okay. Thank you, Bionel, for your help. And I hope you have a good day.
+[02:46] [Receptionist]: You too.
+[02:47] [Ryan Collins]: Thank you. Goodbye.
+[02:49] [Receptionist]: Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,94 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Morgan & Morgan: 21 turns
+  • [Speaker 2] / Role: Client/Caller: 28 turns
+  • [Keith Jones] / Role: Client/Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hi, thank you for calling Morgan & Morgan. How can I help you?
+[00:05] [Speaker 2]: Hey, is this attorney or um whoever was at lunch? I've called a couple times today, um they said someone was at lunch.
+[00:13] [Receptionist]: Understood. So you're trying to speak with your case manager, ma'am?
+[00:19] [Speaker 2]: Yes, please.
+[00:19] [Receptionist]: Understood. Can you provide me your name so I can search for your profile?
+[00:23] [Keith Jones]: Keith Jones.
+[00:25] [Receptionist]: I'm sorry, could you repeat that?
+[00:31] [Keith Jones]: Keith Jones.
+[00:34] [Receptionist]: Keith Jones. Understood.
+[00:43] [Receptionist]: And can you provide me the date of loss?
+[00:47] [Keith Jones]: 3/26.
+[00:49] [Speaker 2]: No, the date of loss is June 22nd, 2025.
+[00:53] [Receptionist]: June 22nd, 2025. Perfect. I did find here your information. I'm seeing that...
+[00:57] [Speaker 2]: Let me ask you a quick question. Really quickly. Um, are you just intake or are you a paralegal?
+[01:02] [Receptionist]: Uh, I'm just the intake person, ma'am. I'm going to transfer you over to the paralegal.
+[01:09] [Speaker 2]: Are they actually going to answer or get a voicemail? Or do you know?
+[01:13] [Receptionist]: Um, I would need to call them first. If you allow me, I can try to get them on the line first.
+[01:18] [Speaker 2]: Okay, perfect. Thank you so much.
+[01:21] [Receptionist]: I'll be right back with you in one minute, ma'am.
+[01:23] [Speaker 2]: Mhm.
+[01:24] [ ... Silence (10s) ... ]
+[01:34] [Receptionist]: All right, thank you so much for holding, ma'am.
+[01:36] [Speaker 2]: Mhm.
+[01:37] [Receptionist]: Uh, yes, ma'am. So I tried to reach out to the paralegal, her name is Stephanie. It looks like she's out of the office until Monday, ma'am. She'll be back on Monday. Is it possible that you can give us a call back on Monday or I can give you her number?
+[01:43] [Keith Jones]: What's her number? What's her number? What's her number?
+[01:43] [Speaker 2]: Well no, if she out the office, we don't... who's in the office that can help? Who- who's inside the office?
+[01:50] [Receptionist]: Um, all right. Let me see if there is someone else that can assist. Let me see who...
+[01:54] [Speaker 2]: Is the attorney available? Can we speak with the actual attorney?
+[01:59] [Receptionist]: Right, right. Let me see if the- uh, who- did she leave in her place or if the- if the- let me see if the attorney is available, ma'am.
+[02:09] [Speaker 2]: Yeah, tell them we just trying to get a paper faxed or emailed or something. That's it. It's not like a big deal or not a hard thing.
+[02:15] [Receptionist]: Understood. Perfect. Do you allow me to place you on a brief hold, one minute again?
+[02:19] [Speaker 2]: Okay.
+[02:21] [Receptionist]: Thank you, ma'am.
+[02:22] [Keith Jones]: I told her four weeks ago just proceed. Like two- three weeks ago just proceed.
+[02:25] [Receptionist]: Thank you so much for holding.
+[02:27] [Speaker 2]: Yes.
+[02:29] [Receptionist]: Uh, yes, ma'am. So I was trying to reach out to the attorney, she did not answer either. Um, I'm- I'm trying to see if there is someone else that can help us with this. Do you allow me to place you on a brief hold for one minute again?
+[02:42] [Speaker 2]: Yeah, go ahead. Yeah.
+[02:44] [Receptionist]: Thank you, ma'am. Thank you.
+[02:46] [Speaker 2]: You don't got the attorney phone number? She said come back Monday or call her. If you got her number, call her.
+[02:46] [Keith Jones]: But she don't answer only when she in the- 'cause she don't let you bug her on her personal life. So she don't even call.
+[02:57] [Speaker 2]: Hello?
+[02:59] [Keith Jones]: You start laughing at that?
+[03:01] [Speaker 2]: That's crazy.
+[03:03] [Keith Jones]: She don't let you fuck with her, so you gotta just call her on her work phone.
+[03:08] [Speaker 2]: Mhm.
+[03:13] [Speaker 2]: Mhm, what the hell she think? Like this- this the worst fucking company I ever seen. These niggas is worthless.
+[03:23] [Keith Jones]: And money came around, time around, some time. When the people answer the phone, they was at a daycare. I said you got to be kidding.
+[03:30] [Speaker 2]: Mhm, I even heard kids in the background. I said y'all at a daycare?
+[03:34] [Keith Jones]: I got- I got 37- I got $37,000 in bills.
+[03:44] [Speaker 2]: Yeah, that's how you fuck everything- it's just everything is- this shit crazy.
+[03:44] [Keith Jones]: Fucked up. And all that motherfucking playing I was doing that night when y'all was laughing at my stupid ass doing all them x-rays in my head, that was 8,000. Shit I was getting done was 8,000, 6,000, 5,000. I know now though everything is trauma related. Somebody about to smack some shit. I know what I'm gonna do now. Take my ass by myself. Take my ass by my motherfucking self.
+[04:02] [Speaker 2]: Well we- well we- what we messed up is that we- I went to the same motherfucking thing.
+[04:14] [Speaker 2]: Hello? How you doing? Can you- hello?
+[04:19] [Keith Jones]: Yeah, we right here.
+[04:21] [Speaker 2]: I thought I heard a lady answer, did I?
+[04:23] [Keith Jones]: We all should have went to the same thing.
+[04:27] [Speaker 2]: But this the thing, I think they had the- yes, yes, sir. Yes, sir.
+[04:29] [Receptionist]: Uh, yes, let me tell you. So, uh, my colleagues tell me that unfortunately Ms. Stephanie will be the only one who can send you those documents that you request. So it- it would be better if you can call her on Monday, sir.
+[04:43] [Speaker 2]: Can we speak to them? Because it's not even being sent to us, it's being sent to the insurance company. Why won't they take our- they just refuse to take the phone call?
+[04:53] [Receptionist]: Um, it's because she's not, uh, available at the moment, ma'am.
+[04:57] [Speaker 2]: Who is not available? The lady who's- I'm talking about the- the other lady. The assistant.
+[05:02] [Receptionist]: Oh, well, I called the assistant, the case manager, Ms. Stephanie, and she'll be back on Monday. And I called the attorney, Ms. Taylor, and she's not available either at the moment, ma'am.
+[05:14] [Speaker 2]: So who you keep talking to?
+[05:19] [Receptionist]: Uh, well, I keep talking to my superiors.
+[05:21] [Speaker 2]: And they don't take phone calls?
+[05:24] [Receptionist]: Uh, well, let me see. Uh, I can ask. I can provide you with the phone number for Ms. Stephanie, I don't know if you have that one already.
+[05:32] [Speaker 2]: Uh, no. Give me the number to Ms. Stephanie, please.
+[05:36] [Receptionist]: Uh, yes. So let me know when you're ready, ma'am.
+[05:39] [Speaker 2]: I'm ready.
+[05:41] [Receptionist]: It would be 470-645-1748. That's her phone number. And she's your case manager.
+[05:52] [Speaker 2]: Was that... okay, she's the case manager. And she's the one who won't be back until Monday.
+[05:54] [Receptionist]: She's the one that will be back on Monday, ma'am, yes.
+[06:00] [Speaker 2]: And who- who is the other, the assistant?
+[06:05] [Receptionist]: Uh, well, she would be the paralegal, the assistant. The attorney's name would be Taylor. Ms. Taylor.
+[06:12] [Speaker 2]: And is- is she or he coming back into the office today?
+[06:17] [Receptionist]: Uh, I- I wouldn't know, ma'am. I couldn't promise you that. I mean, you can give us a call back probably later on today and we can try again, but I cannot assure you that she'll be.
+[06:27] [Speaker 2]: Okay. All right, thank you.
+[06:29] [Receptionist]: Thank you, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

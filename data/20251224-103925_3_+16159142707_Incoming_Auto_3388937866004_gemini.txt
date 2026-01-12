@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Jim / Role: Caller from Revicore: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:06] [Jim]: Hi Kim, my name is Jim, I'm calling from Revicore on behalf of the billing office of Southern Regional Medical Center and please be advised call is recorded for training quality purposes also. I was calling to check status of a case for a patient.
+[00:23] [Receptionist]: Can I have the client's name?
+[00:27] [Jim]: Yeah, client's name is... uh, Onisimo Moreno.
+[00:42] [Receptionist]: Moreno?
+[00:43] [Jim]: Yeah, M-O-R-E-N-O.
+[00:52] [ ... Silence (6s) ... ]
+[00:56] [Receptionist]: This one has already been archived.
+[00:59] [Jim]: Hmm. So it would have been settled?
+[01:02] [Receptionist]: Mhm.
+[01:04] [Jim]: May I know the... case manager?
+[01:08] [Receptionist]: I'm... I don't know the date. I can... get you with the case manager.
+[01:18] [Jim]: Um, okay. Is it... is it the same for patient Gustavo Gonzalez on the same date of loss?
+[01:26] [Receptionist]: Just one second. Thank you.
+[01:30] [ ... Silence (21s) ... ]
+[01:51] [Receptionist]: Okay, let me get the case manager, she might be able to help. What... what medical provider are you... calling from?
+[02:02] [Jim]: Southern Regional... Southern Regional Medical Center.
+[02:07] [Receptionist]: One second.
+
+========================================
+TRANSCRIPT END
+========================================

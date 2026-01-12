@@ -1,0 +1,17 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Courtney / Role: Receptionist at Ezra and Ezra: 2 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:01] [Courtney]: Thank you for calling Ezra and Ezra, this is Courtney, how can I help you?
+[00:03] [Speaker 2]: Hi, yes, I'm calling for, um, for Courtney.
+[00:05] [Courtney]: This is she.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Kylie / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:07] [Kylie]: Hi, my name is Kylie, I'm calling from the Enterprise claims department. I was looking to speak with someone in reference to Tambria Usher.
+[00:17] [Receptionist]: Tambria Usher. Perfect. Give me one more moment.
+[00:22] [ ... Silence (8s) ... ]
+[00:30] [Receptionist]: All right. The date of the incident was November the 5th of this year?
+[00:35] [Kylie]: Yes.
+[00:36] [Receptionist]: Understood. Uh, yes, there is a case manager assigned. Um, do you allow me to place you on a brief hold for one minute?
+[00:44] [Kylie]: That's fine.
+[00:45] [Receptionist]: Thank you, ma'am.
+[00:47] [ ... Silence (5s) ... ]
+[00:52] [Receptionist]: All right, thank you so much for holding, ma'am.
+[00:54] [Kylie]: Mm-hmm.
+[00:55] [Receptionist]: Let me tell you, so the case manager, her name is Linda. She's not available at the moment, but this is what I can do on my end. I can transfer you over to her voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible. Is that okay?
+[01:05] [Kylie]: Yeah, that's fine.
+[01:07] [Receptionist]: Understood. Do you have a direct line where she— where she can reach you at?
+[01:12] [Kylie]: Yes, it's 314-788-5358.
+[01:21] [Receptionist]: 5358. Perfect. And you say your name was Kylie, right?
+[01:25] [Kylie]: Yes.
+[01:26] [Receptionist]: Perfect. Excellent. So, um, I'll transfer you over to her voicemail right now, ma'am.
+[01:31] [Kylie]: Okay, thank you.
+[01:33] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

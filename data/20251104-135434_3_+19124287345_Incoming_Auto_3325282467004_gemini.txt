@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain Associates: 9 turns
+  • Speaker 2 / Alondra / Role: Representative from Georgia Injury and Rehab Center: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain Associates this is Pasha how may I help you?
+[00:05] [Alondra]: Hi, good afternoon. My name is Alondra calling from Georgia Injury and Rehab Center. I was just wondering if I can acquire case manager's information regarding one of our mutual clients, uh the name is Juan, Juan Carranza and that's double R so it's Juan J-U-A-N Carranza C-A-R-R-A-N-Z-A.
+[00:31] [ ... Silence (11s) ... ]
+[00:42] [Receptionist]: Hmm, okay one second. Case manager's name is Ms. Glinda Huff. I can provide you her contact info and I can also transfer you over ma'am.
+[00:48] [Alondra]: Okay, Wendy Huff you said?
+[00:51] [Receptionist]: Linda Huff. No, Linda. Let me spell it. I'm gonna put that in the notes. L-I-N-D-A Huff H-U-double F.
+[01:00] [Alondra]: Okay, and can I get her email address please?
+[01:03] [Receptionist]: Email address is Linda at bainassociates.com.
+[01:10] [Receptionist]: Her contact number is 513-373-4064. I can transfer you...
+[01:20] [Alondra]: Sorry, 503?
+[01:25] [Receptionist]: 513-373-4064.
+[01:30] [Alondra]: Got you. Thank you so much for that information. And yes, if you can transfer me over that'll be amazing.
+[01:40] [Receptionist]: Perfect. Um, I can see here that Ms. Linda's on the other line, but I can transfer you to her voicemail. You can leave a message for her and she'll get back to you soon as she can ma'am.
+[01:50] [Alondra]: Okay, that's fine.
+[01:55] [Receptionist]: Alrighty. Have a good day.
+[02:00] [Alondra]: Thank you, you too.
+[02:02] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 8 turns
+  • Speaker 2 / Gloria Rivas / Role: Nationwide Claims representative: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Jesse from Bain and Associates. How can I help you?
+[00:05] Gloria Rivas: Yes, this is Gloria Rivas with Nationwide Claims. This call may be monitored and recorded for business purposes. I am calling to discuss settlement for a claim.
+[00:18] [Receptionist]: Understood. Uh, can you tell me the name of our client, please?
+[00:22] Gloria Rivas: Uh, it's two of them. It's Brittany Daniels and Nicholas Daniels.
+[00:31] [Receptionist]: All right, give me one moment. Nicholas Daniels. All right. Uh, let me tell you, they do have a case manager who would be more- more able- most able to assist you with this. Um, do you allow me to place you on a brief hold for one minute? Let me see if- if she's available, all right?
+[00:53] Gloria Rivas: Okay, who's the case manager?
+[00:55] [Receptionist]: I'll be right back with you real quick.
+[00:59] [ ... Silence (6s) ... ]
+[01:05] [Receptionist]: All right, thank you so much for holding, ma'am.
+[01:08] Gloria Rivas: Mhm.
+[01:09] [Receptionist]: Let me tell you, so the case manager is not available at the moment. What I can do on my end is I can transfer you over to her line so you can leave a voicemail and I can send her an email so she can get back to you as soon as possible.
+[01:19] Gloria Rivas: Okay, and who is the case manager?
+[01:22] [Receptionist]: Uh, her name is Stephanie.
+[01:25] Gloria Rivas: All right, that's fine. You can transfer me.
+[01:28] [Receptionist]: Thank you, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

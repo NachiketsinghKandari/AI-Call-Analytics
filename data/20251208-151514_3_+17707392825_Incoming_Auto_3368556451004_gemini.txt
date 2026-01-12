@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Pasha / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Alexis / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bey and Associates, this is Pasha, how may I help you?
+[00:08] [Alexis]: Hello, my name is Alexis and I'm calling from Arrowhead Clinics on behalf of a patient, um, Mr. Romero Randall.
+[00:15] [Receptionist]: You said Romero Randall?
+[00:22] [Alexis]: Yes.
+[00:23] [Receptionist]: Yes, ma'am. One moment. Yes, there is an attorney assigned. Attorney's name is Jonathan Steel. Case manager's name is Page, it's Page Almond.
+[00:41] [Alexis]: Okay. Page Almond like the, like the nut?
+[00:44] [Receptionist]: Yeah, like A-L-M-O-N.
+[00:47] [Alexis]: Okay. And do you have a phone number or a number we could call to get in touch with Ms. Almond?
+[00:57] [Receptionist]: Yes. Um, one moment.
+[00:59] [ ... Silence (5s) ... ]
+[01:04] [Alexis]: Okay. Thank you.
+[01:05] [Receptionist]: Contact number is 4- 470-615-0715.
+[01:11] [Alexis]: 0715. Awesome. Um, does she have or do you all have a address or a P.O. box?
+[01:20] [Receptionist]: Yes, we do. One moment, let me bring that up for you.
+[01:23] [Alexis]: Okay.
+[01:24] [ ... Silence (5s) ... ]
+[01:29] [Receptionist]: Mailing address is 4- 4200 Northside Parkway Northwest, Building 9.
+[01:39] [Alexis]: Side Parkway... Okay, I'm sorry, you said 4200 Northside Parkway?
+[01:43] [Receptionist]: Northwest, Building 9.
+[01:46] [Alexis]: Northwest, Building 9.
+[01:48] [Receptionist]: Atlanta, Georgia.
+[01:52] [Alexis]: All right.
+[01:54] [Receptionist]: 3- 30327.
+[01:57] [Alexis]: Excellent. All right, thank you so much. I really appreciate your help. That's all I needed from you today.
+[02:06] [Receptionist]: All righty. Thanks so much.
+[02:08] [Alexis]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

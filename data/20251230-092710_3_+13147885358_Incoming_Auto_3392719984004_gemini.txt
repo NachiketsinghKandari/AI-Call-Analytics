@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Kylie / Role: Caller from Rental Claim Services: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:03] [Kylie]: Hi, my name is Kylie, I'm calling from Rental Claim Services, I just had a missed call from this number.
+[00:12] [Receptionist]: Okay, um, let me see if I could route where that who called that um who called you, just one second.
+[00:23] [Kylie]: Okay.
+[00:24] [Receptionist]: Okay.
+[00:25] [ ... Silence (13s) ... ]
+[00:38] [Receptionist]: Rental service you said?
+[00:40] [Kylie]: Rental Claim Services.
+[00:42] [Receptionist]: Okay.
+[00:43] [ ... Silence (13s) ... ]
+[00:56] [Receptionist]: Okay, I'm just waiting to see if any one of my teammates it was. Okay. So far they've said it's not them, so might be one of the case managers. If anything they'll just give you a call back.
+[01:29] [Kylie]: Okay, sounds good.
+[01:31] [Receptionist]: Okay, thank you, have a great day.
+[01:34] [Kylie]: You too, bye.
+[01:35] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

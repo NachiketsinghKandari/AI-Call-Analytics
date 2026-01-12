@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": true,
+    "final_outcome": "The receptionist provided case manager names and email addresses for three distinct patients and then initiated a transfer to one of the case managers.",
+    "call_duration_seconds": 486.14,
+    "call_duration_formatted": "08:06"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "After providing information for multiple cases, the receptionist stated she would check if a specific case manager was available and the call ended."
+  }
+}

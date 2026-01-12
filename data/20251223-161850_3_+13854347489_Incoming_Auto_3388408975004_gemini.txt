@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Unknown / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:07] [Unknown]: Yes, is Hadeen Gibson available please?
+[00:11] [Receptionist]: You're calling from where?
+[00:13] [Unknown]: Conduent.
+[00:16] [Receptionist]: Conduent?
+[00:19] [Unknown]: Correct.
+[00:20] [Receptionist]: And what for what case?
+[00:24] [Unknown]: Uh, we represent Monica Brown, um, on behalf of Cigna.
+[00:32] [Receptionist]: Okay. One moment.
+[00:34] [ ... Silence (5s) ... ]
+[00:39] [Receptionist]: Thank you so much for holding. He's not available. Do you want to leave a voicemail?
+[00:43] [Unknown]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

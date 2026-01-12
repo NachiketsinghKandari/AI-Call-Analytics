@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at D and H Associates: 6 turns
+  • Speaker 2 / Davis Hechizuría / Role: Client: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: D and H Associates, Kim speaking.
+[00:03] [Davis Hechizuría]: Hola, buenas tardes.
+[00:05] [Receptionist]: Buenas tardes.
+[00:07] [Davis Hechizuría]: Oye, mira, este, soy el muchacho Davis Hechizuría que quedó pendiente con un cheque sobre la mordida del perro, si tú me recuerdas.
+[00:16] [Receptionist]: Okay, sí, ¿me puede brindar su nombre, por favor?
+[00:21] [Davis Hechizuría]: Davis Hechizuría.
+[00:23] [Receptionist]: Permítame un momento.
+[00:27] [ ... Silence (34s) ... ]
+[01:01] [Receptionist]: Qué pena.
+[01:02] [Receptionist]: Permítame.
+[01:11] [ ... Silence (9s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

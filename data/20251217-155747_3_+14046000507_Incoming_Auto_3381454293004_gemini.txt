@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Lee Clayton / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:09] [Lee Clayton]: Uh, Deborah Blair, please.
+[00:11] [Receptionist]: She's no longer with us, sir.
+[00:14] [Lee Clayton]: Okay, can you tell me who's handling a case and then let me talk to that person, please?
+[00:19] [Receptionist]: Yes, can I have the client's name?
+[00:22] [Lee Clayton]: Robin Clemons.
+[00:28] [Receptionist]: Okay, could you spell the last name?
+[00:31] [Lee Clayton]: C-L-E-M-O-N-S.
+[00:35] [ ... Silence (6s) ... ]
+[00:41] [Receptionist]: Susan Speas would be the paralegal.
+[00:45] [Lee Clayton]: But who's the attorney?
+[00:49] [Receptionist]: James O'Brien.
+[00:52] [Lee Clayton]: Okay, could I speak with James, please?
+[00:54] [Receptionist]: Yes, let me go ahead and transfer you over.
+[00:57] [Lee Clayton]: Thanks.
+[00:59] [Receptionist]: You are welcome. May I have your name and relationship?
+[01:05] [Lee Clayton]: Yeah, Lee Clayton. I represent the insurance carrier in the case.
+[01:10] [Receptionist]: Okay. I'll go ahead and transfer you over. You have a great rest of your day.
+[01:15] [Lee Clayton]: Thanks.
+
+========================================
+TRANSCRIPT END
+========================================

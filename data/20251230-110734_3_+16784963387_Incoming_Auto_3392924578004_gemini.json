@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": true,
+    "final_outcome": "The receptionist attempted to reach two different staff members who were unavailable. The caller agreed to be transferred to Britney Lawson's voicemail, and the receptionist initiated the transfer.",
+    "call_duration_seconds": 247.75,
+    "call_duration_formatted": "04:07"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "voicemail_or_message_request"
+    ],
+    "description": "The receptionist offered to transfer the caller to Britney Lawson's voicemail after she was unavailable, and the caller accepted."
+  }
+}

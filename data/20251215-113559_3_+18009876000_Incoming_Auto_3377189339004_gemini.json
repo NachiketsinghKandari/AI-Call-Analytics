@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "document_and_evidence_submission",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist offered to transfer the caller to the assigned staff member's voicemail after confirming they were away from their desk. The caller accepted, and the receptionist initiated the transfer before ending the call.",
+    "call_duration_seconds": 78.12,
+    "call_duration_formatted": "01:18"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist offered a transfer to the specific staff member's voicemail because the staff member was unavailable. The caller accepted and the call concluded."
+  }
+}

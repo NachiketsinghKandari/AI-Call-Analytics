@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Hazel / Role: Caller from Relief and Rehab Center: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates.
+[00:07] [Hazel]: Hello?
+[00:09] [Receptionist]: Yes.
+[00:11] [Hazel]: Hi, this is Hazel with Relief and Rehab Center. How are you?
+[00:17] [Receptionist]: Fine. What about you?
+[00:20] [Hazel]: I'm good. Thanks for asking. May I speak with Attorney or Mr. John Bey?
+[00:28] [Receptionist]: Um, are you calling for, um, what case?
+[00:33] [Hazel]: Uh, hon, it is not for any specific case. Actually, I just wanted to schedule a meeting so we can discuss how we can support each other. I'm calling you from Dr. Thomas' office.
+[00:48] [Receptionist]: No, um, you will need to send an email to him for that.
+[00:54] [Hazel]: Sure. Could you provide me with his email?
+[00:58] [Receptionist]: It is John, J-O-H-N, at beyandassociates.com.
+[01:07] [Hazel]: J-O-H-N at...
+[01:11] [Receptionist]: beyandassociates.com.
+[01:15] [Hazel]: .com. Okay, I got you.
+[01:19] [Receptionist]: Okay.
+[01:21] [Hazel]: All right, perfect. Okay, I'm sending my information via email and I will be waiting for his response, okay?
+[01:29] [Receptionist]: Okay.
+[01:30] [Hazel]: Mm-hmm. Bye-bye.
+[01:33] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

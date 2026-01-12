@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Behrend and Associates: 6 turns
+  • Speaker 2 / Brandi Ayers / Role: Potential Client: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Behrend and Associates, this is Daniel.
+[00:08] [Brandi Ayers]: Hi. Can you connect me with Kami, please?
+[00:12] [Receptionist]: Yes, you're calling from where?
+[00:14] [Brandi Ayers]: Where am I calling from?
+[00:18] [Receptionist]: Yes, are you a client of ours?
+[00:21] [Brandi Ayers]: I'm a potential client. I've been working with her on becoming a potential client.
+[00:26] [Receptionist]: Okay, give me one moment please.
+[00:28] [Brandi Ayers]: Thank you.
+[00:32] [Receptionist]: What was your name, I'm sorry?
+[00:34] [Brandi Ayers]: My name is Brandi Ayers, A-Y-E-R-S.
+[00:40] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

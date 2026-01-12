@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Kevin / Role: Receptionist at Ben Associates Law Firm: 7 turns
+  • Jennifer / Role: Representative from Dominguez Chiropractic: 7 turns
+
+----------------------------------------
+
+[00:00] [Kevin]: Ben Associates Law Firm, this is Kevin speaking.
+[00:03] [Jennifer]: Hi, good afternoon. My name is Jennifer with Dominguez Chiropractic. I'm calling to see if I'm able to speak to someone about patient Candy Faulkner.
+[00:15] [ ... Silence (5s) ... ]
+[00:21] [Kevin]: Can you repeat the name please?
+[00:22] [Jennifer]: Yeah, the first name is Candi, C-A-N-D-I, and then last name is F like Frank, A-U-L-K-N-E-R.
+[00:32] [Kevin]: Yes, Candi Faulkner, right?
+[00:37] [Jennifer]: Yes.
+[00:38] [Kevin]: Okay, that will be with Paige Almond. Let me try and connect you over.
+[00:42] [Jennifer]: Okay, thank you.
+[00:44] [Kevin]: You're welcome. No problem. Please remain on hold, okay?
+[00:47] [Jennifer]: Okay, thanks.
+[00:48] [ ... Silence (10s) ... ]
+[00:58] [Kevin]: I'm sorry for that delay. Seems like Paige is unavailable. She's away from her desk. Would you like to leave a voicemail and she'll return a call to you?
+[01:04] [Jennifer]: Okay, that's fine. Thank you.
+[01:07] [Kevin]: No, you're welcome. Let me get you transferred over to her line, okay?
+[01:11] [Jennifer]: Okay, thank you. Sounds good.
+
+========================================
+TRANSCRIPT END
+========================================

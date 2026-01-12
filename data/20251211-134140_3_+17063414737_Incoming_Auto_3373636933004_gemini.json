@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist confirmed representation for the patient, provided case status and case manager details, then attempted to transfer the caller to the case manager who was unavailable. The receptionist relayed instructions to send the bill, which the caller accepted.",
+    "call_duration_seconds": 250.2,
+    "call_duration_formatted": "04:10"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The caller requested to speak with the case manager, but the receptionist determined she was unavailable after checking."
+  }
+}

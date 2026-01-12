@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Vance and Associates: 4 turns
+  • Speaker 2 / [Monica Gay] / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vance and Associates, Kim speaking. One-
+[00:05] [Monica Gay]: Um, yes, this is, uh, Monica Gay, was trying to get in touch with Darnell.
+[00:11] [Receptionist]: All right, one second, let me see if he's available.
+[00:15] [Monica Gay]: Okay.
+[00:16] [Receptionist]: You said Monica?
+[00:17] [Monica Gay]: Yes, Monica Gay.
+[00:20] [Receptionist]: Monica Gay, okay, one sec.
+[00:22] [Monica Gay]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

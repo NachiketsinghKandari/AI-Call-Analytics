@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Shantel Curry / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, speaking, how may I help you?
+[00:04] [Shantel Curry]: Hello, this is Shantel Curry calling from Kemper Insurance Company. I'm following up with the case manager of your client, Chiharu Morris, looking for a treatment status update.
+[00:15] [Receptionist]: Sure, I can help you. Give me one second.
+[00:17] [ ... Silence (8s) ... ]
+[00:25] [Receptionist]: What's the date of loss, ma'am?
+[00:28] [Shantel Curry]: It's No— I'm sorry, May 21st, 2025.
+[00:34] [Receptionist]: It looks like, uh, demand was sent October 20th.
+[00:41] [Shantel Curry]: Oh, hmm.
+[00:44] [Receptionist]: So let me get you over to Victoria. She's handling the file.
+[00:47] [Shantel Curry]: Okay, sure.
+[00:48] [Receptionist]: Do you want her email as well for future?
+[00:51] [Shantel Curry]: Sure, mm-hmm.
+[00:52] [Receptionist]: It's just her first name, she spells it V-I-C-T-O-R-I-A, Victoria at beyandassociates.com.
+[01:01] [Shantel Curry]: Okay. Thanks.
+[01:03] [Receptionist]: Transferring you now, ma'am. Yes, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

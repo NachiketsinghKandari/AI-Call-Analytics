@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Kelsey / Role: Caller from Central Insurance: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:04] [Kelsey]: Hi, my name is Kelsey, I'm calling from Central Insurance.
+[00:09] [Receptionist]: How can I help?
+[00:11] [Kelsey]: Yes, I was calling in regards of a client, Samantha Pauling.
+[00:18] [ ... Silence (7s) ... ]
+[00:24] [Receptionist]: That would be with Stephanie Peck, one second.
+[00:27] [Kelsey]: Okay.
+[00:33] [Receptionist]: I'll just transfer you straight over, okay?
+[00:36] [Kelsey]: Okay, thank you.
+[00:37] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

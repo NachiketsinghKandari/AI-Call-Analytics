@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Ataquavious Hill / Role: Caller: 4 turns
+  • Speaker 3 / Unknown / Role: Background Speaker: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, my name is Jesse, how can I assist you?
+[00:03] [Ataquavious Hill]: How you doing? Could you try transferring me to Linda?
+[00:08] [Receptionist]: One— yes, are you a client, sir?
+[00:10] [Ataquavious Hill]: Yes, I'm a client.
+[00:12] [Receptionist]: Understood. Can you provide me your name so I can search for your file?
+[00:15] [Ataquavious Hill]: Ataquavious Hill.
+[00:18] [Unknown]: If I had somebody watch my kids I would be like okay I'll just stay but because I don't have anybody to watch them it's putting me in a really really messed up...
+[00:27] [Receptionist]: Perfect. I found your file, sir. Um, do you want me to place you on a brief hold for one minute?
+[00:33] [Ataquavious Hill]: Yes.
+
+========================================
+TRANSCRIPT END
+========================================

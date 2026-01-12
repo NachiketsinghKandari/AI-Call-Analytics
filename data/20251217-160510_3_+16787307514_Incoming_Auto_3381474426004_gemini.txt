@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jamie / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Tarlessa Thompson / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Jamie speaking?
+[00:04] [Tarlessa Thompson]: Hi, yes, I'm calling from Gross, Marcovitz, Kaiser, and Meday. Um, I need to obtain info— well, the bar number of an attorney, um, from your firm. It's regarding a dismissal that we're trying to file. Um, the plaintiff is Jerry Liburd.
+[00:25] [Receptionist]: Could you spell the last name for me?
+[00:27] [Tarlessa Thompson]: L-I-B-U-R-D.
+[00:32] [ ... Silence (14s) ... ]
+[00:46] [Receptionist]: Ma'am?
+[00:47] [Tarlessa Thompson]: Yes.
+[00:48] [Receptionist]: So, the attorney is Ms. Taylor Middleton. She didn't answer. Would you like me to send you over to her voicemail so you can leave her a message about this?
+[00:58] [Tarlessa Thompson]: Um, or her paralegal? Because we already have approval. All— all I need is just her bar number. So...
+[01:06] [Receptionist]: Okay. That would be Carrie Wade. Let me get her for you.
+[01:11] [Tarlessa Thompson]: Okay. Thank you.
+[01:12] [Receptionist]: You're welcome. And you said that your name was?
+[01:15] [Tarlessa Thompson]: Tarlessa Thompson.
+[01:18] [Receptionist]: Tarlessa, okay. One second.
+
+========================================
+TRANSCRIPT END
+========================================

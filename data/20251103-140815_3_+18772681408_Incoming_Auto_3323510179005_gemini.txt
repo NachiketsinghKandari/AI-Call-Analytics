@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates Law Firm: 16 turns
+  • Speaker 2 / [Adrian] / Role: Insurance Agent at Mobilitas Insurance: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, Devon speaking.
+[00:06] [Adrian]: Hi Devon, this is Adrian calling from Mobilitas Insurance on behalf of Embedit. I was calling to speak to someone about, uh, your client's Deshanta Sigers or Sigers?
+[00:18] [Receptionist]: Let me pull up the file real quick.
+[00:23] [Receptionist]: Do you mind spelling that last name for me please?
+[00:27] [Adrian]: Uh, yes. S as in Sam, I, G as in girl, E, R, S as in Sam.
+[00:34] [Receptionist]: And you said the first name was Deshanta, right?
+[00:38] [Adrian]: Uh, yes. D-E-S-H-O-N-T-A.
+[00:43] [Receptionist]: One second. [ ... Silence (20s) ... ] So I do see here Linda's working that case. Let me go ahead and put you on a brief hold and transfer you over.
+[01:13] [Adrian]: Thank you.
+[01:15] [Receptionist]: You're welcome.
+[01:17] [ ... Silence (12s) ... ]
+[01:29] [Receptionist]: Adrian?
+[01:31] [Adrian]: Yes.
+[01:32] [Receptionist]: Thank you for patiently holding. Um, Linda Huff is unavailable at the moment. I tried reaching her, but her phone goes to voicemail. Would you please leave a message and have her reach back out to you?
+[01:46] [Adrian]: Yes.
+[01:48] [Receptionist]: Okay. But I can also provide you with her direct number and you can also give her a call later on today.
+[01:54] [Adrian]: Yes, and- and could you share an email for her as well?
+[01:58] [Receptionist]: Sure. Um, so this would be Linda Huff, H-U-double-F as in Frank, and her number is 513-373-4064. And her email would be her first name, Linda [ ... Silence (6s) ... ] at beyandassociates.com.
+[02:45] [Adrian]: Perfect. Alright, and do you have my...
+[02:50] [Receptionist]: I'm sorry.
+[02:52] [Adrian]: Oh yes, could you confirm the spelling for me?
+[02:54] [Receptionist]: Yes, the spelling on that one would be B-E-Y for Bay. The word and is spelled out as well, A-N-D, not the symbol, and associates is plural, dot com. Um, you were saying if I had your contact information?
+[03:09] [Adrian]: Yes.
+[03:11] [Receptionist]: If I'm not mistaken, I have a direct number for you as 404-493-7019.
+[03:23] [Adrian]: Um, actually 405.
+[03:25] [Receptionist]: Yes, 405, my bad.
+[03:27] [Adrian]: Okay, then yes, that's me.
+[03:29] [Receptionist]: Alrighty. If you hold on just a second, I may be connecting you over to Linda. Just allow me. She's calling me right now. Okay?
+[03:40] [Adrian]: Perfect, thank you.
+[03:42] [Receptionist]: Alright Adrian, transferring you over to Linda, okay? Thank you. And just to let you know, looks like she just recently got this case assigned to her, so she may be in the loop of getting all the info. Alright? So transferring over now. Thank you so much.
+[03:57] [Adrian]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

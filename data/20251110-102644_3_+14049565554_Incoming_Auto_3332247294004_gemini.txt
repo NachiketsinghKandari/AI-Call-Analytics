@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Ben's Associates Law Firm: 3 turns
+  • Speaker 2 / [Harold Wright] / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Ben's Associates Law Firm, Devin speaking.
+[00:04] [Harold Wright]: Can I speak to Mr. Matt or Dante?
+[00:08] [Receptionist]: Sure. And who's calling?
+[00:12] [Harold Wright]: Uh, Harold Wright.
+[00:14] [Receptionist]: Mr. Wright, good morning. Let me go ahead and get you over to Matt or Dante.
+[00:19] [Harold Wright]: Okay.
+[00:21] [ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

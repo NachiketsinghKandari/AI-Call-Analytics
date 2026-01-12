@@ -1,0 +1,21 @@
+{
+  "caller_type": "sales_vendor",
+  "call_summary": {
+    "primary_intent": "solicitation_and_spam",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the staff member responsible for payroll and provided her email address to the caller, who elected to email her directly rather than being transferred to voicemail.",
+    "call_duration_seconds": 143.86,
+    "call_duration_formatted": "02:23"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered to transfer the caller to an assistant and later to a voicemail, but the caller opted to receive an email address instead."
+  }
+}

@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Armando / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, my name is Fatima, how may I assist you today?
+[00:08] [Armando]: Hi, yes, my name's Armando, I'm from MRI Imaging Specialist. The reason for my call, I'm trying to confirm representation for a patient, please.
+[00:14] [Receptionist]: Absolutely, may I please have the patient's first and last name?
+[00:17] [Armando]: Uh, first name is Freddy, last name is Debro.
+[00:22] [Receptionist]: Freddy Debro. Bear with me while I search.
+[00:28] [ ... Silence (8s) ... ]
+[00:36] [Receptionist]: Are you able to see when was the date of loss?
+[00:40] [Armando]: Uh, date of loss is 11/22/25.
+[00:48] [Receptionist]: I don't have any file created as yet, but let me confirm that I have the right spelling of the first name. Is that E- F as in Frank, E as in Echo, T as in Tom... uh, go ahead.
+[01:05] [Armando]: No, it's F-R-E-D-D-I-E, Freddy.
+[01:11] [Receptionist]: Freddy.
+[01:12] [ ... Silence (13s) ... ]
+[01:25] [Receptionist]: Do you have a phone number for the client?
+[01:27] [Armando]: Yes, 912-592-6848.
+[01:34] [Receptionist]: Yeah, alright, so yeah, we are his currently, the status is treating.
+[01:41] [Armando]: Okay, perfect. Um, is it okay to schedule the patient and see him?
+[01:46] [Receptionist]: I would have to transfer you to the directly to the case manager. I would say yes, but uh, because it's not my client or I'm not working with the client, I would not know what I can authorize or not. Bear with me one moment.
+[02:01] [Armando]: Perfect, thank you.
+[02:06] [Receptionist]: Hey Armando, thank you so much for the waiting time, I truly apologize for the delay. So I was not able to get in touch with the case manager, but I was able to speak to a supervisor and they advised that you are able to go ahead and do that. So you can get in contact with the client and schedule him, okay?
+[02:24] [Armando]: Perfect. Thank you. I'm sorry, and your name, I'm sorry?
+[02:27] [Receptionist]: Fatima.
+[02:28] [Armando]: Fatima, thank you there. You have a good one.
+[02:30] [Receptionist]: You're so welcome, you too, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

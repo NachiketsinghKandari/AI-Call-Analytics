@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Cami / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Tyler Bilstein / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Cami speaking?
+[00:05] [Tyler Bilstein]: Hi there, my name is Tyler Bilstein, I'm a claims adjuster. I was calling in reference to um... I believe your client's name, hold on one second, I had it pulled up here and now I can't find it. Janae Massey, M-A-S-S-E-Y.
+[00:27] [Receptionist]: S-S-E-Y?
+[00:29] [Tyler Bilstein]: Yes ma'am. M-A-S-S-E-Y.
+[00:33] [Receptionist]: That would be with Ms. Linda Huff. Let me get her for you.
+[00:41] [Tyler Bilstein]: Thank you.
+[00:42] [Receptionist]: Okay, I'll just... um, would you like her email also? I can then I can just transfer you over.
+[00:48] [Tyler Bilstein]: Sure, that's fine. What is her email address?
+[00:52] [Receptionist]: Linda, L-I-N-D-A, at Bey, B-E-Y, A-N-D, associates with an S, dot com. Beyandassociates.com.
+[01:06] [Tyler Bilstein]: Just Linda at beyandassociates.com?
+[01:12] [Receptionist]: Yeah, Linda at beyandassociates.com.
+[01:16] [Tyler Bilstein]: Thank you so much. Yeah, if you don't mind transferring me, I'd appreciate it. I'll send her an email too.
+[01:22] [Receptionist]: All right. You have a great rest of your day, sir. Bye-bye.
+[01:26] [Tyler Bilstein]: You too, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

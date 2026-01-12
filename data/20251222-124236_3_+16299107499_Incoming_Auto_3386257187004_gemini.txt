@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Luke Copeland / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how may I help you?
+[00:02] [Luke Copeland]: Uh, yes, this is Luke Copeland with Novatech and Brittany Lawson had called about an issue she was having being able to print from I guess the Stamps program to the new Sharp?
+[00:15] [Receptionist]: Yes, I'll transfer you. Let me give you her direct dial first then in the future.
+[00:19] [Luke Copeland]: Okay.
+[00:20] [Receptionist]: Her direct dial in case she doesn't pick up is 470-339-7214 and I'll I'll transfer you one sec.
+[00:30] [Luke Copeland]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

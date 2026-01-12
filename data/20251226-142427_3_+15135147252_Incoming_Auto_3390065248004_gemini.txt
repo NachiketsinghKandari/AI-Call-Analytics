@@ -1,0 +1,109 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Darnell Williams / Role: Caller: 44 turns
+  • Speaker 3 / Unknown / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 4 / Karina / Role: Case Manager at Bey and Associates: 25 turns
+  • Speaker 5 / Ladonna / Role: Darnell's girlfriend: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Emma, how can I help you?
+[00:03] [Darnell Williams]: Hey, how you doing? Um, I was trying to reach, I think her name's Karina. Um, I'm a client, um, I got into a car accident and I think she's supposed to be representing me and I had a couple questions for her.
+[00:23] [Receptionist]: Sure, I can help with your case. May I have your name?
+[00:27] [Darnell Williams]: My name's Darnell Williams.
+[00:30] [Receptionist]: All right, looking up the information for you. I see multiple clients with similar names. Can you provide your date of birth to narrow down?
+[00:43] [Darnell Williams]: 7/5/1980.
+[00:48] [Receptionist]: I'm not finding your file under that name and date of birth. Can you confirm the spelling or provide the incident date?
+[00:54] [Darnell Williams]: You're not finding my file? Darnell, D-A-R-N-E-L-L, last name is Williams, W-I-L-L-I-A-M-S, date of birth July 5th, 1980.
+[01:10] [Receptionist]: I'm still not finding your file. Let me connect you to our customer success team to help track this down. Okay? Transferring you to our customer success team. Transfer complete.
+[01:23] [ ... Silence (23s) ... ]
+[01:46] [Receptionist]: Thank you for calling Bey and Associates, how may I help you?
+[01:51] [Darnell Williams]: Yes, I was just transferred to you because the lady said that she couldn't find my name on the file and I was involved into a car accident a few days ago and I believe that someone took my case and I was just trying to follow up on a couple questions. My name's Darnell Williams.
+[02:08] [Receptionist]: Hey Darnell, I'm the receptionist, I don't have the files to look at. I'm not sure, uh, why she transferred you, I apologize for that.
+[02:17] [Darnell Williams]: Oh, I don't know either. Yeah. But I know the lady who I was talking to was named Karina Miller or something, Milia.
+[02:26] [Receptionist]: Okay, um, so you are a client?
+[02:29] [Darnell Williams]: Yes, I— they sent me a welcome letter, they sent me a letter and said that they reviewing the case. I'm in Cincinnati, Ohio, so...
+[02:38] [Receptionist]: Okay, let me see if Karina's available. All right.
+[02:46] [Darnell Williams]: All right, this was regarding a car accident.
+[02:51] [Receptionist]: Yes, Darnell. Okay, all right, I'm going to try that line for you. One moment.
+[02:56] [Darnell Williams]: Okay.
+[02:58] [ ... Silence (53s) ... ]
+[03:51] [Karina]: Hello, good day.
+[03:53] [Darnell Williams]: Hello?
+[03:54] [Karina]: Hello.
+[03:55] [Darnell Williams]: Yeah, how's— how you doing? Is this Karina?
+[03:57] [Karina]: Yes, this is Karina, what can I do for you today?
+[03:59] [Darnell Williams]: Yes, um, I was calling, um, they said my name wasn't on the file or nothing. Uh, was my case reviewed and accepted yet or...
+[04:11] [Karina]: Yes, we are already working on your case. Actually, I was going to call you later on because, um, let me see, we do need a— a co-letter that we sent over to your girlfriend Ladonna so that the— so that she can sign it in and send it back to us.
+[04:28] [Darnell Williams]: Yes, she's trying to. She's trying to, um, she— I was trying to help her with it the other day, I believe, um, Wednesday and, um, it's not sending her nothing in her email so she can sign whatever she need to do.
+[04:41] [Karina]: Yeah, we are already working with the insurances and everything. We already sent out the letters. Nothing to worry, the— it is in process now.
+[04:53] [Darnell Williams]: Okay, so do she have her like— because I was—
+[04:55] [Karina]: We just need that letter from us.
+[04:57] [Darnell Williams]: You need the letter?
+[04:59] [Karina]: Yeah, we just need that letter to be signed and sent to us.
+[05:03] [Darnell Williams]: Okay, so do she got to do that through her email?
+[05:07] [Karina]: Yes. Yes.
+[05:09] [Darnell Williams]: Okay, so I'm trying to see, will it be in her email?
+[05:13] [Karina]: Uh, just like yours. I mean, we sent it over through, uh, VineSign and, yeah, it— it's on her email.
+[05:19] [Darnell Williams]: Yeah, VineSign. So every time I clicked on VineSign, I did it for her, like I signed her name, she signed her name, her date of birth and all that, and then, um, when it said something about like, it kept saying, uh, to— to complete this, you need— it need a signature and the signature's already been signed, you can't sign it again.
+[05:50] [Karina]: Let me— let me see if I can send it back to her right now. One moment then.
+[05:55] [Darnell Williams]: Hey Don.
+[05:57] [Karina]: Because we did send it over to her as well.
+[06:03] [Darnell Williams]: Can I see your phone so I can do this? She— she said she about to send it again. Go to the email.
+[06:11] [ ... Silence (8s) ... ]
+[06:19] [Darnell Williams]: What's going on?
+[06:21] [Ladonna]: Oh, I'm looking at the manager. You was right, there is no dress code.
+[06:25] [Darnell Williams]: I knew— I knew that.
+[06:27] [Ladonna]: She said even with you, so I can wear leggings, I can wear whatever I want to wear.
+[06:31] [Darnell Williams]: You can wear what you want to wear.
+[06:32] [Ladonna]: I didn't know that.
+[06:33] [Darnell Williams]: Mm-hmm.
+[06:34] [Ladonna]: Oh, this is going to be interesting.
+[06:36] [Darnell Williams]: I told you that.
+[06:38] [Ladonna]: She said just be comfortable.
+[06:40] [Darnell Williams]: Yeah, what I tell you?
+[06:42] [Ladonna]: Oh, this is going to be interesting.
+[06:44] [Darnell Williams]: You just got it.
+[06:46] [Ladonna]: That's it?
+[06:47] [Darnell Williams]: VineSign or something.
+[06:49] [Ladonna]: Mm-hmm.
+[06:50] [Darnell Williams]: Yeah, let me see it. Okay, so, um...
+[06:54] [ ... Silence (11s) ... ]
+[07:05] [Darnell Williams]: Get started. Sign here. That's that.
+[07:18] [ ... Silence (23s) ... ]
+[07:41] [Karina]: So, uh, I believe that she did receive it, right, Mr. Williams? I'll go ahead and have that signed over and sent to us.
+[07:52] [Darnell Williams]: It say already signed. The document has already been signed and here it cannot be signed again. Okay, so...
+[08:02] [Karina]: Okay, did you send it?
+[08:04] [Darnell Williams]: It's not— that's what I'm saying, it's not letting me send it. Um, let me tap here. Preview not available.
+[08:13] [Karina]: Oh, I did receive it now.
+[08:16] [Darnell Williams]: You got it?
+[08:17] [Karina]: I received it already.
+[08:19] [Darnell Williams]: Okay, so she good to go?
+[08:21] [Karina]: Yeah, I did. Yeah, she's good to go.
+[08:23] [Darnell Williams]: Just sit back and wait then?
+[08:24] [Karina]: Yeah, she's good to go. Yeah, she's good to go. Yeah, just go ahead and wait. Remember that right now, today is— we're currently in holidays, right? So it's going to be a little bit slow on that. Um, but once we're, you know, coming back out of the holidays, this is going to be, you know, with the attorney in— in full process, okay? But we're currently working on it.
+[08:48] [Darnell Williams]: Okay, I just wanted to make sure that we both was signed then, so we didn't have to do nothing else, so we just sit back and wait on y'all now. I appreciate it.
+[08:58] [Karina]: Exactly. And just make sure because, uh, both of y'all, uh, need treatment, right? Because of the injuries you have.
+[09:07] [Darnell Williams]: Yes.
+[09:08] [Karina]: So we're going to be referring you as well.
+[09:11] [Darnell Williams]: All right, well thank you.
+[09:12] [Karina]: Um, and it's— for your girlfriend, what kind of injuries she have?
+[09:15] [Darnell Williams]: Huh?
+[09:16] [Karina]: Injuries of her— of Ladonna?
+[09:18] [Darnell Williams]: Yes, um, it's the same— the same injuries. Back pain...
+[09:24] [Karina]: Back pain?
+[09:25] [Darnell Williams]: Yeah, the ankle.
+[09:27] [Karina]: The ankle?
+[09:28] [Darnell Williams]: Yeah, that's what we was diagnosed with.
+[09:30] [Karina]: All right. Okay. I'll let the attorney know so that he can refer you to— to a for treatment, okay? And the— the case manager will get in touch with you.
+[09:41] [Darnell Williams]: All right, well thank you. Happy holidays to you.
+[09:44] [Karina]: Happy holidays to you. Bye-bye.
+[09:47] [Darnell Williams]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

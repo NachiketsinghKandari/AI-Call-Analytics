@@ -1,0 +1,27 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided contact information for the requested attorney and initiated a transfer to him at the caller's request.",
+    "call_duration_seconds": 183.17,
+    "call_duration_formatted": "03:03"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist agreed to transfer the caller to the requested attorney and ended the call after stating she was sending the caller over."
+  }
+}

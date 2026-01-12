@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kyra / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kyra speaking, how can I help you?
+[00:04] [Unknown]: Yeah, hey, how you doing today? I am on your website and it says that your firm handles bad faith claims?
+[00:13] [Receptionist]: Handles what, I'm sorry?
+[00:15] [Unknown]: Uh, bad faith claims against insurance companies?
+[00:20] [Receptionist]: Um, well, we usually work with insurance companies whenever there is a motor vehicle accident or premises liability.
+[00:29] [Unknown]: Yes.
+[00:30] [Receptionist]: Yes.
+[00:31] [Unknown]: I gotcha. Okay. Uh, so you you don't handle uh like home disputes against insurance companies?
+[00:38] [Receptionist]: No, sir.
+[00:40] [Unknown]: Okay. Okay. I appreciate it. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

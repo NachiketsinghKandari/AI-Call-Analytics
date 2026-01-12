@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Angelo] / Role: [Receptionist] at B&A Associates: 7 turns
+  • Speaker 2 / [Quentin] / Role: State Farm: 6 turns
+
+----------------------------------------
+
+[00:00] [Angelo]: Hello, this is Angelo from B&A Associates, how may I help?
+[00:08] [Quentin]: Hi, my name is Quentin with State Farm, how are you doing today?
+[00:12] [Angelo]: Good, thank you so much for asking, how may I help you?
+[00:17] [Quentin]: Yes, I'm calling regarding your client, Keith Avery Jones Junior.
+[00:23] [Angelo]: How do you spell Keith?
+[00:26] [Quentin]: Yes, K-E-I-T-H.
+[00:32] [Angelo]: Okay, and last name?
+[00:35] [Quentin]: Uh, Jones, J as in Jack, O-N-E-S. And then Junior.
+[00:43] [Angelo]: Okay, Jones. I found it, how may I help?
+[00:48] [Quentin]: Yes, um, I spoke with someone the other day regarding this claim. Um, if you guys can give a call to your client and his sister, um, apparently he's telling her that he doesn't have an attorney anymore and that, um, that's what's holding up their settlement. I just want to give you guys a heads up.
+[01:03] [Angelo]: I see. I'm going to connect you with the case manager since she is the one who get in contact with the clients and everything, okay? Hold on, let's see if she's available.
+[01:12] [Quentin]: Okay, thank you.
+[01:13] [Angelo]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Sean / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how may I help you?
+[00:03] [Sean]: Hi, good morning. This is Sean with State Farm Insurance. I was calling to speak with, I believe, Stephanie Salamonca regarding your client Deborah Daniel, date of loss is June 6th of this year.
+[00:12] [Receptionist]: Deborah Daniel?
+[00:14] [Sean]: Mhm.
+[00:15] [ ... Silence (14s) ... ]
+[00:29] [Receptionist]: All right, let me transfer you over. You said for Stephanie?
+[00:32] [Sean]: Yeah.
+[00:33] [Receptionist]: Would you like her direct dial for future?
+[00:35] [Sean]: Yeah, sure. What is it?
+[00:37] [Receptionist]: It's 470-645-1748. And I can transfer you.
+[00:43] [Sean]: All right, thanks.
+[00:45] [Receptionist]: Yep.
+
+========================================
+TRANSCRIPT END
+========================================

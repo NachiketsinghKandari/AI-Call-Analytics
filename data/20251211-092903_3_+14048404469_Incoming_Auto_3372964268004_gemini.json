@@ -1,0 +1,27 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist stated she would transfer the caller to someone in the local office to provide directions and the call ended immediately after the intent to transfer was stated.",
+    "call_duration_seconds": 83.09,
+    "call_duration_formatted": "01:23"
+  },
+  "transfer_context": {
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist, being at a different office location, initiated a transfer to connect the caller with staff at the specific building the caller was trying to locate."
+  }
+}

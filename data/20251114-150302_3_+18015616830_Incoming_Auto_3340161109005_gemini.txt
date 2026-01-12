@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Caller / Role: Representative from Conduent: 5 turns
+
+----------------------------------------
+
+[00:04] [Kimmy]: Bey and Associates, Kimmy speaking.
+[00:07] [Caller]: Um, calling for Taylor Middleton.
+[00:11] [Kimmy]: In regards to a specific client?
+[00:15] [Caller]: Yes, Chase Rose.
+[00:19] [Kimmy]: Chase Rose, one second.
+[00:22] [ ... Silence (23s) ... ]
+[00:45] [Kimmy]: Um, do you have the date of loss?
+[00:48] [Caller]: 12/1 of '23.
+[00:52] [Kimmy]: Okay.
+[00:57] [Kimmy]: Okay, and may I ask where you're calling from?
+[01:01] [Caller]: Conduent.
+[01:03] [Kimmy]: All right, one second.
+[01:11] [Kimmy]: I see Ms. Middleton is already gone for today and the person that, um, was handling this, the case manager, she's on another call right now. Would you like to leave her a voicemail so she can get back to you?
+[01:23] [Caller]: Um, all right.
+[01:25] [Kimmy]: Sending you over, you have a great rest of your day.
+[01:28] [Caller]: Thank you, you too.
+[01:30] [Kimmy]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

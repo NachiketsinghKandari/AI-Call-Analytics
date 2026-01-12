@@ -1,0 +1,14 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Please call us back at 1-800-555-0199. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Jerry Leibert / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm. My name is Fatima. How may I assist you today?
+[00:08] [Jerry Leibert]: Hi, good afternoon. Jerry Leibert calling. I'm just checking on my case status, please, if you could help me with that information.
+[00:18] [Receptionist]: Uh, absolutely. Please bear with me.
+[00:21] [Jerry Leibert]: Take your time.
+[00:23] [Receptionist]: Jerry, thank you so much. So I have your file here. The status that I'm able to see is currently in settling. Um, I can confirm for you if your case manager is available. She might have some details that she can provide. I'm not able to see all of the information.
+[00:41] [Jerry Leibert]: Sure, because I've already signed some very signed documents that were sent over to me and I was just waiting for the um final information on what to do next. So I'll wait for her.
+[00:52] [Receptionist]: All right. Please bear with me. I'll see if um Ms. Carrie is available.
+[00:57] [Jerry Leibert]: Take your time.
+[00:58] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

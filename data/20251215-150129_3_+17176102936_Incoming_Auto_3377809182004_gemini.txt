@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Debbie Ames-Gallagher-Bassett / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:06] [Debbie Ames-Gallagher-Bassett]: Yes, my name is Debbie Ames-Gallagher-Bassett, and I am calling regarding your client Juan Sanchez Chavez. I'm sorry, Cheryl Holly and Carmelita Alicia.
+[00:23] [Receptionist]: Cheryl Holly, okay. Okay, that would be with Stephanie Peck. Let me send you over.
+[00:34] [Debbie Ames-Gallagher-Bassett]: Okay, thank you.
+[00:36] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

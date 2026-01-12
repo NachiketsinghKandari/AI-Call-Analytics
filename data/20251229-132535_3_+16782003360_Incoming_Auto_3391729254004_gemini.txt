@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Alexia Bradshaw / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, what can I do for you?
+[00:05] [Alexia Bradshaw]: This is who?
+[00:07] [Receptionist]: My name is Karina.
+[00:10] [Alexia Bradshaw]: Um, hey Karina, this is Alexia Bradshaw.
+[00:15] [Receptionist]: Thank you, Ms. Bradshaw, what can I help—
+[00:18] [Alexia Bradshaw]: Um, I need to speak with Chris. I'm supposing this is Bey and Associates, correct?
+[00:25] [Receptionist]: Yes ma'am, this is Bey and Associates. You're trying to reach who?
+[00:30] [Alexia Bradshaw]: I want to speak with Chris. He's over my case.
+[00:37] [Receptionist]: Give me a moment, let me see.
+[00:42] [ ... Silence (10s) ... ]
+[00:52] [Receptionist]: Um, let's see. There he is. Let me see if the case manager is in the office because most of the attorneys and case managers are out of the office this week. So let me see if he's going to be here one second. Yep, he's not. He's not today.
+[01:25] [Alexia Bradshaw]: Okay, so when will he be back in the office? It's been well over a month since the last time I talked with them and I done signed all the paperwork to receive my money and I'm trying to figure out why haven't I— nobody contacted me, I haven't heard anything.
+[01:45] [Receptionist]: Right, well, I'm not sure this week it's going to be very hard because all of the the the attorneys and case managers are out due to the holidays. They're going to come back until Monday.
+[02:01] [Alexia Bradshaw]: Okay.
+[02:02] [Receptionist]: So on Monday you will be able, if you want I can transfer you to to the voicemail so that you can leave a voicemail and when he comes back he can call you back.
+[02:13] [Alexia Bradshaw]: Um, give me one second because I want— I would like to have his direct number. Give me one second. I had it but I misplaced it. Can— can I have the number please?
+[02:28] [Receptionist]: Sure, one second. That would be 470-903-2558.
+[02:40] [Alexia Bradshaw]: Okay. Give me one second, I'm going to save it to my phone.
+[02:48] [Receptionist]: Sure.
+[02:49] [ ... Silence (11s) ... ]
+[03:00] [Alexia Bradshaw]: All right.
+[03:01] [Receptionist]: All right, so I'll transfer you to the voicemail.
+[03:04] [Alexia Bradshaw]: Okay, yes please.
+[03:06] [Receptionist]: No problem, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

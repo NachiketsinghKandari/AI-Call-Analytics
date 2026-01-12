@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Ben and Associates: 6 turns
+  • Speaker 2 / David / Role: Claims Representative at Geico Claims: 3 turns
+
+----------------------------------------
+
+[00:00] [Kim]: Ben and Associates, Kim speaking.
+[00:03] [David]: Hey, good- good afternoon, this is David from Geico Claims. How are you?
+[00:09] [Kim]: I'm doing well, thank you for asking. How about yourself?
+[00:13] [David]: Good, and I'm doing okay, thank you. And I'm just following up, this is one of our timed follow-ups for Ms. Belinda Boateng for date of accident 8/22/25.
+[00:25] [Kim]: Okay.
+[00:27] [Kim]: 8/22... Okay, that would be with...
+[00:31] [Kim]: Stephanie. Let me get her on the line for you.
+[00:34] [David]: Okay, thank you.
+[00:35] [Kim]: You're welcome.
+[00:36] [ ... Silence (8s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

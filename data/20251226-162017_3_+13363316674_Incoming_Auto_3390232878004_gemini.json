@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": true,
+    "final_outcome": "The receptionist attempted to connect the caller to a case manager regarding two specific claims, but the staff member was unavailable, so the receptionist took a message for a callback.",
+    "call_duration_seconds": 359.21,
+    "call_duration_formatted": "05:59"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist attempted to locate a case manager for the caller, but the staff member was unavailable, resulting in a message being taken."
+  }
+}

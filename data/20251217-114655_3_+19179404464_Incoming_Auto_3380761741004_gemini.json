@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the caller that the firm only handles personal injury cases and provided a recommendation to contact the Georgia Bar Association for assistance with their criminal law matter.",
+    "call_duration_seconds": 127.66,
+    "call_duration_formatted": "02:07"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist provided information regarding the firm's practice areas and suggested external resources."
+  }
+}

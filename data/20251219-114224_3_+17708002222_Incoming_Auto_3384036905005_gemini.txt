@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Sharon / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:05] [Sharon]: Hi, uh, this is Sharon with Dr. Hans' office. I called earlier this morning for Michael Soul and left him a message. I haven't heard from him. Is he available?
+[00:15] [Receptionist]: Yes, ma'am. Let me see here.
+[00:22] [ ... Silence (24s) ... ]
+[00:46] [Receptionist]: Okay. Okay. Can I, um, have your name again? Then I'll direct message him.
+[00:59] [Sharon]: Sharon with Dr. Hans, H-A-N-S, and it's on, uh, our patient, your client, Jameson Foye, F-O-Y-E.
+[01:16] [Receptionist]: Jamerson?
+[01:18] [Sharon]: J-A-M-E-S-O-N.
+[01:23] [ ... Silence (40s) ... ]
+[02:03] [Receptionist]: Okay. Looks like he is not in. Um...
+[02:09] [Sharon]: Is there anybody else I can talk to? About— it's about a check that we've been waiting on for— since October.
+[02:19] [Receptionist]: Matt McCarren. Let me see if he's available.
+[02:22] [Sharon]: McCarren?
+[02:23] [Receptionist]: McCarren. M-C-C-A-R-R-E-N.
+[02:27] [Sharon]: Okay.
+[02:28] [Receptionist]: Uh, would you like Matt's email?
+[02:30] [Sharon]: Um, I— I've been going around and round with emails with Michael, and we still don't have the replacement check. I don't know— I'm trying to get something resolved, like, before the end of the year. This has been going on for months. Um, is he— Matt McCarren not available right now?
+[02:57] [Receptionist]: Oh, let me check. One sec.
+[02:59] [Sharon]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

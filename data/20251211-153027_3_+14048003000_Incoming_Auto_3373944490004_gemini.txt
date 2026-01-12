@@ -1,0 +1,88 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 26 turns
+  • Speaker 2 / Gaby / Role: Caller from Dominguez Chiropractic: 25 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fatima, how may I assist you?
+[00:07] [Gaby]: Fatima?
+[00:08] [Receptionist]: Yes?
+[00:09] [Gaby]: Hi, how are you? This is Gaby from Dominguez Chiropractic.
+[00:13] [Receptionist]: I am very well, how about you Gaby?
+[00:15] [Gaby]: Thank you, thank you. I'm calling regard uh few patients uh three. Uh we need uh here at the clinic Dominguez is possible provide uh the policy limit? I don't know if I need to speak with the case managers.
+[00:33] [Receptionist]: For the policy limit, yes. Um may I please have the client's first and last name so then I can provide info regarding that?
+[00:44] [Gaby]: Is uh the first one is Darrell, is D-A-R-R-E-L-L and the last name is S-T-E-P-H-E-N-S.
+[00:59] [ ... Silence (32s) ... ]
+[01:31] [Receptionist]: Bear with me.
+[01:32] [ ... Silence (5s) ... ]
+[01:37] [Receptionist]: Oh my goodness, my system's coming up. Bear with me, I think I'm having a system issue.
+[01:41] [Receptionist]: The last name, I'm sorry, the name is Darrell, right?
+[01:44] [Gaby]: Darrell, yes.
+[01:45] [Receptionist]: And the last name is Stephens. I'm going to respell that, is S-T-E-P-H-E-N-S.
+[01:56] [Gaby]: That's it.
+[01:57] [ ... Silence (13s) ... ]
+[02:10] [Receptionist]: Nothing is coming up for me, but I know this client is here. I think I'm just having a system issue, let me refresh. It's not the first time that it happens.
+[02:18] [Gaby]: It's okay, it happens to me, I understand. Don't worry.
+[02:22] [Receptionist]: Oh my gosh. Well, we can go for the next one, maybe. Do you have a phone number? Is there a phone number?
+[02:28] [Gaby]: Uh?
+[02:29] [Receptionist]: A phone number?
+[02:31] [Gaby]: For the patient?
+[02:32] [Receptionist]: Yeah.
+[02:33] [Gaby]: 678-227-1777.
+[02:44] [Receptionist]: Thanks. Let me try with the phone number.
+[02:47] [ ... Silence (5s) ... ]
+[02:52] [Receptionist]: Yes, here we go. Somehow when I search with the name it doesn't come up. The date of loss was on the 31st of October, right?
+[03:04] [Gaby]: Uh-huh.
+[03:05] [Receptionist]: All right, so the case manager is Ms. Linda.
+[03:08] [Gaby]: Okay, Linda. Do you have her info?
+[03:13] [Gaby]: Uh, no. May I speak with her or?
+[03:16] [Receptionist]: She is currently in a meeting, someone else already called, which is why I know, but I can give you her email address. Yeah, she's not available to speak.
+[03:25] [Gaby]: Okay. All right, thank you.
+[03:27] [Receptionist]: So the email is Linda, her first name, uh-huh, at beyandassociates.com. And it's spelled out A-N-D.
+[03:42] [Gaby]: Bey Associate?
+[03:43] [Receptionist]: Yeah, Bey and Associate.
+[03:45] [Gaby]: Ah, and. Uh okay, and and associate.
+[03:50] [Receptionist]: Yeah. And it's spelled out A-N-D.
+[03:54] [Gaby]: A-D. Okay. Associate.
+[03:58] [Receptionist]: Okay. .com.
+[04:04] [Gaby]: Okay, and about Marquita Nelson?
+[04:10] [Receptionist]: Can you spell Marquita for me?
+[04:12] [Gaby]: Is M-A-R-Q-U-E-I-T-A, sorry, just give me one second because uh I want to make sure. Yeah, M-A-R-Q-U-E-I-T-A.
+[04:33] [Receptionist]: I'm sorry, M-A-R-Q-U-E-T-A?
+[04:41] [Gaby]: Q-I, sorry, no A. Q-I. Yeah, Marquita Nelson.
+[04:48] [Receptionist]: Nelson. All right, let's see if we have better luck with this patient.
+[04:53] [ ... Silence (5s) ... ]
+[04:58] [Receptionist]: All right, yeah. The date of loss was on November the 12th?
+[05:01] [Gaby]: Mhm. Yeah.
+[05:03] [Receptionist]: All right, so the case manager for this one is Stephanie.
+[05:07] [Gaby]: Stephanie. Okay. Do you need to spell that for you?
+[05:13] [Gaby]: Uh, Stephanie? Yeah. S-T-F-F-A-N-I?
+[05:20] [Receptionist]: No, it's S-T-E-P-H-A-N-I-E.
+[05:32] [Receptionist]: Stephanie with a P as in Paul, H as in hair.
+[05:39] [Gaby]: Okay. A-N-A?
+[05:42] [Receptionist]: No. I will repeat that. Okay. S as in Sam, T as in Tom, E as in echo, P as in Paul, H as in home, A as in alpha, N as in Nancy, I as in India, E as in echo.
+[06:09] [Gaby]: Okay.
+[06:10] [Receptionist]: So stephanie@beyandassociates.com.
+[06:15] [Gaby]: The same. Okay.
+[06:17] [Receptionist]: Yep. This status of this account is treating. I am not aware, I can call for you, but before I try that, would you want me to check for the other patients just in case you need the their uh any other info?
+[06:34] [Gaby]: Yes, thank you. The other patient is Lakita, L-A-Q-U-I-T-A.
+[06:51] [Receptionist]: And her last name?
+[06:53] [Gaby]: The last name is W-I-N-D-G-S-I-E-L-D. Winfield. W-I-N-D like George S-I-E-L-D. Winfield.
+[07:11] [Receptionist]: So Winfield. Winfield. Bear with me.
+[07:17] [Receptionist]: Date of loss was on November the 23rd?
+[07:21] [Gaby]: Mhm.
+[07:22] [Receptionist]: This one, the status of the account is treating and the case manager is Paige Amon.
+[07:31] [Gaby]: Paige?
+[07:32] [Receptionist]: Yeah. So P as in Paul, A, Y as in yellow, G as in golf, E as in echo. Paige. And the email is her name, paige@beyandassociates.com.
+[07:51] [Gaby]: Okay. Got it.
+[07:53] [Receptionist]: Right. So for any policy limits and something like that, you can um send them an email and they'll reply to you, but please bear with me, I'll see if Ms. Stephanie is available for you, okay? One moment.
+[08:04] [Gaby]: Okay. Thank you so much.
+[08:06] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

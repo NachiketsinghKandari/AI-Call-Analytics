@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bane and Associates: 10 turns
+  • Speaker 2 / Caitlin / Role: Representative at Farmers Insurance: 8 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (6s) ... ]
+[00:06] [Receptionist]: Bane and Associates, this is Tasha, how may I help you?
+[00:10] [Caitlin]: Tasha, this is Caitlin at Farmers Insurance. I'm calling in regards to client Brittany Kelker.
+[00:17] [Receptionist]: Brittany Kelker? One moment.
+[00:25] [Receptionist]: Yes ma'am, how can I help you with this case? I have Ms. Brittany's file here.
+[00:33] [Caitlin]: Yeah, I was just calling for a quick status update on her treatment and injuries.
+[00:40] [Receptionist]: Status update is status case is under pre-lit medicals. Um, and the best person to give you an update on this case would be her case manager. Case manager's name is Ms. Lonnie Pucci. I can give you provide her contact info and I can also transfer you over.
+[00:58] [Caitlin]: Yeah, that'd be great. If I could do both, that would be wonderful.
+[01:02] [Receptionist]: Okay. [ ... Silence (8s) ... ] Mrs. Lonnie's number, direct number is 404-592-9370.
+[01:18] [Caitlin]: Got it.
+[01:19] [Receptionist]: And I- and I can transfer you over.
+[01:22] [Caitlin]: Yeah, I appreciate it.
+[01:24] [Receptionist]: Would you like her email address as well, ma'am?
+[01:27] [Caitlin]: Oh, yeah, might as well grab that while we're here.
+[01:30] [Receptionist]: All righty. It's Lonnie, L-O-N-I-E at baneassociates.com. B-E-Y-A-N-D associates.com.
+[01:46] [Caitlin]: Thank you.
+[01:47] [Receptionist]: All righty. Transferring now, ma'am. If Ms. Lonnie doesn't answer for some reason, you can always leave a voice message, um, and she'll get back to you as soon as she can.
+[01:57] [Caitlin]: Perfect, I appreciate it.
+[01:59] [Receptionist]: All righty.
+
+========================================
+TRANSCRIPT END
+========================================

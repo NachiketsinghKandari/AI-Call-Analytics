@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Skylar / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Kenneth Jackson / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, Skylar speaking, how can I help you?
+[00:05] [Kenneth Jackson]: Hi, uh, may I speak to Tiana or Victoria?
+[00:12] [Receptionist]: Can I have your name, sir?
+[00:15] [Kenneth Jackson]: Kenneth Jackson.
+[00:18] [Receptionist]: I'm sorry, can you repeat that?
+[00:21] [Kenneth Jackson]: Kenneth Jackson.
+[00:25] [Receptionist]: Hello?
+[00:29] [Kenneth Jackson]: Uh, hello? Can you not hear me?
+[00:34] [Receptionist]: I can barely hear you, sir.
+[00:37] [Kenneth Jackson]: Okay, my phone must be messed up. Kenneth Jackson.
+[00:43] [Receptionist]: Jackson, your first name?
+[00:45] [Kenneth Jackson]: Kenneth.
+[00:49] [Receptionist]: Kenneth.
+[00:51] [Kenneth Jackson]: Yes, K-E-N-N-E-T-H.
+[00:56] [Receptionist]: Okay, one second here, let me check.
+[00:59] [ ... Silence (10s) ... ]
+[01:09] [Receptionist]: Okay, let me get a hold of the case manager, one moment.
+[01:13] [ ... Silence (10s) ... ]
+[01:23] [Receptionist]: Thank you for holding, Mr. Jackson. Victoria is on another line right now, on another call. Would you like her voicemail?
+[01:32] [Kenneth Jackson]: Okay, is Tawana there?
+[01:36] [Receptionist]: Um, let's see. Tiana, you said? No, Tiana?
+[01:43] [Kenneth Jackson]: Yes, Tawana or Tiana or whatever it is, I forgot. She's also working on my case.
+[01:50] [Receptionist]: Okay, one moment.
+[01:52] [ ... Silence (10s) ... ]
+[02:02] [Receptionist]: Yeah, she's not available right now either.
+[02:06] [Kenneth Jackson]: Okay, well I've been calling for a few days and haven't been able to get a hold of them. If they can, uh, give me a call back, that would be nice.
+[02:15] [Receptionist]: But if you want, I can trans— oh, let me see if Victoria's already off the phone. One second.
+
+========================================
+TRANSCRIPT END
+========================================

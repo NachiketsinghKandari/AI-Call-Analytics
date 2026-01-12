@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Reggie / Role: Caller from Progressive Insurance: 4 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:04] [Reggie]: Hello, my name is Reggie with Progressive Insurance and I was looking to speak to somebody for your client Tamaron Grant.
+[00:12] [Receptionist]: Okay, one second, let me see who's handling that.
+[00:17] [ ... Silence (38s) ... ]
+[00:56] [Receptionist]: Hello?
+[00:58] [Reggie]: Yes.
+[00:59] [Receptionist]: The case manager is on another call right now, both her and the attorney. Would you like to leave either a voicemail?
+[01:12] [Reggie]: I can leave a voicemail.
+[01:14] [Receptionist]: All right, I'll go ahead and send you over. Her name is Lonnie Pucci. Sending you over. Have a great day. Bye-bye.
+[01:22] [Reggie]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

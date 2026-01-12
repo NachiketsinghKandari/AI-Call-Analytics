@@ -1,0 +1,57 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Speaker 1]/ Role: Caller: 21 turns
+  • Speaker 2 / [Receptionist]/ Role: Receptionist at B and Associates Law Firm: 18 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: What business is this?
+[00:03] [Receptionist]: B and Associates Law Firm, Dennis speaking.
+[00:05] [Speaker 1]: Hi, how you doing?
+[00:07] [Receptionist]: Doing great, sir. How about yourself?
+[00:10] [Speaker 1]: Good, good, Ariel.
+[00:12] [Receptionist]: Good, so far so good.
+[00:14] [Speaker 1]: Good. Um, I was looking to speak to Jonah. Is Jonah there?
+[00:18] [Receptionist]: Jonah?
+[00:21] [Speaker 1]: John?
+[00:22] [Speaker 1]: Jonah. J-O-N-Y-R.
+[00:28] [Receptionist]: Do you have a Jonah there?
+[00:31] [Speaker 1]: Josh? Hello? Do you have a Jonah or an Amar? Amar's cool.
+[00:34] [Receptionist]: Jonah... I have... no, I don't have a Jonah. I have a Jonathan. But who is this?
+[00:44] [Speaker 1]: Jonah. What number is this? What business is this?
+[00:52] [Receptionist]: This is B and Associates Law Firm.
+[00:57] [Speaker 1]: Hello? Like a law firm for what? Like for lawsuits, for criminal defense, for...
+[01:00] [Receptionist]: Personal injury.
+[01:02] [Speaker 1]: Personal injury. Okay, I'm interested in personal injury, Ariel.
+[01:06] [Receptionist]: Okay.
+[01:07] [Speaker 1]: Okay, do you have a... I'm sorry, do you have a person on your directory by name Ariel Ong? A-U-N-G?
+[01:14] [ ... Silence (12s) ... ]
+[01:26] [Receptionist]: No, sir.
+[01:28] [Speaker 1]: Okay, um... do you have Richard Wheeler? Richards? First name David, Wheeler Richards?
+[01:30] [ ... Silence (10s) ... ]
+[01:40] [Receptionist]: No, sir.
+[01:41] [Speaker 1]: How about Bey? B-E-Y. Jonah Bey. J-O-N-A-H, last name B-E-Y. B as in boy, Edward, yellow.
+[01:50] [Receptionist]: I'm sorry?
+[01:52] [Speaker 1]: Bey.
+[01:54] [Receptionist]: Yes.
+[01:56] [Speaker 1]: Okay, can I speak to Bey? Can I, please?
+[02:01] [Receptionist]: Um, unfortunately, we cannot transfer to him. He doesn't have a direction we can transfer to him.
+[02:08] [Speaker 1]: How come? He doesn't have a connection?
+[02:11] [Receptionist]: Yes, I don't have a line to transfer to him. He's in a different department.
+[02:17] [Speaker 1]: Okay, what department is he in? I'm trying to figure that out. What department is he in? Is he on the personal injury too? Is he in the personal injury as well? Law firm?
+[02:26] [Receptionist]: Possibly he's in administration.
+[02:33] [ ... Silence (6s) ... ]
+[02:39] [Speaker 1]: Oh, he's in administration. Okay, so... how can I get a hold of him? Do you have an email for him? Do you have a... Facebook, MySpace, Twitter, Instagram, anything? Tinder, anything? Do you have anything for him I can get a hold of him?
+[02:49] [Receptionist]: No, sir. I have no details on... on him.
+[02:54] [Speaker 1]: Okay, Ariel.
+[02:56] [Receptionist]: Yeah.
+[02:57] [Speaker 1]: Okay, so how can I get a hold of him? Do you have... does he have a Grinder account?
+[03:05] [Receptionist]: I'm sorry?
+[03:07] [Speaker 1]: How can... I'm sorry, I'm trying to get a hold of him. How can I get a hold of Jonah?
+
+========================================
+TRANSCRIPT END
+========================================

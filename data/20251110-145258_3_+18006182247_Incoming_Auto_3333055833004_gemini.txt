@@ -1,0 +1,17 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Law Offices of Michael J. Green: 2 turns
+  • Speaker 2 / [John Doe] / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling the Law Offices of Michael J. Green. This is Sarah. How can I help you?
+[00:05] [John Doe]: Hi, Sarah. This is, uh, John Doe. I'm calling to, um, check on the status of my case.
+[00:11] [Receptionist]: Hi, Mr. Doe. Let me, uh, let me pull that up for you. One moment. [ ... Silence (7s) ... ] Okay, I see here that, uh, the- the paperwork was filed yesterday.
+
+========================================
+TRANSCRIPT END
+========================================

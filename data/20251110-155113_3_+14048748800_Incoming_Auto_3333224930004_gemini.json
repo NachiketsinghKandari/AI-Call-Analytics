@@ -1,0 +1,27 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "scheduling_and_appointments",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the case and attempted to locate the case manager. Upon determining the case manager was unavailable, the receptionist offered a transfer to their voicemail, which the caller accepted, and the transfer was initiated.",
+    "call_duration_seconds": 179.28,
+    "call_duration_formatted": "02:59"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist offered to transfer the caller to the case manager's voicemail after finding they were unavailable; the caller accepted and the receptionist initiated the transfer."
+  }
+}

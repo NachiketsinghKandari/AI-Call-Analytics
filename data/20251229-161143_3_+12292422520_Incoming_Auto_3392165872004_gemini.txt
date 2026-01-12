@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Josh / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Josh]: Hey, yes, my name is Josh, I'm calling from Young, Thagard, Hoffman attorney's office in Valdosta. I am trying to reach Taylor Middleton.
+[00:14] [Receptionist]: Taylor Middleton.
+[00:22] [Receptionist]: All right, and are you representing one of our clients?
+[00:28] [Josh]: Uh, we represent the defendants in a case she has with us.
+[00:33] [Receptionist]: Okay, what is the name? Just to look it up.
+[00:37] [Josh]: Uh, it is Marlena Hutchinson v. Quantavius Hill, Amazon.com Inc, and Principal Merchants Leasing.
+[00:51] [Receptionist]: Okay, you have more than one client.
+[00:54] [Josh]: Uh, we represent defendant Hill and Principal Merchants.
+[01:00] [Receptionist]: Okay.
+[01:07] [Josh]: I don't necessarily have to speak with her. It can be one of her assistants or her paralegal.
+[01:12] [Receptionist]: Sure, sure, let me go ahead and take care of that. Just taking as an example as one of the cases. So let me consult first if he's available. Stay on the line, please.
+[01:28] [Josh]: Okay, thank you.
+[01:30] [ ... Silence (5s) ... ]
+[01:35] [Receptionist]: Thank you for staying on the line. So I was trying to get in contact with the attorney or the case manager, but it looks like that they're—they are unavailable at this moment. I don't know if they're out of the office or something. So would you like to leave them a voice mess—a voice message?
+[01:54] [Josh]: Yes, that would be perfect.
+[01:57] [Receptionist]: All right, so you can leave all your information and that's pretty much it, okay? So have a good one. Let me pass you over.
+[02:03] [Josh]: All right, thank you. You too. Bye-bye.
+[02:05] [Receptionist]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

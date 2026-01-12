@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Holly / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo speaking, how may I help you?
+[00:05] [Holly]: Hi, my name is Holly, I'm calling from Experian on behalf of Emory University Hospital, trying to get an update on a production request counteroffer we had sent for a patient.
+[00:15] [Receptionist]: Sure, what is the name?
+[00:17] [Holly]: It is, um, Chanesha, that's C-H-A-N-E-S-H-A, last name Bragland.
+[00:24] [Receptionist]: Okay.
+[00:25] [ ... Silence (31s) ... ]
+[00:56] [Receptionist]: And how do you spell the last name?
+[00:58] [Holly]: It's Bragland, R-A-G-L-A-N-D.
+[01:08] [Receptionist]: Okay, fine. And what do you want me to check on this?
+[01:12] [Holly]: Um, we had sent over a counteroffer to the reduction request we had sent, so I was just wanting to see if that was accepted.
+[01:21] [Receptionist]: Oh, let me consult with the, uh, case manager, okay? Hold on.
+[01:26] [Holly]: Okay.
+[01:30] [Receptionist]: Sorry, it looks like the case manager is busy with another client, so you want to leave her a voicemail message?
+[01:37] [Holly]: Yes, that would be great.
+[01:39] [Receptionist]: All right, have a good one. Let me transfer you over.
+
+========================================
+TRANSCRIPT END
+========================================

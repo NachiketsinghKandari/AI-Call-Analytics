@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Arina / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Sharon / Role: Caller from Dr. Hand's office: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Arina speaking, how can I help you?
+[00:04] [Sharon]: Hi, this is Sharon, I'm calling from Dr. Hand's office. Is Michael Soul in?
+[00:11] [Receptionist]: Do you have a case with us, ma'am?
+[00:13] [Sharon]: Yes, it is. It's for, um, Jameson Foy, F-O-Y-E.
+[00:20] [ ... Silence (21s) ... ]
+[00:41] [Receptionist]: Okay, let me try to get the case manager, okay? One moment.
+[00:43] [Sharon]: Who is that?
+[00:45] [Receptionist]: That is Tiana. One moment.
+[00:51] [Receptionist]: Thank you for holding, ma'am. The case manager is not available right now. Can I address you to her voicemail?
+[00:57] [Sharon]: Is Michael available? Because I've been corresponding through email with him and, um, this problem is not resolved yet. Is he available?
+[01:06] [Receptionist]: He was in another call. Let me see if he's off. One moment.
+[01:12] [Receptionist]: Yes, thank you. He's in another call right now.
+[01:15] [Sharon]: Um, what's the best way to get him a message to have him call me? It's kind of important.
+[01:21] [Receptionist]: Leaving a voicemail.
+[01:23] [Sharon]: Okay, I'll leave a voicemail.
+[01:25] [Receptionist]: Okay, one moment.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devin / Role: Receptionist at Vain and Associates Law Firm: 11 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vain and Associates Law Firm, Devin speaking.
+[00:08] [Speaker 2]: Hello, and I'm in need of a fax or email address to send over some authorization documents for a claim that an attorney in your office is handling.
+[00:19] [Receptionist]: Okay. I'll be more than happy to provide you that information. Um, may I have the client's name, please?
+[00:27] [Speaker 2]: Um, I can't give out that information.
+[00:33] [Receptionist]: Okay. Um, what is our client's name?
+[00:42] [Speaker 2]: Like your attorney's name?
+[00:47] [Receptionist]: Or the attorney, yeah, that's handling it.
+[00:53] [Speaker 2]: The attorney name, but I can't give out the claimant's name.
+[00:59] [ ... Silence (10s) ... ]
+[01:09] [Receptionist]: Vain and Associates Law Firm, this is Devin. What is the attorney's name?
+[01:16] [Speaker 2]: I- I don't have the attorney's name on here.
+[01:21] [Receptionist]: Okay. And you're needing to send over some authorization... um, uh, just a second and do you have the name of the person on file? Okay. And you can't provide me the client's name.
+[01:34] [Speaker 2]: Yes, sir.
+[01:37] [Receptionist]: Eddie Brown and... uh, towards who for... and you can try send them to the fax 404... 3... dedicated...
+[01:47] [Speaker 2]: Okay.
+[01:53] [Receptionist]: 393...
+[01:57] [Speaker 2]: Okay.
+[02:00] [Receptionist]: 6107.
+[02:05] [Speaker 2]: Okay, and just confirming 404-393-6107?
+[02:14] [Receptionist]: That's correct.
+[02:17] [Speaker 2]: All right, thank you so much.
+[02:23] [Receptionist]: You're welcome. Um, yes, let's see what we have here. Have a great day. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

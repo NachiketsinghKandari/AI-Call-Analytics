@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karen / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Richard / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karen, how can I help you?
+[00:06] [Richard]: Richard with Progressive Insurance, I was calling on your client Eugene Smith.
+[00:16] [Receptionist]: Give me just one moment, you said Eugene Smith?
+[00:21] [Richard]: Eugene Smith, I'm sorry.
+[00:23] [Receptionist]: Oh, okay.
+[00:24] [ ... Silence (7s) ... ]
+[00:31] [Receptionist]: All right, let me get the case manager on the line, bear with me.
+
+========================================
+TRANSCRIPT END
+========================================

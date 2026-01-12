@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Sydney / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Thomas Mitchell / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Sydney, how can I help you?
+[00:05] [Thomas Mitchell]: Can I speak to John Bey, please?
+[00:09] [Receptionist]: May I know who's calling?
+[00:11] [Thomas Mitchell]: Uh, this is Thomas Mitchell. I'm calling about the Jamaris Davis case. We there's a there's a medical lien and Mr. Bey signed a indemnification agreement with my firm when we settled this case in January and now the sub- the subrogation company that he hired to negotiate that lien is refusing to pay or negotiate and they and they're threatening to sue us, so I need to talk with him pretty soon.
+[00:42] [Receptionist]: Sure. Uh, you said Jamaria?
+[00:44] [Thomas Mitchell]: Jamaris Davis.
+[00:48] [Receptionist]: Give me a second, let me let me try to get his case to see the status. Jamarius, can I have the spelling of that?
+[00:58] [Thomas Mitchell]: I'm sorry, what?
+[01:00] [Receptionist]: The spelling of his first name?
+[01:03] [Thomas Mitchell]: The the child's name is J-A-M-A-R-I-S. It was against the city of East Point.
+[01:14] [Receptionist]: Okay, give me just a moment.
+[01:17] [ ... Silence (17s) ... ]
+[01:34] [Receptionist]: Let me go ahead and place you on brief hold, okay? I'll get back to you in a moment.
+[01:38] [Thomas Mitchell]: Thanks.
+
+========================================
+TRANSCRIPT END
+========================================

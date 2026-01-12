@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to connect the caller to the attorney, and upon finding him unavailable, initiated a transfer to his voicemail.",
+    "call_duration_seconds": 81.5,
+    "call_duration_formatted": "01:21"
+  },
+  "transfer_context": {
+    "destinations": [
+      "legal_counsel_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "After the attorney was unavailable, the receptionist stated she was sending the caller over to voicemail and the call ended."
+  }
+}

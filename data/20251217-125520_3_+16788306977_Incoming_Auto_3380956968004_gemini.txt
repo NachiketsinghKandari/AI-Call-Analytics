@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Carla Valdez / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Carla Valdez]: Excuse me, um, I'm Carla Valdez, I'm calling for, uh, a message for Stephanie.
+[00:16] [Receptionist]: Um, are you a client?
+[00:19] [Carla Valdez]: Ah, can I speak Stephanie?
+[00:26] [Receptionist]: Um, yes you can, but my question is, are you a client?
+[00:30] [Carla Valdez]: Ah, yes.
+[00:32] [Receptionist]: Can I have your name?
+[00:34] [Carla Valdez]: Carla Valdez.
+[00:45] [Receptionist]: Can you spell for me your last name?
+[00:50] [Carla Valdez]: Last name is V-A-L-D-E-Z.
+[00:59] [ ... Silence (13s) ... ]
+[01:12] [Receptionist]: Hmm, nothing show up. Can I have your phone number?
+[01:16] [Carla Valdez]: Uh, it's, uh, 678-830-6977.
+[01:29] [ ... Silence (13s) ... ]
+[01:42] [Receptionist]: Okay, let's see if Stephanie is available. Stay on the line.
+[01:47] [Carla Valdez]: Okay.
+[01:49] [Receptionist]: Carla, thank you for staying on the line. It looks like that Stephanie isn't available. Would you like to leave her a voice message?
+[01:57] [Carla Valdez]: No, thank you.
+[02:01] [Receptionist]: Okay, so anyways I'm going to leave the message saying that you called in order to see if she can return the phone call. All right?
+[02:08] [Carla Valdez]: Okay, thank you. Thank you so much.
+[02:11] [Receptionist]: All right, anything else or that's all?
+[02:13] [Carla Valdez]: No, that's it. Thank you.
+[02:15] [Receptionist]: All right, have a good one. Take care. Bye-bye.
+[02:18] [Carla Valdez]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

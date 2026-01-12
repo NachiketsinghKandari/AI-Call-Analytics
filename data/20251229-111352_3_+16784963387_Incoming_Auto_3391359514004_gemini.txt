@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Renee / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:05] [Renee]: Good morning. My name is Renee, I'm calling from Ike Orthopedics. Who am I speaking with, I'm sorry?
+[00:11] [Receptionist]: Kimmy.
+[00:13] [Renee]: Hey Kimmy. Hey Kimmy, I'm calling from Ike Orthopedics. I'm calling to see if you can provide me with the case managers because I I would need the third party information.
+[00:27] [Receptionist]: Okay. Can I have the client's name?
+[00:29] [Renee]: The last name is Pinkerton. P-I-N-K-E-R-T-O-N. The first name is Demetrius. D-E-M-E-T-R-I-U-S.
+[00:50] [Receptionist]: Okay. That would be Kevin Love. He's the assigned paralegal.
+[00:58] [Renee]: Kevin Love. L-O-V-E?
+[01:01] [Receptionist]: Yes ma'am.
+[01:03] [Renee]: Kimmy, is um... is he available? Hello?
+[01:08] [ ... Silence (6s) ... ]
+[01:14] [Renee]: And what is his email address? Kimmy, what is his email address?
+[01:19] [Receptionist]: It's K Love at Bey and Associates dot com.
+[01:23] [ ... Silence (6s) ... ]
+[01:29] [Renee]: Is he um... available?
+[01:35] [Receptionist]: Yes ma'am. I'll go ahead and transfer you over.
+[01:40] [Renee]: Thanks Kimmy.
+[01:41] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

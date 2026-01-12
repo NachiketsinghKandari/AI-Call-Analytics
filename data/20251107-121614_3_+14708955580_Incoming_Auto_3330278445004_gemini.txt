@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 9 turns
+  • Speaker 2 / Sabrina Menefee / Role: Client: 9 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Hello?
+[00:07] [Sabrina Menefee]: Yes, hello. How are you doing?
+[00:10] [Receptionist]: I'm good, doing good, ma'am. How about yourself?
+[00:13] [Sabrina Menefee]: I'm doing okay. I was calling because, uh, my phone is turned off, so I was calling to give y'all an update on my phone number, my work phone number. My name is Sabrina Menefee, and y'all supposed to be representing me in my car accident last month.
+[00:29] [Receptionist]: Okay, let me pull up your file for you, ma'am. What's that last name one more time?
+[00:34] [Sabrina Menefee]: I said my name is Sabrina Menefee, and y'all are representing me in my car accident I had last month. And, uh, my phone is off, but I got another number y'all can reach me if you really need to call me. It's my work phone. And I just wanted to put that in my file.
+[00:52] [Receptionist]: Alrighty, no problem, ma'am. I can- I can add that. Um, okay, we have the number 470-582-8069 as your cell phone, so that number is currently not working, right?
+[01:07] [Sabrina Menefee]: Yes, yes, yes, correct.
+[01:10] [Receptionist]: What is your work phone?
+[01:12] [Sabrina Menefee]: My work phone number is 470-895-5580.
+[01:20] [Receptionist]: I will let Stephanie know. Stephanie's your case manager. I will let her know to, um, follow up with you on the new number for now, okay?
+[01:31] [Sabrina Menefee]: Okay, thank you.
+[01:33] [Receptionist]: You're welcome.
+[01:34] [Sabrina Menefee]: You have a blessing great day.
+[01:36] [Receptionist]: You too, ma'am. You too. You have a blessed and great day and happy weekend.
+[01:41] [Sabrina Menefee]: Thank you, baby.
+[01:42] [Receptionist]: No problem. You take care, ma'am. Bye-bye.
+[01:45] [Sabrina Menefee]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

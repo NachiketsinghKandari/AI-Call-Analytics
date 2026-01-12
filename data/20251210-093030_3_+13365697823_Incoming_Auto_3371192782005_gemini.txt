@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Diego / Role: Caller from CasePals: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:03] [Diego]: Hi, yes, my name's Diego. I'm calling from CasePals and I was looking to speak with whoever's in charge of operations or IT, if they're available.
+[00:12] [Receptionist]: Yeah, um, that would be with Ms. Brittany Lawson. Let me go ahead and transfer you over.
+[00:17] [Diego]: Thank you.
+[00:18] [Receptionist]: You're welcome. Have a great rest of your day.
+[00:20] [Diego]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Angelo / [Receptionist] / Role: Receptionist at Tim Bey and Associates: 8 turns
+  • Shandra / [Shandra] / Role: State Farm Representative: 8 turns
+
+----------------------------------------
+
+[00:00] [Angelo]: Insurance at Tim Bey and Associates, this is Angelo, how may I help you?
+[00:09] [Shandra]: Hey Angelo, my name is Shandra, I'm calling from State Farm, calling in regards to your client Kyle Riley.
+[00:16] [Angelo]: Yes, what do you want me to check?
+[00:19] [Shandra]: I'm trying to, um, follow up. Is he going to be treating medical treatment, is he going to be treating out of Georgia or Illinois?
+[00:30] [Angelo]: Let me check. Can I, can you confirm for me what is the date of loss?
+[00:38] [Shandra]: Sure, date of loss is October 23rd, 2025.
+[00:43] [Angelo]: Yes, thank you. And you are calling from who?
+[00:47] [Shandra]: From State Farm.
+[00:51] [Angelo]: Insured, it will be treated in Georgia.
+[00:55] [Shandra]: He will be treating in Georgia?
+[00:58] [Angelo]: Yes, because by Insight Neuro, which shows Georgia, First Spine Specialists in Atlanta, Georgia. So yes, that's finished.
+[01:06] [Shandra]: Okay, um, I'll need to update the records. Thank you.
+[01:11] [Angelo]: No issue at all. Anything else? Or that's it?
+[01:15] [Shandra]: No, that'll be it. Thank you.
+[01:18] [Angelo]: All right, have a good one. Bye-bye.
+[01:21] [Shandra]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

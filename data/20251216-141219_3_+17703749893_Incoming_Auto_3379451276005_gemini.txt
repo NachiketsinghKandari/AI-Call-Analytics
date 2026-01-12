@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Yolanda Singleton / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Daniel from Bey and Associates, how may I help you?
+[00:06] [Yolanda Singleton]: Yes, is Mrs. Thompson in the office today?
+[00:10] [Receptionist]: Are you a client?
+[00:12] [Yolanda Singleton]: Yes, I'm a client.
+[00:14] [Receptionist]: And may I have your name?
+[00:16] [Yolanda Singleton]: Yolanda Singleton.
+[00:19] [ ... Silence (10s) ... ]
+[00:29] [Receptionist]: And may I know a reason why you wish to talk with Dante Thompson, with Mr. Thompson? The reason why, in order to let him know.
+[00:34] [ ... Silence (15s) ... ]
+[00:49] [Receptionist]: Hello? Sorry, I cannot hear you. Are you on mute?
+[00:58] [Yolanda Singleton]: I need an update on my case.
+[01:03] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

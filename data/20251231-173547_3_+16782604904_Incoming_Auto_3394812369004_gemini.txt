@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Michael / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Emma. How can I help you?
+[00:05] [Michael]: Yes, I'm looking for a consultation.
+[00:08] [Receptionist]: Sure, I can help with that. May I have your name?
+[00:12] [Michael]: Yes, Michael.
+[00:14] [Receptionist]: Thank you, Michael. Let me get you connected for a consultation.
+[00:19] [Michael]: All right.
+
+[ ... Silence (304s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

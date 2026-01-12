@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] (Kim) / Role: Receptionist at Bae and Associates: 7 turns
+  • Dora / Role: Representative from Lofty: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bae and Associates, Kim speaking.
+[00:04] [Dora]: Hello, my name is Dora, I'm calling from Lofty. I have Dwayne on the line, last name is Slonska. He has a medical malpractice matter pending, I think it's for Natasha Bowden.
+[00:17] [Receptionist]: Okay, I can transfer you over to Natasha.
+[00:21] [Dora]: Okay.
+[00:23] [ ... Silence (6s) ... ]
+[00:29] [Receptionist]: Looks like Natasha is, is, um, on lunch. Just one second. You said Dwayne and what's his last name?
+[00:44] [Dora]: Slonska, S as in Sam, L-A-N as in Nancy, C-Z-K-A.
+[00:53] [Receptionist]: Okay, um, could you spell that one more time? Sorry, I kind of blanked out there.
+[01:01] [Dora]: Yeah, yeah. S as in Sam, L-A-N as in Nancy, C-Z-K-A.
+[01:07] [Receptionist]: All right. [ ... Silence (25s) ... ] Give me one second.
+[01:34] [Receptionist]: Um, it seems like she's not available right now. Um, I think she's on lunch. I can have her reach out to him once, um, when she's back.
+[01:46] [Dora]: Okay, yeah. Um, I'll definitely follow up on the email as well. Thank you.
+[01:50] [Receptionist]: All right, thank you too. Bye-bye.
+[01:53] [Dora]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

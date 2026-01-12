@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Martin Drake / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Lionel.
+[00:07] [Martin Drake]: Hi, this is Martin Drake with Asperion. May I speak with attorney Michael Soul, please?
+[00:13] [Receptionist]: For which case?
+[00:17] [Martin Drake]: Uh, this is going to be Elizabeth Cole.
+[00:21] [Receptionist]: One moment.
+[00:22] [ ... Silence (14s) ... ]
+[00:36] [Receptionist]: Thank you so much for holding. He's not available. Um, do you want to leave a voicemail?
+[00:42] [Martin Drake]: I'll send an email. That's fine. Thank you.
+[00:45] [Receptionist]: Awesome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

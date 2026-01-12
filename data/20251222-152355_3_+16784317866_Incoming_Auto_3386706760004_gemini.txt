@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Dorian O'Neal / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:04] [Dorian O'Neal]: Hi, may I speak to Wendel, please?
+[00:07] [Receptionist]: Yes, can I have your name?
+[00:10] [Dorian O'Neal]: Dorian O'Neal.
+[00:12] [Receptionist]: All right, looks like she's on another call right now, would you like to leave her a voicemail?
+[00:18] [Dorian O'Neal]: Um, I wonder if you guys would have any information on the police report, if you guys would have it, would you be able to find that or should I wait on her call?
+[00:25] [Receptionist]: Okay, let me see, you said Dorian?
+[00:27] [Dorian O'Neal]: Yes.
+[00:31] [Receptionist]: Okay, last name?
+[00:33] [Dorian O'Neal]: O'Neal, O-N-E-A-L.
+[00:36] [Receptionist]: Okay, let me see if we have the police— no, police report is still pending, it's not ready yet. Um, I see that they called the police department for updates, they said, um, it has been sent back to the officer for correction.
+[00:56] [Dorian O'Neal]: Is that normal?
+[00:58] [Receptionist]: Yes, sir. Sometimes they would, um, do like a mistake on the police report, so then they would, um, have to send it back for them to correct. It's perfectly normal. It's, I mean, rare, but normal.
+[01:14] [Dorian O'Neal]: Okay. All right, well thank you so much for your time.
+[01:17] [Receptionist]: You're welcome. You have a great rest of your day, sir.
+[01:20] [Dorian O'Neal]: You too.
+[01:21] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

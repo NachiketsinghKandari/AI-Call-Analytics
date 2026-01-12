@@ -1,0 +1,79 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 26 turns
+  • Speaker 2 / Rose White / Role: Caller from Neurospine: 25 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, my name is Fatima, how may I assist you today?
+[00:07] [Rose White]: Yes, hi Fatima, this is Rose White, connecting on behalf of Neurospine, how are we doing today?
+[00:13] [Receptionist]: I am very well, how about you? How can I help?
+[00:16] [Rose White]: Perfect. I'm very well too, thank you so very much for asking. So just reaching out to get an update for some of the personal injury clients.
+[00:25] [Receptionist]: All right, may I please have the first client's first and last name?
+[00:29] [Rose White]: The first client's first name is Jonquille, spelled as J-O-N-Q-U-E-L-L-E, last name is Grimes, G-R-I-M-E-S.
+[00:46] [Receptionist]: Thank you, bear with me while I search in our system.
+[ ... Silence (7s) ... ]
+[00:53] [Receptionist]: The date of loss was on August 9 of this year?
+[01:00] [Rose White]: Exactly.
+[01:02] [Receptionist]: All right, here we go. This status for this account is in pre-litigation demand.
+[01:09] [Rose White]: In pre-litigation demand, got it. And the next one is James, J-A-M-E-S, last name is Berry, B-E-R-R-Y, James Berry.
+[01:23] [Receptionist]: Thank you, bear with me.
+[ ... Silence (6s) ... ]
+[01:31] [Receptionist]: Date of loss September 4th?
+[01:35] [Rose White]: Uh, September 2nd, as I can see it's 2025 September 2nd.
+[01:41] [Receptionist]: Oh, I got it as a September 4th. This one is in pre-litigation demand. I'm sorry?
+[01:48] [Rose White]: In pre-litigation demand, got it. No, nothing. In pre-litigation demand. Got it. And the next one is Donna, D-O-N-N-A, last name is Surat, spelled as S-U-R-R-A-T, Donna Surat.
+[02:08] [Receptionist]: Can you please spell that last that last name?
+[02:12] [Rose White]: No worries, it's S-U-R-R-A-T, T as in Tom. Donna Sorat or Surat, whatever. I don't know how to spell it.
+[02:26] [Receptionist]: Me neither. Um, that is going to be the date of loss for August the 29th?
+[02:33] [Rose White]: Exactly, you got it.
+[02:35] [Receptionist]: All right, so this one is in pre-litigation treating.
+[02:41] [Rose White]: Pre-litigation treating, got it. And the next one is gonna be Dominique, spelled as D-O-M-I-N-I-Q-U-E, Dominique, last name is Lester, L-E-S-T-E-R.
+[03:02] [Receptionist]: Thank you, bear with me.
+[03:07] [Receptionist]: Date of loss August the 27th?
+[03:11] [Rose White]: Exactly.
+[03:12] [Receptionist]: This one is in pre-litigation reduction.
+[03:17] [Rose White]: Pre-litigation reductions, got it. And the next one is gonna be Derek, D-E-R-R-I-C-K, last name Felder, S-E-L-D-E-R.
+[03:32] [Receptionist]: S-E, I'm sorry, I I lost you after that.
+[03:36] [Rose White]: No worries, last name is Felder, Felder, starting from F, F as in Frank, E as in Edward, L as in Lima, D as in David, E as in Edward, R as in Romeo, so it's F-E-L-D-E-R.
+[03:51] [Receptionist]: Thank you.
+[ ... Silence (8s) ... ]
+[04:01] [Rose White]: I believe we have missed out something in the spelling, let me repeat that to you again, so you can tally accordingly. First name is Derek, spelled as D-E, D as in David, E-R-R-I-C-K. Last name Felder, F-E-L-D-E-R.
+[04:21] [Receptionist]: Okay.
+[04:26] [Receptionist]: The last name is S as in Sam, E-L...
+[04:29] [Rose White]: No, F as in Frank, F as in Frank, Felder.
+[04:34] [Receptionist]: F as in Frank, Felder, okay I got that, spelled completely wrong.
+[ ... Silence (8s) ... ]
+[04:42] [Receptionist]: The date of loss was on July 9?
+[04:48] [Rose White]: Yeah, you got it.
+[04:50] [Receptionist]: Okay, found it. So this one is in pre-litigation negotiations.
+[04:56] [Rose White]: Pre-litigation negotiations, got it. And then we have the second last, it's Angela, A-N-G-E-L-A, last name is Eubanks, spelled as E-U-B-A-N-K-S.
+[05:18] [Receptionist]: Is that B as in Bravo?
+[05:24] [Rose White]: Uh, are you asking me about the last name or first?
+[05:27] [Receptionist]: The last name, Eubanks.
+[05:29] [Rose White]: Eubanks, starting from E, E as in Edward, then U, U as in umbrella, then the word banks, B-A-N-K-S.
+[05:40] [Receptionist]: Banks, right? All right, so the date of loss was on September 7.
+[05:47] [Rose White]: Yes.
+[05:49] [Receptionist]: This one is in pre-litigation treating.
+[05:53] [Rose White]: Pre-litigation treating. Then we have the last one, it's gonna be Andrew, A-N-D-R-E-W, last name is Whitfield, spelled as W-H-I-T-F-I-E-L-D, Whitfield.
+[06:15] [Receptionist]: Andrew Whitfield.
+[06:18] [Rose White]: Yes, Andrew Whitfield.
+[06:21] [Receptionist]: Bear with me.
+[ ... Silence (6s) ... ]
+[06:29] [Receptionist]: The date of loss was on September 2nd?
+[06:34] [Rose White]: Yes, you got it.
+[06:36] [Receptionist]: All right, so this one is in pre-litigation medicals.
+[06:41] [Rose White]: Pre-litigation medicals, okay. So it means they are gathering medical records and all, right?
+[06:51] [Receptionist]: I am going to assume, yeah.
+[06:54] [Rose White]: Perfect. And your name please?
+[06:57] [Receptionist]: Fatima.
+[06:59] [Rose White]: Fatima, got it Fatima, such a lovely name that you have. Thank you.
+[07:05] [Receptionist]: Thank you, you're so welcome. Bye-bye.
+[07:08] [Rose White]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

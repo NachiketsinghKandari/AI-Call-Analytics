@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jazzy / Role: Receptionist at Bey and Associates: 15 turns
+  • Speaker 2 / Unknown / Role: Caller: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jazzy, how can I assist you?
+[00:06] [Unknown]: Hi, I am calling from NRS Injury Law and we have a mutual client, your uh firm referred them to us and I was just trying to see if you had updated contact information for this person.
+[00:20] [Receptionist]: Understood. What is the name of the client, ma'am?
+[00:22] [Unknown]: Davey, D-A-V-E-Y, Massey, M-A-S-S-I-E.
+[00:31] [Receptionist]: All right, give me one moment.
+[00:33] [Unknown]: Sure, thank you.
+[00:35] [ ... Silence (6s) ... ]
+[00:41] [Receptionist]: All right, so well, this is what I can do, ma'am. The contact information that I have is his phone number only. Uh, I have his phone number right here. However, there is a case manager, I can provide you with the phone number and I can transfer you over to her if you like.
+[00:52] [Unknown]: That'd be fine. Yeah, thank you.
+[00:54] [Receptionist]: Understood. So the phone number that I have on file would be uh, give me one moment. It's at 937-756— no, sorry, 765, my bad.
+[01:08] [Unknown]: Okay.
+[01:09] [Receptionist]: 765-2684.
+[01:12] [Unknown]: Yeah, we have the same. So yes, if the case manager's available, that'd be great. Maybe she has some other information I don't.
+[01:20] [Receptionist]: Understood. Give me one moment. Uh, do you allow me to place you on a brief hold for one minute?
+[01:25] [Unknown]: Of course. Thank you.
+[01:27] [Receptionist]: Thank you.
+[01:28] [ ... Silence (10s) ... ]
+[01:38] [Receptionist]: All right, thank you so much for holding, ma'am.
+[01:40] [Unknown]: Sure.
+[01:41] [Receptionist]: Let me tell you. So it looks like that the case manager is not available at the moment. What I can do on my end is I can— I can provide you with his email so you can send one and he can get back to you as soon as possible, ma'am.
+[01:52] [Unknown]: Oh, that would be great because we don't have an email address for him. Thank you.
+[01:56] [Receptionist]: Understood. So let me know when you're ready.
+[01:58] [Unknown]: Yes.
+[02:00] [Receptionist]: It would be Matt, M-A-T-T, Matt, at Bey, B-E-Y, and, A-N-D, associates.com.
+[02:10] [Unknown]: Okay. So it is just matt@beyandassociates.com?
+[02:13] [Receptionist]: Right, yes, ma'am. And his name is Matt and last name would be McCarren with a double R, McCarren.
+[02:19] [Unknown]: Okay, great. Thank you so much, I appreciate it.
+[02:22] [Receptionist]: Thank you so much, ma'am. Can I help you with anything else?
+[02:24] [Unknown]: No, that's it. Thank you. Have a great day.
+[02:26] [Receptionist]: You too. Goodbye.
+[02:28] [Unknown]: Thanks, bye.
+
+========================================
+TRANSCRIPT END
+========================================

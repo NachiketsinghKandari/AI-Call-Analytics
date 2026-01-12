@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Chelsea Solomon / Role: Caller from Allstate: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, what can I do for you?
+[00:04] [Chelsea Solomon]: Hello, my name is Chelsea Solomon, I'm calling from Allstate, I was calling in reference to the client Bernard Vaughn, I was calling to get injuries and treatment status.
+[00:16] [Receptionist]: All right, you know, uh, the case managers and attorneys are off during the entire week, so I won't be able to help you with that. If you want, I can, uh, send you to the case manager's voicemail?
+[00:30] [Chelsea Solomon]: That's fine.
+[00:32] [Receptionist]: So, provide me again with the name of the client, please.
+[00:36] [Chelsea Solomon]: The client is Bernard, and that's B-E-R-N-A-R-D, Vaughn, V-A-U-G-H-N.
+[00:46] [Receptionist]: All right, let me see. Oh yeah, um, yeah, Linda's not here. Let me transfer you over to her voicemail, okay?
+[00:53] [Chelsea Solomon]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

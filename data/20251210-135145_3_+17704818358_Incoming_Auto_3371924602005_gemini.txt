@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Rosemary / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Alex Parton / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Rosemary speaking, how can I help you?
+[00:06] [Alex Parton]: Hi, yes, is this— is this Mr. John Bey, please?
+[00:09] [Receptionist]: He's not available at the moment, who's calling?
+[00:12] [Alex Parton]: Yeah, my name is Alex Parton, and uh, does he have a voicemail?
+[00:16] [Receptionist]: Alex Parton, I can send you to his assistant's voicemail, if that's okay?
+[00:22] [Alex Parton]: Okay, great, thank you.
+[00:24] [Receptionist]: Okay, then, just one moment.
+
+========================================
+TRANSCRIPT END
+========================================

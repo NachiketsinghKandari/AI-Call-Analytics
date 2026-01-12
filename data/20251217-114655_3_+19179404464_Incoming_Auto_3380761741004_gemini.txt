@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Unknown / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [Speaker 2]: Hi, good— good morning. Can you hear me?
+[00:13] [Receptionist]: Yes.
+[00:15] [Speaker 2]: Hi, I am interested in getting a free consultation to find out if there's any or referral for a problem I have.
+[00:30] [Receptionist]: Um, what type of case, I'm sorry?
+[00:34] [Speaker 2]: It's a criminal case.
+[00:39] [Receptionist]: Okay, because we just handle personal injury cases.
+[00:43] [Speaker 2]: Oh, okay. All right, well, I'll continue trying to look for more. Oh, well, quick question. When looking for somebody, should I be looking for solicitor's office also or public defender's office and like what's the difference?
+[00:58] [Receptionist]: Um, are you in Georgia?
+[01:01] [Speaker 2]: No, um, but the first what what I'm looking for is for the person to they're in jail but they want to go be transferred from a prison in South Carolina to Georgia. So that's the issue. So...
+[01:19] [Receptionist]: Okay, because your best option then is to contact the Georgia Association's Bar, the Georgia Bar, so they can...
+[01:28] [Speaker 2]: Right. That's what I'm trying to do. That and that's how I got your number. Um, I'm looking on a list of of Georgia attorneys, but I but as I've been looking through the list, I'm also seeing, you know, things that say solicitor's office as well as what's the other one? There's public defender. So I'm not sure which ones I should be clicking on.
+[01:52] [Receptionist]: Okay.
+[01:54] [Speaker 2]: Okay, so but yours is injury though. Okay, personal injury.
+[01:58] [Receptionist]: Yeah.
+[02:00] [Speaker 2]: And nope, that's not it. Okay, well, thank you so much for taking the call. Have a wonderful day.
+[02:05] [Receptionist]: You too.
+[02:06] [Speaker 2]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

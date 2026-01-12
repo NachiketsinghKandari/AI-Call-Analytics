@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Katina Daily / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:05] [Katina Daily]: Hi, may I speak to a Taylor Middleton?
+[00:09] [Receptionist]: Yes, can I have your name?
+[00:12] [Katina Daily]: My name is Katina Daily and I'm calling from Progressive Insurance.
+[00:19] [Receptionist]: On behalf of which client?
+[00:22] [Katina Daily]: Um, Gregory Moore.
+[00:25] [Receptionist]: Okay. One second.
+[ ... Silence (16s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Sarah Rodriguez / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you?
+[00:05] [Sarah Rodriguez]: Hello, how are you? Good afternoon.
+[00:08] [Receptionist]: Good, thank you. How are you?
+[00:10] [Sarah Rodriguez]: Good. Yes, my name is Sarah Rodriguez and I am the executive assistant to DA Howard. I am calling in reference to her invitation to your holiday soirée tomorrow. Is there anyone that I am able to touch base with regarding the number of guests that she is able to bring?
+[00:30] [Receptionist]: Uh, give me one moment.
+[00:33] [ ... Silence (5s) ... ]
+[00:38] [Receptionist]: Yes, let me try to transfer you over to— if you get the voicemail leave a voicemail and he will call back, okay?
+[00:44] [Sarah Rodriguez]: Okay. Wonderful. Thank you so much.
+[00:47] [Receptionist]: Welcome.
+
+========================================
+TRANSCRIPT END
+========================================

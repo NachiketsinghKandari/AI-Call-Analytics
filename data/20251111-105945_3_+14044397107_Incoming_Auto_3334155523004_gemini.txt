@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 11 turns
+  • Speaker 2 / Sydney / Role: Progressive Auto Claims representative: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thanks for calling Bay and Associates, this is Angelo, how may I help you?
+[00:08] [Sydney]: Hi, this is Sydney with Progressive Auto Claims, calling you, um, on your client Kyasia Spann.
+[00:15] [Receptionist]: Kyasia, let's see, how do you spell Kyasia?
+[00:18] [Sydney]: It's K-Y-A-S-I-A.
+[00:22] [Receptionist]: K-Y-A-S-I-A. And you are calling from who, sorry?
+[00:28] [Sydney]: Progressive Auto Claims.
+[00:31] [Receptionist]: Thank you so much for confirming. Tell me, how may I help you?
+[00:34] [Sydney]: Yep, I just wanted to know if I could talk to your client regarding her property damage.
+[00:44] [Receptionist]: And so would you like to talk with our client about this?
+[00:48] [Sydney]: Yeah, I'm asking for permission to talk to her just about property damage.
+[00:52] [Receptionist]: All right, let me, do you have like her information?
+[00:57] [Sydney]: I do, I just, you guys represent her so I need to make sure it's okay with you first.
+[01:01] [Receptionist]: Okay, let me go ahead and consult with the case manager to see if we can give out that permission, that is okay? Give me just one minute. Thank you so much.
+[01:12] [Receptionist]: Hello?
+[01:14] [Sydney]: I'm here.
+[01:15] [Receptionist]: Thank you so much for staying on the line. So I was consulting with the case manager and they allow us to give you the permission to talk with the client for property damage only.
+[01:27] [Sydney]: Okay, perfect. Yeah, that's all I'll discuss.
+[01:30] [Receptionist]: Yes, thank you so much. Anything else or that's all?
+[01:33] [Sydney]: Okay, that's it. Thank you so much.
+[01:36] [Receptionist]: All right, have a good one. Bye-bye.
+[01:38] [Sydney]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

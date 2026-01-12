@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimi / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Jasmere / Role: Caller from AICA Orthopedics: 10 turns
+
+----------------------------------------
+
+[00:00] [Kimi]: Bey and Associates, Kimi speaking.
+[00:07] [Jasmere]: Hi, good afternoon, Kimi. This is Jasmere from AICA Orthopedics. I'm calling in regards to one of our patients, well, there're two from the same accident. The first one is Ciara Shaw. C as in Charlie, I-A-R-A. Last name Shaw, S-H-A-W. And the date of incident is September 30th, 2025.
+[00:37] [Kimi]: Okay, what was the first name?
+[00:40] [Jasmere]: Ciara, um, C as in Charlie, I-A-R-A.
+[00:46] [Kimi]: Okay. [ ... Silence (7s) ... ] Okay, so this one is in pre-lit treating. Um, do you need to speak with the case manager or anything?
+[01:04] [Jasmere]: Yes. Who's the case manager?
+[01:07] [Kimi]: Paige Almon. P-A-Y-G-E. A-L-M-O-N. Like the nut, but without the D.
+[01:21] [Jasmere]: Got it. And then the email, just to confirm, is paige@beyandassociates.com?
+[01:26] [Kimi]: Yeah, P-A-Y-G-E.
+[01:28] [Jasmere]: Okay. Perfect. Um, yes, if you don't mind, go ahead and get me transferred. I need to speak with the, um...
+[01:36] [Kimi]: I do see she's on another call right now. Would you like her direct number?
+[01:41] [Jasmere]: Yes, please.
+[01:43] [Kimi]: 470-615-0715. I can send you to her voicemail if you wish.
+[01:52] [Jasmere]: Um, I actually, it's still—it's still the—the—the—the—the—as of now, so I was wondering if I can speak with her. Do you know when can I call back at what time?
+[02:04] [Kimi]: You could call like in another, I would say, 5, 10 minutes. She's just on another call right now.
+[02:11] [Jasmere]: Right. Okay. I'll go ahead and call, um, in like 10, 15 minutes.
+[02:16] [Kimi]: Mm-hmm. You can call her direct number.
+[02:18] [Jasmere]: Okay. Thank you so much.
+[02:20] [Kimi]: You're welcome. Have a great day.
+[02:22] [Jasmere]: You too. Goodbye.
+[02:23] [Kimi]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

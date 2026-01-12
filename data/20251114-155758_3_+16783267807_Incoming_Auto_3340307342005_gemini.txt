@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dainel / Role: Receptionist at Banas and Associates: 6 turns
+  • Speaker 2 / Martha Stark / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Banas and Associates. This is Dainel.
+[00:07] [Martha Stark]: Who am I speaking with?
+[00:09] [Receptionist]: Dainel.
+[00:11] [Martha Stark]: Dainel. How you doing?
+[00:14] [Receptionist]: Fine, what about you?
+[00:16] [Martha Stark]: Okay, um, my name is Martha Stark and I also have my husband here with me and we would like to ask a few questions please.
+[00:24] [Receptionist]: Um, honestly, I'm not your case manager so I'm just an intake. Um, I can try to answer but the best way is to talk to your case manager.
+[00:32] [Martha Stark]: Well, could you make sure that she calls us please?
+[00:37] [Receptionist]: Yes, I can send her an email so that she can get back to you.
+[00:42] [Martha Stark]: Thank you very much.
+[00:43] [Receptionist]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

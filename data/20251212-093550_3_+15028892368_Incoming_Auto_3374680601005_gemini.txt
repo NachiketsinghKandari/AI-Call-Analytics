@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Jeff / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:08] [Jeff]: Yes, this is Jeff with Georgia Medicaid. I am looking for the case manager on the Taylor Sanders case.
+[00:17] [ ... Silence (17s) ... ]
+[00:34] [Receptionist]: You said you're calling from where?
+[00:36] [Jeff]: Georgia Medicaid.
+[00:45] [Receptionist]: Thank you so much for holding. The person in charge is not available. Do you want to leave a voicemail?
+[00:51] [Jeff]: Yes, who is that person?
+[00:53] [Receptionist]: Matt. His name is Matt.
+[00:57] [Jeff]: Matt? M-A-T-T?
+[01:00] [Receptionist]: Yes.
+[01:02] [Jeff]: Okay, yes, if you could transfer to his voicemail, I'll leave a voicemail for him.
+
+========================================
+TRANSCRIPT END
+========================================

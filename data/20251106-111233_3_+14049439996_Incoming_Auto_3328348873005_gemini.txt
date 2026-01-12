@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 10 turns
+  • Speaker 2 / Keuana Cullen / Role: Representative at Regional Medical Group: 11 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bay and Associates, Kim speaking.
+[00:06] [Keuana Cullen]: Good morning. This is Keuana Cullen from Regional Medical Group. How are you?
+[00:11] [Receptionist]: I'm doing well. Thank you for asking. How can I help?
+[00:14] [Keuana Cullen]: Yes, I was wondering if I could get the case manager email for three of y'all's clients.
+[00:19] [Receptionist]: Sure. Can I have the client's name?
+[00:22] [Keuana Cullen]: Yes. The first one name is Joseph. Last name is spelled H-A-Y-N-E-S.
+[00:30] [ ... Silence (8s) ... ]
+[00:38] [Receptionist]: You said Joseph and then it's H-E-
+[00:45] [Keuana Cullen]: No, H-A as in apple, Y, N as in Nancy, E-S.
+[00:52] [Receptionist]: That would be Victoria Morales. And then her email would be Victoria, V-I-C-T-O-R-I-A, at Bay, B-E-Y, and, A-N-D, Associates, with an S, dot com.
+[01:14] [Keuana Cullen]: All right. The next one would be Miss Carrie, last name Fleming. And that's with one M.
+[01:20] [ ... Silence (10s) ... ]
+[01:30] [Keuana Cullen]: C-A-R-R-I-E.
+[01:35] [ ... Silence (12s) ... ]
+[01:47] [Receptionist]: Fleming, right?
+[01:49] [Keuana Cullen]: Yes. F-L-E-M-I-N-G.
+[01:54] [ ... Silence (6s) ... ]
+[02:00] [Receptionist]: Tyauna, T-Y-A-U-N-A, at bayandassociates.com.
+[02:11] [Keuana Cullen]: Got you. And then the last one would be Miss Hillary Brown. So it's H-I-L-L-A-R-Y.
+[02:18] [ ... Silence (7s) ... ]
+[02:25] [Receptionist]: That would be Victoria also.
+[02:27] [Keuana Cullen]: Got you. By any chance, would Miss Tyauna be in the office at this time?
+[02:33] [ ... Silence (9s) ... ]
+[02:42] [Receptionist]: I can send you over.
+[02:46] [Keuana Cullen]: Okay, that's fine.
+[02:47] [Receptionist]: Would you like me to transfer?
+[02:48] [Keuana Cullen]: Yes, please. Yes, please. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

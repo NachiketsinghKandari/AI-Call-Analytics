@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Regina / Role: Caller from Chris Regional Hospital: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Lionel, Bey and Associates, how may I help you?
+[00:05] [Regina]: Is this Bey and Associates?
+[00:08] [Receptionist]: Yes, how may I help you?
+[00:10] [Regina]: This is Regina at Chris Regional Hospital in the medical records department. I received a request from y'all on Lakeisha Law.
+[00:21] [Receptionist]: Let's see.
+[00:23] [ ... Silence (13s) ... ]
+[00:36] [Receptionist]: And would you like to talk with the case manager?
+[00:38] [Regina]: Please.
+[00:40] [Receptionist]: Hold the line, let me see if he's available.
+[00:46] [Receptionist]: Thank you for staying on the line. Looks like the case manager is unavailable. Would you like to leave for a voice message?
+[00:53] [Regina]: That's fine.
+
+========================================
+TRANSCRIPT END
+========================================

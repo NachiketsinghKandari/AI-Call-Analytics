@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist: 4 turns
+  • Vanessa / Role: Oasis Financial: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling, this is Steven speaking.
+[00:04] [Vanessa]: Hi, good afternoon. Is there somebody I can speak to on client Candy Faulkner?
+[00:11] [Receptionist]: Let me go ahead here and get you put into the page. May I ask who you're calling from?
+[00:18] [Vanessa]: Uh, yes, I am, uh, calling with Oasis Financial. My name is Vanessa.
+[00:24] [Receptionist]: Okay. Hey, Vanessa. No problem. Let me put you on a brief hold and get you over to her, okay?
+[00:30] [Vanessa]: Thanks so much.
+[00:32] [Receptionist]: I'm sorry about that. Seems like the case manager is away from her desk. I can get you over to her voicemail so you can leave her a call?
+[00:42] [Vanessa]: Yeah, sounds great. Thank you so much.
+[00:44] [Receptionist]: All right, no problem.
+
+========================================
+TRANSCRIPT END
+========================================

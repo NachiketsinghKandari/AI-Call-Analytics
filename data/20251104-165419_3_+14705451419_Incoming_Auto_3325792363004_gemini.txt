@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Evan / Role: Receptionist at Bey Law Firm: 14 turns
+  • [Don] / Don / Role: Caller from Employment Partners: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey Law Firm, Evan speaking.
+[00:05] [Don]: It's Don here with Employment Partners in Atlanta, how you?
+[00:10] [Receptionist]: I'm very great, how are you?
+[00:12] [Don]: Looking to speak to John, please.
+[00:14] [Receptionist]: Mr. Bey is not available, but I can get you over to his assistant's line.
+[00:19] [Don]: That would be helpful, please.
+[00:21] [Receptionist]: Okay, let me get you over to Dontay.
+[00:25] [Don]: And, and quick question, is John the person making decision on payroll and HR, or would that be somebody else?
+[00:31] [Receptionist]: That would be Brittany Lawson.
+[00:34] [Don]: Brittany Lawson?
+[00:37] [Receptionist]: Mhm.
+[00:39] [Don]: Yeah, I can take Brittany, please.
+[00:42] [Receptionist]: Okay.
+[00:44] [Receptionist]: So let me transfer you over there. She's not available today, unfortunately, but she will return to office tomorrow. I can get you over to her voicemail, you can leave a message.
+[00:55] [Don]: Instead of phone tag, let me just go ahead and shoot her a quick email. What's her email?
+[01:00] [Receptionist]: It would be Brittany, that's B-R-I-T-T-A-N-Y...
+[01:10] [Don]: B-R-I-T-T-A-N-Y, okay, at...
+[01:12] [Receptionist]: At Bey and Associates dot com. That's B-E-Y, yes sir, B-E-Y, the word and will be spelled out, A-N-D, okay, Associates will be plural dot com. And just going over it again, that's B-R-I-T-T-A-N-Y at B-E-Y-A-N-D-A-S-S-O-C-I-A-T-E-S dot com.
+[01:30] [Don]: And you guys are still using Resourcing Edge for your payroll and benefits, Resourcing Edge, or you use ADP now or Insperity?
+[01:46] [Receptionist]: Um, to be honest with you, sir, I wouldn't have that information.
+[01:52] [Receptionist]: I'm in a whole different department, yes sir, I'm in a whole different department.
+[01:57] [Don]: Okay, says you guys have about 45 employees, that sound about right?
+[02:02] [Receptionist]: Correct.
+[02:04] [Don]: Okay, I'll go ahead and reach out to Brittany. Thanks so much.
+[02:07] [Receptionist]: You're welcome, sir.
+[02:09] [Don]: Yeah, take care.
+
+========================================
+TRANSCRIPT END
+========================================

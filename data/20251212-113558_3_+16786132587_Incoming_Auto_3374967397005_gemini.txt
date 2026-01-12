@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Unknown / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you?
+[00:04] [Unknown]: Hello, um, I'm calling from Checkers Plus, uh, Checkers... Checkers Business, I'm trying to verify a check.
+[00:12] [Receptionist]: Okay, who's the client?
+[00:14] [Unknown]: Uh, the client is Curtis Gaden.
+[00:20] [Receptionist]: Mr. Gaden, one moment, yep, he picked up his check. I can... I can verify that, give me one second.
+[00:28] [Unknown]: That's okay.
+[00:33] [Receptionist]: Yeah, it's a check for $5,000, check number 39218.
+[00:41] [Unknown]: Yes, uh, the check is good to cash, right?
+[00:44] [Receptionist]: Yes.
+[00:46] [Unknown]: Alright, thank you.
+[00:47] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

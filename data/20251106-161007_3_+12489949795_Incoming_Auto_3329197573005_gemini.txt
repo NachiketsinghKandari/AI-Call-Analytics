@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bae and Associates: 5 turns
+  • Speaker 2 / [Sandy] / Role: Representative at Allstate Insurance: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bae and Associates, Kimmy speaking?
+[00:05] [Sandy]: Yes, this is Sandy with Allstate Insurance, how are you this afternoon?
+[00:13] [Receptionist]: I'm doing well, how about yourself?
+[00:15] [Sandy]: I'm doing well. I'm calling to speak with Nick Abeda in regards to your client Hughes Adrian.
+[00:23] [Receptionist]: Okay, Nick Abeda. I do see that he's on another call right now. Um... Would you like to leave him a voicemail?
+[00:32] [Sandy]: Sure, that's fine, not a problem.
+[00:34] [Receptionist]: Alrighty, sending you over, have a great rest of your day.
+[00:38] [Sandy]: You too, take care.
+[00:39] [Receptionist]: Thank you, you too.
+
+========================================
+TRANSCRIPT END
+========================================

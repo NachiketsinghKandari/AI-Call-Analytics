@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Paul / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm. My name is Fatima. How may I assist you today?
+[00:07] [Paul]: Hello ma'am. Um, good afternoon. My name is Paul and I'm calling on behalf of Gwinnett Emergency Specialists. I'm just follow-up status of a case. Uh, the patient name is Jesse Aguirre.
+[00:23] [Receptionist]: Is that with a double R E or one?
+[00:29] [Paul]: Uh, double R E. A-U-G-I-double R-E.
+[00:36] [Receptionist]: Just bear with me one moment.
+[00:39] [Paul]: Sure. Oh, the date of accident is August 17th of 2024.
+[00:45] [ ... Silence (5s) ... ]
+[00:50] [Receptionist]: August 17th of 2024.
+[00:53] [Paul]: That's correct. August.
+[00:57] [Receptionist]: Then according to that date of loss, I do not have that client on file. Do you have a phone number that I may search through the phone number?
+[01:08] [Paul]: Uh, the phone number is for uh Jesse Aguirre 770-851-9486.
+[01:21] [Receptionist]: Just to confirm that I have the right client.
+[01:24] [ ... Silence (17s) ... ]
+[01:41] [Receptionist]: No, I don't see that.
+[01:43] [Paul]: Um, well, I have here...
+[01:45] [Receptionist]: Oh, wait. Yeah, I found it. Oh, I found it. That is okay. So the status of this client is in pre-litigation closing.
+[01:51] [Paul]: Okay. Well, I will update my file here and uh, but anyway ma'am, uh may I ask for a good callback date to follow up again on this case?
+[02:06] [Receptionist]: The same number you're calling is completely fine. I don't have an AM or a case manager assigned to it. Uh, so I cannot give you a case manager.
+[02:16] [Paul]: I'm sorry. I mean a callback date.
+[02:18] [Receptionist]: I'm sorry. A callback date. Uh, I would suggest to follow up within 30 days because the last time I saw activity on a- on this file was on a month ago.
+[02:31] [Paul]: Okay. Well, I will update my file here and uh, thank you so much again for all the information. I think that's all for today.
+[02:39] [Receptionist]: You're so much welcome. Have a good day. Bye-bye.
+[02:42] [Paul]: Have a great day.
+
+========================================
+TRANSCRIPT END
+========================================

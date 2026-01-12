@@ -1,0 +1,48 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 16 turns
+  • Speaker 2 / [Sarah] / Role: Representative for Emory Hospital: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Welcome to Bain and Associates Law Firm and my name is Fatima, how may I assist you today?
+[00:07] [Sarah]: Hi, my name is Sarah, I am calling on behalf of Emory Hospital, accompanying Sperion. I wanted to confirm representation for a patient.
+[00:18] [Receptionist]: Absolutely, may I please have the client's first and last name?
+[00:21] [Sarah]: Um, first name is- is Malia, M-A-L-I-A, and last name is Skinner, S-K-I-N-N-E-R.
+[00:33] [Receptionist]: Thank you. Bear with me while I search for the client's file.
+[ ... Silence (5s) ... ]
+[00:42] [Sarah]: Okay.
+[00:45] [Receptionist]: Her name is Malia or Mali.
+[00:51] [Sarah]: Um, Malia, M-A-L-I-A, spelled with an A, yes.
+[00:58] [Receptionist]: Right, all right, yes. And the case, um, sorry, the date of loss was on September the 19th?
+[01:03] [Sarah]: Correct, of 25, correct.
+[01:07] [Receptionist]: Our representation, she is a minor I have here.
+[01:10] [Sarah]: Okay, do you know if she has any health insurance or if she is self-pay?
+[01:17] [Receptionist]: Let me confirm on this file if we have any info regarding...
+[ ... Silence (16s) ... ]
+[01:39] [Receptionist]: So far I have not found that she has health insurance, but let's see on the intake page for the mom's side.
+[01:45] [Sarah]: Okay.
+[01:49] [Receptionist]: I don't- no, I don't have anything listed now.
+[01:52] [Sarah]: Okay, that's what I wanted to confirm because we haven't been able to see any health insurance, but wasn't sure if that was correct or not.
+[02:01] [Receptionist]: Yeah, no, we don't have any listed either, so maybe not, but I'm not able to confirm then. I can give you the case manager's info so that you guys can discuss that, if you'd like?
+[02:12] [Sarah]: Okay, uh, yes please.
+[02:14] [Receptionist]: All right, so her name is Paige, P as in Paul, A, Y as in yellow, G as in golf, E as in echo, and Almon without the D at the end. So A-L-M-O-N.
+[ ... Silence (10s) ... ]
+[02:24] [Receptionist]: And her email is only her name, Paige, I'm sorry?
+[02:31] [Sarah]: Nope, go ahead, that's exactly what I was going to ask you, go ahead.
+[02:34] [Receptionist]: Her email is only her name, Paige at B-A-N associates dot com, and it's spelled out A-N-D.
+[02:49] [Sarah]: Okay, and that first name is spelled P as in Paul, A, Y as in yellow, G as in George, E, correct? That's how you spell Paige?
+[02:57] [Receptionist]: E as in echo, yes, you got it. Do you also need her phone number?
+[03:02] [Sarah]: Uh, yes please.
+[03:04] [Receptionist]: All right, so her direct line is 4-7-0-6-1-5-0-7-1-5.
+[03:12] [Sarah]: Okay, can I be transferred to a voicemail if she's not available or do I need to call back?
+[ ... Silence (6s) ... ]
+[03:18] [Receptionist]: I will see- mmm, well, I will see if she's available. I think she might be out for lunch, but I'm not sure if she's back, but bear with me one moment, I'll confirm that for you. All right?
+[03:27] [Sarah]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

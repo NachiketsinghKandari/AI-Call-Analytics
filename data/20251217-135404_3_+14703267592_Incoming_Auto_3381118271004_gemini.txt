@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Christian Shaheen / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Matt speaking, how may I help you?
+[00:04] [Christian Shaheen]: Hi, my name is Christian Shaheen and I am calling about the Jerry Lybird and Tara Armstrong case. I'm an attorney with GMKE, I represent Tara Armstrong.
+[00:14] [Receptionist]: Okay. Um, sorry, I— it rang through to my cell phone, I'm driving back to the office from grabbing lunch. Do you know who you're trying to reach or you're not sure?
+[00:25] [Christian Shaheen]: Um, I believe that, uh, attorney Waites, is that the—
+[00:30] [Receptionist]: Uh, Carrie, Carrie is the paralegal, Carrie Waites, yeah. Do you want to speak with her? It's probably—
+[00:35] [Christian Shaheen]: Um, or Taylor Middleton, was it Taylor— Taylor was the— is Taylor Middleton an attorney?
+[00:42] [Receptionist]: Yes. Yes, ma'am.
+[00:43] [Christian Shaheen]: Okay. If I could speak with attorney Middleton, I think that would be best.
+[00:46] [Receptionist]: Okay. One moment, okay?
+[00:48] [Christian Shaheen]: Okay, perfect.
+[00:49] [Receptionist]: Yes, ma'am.
+[00:50] [ ... Silence (20s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

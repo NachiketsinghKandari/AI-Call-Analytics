@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: [Receptionist] at Bain and Associates: 4 turns
+  • Speaker 2 / Tina / Role: Caller from Hurt 911: 2 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bain and Associates, Kim speaking.
+[00:07] [Tina]: Hey, this is Tina calling from the Hurt 911. I was hoping to speak to the case manager, I believe her name is Paige, for Mr. Willie Knox.
+[00:14] [Receptionist]: Yes, one second.
+[00:15] [ ... Silence (6s) ... ]
+[00:21] [Receptionist]: Alrighty, I'll go ahead and send you over.
+[00:23] [Tina]: Okay, thank you.
+[00:24] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

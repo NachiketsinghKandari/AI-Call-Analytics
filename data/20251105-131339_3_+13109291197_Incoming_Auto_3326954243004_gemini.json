@@ -1,0 +1,21 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist checked for availability and determined the staff member was unavailable. The caller declined the offer to leave a message and stated they would call back later.",
+    "call_duration_seconds": 81.36,
+    "call_duration_formatted": "01:21"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist checked for staff availability, but no transfer was initiated because the staff member was unavailable and the caller declined to leave a message."
+  }
+}

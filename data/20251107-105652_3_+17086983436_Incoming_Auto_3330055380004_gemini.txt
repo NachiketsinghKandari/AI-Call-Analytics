@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 8 turns
+  • Speaker 2 / Shantay Thomas / Role: Client: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devin speaking.
+[00:05] [Shantay Thomas]: Uh, yeah, um, is this the receptionist?
+[00:10] [Receptionist]: No, this is the intake department, but how can I assist you?
+[00:14] [Shantay Thomas]: Uh, okay, um, I have an appointment at 1:00 today. Um, can you connect me to the person that, um, gave me the appointment? Okay, thank you.
+[00:25] [Receptionist]: Sure, no problem, may I have your first and last name please?
+[00:28] [Shantay Thomas]: Shantay Thomas.
+[00:30] [Receptionist]: Okay, Miss Thomas, let me go ahead and put your call on hold and connect you, okay? [ ... Silence (8s) ... ]
+[00:42] [Shantay Thomas]: Okay, thank you.
+[00:47] [Receptionist]: Miss Thomas, I do apologize for that delay. Tara is in a meeting right now, she's unable to answer.
+[00:54] [Shantay Thomas]: Okay, I just need, this is what I need, maybe you could help me. I was gonna be there at 1:00 but I have to, I need to know if it's okay if I get there at 2:30 because my ride can't get me there at 1:00. That's fine?
+[01:02] [Receptionist]: Okay, okay, so, um, yeah, I'll note that you'll be by 2:30.
+[01:08] [Shantay Thomas]: Okay, yeah, 2:30.
+[01:11] [Receptionist]: Okay, thank you. No problem, I've already advised them you're coming in around 2:30 PM today, okay?
+[01:18] [Shantay Thomas]: Yep, 2:30.
+[01:20] [Receptionist]: Alrighty, perfect, thank you so much then, no problem.
+[01:24] [Shantay Thomas]: Okay, you too, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

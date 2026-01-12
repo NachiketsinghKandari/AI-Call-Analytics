@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": true,
+    "final_outcome": "The receptionist provided specific case status updates for four separate individuals and shared a case manager's email address before the call disconnected while the caller was identifying a fifth patient.",
+    "call_duration_seconds": 173.3,
+    "call_duration_formatted": "02:53"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

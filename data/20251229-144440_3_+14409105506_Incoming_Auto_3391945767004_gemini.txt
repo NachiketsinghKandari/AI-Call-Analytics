@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / San-Angelo / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Janella / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (6s) ... ]
+[00:06] [Receptionist]: Hello, this is San-Angelo, how may I help you?
+[00:10] [Janella]: Hi, this is Janella with Progressive Insurance Claims Department and I was calling to speak to somebody about one of your clients?
+[00:16] [Receptionist]: Sure, what is the name?
+[00:19] [Janella]: Starsheema Levitt and Xavier Garland.
+[00:28] [Receptionist]: Yes, how do you spell it?
+[00:32] [Janella]: Um, well, I just— uh, wanted to give you an update on our coverage.
+[00:37] [Receptionist]: Oh sure, yes, but I couldn't hear you because you didn't pronounce the name properly, uh, I don't know what you said. Can you please spell for me the first name for the client?
+[00:51] [Janella]: Well, it's Starsheema. S-T-A-R-S-H-E-E-M-A, Starsheema, Levitt, L-O-V-E-T-T.
+[01:00] [ ... Silence (16s) ... ]
+[01:16] [Receptionist]: Starsheema, I found it. What is the update that you wish to provide?
+[01:27] [Janella]: So on this one, we do not have third-party coverage under this policy, it will actually be under their motor carrier's coverage and we do have a claim number and an adjuster set up with them as well.
+[01:38] [Receptionist]: Oh sure. Let me go ahead and take a look here. So, uh, please stay on the line, I'm going to consult if the case manager is available, right? To get that information. Give me just one minute.
+[01:51] [Janella]: Okay.
+[01:52] [Receptionist]: Thank you. Thank you for stay on the line, but it looks like that the case manager is not available at this moment. Would you like maybe to leave her a voicemail with the information you just provided?
+[02:04] [Janella]: Yeah, that's fine.
+[02:06] [Receptionist]: Thank you, have a good day.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 4 turns
+  • Speaker 2 / [Quentin] / Role: Representative at State Farm: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kimmy speaking.
+[00:04] [Quentin]: Hi, my name is Quentin with State Farm, how are you doing today?
+[00:07] [Receptionist]: I'm doing fine, thank you for asking. How can I help?
+[00:10] [Quentin]: Yes, I was wanting to speak with someone regarding your client, Keith Avery Jones Jr.
+[00:16] [Receptionist]: Okay.
+[00:18] [ ... Silence (5s) ... ]
+[00:23] [Receptionist]: Okay, can you please hold one second?
+[00:26] [Quentin]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

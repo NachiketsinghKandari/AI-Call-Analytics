@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Tatiana / Role: Caller: 13 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hello, this is Daniel, how may I help you?
+[00:07] [Tatiana]: Hi, how you doing? This is Tatiana. I'm calling from the chiropractor office, Metro Atlanta Injury and Wellness. I was calling regarding one of y'all clients by the name of India Mints.
+[00:20] [Receptionist]: India Mints?
+[00:22] [Tatiana]: Yes. Um, I needed her attorney information, well, email.
+[00:30] [Receptionist]: India Mints.
+[00:32] [Tatiana]: Yes, M-I-N-T-S.
+[00:36] [Receptionist]: Yes, I found. Can I have the date of loss?
+[00:39] [Tatiana]: Yes, give me one second.
+[ ... Silence (11s) ... ]
+[00:53] [Tatiana]: The date of loss will be, uh, 9/12... okay, 9/9/2025.
+[01:00] [Receptionist]: 9/9?
+[01:02] [Tatiana]: Yes, 2025.
+[ ... Silence (24s) ... ]
+[01:29] [Receptionist]: Okay, she has two files. So, the name for the case manager it is Linda. It is spelled L-I-N-D-A, Linda.
+[01:41] [Tatiana]: Give me one second. You said L-I-N-D-A?
+[01:44] [Receptionist]: Yes, uh-huh.
+[01:45] [Tatiana]: Does she have an email?
+[01:47] [Receptionist]: Yes. So, it is the same as the name, Linda at the name for the company of the law firm, beyandassociates.com.
+[02:03] [Tatiana]: Bey, B-E-Y?
+[02:05] [Receptionist]: A-N-D associates.
+[02:08] [Tatiana]: Okay. Associates.com.
+[02:14] [Receptionist]: Uh-huh.
+[02:15] [Tatiana]: All right. Thank you so much. Um, you're good to go.
+[02:21] [Receptionist]: Great. Anything else or that's all?
+[02:24] [Tatiana]: No, that's it. Thank you.
+[02:26] [Receptionist]: Have a good one. Bye-bye.
+[02:28] [Tatiana]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

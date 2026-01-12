@@ -1,0 +1,48 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Bain Associates: 17 turns
+  • Stacy / Role: Representative from Allstate Insurance: 17 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain Associates, this is Tasha, how may I help you?
+[00:05] [Stacy]: Hi Tasha, my name is Stacy, I'm calling from Allstate Insurance. Um, I'm just looking to speak to someone regarding settlement for two clients.
+[00:14] [Receptionist]: Sure.
+[00:15] [Stacy]: Um, I don't know, do you want the- the names to start and then I don't know if I talk to you or...
+[00:21] [Receptionist]: I can- I can locate the file and I can get you over to the right person you want to speak to.
+[00:27] [Stacy]: Perfect, perfect. Um, so they're part of the same claim. Uh, the owner of the vehicle was Nisha, it's N-E-I-S-H-I-A. Last name is Cheney, and that's C-H-A-N-E-Y.
+[00:46] [Receptionist]: Mm, okay. Cheney... [ ... Silence (11s) ... ]
+[00:58] [Stacy]: Mhm.
+[01:00] [Receptionist]: And Yolanda Crome?
+[01:03] [Stacy]: That's it.
+[01:04] [Receptionist]: Allrighty. The person you want to speak to is Ms. Lonie Pucci, she is the case manager, or the attorney Kadeem Gibson.
+[01:12] [Stacy]: Okay.
+[01:13] [Receptionist]: I can provide you with their contact info and I can also transfer you over, ma'am.
+[01:18] [Stacy]: Perfect. That would be great.
+[01:21] [Receptionist]: All right, one sec. Let me get those- that info. [ ... Silence (9s) ... ]
+[01:33] [Receptionist]: Case manager's contact number is 404-592-9370.
+[01:40] [Stacy]: Mhm. Did you say her name was Lonie?
+[01:44] [Receptionist]: Yes, L-O-N-I-E.
+[01:46] [Stacy]: Perfect.
+[01:47] [Receptionist]: Her email address is Lonie, first name Lonie, at bainassociates.com. That's B-E-Y-A-N-D associates dot com.
+[01:57] [Stacy]: Okay.
+[01:58] [Receptionist]: The attorney's contact number is 513-964-0829.
+[02:08] [Stacy]: Okay.
+[02:09] [Receptionist]: And his email address is Kadeem at bainassociates.com. First name Kadeem, that's K-H-A-D-E-E-M.
+[02:26] [Stacy]: Okay. Um, who would you recommend I speak to about settlement? Do- we typically start with a case manager in- in your office or the attorney?
+[02:36] [Receptionist]: The attorney would be the best person to speak to. I can try him because I can see that Ms. Lonie is on the other line, probably with another client or another insurer, yeah. So I'm going to try the attorney.
+[02:52] [Stacy]: Okay, great. Thank you so much for your help.
+[02:57] [Receptionist]: You said you're calling from State Farm, is that correct?
+[03:01] [Stacy]: Um, from Allstate.
+[03:03] [Receptionist]: Allstate. I'm sorry, my apologies.
+[03:05] [Stacy]: That's okay. No problem.
+[03:07] [Receptionist]: Okay.
+[03:08] [Stacy]: Sure. Thank you so much.
+[03:10] [Receptionist]: One sec. [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

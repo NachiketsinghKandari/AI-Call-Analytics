@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist determined that the requested case manager and attorney were unavailable and provided the caller with the case manager's direct phone number.",
+    "call_duration_seconds": 131.33,
+    "call_duration_formatted": "02:11"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist checked for staff availability and informed the caller they were out of the office before providing a direct dial number."
+  }
+}

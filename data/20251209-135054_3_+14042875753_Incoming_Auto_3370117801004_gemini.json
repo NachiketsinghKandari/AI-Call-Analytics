@@ -1,0 +1,21 @@
+{
+  "caller_type": "spanish_speaker",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about the status of a settlement check needed for a surgery deductible. The receptionist placed the caller on hold to perform validations, but the call ended before any information or next steps were established.",
+    "call_duration_seconds": 194.9,
+    "call_duration_formatted": "03:14"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during this call."
+  }
+}

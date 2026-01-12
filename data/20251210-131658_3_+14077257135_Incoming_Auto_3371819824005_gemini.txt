@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Chad Van Every / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Fatima, how may I assist you today?
+[00:08] [Chad Van Every]: Hi, this is Chad Van Every at Synergy. I'm trying to reach Dante Thompson. It's regarding Harold Wright.
+[00:15] [Receptionist]: Thank you. Bear with me, I'll see if he is in. One moment, please.
+[00:19] [Chad Van Every]: Thanks.
+[00:21] [Receptionist]: Hey Chad, thank you so much for the waiting time. It seems that Dante is currently unavailable. Would you be— would you like to leave a voice message for him?
+[00:32] [Chad Van Every]: Yeah, that would be great. Thanks.
+[00:34] [Receptionist]: Yeah, you're welcome. One moment, please.
+
+========================================
+TRANSCRIPT END
+========================================

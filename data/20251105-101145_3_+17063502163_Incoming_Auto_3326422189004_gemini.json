@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist located the client file, confirmed the case is still in litigation, and informed the caller that the ambulance bill payment is currently pending. The caller declined an offer to speak with a case manager.",
+    "call_duration_seconds": 224.21,
+    "call_duration_formatted": "03:44"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered to transfer the caller to a case manager for further verification, but the caller declined the transfer."
+  }
+}

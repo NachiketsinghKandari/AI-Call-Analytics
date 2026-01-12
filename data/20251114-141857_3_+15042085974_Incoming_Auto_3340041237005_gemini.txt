@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lauren Davenport / Role: Receptionist at Ben and Associates: 7 turns
+  • Speaker 2 / Sarah Miller / Role: Potential Client: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Ben and Associates, this is Lauren Davenport speaking, how can I help you?
+
+[00:05] [Sarah Miller]: Hi, Lauren. My name is Sarah Miller. I'm calling to inquire about your legal services for a personal injury case.
+
+[00:11] [Receptionist]: Hi, Sarah. I'd be happy to help you with that. Can you tell me a little bit more about your situation?
+
+[00:17] [Sarah Miller]: Um, yeah. So, uh, I was in a car accident last week, and, uh, I'm not really sure what to do next. The other driver's insurance company has been calling me, and I'm, uh, I'm feeling a bit overwhelmed.
+
+[00:31] [Receptionist]: I completely understand. It can be a very stressful situation. Let me get some more information from you, and then I can have one of our attorneys give you a call back.
+
+[00:41] [Sarah Miller]: Okay, that sounds good. Thank you.
+
+[00:44] [Receptionist]: You're welcome. Can I start with your phone number?
+
+[00:47] [Sarah Miller]: Sure. It's 555-0123.
+
+[00:51] [Receptionist]: Thank you. And what is the best time for someone to reach you?
+
+[00:55] [Sarah Miller]: Um, anytime after 3:00 PM would be great.
+
+[01:00] [Receptionist]: Perfect. I'll pass this information along to our team, and someone will be in touch with you soon.
+
+[01:06] [Sarah Miller]: Great. Thank you so much for your help, Lauren.
+
+[01:10] [Receptionist]: You're very welcome, Sarah. Have a good day.
+
+[01:13] [Sarah Miller]: You too. Bye.
+
+[01:15] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

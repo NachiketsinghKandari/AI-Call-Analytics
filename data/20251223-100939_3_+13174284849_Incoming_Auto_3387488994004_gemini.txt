@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Brian / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:06] [Brian]: Good morning. My name is Brian and I'm with Liberty Mutual Insurance and I was hoping to get some initial information on client Robert Adams.
+[00:15] [Receptionist]: Sure. Let me get that pulled up here.
+[00:20] [Brian]: Okay.
+[00:23] [Receptionist]: All right. What do you need to know, sir?
+[00:26] [Brian]: Um, I'm looking at his UMBI claim, uh, and wanted to know if Allstate who insures Thurston had given you any coverage or liability decision.
+[00:42] [Receptionist]: Um, okay, let me get the case manager for this one. Um, one second. Her name is— oh, she's not in today.
+[00:54] [Brian]: Oh, who is that case manager?
+[00:56] [Receptionist]: Tyana Evans.
+[01:00] [Brian]: Could you spell the first name for me?
+[01:02] [Receptionist]: T-Y-A-U-N-A.
+[01:07] [Brian]: And does she have a direct dial and email address?
+[01:11] [Receptionist]: Yes, sir. So it is— the email is, uh, her first name, Tyana, T for Tango, Y for Yellow, A for Alpha, U for Umbrella, N for Nancy, A for Alpha, at Bey, B-E-Y, A-N-D, associates with an S dot com.
+[01:38] [Brian]: All right. And her direct dial?
+[01:41] [Receptionist]: 404-889-8965.
+[01:45] [Brian]: All right. Thank you for your help this morning.
+[01:49] [Receptionist]: You're welcome. Would you like to leave her a voicemail?
+[01:52] [Brian]: Uh, sure. That'd be great. Thank you.
+[01:54] [Receptionist]: You're welcome. Have a great rest of your day and happy holidays.
+[01:57] [Brian]: Thank you. Same to you.
+[01:59] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

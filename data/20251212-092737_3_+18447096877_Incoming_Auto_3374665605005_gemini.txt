@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Unknown / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:07] [Unknown]: Yes, I'm trying to reach Paige Elman or Taylor Middleton.
+[00:12] [Receptionist]: You're calling from where?
+[00:14] [Unknown]: Katch, we represent Medica Health Insurance and this is regarding Curtis Pritchett. I believe I just spoke with Taylor just not too long ago. I need to speak with him again if possible, or the paralegal.
+[00:28] [Receptionist]: What was the name of the client?
+[00:31] [Unknown]: Curtis, C-U-R-T-I-S, Pritchett, P-R-I-T-C-H-E-T-T.
+[00:43] [Receptionist]: Give me one moment.
+
+========================================
+TRANSCRIPT END
+========================================

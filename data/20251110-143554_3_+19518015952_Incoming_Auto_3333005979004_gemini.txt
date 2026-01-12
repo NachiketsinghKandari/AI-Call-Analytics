@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates law firm: 10 turns
+  • Speaker 2 / Daniel / Role: Representative from Medcare: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bay and Associates law firm, this is [Name] speaking, how can I help you?
+[00:07] [Daniel]: Uh hey, this is Daniel calling from Medcare, how are you doing today?
+[00:11] [Receptionist]: I'm doing great Daniel, how can I help?
+[00:15] [Daniel]: Uh well, uh I had just a minute, I got some information that I needed to confirm. So last week one of my peers Trevor, he reached out to your law firm and he had a conversation with Emma, right? Um Emma took the information from Trevor and she mentioned that she's gonna reach out back because we had some information that we needed update for because we have like a bunch of cases that I need statuses for with your law firm.
+[00:47] [Receptionist]: How many cases are you looking at status on?
+[00:51] [Daniel]: Uh well, uh for now I have 72 cases that I need statuses for and the last conversation that Trevor, one of my peers had with Emma, he also mentioned that there were 72 cases that he needs statuses for. So I'm just reaching out as a follow-up if I can get an email address that I can send out the list to?
+[01:12] [Receptionist]: Yeah, I was gonna tell you that. Okay. Um okay, so I'm gonna provide you with an email. I'm gonna give you the name of the supervisor. Okay? So you want to reach out to Dionel. D-I-O-N-E-L. Dionel. Last name is Reynoso, which is R-E-Y-N-O-S-O.
+[01:49] [Daniel]: I'm so sorry, it's R-E-Y...
+[01:52] [Receptionist]: R-E-Y-N as in Nancy-O-S as in Oscar-O.
+[01:58] [Daniel]: Perfect.
+[02:01] [Receptionist]: His email is his first name. Dionel. D-I-O-N-E-L. At bayandassociates.com.
+[02:27] [Daniel]: Perfect, I got it.
+[02:30] [Receptionist]: Send him an email and he will gladly go through it and give you the status update on each and every one of those cases, okay? I can help you but it's gonna be tough to give you 78 statuses.
+[02:50] [Daniel]: Yeah, of course, yeah. Like this is awesome, like this is the information that I was looking for. The email address is obviously gonna be the most feasible form of communication that we and you guys can have. Like it's gonna be easier to go over this stuff over on the email, yeah.
+[03:07] [Receptionist]: Okay. Yeah, so email him and he would gladly assist you, okay?
+[03:15] [Daniel]: Perfect. Uh that's the only, you know, that's a great help. I'm gonna send out the email with the list of case- list of clients. I just want to make sure before I send out the email, like is there any information that you require from my side? Because I usually send out the email to the law firms that includes the client name, their first date of injury, that's the first date of accident, and the date of birth. That's the information that I send out usually from my side. So if there's any other information that you might require or you have an idea that Dionel might require?
+[03:51] [Receptionist]: No, you're good actually. First and last name, date of birth just to confirm the file, or DOI is perfect. You can just send that and they'll be more than happy to provide you an update.
+[04:03] [Daniel]: Awesome, awesome, perfect. So I'm gonna send out an email. Thank you so much.
+[04:06] [Receptionist]: You're welcome sir. Have a great one.
+[04:08] [Daniel]: You too have a great day. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

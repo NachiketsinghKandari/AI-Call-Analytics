@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse Gonzalez / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Marie / Role: Caller from Conduent: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thanks for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Marie]: Um, hi, good morning, this is Marie from Conduent. I am calling about Laverne Luckey, L-U-C-K-E-Y.
+[00:15] [Receptionist]: Laverne, give me one moment. Yes ma'am, I did find it in here.
+[00:21] [Marie]: Um, I did send a notice of lien for the health insurance and just checking the status of the case.
+[00:28] [Receptionist]: All right. So let me tell you, this status of the case would be, um, it's, it is in pre-litigation demand, that would be the status of the case as of today, ma'am.
+[00:42] [Marie]: Okay. Okay, got it. And may I have your name again?
+[00:45] [Receptionist]: Uh, yes, my name is Jesse, Jesse Gonzalez. And you say you're calling from where? Sorry?
+[00:51] [Marie]: Oh, from Conduent.
+[00:53] [Receptionist]: Conduent, got it.
+[00:56] [Marie]: Now, did you receive my notice of lien?
+[00:59] [Receptionist]: Um, give me one moment, ma'am, I'm seeing here the file.
+[01:04] [ ... Silence (10s) ... ]
+[01:14] [Receptionist]: All right. So let me tell you, ma'am, uh, for what I can see, uh, I'm not seeing that we've received any documents. However, there is a case manager assigned to this file. Do you allow me to place you on a brief hold? Let me see if she's available at the moment. She has access to all the information within the file.
+[01:32] [Marie]: Yes.
+
+========================================
+TRANSCRIPT END
+========================================

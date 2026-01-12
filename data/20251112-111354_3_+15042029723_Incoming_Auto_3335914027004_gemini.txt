@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Law Offices of Michael J. Green: 7 turns
+  • Speaker 2 / [David Miller] / Role: Potential Client: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling the Law Offices of Michael J. Green. This is Sarah. How can I help you?
+[00:03] [David Miller]: Hi, Sarah. Uh, my name is David, uh, David Miller. I'm calling to, uh, schedule a consultation.
+[00:08] [Receptionist]: Hi, David. Uh, sure, I can help with that. Um, what kind of case is it?
+[00:12] [David Miller]: It's, uh, it's a personal injury case. I was in a, uh, car accident last week, and, uh, I'm looking for some legal advice.
+[00:20] [Receptionist]: I'm sorry to hear that. Um, let me see what we have available. Uh, would next Tuesday at 2:00 PM work for you?
+[00:25] [David Miller]: Uh, let me check my calendar. Um, yeah, Tuesday at 2:00 PM works. That's, uh, that's great.
+[00:30] [Receptionist]: Perfect. I'll put you down for Tuesday at 2:00 PM. Can I get your phone number, please?
+[00:35] [David Miller]: Sure, it's, uh, 555-0123.
+[00:40] [Receptionist]: Got it. 555-0123. And, uh, how do you spell your last name, David?
+[00:45] [David Miller]: It's Miller, M-I-L-L-E-R.
+[00:50] [Receptionist]: Great. Thank you, David. We'll see you on Tuesday at 2:00 PM.
+[00:55] [David Miller]: Thanks, Sarah. Bye.
+[00:58] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

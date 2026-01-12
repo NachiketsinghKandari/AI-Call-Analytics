@@ -1,0 +1,15 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Dynel.
+[00:02] [ ... Silence (8s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

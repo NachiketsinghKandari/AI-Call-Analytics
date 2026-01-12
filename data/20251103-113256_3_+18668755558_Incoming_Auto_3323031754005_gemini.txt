@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Benenati and Associates: 11 turns
+  • Speaker 2 / [Catherine Milling]/ Role: Debt Collector at Nationwide Recovery Service: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Benenati and Associates. This is Daionel.
+[00:07] [Catherine Milling]: Hi, good morning. My name is Catherine Milling. I'm calling from Nationwide Recovery Service. I'm following up on, uh, Bakia Owens. It's B-A-K-I-E-A, last name Owens.
+[00:23] [Receptionist]: Okay, and the date of loss?
+[00:29] [Catherine Milling]: That is 9/7/19.
+[00:37] [Receptionist]: Okay, yes. How can I help?
+[00:43] [Catherine Milling]: Okay, and, um, for verification I have her date of birth as 2/27 of 72.
+[00:53] [Receptionist]: Yes.
+[00:54] [Catherine Milling]: Okay, I'm calling from Nationwide Recovery Service and you are speaking with a debt collector. All calls are recorded for quality assurance and security. This is an attempt to collect a debt and any information obtained will be used for this purpose. And the last time I spoke to someone was August the 1st. I do know that it is in litigation. She asked me to hold off until around this time. So just following up to see, um, where we are on that, if we're looking at settlement anytime soon. I know that our client has agreed to $443 on this one.
+[01:32] [Receptionist]: Well, so far the case is still on litigation and we are still trying to settle this case.
+[01:41] [Catherine Milling]: Okay, so still in litigation?
+[01:44] [Receptionist]: Correct.
+[01:46] [Catherine Milling]: Okay, and should I wait until after the first of the year?
+[01:50] [Receptionist]: I'm not sure, honestly.
+[01:53] [Catherine Milling]: Okay, and your name?
+[01:54] [Receptionist]: I'm Daionel. D-A-I-O-N-E-L.
+[01:59] [Catherine Milling]: Okay.
+[02:05] [Receptionist]: Okay.
+[02:06] [Catherine Milling]: Okay, I'll make note of it. Thank you so much. I hope you have a good day.
+[02:12] [Receptionist]: You too.
+[02:13] [Catherine Milling]: Bye-bye.
+[02:15] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

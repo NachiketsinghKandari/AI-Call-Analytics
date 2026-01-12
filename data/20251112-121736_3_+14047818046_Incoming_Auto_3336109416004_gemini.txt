@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Baines and Associates Law Firm: 3 turns
+  • Speaker 2 / [Michael Dasher] / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Baines and Associates Law Firm, this is Karina speaking, how can I help you today?
+[00:07] [Michael Dasher]: Hi, can I speak to, uh, Stephanie?
+[00:11] [Receptionist]: Stephanie, sure. And who am I speaking to?
+[00:16] [Michael Dasher]: Uh, Michael Dasher.
+[00:19] [Receptionist]: Let me see if she's on another call. Michael Dasher. One moment.
+[00:24] [Michael Dasher]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

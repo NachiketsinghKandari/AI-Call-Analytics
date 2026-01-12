@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Vance and Associates: 12 turns
+  • Speaker 2 / Shandra / Role: Representative from State Farm: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vance and Associates, Matt speaking, how can I help you?
+[00:04] [Shandra]: Hi, yes Matt, my name is Shandra, I'm calling from State Farm, calling in regards to, um, your client Kyle Riley.
+[00:13] [Receptionist]: Okay, one sec.
+[00:15] [ ... Silence (6s) ... ]
+[00:21] [Receptionist]: Got that file up, how can I help you?
+[00:22] [Shandra]: Um, I just wanted to follow up with you guys and let you know that the other insurance company, which is Geico, has accepted liability at 100% on this one.
+[00:30] [Receptionist]: Yeah, we have that as well, uh, we just found that out last week. Um, I think we're just looking at State Farm for, they have a 25/50 policy, so is there UM coverage or MedPay on the policy for Kyle?
+[00:48] [Shandra]: Um, I mean we only have a 25/50 policy as well. Um, is it reduced by?
+[00:58] [Receptionist]: Let me look.
+[00:59] [ ... Silence (27s) ... ]
+[01:26] [Shandra]: Um, I guess it's a paper, let's see.
+[01:29] [Receptionist]: We just don't have the dec page on file.
+[01:31] [Shandra]: I can send it over to you, um, I believe it's reduced by, it doesn't state here, I'm gonna look.
+[01:40] [Receptionist]: Does it say U or UE?
+[01:41] [Shandra]: It doesn't say either one, that's why.
+[01:45] [Receptionist]: Oh, I have State Farm myself, so that's why I actually...
+[01:50] [Shandra]: Yeah, yeah, I know what- what to look for, but it's not showing it on this one, so I'm not sure.
+[01:55] [Receptionist]: Well, um, do me a favor if you can, can you also request the UM selection page? Because we're gonna ask for that anyway if, if it's...
+[02:03] [Shandra]: Okay.
+[02:05] [Receptionist]: ...so we can figure out what it is.
+[02:07] [Shandra]: Okay, I'll get that request the policy information, no problem.
+[02:10] [Receptionist]: All right, have a good one.
+[02:11] [Shandra]: All right, all right, thank you, you too.
+[02:13] [Receptionist]: Mm-hmm.
+[02:14] [Shandra]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

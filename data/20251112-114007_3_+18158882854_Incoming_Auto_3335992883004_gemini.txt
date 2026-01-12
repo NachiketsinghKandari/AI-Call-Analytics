@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at DNA Associates: 7 turns
+  • Speaker 2 / [Megan] / Role: Representative at Allstate Insurance: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: DNA Associates, Dante speaking.
+[00:04] [Megan]: Hi, I'm looking for Victoria.
+[00:08] [Receptionist]: Sure, let me connect you over to her. May I ask who's calling?
+[00:11] [Megan]: My name is Megan with Allstate Insurance.
+[00:15] [Receptionist]: Okay, Megan. Good day. Um, may I have the name of the client you're calling in regards to?
+[00:21] [Megan]: First name A-N-D-R-E-R-I-S, last name Williams.
+[00:31] [Receptionist]: Okay, Andreris Williams. Let me connect the call over to Victoria.
+[00:36] [Megan]: Thank you.
+[00:37] [Receptionist]: You're welcome.
+[00:42] [Receptionist]: I'm so sorry about that. Looks like Victoria's on another call. I only got her voicemail.
+[00:46] [Megan]: That's okay. I can leave her a voicemail.
+[00:49] [Receptionist]: Okay, let me transfer you over to that then. Thank you.
+[00:52] [Megan]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

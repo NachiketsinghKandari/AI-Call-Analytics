@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to a case manager who was unavailable. The caller began providing details for additional cases, but the call ended before a transfer to voicemail or any other terminal action was completed.",
+    "call_duration_seconds": 86.76,
+    "call_duration_formatted": "01:26"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist attempted to connect the caller to the case manager, but returned to the line stating the person was unavailable."
+  }
+}

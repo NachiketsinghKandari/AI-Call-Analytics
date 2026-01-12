@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Marla Thomas / Role: Client: 6 turns
+  • [Receptionist] / Role: Receptionist at Dana and Associates: 6 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (07s) ... ]
+[00:07] Marla Thomas: Hello?
+[00:09] [Receptionist]: Hello, good morning, Dana and Associates, Steven speaking.
+[00:13] Marla Thomas: Yeah, calling to speak to Taylor- is it- do you have a Tara that works there? Or no?
+[00:20] [Receptionist]: Yes, we have a Taylor Middleton.
+[00:23] Marla Thomas: I said, do you have a Tara as well?
+[00:26] [Receptionist]: A Tara, yes, Tara as well. Sorry, I misunderstood you.
+[00:29] Marla Thomas: Okay, I need to speak to Tara. I- I got confused a little bit.
+[00:33] [Receptionist]: No problem, ma'am, no problem. Um, is it regarding a specific case?
+[00:43] Marla Thomas: Uh, yeah, pretty much. I was over there on last Friday. I had some questions to ask her.
+[00:50] [Receptionist]: Okay, no problem. And may I have your first and last name, please?
+[00:53] Marla Thomas: Thomas, Marla.
+[00:57] [Receptionist]: Marla Thomas. [ ... Silence (05s) ... ] Let me get you over to her, okay?
+[01:05] Marla Thomas: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

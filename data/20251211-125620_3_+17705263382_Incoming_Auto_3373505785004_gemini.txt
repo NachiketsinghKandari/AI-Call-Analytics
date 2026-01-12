@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Corina / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Nemouse Saint-Ford / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Corina, how can I help you?
+[00:05] [Nemouse Saint-Ford]: Oh, good afternoon, Cami, you said?
+[00:08] [Receptionist]: It's Corina.
+[00:10] [Nemouse Saint-Ford]: Corina. Good afternoon, Corina. I just didn't want to butcher— butcher your name.
+[00:15] [Receptionist]: Okay.
+[00:16] [Nemouse Saint-Ford]: Uh, this is Nemouse calling. This is Nemouse Saint-Ford calling, actually. Um, my lawyer's Ford, Mr. Ford. And my case is already settled. Um, I'm waiting on my check. I signed the papers since the first. So, I still haven't received anything and no email, no text, no nothing. So I just need to know what's going on.
+[00:41] [Receptionist]: All right. Can I have your first and last name again, please?
+[00:44] [Nemouse Saint-Ford]: First name is Nemouse, N-E-M-O-U-S-E.
+[00:51] [Receptionist]: N-E-M-O-S-E?
+[00:54] [Nemouse Saint-Ford]: No, N-E-M-O-U-S-E.
+[00:59] [Receptionist]: N-E-M-O-U-S-E?
+[01:02] [Nemouse Saint-Ford]: N-E-M-O-U-S-E.
+[01:05] [Receptionist]: And your last name?
+[01:07] [Nemouse Saint-Ford]: Saint-Ford. S-A-I-N-T, like a saint, F-O-R-D.
+[01:14] [Receptionist]: Okay, bear with me.
+[01:16] [Nemouse Saint-Ford]: Sure.
+[01:17] [Receptionist]: Okay, let me try to get the case manager on the line, so just give me a moment.
+[01:22] [Nemouse Saint-Ford]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

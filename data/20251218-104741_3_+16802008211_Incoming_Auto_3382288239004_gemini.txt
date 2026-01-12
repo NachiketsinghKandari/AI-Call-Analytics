@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 1 turn
+  • Speaker 2 / Jenna / Role: Line of credit specialist: 1 turn
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hello? Thank you for calling Bey and Associates.
+[00:09] [Jenna]: Hi. This is Jenna, your line of credit specialist.
+
+========================================
+TRANSCRIPT END
+========================================

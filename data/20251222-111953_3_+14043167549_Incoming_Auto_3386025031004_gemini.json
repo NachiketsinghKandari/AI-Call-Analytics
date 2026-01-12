@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "intake_completed",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist completed a comprehensive intake for a new motor vehicle accident claim, updated the caller's contact information, and informed the caller that a contract would be sent via SMS for signature.",
+    "call_duration_seconds": 950.54,
+    "call_duration_formatted": "15:50"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No telephonic transfer was attempted. The receptionist completed the intake process and advised the caller that a case manager would follow up after the contract was signed."
+  }
+}

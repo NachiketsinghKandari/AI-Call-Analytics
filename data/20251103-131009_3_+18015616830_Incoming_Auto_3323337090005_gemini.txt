@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Vance and Associates: 4 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vance and Associates, how may I help you?
+[00:04] [Speaker 2]: Uh, I'm calling for, uh, Taylor Middleton or one of her assistants.
+[00:09] [Receptionist]: What case are you calling about, ma'am?
+[00:11] [Speaker 2]: Your client is Chase Rose.
+[00:14] [ ... Silence (16s) ... ]
+[00:31] [Receptionist]: All right, let me just get you over to Linda. One moment.
+[00:35] [Speaker 2]: Okay, thank you.
+[00:37] [Receptionist]: Yep.
+
+========================================
+TRANSCRIPT END
+========================================

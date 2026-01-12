@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist initiated a transfer to a specific staff member named Nick to address the caller's settlement and Medicare billing inquiry, and the call ended immediately after the transfer statement.",
+    "call_duration_seconds": 136.51,
+    "call_duration_formatted": "02:16"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist stated she would get Nick on the line to assist with the caller's settlement concerns and the call ended immediately after the caller agreed."
+  }
+}

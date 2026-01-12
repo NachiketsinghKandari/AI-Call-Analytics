@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Kevin Davis / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you today?
+[00:03] [Kevin Davis]: Hi, Lionel. My name is Kevin Davis. I'm calling about a case.
+[00:07] [Receptionist]: Sure, Kevin. Let me look that up for you.
+[00:10] [Kevin Davis]: Thank you.
+[ ... Silence (6s) ... ]
+[00:18] [Receptionist]: Okay, I see it here. You're calling about the accident on the 15th?
+[00:22] [Kevin Davis]: Yes, that's right.
+
+========================================
+TRANSCRIPT END
+========================================

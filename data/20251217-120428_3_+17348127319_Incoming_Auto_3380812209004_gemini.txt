@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Brittany / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Alex Wright / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Brittany.
+[00:04] [Alex Wright]: Hi, um, this is Alex Wright. I used to work for Bey and Associates about five years ago.
+[00:11] [Receptionist]: Yes. Hi Alex.
+[00:15] [Alex Wright]: Hi. I have a question. I don't know if you guys can figure it out for me. Um, when I was at— when I worked for Bey and Associates, I remember working on a case in the Eastern District of Kentucky and being admitted to that court. And I'm not able to find any documentation about my admission. Um, I was wondering if you have any documentation, even if it's a payment record related to the application to be— for me to be admitted to the Eastern District of Kentucky. This would've been around 2019, 20— probably 2019 if I had to guess. I don't know if you keep records that long.
+[01:01] [Receptionist]: Yeah, let me actually— I— I will more than likely have to get back with you tomorrow, Alex, because I'm not in the office today.
+[01:11] [Alex Wright]: Understood. Yeah, no, I get it.
+[01:13] [Receptionist]: Yeah, I would need to be able to— to be able to pull a file. Um, can you give me a call tomorrow or can I just take your number and we can just follow up with each other in the morning?
+[01:27] [Alex Wright]: Yeah, absolutely. Just give me a call when you— um, just give me a call when you've sort of had a chance to look into it.
+[01:35] [Receptionist]: Okay. Okay, and I will make that my— one of my first things to look into in the morning, okay?
+[01:41] [Alex Wright]: I appreciate that. Thank you very much.
+[01:43] [Receptionist]: Okay, you're welcome, Alex. Okay. Did you— do you need my phone number?
+[01:47] [Alex Wright]: Uh, I think I got it here. Is it 734-812-7319?
+[01:52] [Receptionist]: That's correct, yes.
+[01:53] [Alex Wright]: Thank you very much.
+[01:55] [Receptionist]: Okay, you're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

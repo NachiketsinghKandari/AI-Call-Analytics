@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Michael / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm, my name is Fatima, how may I assist you?
+[00:08] [Michael]: Hi, my name is Michael, I'm calling from Progressive Fleet Insurance. Um, I'm calling to try to get some more information. I got, uh, it looks like we received a, uh, letter in the mail regarding one of your guys's clients and I'm just trying to get some more information on who our insured would be, um, as I don't see anything that looks like us.
+[00:28] [Receptionist]: No, okay. May I please have the client's first and last name? Let me search and see who is, um, the case manager in that case.
+[00:38] [Michael]: Sure, it looks like, uh, you guys's client's name is Mita, M-I-T-A, last name, uh, Raha, R-A-H-A.
+[00:45] [Receptionist]: All right, thank you, bear with me.
+[00:51] [Receptionist]: Date of loss was November 7th? I'm sorry, December 5th?
+[00:58] [Michael]: Yeah, December 5th, yep.
+[01:00] [Receptionist]: December 5th, okay.
+[ ... Silence (15s) ... ]
+[01:15] [Receptionist]: So you're looking to see who is your insured?
+[01:17] [Michael]: Uh, yes. Yeah, it, it lists the name Hassan Haji Ali, but, um, that doesn't get me anywhere as all of our policies are, um, commercial policies, so they're all listed under a company name.
+[01:32] [Receptionist]: Right, so I do see here that, wait. So the liability is, um, actually from Protective Insurance, not Progressive.
+[01:43] [Michael]: So, we, our name used to be Protective Insurance Company and then we, um, we merged into Progressive a couple years ago. So, yeah.
+[01:52] [Receptionist]: Oh, okay. I understand. Okay, I'm sorry for the confusion. So I have here that the driver or your guys's insured is, um, Hassan Haji Ali, actually. Let me take a look at the police report. Um, I have some more information on there. I can also see for you if the case manager is available. Do you need her information?
+[02:19] [Michael]: Yeah, that'd be great.
+[02:21] [Receptionist]: Yeah. So the case manager is Ms. Paige, P-A-Y-G-E, G as in golf, E, at beyandassociates.com. That is her email. Um, do you also need me to, like, send you a copy of the police report?
+[02:51] [Michael]: Um, it wouldn't get directly to me, but I can give you like our claims email. That would event— it would eventually get to, to us, I guess, if it's not yours, yeah.
+[03:01] [Receptionist]: I'm sorry, go ahead.
+[03:02] [Michael]: Do, do you happen to have what our insured's policy number would be?
+[03:09] [Receptionist]: Yeah, at least the one that we have on the police report from the one at fault, which would be the Hassan Haji Abbas Ali. Mhm. The policy is zero— now let me take a look at the— yeah, it's 0L, L as in low, 00, 00, 86, dash 25.
+[03:40] [Michael]: Perfect, that helps me tremendously, actually. So.
+[03:44] [Receptionist]: Awesome. Is there any other information you might need from me or should I go ahead and see if Ms. Paige is available for you?
+[03:53] [Michael]: Um, no, you can go ahead and see if Ms. Paige is available. That, that would be great. Thank you.
+[03:59] [Receptionist]: All right, you're welcome. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

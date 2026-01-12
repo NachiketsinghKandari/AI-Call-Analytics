@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the assigned case manager for the file and initiated a transfer to his voicemail per the caller's request.",
+    "call_duration_seconds": 46.87,
+    "call_duration_formatted": "00:46"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "voicemail_or_message_request"
+    ],
+    "description": "The caller requested to be sent to the case manager's voicemail, and the receptionist initiated the transfer before the call ended."
+  }
+}

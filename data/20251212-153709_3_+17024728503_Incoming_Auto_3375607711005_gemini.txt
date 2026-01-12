@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Erica / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Erica]: Hello, this is Erica calling from Proof Partners. I am calling to see if I can, uh, speak to someone regarding a check that we have not received for Mr. Robert Pedru. I believe Tara is the one that's handling the case, if I'm not mistaken.
+[00:26] [Receptionist]: Okay, one second. You said Robert Perdue?
+[00:29] [Erica]: Mhm.
+[00:30] [ ... Silence (26s) ... ]
+[00:56] [Receptionist]: What, um, what was the date of loss?
+[00:59] [Erica]: Date of loss is twelve thirteen twenty twenty-three.
+[01:02] [ ... Silence (6s) ... ]
+[01:08] [Receptionist]: Okay, let me get Tara for you. I'll go ahead and transfer you over.
+[01:18] [Erica]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

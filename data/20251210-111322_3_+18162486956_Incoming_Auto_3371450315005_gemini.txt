@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Tina / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hello, Bey and Associates, how may I help you?
+[00:07] [Tina]: Hi, my name is Tina, I'm calling from the Hurt 911 Injury Centers in regards to one of our mutual clients. I was hoping to speak to the case manager of Ms. Wanesha French.
+[00:17] [Receptionist]: Sure. What is the name for the client?
+[00:19] [Tina]: Uh, Wanesha. So it's spelled W-A-N-E-S-H-A. Last name is French, F-R-E-N-C-H.
+[00:31] [Receptionist]: Okay.
+[00:32] [ ... Silence (12s) ... ]
+[00:44] [Receptionist]: Okay, let's see who is the case manager. One moment.
+[00:52] [ ... Silence (8s) ... ]
+[01:00] [Receptionist]: All right, so let's see if the case manager is available. Stay on the line. Thank you so much.
+[01:05] [Tina]: Uh, sorry, before you go, can I get their first and and last um, their first initial of the last name as well? First name?
+[01:12] [Receptionist]: Her name is Peggy, it's spelled P-A-Y-G-E. And the first initial is A for apple.
+[01:22] [Tina]: Thank you so much.
+[01:24] [Receptionist]: All right, hold on.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller attempted to return a call but could not provide a client name or specific contact. The receptionist stated she could not route the call without identifying information, and the call ended without a transfer or message being taken.",
+    "call_duration_seconds": 47.3,
+    "call_duration_formatted": "00:47"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted because the caller was unable to provide a client name or specific staff member to whom the call should be routed."
+  }
+}

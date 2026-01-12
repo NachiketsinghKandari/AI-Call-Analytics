@@ -1,0 +1,53 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fathima / Role: Receptionist at Bey and Associates: 19 turns
+  • Speaker 2 / Alyssa / Role: Caller from Arrowhead Clinics: 20 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fathima, how may I assist you today?
+[00:07] [Alyssa]: Hi Ms. Fathima, my name is Alyssa, I'm calling from Arrowhead Clinics in regards to two patients. I've got some patients that treat here with us. I was just calling to see if I can get, um, some contact information for their case managers.
+[00:21] [Receptionist]: Oh absolutely, may I please have the client first and last name, let's start with one.
+[00:25] [Alyssa]: Okay, so the first one is going to be Mr. Demario Reed.
+[00:32] [Receptionist]: Alrighty, as I am familiar with this one, please bear with me.
+[00:36] [Alyssa]: Yes ma'am.
+[00:38] [Receptionist]: His case manager is Ms. Victoria Morales.
+[00:46] [Alyssa]: Victoria Morales. Um, and do you happen to have a good email address for Ms. Morales?
+[00:51] [Receptionist]: Absolutely. It is Victoria, her first name, at Bey and Associate dot com, and it's spelled out A-N-D.
+[01:04] [Alyssa]: Bey and Associates with an S?
+[01:06] [Receptionist]: Yes.
+[01:07] [Alyssa]: Okay, perfect. Dot com. Beautiful, thank you.
+[01:12] [Receptionist]: Yeah, and do you need her phone number as well or just her email?
+[01:15] [Alyssa]: Um, I'll take her phone number as well, that'd be perfect.
+[01:19] [Receptionist]: Okay, so her direct line is 470-615-0710.
+[01:28] [Alyssa]: Perfect. And the second patient? The second patient is going to be Ms. Shavia Hill.
+[01:35] [Receptionist]: Uh, I would need for you to spell that name for me please, I'm so sorry.
+[01:40] [Alyssa]: Absolutely. That's going to be, her first name is S-H as in horse, A-V as in Victor, I-A.
+[01:53] [Receptionist]: And her last name?
+[01:54] [Alyssa]: Is Hill, H-I-L-L.
+[01:58] [Alyssa]: Arrowhead Clinic, this is Alyssa. Hey Sadie.
+[02:07] [Receptionist]: The date of loss was on November the 13th. Thank you. You too, thank you.
+[02:17] [Alyssa]: I'm sorry, what'd you say?
+[02:18] [Receptionist]: Oh that's okay, I know we are working. Date of loss was on November the 13th.
+[02:24] [Alyssa]: Yes ma'am.
+[02:25] [Receptionist]: Alright, so her, um, case manager is Ms. Paige Almon. Paige is P-A-Y as in yellow, G as in golf, E as in echo.
+[02:40] [Alyssa]: Perfect.
+[02:41] [Receptionist]: And her last name is Almon without the D at the end.
+[02:45] [Alyssa]: Okay, so it's like, like the nut without the D.
+[02:48] [Receptionist]: You got it.
+[02:49] [Alyssa]: Perfect.
+[02:50] [Receptionist]: And her email is just her name, Paige at Bey and Associate dot com, and it's spelled out as well, A-N-D.
+[02:58] [Alyssa]: Perfect.
+[03:00] [Receptionist]: And her phone number is 470-615-0715.
+[03:14] [Alyssa]: Alright, Ms. Fathima, I really appreciate your help today and I appreciate your patience as well.
+[03:19] [Receptionist]: You're so welcome. You have an amazing weekend, eh?
+[03:22] [Alyssa]: You too, thank you.
+[03:24] [Receptionist]: Bye-bye.
+[03:25] [Alyssa]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

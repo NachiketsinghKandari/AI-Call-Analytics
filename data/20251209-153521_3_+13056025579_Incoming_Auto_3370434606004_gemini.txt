@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Rachel / Role: Caller from Metro Ambulance: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel, how can I help you?
+[00:07] [Rachel]: Hello, this is Rachel and I'm calling on behalf of Metro Ambulance, the billing department. I'm just trying to get an update for the case of the patient Cleo Strain.
+[00:22] [Receptionist]: Thank you. One moment. Reduction phase so far.
+[00:29] [Rachel]: And did you receive our bill?
+[00:32] [ ... Silence (10s) ... ]
+[00:42] [Receptionist]: You said you're from Metro?
+[00:44] [Rachel]: Yes, Metro Ambulance.
+[00:46] [Receptionist]: What is the amount of the bill?
+[00:51] [Rachel]: This is for three thou— sorry, 2,369 and 48 cents.
+[00:57] [Receptionist]: Mm-hmm, yes we did.
+[00:59] [Rachel]: Okay, and can I call you in 60 days just to do a follow-up about this case?
+[01:04] [Receptionist]: Yeah.
+[01:05] [Rachel]: Okay, I will do that. Thank you so much and thank you for taking the call. Have a great day.
+[01:11] [Receptionist]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 10 turns
+  • Speaker 2 / [Joe] / Role: Caller from Spine Muscle and Joint: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bay and Associates. This is Dionel.
+[00:08] [Joe]: Yes, uh, this is Joe with Spine Muscle and Joint. I was calling on a patient by the name of Gary Sadler, S-A-D-D-L-E-R, and I'm needing to get some, uh, policy limits on this patient if you have them.
+[00:32] [Receptionist]: I'm sorry, you said you are calling from where?
+[00:37] [Joe]: Spine Muscle and Joint.
+[00:43] [Receptionist]: Okay, and what- what is the date of loss?
+[00:46] [Joe]: Uh, let me take a look. So, I have, uh, August 26th, 2025.
+[00:57] [Receptionist]: Yes, so the limits are 25/50.
+[01:02] [Joe]: 25/50. Okay. Five- fifty. All right. And do- would you happen to know who the case manager is on this?
+[01:17] [Receptionist]: Her name is Tyana, T as in Tom, Y-A-U-N-A.
+[01:27] [Joe]: Okay, hold on, let me write that- let me get that down one more time. What was that, uh, again? Spell for me?
+[01:32] [Receptionist]: T-Y-A-U-N-A.
+[01:38] [Joe]: Got it. Is there an email address for her as well or no?
+[01:43] [Receptionist]: Yes. Um, so it's her first name, Tyana at bayandassociates.com. Everything spelled out.
+[01:54] [Joe]: Uh, okay. Bayandassociates.com. Gotcha.
+
+[ ... Silence (6s) ... ]
+
+[02:03] [Joe]: All right. Well, uh, I appreciate that. Thank you very much. And can I get your name, please?
+[02:07] [Receptionist]: Yes, D-I-O-N-E-L.
+[02:12] [Joe]: Okay. Uh, spell it for me one time. It's- the speaker's a little off on my end, so very sorry about that.
+[02:25] [Receptionist]: D-I-O-N-E-L.
+[02:30] [Joe]: D-I-O-N-E-L. Okay. All right then. Well, thank you very much for, uh, that information. Thank you.
+[02:38] [Receptionist]: You too. Bye.
+[02:39] [Joe]: All right. Take care. Uh-huh. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

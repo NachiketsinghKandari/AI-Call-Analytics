@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Sam / Role: Caller from Advanced Sports Medicine Center: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:10] [Sam]: Hi Daniel, this is Sam from Advanced Sports Medicine Center. I'm calling today just to get a case manager email address for a client that we're both working with.
+[00:19] [Receptionist]: What is the name?
+[00:21] [Sam]: It is Gerald Reynolds.
+[00:24] [ ... Silence (8s) ... ]
+[00:32] [Receptionist]: So case manager is Stephanie, S-T-E-P-H-A-N-I-E, and the email stephanie@beyandassociates.com.
+[00:50] [Sam]: Thank you, that's actually all I—
+[00:53] [Receptionist]: Huh? Everything spelled out. So B-Y-A-N-D associates.com.
+[00:59] [Sam]: Thank you. Bye. Happy Monday. Take care.
+[01:04] [Receptionist]: You too.
+[01:05] [Sam]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

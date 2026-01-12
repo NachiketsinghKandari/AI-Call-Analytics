@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Keonah / Role: Caller from Regional Medical Group: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking?
+[00:05] [Keonah]: Hi, good afternoon. This is Keonah calling from Regional Medical Group. How are you?
+[00:09] [Receptionist]: I'm doing well, thank you for asking. How can I help you?
+[00:12] [Keonah]: I'm reaching out in regards to seeing if I could get the case manager email for Tequilia Ashmore?
+[00:23] [Receptionist]: Ashmore?
+[00:24] [Keonah]: Yes. A-S-H-M-O-R-E.
+[00:29] [Receptionist]: That would be Stephanie Peck. S-T-E-P-H-A-N-I-E at Bey, B-E-Y, A-N-D, associates with an S, dot com.
+[00:44] [Keonah]: All right, that is all I need for today. Thank you so much. You have a great rest of your day.
+[00:48] [Receptionist]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

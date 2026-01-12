@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates Law Firm: 9 turns
+  • Speaker 2 / [Speaker 2] / Role: Representative from Progressive Insurance: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devon speaking today.
+[00:06] [ ... Silence (6s) ... ]
+[00:13] [Receptionist]: Hello?
+[00:14] [Speaker 2]: Yes, can you hear me?
+[00:16] [Receptionist]: Yes, now I can hear you, miss. Thank you for calling Bain and Associates, how can I assist you?
+[00:23] [Speaker 2]: Yes, I'm calling because you guys are representing a client named Romero Randall and I wanted to provide you all with a notice. I'm calling from Progressive Insurance.
+[00:32] [ ... Silence (10s) ... ]
+[00:42] [Receptionist]: You said last name is Randall, R-A-N-D-A-L-L?
+[00:46] [Speaker 2]: The last name is Randall and the first name is Romero.
+[00:52] [Receptionist]: Okay, R-O-M-E-O, sorry, R-O-M-E-R-O, right? Romero.
+[00:58] [Speaker 2]: Yes. Romero.
+[01:02] [Receptionist]: Okay. And you wanted to present a notice. Let me get you over to Paige Almond, she is the case manager, okay?
+[01:09] [Speaker 2]: Okay.
+[01:11] [ ... Silence (11s) ... ]
+[01:22] [Receptionist]: I'm sorry, it seems like Paige already left for today. Would you like me to leave a message on her voicemail?
+[01:27] [Speaker 2]: Yeah, are you gonna transfer me to the voicemail?
+[01:31] [Receptionist]: Yes ma'am, I can transfer you to her directly.
+[01:34] [Speaker 2]: All right.
+[01:36] [Receptionist]: All right, let me transfer you over. Thank you so much for calling.
+[01:40] [Speaker 2]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

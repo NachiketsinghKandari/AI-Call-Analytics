@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Sasha / Role: Receptionist at Bain and Associates: 8 turns
+  • Speaker 2 / John Doe / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bain and Associates, this is Sasha. How can I help you?
+[00:05] [John Doe]: Hi, Sasha. This is, uh, John Doe.
+[00:07] [Receptionist]: Hi, John. How can I help you today?
+[00:10] [John Doe]: Um, I was, uh, calling to, like, check on the status of my, uh, case.
+[00:15] [Receptionist]: Sure, I can help with that. Let me just, uh, pull up your file.
+[00:18] [ ... Silence (7s) ... ]
+[00:25] [Receptionist]: Okay, I have it here. It looks like, uh, we're still waiting on some documents.
+[00:28] [John Doe]: Oh, okay. Which, uh, which documents are those?
+[00:32] [Receptionist]: It looks like we need the, uh, medical records from your last visit.
+[00:36] [John Doe]: Right, right. I'll, uh, I'll get those to you, uh, by the end of the week.
+[00:40] [Receptionist]: That would be great. Is there anything else?
+[00:43] [John Doe]: No, that's, uh, that's all. Thanks, Sasha.
+[00:45] [Receptionist]: You're welcome, John. Have a good day.
+[00:47] [John Doe]: You too. Bye.
+[00:48] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

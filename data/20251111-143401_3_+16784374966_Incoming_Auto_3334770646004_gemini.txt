@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 12 turns
+  • Speaker 2 / Abretha Mitchell / Role: Client: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, good day. This is Jesse from Bain and Associates. How can I help you?
+[00:06] [Abretha Mitchell]: Good evening. How are you?
+[00:09] [Receptionist]: Uh, good. How are you?
+[00:11] [Abretha Mitchell]: I'm great. May I please, may I please get you to connect me to Lillian Breeland?
+[00:19] [Receptionist]: Lillian Breeland. Great. And where are you calling from?
+[00:23] [Abretha Mitchell]: I'm calling, you mean what state am I calling from?
+[00:28] [Receptionist]: Uh, yes.
+[00:30] [Abretha Mitchell]: I'm calling from Atlanta, Georgia.
+[00:34] [Receptionist]: Atlanta, Georgia. And are you calling from a facility or are you a client of our, of our, uh, ours?
+[00:41] [Abretha Mitchell]: I'm a, I'm sorry, I'm sorry. I'm one of your clients.
+[00:45] [Receptionist]: Oh, understood. Understood. Perfect.
+[00:53] [Receptionist]: How may I assist you?
+[00:55] [Abretha Mitchell]: I would like to speak, if I could, with Lillian Breeland. She's my case manager.
+[01:01] [Receptionist]: She's your case manager. Perfect. Let me help you with this, ma'am. Can you provide me your name so I can search for your information?
+[01:08] [Abretha Mitchell]: Yes. My name is Abretha, A-B-R-E-T-H-A, Mitchell, M-I-T-C-H-E-L-L.
+[01:17] [Receptionist]: Understood. Give me one moment, ma'am.
+[ ... Silence (13s) ... ]
+[01:31] [Receptionist]: All right. Uh, do you allow me to place you on a brief hold for one minute? Let me see if your case manager is available, ma'am, all right?
+[01:42] [Abretha Mitchell]: Sure. Okay. Thank you very much.
+[01:45] [Receptionist]: Thank you.
+[01:47] [Receptionist]: Thank you so much for holding, ma'am.
+[01:49] [Abretha Mitchell]: Uh-huh.
+[01:50] [Receptionist]: Uh, let me tell you, the case manager is not available at the moment. However, I can transfer you over to her line so you can leave a voicemail if you'd like.
+[01:58] [Abretha Mitchell]: Thank you so very much.
+[02:01] [Receptionist]: Understood. So, do you allow me to place you on a brief hold one minute again?
+[02:05] [Abretha Mitchell]: Sure.
+[02:07] [Receptionist]: Thank you, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

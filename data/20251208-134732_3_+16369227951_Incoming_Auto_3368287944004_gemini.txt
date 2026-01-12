@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Cheryl / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina speaking. How can I help you?
+[00:05] [Cheryl]: Yes, hi. This is Cheryl with Gallagher Bassett. Uh, excuse me. [Coughing sound]. We received a demand— a demand letter. Um, I don't have— there's no phone number for the actual attorney assigned. Um, and they gave a claim number, but the claim number they provided is incorrect and I can't find a claim in our system. Um...
+[00:29] [Receptionist]: Can I have the client's name?
+[00:31] [Cheryl]: Yes, uh, Soeung Sy? I don't know if I'm pronouncing that right.
+[00:38] [Receptionist]: If you can spell it for me, please. Sorry.
+[00:42] [Cheryl]: Yeah, it's S-O-E-U-N-G is the first name, and then last name is S-Y.
+[00:51] [Receptionist]: S-O-E-U-N-G. Got it. Got it here. Thank you. Let's see. Victoria is the case manager. Okay. And you're calling in from...
+[01:05] [Cheryl]: Gallagher Bassett.
+[01:08] [Receptionist]: All right. Let me get ahold of her, okay? Bear with me.
+[01:11] [Cheryl]: What's— what's your direct number real quick?
+[01:13] [Receptionist]: Um, let me get that for you. Okay. Victoria's number is 470-615-0710.
+[01:25] [Cheryl]: 0710. Okay.
+[01:27] [Receptionist]: Yeah. Let me, uh, try to get her, okay? One moment.
+[01:30] [Cheryl]: Thanks.
+[01:31] [ ... Silence (5s) ... ]
+[01:36] [Receptionist]: All right. Well, thank you for holding. Victoria's not available right now. Um, I can leave her or transfer to her voicemail.
+[01:41] [Cheryl]: Okay. What's her email address as well?
+[01:44] [Receptionist]: For Victoria? I can give that to you. One second. Yes. That would be Victoria, right her first name, Victoria at beyandassociates.com, which is B as in Bravo, E as in Echo, Y as in Yankee, A-N-D associates with an S at the end dot com.
+[02:05] [Cheryl]: Okay.
+[02:06] [Receptionist]: All right.
+[02:07] [Cheryl]: Yeah, if you could transfer me to her voicemail, please.
+[02:11] [Receptionist]: Perfect. Of course. Second here.
+
+========================================
+TRANSCRIPT END
+========================================

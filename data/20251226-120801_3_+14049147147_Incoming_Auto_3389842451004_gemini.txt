@@ -1,0 +1,57 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: AI Assistant: 5 turns
+  • Speaker 2 / Joceyln Hicks / Role: Caller: 16 turns
+  • Speaker 3 / Unknown / Role: Receptionist at Bey and Associates: 16 turns
+
+----------------------------------------
+
+[00:00] [Emma]: This is Emma, how can I help you?
+[00:04] [Joceyln Hicks]: Hi, I was calling to speak with Ms. Tiana Evans.
+[00:09] [Emma]: Sure, I can try to reach Diana Evans. May I have your name?
+[00:13] [Joceyln Hicks]: Uh, Tiana, it's— it's Tiana, sorry, my caseworker.
+[00:19] [Emma]: Hi, this is Emma, how can I help you?
+[00:23] [Joceyln Hicks]: Hi, can I speak with Ms. Tiana Evans?
+[00:27] [Emma]: I didn't see Tiana Evans in our directory. Let me connect you to our customer success team. They can help track them down. Is that okay?
+[00:38] [Joceyln Hicks]: Thank you. Yes.
+[00:41] [Emma]: Transferring you to our customer success team. No problem. What's your callback number?
+[00:46] [ ... Silence (26s) ... ]
+[01:12] [Receptionist]: Thank you for calling Bey and Associates, how may I help you?
+[01:16] [Joceyln Hicks]: Hi, my name is Jocelyn Hicks. I was calling to speak with Ms. Tiana Evans.
+[01:21] [Receptionist]: One moment, please. Let me see if she's available.
+[01:25] [ ... Silence (7s) ... ]
+[01:32] [Receptionist]: Okay, before I transfer you, may I get your first name?
+[01:36] [Joceyln Hicks]: Jocelyn Hicks.
+[01:38] [Receptionist]: Jocelyn, can you spell that for me?
+[01:40] [Joceyln Hicks]: J-O-C-E-Y-L-N H-I-C-K-S.
+[01:48] [Receptionist]: Hicks is your last name?
+[01:51] [Joceyln Hicks]: Mhm.
+[01:52] [Receptionist]: Okay. And this is regarding?
+[01:54] [Joceyln Hicks]: My case.
+[01:56] [Receptionist]: Okay.
+[01:57] [ ... Silence (12s) ... ]
+[02:09] [Receptionist]: All right, I'm going to transfer you now. Thank you.
+[02:12] [Joceyln Hicks]: Thanks.
+[02:13] [ ... Silence (10s) ... ]
+[02:23] [Receptionist]: Oh, okay, thank you for holding. I'd be happy to take a message or if you have their contact information you're also welcome to contact them directly. Um, may I get your phone number please?
+[02:34] [Joceyln Hicks]: 404-914-7147.
+[02:42] [Receptionist]: That's 404-914-7147.
+[02:47] [Joceyln Hicks]: Yes.
+[02:48] [Receptionist]: Thank you. May I get your email address?
+[02:51] [Joceyln Hicks]: It is J-O-C-E-Y-L-N-H-I-C-K-S-40@gmail.com.
+[03:07] [Receptionist]: Okay, that's J-O-C-E-L-Y-N...
+[03:13] [Joceyln Hicks]: Y-L-N.
+[03:14] [Receptionist]: Y-L-N, sorry, J-O-C-E-Y-L-N... Y-L-N, sorry, J-O-C-E-Y-L-N H-I-C-K-S 40 @gmail.com.
+[03:27] [Joceyln Hicks]: Yes, ma'am.
+[03:28] [Receptionist]: Okay.
+[03:29] [ ... Silence (5s) ... ]
+[03:34] [Receptionist]: All right, I'll go ahead and send this message over now so that they can reach back out to you, okay?
+[03:39] [Joceyln Hicks]: Okay, thank you so much.
+[03:41] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

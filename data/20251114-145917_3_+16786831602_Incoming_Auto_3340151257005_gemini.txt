@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Christy / Role: Caller: 6 turns
+  • Speaker 2 / Kim / Role: Receptionist at Jones Associates: 6 turns
+
+----------------------------------------
+
+[00:00] [Christy]: ...where I went to and from.
+[00:03] [Receptionist]: Jones Associates, Kim speaking.
+[00:05] [Christy]: Hello?
+[00:06] [Receptionist]: Yes, ma'am, how can I help?
+[00:08] [Christy]: Hi, um, my name's Christy. I originally was speaking with Dyanel, Dyanel, um, was a gentleman. Does that sound familiar?
+[00:18] [Receptionist]: Yes, let me get him for you.
+[00:22] [Christy]: Okay, thanks.
+[00:24] [Receptionist]: Christy? Hi. Yes, um, he is just finishing up lunch. Is gonna give you a call as soon as he finishes.
+[00:32] [Christy]: Okay, that'd be great.
+[00:34] [Receptionist]: All right, then you have a great rest of your day.
+[00:36] [Christy]: You too.
+[00:37] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

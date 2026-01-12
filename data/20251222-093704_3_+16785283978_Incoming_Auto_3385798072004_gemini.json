@@ -1,0 +1,21 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested property damage information for a mutual client. The receptionist asked the caller to wait, and the call ended after six seconds of silence without further action.",
+    "call_duration_seconds": 67.46,
+    "call_duration_formatted": "01:07"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was initiated; the call ended abruptly after the receptionist asked the caller to wait."
+  }
+}

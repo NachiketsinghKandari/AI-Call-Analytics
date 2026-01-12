@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Kay / Role: Caller from Ace Cash Express: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Kay]: Hi, how you doing? My name is Kay, I'm calling from Ace Cash Express. I was just trying to get a check verified right quick.
+[00:13] [Receptionist]: Uh, yes, what's the name of the, uh, client?
+[00:16] [Kay]: Uh, Kyla Rosenquist.
+[00:20] [Receptionist]: Rosenquist. Give me one moment.
+[00:23] [ ... Silence (5s) ... ]
+[00:28] [Receptionist]: Uh, what is the amount of the check, ma'am?
+[00:31] [Kay]: 7,000, 7— my bad, 7,777 dollars and 97 cents.
+[00:42] [Receptionist]: All right, give me one moment.
+[00:46] [ ... Silence (21s) ... ]
+[01:07] [Receptionist]: Uh, yes, ma'am, let me tell you, it looks like that there is a check for 7,777. Uh, let me tell you, it looks like that it was sent on the 23rd yesterday. But yes, ma'am, there is a check for that amount.
+[01:26] [Kay]: Okay, so you could verify there are no stops or holds or anything like that?
+[01:31] [Receptionist]: Uh, no. No, unfortunately I cannot see any information besides the check and the amount, um, and the date, which is yesterday.
+[01:43] [Kay]: Okay, that's fine. I appreciate you so much. And what was your name?
+[01:47] [Receptionist]: Uh, my name is Jesse, ma'am. I'm from the intake department.
+[01:51] [Kay]: Jesse?
+[01:52] [Receptionist]: Jesse, J-E-S-S-E, yes.
+[01:54] [Kay]: Okay, thank you, Jesse, for your help today and Happy New— I mean, Happy, uh, what is it? Christmas.
+[01:59] [Receptionist]: Christmas. Yes, ma'am, you too.
+[02:02] [Kay]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

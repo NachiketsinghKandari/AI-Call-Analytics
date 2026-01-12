@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at BNSH Lawson: 4 turns
+  • Speaker 2 / [Kayla] / Role: Bodily Injury Adjuster at Progressive Insurance: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: B-N-S-H, it's Lawson, this is Karina, how can I help you?
+[00:07] [Kayla]: Hi, my name's Kayla. I'm calling from Progressive Insurance regarding your client, Taisha Spahn.
+[00:16] [Receptionist]: Okay, give me one moment. [ ... Silence (7s) ... ] Okay, how can I help you today now?
+[00:27] [Kayla]: Just wanted to touch base. I'm going to be the bodily injury adjuster on this one. Um, I wanted to confirm that you got the declarations page that the property damage adjuster sent, and then also confirm any Medicare or Medicaid coverage.
+[00:43] [Receptionist]: Okay. Let me go ahead and place you on a brief hold, alright? Let me get that information for you.
+[00:53] [Kayla]: Okay, thank you.
+[00:55] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

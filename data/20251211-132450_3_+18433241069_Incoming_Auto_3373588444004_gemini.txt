@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Sanjel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Jimmy Jones / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Sanjel, how may I help you?
+[00:05] [Jimmy Jones]: Yes, uh, my name is Jimmy Jones. I am trying to get in touch with, I think her name is Susan.
+[00:13] [Receptionist]: Susan? Are you a client?
+[00:16] [Jimmy Jones]: Yes, sir.
+[00:18] [Receptionist]: Let me look up your file, one minute. Jimmy Jones?
+[00:22] [ ... Silence (6s) ... ]
+[00:28] [Jimmy Jones]: Yes, Jimmy, yeah, Jimmy Jones.
+[00:31] [Receptionist]: Give me a minute.
+[00:33] [ ... Silence (14s) ... ]
+[00:47] [Receptionist]: All right, let's see if Susan is available. Please stay on the line. Thank you so much.
+[00:52] [Jimmy Jones]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

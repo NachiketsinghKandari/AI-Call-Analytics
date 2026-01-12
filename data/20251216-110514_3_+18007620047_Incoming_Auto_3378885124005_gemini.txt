@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Molly / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: [Unintelligible] Bey and Associates, this is [unintelligible], how can I help you?
+[00:07] [Molly]: Hi, um, my name's Molly, I'm with Wright-Patt Credit Union, and I need to verify active employment of one of the employees that works there. Is there a way I can get a hold of, um, your HR department?
+[00:19] [Receptionist]: What is the name of the employee?
+[00:22] [Molly]: Uh, it's Kadeem Gibson, and it's K-H-A-D-E-E-M.
+[00:30] [Receptionist]: Okay, one moment.
+
+========================================
+TRANSCRIPT END
+========================================

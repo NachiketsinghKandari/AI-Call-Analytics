@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Renee / Role: Caller from Ike Orthopedics: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:04] [Renee]: Hey Kimmy. Kimmy, my name is Renee, I'm calling from Ike Orthopedics. Hey Kimmy.
+[00:10] [Receptionist]: Uh-huh.
+[00:11] [Renee]: I might have a phone number. I need to speak to Brittany Lawson. I might have a phone number directly.
+[00:19] [Receptionist]: You want her phone number directly?
+[00:22] [Renee]: No, it's— I think I do have it, but I mean, I don't know. I'm so used to calling, you know, the main number. Is um, she available, do you know?
+[00:32] [Receptionist]: Um, it— yeah, she she was in today. I'm not sure if she if she has left yet, but I can go ahead and transfer you over if you wish.
+[00:42] [Renee]: Thank you.
+[00:43] [Receptionist]: You're welcome. Have a great rest of your day.
+[00:45] [Renee]: You too.
+[00:46] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

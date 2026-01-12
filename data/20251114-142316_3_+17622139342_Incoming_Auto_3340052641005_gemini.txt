@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at B and A Associates: 9 turns
+  • Speaker 2 / [Destiny] / Role: Representative at Emory Hospital: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Sanjava from B and A Associates speaking, how may I help you?
+[00:07] [Destiny]: Hi, my name is Destiny, I'm calling on behalf of Emory Hospital. I was calling to see if I could locate some information on a couple patients.
+[00:16] [Receptionist]: Sure. Uh, what is the name for the patient?
+[00:20] [Destiny]: Brittany Dunton, D-U-N-T-O-N.
+[00:24] [Receptionist]: Brittany... let's see. [ ... Silence (32s) ... ] One minute, it's loading. Sorry. [ ... Silence (18s) ... ] Mm... you're saying that it is Dunton, D-O-N-T-O-N?
+[01:21] [Destiny]: D-U-N-T-O-N.
+[01:25] [Receptionist]: Okay, thanks. Okay, I found this, sorry for that. Can I have please the date of loss?
+[01:32] [Destiny]: This was on September 23rd of this year.
+[01:36] [Receptionist]: Thank you. And how may I help you?
+[01:39] [Destiny]: I'm trying to locate first party auto insurance information for possible MedPay.
+[01:45] [Receptionist]: First party auto insurance... let's see... insurance... [ ... Silence (19s) ... ] And when you say first party, it is like Brittany, right?
+[02:08] [Destiny]: Yes.
+[02:09] [Receptionist]: And... but actually I can see here that she only has health insurance.
+[02:17] [Destiny]: Okay. No MedPay?
+[02:19] [Receptionist]: Mm, no MedPay. Only health insurance.
+[02:23] [Destiny]: Okay. All righty, then that is all I needed. Thank you so much.
+[02:27] [Receptionist]: You're more than welcome. Have an excellent rest of your day, okay? Bye-bye.
+[02:32] [Destiny]: You too. Thanks.
+
+========================================
+TRANSCRIPT END
+========================================

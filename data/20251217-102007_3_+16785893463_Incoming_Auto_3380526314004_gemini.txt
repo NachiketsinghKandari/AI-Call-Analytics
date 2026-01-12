@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Samantha / Role: Caller from Allstate Claims: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Samantha]: Hey, this is Samantha with Allstate Claims, calling on Madison Haskell.
+[00:12] [Receptionist]: Is it, uh, wait, two T's or only one?
+[00:22] [Samantha]: Uh, I'm sorry, it's one, yeah.
+[00:25] [Receptionist]: Okay, so that would be with Lonnie Puchi. I'm not sure, let me see if she's in.
+[00:33] [ ... Silence (6s) ... ]
+[00:39] [Receptionist]: Okay, let me get you the attorney.
+[00:41] [Samantha]: Okay.
+[00:42] [Receptionist]: Okay, one second.
+
+========================================
+TRANSCRIPT END
+========================================

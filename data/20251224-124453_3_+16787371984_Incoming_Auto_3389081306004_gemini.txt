@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Ayana / Role: Caller from Arrowhead Clinic: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. My name is Jesse. How can I assist you?
+[00:05] [Ayana]: Yes. Good afternoon. How you doing?
+[00:08] [Receptionist]: Ah, good, ma'am. Thank you for asking.
+[00:10] [Ayana]: My name is Ayana. I'm calling from Arrowhead Clinic. I'm calling on behalf of my patient. His name DeMario Reid.
+[00:17] [Receptionist]: All right. Give me one moment.
+[00:22] [ ... Silence (9s) ... ]
+[00:31] [Receptionist]: And this— his last name would be spelled R-E-E-D?
+[00:35] [Ayana]: No, R-E-I-D. Reid.
+[00:38] [Receptionist]: R-E-I-D. Got it. R-E-I-D. Got it. Understood. Uh, yes, ma'am. How can I assist you?
+[00:45] [Ayana]: I was calling and I was trying to see because I— I was trying to see who is the case manager on the claim.
+[00:53] [Receptionist]: Uh, let me tell you. So the case manager for this claim would be Ms. Victoria, Victoria Morales. Uh, however, they are going to leave today at one. Uh, let me see if she's available at the moment so I can transfer you over to her.
+[01:09] [Ayana]: Okay. Thank you.
+[01:11] [Receptionist]: I'll be right back with you real quick, ma'am.
+[01:13] [Ayana]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Laura / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Angelo from Bey and Associates, how may I help?
+[00:05] [Laura]: Hi, good morning. This is Laura calling from Georgia Spine and Orthopedics. I was calling to see if, um, a patient is being represented by you guys.
+[00:15] [Receptionist]: Um, sure. I would be happy to check. Can I have the name?
+[00:19] [Laura]: Yes, it would be Sean Benton.
+[00:24] [Receptionist]: Thank you.
+[ ... Silence (32s) ... ]
+[00:58] [Receptionist]: Um, and just to confirm, how do you spell the last name?
+[ ... Silence (16s) ... ]
+[01:17] [Laura]: It would be B as in boy, E, N as in Nancy, T-O, N as in Nancy.
+[01:26] [Receptionist]: Yes, I found it. Thank you. That is our client. Can I have the date of loss?
+[01:34] [Laura]: It would be 12/20/25.
+[ ... Silence (7s) ... ]
+[01:43] [Laura]: Would you be able to provide the case manager's information by chance?
+[01:50] [Receptionist]: Yes, so I'm going to spell it. Ready?
+[01:52] [Laura]: Okay. Mhm. Yes.
+[01:54] [Receptionist]: It is Devin, is spelled D-E-V-I-N. And then last name is capital M, lower case C, capital L, and then A-U-G-H-L-I-N.
+[ ... Silence (6s) ... ]
+[02:21] [Laura]: The first letter was M as in Mary?
+[02:23] [Receptionist]: Yes.
+[02:25] [Laura]: Okay. Perfect. And do you have his email by chance?
+[02:29] [Receptionist]: Yes, it's the same as the first name, Devin at D-E-Y-A-N-D associates dot com.
+[02:41] [Laura]: Perfect. Okay. I appreciate that information. That was all I needed.
+[02:46] [Receptionist]: No, you are more than welcome. Have an excellent rest of your day then. Bye-bye.
+[02:51] [Laura]: Have a great day. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Prisheet / Role: Caller from Geico: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Emma. How can I help you?
+[00:05] [Prisheet]: Hey, I was hoping to speak with someone in regards to a mutual client.
+[00:10] [Receptionist]: Sure, I can assist with that. May I have your name?
+[00:15] [Prisheet]: Yeah, I'm calling from insurance company Geico.
+[00:19] [Receptionist]: Sure. Can you tell me your name, please?
+[00:23] [Prisheet]: Yeah, it's Prisheet.
+[00:26] [Receptionist]: Got it. May I have your full name?
+[00:30] [Prisheet]: It's Prisheet from insurance company Geico.
+[00:36] [Receptionist]: Could you please provide your full name?
+[00:39] [Prisheet]: Mhm.
+[00:40] [ ... Silence (9s) ... ]
+[00:49] [Receptionist]: Are you still there?
+[00:51] [Prisheet]: Mhm.
+[00:52] [ ... Silence (9s) ... ]
+[01:01] [Receptionist]: Are you still there?
+[01:03] [Prisheet]: Mhm.
+[01:04] [ ... Silence (8s) ... ]
+[01:12] [Receptionist]: Could you please clarify your full name for me? And I can assist you further.
+[01:19] [Prisheet]: Yeah, it's Prisheet.
+[01:25] [Receptionist]: May I have the client's name that you're calling about?
+[01:29] [Prisheet]: Yeah, Larry Lugo.
+[01:34] [Receptionist]: I found the case for Larry Lugo. The case manager is Stephanie. How can I assist you further?
+[01:41] [Prisheet]: Um, I wanted to confirm if we can talk about property damage.
+[01:46] [Receptionist]: Please hold while I transfer you to the insurance department where they can assist you with matters regarding property damage.
+[01:54] [ ... Silence (7s) ... ]
+[02:01] [Receptionist]: Are you still there?
+[02:03] [Prisheet]: Mhm.
+[02:04] [Receptionist]: Yeah.
+[02:05] [ ... Silence (7s) ... ]
+[02:12] [Receptionist]: The insurance team isn't available right now. Let me take a message and make sure they reach out to you. What would be...
+
+========================================
+TRANSCRIPT END
+========================================

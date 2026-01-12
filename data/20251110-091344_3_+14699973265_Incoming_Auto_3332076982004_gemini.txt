@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bay and Associates: 3 turns
+  • Speaker 2 / Joey / Role: Liberty Mutual: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bay and Associates, Kim speaking.
+[00:05] [Joey]: Good morning, this is Joey over at Liberty Mutual. I uh wanted to get an email address for Mr. Matt McCarron if I could.
+[00:15] [Receptionist]: It is Matt, M-A-T-T, at Bay, B-E-Y, and Associates with an S, dot com. So matt at bay and associates dot com.
+[00:33] [Joey]: So Bay and Associates all spelled out, perfect. Okay, you are wonderful. I hope you have a fabulous day.
+[00:41] [Receptionist]: You too, sir. Bye-bye.
+[00:42] [Joey]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

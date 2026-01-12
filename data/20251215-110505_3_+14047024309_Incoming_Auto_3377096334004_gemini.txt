@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Michael Graham / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:07] [Michael Graham]: Hi, uh, my name is Michael Graham. How are you today?
+[00:11] [Receptionist]: I'm good, thank you so much for asking. How about you?
+[00:14] [Michael Graham]: Good, good. Um, I was calling because I needed to get representation for a few traffic tickets that I got and I wanted to inquire about your services if you're available for tomorrow at 8:30 AM.
+[00:29] [Receptionist]: Sure, but just to confirm, uh, you're saying that you need representation for some tickets, like...
+[00:41] [Michael Graham]: Yes sir, traffic tickets.
+[00:43] [Receptionist]: Traffic tickets. Uh, just to confirm, or just for in this case, we only represent personal injuries. In case that you get injured in an accident, any broken bones or something. For those kind of tickets, those tickets, our attorneys they don't work on that.
+[01:06] [Michael Graham]: Okay. Do you have, um, do you have one in mind or know one who who does representation for this kind of traffic ticket?
+[01:17] [Receptionist]: No, so far all the relationships that we have or the contacts, it is only for personal injuries or body injuries.
+[01:26] [Michael Graham]: Okay. I appreciate you. Thank you so much.
+[01:29] [Receptionist]: Yes, sorry for that. No worries.
+[01:31] [Michael Graham]: All right, bye.
+
+========================================
+TRANSCRIPT END
+========================================

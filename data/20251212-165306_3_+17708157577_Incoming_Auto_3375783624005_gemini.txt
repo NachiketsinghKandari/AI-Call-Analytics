@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Unknown]: Hello, how are you? Good afternoon.
+[00:08] [Receptionist]: I'm doing good, thank you so much for asking. Good afternoon. How may I help you?
+[00:13] [Unknown]: This would be the executive assistant to District Attorney Howard. I'm calling in reference to the holiday party that she was invited to tomorrow at the Tubman. So I just left a message for the individual that's coordinating the event. I do need to speak with someone, however, regarding, you know, details and logistics in terms of how many guests she's able to bring.
+[00:37] [Receptionist]: Sure, sure, sure. I can give you the telephone number for the manager who is the coordinator of everything, you know, for all that party. The phone number... Okay. Ready?
+[00:51] [Unknown]: Yes, sir.
+[00:52] [Receptionist]: Okay, it is 404-591-8928. His name is Matt McCarran.
+[01:02] [Unknown]: 8928. And what was his name again? I'm sorry.
+[01:05] [Receptionist]: Sure. Matt, M-A-T-T, McCarran.
+[01:12] [Unknown]: Perfect. Thank you so much. I certainly appreciate it.
+[01:16] [Receptionist]: You're more than welcome. Have a good one. Bye-bye.
+[01:19] [Unknown]: You as well. Merry Christmas to you.
+[01:21] [Receptionist]: Merry Christmas.
+
+========================================
+TRANSCRIPT END
+========================================

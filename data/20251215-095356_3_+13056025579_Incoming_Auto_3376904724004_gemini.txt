@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Abraham / Role: Caller from Metro Ambulance: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:08] [Abraham]: Hello sir, this is Abraham from the ambulance services, this is Metro Ambulance, and I'm just calling for one of your clients.
+[00:19] [Receptionist]: Name?
+[00:21] [Abraham]: The first name is Jocelyn and the last name is Hinck.
+[00:26] [ ... Silence (11s) ... ]
+[00:37] [Receptionist]: Spell me the last name please.
+[00:39] [Abraham]: H as in hotel, I, C as in cat, K, S as in Samuel.
+[00:46] [ ... Silence (11s) ... ]
+[00:57] [Receptionist]: Yes.
+[00:58] [Abraham]: Yes, the date of the accident is June 5th, 2024. I just need to let you know—
+[01:04] [Receptionist]: Yes, how can I help you?
+[01:06] [Abraham]: My god. Yes, I just need to know if the case is open and also to get a good fax number to send the ambulance bill, sir.
+[01:18] [Receptionist]: So yes, the case is still open. The fax is 404-399-6107.
+[01:32] [Abraham]: Thank you so much for the information, sir. Have a great day.
+[01:36] [Receptionist]: Thank you so much for the information, sir. Have a great day.
+
+========================================
+TRANSCRIPT END
+========================================

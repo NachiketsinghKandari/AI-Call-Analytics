@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Eugene Smith / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:04] [Eugene Smith]: Hello, this is Eugene Smith trying to reach attorney Epps.
+[00:10] [Receptionist]: Okay. Yep. You're in... Okay. Let me see. Mr. Smith. All right. You say, um, which, which, which attorney you're trying to reach?
+[00:25] [Eugene Smith]: I think it was Epps.
+[00:28] [Receptionist]: Epps. Let me see. Let me see. Let me see. Let me see. Let me see. Okay. I see, um, I see here, sir. One second. Let me get him for you. It's actually, um, Jonathan Steel, that's your attorney. And then the case manager is Miss Victoria Morales. One second. Let me get her for you—get him for you.
+[00:46] [ ... Silence (11s) ... ]
+[00:57] [Receptionist]: I'm sorry for the hold, Mr. Smith. Um, Mr. Steel is not available right now. And let me see here.
+[01:08] [Eugene Smith]: How about Miss Victoria?
+[01:11] [Receptionist]: Um, she's not in yet. I just sent her a direct message. So I'll go ahead and add, um, an email here so that either one, once they're in, that they can go ahead and, and, um, give you a call back. 'Cause I do see that he left a note saying that you left him a voicemail.
+[01:31] [Eugene Smith]: Yes, I did.
+[01:33] [Receptionist]: Mhm. So I'll go ahead and, and let him know to go ahead and give you a call as soon as he can.
+[01:39] [Eugene Smith]: Okay. Thank you, man.
+[01:41] [Receptionist]: You're welcome. Bye-bye.
+[01:43] [Eugene Smith]: Brother. Love that. Love ya.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bane and Associates: 14 turns
+  • Speaker 2 / [Gary Martin] / Role: Client: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bane and Associates, this is Tasha, how may I help you?
+[00:07] [Gary Martin]: Uh yes ma'am, my name is uh Gary uh Martin and I have a case uh pending but I'm having uh a lot of problems getting to my uh medical appointments and I missed an appointment uh I think it was Friday because of um transportation issue.
+[00:26] [Receptionist]: Okay.
+[00:31] [Gary Martin]: So I don't know if um if that's going to be a problem or because they they told me that it was very important that I didn't miss it but I called her and told her that I was halfway there she said if I couldn't get there like within um well she told me I had a 15 minute grace period. So I said okay I think I may I think I may make it but as it turned out I couldn't. So it it got to be after uh 15 minutes after so I just didn't uh go so I tried to uh reschedule but I just couldn't get an answer from them. So I just wanted to know is that going to be a big uh problem because I don't want them thinking I'm skipping my appointments because um...
+[01:00] [Receptionist]: No I'm not sure. No I'm not sure. When is your next appointment sir?
+[01:09] [Gary Martin]: Well um well I have appointment with the with the rehabilitation center that's this week I have like three appointments this week with them but they told me that the neurologist is in the same building but they told me they only come on certain days.
+[01:25] [Receptionist]: Mm-hmm.
+[01:26] [Gary Martin]: So I'm so I'm thinking that's why it was so crucial that I came um on that day.
+[01:27] [Receptionist]: Okay.
+[01:29] [Gary Martin]: So now I was just wondering do you all need to call them to tell them that you know I'm still want to make my appointments but they're not seeming to understand that I don't have the vehicle I that I had because of the accident. So when you're riding MARTA you may not make an appointment on time because it's all kind of issues with them.
+[01:57] [Receptionist]: Alrighty. Um if they haven't reached out not to me I'm not sure about the case manager sir but um if they do reach out I will explain it to them. I can give them a call also if you'd like. Is it Georgia Injury Center at in Conyers is that correct sir?
+[02:07] [Gary Martin]: Is this Bane and Associates?
+[02:12] [Receptionist]: Yes sir.
+[02:14] [Gary Martin]: Oh okay. Okay. Well no the location is um it's 34 Upper Riverdale Road. It's uh Southern Crescent Rehabilitation Center. That's where I'm that's where the appointment was located at.
+[02:25] [Receptionist]: Okay. Alrighty. Alrighty then. Okay. No you... You go ahead to your appointment sir um when you get there you explain to them that you're traveling by via MARTA for now okay um and and then they will accommodate your schedule.
+[02:44] [Gary Martin]: Okay. Well I mean they have actually but it's just that on this particular day you know I had to leave work and I guess the schedule during the mid I guess they just don't run as often because I left hours ahead of time so I would get there and I was only off by maybe 15 minutes but she said if you have a 15 minute grace period and if you can't make that you're going to have to reschedule. So I don't see why they just wouldn't let me go ahead and come that day because I was I told her I was halfway there.
+[03:12] [Receptionist]: Okay. Um yeah we're going to have to try to make it on time during for the next appointment.
+[03:22] [Gary Martin]: Oh yeah definitely. I mean I haven't missed any of the appointments that they've given me. I've been going now for about maybe three weeks. So I've made most um all the appointments at uh 34 Upper Riverdale Road. It was just on that particular day I just couldn't I just didn't make that one.
+[03:34] [Receptionist]: That's that's okay. Um we'll we'll handle that. We'll notify them. Um you just try to make it on time sir and if you have any additional problems um you can give us a call on that day and we'll try to reach out to the medical center okay?
+[03:54] [Gary Martin]: Okay. Okay my name's Gary Martin.
+[03:57] [Receptionist]: Yes sir Mr. Gary. Um the next day the next time you feel that you're going to miss your appointment um you reach out to them and if you can't if you can't make it that day or you're going to be a little few minutes late you can reach out to us and I'll notify the case manager sir.
+[04:15] [Gary Martin]: Oh okay. Well that sounds good to me.
+[04:19] [Receptionist]: Alrighty then. Perfect.
+[04:21] [Gary Martin]: Okay. Okay. Thanks.
+[04:23] [Receptionist]: You have a good day.
+[04:25] [Gary Martin]: You too ma'am.
+[04:27] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

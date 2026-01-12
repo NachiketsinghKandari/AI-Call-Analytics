@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain Associates: 4 turns
+  • Speaker 2 / [Jeremy Thomas] / Role: Constitution State Services: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, my name is Jesse, Bain Associates, how can I assist you?
+[00:06] [Jeremy Thomas]: Hi, this is Jeremy Thomas over at Constitution State Services on behalf of Turo, how are you doing today?
+[00:13] [Receptionist]: Uh, good sir. How may I assist you?
+[00:15] [Jeremy Thomas]: Uh, I am needing to speak with the attorney or paralegal who is handling Deshante Segers, that's S-I-G-E-R-S, date of loss 10/29 of 2025.
+[00:30] [Receptionist]: Um, all right, yes sir. Give me one moment. I do see her case manager assigned. Uh, do you allow me to place you on a brief hold for one minute? Let me see if she's available at the moment.
+[00:42] [Jeremy Thomas]: That's fine, sir.
+[00:43] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

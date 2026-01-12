@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Jennifer / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:06] [Jennifer]: Hi, this is Jennifer with the State Farm claims office. I was calling to speak with Matt McKerron regarding Jocelyn Finden.
+[00:16] [ ... Silence (11s) ... ]
+[00:27] [Receptionist]: Are you looking for the case manager?
+[00:30] [Jennifer]: Yes, Matt McKerron.
+[00:33] [Receptionist]: No, he's not the case manager. This matter has been assigned to Linda, so...
+[00:40] [Jennifer]: Oh, they changed it. What's the last name? Linda...
+[00:44] [Receptionist]: H-U-F-F.
+[00:49] [Jennifer]: Okay. Is she available?
+[00:52] [Receptionist]: Let me verify.
+
+========================================
+TRANSCRIPT END
+========================================

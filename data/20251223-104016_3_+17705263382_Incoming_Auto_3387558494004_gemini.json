@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested information regarding a document to be signed. The receptionist placed the caller on hold, and the call ended after a period of silence without any operational resolution or transfer.",
+    "call_duration_seconds": 39.74,
+    "call_duration_formatted": "00:39"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted before the call ended."
+  }
+}

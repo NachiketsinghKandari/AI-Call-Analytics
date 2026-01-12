@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Joe Scott / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates. My name is Jesse. How can I assist you?
+[00:07] [Joe Scott]: Kadeem, please.
+[00:09] [Receptionist]: Kadeem. Are you a client, sir?
+[00:12] [Joe Scott]: Yeah. Yes.
+[00:13] [Receptionist]: Understood. Can you provide me your name so I can search for your information?
+[00:17] [Joe Scott]: Joe Scott.
+[ ... Silence (6s) ... ]
+[00:23] [Joe Scott]: And I had also talked to Lonnie, um, who's the case manager on it. I didn't know what line to call, 404 or the direct line to Lonnie. Well, that would help me. Let me know if it's Kadeem or Lonnie I need to speak to. Kadeem Gibson or Lonnie.
+[00:41] [Receptionist]: All right. Do you allow me to place you on a brief hold for one minute?
+[00:44] [Joe Scott]: Sure. That'd be great.
+[00:45] [Receptionist]: Thank you. Thank you so much for holding, sir.
+[00:49] [Joe Scott]: Yes.
+[00:50] [Receptionist]: Let me tell you. So, Mr. Kadeem is not available at the moment, and Ms. Lonnie isn't in at the moment either. What I can do on my end is I can transfer you over to Ms. Lonnie's voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible.
+[01:07] [Joe Scott]: Sounds great. That sounds great. Thank you.
+[01:09] [Receptionist]: Yes, sir. Do you have a direct line where they can reach you?
+
+========================================
+TRANSCRIPT END
+========================================

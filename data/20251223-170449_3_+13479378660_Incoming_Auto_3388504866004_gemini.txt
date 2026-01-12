@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help you?
+[00:06] [ ... Silence (5s) ... ]
+[00:11] [Receptionist]: Hello?
+[00:12] [Unknown]: Hello.
+[00:13] [Receptionist]: Yes, I can hear you. How may I help you?
+[00:16] [Unknown]: Good afternoon.
+[00:18] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

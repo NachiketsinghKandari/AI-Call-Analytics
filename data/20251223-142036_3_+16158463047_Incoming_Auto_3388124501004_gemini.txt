@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:05] [Speaker 2]: Uh, yes, I... I'd like to confirm your address. Are you guys still at 191 Peachtree Street, Suite 3200 in Atlanta?
+[00:15] [Receptionist]: No, ma'am. We... we are still in Atlanta, but we're at the 4200 Northside Parkway...
+[00:22] [Speaker 2]: 4200 Northside...
+[00:24] [Receptionist]: Parkway...
+[00:26] [Speaker 2]: Northwest?
+[00:28] [Receptionist]: Northwest, Building 9.
+[00:34] [Speaker 2]: Okay, so that's 4200 Northside Parkway Northwest, Building 9, in Atlanta?
+[00:43] [Receptionist]: Mhm. 30327.
+[00:46] [Speaker 2]: Okay, thank you.
+[00:48] [Receptionist]: You're welcome. Have a great day.
+[00:50] [Speaker 2]: You as well.
+[00:51] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

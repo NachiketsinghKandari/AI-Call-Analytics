@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Bane and Associates: 6 turns
+  • [Melissa Kiers] / Role: Client/Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Um...
+[00:03] [Receptionist]: Bane and Associates, how may I help you?
+[00:07] [Melissa Kiers]: Good morning. Um, I was calling to see if Ms. Linda was in the office today?
+[00:12] [Receptionist]: Yes, um, can I have your name and reason for calling?
+[00:16] [Melissa Kiers]: Yes, my name is Melissa Kiers, and I was just updating, just calling to see and on an update to see whether or not, um, you all would be able to accept my case.
+[00:29] [Receptionist]: Um, I'm sorry, I didn't catch that. You- you said that you wanted to speak to her about accepting your case?
+[00:32] [Melissa Kiers]: I wanted to see if the- if the lawyers decided to accept my case. They was supposed to have a meeting on it.
+[00:48] [Receptionist]: Oh, okay. One second then, let me get her for you.
+[00:52] [Melissa Kiers]: Okay, thank you.
+[00:53] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

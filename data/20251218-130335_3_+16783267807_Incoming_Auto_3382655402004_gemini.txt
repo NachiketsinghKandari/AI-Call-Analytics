@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Martha Sparks / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates. How may I help you?
+[00:05] [Martha Sparks]: Uh, yes. Uh, my name is Martha Sparks. I'm trying to reach, uh, Paige. She's, uh, supposedly my case manager, or...
+[00:18] [Receptionist]: Oh, sure.
+[00:19] [Martha Sparks]: Yeah, or either if I could speak with the lawyer, Jonathan Bey?
+[00:25] [Receptionist]: Sure. Let me go ahead and take a look here if your case manager is available. If it is not, the attorney. Okay? No worries. Hold on. Uh, can you spell for me, please, your last name, ma'am?
+[00:37] [Martha Sparks]: My last— my first name is Martha, M-A-R-T-H-A. Last name Sparks, S-P-A-R-K-S.
+[00:49] [Receptionist]: Martha Sparks. Thank you. And can I have, please, the date of the incident, just to make sure?
+[00:58] [Martha Sparks]: What do you need?
+[00:59] [Receptionist]: The date of the incident.
+[01:01] [Martha Sparks]: 10/28.
+[01:02] [Receptionist]: 10/28. Thank you. That was all. Let me go ahead and see if the case manager is available. Give me one minute. Thank you.
+[01:12] [Receptionist]: Thank you for staying on the line, ma'am. I was trying to get in contact with Peggy or the attorney, but it looks like that none of those are available. It looks like that they are in lunch or something at this time. They may not be at the office. Uh, would you like to take her direct number, or would you like to leave her a voice message?
+[01:33] [Martha Sparks]: Well, I already left a message from yesterday. I'll try back later.
+[01:38] [Receptionist]: Oh, okay. No issue at all then. Thank you.
+[01:41] [Martha Sparks]: Wait, what is— do you have her direct number?
+[01:44] [Receptionist]: Yes, for her, for Peggy. I have a direct line. Yes. Ready?
+[01:49] [Martha Sparks]: Yeah.
+[01:50] [Receptionist]: It is 470-615-0715.
+[02:01] [Martha Sparks]: Okay.
+[02:02] [Receptionist]: Thank you. Anything else? That's all.
+[02:05] [Martha Sparks]: Yeah.
+[02:06] [Receptionist]: All right. Have a good one. Bye-bye.
+[02:08] [Martha Sparks]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

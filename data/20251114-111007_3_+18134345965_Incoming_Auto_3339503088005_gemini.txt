@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devon / Role: Receptionist at Bena and Associates Law Firm: 4 turns
+  • Speaker 2 / Ron Gomes / Role: Client: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bena and Associates Law Firm, Devon speaking.
+[00:05] [Ron Gomes]: Uh, yes, how you doing, Devon? Uh, my name is Ron Gomez. I was wondering if my check came in yet?
+[00:12] [Receptionist]: Okay, let me go ahead and pull up the filing system, sir, and assist you with that. Can you spell your last name for me, please?
+[00:19] [Ron Gomes]: G-O-M-E-S.
+[00:22] [ ... Silence (9s) ... ]
+[00:32] [Receptionist]: I am checking the system to see about the disbursement. I know it's still in reduction. So let me get onto someone that can assist. Okay?
+[00:45] [Ron Gomes]: All right, thank you.
+[00:47] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Kevin / [Receptionist] / Role: Receptionist at A and S Associates Law Firm: 8 turns
+  • Jasmine Trice / [Jasmine Trice] / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Kevin]: A and S Associates Law Firm, this is Kevin speaking, good afternoon.
+[00:07] [Jasmine Trice]: Hi, can I speak to Stephanie?
+[00:10] [Kevin]: Which Stephanie?
+[00:12] [Jasmine Trice]: Yes.
+[00:14] [Kevin]: Sure, let me get you connected. May I ask who's calling?
+[00:18] [Jasmine Trice]: Jasmine Trice.
+[00:20] [Kevin]: Miss Trice, okay, perfect. Let me put you on a brief hold.
+[00:27] [Kevin]: Miss Trice, thank you so much for patiently holding on me. I think Stephanie already left for today. I'm only getting her voicemail when I reached out.
+[00:38] [Jasmine Trice]: Yeah, I'm- I've been trying to call her all day and she's not answering.
+[00:43] [Kevin]: I'm so- I apologize. Would you like me to leave a message for her to get you a call back tomorrow?
+[00:48] [Jasmine Trice]: Yes.
+[00:51] [Kevin]: I'll put you on the list and have her reach out to you, okay?
+[00:55] [Jasmine Trice]: All right.
+[00:57] [Kevin]: All right, perfect. Thank you so much.
+
+========================================
+TRANSCRIPT END
+========================================

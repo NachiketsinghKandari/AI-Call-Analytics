@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Bob's and Kevin's: 8 turns
+  • [Josh] / Role: Representative from Geico: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Buenas noches, Bob's and Kevin's speaking.
+[00:03] [Josh]: Hi, this is Josh with Geico, calling on client Larissa Weathersby.
+[00:11] [Receptionist]: Dime, dime, el nombre... y no... no... Client Marissa you said?
+[00:20] [Josh]: Larissa with an L.
+[00:23] [Receptionist]: Dime, dime, el nombre... L-A-R-I-S-S-A... y no me aparece... no me aparece... For Larissa, Larissa you said, right?
+[00:44] [Josh]: Yes, Larissa Weathersby.
+[00:47] [Receptionist]: Looking for that file for one second. And how can I help you today?
+[00:58] [Josh]: I was calling to extend an offer. To Bob's and Tory.
+[01:03] [Receptionist]: So Larissa Weathersby, right?
+[01:07] [Josh]: Yes.
+[01:09] [Receptionist]: Okay. For that offer, let me get you over to Paige.
+[01:15] [Josh]: Thanks.
+[01:17] [ ... Silence (19s) ... ]
+[01:36] [Receptionist]: And you're calling from Progressive, right?
+[01:40] [Josh]: Geico.
+[01:42] [Receptionist]: Geico, sorry. Okay. One second, please.
+[01:44] [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

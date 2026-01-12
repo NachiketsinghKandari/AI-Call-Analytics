@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Rod / Role: Caller from Hollis Cobb Associates: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help you?
+[00:06] [Rod]: Hi, this is Rod with Hollis Cobb Associates. I was calling to see if we can get an update on a client that we share.
+[00:14] [Receptionist]: Sure, I would be happy to assist you. What is the name for the client?
+[00:18] [Rod]: The name of the client is Jonathan Ballard.
+[00:23] [Receptionist]: How do you spell Ballard?
+[00:25] [Rod]: It is B-A-L-L-A-R-D.
+[00:31] [ ... Silence (11s) ... ]
+[00:42] [Receptionist]: Okay, I found this. And can I have the date of loss, please?
+[00:46] [Rod]: Date of loss is, uh, let's see here. It is, I'm showing May 16th, 2024.
+[01:02] [Receptionist]: Yes. And so far, it shows litigation setting. That's what it shows on the last update, actually was yesterday.
+[01:16] [Rod]: You said litigation setting?
+[01:18] [Receptionist]: Yes, setting. Exactly.
+[01:25] [Rod]: Would you recommend a 30 or 60-day follow-up time for this one?
+[01:32] [Receptionist]: Um, if you wish, I can connect you with the case manager, to be honest. I'm just the intake.
+[01:40] [Rod]: Okay. Yeah, that's fine.
+[01:42] [Receptionist]: Yes. Just for get a, an accurate answer for that. So, stand by one moment.
+[01:47] [Rod]: What was your name?
+[01:48] [Receptionist]: Oh, this is Angelo.
+[01:50] [Rod]: Okay, Angelo. Thank you, sir.
+
+========================================
+TRANSCRIPT END
+========================================

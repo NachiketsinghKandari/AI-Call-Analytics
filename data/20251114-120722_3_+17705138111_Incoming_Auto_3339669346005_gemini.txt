@@ -1,0 +1,53 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at The Middleton Associates: 10 turns
+  • [Tim Walls] / Role: Attorney: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Good afternoon, The Middleton Associates, Kimmy speaking.
+
+[00:04] [Tim Walls]: Yes, good afternoon. I was trying to reach Taylor Middleton?
+
+[00:09] [Receptionist]: Yes, sir. Let me see if she's available. Is this in regards to a specific client?
+
+[00:15] [Tim Walls]: This is, yes. Um, my name is Tim Walls. I'm an attorney that has a- a case on, uh, the Gwinnett State Court trial calendar for Monday, and I was informed that, uh, Ms. Middleton's case was being called in first, and I just wanted to see if, um, she had an- an estimate of time or if she thought that the case was- might settle. It's, um, Cassandra Molina is her client.
+
+[00:38] [Receptionist]: Sandra?
+
+[00:41] [Tim Walls]: Molina, I believe is how it's pronounced. Yes.
+
+[00:46] [Receptionist]: Okay. Sandra Molina is our client, right?
+
+[00:52] [Tim Walls]: Yeah, Cassandra. Oh, Cassandra, I'm sorry. Yeah.
+
+[00:58] [Receptionist]: Okay.
+
+[01:05] [Tim Walls]: It's for Judge Veronica Cope, uh, her trial calendar for Monday.
+
+[01:11] [Receptionist]: Okay.
+
+[01:12] [ ... Silence (18s) ... ]
+
+[01:31] [Receptionist]: Um, I do see that Taylor is on another call right now. Would you like to leave her a voicemail?
+
+[01:39] [Tim Walls]: That'd be fine. Thank you.
+
+[01:41] [Receptionist]: All right. Do you have her email?
+
+[01:43] [Tim Walls]: Um, I- I can email her too. Um, I- I'll send her an email. That might be better. I- I'm just trying to find out, you know, if she can get- just let me know about her case because we're- we're waiting if- if she settles her case then we'll be going out Monday. So I just wanted to find out.
+
+[01:58] [Receptionist]: Okay. I can still send you to her voicemail, that's no problem.
+
+[02:01] [Tim Walls]: Okay.
+
+[02:02] [Receptionist]: All right. You have a great rest of your day, sir. Bye.
+
+[02:05] [Tim Walls]: Okay. You too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Marine / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Chad Jones / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, this is Marine, how can I help you?
+[00:06] [Chad Jones]: Hey, good morning. Um, this is Chad. I am trying to track down Veronica Brown for a 10:00 phone appointment this morning.
+[00:15] [Receptionist]: Okay, thank you. Do you have a case with us, sir?
+[00:20] [Chad Jones]: Uh, I don't. I'm with Expert Institute. She reached out to me yesterday about needing a vascular surgery expert for a case and she didn't give me the case name, so I apologize.
+[00:31] [Receptionist]: Okay, so your name is Chad?
+[00:34] [Chad Jones]: Yes, it's Chad Jones. She's expecting my call.
+[00:38] [Receptionist]: Bear with me one moment, okay?
+[00:41] [Chad Jones]: Thank you.
+[00:42] [Receptionist]: Thank you so much for holding, Mr. Jones. She's not picking up her phone, she might not be in the office right now. I can transfer you to her voicemail and she can call you back.
+[00:51] [Chad Jones]: Okay, that's fine. Thank you.
+[00:53] [Receptionist]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

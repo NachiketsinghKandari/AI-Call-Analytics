@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Amy / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:09] [Amy]: Yes. Um, my name is Amy, I'm calling from Emory Hospital.
+[00:16] [Receptionist]: Yes, how may I help you?
+[00:19] [Amy]: I have a patient by the name of Devon Bowie, B-O-U-I-E. I am needing to confirm that you have the hospital lien on file and to see if you can give me a case update.
+[00:32] [Receptionist]: Let's see.
+[00:43] [ ... Silence (28s) ... ]
+[01:12] [Receptionist]: Um, you said that the first name is Devon, D-E-V-I-N?
+[01:18] [Amy]: Um, it's D-A-V-A-U-N.
+[01:22] [Receptionist]: Okay, fine.
+[01:23] [ ... Silence (11s) ... ]
+[01:34] [Receptionist]: So for that information, I need to consult with the case manager, okay? Stay on the line.
+[01:41] [Amy]: Okay.
+[01:42] [ ... Silence (6s) ... ]
+[01:48] [Receptionist]: Hello?
+[01:50] [Amy]: Uh-huh.
+[01:52] [Receptionist]: Thank you for staying on the line. It looks like the case manager is unavailable at this moment. Would you like to leave a voice mess— a voice message?
+[02:01] [Amy]: Yes, that'll be fine.
+[02:03] [Receptionist]: Yes, and maybe you can leave also your email and she can reply all the documents, okay? I'm going to transfer you over to the voicemail.
+[02:09] [Amy]: Okay, thank you so much.
+[02:12] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

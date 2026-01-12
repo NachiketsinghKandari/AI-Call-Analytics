@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Law Offices of Taylor Middleton: 9 turns
+  • Speaker 2 / [Cheryl Love] / Role: Client: 6 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Thank you for calling the Law Offices of Taylor Middleton.
+[00:05] [Cheryl Love]: Hello, uh, is Taylor Middleton available? This is Cheryl, uh, Love.
+[00:12] [Receptionist]: Cheryl, okay. One second.
+[00:15] [Receptionist]: Um, are you an existing client with us, Ms. Love?
+[00:18] [Cheryl Love]: Yes, I do.
+[00:20] [Receptionist]: Awesome. Let me just one second. Let me check if Taylor is available. One sec.
+[00:27] [Receptionist]: I do see that she's on another call right now. Would you like to leave her a voicemail?
+[00:33] [Cheryl Love]: Yes, tell her it's important. I have an update and can she call me back as soon as she's free?
+[00:39] [Receptionist]: Okay, I can send you to her voicemail then I'll go ahead and, um, add it to your file also. Is your file under your name, Ms. Love?
+[00:51] [Cheryl Love]: Uh, no, it's under my daughter's name.
+[00:53] [Receptionist]: Can I have the- your daughter's name?
+[00:55] [Cheryl Love]: Nature Williams. That's N-A-T-U-R-E Williams.
+[01:00] [Receptionist]: Got it. Perfect. I'll go ahead and transfer you to her voicemail and then I'll leave her a note on your- on the file.
+[01:09] [Cheryl Love]: Okay. I thank you.
+[01:11] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

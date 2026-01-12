@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Ashley Collins / Role: Caller from State Farm: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Tasha, how may I help you?
+[00:06] [Ashley Collins]: Hi, my name is Ashley Collins from State Farm on your client Jaylen Brown.
+[00:12] [Receptionist]: Yes, ma'am. One moment, let me bring that up for you.
+[00:15] [ ... Silence (5s) ... ]
+[00:20] [Receptionist]: Jaylen Brown, date of loss, November the 3rd, 2023. Yes, ma'am. How can I help you with this case?
+[00:28] [Ashley Collins]: Calling to confirm your client's injuries and current treatment status.
+[00:33] [Receptionist]: Sure. One second, I can bring that up for you.
+[00:36] [Ashley Collins]: And what was your name?
+[00:38] [Receptionist]: My name is Tasha.
+[00:40] [Ashley Collins]: Thank you.
+[00:44] [Receptionist]: Left arm pain, neck pain, back pain.
+[00:48] [ ... Silence (5s) ... ]
+[00:53] [Receptionist]: And treating at...
+[00:55] [ ... Silence (8s) ... ]
+[01:03] [Receptionist]: Georgia Injury Center.
+[01:05] [Ashley Collins]: Okay. Um, and are you able to provide your client's, um, social?
+[01:13] [Receptionist]: No, ma'am. That's with the case manager. Case manager's name is Ms. Linda Huff. I can provide you contact info and I can also transfer you over.
+[01:24] [Ashley Collins]: Um, okay. Can you tell me if it's male or female?
+[01:28] [Receptionist]: Um, one moment.
+[01:30] [ ... Silence (15s) ... ]
+[01:45] [Receptionist]: I don't see any specific information on that, ma'am, unfortunately.
+[01:47] [Ashley Collins]: Okay. What about an address? Are you able to provide that?
+[01:51] [Receptionist]: Once again, that's, ma'am, that's with the case manager. I can provide you the case manager's info as well.
+[01:58] [Ashley Collins]: Okay. If you could just transfer me to her, or her voicemail is fine.
+[02:02] [Receptionist]: Sure. Case manager's name is Ms. Linda Huff, and I can transfer you now.
+
+========================================
+TRANSCRIPT END
+========================================

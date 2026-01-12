@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Marie Jupiter / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:05] [Marie Jupiter]: May I speak to uh Jim O'Brien please?
+[00:11] [Receptionist]: Can I have your name now?
+[00:15] [Marie Jupiter]: Attorney Jim O'Brien.
+[00:19] [Receptionist]: Yes, may I please have your name?
+[00:23] [Marie Jupiter]: Marie Jupiter. I didn't hear you. Marie Jupiter.
+[00:28] [Receptionist]: Give me one moment, ma'am.
+[00:31] [Marie Jupiter]: Yes.
+
+========================================
+TRANSCRIPT END
+========================================

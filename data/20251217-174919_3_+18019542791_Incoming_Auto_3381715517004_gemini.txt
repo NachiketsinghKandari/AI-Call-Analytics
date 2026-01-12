@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jeffy / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Hope / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, my name is Jeffy, how can I assist you?
+[00:06] [Hope]: Hi Jeffy, this is Hope with Farmers Insurance, I was calling regarding a demand I received for your client, Felicia Holloway.
+[00:14] [Receptionist]: Give me one moment.
+[ ... Silence (6s) ... ]
+[00:20] [Receptionist]: Yes, all right, perfect. And what is your name again, ma'am?
+[00:23] [Hope]: Hope, H-O-P-E.
+[00:27] [Receptionist]: Hope, perfect. All right, there is a case manager assigned to this file, ma'am. Do you allow me to place you on a brief hold for one minute? Let me see if she's available.
+[00:37] [Hope]: Uh yes, that's fine.
+[00:39] [Receptionist]: Thank you. And thank you so much for holding, ma'am.
+[00:45] [Hope]: Yes.
+[00:47] [Receptionist]: Yes, let me tell you, she would be the best point of contact for this client. She's not available at the moment, but this is what I can do on my end. I can transfer you over to her voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible. I'm sorry about this.
+[01:05] [Hope]: Okay, yeah, I do need to leave her a voicemail because it's about a demand I received.
+[01:09] [Receptionist]: Yes, understood. Do you have a direct line, ma'am, where they can reach you out?
+[01:14] [Hope]: 801-954-2791.
+[01:21] [Receptionist]: Excellent, perfect. I'll send the email right away, ma'am, and I'll transfer you right now.
+[01:27] [Hope]: All right, thank you.
+[01:29] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

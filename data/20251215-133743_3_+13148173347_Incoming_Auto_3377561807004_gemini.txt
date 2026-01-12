@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Unknown / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo speaking, how may I help you?
+[00:06] [Unknown]: Well, um, I received an email regarding a demand, but the demand that I received doesn't match the claim that that's for.
+[00:18] [Receptionist]: Are you an adjuster?
+[00:21] [Unknown]: Yes, Gallagher Bassett.
+[00:24] [Receptionist]: All right, let me go ahead and take a look. Can you confirm for me please what is the name for the client?
+[00:33] [Unknown]: Um, so on your demand it's... I can spell it for you, S-E-O-U-N-G... last name I think is S-Y, Sy.
+[00:55] [ ... Silence (18s) ... ]
+[01:13] [Receptionist]: And are you from who, which insurance?
+[01:17] [Unknown]: Gallagher Bassett.
+[01:20] [ ... Silence (8s) ... ]
+[01:28] [Receptionist]: Okay. So please stay on the line, let me consult with the case manager, okay? Just to get more information about... hold on. Thank you for staying on the line. It looks like that the lady in charge, it is Victoria, which she is the case manager, but it looks like that she isn't available at this moment. Would you like to maybe forward the demand to her email and you can explain for her better via email? Or would you like to leave her a message? Either way.
+[02:03] [Unknown]: Um, I can, um, I can respond to her email.
+[02:08] [Receptionist]: Okay. So ready to write it down? Or do you have her email?
+[02:12] [Unknown]: I have her email.
+[02:13] [Receptionist]: Okay, it is the one for Victoria. Yes, you can reply, she answers really fast, no worries.
+[02:20] [Unknown]: Okay. Thank you.
+[02:22] [Receptionist]: Anything else? Or that's all, ma'am?
+[02:24] [Unknown]: That's all, thank you.
+[02:26] [Receptionist]: All right, have a good one, you're more than welcome.
+[02:28] [Unknown]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,64 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kaymie / Role: Receptionist at Bey and Associates: 23 turns
+  • Speaker 2 / Rosite / Role: Caller from Neurospine: 22 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kaymie speaking.
+[00:04] [Rosite]: Yes, hey, this is Rosite connecting you on behalf of Neurospine. How are you doing today?
+[00:09] [Receptionist]: I'm doing well, thank you for asking. How can I help?
+[00:12] [Rosite]: Perfect. So just reaching out to get an update for some of the personal injury clients.
+[00:22] [Receptionist]: Um... you want status on claims?
+[00:25] [Rosite]: Yes. Status for some of— there would be five to six around.
+[00:30] [Receptionist]: Okay. Go ahead. Um, the first one?
+[00:33] [Rosite]: The first one is Terica, T-E-R-I-C-A, and the last name is Lockhart, L-O-C-K-H-E-R-T, Terica Lockhart.
+[00:48] [ ... Silence (9s) ... ]
+[00:57] [Receptionist]: I have Terica Lockhart.
+[01:00] [Rosite]: Mhm.
+[01:01] [Receptionist]: Is that correct? What is the date of loss?
+[01:04] [Rosite]: Yes. It's, um, 9/4/25.
+[01:09] [Receptionist]: It's in pre-lit reduction. Pre-litigation reduction.
+[01:16] [Rosite]: Pre-litigation. Got it. And the next one is Talisha, T-E-L-I-S-H-A, last name is Baines, B-A-I-N-E-S.
+[01:29] [ ... Silence (8s) ... ]
+[01:37] [Receptionist]: First name is Talisha?
+[01:39] [Rosite]: Yes, Talisha.
+[01:41] [Receptionist]: Date of loss?
+[01:43] [Rosite]: It's 6/27/25.
+[01:48] [Receptionist]: Also in pre-litigation reduction.
+[01:51] [Rosite]: In pre-litigation reduction. Got it. And the next one is Shantel, S-H-A-N-T-A-I-L, last name is Cox, C-O-X.
+[02:04] [ ... Silence (8s) ... ]
+[02:12] [Receptionist]: Pre-litigation demand.
+[02:14] [Rosite]: Pre-litigation. So it is in demand. Got it. And the next one is Shelly, S-H-A-L-Y, last name is Hinton, H-I-N-T-O-N.
+[02:28] [Receptionist]: Just one L?
+[02:30] [Rosite]: Sorry?
+[02:31] [Receptionist]: Could you spell it again for me?
+[02:33] [Rosite]: Oh, no worries. The first name is Shelly, spelled as S-H-A-L-Y, last name is Hinton, H-I-N-T-O-N.
+[02:48] [Receptionist]: Pre-litigation demand.
+[02:50] [Rosite]: Pre-litigation demand. Got it. And the next one is Sandra, S-A-N-D-R-A, last name is Dixon, D-I-X-O-N.
+[03:02] [Receptionist]: Pre-litigation negotiation.
+[03:06] [Rosite]: Pre-litigation negotiations. Got it. The next one is Robert, R-O-B-E-R-T, Morris, M-O-R-R-I-S, Robert Morris.
+[03:25] [Receptionist]: Pre-litigation reduction.
+[03:27] [Rosite]: Pre-litigation reduction. Got it. And the next one is Reina, R-E-N-A, and the last name is Atkins, A-T-K-I-N-S.
+[03:41] [ ... Silence (7s) ... ]
+[03:48] [Receptionist]: Pre-litigation medicals.
+[03:51] [Rosite]: Pre-litigation medicals. Got it. And the next one is Rebecca, R-E-B-E-C-K-A-H, last name is Reeves, R-E-E-V-E-S.
+[04:06] [ ... Silence (8s) ... ]
+[04:14] [Receptionist]: Pre-litigation reduction.
+[04:17] [Rosite]: Pre-litigation reduction. Got it. The next one is Quentin, Q-U-E-N-T-I-N, last name is Thomas, T-H-O-M-A-S.
+[04:30] [Receptionist]: Okay, is this the last one, man?
+[04:33] [Rosite]: Uh, yes.
+[04:34] [Receptionist]: Quentin Thomas is in pre-litigation reduction also.
+[04:40] [Rosite]: Okay, got it. And lastly, your name please?
+[04:43] [Receptionist]: Kaymie, K-A-Y-M-I-E.
+[04:47] [Rosite]: K-A-Y-M-I-E, Kaymie. Thank you so much, Kaymie. Take care, bye-bye.
+[04:52] [Receptionist]: You're welcome. You too. Happy New Year's.
+[04:55] [Rosite]: Thank you, you the same. Bye-bye.
+[04:57] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

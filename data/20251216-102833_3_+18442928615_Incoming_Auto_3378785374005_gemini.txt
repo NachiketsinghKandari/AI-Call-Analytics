@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Beatrice / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for contacting Bey and Associates, this is Angelo speaking, how may I help you?
+[00:07] [Beatrice]: Hey Angelo, this is Beatrice with State Farm Insurance, may I speak to the case manager for your client, our insured Janicia Wilson?
+[00:17] [Receptionist]: Sure. Uh, how do you spell Janicia?
+[00:23] [Beatrice]: J-A-N as in November-E-C-I-A.
+[00:34] [Receptionist]: Janicia Wilson. I found it. Thank you for your cooperation. So let's see if the case manager is available. I'm going to put you on a hold just for a few minutes.
+[00:44] [Beatrice]: Okay. Thank you.
+[00:45] [Receptionist]: Hey, just for a few minutes, stand by.
+
+========================================
+TRANSCRIPT END
+========================================

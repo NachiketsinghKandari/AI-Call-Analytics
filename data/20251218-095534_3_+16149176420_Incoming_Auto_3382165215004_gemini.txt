@@ -1,0 +1,54 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 15 turns
+  • Speaker 2 / Scott Dombos / Role: Caller: 17 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:08] [Scott Dombos]: Hello, uh, my name is Scott. I'm with State Auto Insurance. Was actually just needing a copy of your office's W-9 for a payment.
+[00:18] [Receptionist]: Um, about what case?
+[00:21] [Scott Dombos]: Uh, Whitley Strickland.
+[00:23] [ ... Silence (14s) ... ]
+[00:37] [Receptionist]: What is the date of loss for this one?
+[00:41] [Scott Dombos]: Uh, it's, uh, it's old. October 13th, 2022.
+[00:52] [Receptionist]: Okay, give me one moment. So you said that you need a W-9?
+[00:56] [Scott Dombos]: Uh, W-9 for your office, yes.
+[01:01] [Receptionist]: Um, thank you so much for holding. The person in charge of the case is not available. Do you want to leave a voicemail?
+[01:11] [Scott Dombos]: Um, I had, I had emailed Anita, um, earlier, if that's, uh, if that's who you're referencing. Um, I don't know if really anybody, um, Anita, it's not even really specific to the case, I just need a W-9 for your office so we can issue a payment.
+[01:27] [Receptionist]: Okay. Yeah, I will go ahead and send an email then. May I have your phone number so they can call you back?
+[01:34] [Scott Dombos]: Um, can I give you my email and can you just request that somebody email me the W-9? Does that work?
+[01:40] [Receptionist]: Yes.
+[01:41] [Scott Dombos]: Okay. Um, I'll give you, uh, email and phone. Um, it's, uh, 614-917-6420 and email is my name, Scott, S-C-O-T-T, period, Dombos, D-O-M-B-O-S, at stateauto.com.
+[02:13] [ ... Silence (6s) ... ]
+[02:19] [Receptionist]: Give me one moment, please.
+[02:21] [Scott Dombos]: Okay, thank you.
+[02:23] [Receptionist]: I think they sent it to me, let me see.
+[02:26] [Scott Dombos]: Okay.
+[02:27] [ ... Silence (12s) ... ]
+[02:39] [Receptionist]: Okay, yes. Let me email that to you right now.
+[02:46] [Scott Dombos]: Okay, thank you.
+[02:48] [ ... Silence (58s) ... ]
+[03:46] [Receptionist]: So, I just emailed that to you.
+[03:52] [Scott Dombos]: Okay, I've got my email, excuse me, email up, haven't seen it quite yet.
+[03:58] [ ... Silence (8s) ... ]
+[04:06] [Receptionist]: Okay, let me know when you...
+[04:09] [ ... Silence (34s) ... ]
+[04:43] [Scott Dombos]: Okay, um, I'm going to reload my email box, see if, see if it came through quite yet.
+[04:51] [ ... Silence (17s) ... ]
+[05:08] [Scott Dombos]: Okay, nothing yet. Can you just confirm for me the email, uh, you sent it to, make sure we had that right?
+[05:15] [Receptionist]: Yes. Scott, S-C-O-T-T, dot, Dombos, like D as in dog, O, M as in mom, B as in boy, O, S, at stateauto.com.
+[05:31] [Scott Dombos]: Okay, yep, that is correct. Um, so not sure why it hasn't shown up quite yet here.
+[05:38] [ ... Silence (10s) ... ]
+[05:48] [Scott Dombos]: Okay. Um, would you mind maybe just trying it one more time and if for whatever reason I don't have it in say like another five, ten minutes or so, I'll call back. Does that work?
+[05:57] [Receptionist]: Yes.
+[05:58] [Scott Dombos]: Oh, there it is. Okay, um, I'm going to, I think I just got it. Okay, perfect. Thank you.
+[06:03] [Receptionist]: Okay, thank you.
+[06:05] [Scott Dombos]: Alrighty, bye.
+
+========================================
+TRANSCRIPT END
+========================================

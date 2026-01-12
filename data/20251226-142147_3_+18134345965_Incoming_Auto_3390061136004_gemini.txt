@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Juan Gomez / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Emma, how can I help you?
+[00:03] [Juan Gomez]: Yes, this is Juan, Juan Gomez, I'm calling um, I was wondering if I could talk to Michael, my lawyer.
+[00:13] [Receptionist]: Sure, I can try to reach him. Let me get you over to Mike Ross. Is that alright?
+[00:21] [Juan Gomez]: Yes.
+[00:24] [Receptionist]: Transferring you to Mike Ross.
+[00:26] [Juan Gomez]: All right, I'm leaving. In my house. I'll see y'all tomorrow at five.
+[00:30] [Receptionist]: Could not transfer the call. I tried reaching him. All right, what about Stephanie? Let me connect you to Stephanie. Is that alright?
+[00:41] [Juan Gomez]: Yes, that's alright.
+[00:44] [Receptionist]: Transferring you to Stephanie Peck.
+[00:47] [Juan Gomez]: All right, I'll see you tomorrow when I bring you your gifts. Bye. Bye. Bye. Go inside. Go inside. Dad, when you get home, bring a bag out. They only want one bag. You know how they be tripping about bags. So, tomorrow, bro, they ain't gonna buy. I told you tomorrow. You want me to get your gifts or you don't want your freaking gifts? All right then. Tomorrow. Bye.
+[01:25] [Receptionist]: Could not transfer the call.
+
+========================================
+TRANSCRIPT END
+========================================

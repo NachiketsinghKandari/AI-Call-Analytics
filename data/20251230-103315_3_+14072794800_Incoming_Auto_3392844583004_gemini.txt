@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dionne / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Justin James / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, this is Dionne, how can I help you?
+[00:04] [Justin James]: Hi, uh, Dante was expecting a call and, uh, I didn't know if he was available.
+[00:11] [Receptionist]: Okay, can I have your name?
+[00:13] [Justin James]: Yep, it's Justin James.
+[00:15] [Receptionist]: Justin James. Just one second.
+[00:17] [Justin James]: All righty.
+
+========================================
+TRANSCRIPT END
+========================================

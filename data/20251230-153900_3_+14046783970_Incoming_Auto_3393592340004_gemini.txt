@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Sumitra / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm. My name is Fatima. How may I assist you?
+[00:08] [Sumitra]: Uh, yes. My name is Sumitra and I'm calling from the Hurt 911 and I'm calling in regards to a non-compliant client and I need to see if I can speak to the case manager to see if I can go ahead and prep her up for release.
+[00:23] [Receptionist]: Understood. May I please have the client's first and last name? I'll see if the case manager's available.
+[00:28] [Sumitra]: Okay. It's D-A-Y-A-N-A, last name Gardner.
+[00:35] [Receptionist]: Thank you. Bear with me while I search.
+[00:40] [Sumitra]: Okay.
+[00:45] [Receptionist]: Date of loss was on October 3rd?
+[00:49] [Sumitra]: Yes.
+[00:51] [Receptionist]: All right. So the case manager is Ms. Paige Allman. Before I see if she's available, would you like to have her email and phone number?
+[00:59] [Sumitra]: I don't need it. I already have it. It's just she's not returning my phone calls.
+[01:05] [Receptionist]: Understood. One moment, please.
+[ ... Silence (5s) ... ]
+[01:12] [Receptionist]: Ms. Sumitra, thank you so much for the waiting time. I apologize for the delay. So Ms. Paige is not answering her call— her phone. Would you like to leave a voicemail for her?
+[01:22] [Sumitra]: That's okay, ma'am. Thank you. Have a good day.
+[01:25] [Receptionist]: You're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

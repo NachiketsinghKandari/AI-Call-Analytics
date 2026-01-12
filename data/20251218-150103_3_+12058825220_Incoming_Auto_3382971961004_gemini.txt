@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Kristen / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:04] [Kristen]: Hi, yes, may I please speak with Victoria Morales?
+[00:07] [Receptionist]: Sure. Can I, um, ask in regards to which client?
+[00:12] [Kristen]: Uh, yes, well my name is Kristen. I'm calling from the Byrd firm. I work for attorney Devin Byrd. She's actually of counsel with Bey and Associates. We work in Alabama for them.
+[00:24] [Receptionist]: Okay. Um, I'll just transfer you straight over then.
+[00:27] [Kristen]: Okay. Thank you so much.
+[00:29] [Receptionist]: You're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

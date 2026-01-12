@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Daven / Role: Receptionist at Orthopedic Clinic: 10 turns
+  • [Renee] / Renee / Role: Caller from Michael Orthopedics: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Daven at the Orthopedic Clinic, Daven speaking.
+[00:03] [Renee]: Hi Daven, this is Renee from Michael Orthopedics.
+[00:10] [Receptionist]: Hi, how are you this afternoon?
+[00:13] [Renee]: I'm okay Daven. I am so glad I got you because if I get somebody else, they be acting like they have no clue. I mean, that's cool, that's cool and all but, let's get a part. These two, these two, they're treated together.
+[00:28] [Receptionist]: Okay.
+[00:28] [Renee]: The last name is Ray, R-A-Y. And the first name is Cassie, K-A-S-S-E-Y.
+[00:41] [Receptionist]: And they're treated together?
+[00:43] [Renee]: Yes, with Griffin Lucian, L-U-C-I-A-N.
+[00:51] [Receptionist]: Date of birth?
+[00:53] [Renee]: 11/8/24.
+[00:56] [ ... Silence (6s) ... ]
+[01:02] [Receptionist]: Wait, Lucian Griffin, right?
+[01:05] [Renee]: Yes, Lucian—oh, I had it all wrong. I said Lucian, oh.
+[01:12] [Receptionist]: Lucian. Um, this one was disbursed first, so let's take a look into this, alright?
+[01:25] [Renee]: Okay.
+[01:26] [ ... Silence (6s) ... ]
+[01:32] [Receptionist]: So this was disbursed on... let's see.
+[01:38] [Receptionist]: Let's see, a check came out to the Orthopedic Clinic, dated October 9th.
+[01:49] [Renee]: October the 9th. For- for- for both of them?
+[01:54] [Receptionist]: Yes. So we have the one for Cassie, it was for 6,500.
+[02:00] [ ... Silence (6s) ... ]
+[02:06] [Receptionist]: And for Lucian...
+[02:08] [ ... Silence (1s) ... ]
+[02:09] [Receptionist]: Lucian has not been disbursed yet.
+[02:12] [Renee]: Okay.
+[02:13] [Receptionist]: It was still pending on him.
+[02:15] [Renee]: It's still pending. Okay, I got it. I got you. Thank you so much, that's what I need. Thank you.
+[02:25] [Receptionist]: You're welcome, you're welcome. Enjoy your weekend.
+[02:28] [Renee]: That's right, enjoy your weekend, honey.
+[02:30] [Receptionist]: Bye-bye.
+[02:31] [Renee]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

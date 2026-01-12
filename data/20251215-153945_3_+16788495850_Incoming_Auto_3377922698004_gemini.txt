@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Jared Soder / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel, how can I help you?
+[00:06] [Jared Soder]: Hello, is Paige available?
+[00:09] [Receptionist]: Yes, um, one moment. May I have your phone number?
+[00:13] [Jared Soder]: 404-431-2211. My name is Jared.
+[00:22] [Receptionist]: Yes, and your last name?
+[00:25] [Jared Soder]: Soder. S-O-D-E-R.
+[00:30] [Receptionist]: Thank you so much for holding. She's not available. I will send her an email so she can give you a call back, okay?
+[00:40] [Jared Soder]: What's her main number?
+[00:44] [Receptionist]: 470...
+[00:47] [Jared Soder]: Hold on.
+[00:48] [ ... Silence (6s) ... ]
+[00:54] [Jared Soder]: 470...
+[00:56] [Receptionist]: 615...
+[00:58] [Jared Soder]: Mhm.
+[01:00] [Receptionist]: 0715.
+[01:04] [Jared Soder]: Let me double check. 470-615-0715.
+[01:16] [Receptionist]: Correct.
+[01:18] [Jared Soder]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

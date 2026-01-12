@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Joao A. Gomes / Role: Caller: 5 turns
+  • Speaker 2 / [Receptionist] / Role: Receptionist: 4 turns
+
+----------------------------------------
+
+[00:00] [Joao A. Gomes]: (Background noise) ... 752. Hello?
+[00:05] [Receptionist]: Yes.
+[00:06] [Joao A. Gomes]: Hello?
+[00:07] [Receptionist]: Yes, how can I help?
+[00:10] [Joao A. Gomes]: Yes, uh, is it possible I could speak to Michael?
+[00:13] [Receptionist]: May I have your name and reason for calling?
+[00:17] [Joao A. Gomes]: Joao A. Gomes. J-O-A-O, middle initial A, last name Gomes, G-O-M-E-S.
+[00:24] [ ... Silence (10s) ... ]
+[00:34] [Receptionist]: Okay, let me get him for you.
+[00:38] [Joao A. Gomes]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

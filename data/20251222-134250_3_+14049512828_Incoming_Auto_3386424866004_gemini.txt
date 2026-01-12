@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Kenneth Jackson / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, what can I do for you?
+[00:05] [Kenneth Jackson]: Um, I'm looking to speak to, um, Tiana?
+[00:10] [Receptionist]: Do you have a case with us, sir?
+[00:13] [Kenneth Jackson]: Yes, Kenneth Jackson.
+[00:16] [Receptionist]: Okay, first I need to have your name so that I can find your file.
+[00:22] [Kenneth Jackson]: Sorry?
+[00:23] [Receptionist]: Can I have your first and last name, sir?
+[00:26] [Kenneth Jackson]: Kenneth Jackson.
+[00:28] [Receptionist]: Okay, one moment.
+[00:30] [ ... Silence (8s) ... ]
+[00:38] [Receptionist]: All right, I do see the case manager is Victoria. Let me try to see if she's available, okay? One moment.
+[00:46] [Kenneth Jackson]: Yes, and then Tiana is the other case manager that was handling my file while she was out of town too, so that's why I asked for her.
+[00:53] [Receptionist]: I'm sure, yeah. Yeah, either one. Let me try to see if Victoria's available. One second.
+
+========================================
+TRANSCRIPT END
+========================================

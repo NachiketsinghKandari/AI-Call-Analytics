@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Daisy / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates. This is Lionel.
+[00:06] [Daisy]: Hi there. My name is Daisy from Hurt 911 Injury Centers. I was wondering if I can speak to the case manager of Jessica Jones, please?
+[00:18] [Receptionist]: Um, is that the name of the client?
+[00:21] [Daisy]: Yes. I need to speak to the case manager.
+[00:27] [Receptionist]: And what is the date of loss?
+[00:29] [Daisy]: Give me one second.
+[00:31] [ ... Silence (11s) ... ]
+[00:42] [Daisy]: 6/20— no, wait. 10/3/2025.
+[00:47] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

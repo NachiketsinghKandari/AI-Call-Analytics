@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Stacy / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. My name is Jesse. How can I assist you?
+[00:05] [Stacy]: Hi, can I speak to Kadeem, please?
+[00:08] [Receptionist]: Are you a client, ma'am?
+[00:10] [Stacy]: I'm calling from Allstate Insurance, following up on settlement on a couple of clients.
+[00:14] [Receptionist]: Oh, understood. Uh, yes, can you provide me the name of one of the clients?
+[00:19] [Stacy]: Um, Nisha is the first name, N-E-I-S-H-I-A. Last name Cheney, C-H-A-N-E-Y.
+[00:34] [Receptionist]: Perfect. All right. Um, yes. Do you allow me to place you on a brief hold for one minute, ma'am?
+[00:43] [Stacy]: Of course. Thank you.
+[00:45] [Receptionist]: Yes. What is your name again? Sorry.
+[00:47] [Stacy]: Stacy with Allstate Insurance.
+[00:49] [Receptionist]: Stacy, perfect. I'll be right back with you in one minute, ma'am.
+[00:52] [Stacy]: Yeah, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Sevis] / Role: [Receptionist] at K and Associates Law Firm: 5 turns
+  • Speaker 2 / [Devo] / Role: Medical Revenue Service Representative: 6 turns
+
+----------------------------------------
+
+[00:03] [Sevis]: K and Associates Law Firm, Sevis speaking.
+[00:07] [Devo]: Hi, please be advised this call might be monitored or recorded. My name is Devo, I'm calling with Medical Revenue Service on behalf of Douglas Hospital. I'm calling to get a case status for a Corey Benson.
+[00:18] [ ... Silence (18s) ... ]
+[00:36] [Sevis]: Hello ma'am?
+[00:38] [Devo]: Hello.
+[00:40] [Sevis]: I do apologize about that. I had a system error. Um, how can I assist you?
+[00:46] [Devo]: Please be advised this call might be monitored or recorded. My name is Devo, I'm calling with Medical Revenue Service on behalf of Douglas Hospital. I'm calling to get a case status for a Corey Benson.
+[01:01] [Sevis]: So right now the case for Corey Benson seems to be in pre-litigation closing.
+[01:10] [Devo]: Okay.
+[01:12] [ ... Silence (8s) ... ]
+[01:21] [Devo]: Okay, thank you so much. That was all I needed.
+[01:25] [Sevis]: No, you're- you're welcome. You're welcome. Thank you so much as well. Have a great one.
+[01:31] [Devo]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 10 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: This is Angelo from Bain and Associates, how may I help you?
+[00:07] [Speaker 2]: Yes, is there a direct number to Attorney Steel, I think his last name is?
+[00:13] [Receptionist]: Uh, okay, let me go ahead and find that direct number for you. Yes, it's Jonathan Steele.
+[00:20] [Speaker 2]: It's John what, I'm sorry?
+[00:22] [Receptionist]: Jonathan. Jonathan Steele. Would you like me to spell it?
+[00:28] [Speaker 2]: Uh, let me see. Jonathan... Steele. Okay.
+[00:37] [Receptionist]: Yes. And the number is this one. Ready?
+[00:41] [Speaker 2]: I'm ready, yes.
+[00:43] [Receptionist]: It's 404-369-1398.
+[00:53] [Speaker 2]: Okay, and he's... what office is he based out of?
+[00:58] [Receptionist]: In Georgia.
+[01:00] [Speaker 2]: He's in Georgia, 'cause I'm in Georgia as well. So is he, uh, Northside Parkway?
+[01:06] [Receptionist]: Yes, you are right. But you will need to call him before, uh, just to confirm if he's in the- at the office, because normally they work from home, and you know, sometimes. So you need to confirm first.
+[01:17] [Speaker 2]: Okay, so it's 404-369-1398.
+[01:26] [Receptionist]: Yes. Yes, that's- that's right.
+[01:28] [Speaker 2]: All right. Okay, thank you so much. I appreciate you.
+[01:32] [Receptionist]: You're more than welcome. Something else or that's all?
+[01:35] [Speaker 2]: That's it.
+[01:37] [Receptionist]: All right, have a good one. Take care. Bye-bye.
+[01:41] [Speaker 2]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jancy / Role: Receptionist at Bey and Associates: 17 turns
+  • Speaker 2 / Simeon Ivy / Role: Caller: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jancy, how can I assist you?
+[00:07] [Simeon Ivy]: Hey Jancy. Uh, I had a question. Um, I had a case that was handled by Bey and Associates, uh, about, ooh, almost 10 years ago. Um, but I've had another, um, loss recently. Um, and the lawyer wants to review a case that I had for you all that was back in 2015, 2016. Do you all happen to keep those records or is that something that's purged already?
+[00:30] [Receptionist]: Um, let me ask you, are you the client, sir?
+[00:34] [Simeon Ivy]: Said it again?
+[00:35] [Receptionist]: Are you the client? Were you the client?
+[00:37] [Simeon Ivy]: Yes, I'm the client.
+[00:39] [Receptionist]: Oh, understood. And what is your name, sir, so I can search for your file, see if it's available?
+[00:43] [Simeon Ivy]: Uh, Simeon Ivy. First name S-Y-M-E-O-N, last name I-V-E-Y.
+[00:52] [Receptionist]: Understood. Give me one moment. S-Y-M-E-O-N... I-V-E-Y.
+[01:01] [ ... Silence (10s) ... ]
+[01:11] [Receptionist]: Let me confirm with you, sir, that accident that you mentioned was on, let's see, September of 2015?
+[01:16] [Simeon Ivy]: Yeah.
+[01:17] [Receptionist]: Understood. Uh, yes, sir, so there is still your file is still here on the system. I'm seeing here that it was handled by someone that looks like that doesn't work on the company anymore because it says prior employee. Uh-huh.
+[01:27] [Simeon Ivy]: Uh-huh.
+[01:28] [Receptionist]: Uh, so I'm assuming that if you have a new case, sir, we would have to do the same process, do an intake, uh, send it and then you would be assigned another case manager.
+[01:44] [Simeon Ivy]: No, I get that. I what I'm asking is, is it possible for me to obtain a copy of that case that was handled in 2015? My current attorney is asking for a copy of it.
+[01:55] [Receptionist]: Understood. Then, sir, this is what I guess you would have to send an email to see who is in charge of your file now so that that person can send you a copy of of your file if that's something that's possible. I'm not seeing why we couldn't do that. We just have to reach out to whoever is in charge. I think, sir, in this case, we would have to send an email to Mr. Matt. Um, that would be the best person because I'm not seeing here anyone else involved on on your file except for Mr. Matt, sir. I can provide you with his email if you like.
+[02:30] [Simeon Ivy]: Yes, that's fine.
+[02:32] [Receptionist]: Understood. Give me one moment, let me just search for it. Oh, perfect, I found it. Yes, if there was a case manager assigned, I I think we could get in touch with the case manager, but I'm not seeing here anyone. So let me provide you with the email, sir. The email for Mr. Matt would be Matt, M-A-T-T, his name, okay, at Bey and Associates, B-E-Y-A-N-D-associates.com. Associates with an S.
+[03:06] [Simeon Ivy]: Okay. So matt@beyandassociates.com?
+[03:09] [Receptionist]: Correct. Yes, sir, that's his email.
+[03:12] [Simeon Ivy]: Okay. I got it. Is there like a case number that that goes along with that or anything that I can reference or just my name would be okay?
+[03:19] [Receptionist]: With your name, sir. Uh, it was easy for me to find with your name. Uh, the you have a no like a let's say unusual last name, so I'm guessing he'll find it easily.
+[03:31] [Simeon Ivy]: Okay. We'll do. Sounds good.
+[03:34] [Receptionist]: Perfect. Is there anything else I can assist you with? Just make sure that you include the date of the accident of your of that file, sir, so September 2015.
+[03:41] [Simeon Ivy]: It was September 2015, right?
+[03:44] [Receptionist]: Right. September the 8th of 2015.
+[03:47] [Simeon Ivy]: Okay. Got it.
+[03:49] [Receptionist]: Understood. Anything else I can assist you with at the moment?
+[03:52] [Simeon Ivy]: No, that's it.
+[03:54] [Receptionist]: Understood. I hope you have an excellent day, sir.
+[03:56] [Simeon Ivy]: You too.
+[03:57] [Receptionist]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

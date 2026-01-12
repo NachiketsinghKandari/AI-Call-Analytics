@@ -1,0 +1,21 @@
+{
+  "caller_type": "sales_vendor",
+  "call_summary": {
+    "primary_intent": "solicitation_and_spam",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller from a business development office inquired about the firm's relocation plans. The receptionist stated they were in the intake department and did not have that information. No transfer was initiated and no message was taken before the call ended.",
+    "call_duration_seconds": 34.85,
+    "call_duration_formatted": "00:34"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist offered to transfer the caller to the office manager, but the caller continued to ask questions and the call ended after the receptionist repeated they did not have the requested information."
+  }
+}

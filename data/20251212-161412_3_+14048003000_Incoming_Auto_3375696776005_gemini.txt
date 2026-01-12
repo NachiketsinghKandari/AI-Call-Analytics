@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Jennifer / Role: Caller from Dominguez Chiropractic: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Jennifer]: Hi, good afternoon. My name is Jennifer calling with Dominguez Chiropractic. I was calling to see if I can speak with someone about patient Ambria Earl.
+[00:15] [Receptionist]: Sure.
+[ ... Silence (5s) ... ]
+[00:22] [Receptionist]: Let me get it.
+[ ... Silence (8s) ... ]
+[00:31] [Receptionist]: Okay. Okay, Victoria Morales, I'll go ahead and transfer you over.
+[00:36] [Jennifer]: Okay, thank you.
+[00:38] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

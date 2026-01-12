@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the assigned staff member for the case and initiated a transfer to her voicemail after confirming she was unavailable.",
+    "call_duration_seconds": 67.39,
+    "call_duration_formatted": "01:07"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "voicemail_or_message_request"
+    ],
+    "description": "The receptionist offered to transfer the caller to the staff member's voicemail. The caller agreed, and the call ended as the transfer was initiated."
+  }
+}

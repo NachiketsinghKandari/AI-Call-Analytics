@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 4 turns
+  • Speaker 2 / [Martha Story] / Role: Client: 2 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bain and Associates, Kim speaking.
+[00:06] [Martha Story]: Yes ma'am. Um, I'm a client, um, my name is Martha Story and I really don't even know who's handling my case. I thought maybe you could look it up, I was wanting to check the status.
+[00:21] [Receptionist]: Yes ma'am, one second.
+[00:23] [ ... Silence (15s) ... ]
+[00:38] [Receptionist]: Is Martha with a T-H?
+[00:42] [Martha Story]: Yes.
+[00:46] [Receptionist]: And you said Story, right? Okay, I got it here.
+[00:51] [ ... Silence (34s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

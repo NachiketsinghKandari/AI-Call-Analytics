@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates: 16 turns
+  • Speaker 2 / [Joe] / Role: Employee at Spine Muscle and Joint: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:07] [Speaker 2]: Yes, I'm looking for Jackie.
+[00:10] [Receptionist]: Jackie? Uh...
+[00:13] [Speaker 2]: Yeah, Oaks. I believe it's Jacqueline or...
+[00:18] [Receptionist]: Oh, I'm sorry, sir. We don't have a Jackie.
+[00:21] [Joe]: Okay. Well, uh, this is Joe with Spine Muscle and Joint. Um, looking for some policy limits, uh, looks like on a few patients that, um, are on my spreadsheet and I'm looking to see if, uh, let me see if, let me see how many I have. Hold on just a sec.
+[00:43] [Receptionist]: Yes, sir.
+[00:44] [Joe]: 'Cause I know there's a few of them here, but I've got a few different case managers.
+[00:48] [Receptionist]: Okay.
+[00:49] [Joe]: Uh, so this first one here is, uh, let me see here. Patient's name is Thalia, T-H-A-L-I-A, last name is Sheffield. And looking for policy limits on her.
+[01:05] [Receptionist]: We don't have a Thalia here.
+[01:11] [Joe]: You don't have a Thalia Sheffield?
+[01:14] [Receptionist]: No, sir. Spell Sheffield for me.
+[01:16] [Joe]: Yeah, S-H-E-F-F-I-E-L-D. Date of birth October 20th, 2000.
+[01:21] [Receptionist]: [ ... Silence (9s) ... ] No, sir. We don't have a Thalia. We have a Tam- Tamiki, a Xavier, a Takisha...
+[01:31] [Joe]: Oh boy. Okay. All right. Well, uh, okay. So let me do some checking on that one. Uh, looks like the next patient on this, uh, let me see. This is for Jasper Dixon, D-I-X-O-N.
+[01:51] [Receptionist]: Okay. Date of loss?
+[02:09] [Joe]: Date of loss? Oh, it is March 8th, 2025.
+[02:14] [Receptionist]: Okay.
+[02:27] [Joe]: I've got a date of birth of 1/25/90 as well.
+[02:30] [Receptionist]: [ ... Silence (27s) ... ] This is so weird. So the one we have has 1- 1- 5- 91. And then her date of loss is 9/12/2025. Let me see if there's maybe a duplicate.
+[03:00] [Joe]: Yeah.
+[03:02] [Receptionist]: [ ... Silence (6s) ... ] No, sir. That's the only one we have.
+[03:09] [Joe]: Oh. Okay. So how about Janilya Nooks? First name is J-A-N-I-L-Y-A, last name is Nooks, N-O-O-K-S.
+[03:24] [Receptionist]: [ ... Silence (8s) ... ] Mm-mm. We don't have anyone by that name. I- I'm even looking in the archive filed- files and we don't have them. Are you sure it's with Bey and Associates Law Firm?
+[03:46] [Joe]: Oh, well, I'm showing Cambron and Associates. This isn't Cambron and Associates?
+[03:52] [Receptionist]: No, sir. It's Bey, B-E-Y.
+[03:55] [Joe]: Wow. Well, maybe that's the- maybe that's the problem. Okay, never mind.
+[04:00] [Receptionist]: No problem, sir. You have a good rest of your day.
+[04:05] [Joe]: All right, I appreciate it. I appreciate it. Sorry. All right, you too. Bye-bye.
+[04:08] [Receptionist]: You're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Malcolm / Role: Caller from Hagerty Insurance: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Um, Bey and Associates Law Firm, my name is Fatima, how may I assist you today?
+[00:07] [Malcolm]: Good afternoon. My name is Malcolm. I am calling from Hagerty Insurance. I am calling in reference to your client Sebastian Caruso, and I was looking to get a treatment status and injury status update.
+[00:19] [Receptionist]: Um, absolutely. Bear with me, let me search for that account to see if I'm able to help.
+[00:29] [Receptionist]: The date of loss was on November 8th of last year?
+[00:34] [Malcolm]: Yes, ma'am.
+[00:35] [Receptionist]: Yes, alright. So the account status is currently in pre-litigation medicals.
+[00:43] [Malcolm]: Okay.
+[00:45] [Receptionist]: And what else did you need, I'm sorry?
+[00:47] [Malcolm]: So just what his treatment was, if he was— if the client was still treating or if they had finished their treatment, um, and a demand was going to be sent over to us.
+[00:58] [Receptionist]: For that, I will need to transfer you over to the case manager because that information I am not able to see it. I am not sure that she is in at the moment because usually she's at the office until five, but if she's not, I'll transfer you directly to her voicemail so that she can reach out or send you an email, okay?
+[01:22] [Malcolm]: Okay, perfect. Thank you.
+[01:24] [Receptionist]: Alright, alright. You're welcome. One moment, please.
+
+========================================
+TRANSCRIPT END
+========================================

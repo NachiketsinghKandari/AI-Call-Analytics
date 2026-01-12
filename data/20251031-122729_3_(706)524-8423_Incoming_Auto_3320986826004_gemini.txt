@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Darnell] / Role: Receptionist at Baker and Associates: 12 turns
+  • Speaker 2 / [Amanda] / Role: Representative for Emory Hillandale Hospital: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Baker and Associates, this is Darnell.
+[00:03] [Amanda]: Hi Darnell, my name is Amanda and I'm calling on behalf of Emory Hillandale Hospital and I'm calling to check on a- a case to- to get the status on a payment please.
+[00:19] [Receptionist]: What is the name?
+[00:21] [Amanda]: It is Naomi Taylor.
+[00:25] [Receptionist]: What was the first name?
+[00:28] [Amanda]: Naomi. N-A-O-M-I.
+[00:38] [Receptionist]: Okay. Do you have the date of loss?
+[00:44] [Amanda]: 11 or- 12, December 11th of 2024.
+[00:52] [Receptionist]: [ ... Silence (13s) ... ] And I'm sorry, you said you're calling on behalf of Emory Hospital?
+[01:09] [Amanda]: Yes.
+[01:11] [Receptionist]: We sent that check um, what is the amount?
+[01:16] [Amanda]: Um, let me see there find that for you. Okay. [ ... Silence (14s) ... ] Um, bear with me just a second, I'm just looking at the amount correct, make sure I give you the correct amount. Um, the last offer was $1,650 was the last amount of- of um negotiations.
+[02:00] [Receptionist]: Okay. But I see that we sent a check for $1,550 on October 16th. So it should be on its way.
+[02:13] [Amanda]: Okay, give me just a second then. Let me just- do you have the check number?
+[02:19] [Receptionist]: 38891.
+[02:25] [Amanda]: 38891?
+[02:28] [Receptionist]: Yes.
+[02:30] [Amanda]: For $1,150?
+[02:35] [Receptionist]: No, $1,550.
+[02:39] [Amanda]: Okay, I will make a note of that. Thank you!
+[02:44] [Receptionist]: Okay, thank you.
+[02:45] [Amanda]: You have a good day sir.
+[02:48] [Receptionist]: You too.
+[02:49] [Amanda]: Thank you, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

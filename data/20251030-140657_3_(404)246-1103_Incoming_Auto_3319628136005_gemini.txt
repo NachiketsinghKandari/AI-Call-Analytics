@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Devin / [Receptionist] / Role: Receptionist at Bain Associates Law Firm: 6 turns
+  • Speaker 2 / [Unidentified Female Caller] / Role: Client/Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Devin]: Bain Associates Law Firm, Devin speaking.
+[00:02] [Speaker 2]: Hey, sorry, I literally just got off the phone with the other lady like five seconds ago. Um, she told me that the um Dante whatever whatever email, Dante something, it was um that you guys got hacked or something and that person sent out emails or something like that.
+[00:27] [Devin]: Yes, so what happens is uh what happens is a few weeks ago they tried and attempted to wanted to hack our system but we got our in- our team directly to work on that and directly we're just asking all our customers to avoid that email, do not click on anything and just delete it or mark it as spam.
+[00:47] [Speaker 2]: Okay. And then I had another question, that's what she just told me to do. Um, so that email came on the 14th, right? And I don't know like I don't know what type of information if they got any information at all on your client because I was a client a few years ago. But six days later after that email I got a letter in the mail from Verizon saying that someone tried to get an application to try to get a phone service or something like that and it ran my credit and everything for it. So I'm just wondering like if that had something to do with it if they got my information and where was trying to open up a Verizon account or anything?
+[01:31] [Devin]: Mm, no ma'am. Yeah, they wouldn't be able to access the information.
+[01:42] [Speaker 2]: Okay. That's why I called back instantly because I just called Verizon yesterday because I never did anything like that and I didn't know you guys were hacked. So I was just wondering if they had anything to do with each other.
+[01:57] [Devin]: No ma'am, unfortunately no.
+[01:59] [Speaker 2]: Okay. Thanks. Just wanted to make sure. Thanks.
+[02:03] [Devin]: No, of course, of course, but no problem.
+[02:06] [Speaker 2]: All right, you have a good one.
+[02:08] [Devin]: You too ma'am. Bye-bye.
+[02:10] [Speaker 2]: Thanks. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Unknown / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [Unknown]: Hi, uh, I spoke with, uh, someone about my, uh, claim. I put in a claim and she gave me her name and her extension and I seem to have misplaced it. She gave me where I could call her directly, but I don't remember her name or her extension 'cause I wrote it down.
+[00:31] [Receptionist]: May I have your phone number please?
+[00:34] [Unknown]: Area code 937-520-2079.
+[00:42] [Receptionist]: Is that the phone number that we you have registered with us?
+[00:45] [Unknown]: Yes.
+[00:46] [ ... Silence (6s) ... ]
+[00:52] [Receptionist]: Um, well, the person in charge of your case, she is on lunch right now. I will have her to give you a call back, okay?
+[01:01] [Unknown]: Okay, can you tell me her name?
+[01:03] [Receptionist]: Karina.
+[01:05] [Unknown]: Karina?
+[01:06] [Receptionist]: Yes.
+[01:07] [Unknown]: K-A-R-I-N-N-A?
+[01:12] [Receptionist]: Yes.
+[01:13] [Unknown]: Okay, thank you.
+[01:15] [Receptionist]: Okay, thank you. I will have her to give you a call back.
+[01:19] [Unknown]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

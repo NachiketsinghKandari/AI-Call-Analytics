@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bey and Associates, this is Tasha, how may I help you?
+[00:07] [Unknown]: Hi Tasha, um, I actually was trying to reach, I guess, um, Gonzalez, Jeffrey Gonzalez, I don't know how you say his name, but um, he was the person I was sending my, uh, photos and files to for my case.
+[00:25] [Receptionist]: Okay. Um, unfortunately, Mr. Gonzalez is not in today, um, but you can send, you want his email? I can give you his email.
+[00:34] [Unknown]: I have his email. I just wanted to make sure that he got it. I didn't know if he, um, you know, I didn't know who's working or not working, but he asked for, um, information for the case and I had other photos I sent to the phone number, but I didn't know if he happened to get them or not.
+[00:52] [Receptionist]: Um, okay. Um, I can leave him a message, but and I can transfer you over where you can leave a voice mail message for him, but he's off today and he won't be in until Monday, ma'am.
+[01:04] [Unknown]: Oh, no problem. I'll just go ahead and, um, make sure I just, I guess, email them, um, so that that way they're in an email trail because, you know, I know phone numbers, sometimes things get through, some things don't, so just wanted to verify that it did, but it's okay, I understand he's not working today.
+[01:24] [Receptionist]: Okay. Thank you, ma'am.
+[01:26] [Unknown]: Thank you.
+[01:27] [Receptionist]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

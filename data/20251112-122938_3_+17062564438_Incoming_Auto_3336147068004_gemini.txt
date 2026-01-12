@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Beyer and Associates: 9 turns
+  • Speaker 2 / Holly / Role: Representative from Med-Surg/Emory Decatur Hospital: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Beyer and Associates, this is Angelos speaking, how may I help you?
+[00:08] Holly: Hi, my name's Holly, I'm calling from Med-Surg on behalf of Emory Decatur Hospital in for a case status update for Valeria Franklin.
+[00:17] [Receptionist]: Okay, let's see, Valeria... Franklin.
+[00:23] Holly: Yes.
+[00:25] [Receptionist]: Okay, wonderful. Can I have the date of loss, please?
+[00:29] Holly: 11/6/2019.
+[00:33] [Receptionist]: Thank you. What do you want me to check on this?
+[00:38] Holly: We had sent over a counteroffer for a reduction request and so I was just wanting an update on that.
+[00:45] [Receptionist]: Let's see... [ ... Silence (9s) ... ] Okay, but pretty much that information needs to be given from the case manager, alright? Let's see. So you are saying that you are calling from which hospital, just to confirm?
+[01:13] Holly: Emory Decatur Hospital.
+[01:16] [Receptionist]: Emory Decatur. Okay, let me go ahead and see if the case manager is available, okay? Hold on.
+[01:24] Holly: Thank you.
+[01:25] [Receptionist]: Hello?
+[01:27] Holly: Yes.
+[01:29] [Receptionist]: Thank you for staying on the line. So I was making the verification just to find out if the case manager is available, but it looks like that she's not at this moment. So would you like to leave her a voice message in order that she can call you back?
+[01:44] Holly: Yes, please.
+[01:46] [Receptionist]: Okay, that will be a good option. So I'm going to be leaving you in the voice message and you can... stay on the line, please.
+[01:54] Holly: All right. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

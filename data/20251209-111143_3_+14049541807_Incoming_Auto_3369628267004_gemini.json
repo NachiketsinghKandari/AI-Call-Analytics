@@ -1,0 +1,27 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist placed the caller on hold to check the availability of the requested attorney and the call ended.",
+    "call_duration_seconds": 53.71,
+    "call_duration_formatted": "00:53"
+  },
+  "transfer_context": {
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist offered to check if the attorney was available and placed the caller on hold, at which point the transcript ended."
+  }
+}

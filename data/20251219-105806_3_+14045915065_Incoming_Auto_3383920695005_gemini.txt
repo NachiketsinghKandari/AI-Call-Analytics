@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Maria / Role: Caller from Assurance America: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [Maria]: Hello, this is Maria with the claims support department here with Assurance America for your client Britt Bailey.
+[00:15] [Receptionist]: Mhm.
+[00:17] [Maria]: I wanted to confirm injuries reported and treatment to date.
+[00:25] [Receptionist]: Let me verify the case manager, one moment. Well, she's on another call, do you want to leave a voicemail?
+[00:33] [Maria]: Yes, please.
+[00:36] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

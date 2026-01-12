@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to the disbursement department, but the staff were unavailable in meetings. The receptionist provided some explanation regarding a specific bill and then agreed to take a message for a callback.",
+    "call_duration_seconds": 304.2,
+    "call_duration_formatted": "05:04"
+  },
+  "transfer_context": {
+    "destinations": [
+      "billing_and_disbursements"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist attempted to connect the caller with the head of the disbursement team, but the staff member was in a meeting and unavailable to take the call."
+  }
+}

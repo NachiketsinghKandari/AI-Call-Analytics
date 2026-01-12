@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dante / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Jane / Role: Caller from Magna Legal Services: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Dante speaking, how can I help you?
+[00:06] [Jane]: Hi, this is Jane from Magna Legal Services and I'm calling today to confirm receipt of the outstanding invoice and I would like to make a follow-up for the payment status as well.
+[00:18] [Receptionist]: What is the client's name?
+[00:21] [Jane]: It's for the case of Clarence Burnough, B-U-R-N-O-U-G-H, versus Henry County Fire Department.
+[00:31] [Receptionist]: I am so sorry, but you went very fast. Can you repeat the last name?
+[00:38] [Jane]: Oh sure, it's B for Bravo, U for Uniform, R for Romeo, N for Nancy, O-U-G-H.
+[00:54] [Receptionist]: B-U-R-N-O-U-G-H.
+[00:58] [Jane]: That is right.
+[01:03] [Receptionist]: And I have no case under that last name. What's the first name?
+[01:11] [Jane]: Uh, by the way, the first name it's Clarence, C-L-A-R-E-N-C-E.
+[01:18] [Receptionist]: C-L-A-R-E-N-C-E. Right.
+[01:25] [ ... Silence (12s) ... ]
+[01:37] [Receptionist]: I do not have anything under those names.
+[01:41] [Jane]: Uh, the number that I'm calling in right now, is this for the Bey and Associates LLC?
+[01:47] [Receptionist]: Yes, Bey and Associates, yes.
+[01:51] [Jane]: Um, this one is actually billed to Attorney Susan Spies, S-P-I-E-S, Spies.
+[02:03] [Receptionist]: I mean, I do see Clarence, but I do not see that last name. Maybe she has a different last name.
+[02:12] [Jane]: Oh, let me check here on the job details. Give me a second, please. Let me double check on file.
+[02:20] [ ... Silence (13s) ... ]
+[02:33] [Jane]: Hmm. I am not— it's actually the name that I'm seeing here. Um, where the witness is Latavia Soles and Courtney Cheek.
+[02:54] [ ... Silence (10s) ... ]
+[03:04] [Receptionist]: I do not have anything with that name.
+[03:09] [Jane]: Would you like me to resend the invoice on your email?
+[03:13] [Receptionist]: If you want, you can do that, yes.
+[03:17] [Jane]: Okay. And what is your email?
+[03:20] [Receptionist]: Yeah, go ahead and send it to Dante, which is D as in Delta, O, N as in Nancy, T as in Tom, E as in Echo, Dante, at Bey and Associates dot com, which is B as in Bravo, E as in Echo, Y as in Yankee, A-N-D associates with an S dot com.
+[03:49] [Jane]: Okay. And should I CC Attorney Susan on this as we have her email on file?
+[03:56] [Receptionist]: You can— you can go ahead and put her in as well. CC her.
+[04:01] [Jane]: Okay. All right. Thank you so much for answering my call today, really appreciate your time. So I'll just resend the invoice on your email then.
+[04:10] [Receptionist]: No problem. Okay. Thank you. Bye-bye.
+[04:14] [Jane]: Sure. Goodbye now.
+
+========================================
+TRANSCRIPT END
+========================================

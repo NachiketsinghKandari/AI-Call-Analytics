@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Candy / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Candy]: Hi, this is Candy with AICA Orthopedics. I am trying to reach one of your case managers, Ms. Stephanie Peck, for one of your clients, Ms. Shanika Kitchens.
+[00:18] [Receptionist]: I would be more than happy to assist you. If you can hold on just a second.
+[00:22] [Candy]: All right. Thank you so much.
+[ ... Silence (22s) ... ]
+[00:46] [Receptionist]: All right. Can you confirm for me please what is the date of loss?
+[00:49] [Candy]: Date of loss is November 18th, 2025. And also Damia Brooks.
+[00:57] [Receptionist]: Thank you. Uh, so far I have Shanika, so I'm going to transfer you over to Stephanie and then you can ask for the other one, okay?
+[01:06] [Candy]: Okay. Perfect. Thank you so much. I appreciate it.
+[01:09] [Receptionist]: No worries. Let me confirm if she's available. Hold on.
+[01:12] [Candy]: Yeah. Okay.
+[01:15] [Receptionist]: Thank you for staying on the line. It looks like that Stephanie isn't available at this moment. Would you like to take her email or would you like to leave a voice message?
+[01:24] [Candy]: If I can leave her a voicemail, that would be fantastic.
+[01:27] [Receptionist]: Sure. I would be more than happy to assist you with that. Let me transfer you over to her voice message, okay?
+[01:33] [Candy]: All right. Thank you so much.
+[01:35] [Receptionist]: You're more than welcome. Have a good one.
+[01:38] [Candy]: You too.
+[01:39] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

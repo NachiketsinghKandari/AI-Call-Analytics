@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the firm's updated mailing address and confirmed the professional roles of specific staff members. The caller agreed to follow up with the paralegal via email regarding settlement details.",
+    "call_duration_seconds": 236.3,
+    "call_duration_formatted": "03:56"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist offered a transfer to a case manager, but the caller declined the offer and opted to communicate via email after being informed the staff member was currently on another call."
+  }
+}

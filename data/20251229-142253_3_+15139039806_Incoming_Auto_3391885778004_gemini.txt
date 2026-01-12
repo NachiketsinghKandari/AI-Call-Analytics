@@ -1,0 +1,17 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima Hamay / Role: Receptionist at Bey and Associates: 2 turns
+  • Speaker 2 / Unknown / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fatima Hamay, how can I assist you today?
+[00:08] [Unknown]: Uh, yes, I'm trying to reach, um, Anita Washington's assistant, and, oh what is her name, oh my mind just, um, Kennedy. Uh, Kennedy.
+[00:21] [Receptionist]: Allow me one moment, I'll see if they're in office today, I think they are out of office. Allow me one moment.
+
+========================================
+TRANSCRIPT END
+========================================

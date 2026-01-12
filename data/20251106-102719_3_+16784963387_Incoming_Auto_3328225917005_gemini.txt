@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Kimmy / Role: Receptionist at Baines and Associates: 11 turns
+  • [Renee] / Renee / Role: Caller from Ika Orthopedics: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Baines and Associates, Kimmy speaking.
+[00:02] [Renee]: Hi Kimmy. Kimmy, good morning. My name is Renee. I'm calling from Ika Orthopedics. I'm calling to follow up on the status for a patient, can you assist me?
+[00:15] [Receptionist]: Yes ma'am, can I have the patient's name?
+[00:18] [Renee]: The first name is Carlton, C-A-R-L-T-O-N. The last name is Ferguson.
+[00:28] [Receptionist]: C-A-R-L-T-O-N.
+[00:31] [ ... Silence (10s) ... ]
+[00:41] [Receptionist]: You said Tariq Ferguson?
+[00:43] [Renee]: Carlton Ferguson, C-A-R-L-T-O-N.
+[00:47] [Receptionist]: C-A-R-L-T-O-N.
+[00:53] [ ... Silence (7s) ... ]
+[01:00] [Receptionist]: Okay, I need, um, I need to spell it one last time because I am, I'm, you broke up a few times.
+[01:08] [Renee]: The first name is Carlton, C-A-R-L-T-O-N. Carlton.
+[01:14] [ ... Silence (13s) ... ]
+[01:27] [Receptionist]: Okay. One last time. Carlton...
+[01:31] [Renee]: Ferguson. Ferguson. F-E-R-G-U-S-O-N.
+[01:48] [Receptionist]: Okay. I don't have that person here. Let me see if it's in the... Okay, he is, he was, he's already archived. Um, let me get you with Stephanie. She's the one that was handling this, in case you have any questions.
+[02:06] [Renee]: And you said it's, you said it's already settled?
+[02:10] [Receptionist]: Yes ma'am.
+[02:12] [Renee]: And, um...
+[02:14] [Receptionist]: She would be able, yeah, she would be able to, um, answer any questions for you.
+[02:19] [Renee]: What is Step- what is Stephanie's last name?
+[02:22] [Receptionist]: Peck, P-E-C-K.
+[02:25] [Renee]: Okay. Thank you. I will, was going to transfer?
+[02:28] [Receptionist]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

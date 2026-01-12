@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist asked the caller to wait after they requested to speak with specific staff members regarding a client, and the call ended immediately, indicating the transfer path was entered.",
+    "call_duration_seconds": 47.66,
+    "call_duration_formatted": "00:47"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "After the caller requested to speak with specific staff members and provided the client's name, the receptionist asked for a moment and the call ended."
+  }
+}

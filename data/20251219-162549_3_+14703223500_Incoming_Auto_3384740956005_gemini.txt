@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Unknown / Role: FedEx Representative: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:06] [Unknown]: Uh yes, this is FedEx calling in reference to a package that was mailed to Bey and Associates on 191 Peachtree Street to a Jonathan Steel but they're saying that you guys have moved.
+[00:24] [Receptionist]: Jonathan Steel. Um, it is in Georgia, in Atlanta, Georgia?
+[00:29] [Unknown]: Yes, it's in Atlanta, Georgia.
+[00:33] [Receptionist]: Yes, we have a new address, ma'am. Uh, would you like to write it down?
+[00:38] [Unknown]: Uh, yes, I would like to write it down.
+[00:41] [Receptionist]: Thank you so much. So the new address, it is 4200 Northside Parkway Northwest Building 9 Atlanta, Georgia 30327.
+[01:11] [Unknown]: 30237?
+[01:16] [Receptionist]: Oh no, no. 30327.
+[01:21] [Unknown]: 327. Okay, and it's 4200 Northside Parkway Northwest Building 9 Atlanta, Georgia 30327.
+[01:34] [Receptionist]: Yes, ma'am. You got it. Thank you.
+[01:37] [Unknown]: Okay, I will uh send this package out. This is all Building 9, no suite number?
+[01:42] [Receptionist]: No, only Building 9. It is just only that. No suite number.
+[01:46] [Unknown]: Okay. All right then. Um-hum. All right then. Thank you, we'll get this package out.
+[01:50] [Receptionist]: All right, have a good one. Thank you for the call.
+[01:52] [Unknown]: You too, sir. All right, you're welcome, bye-bye.
+[01:54] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

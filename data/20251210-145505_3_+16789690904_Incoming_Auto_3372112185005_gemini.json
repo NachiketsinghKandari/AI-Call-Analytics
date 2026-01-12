@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "verify_representation",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "Receptionist confirmed representation for the patient and attempted to transfer the caller to case management for scheduling authorization. The transfer failed, but the receptionist obtained authorization from a supervisor and provided it to the caller.",
+    "call_duration_seconds": 147.46,
+    "call_duration_formatted": "02:27"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "Receptionist attempted to transfer the caller to a case manager for scheduling authorization; the case manager was unavailable, so the receptionist consulted a supervisor and provided the answer directly."
+  }
+}

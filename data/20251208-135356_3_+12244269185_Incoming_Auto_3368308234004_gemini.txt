@@ -1,0 +1,79 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Jesse / Role: Receptionist at Bey and Associates: 32 turns
+  • [Zizi] / Zizi / Role: Caller from Atlanta Check Cashers: 29 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse. How can I assist you?
+[00:07] [Zizi]: Hi, yes, I'm calling from an Atlanta check cashers. I need an adjuster, anybody who's available to verify a check.
+[00:14] [Receptionist]: Yes, ma'am. What is the client's name?
+[00:18] [Zizi]: It's Skylar Shockley. S-K-Y-L-O-A-R.
+[00:26] [ ... Silence (5s) ... ]
+[00:31] [Receptionist]: I'm sorry, you said S-K-Y-O-A-R?
+[00:35] [Zizi]: No, S-K-Y-L as in Larry A-R. Skylar.
+[00:41] [Receptionist]: Skylar, got it. And his first name would be Shockley, right?
+[00:44] [Zizi]: The last name is Shockley. Uh-huh.
+[00:47] [Receptionist]: Ah, the last— yes, my bad. Skylar Shockley, yes. The date of the incident was May 19th of this year?
+[00:55] [Zizi]: It was May 19th? Yes, it was a car accident. It was May 19th.
+[00:59] [Receptionist]: Got it, understood. Um, all right. And you said you're calling from where, ma'am? Sorry.
+[01:07] [Zizi]: Atlanta Check Cashers.
+[01:09] [Receptionist]: Perfect. There is a case manager assigned. Do you allow me to place you on a brief hold for one minute? Let me see if she's available at the moment.
+[01:18] [Zizi]: Okay, and if she's not available, can you see if there's another case manager who can just— I just need their assistance with the check.
+[01:24] [Receptionist]: Check, all right. Uh, perhaps I can help you with that. Uh, give me one moment.
+[01:29] [Zizi]: Okay, thank you.
+[01:31] [ ... Silence (14s) ... ]
+[01:45] [Receptionist]: Uh, let me ask you, what is the amount of the check, ma'am?
+[01:49] [Zizi]: 13,709.99.
+[01:52] [Receptionist]: 18,000, you said?
+[01:53] [Zizi]: No, no, no. 13, 1-3.
+[01:57] [Receptionist]: Oh, 13,000. Got it.
+[01:59] [ ... Silence (15s) ... ]
+[02:14] [Receptionist]: All right. Uh, yes, ma'am. Let me tell you, so there is a check sent for 13,709 with 99 cents.
+[02:22] [Zizi]: There's a check— I'm sorry, go ahead.
+[02:27] [Receptionist]: Oh, I was just going to say, it says here that it was sent on the 20th of November.
+[02:34] [Zizi]: Okay, does it show to be cashed as of yet?
+[02:38] [ ... Silence (9s) ... ]
+[02:47] [Receptionist]: Well, uh, I cannot see if it has been cashed yet, but it shows here that it was sent, ma'am. I can try to— I can try to get the case manager on the line, perhaps she can— she has a better answer for you.
+[03:01] [Zizi]: Okay, if she's not available and you don't get through her, can you please try to see if anybody else is available to verify that information?
+[03:07] [Receptionist]: Uh, yes, ma'am. Yes, let me help you with this. All right, I'll be right back with you in one minute.
+[03:15] [Zizi]: Okay, thank you.
+[03:17] [Receptionist]: All right, thank you so much for holding, ma'am.
+[03:22] [Zizi]: Yes, I'm still here.
+[03:24] [Receptionist]: Uh, yeah, let me tell you. So, uh, I tried to reach out to the case manager, she's not available at the moment, and unfortunately— she would be the best person to answer— yes, can you hear me?
+[03:38] [Zizi]: Yes, I can hear you.
+[03:39] [Receptionist]: Uh, yes, I tried the case manager's line. Unfortunately, she's not available at the moment. Uh, and I don't have access to see if the check was, uh, uh, cashed. She would be the best person to provide that answer for you, ma'am. This is what I can do on my end. Uh, I can transfer you over to her voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible, ma'am.
+[04:02] [Zizi]: No, that won't work because they only take, like, we only do outbound calls, not inbound. Is there no other adjuster available or the accounting team that can look into it for me?
+[04:14] [Receptionist]: Unfortunately, no, ma'am. Uh, I'm seeing here that there is only a case manager assigned, there isn't even an attorney assigned to this case yet. Uh, but she can help you with this. She usually, uh, calls back, uh, the same day, ma'am.
+[04:29] [Zizi]: Like I said, it can't be a call back, it has to be an outbound call. Is there any way you could, um, let her know to call—
+[04:35] [Receptionist]: I can provide you with her direct line, if that helps.
+[04:40] [Zizi]: What's the direct line?
+[04:42] [Receptionist]: It would be 470-615-0715. And her name is Paige, P-A-Y-G-E, Paige.
+[05:05] [Zizi]: Okay, is there any way you could, um, send her, um, a note to call the client and then the client can let us know she's available to give her a call back?
+[05:14] [Receptionist]: Uh, yes, yes, I can notify, at least.
+[05:20] [Zizi]: Okay, so she's calling the client, you have the client's phone number?
+[05:23] [Receptionist]: Uh, yes, the client's phone number, uh, would be 470-962-8330.
+[05:40] [Zizi]: That's correct. 8330. And there's no other adjusters available or the accounting team available?
+[05:52] [Receptionist]: Not at the moment, ma'am, unfortunately. I mean, I can try again, if you like.
+[05:58] [Zizi]: Please and thank you.
+[06:01] [Receptionist]: Understood. Uh, what is your name again, sorry? So I can let her know.
+[06:05] [Zizi]: Zizi, Z-E-Z-E.
+[06:08] [Receptionist]: Got it. I'll be right back with you real quick, ma'am.
+[06:13] [Zizi]: Mhm.
+[06:14] [ ... Silence (7s) ... ]
+[06:21] [Receptionist]: Understood. Thank you so much for holding, ma'am. Uh, ma'am?
+[06:24] [Zizi]: Yes, I'm here.
+[06:25] [Receptionist]: Yeah, she's not available at the moment. I tried again, uh, I'm assuming she's with a client at the moment, but I really don't know.
+[06:33] [Zizi]: Okay, can you make sure that she calls back the client so we can know what we can do in the meantime?
+[06:41] [Receptionist]: Uh, yes, can you provide me the best phone number to reach you?
+[06:44] [Zizi]: No, to reach the client, so then they could call back out.
+[06:47] [Receptionist]: Oh, all right. All right, understood. Can I help you with anything else at the moment?
+[06:52] [Zizi]: No, thank you.
+[06:53] [Receptionist]: Understood. Thank you, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

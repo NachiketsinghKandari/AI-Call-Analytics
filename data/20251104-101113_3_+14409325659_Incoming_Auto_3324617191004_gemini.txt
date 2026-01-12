@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 9 turns
+  • Speaker 2 / [Craig] / Role: Employee at Progressive Insurance: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, this is Tasha, how may I help you?
+[00:07] [Craig]: Hi, this is Craig with Progressive Insurance. I was calling regarding a client, Carla Harden.
+[00:13] [Receptionist]: One moment, sir, let me bring up that file for you.
+[00:16] [Craig]: Okay.
+[00:17] [ ... Silence (24s) ... ]
+[00:42] [Receptionist]: Yes, sir, I have Mrs. Harden's file here. How can I help you? How can I assist you today?
+[00:45] [Craig]: Yeah, so the claimant settled and I had sent a email here to Linda Huff asking if, uh, you know, we could get some confirmation of certain specifics but also the payment instructions and I haven't heard back so I probably need to talk to her but I guess anybody who can just confirm you got that email confirming settlement and have a release, that would be great.
+[01:13] [Receptionist]: Sure. Um, let me get you to Ms. Linda. Um, she should be available. One second.
+[01:19] [Craig]: All right. Thank you.
+[01:21] [Receptionist]: You're welcome.
+[01:27] [Receptionist]: It looks like Ms. Linda's on the other line. That's probably why she hasn't responded to you, sir.
+[01:31] [Craig]: Well, that was October 30th, so...
+[01:33] [Receptionist]: Oh, okay.
+[01:34] [Craig]: ...it was October 30th, so she hasn't been on the phone that long, but, um, I could—you could probably let me leave her a voicemail or something and I'll just, you know, I wanted to follow up because I want to make sure you—you know, your client gets her check.
+[01:45] [Receptionist]: Yes, sir. Um, let me get you over to her voicemail. Transferring now.
+[01:52] [Craig]: Thank you.
+[01:53] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / [Amber Hicks] / Role: Claims Representative at Geico Claims: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how may I help you?
+[00:03] [Amber Hicks]: Hi, this is Amber Hicks with Geico Claims on a recorded line. And I was reaching out regarding a Houston client, Angela Bush, and I didn't know, um, if we should speak with Taylor Middleton or we had a Page also listed as the point of contact.
+[00:19] [Receptionist]: Yeah, let me take a look. Um, is this in regards to negotiations?
+[00:23] [Amber Hicks]: It is, uh, regarding the UIM claim. We have an offer out of $12,500.
+[00:29] [Receptionist]: I think Jonathan Steele is the attorney actually doing the negotiating and his- I can give you his email and his direct dial if you'd like.
+[00:39] [Amber Hicks]: Yes, sure.
+[00:40] [Receptionist]: All right, his email is, uh, first initial, so J Steele, and he spells Steele S as in Sam, T as in Tom, E-E-L-E. So J Steele at Bey and Associates dot com spelled all the way out.
+[00:54] [Amber Hicks]: Okay, perfect. Thank you for that.
+[00:56] [Receptionist]: Yep, and his direct dial is going to be, uh, 404-369-1398.
+[01:01] [Amber Hicks]: 98. Awesome. And would I need to dial him directly?
+[01:04] [Receptionist]: I can transfer you.
+[01:06] [Amber Hicks]: Oh, that would be great. Thank you so much.
+[01:08] [Receptionist]: Yep, one moment.
+[01:10] [Amber Hicks]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

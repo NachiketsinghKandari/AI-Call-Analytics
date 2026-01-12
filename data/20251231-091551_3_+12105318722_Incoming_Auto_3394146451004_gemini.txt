@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Jernise / Role: Caller from USAA: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Emma. How can I help you?
+[00:04] [Jernise]: Hi Emma, this is Jernise calling from USAA. Before we proceed I need to inform you that this call may be monitored or recorded for quality assurance purposes. I'm calling about client Demond Nash.
+
+[ ... Silence (7s) ... ]
+
+[00:24] [Receptionist]: I've found the case for Demond Nash. How can I assist you regarding this case?
+[00:30] [Jernise]: I am calling to discuss the demand with the attorney.
+[00:38] [Receptionist]: The attorney isn't available at the moment. Let me take a message and ensure they reach out to you. What message would you like me to leave?
+[00:44] [Jernise]: Is there someone else who could be available?
+[00:52] [Receptionist]: The insurance team is also currently unavailable. Let me take a message and make sure someone gets back to you as soon as possible. What would you like me to tell them?
+[01:03] [Jernise]: Call me back at 800-531-8722, extension 24214.
+[01:14] [Receptionist]: Got it. I'll make sure the insurance team contacts you back at 800-531-8722, extension 24214.
+[01:28] [Jernise]: Okay, thank you.
+[01:30] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

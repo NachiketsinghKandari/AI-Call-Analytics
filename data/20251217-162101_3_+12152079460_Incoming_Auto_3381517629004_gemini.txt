@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Berna / Role: Caller from Magna Legal Services: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, um, what can I do for you today?
+[00:07] [Berna]: Hi, good afternoon Karina. This is Berna from Magna Legal Services. I am just making a follow-up call to check the payment status of an open invoice. May I know who's the best person that I can speak with?
+[00:23] [Receptionist]: What is the client's name?
+[00:26] [Berna]: Um, the case is under the name or it's under the case of Clarence Burnough, that's B-U-R-N-O-U-G-H versus Henry County Fire Department.
+[00:46] [Receptionist]: Can I have the spelling of the last name again, please?
+[00:53] [Berna]: Um, sure. That's B like boy, U for uniform, R for Robert, N for Nancy, O for Oscar, U for uniform, G for George, H for hotel.
+[01:11] [Receptionist]: We don't have any case with a client under that name, ma'am.
+[01:18] [Berna]: Um, just give me... but this number is for Bey and Associates, right?
+[01:26] [Receptionist]: Yes, we're Bey and Associates law firm. You said Burnough, it's B as in bravo, U-R-N-O-U-G-H, correct?
+[01:36] [Berna]: Yes. Yes.
+[01:37] [Receptionist]: You said Clarence, C-L-A-R-E-N-C-E?
+[01:41] [Berna]: That is correct. But the... but the deposition is actually for the name of Latavious, that's L-A-T-A-V-I-U-S and the last name is S like Sam, A, U for uniform, L for Larry, S for Sam. And Courtney Cheek. Courtney is spelled as K like kilo, O for Oscar, R for Robert, T for tango, N for Nancy, E Edward, Y for yankee.
+[02:21] [Receptionist]: Okay, bear with me, honey, bear with me. You're going very fast. Okay, you want... you said first S-A-U-L-S, right?
+[02:36] [Berna]: Yes, that's the last name.
+[02:38] [Receptionist]: And first name you said is...
+[02:41] [Berna]: L for Larry, A for alpha, T for Tom, A for alpha, V for Victor, I for India, U for uniform, S for Sam.
+[02:59] [ ... Silence (14s) ... ]
+[03:13] [Receptionist]: I don't have nothing under that name either.
+[03:17] [Berna]: How about the name for Courtney Cheek? That's K-O-R-T-N-E-Y and then Cheek, C-H-E-E-K.
+[03:33] [ ... Silence (6s) ... ]
+[03:39] [Receptionist]: No, honey, nothing.
+[03:42] [Berna]: I see. Um, upon checking our records here, ma'am, this invoice is actually billed to Susan Spies. Is she available to speak with regarding the invoice or regarding the...
+[03:56] [Receptionist]: Let me see, Susan. Okay.
+
+========================================
+TRANSCRIPT END
+========================================

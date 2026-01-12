@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Irena / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Andrew / Role: Caller from GEICO: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Irena speaking, how can I help you?
+[00:05] [Andrew]: Hi, my name is Andrew and I'm calling from the GEICO claims department on a recorded line. How are you today?
+[00:12] [Receptionist]: Uh, I'm doing well, thank you. How can I help you, sir?
+[00:17] [Andrew]: I was giving you a call regarding two clients, a Jamaya Lockhart and a Jermaine Gordon.
+[00:27] [Receptionist]: Okay. Give me just a moment, let me see if I can find that case. You said Gordon and her first name or his first name?
+[00:40] [Andrew]: Jermaine Gordon.
+[00:42] [Receptionist]: Jermaine, let me see. Okay.
+[00:43] [Andrew]: He's a minor, correct?
+[00:45] [Receptionist]: Correct.
+[00:47] [Andrew]: Okay.
+[00:53] [Receptionist]: You're calling from GEICO, you said?
+[00:56] [Andrew]: Yes, ma'am.
+[00:58] [Receptionist]: Okay, let me place you on a brief hold.
+[01:01] [Andrew]: Sure.
+[01:02] [Receptionist]: Thank you.
+[01:03] [ ... Silence (10s) ... ]
+[01:13] [Receptionist]: All right, thank you so much for holding. The case manager for this in particular case is in another call right now. Would you like her voicemail?
+[01:23] [Andrew]: That's fine.
+[01:25] [Receptionist]: Okay, one moment.
+
+========================================
+TRANSCRIPT END
+========================================

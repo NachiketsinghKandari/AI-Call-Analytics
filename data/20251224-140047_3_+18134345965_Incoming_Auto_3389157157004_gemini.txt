@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Brian / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karina, what can I do for you?
+[00:05] [Brian]: Hello? Is this Emma?
+[00:10] [Receptionist]: I'm sorry?
+[00:12] [Brian]: Is this Emma? Can I talk to my attorney Emma?
+[00:17] [Receptionist]: I'm sorry, but they're all gone for the day.
+[00:21] [Brian]: Okay, all right, all right. Uh, they left for the day? Is there any way you could, uh, just look at my file if there was an update, ma'am? Please? The most recent update.
+[00:34] [Receptionist]: Well, Brian, the thing is that only the case manager can go ahead and provide you with any...
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devin / Role: [Receptionist] at Bain and Associates Law Firm: 6 turns
+  • Speaker 2 / Robert Rivers / Role: Attorney at McFarland and Dolan: 5 turns
+  • Speaker 3 / Linda Huff / Role: Case Manager (Voicemail): 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates Law Firm, Devin speaking.
+[00:06] [Robert Rivers]: Hey, uh, Devin, this is attorney Robert Rivers with McFarland and Dolan. I'm calling you today concerning your clients Whitney Drew and Kimberly Drew. Do we have a global global settlement conference scheduled right now? We had sent notice out to your firm and we just wanted to see if you guys were planning on attending.
+[00:28] [Receptionist]: Okay. Um, I don't handle that portion of the information, but I can get you over to the case manager that's working on that those files. Um, that would be Linda Huff. So let me get over to her, okay?
+[00:43] [Robert Rivers]: Okay.
+[00:44] [ ... Silence (14s) ... ]
+[00:58] [Receptionist]: Sorry about that delay, sir. Seems like Linda is unavailable. She's on the line right now with another client. Uh, would you like to leave a voicemail and she can return the call?
+[01:09] [Robert Rivers]: Yeah, like I said, we're in a global settlement conference right now and and there's three claimants, two of them are yours and and nobody's here. So we just wanted to see if she they were, you know, they she was planning on attending or one of the attorneys. Um, yeah, I mean I can leave her a message and then see if she wants to call me back. That's fine.
+[01:34] [Receptionist]: Okay. Perfect. Yes. She'd be the right person to give you that call back, okay?
+[01:41] [Robert Rivers]: All right. Yep.
+[01:44] [Receptionist]: Thank you so much. Transferring you over, all right?
+[01:47] [Robert Rivers]: Thank you.
+[01:49] [Receptionist]: You're welcome.
+[01:51] [Linda Huff]: Linda Huff's office...
+
+========================================
+TRANSCRIPT END
+========================================

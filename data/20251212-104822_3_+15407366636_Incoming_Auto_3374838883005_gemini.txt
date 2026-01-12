@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Rosemary / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:07] [Rosemary]: Hey, this is Rosemary with Liberty Mutual. I was trying to get connected to a Taiwana Evans?
+[00:14] [Receptionist]: What is the—
+[00:16] [Rosemary]: Or Taiyana. I'm sorry, go ahead.
+[00:18] [Receptionist]: Name of the case?
+[00:20] [Rosemary]: It is for, uh, client Jakavious Swanson.
+[ ... Silence (7s) ... ]
+[00:33] [Receptionist]: You said you're calling from where?
+[00:37] [Rosemary]: Liberty Mutual.
+[ ... Silence (7s) ... ]
+[00:45] [Receptionist]: One moment. Thank you so much for holding. She's not available. Do you want to leave a voicemail?
+[00:50] [Rosemary]: Yes, that would be great. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

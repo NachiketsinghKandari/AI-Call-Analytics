@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Angie / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates.
+[00:02] [Angie]: Hi, good morning. My name is Angie calling with Merit Medical. I am calling to see if I can get in contact with the case manager for client Martha Start.
+[00:12] [Receptionist]: Okay.
+[00:16] [Receptionist]: Paige Almond, let me get her for you.
+[00:19] [Angie]: Okay, thank you.
+[00:21] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

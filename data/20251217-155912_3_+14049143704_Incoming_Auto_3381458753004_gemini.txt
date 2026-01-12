@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Dai / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Dai now.
+[00:08] [Speaker 2]: Hello?
+[00:11] [Receptionist]: Thank you for calling Bey and Associates. This is Dai now.
+[00:15] [Speaker 2]: Is this... Is this Bey and Associates?
+[00:21] [Receptionist]: Yes.
+[00:23] [Speaker 2]: Okay, so I was speaking with a lady earlier and I was talking with her and I was looking to get a call back but she was asking me about the claim number and stuff like that, um, without me signing anything and I was just trying to make sure she wasn't working on the case before I spoke with anyone.
+[00:42] [Receptionist]: Okay. Do you remember the name of that person?
+[00:46] [Speaker 2]: Uh, I don't, but the number that I called, I don't know if it's the same number, it's the 344-4448 number.
+[00:57] [Receptionist]: Okay, one moment.
+
+========================================
+TRANSCRIPT END
+========================================

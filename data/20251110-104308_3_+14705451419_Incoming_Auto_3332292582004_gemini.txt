@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Speaker 1]/ Role: [Caller]: 5 turns
+  • Speaker 2 / [Receptionist]/ Role: [Receptionist at Sherry and Associates]: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: I was wondering what the three hours went by boy. Amazing.
+[00:05] [Receptionist]: This is Sherry and Associates, how may I help you?
+[00:08] [Speaker 1]: Yeah, looking to speak to Sherry McBean, please. Can you transfer me, please?
+[00:12] [Receptionist]: Sherry McBean. Uh, may I know the reason why are you calling?
+[00:16] [Speaker 1]: Oh yeah, I'm looking to schedule an appointment with her. Mind transferring me?
+[00:20] [Receptionist]: Okay, let's see. McBean...
+[ ... Silence (7s) ... ]
+[00:30] [Receptionist]: The name is Sherry...
+[00:32] [Speaker 1]: I know what, I have the email. I'll go ahead and send her an email. I have the email address. Thank you, sir.
+[00:36] [Receptionist]: All right, no- no need to shut off. Yes, you can schedule via email as well. Mm-hmm.
+[00:42] [Speaker 1]: Yeah, yeah. Thank you.
+[00:43] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

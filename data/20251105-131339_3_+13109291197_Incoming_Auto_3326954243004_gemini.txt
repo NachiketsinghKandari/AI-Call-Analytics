@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at B and S Associates: 10 turns
+  • Speaker 2 / [Darlene] / Role: Caller from CMIP Solutions: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Jesse from B and S Associates. How can I help you?
+[00:05] [Darlene]: Uh, Britney Lawson, please.
+[00:08] [Receptionist]: Britney Lawson, understood. Are you a client, ma'am?
+[00:12] [Darlene]: No.
+[00:13] [Receptionist]: Oh, understood. Uh, uh, so, are you calling from an institution? From a facility?
+[00:23] [Darlene]: I'm Darlene with CMIP Solutions.
+[00:27] [Receptionist]: CMIP Solutions, understood. And are you calling about a specific client, ma'am?
+[00:34] [Darlene]: Are you still there? You cut out on me.
+[00:38] [Receptionist]: Oh, sorry. Uh, I was asking if you are, um, calling in and- in regards to a specific client, ma'am.
+[00:47] [Darlene]: No.
+[00:48] [Receptionist]: Understood. So you wish to speak to- to Britney?
+[00:52] [Darlene]: Yes.
+[00:53] [Receptionist]: Understood. Give me one moment, let me see if she's available, alright?
+[00:57] [Darlene]: Okay, thank you.
+[01:02] [Receptionist]: Thank you so much for holding, ma'am.
+[01:04] [Darlene]: Mm-hmm.
+[01:05] [Receptionist]: Uh, so, Ms. Britney is not- not available at the moment. Uh, I can take a message for you, or you can call back if you'd like.
+[01:15] [Darlene]: I can try again another time, not a problem. Thank you so much, folks. Have a great day.
+[01:21] [Receptionist]: You too, ma'am. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,17 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Michael / Role: Receptionist at Law Offices of Michael J. Green: 2 turns
+  • Speaker 2 / Sarah Jenkins / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling the Law Offices of Michael J. Green. This is Michael. How can I help you?
+[00:01] [Sarah Jenkins]: Hi, Michael. My name is Sarah Jenkins. I'm calling to inquire about your services for a personal injury case.
+[00:03] [Receptionist]: Hi, Sarah. I'd be happy to help. Can you tell me a little bit about what happened?
+
+========================================
+TRANSCRIPT END
+========================================

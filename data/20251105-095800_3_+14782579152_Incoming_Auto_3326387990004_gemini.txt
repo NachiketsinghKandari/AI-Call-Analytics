@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Devin / Role: Receptionist at a Law Firm: 8 turns
+  • Speaker 2 / [Unidentified] / Role: Representative from Progressive Insurance: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: [Inaudible] Law firm, Devin speaking.
+[00:06] [Speaker 2]: Hi, this is with Progressive Insurance, I'm just trying to follow up on an offer I have out and I can spell the client's name for you. And what was your name? It kind of cut off, I apologize.
+[00:18] [Receptionist]: Yes, my name is Devin, D-E-V-I-N.
+[00:23] [Speaker 2]: Okay, thank you. Um, and the client's name is, the first name is T as in Tom, I, Y as in yellow, A-N-C-E, and the last name is Dewberry, D-E-W-B-E-R-R-Y.
+[00:40] [Receptionist]: All righty. So let me go ahead and get you over to Stephanie, and Stephanie may have an answer to that offer. Yeah.
+[00:45] [Speaker 2]: Okay, thank you.
+[00:47] [Receptionist]: You're welcome.
+[00:48] [ ... Silence (5s) ... ]
+[00:53] [Receptionist]: Thank you so much for patiently holding on me, I do apologize. Um, seems like the case manager is not available at the moment. She is away from her desk, but I can get you on, uh, her voicemail and she'll return the call.
+[01:11] [Speaker 2]: Thank you.
+[01:13] [Receptionist]: All righty, so I'm going to transfer you over for you to leave that message and she'll happily give you that call back once she gets back to her desk.
+[01:20] [Speaker 2]: Okay.
+[01:22] [Receptionist]: All righty, thank you. Have a great one.
+[01:25] [Speaker 2]: You too, thank you so much, have a good day.
+[01:28] [Receptionist]: Thank you, ma'am.
+
+========================================
+TRANSCRIPT END
+========================================

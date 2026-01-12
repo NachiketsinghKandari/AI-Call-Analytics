@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 4 turns
+  • Speaker 2 / [Chris] / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bain and Associates, Kimmy speaking.
+[00:06] [Chris]: Hey, uh, Kimmy speak- uh, this is Chris. I was just looking for, uh, Brittany, Brittany Lawson?
+[00:12] [Receptionist]: Yes sir. One second.
+[00:16] [Chris]: Mhm.
+[00:18] [Receptionist]: I'm gonna go ahead and send you over.
+[00:22] [Chris]: Thank you.
+[00:24] [Receptionist]: Have a great day. Bye-bye.
+[00:26] [Chris]: Yeah.
+
+========================================
+TRANSCRIPT END
+========================================

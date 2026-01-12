@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist]: Speaker 1 / Role: Receptionist at Anapolsky Law Firm: 16 turns
+  • [Davis Echezuría]: Speaker 2 / Role: Client: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: De Anapolsky Law Firm, Davis.
+[00:06] [Davis Echezuría]: Hola, buenas- buenas tardes.
+[00:09] [Receptionist]: Hola, buenas.
+[00:11] [Davis Echezuría]: Yo llamé ahorita, era el que se cayó la llamada para ver si como yo quedé con un cheque pendiente sobre la mordida del perro del caso que me siguieron ustedes.
+[00:22] [Receptionist]: Okay. Eh, sí, no fui yo quien atendió, pero deme su nombre por favor.
+[00:28] [Davis Echezuría]: Davis Echezuría.
+[00:30] [ ... Silence (11s) ... ]
+[00:42] [Receptionist]: ¿Me puedes deletrear el apellido?
+[00:44] [Davis Echezuría]: Echezuría.
+[00:46] [ ... Silence (6s) ... ]
+[00:53] [Receptionist]: ¿Y usted estuvo hablando con un representante ahorita sobre el cheque?
+[00:57] [Davis Echezuría]: ¿Cómo?
+[00:59] [Receptionist]: ¿Que si estuvo hablando usted con alguien ahorita en cuanto al cheque?
+[01:02] [Davis Echezuría]: Sí, pero lo que pasa es que se cayó la llamada.
+[01:05] [Receptionist]: Okay, permítame un segundo. [ ... Silence (18s) ... ]
+[01:24] [ ... Silence (28s) ... ]
+[01:53] [Receptionist]: Por lo que veo ahorita, eh, del caso de Davis Echezuría, todavía no se ha elaborado, vamos a ver aquí... vamos a ver el cheque... Davis Echezuría. Okay. Este cheque...
+[02:02] [ ... Silence (28s) ... ]
+[02:31] [Receptionist]: ...desde septiembre 25. Okay.
+[02:35] [Davis Echezuría]: ¿Cómo?
+[02:37] [Receptionist]: Desde el 25 de septiembre creo que ya está listo.
+[02:43] [Davis Echezuría]: No, a mí me entregaron un cheque, son- son dos cheques. A mí me entregaron uno en esa fecha, creo que el 25 o el 28, algo así. Pero quedó uno, quedó uno creo que era de tres mil y algo.
+[02:58] [Receptionist]: Okay, ese todavía no está listo. Déjeme comunicar- Stephanie es la que lleva el caso, Stephanie. Déjeme comunicarme con Stephanie antes de que se vaya para ver qué- qué está pasando y dónde está el...
+[03:12] [ ... Silence (11s) ... ]
+[03:24] [Receptionist]: Okay, ella ya salió de la oficina. Veo aquí que la señorita que lo atendió en la llamada le dejó una nota a Stephanie en cuanto al cheque. Permítame un segundo, ¿okay?
+[03:34] [Davis Echezuría]: Okay, okay, yo te espero. Okay, está bien, no hay problema.
+[03:36] [Receptionist]: Okay. [ ... Silence (8s) ... ]
+[03:45] [Receptionist]: Sí, Davis, lastimosamente Stephanie ya se fue por el día. Eh, ella ya tiene notificado para llamarle mañana en cuanto al cheque pendiente, ¿verdad? Y hablar con usted sobre eso para dar- darle la información.
+[04:00] [Davis Echezuría]: Okay, okay. Sí, eso es todo.
+[04:07] [Receptionist]: Cualquier cosa entonces nos puede regresar la llamada si dado caso no la llama a usted mañana en la mañana, ¿okay?
+[04:15] [Davis Echezuría]: Okay, sí, está bien, gracias.
+[04:18] [Receptionist]: A la orden, que pase feliz día.
+[04:20] [Davis Echezuría]: Igualmente.
+
+========================================
+TRANSCRIPT END
+========================================

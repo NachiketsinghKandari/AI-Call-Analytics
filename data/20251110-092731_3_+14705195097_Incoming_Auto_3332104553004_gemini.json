@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a case status update regarding a deposition date. The receptionist asked for a moment to look up the information, and the call ended before any status was provided or a transfer was initiated.",
+    "call_duration_seconds": 56.88,
+    "call_duration_formatted": "00:56"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the call ended while the receptionist was placing the caller on hold to research the case."
+  }
+}

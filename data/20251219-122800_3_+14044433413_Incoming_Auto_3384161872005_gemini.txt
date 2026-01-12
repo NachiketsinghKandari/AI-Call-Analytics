@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / John Collins / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:06] [John Collins]: Hi, this is John Collins from Apple Business. I was trying to get in touch with John.
+[00:12] [Receptionist]: Mr. Bey? Just one second, let me go ahead and transfer you over.
+[00:18] [John Collins]: Thank you.
+[00:19] [Receptionist]: You're welcome. You have a great rest of your day, sir.
+[00:22] [John Collins]: Yeah, of course. Thank you.
+[00:24] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

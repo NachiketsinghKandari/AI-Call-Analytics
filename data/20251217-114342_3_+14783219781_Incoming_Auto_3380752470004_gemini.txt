@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Michelle White / Role: Caller from Geico Claims: 5 turns
+
+----------------------------------------
+
+[00:05] [Receptionist]: Bey and Associates, this is Tasha, how can I help you?
+[00:08] [Michelle White]: Hi, good morning, Tasha. This is Michelle White calling from, uh, Geico Claims on a recorded line. For client Laquita Wingfield, um, case manager assigned to her is Paige. Um, wanted to see if she was available to discuss the, uh, claim for her.
+[00:27] [Receptionist]: Sure, I can transfer you over, ma'am.
+[00:30] [Michelle White]: Thank you.
+[00:31] [Receptionist]: All righty. Would you like her contact info?
+[00:36] [Michelle White]: Uh, yes, please.
+[00:38] [Receptionist]: Contact number is 470-615-0715.
+[00:44] [Michelle White]: All right, thank you.
+[00:46] [Receptionist]: All right.
+[00:47] [Michelle White]: Thank you.
+[00:48] [Receptionist]: All right, transferring now.
+
+========================================
+TRANSCRIPT END
+========================================

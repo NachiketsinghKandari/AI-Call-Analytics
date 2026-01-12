@@ -1,0 +1,21 @@
+{
+  "caller_type": "family_member",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the caller that the office was closed and the requested individual was not available, suggesting the caller call back the following day to speak with an assistant.",
+    "call_duration_seconds": 76.75,
+    "call_duration_formatted": "01:16"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during this call."
+  }
+}

@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 5 turns
+  • Speaker 2 / [Willie Knox] / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Good day and associates, Travis speaking.
+[00:02] [Willie Knox]: Uh, yes, my name is Willie Knox, uh, uh, I've been dealing with uh, Mr. Virgil Brannon, uh, I'm calling uh, to let- let someone know that I have lost- lost my phone and if anybody from y'all office try to get in contact with me, you won't be able to call me because I don't know where my- my phone is at. And uh, I- he has my email address if uh, y'all need to send me anything.
+[00:29] [Receptionist]: Okay, so you lost your phone, Mr.- Mr. Knox?
+[00:35] [Willie Knox]: Yes.
+[00:36] [Receptionist]: Okay, yeah, 'cause we have been trying to contact you, um, several attempts. If you like, I can get you connected with your case manager right now?
+[00:52] [Willie Knox]: Okay.
+[00:53] [Receptionist]: All right? So thank you so much, sir. So let me make a note here to contact you via email, which is willieknox4014@gmail.com, correct?
+[01:04] [Willie Knox]: That's correct, sir.
+[01:05] [Receptionist]: All right. So let me put you on a brief hold and get you over to your case manager, okay?
+[01:12] [Willie Knox]: Okay.
+[01:13] [ ... Silence (7s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

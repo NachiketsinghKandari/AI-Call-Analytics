@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Ben / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Megan Wolf / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (5s) ... ]
+[00:05] [Receptionist]: Bey and Associates, Ben speaking.
+[00:07] [Megan Wolf]: Hi, I was just looking to speak with Taylor Middleton.
+[00:11] [Receptionist]: Yes, ma'am. Can I have your name and reason for calling?
+[00:14] [Megan Wolf]: Yeah, my name is Megan Wolf, um, and I was calling because she and I are supposed to be having a virtual meeting right now, but, um, she hasn't yet joined the meeting.
+[00:23] [Receptionist]: Okay, one second.
+
+========================================
+TRANSCRIPT END
+========================================

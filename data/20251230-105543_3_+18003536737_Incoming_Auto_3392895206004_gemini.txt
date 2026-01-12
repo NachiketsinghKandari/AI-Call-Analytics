@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Quentin / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. My name is Jesse. How can I assist you?
+[00:06] [Quentin]: Uh, yes. I'm Quentin with Kemper Infinity Insurance.
+[00:11] [Receptionist]: All right. Give me one moment.
+[00:13] [Quentin]: And uh, I'm calling about a client by the name of Veronica Hernandez Garcia.
+[00:21] [Receptionist]: All right. Give me one moment. You said her first name is Monica?
+[00:27] [Quentin]: Uh, Veronica.
+[00:29] [Receptionist]: Oh, Veronica. Got it.
+[00:31] [ ... Silence (15s) ... ]
+[00:46] [Receptionist]: Uh, yes. Do you have a date of the incident, sir?
+[00:50] [Quentin]: Yes. 11/14/2025.
+[00:54] [Receptionist]: 11/14/2025. Yes. Give me one moment.
+[00:58] [ ... Silence (7s) ... ]
+[01:05] [Receptionist]: Understood. And you mentioned that you're calling from Kemper, right? Kemper Insurance?
+[01:09] [Quentin]: Yes.
+[01:11] [Receptionist]: Excellent. Um, yes, sir. There is a case manager assigned to this file. Do you allow me to place you on a brief hold for one minute? Let me see if she's available at the moment.
+[01:21] [Quentin]: Sure. Thank you.
+[01:22] [Receptionist]: Thank you, sir.
+
+========================================
+TRANSCRIPT END
+========================================

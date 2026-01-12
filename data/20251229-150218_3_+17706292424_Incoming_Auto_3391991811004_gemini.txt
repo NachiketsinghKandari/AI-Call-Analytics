@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Stephanie / Role: Caller from AICA Orthopedic: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm. My name is Fatima. How may I assist you?
+[00:07] [Stephanie]: Hey, this is Stephanie with AICA Orthopedic. How are you?
+[00:11] [Receptionist]: I'm very well, Ms. Stephanie. How about you?
+[00:13] [Stephanie]: Doing fine. Hope you had a nice Christmas.
+[00:17] [Receptionist]: It was. How about you?
+[00:19] [Stephanie]: Yes, ma'am. It was fine, it was fine.
+[00:22] [Receptionist]: And now we're back to work.
+[00:24] [Stephanie]: Uh-huh. Oh my gosh. So I missed you yesterday.
+[00:28] [Receptionist]: Mhm. Okay. How may I help you, Ms. Stephanie?
+[00:33] [Stephanie]: Yes, ma'am. So I was calling to confirm, I know a patient, one of our patients, um, just signed off on, um, you know, being represented by the law firm. And I have her name. I just want to confirm if she's, um, you know, with the law firm. I'm sorry.
+[00:52] [Receptionist]: Okay. May I please have the client's first and last name?
+[00:55] [Stephanie]: Yes. First name is R-A-V-I-N and last name is C-O-L-L-I-E.
+[01:06] [Receptionist]: Thank you. Bear with me.
+[01:08] [Stephanie]: Mhm. No problem.
+[01:10] [ ... Silence (7s) ... ]
+[01:17] [Receptionist]: Date of loss was on December the 8th?
+[01:20] [Stephanie]: Yes, ma'am.
+[01:21] [Receptionist]: All right. Yeah, I see the file is here. Status is treating.
+[01:25] [Stephanie]: All righty. And can you tell me if she's been assigned a case manager or a paralegal?
+[01:31] [Receptionist]: She has. Case manager. His name is Devin. I'll spell that for you. D as in David, E as in Echo, V as in Victor, I as in India, N as in Nancy. And his last name is M as in Mother, C as in Charlie, L as in Low, A as in Apple, U as in Uniform, G as in Golf, H as in Hotel, L as in Low, I as in India, N as in Nancy.
+[02:11] [Stephanie]: Okay. And his email is just—
+[02:13] [Receptionist]: Oh, I'm sorry. Yeah. His email is just his name, devon at bey and associates dot com. And it's spelled out A-N-D.
+[02:21] [Stephanie]: Okay then. And in order for me to get in touch with him directly, just call the same number that I just dialed?
+[02:27] [Receptionist]: I can give you his direct line. However, he is out of office until next week. His phone number is 478-412-4725.
+[02:46] [Stephanie]: 4725. And again, you said his email address is his first and last name at Bey—
+[02:52] [Receptionist]: No, it's just his first name. Only his first name. devon at bey and associates dot com.
+[02:59] [Stephanie]: Okay then. Well, thank you so very much.
+[03:02] [Receptionist]: You're very welcome. Bye-bye.
+[03:05] [Stephanie]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

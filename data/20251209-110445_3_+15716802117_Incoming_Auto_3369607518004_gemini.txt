@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Amara / Role: Caller from Geico: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Tasha, how may I help you?
+[00:05] [Amara]: Hi Tasha, my name is Amara with Geico Total Loss Department and I do advise that this call is being monitored and recorded for quality purposes. How are you doing today, Tasha?
+[00:15] [Receptionist]: I'm doing great, ma'am. How are you?
+[00:18] [Amara]: I'm doing well, thank you. I was calling to see, um, in this— I was calling to see if you can help me with this mutual customer of ours regarding a total loss claim for a Miss Tierica Lockhart?
+[00:32] [Receptionist]: One moment, ma'am.
+[00:35] [Amara]: Thank you.
+[00:41] [Receptionist]: Tierica?
+[00:42] [Amara]: Um, I have Tierica Lockhart.
+[00:46] [Receptionist]: Could you please confirm date of loss, ma'am?
+[00:49] [Amara]: September 4th of this year.
+[00:52] [Receptionist]: Alrighty. Um, yes ma'am, I have Mrs. Lockhart's file here. How can I assist you with this case today?
+[00:58] [Amara]: Um, I was calling to see if you can help me get in contact with Liberty Mutual for a mutual customer. This vehicle was declared a total loss under a rental car with Flexcar, and Flexcar advised me we have to reach out to Liberty Mutual for the next steps, but I haven't been able to get in contact with the adjuster there. I was calling to see if there is any correspondence between you and Liberty Mutual regarding the property damage of this claim.
+[01:26] [Receptionist]: Um, that would be with the case manager, ma'am. Unfortunately, I'm just an intake specialist, but I can get— provide you case manager's info and contact number. And I can also transfer you over.
+[01:40] [Amara]: Oh, okay. Um, if you don't mind.
+[01:43] [Receptionist]: Okay. Case number— case con— case manager's contact number is 470-645-1748. Her name is Stephanie Peck.
+[01:52] [Amara]: I'm sorry?
+[01:53] [Receptionist]: Stephanie.
+[01:54] [Amara]: Okay. And can you repeat her number again for me? I didn't catch all of it, I'm sorry.
+[01:58] [Receptionist]: Sure, that's okay. 470-645-1748.
+[02:07] [Amara]: Perfect, thank you. And I'm ready whenever you are for the transfer. I appreciate you.
+[02:12] [Receptionist]: Sure, transferring now.
+[02:14] [Amara]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Vinas Law Firm: 8 turns
+  • Speaker 2 / Hassan Suma / Role: Client: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vinas Law Firm, Devin speaking.
+[00:02] [Hassan Suma]: Hey, can I speak to Stephanie Peck please?
+[00:04] [Receptionist]: Sure. May I ask who's calling?
+[00:08] [Hassan Suma]: Hassan Suma.
+[00:10] [Receptionist]: Good morning, sir. Let me go ahead and get you over to Stephanie.
+[00:14] [Hassan Suma]: Thank you.
+[00:15] [ ... Silence (12s) ... ]
+[00:27] [Receptionist]: Mr. Suma, thank you so much for patiently holding. Um, seems like Stephanie is not available as of yet. She may be still hasn't reached the office. Would you like to leave a voicemail?
+[00:37] [Hassan Suma]: Um, could you just just have her give me a call?
+[00:41] [Receptionist]: No problem. I can arrange that.
+[00:44] [Hassan Suma]: Thanks. Oh, or is um, do you know who my actual lawyer is? I know she's my I forget what she is, but I know there's somebody else who works with her on my case.
+[00:58] [Receptionist]: Yes, um, Taylor Middleton's your attorney. She's not available. Tiara is your case manager.
+[01:04] [Hassan Suma]: Okay, yes, if when Stephanie comes in if you could have her give me a call please.
+[01:10] [Receptionist]: Okay, I can definitely arrange that.
+[01:13] [Hassan Suma]: Okay, sounds good. Bye.
+[01:15] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Mikael / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:06] [Mikael]: Hey, how you doing? Um, is there a way you could connect me to, um, Attorney Gibson?
+[00:14] [Receptionist]: Can I have your name, sir?
+[00:17] [Mikael]: Excuse me?
+[00:19] [Receptionist]: Can I have your name?
+[00:21] [Mikael]: Yes, it's Mikael.
+[00:26] [Receptionist]: Do you have a case with us?
+[00:29] [Mikael]: Um, I was instructed by him to, um, call, call, call him, get patched through to him. If you give him my name, I'm sure he'll take the call.
+[00:45] [Receptionist]: You say your name is Mikael?
+[00:47] [Mikael]: That's correct.
+[00:51] [Receptionist]: Attorney Gibson...
+[ ... Silence (6s) ... ]
+[00:57] [Receptionist]: Mikael, Mr. Gibson is not available right now, he's not picking up his phone. Do you want his voicemail?
+[01:04] [Mikael]: Uh, yeah, that'll be great.
+[01:07] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

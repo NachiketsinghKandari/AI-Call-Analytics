@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Cynthia / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:07] [Cynthia]: Hi Daniel, good morning. This is Cynthia on a recorded line. I have a quick question for you. I am trying to see if the person that makes decisions on the communications systems for the company is available today? Or if there's somebody in place?
+[00:26] [Receptionist]: No.
+[00:29] [Cynthia]: No?
+[00:31] [Receptionist]: You'll want to send an email.
+[00:33] [Cynthia]: Okay, to uh what email?
+[00:36] [Receptionist]: So it's going to be to Britney, B-R-I-T-T-A-N-Y, at beyandassociates.com.
+[00:48] [Cynthia]: At beyandassociates.com?
+[00:51] [Receptionist]: Mhm.
+[00:52] [Cynthia]: Okay, perfect. Thank you so much, I appreciate your help. I hope you have a happy holiday.
+[00:58] [Receptionist]: You too.
+[00:59] [Cynthia]: Thank you, Daniel.
+
+========================================
+TRANSCRIPT END
+========================================

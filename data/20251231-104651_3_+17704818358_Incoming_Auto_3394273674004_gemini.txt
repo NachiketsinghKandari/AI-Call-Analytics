@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates law firm, this is Karina, what can I do for you?
+[00:04] [Speaker 2]: Hi, yes, I was looking for a Britney Lawson?
+[00:08] [Receptionist]: Britney? And are you a client?
+[00:12] [Speaker 2]: Uh, no, sorry, I work at Adams and Martin Group.
+[00:16] [Receptionist]: Adams and Martin Group. Okay. Let me see if she's available because, you know, they're off due to the season, holiday season?
+[00:25] [Speaker 2]: Oh, right, that makes sense.
+[00:27] [Receptionist]: Yes, so let me just check if she's in, if not, I can transfer you to her voicemail, okay?
+[00:33] [Speaker 2]: Great, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

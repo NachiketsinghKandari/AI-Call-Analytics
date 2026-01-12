@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kamy / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Marina / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kamy speaking.
+[00:05] [Marina]: Just... what was your name again?
+[00:07] [Receptionist]: Kamy.
+[00:09] [Marina]: Oh, hi. This is Marina with Progressive Insurance. I was just trying to reach and verify that you guys had received an offer I had emailed over to someone in the office, um, for client Tiyance Duberry, and I can spell that.
+[00:27] [ ... Silence (14s) ... ]
+[00:41] [Receptionist]: Okay, cool. Um, last name?
+[00:43] [Marina]: It's D-E-W-B-E-R-R-Y.
+[00:52] [ ... Silence (6s) ... ]
+[00:58] [Marina]: And the first name is T-I-Y-A-N-C-E.
+[01:08] [Receptionist]: One second. Who did you send the email to?
+[01:14] [Marina]: Let me see who... whoever sent... whoever I responded to an email. It was, um, T-Y-A-N-A Evans?
+[01:30] [Receptionist]: Yes, ma'am. Let me go ahead and transfer you over to her.
+[01:36] [Marina]: Okay. Is that the attorney or the case manager? Just so I know, I'm not sure.
+[01:42] [Receptionist]: Case manager.
+[01:44] [Marina]: Okay. All right, and I can leave a voicemail if she's not available.
+[01:49] [Receptionist]: I'll send you straight over. You have a great rest of your day.
+[01:53] [Marina]: Thank you. Happy holidays.
+[01:56] [Receptionist]: Same to you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

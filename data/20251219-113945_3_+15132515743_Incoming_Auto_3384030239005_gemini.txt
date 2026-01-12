@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Amy / Role: Caller from Western Hills Chiropractic: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina speaking, how may I assist you?
+[00:07] [Amy]: Um, good morning. My name is Amy, I'm calling from Western Hills Chiropractic. Um, I was calling to see if you could um transfer me over to Kadim Gibson?
+[00:21] [Receptionist]: Okay, can I have the name of the client?
+[00:23] [Amy]: Yes, it's two people. Um, the first one is Curtis Holloway and then the second one, his name is Antoine James.
+[00:31] [Receptionist]: Do you spell the last last name for me?
+[00:34] [Amy]: For the second person? Or the first person?
+[00:38] [Receptionist]: The first person.
+[00:40] [Amy]: Um, give me one second please. Um, where did this paper just go? Crap. Ah. Yes, it's H-O-L-L-O-W-A-Y... I mean, yeah, O-W-A-Y.
+[00:59] [Receptionist]: And first name?
+[01:00] [Amy]: Curtis.
+[01:01] [Receptionist]: Curtis?
+[01:02] [Amy]: Yes.
+[01:03] [Receptionist]: One second. Bear with me, alright?
+[01:06] [ ... Silence (11s) ... ]
+[01:17] [Receptionist]: Thank you for holding, ma'am. The case manager, uh, Kadim, they're not available, so I can transfer you to their voicemail, either or?
+[01:25] [Amy]: Oh, that's- that's perfect. Thank you so much.
+[01:28] [Receptionist]: Okay, uh, would you like the- the case manager's voicemail?
+[01:31] [Amy]: Yes, please.
+[01:33] [Receptionist]: One second.
+
+========================================
+TRANSCRIPT END
+========================================

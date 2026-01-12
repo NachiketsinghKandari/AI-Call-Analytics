@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "unknown_or_undetermined",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The transcript contains only a fragment of the receptionist providing the firm's phone number and business hours; no caller interaction is recorded and the call ended before any operational resolution could be reached.",
+    "call_duration_seconds": 7.34,
+    "call_duration_formatted": "00:07"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during the recorded fragment."
+  }
+}

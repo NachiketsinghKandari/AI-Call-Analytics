@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller from First Acceptance Insurance: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kimmy speaking.
+[00:05] [Unknown]: Hello?
+[00:07] [Receptionist]: Yes, Kimmy speaking.
+[00:09] [Unknown]: Hi, how are you doing? I'm calling from First Acceptance Insurance. I'm calling in regards to one of your clients, Lisa Daniels, trying to get info on treatment status and injuries.
+[00:24] [Receptionist]: Okay, let me pull that up there.
+[00:27] [Unknown]: Thank you.
+[00:28] [Receptionist]: Okay.
+[00:29] [ ... Silence (14s) ... ]
+[00:43] [Receptionist]: Let me get the case manager. One sec.
+[00:51] [Unknown]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to the assigned case manager, but she was unavailable. The caller declined to leave a voicemail and instead stated they would send an email to the existing thread and advise the client that the firm would call back later.",
+    "call_duration_seconds": 112.1,
+    "call_duration_formatted": "01:52"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to locate the case manager, Loni, but returned to the line to inform the caller that she was currently on another call."
+  }
+}

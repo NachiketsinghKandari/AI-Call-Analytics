@@ -1,0 +1,21 @@
+{
+  "caller_type": "spanish_speaker",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the caller that the requested staff member was unavailable after checking internally and advised the caller to try calling back later in the afternoon.",
+    "call_duration_seconds": 395.78,
+    "call_duration_formatted": "06:35"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist checked staff availability internally while the caller was on hold and reported they were unavailable."
+  }
+}

@@ -1,0 +1,42 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Aaron / Role: Caller from Telecare Pharmacy: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Aaron]: Hi, this is Aaron, uh, speaking on behalf of Telecare Pharmacy. I'm calling in regards to a patient that pertains to your firm. Uh, I have called to provide the updated bills, uh, so let me know when you're ready so that I can give you the points, please.
+[00:21] [Receptionist]: All right, can you provide me the name of the client?
+[00:24] [Aaron]: Okay, the person's name is, it's— let me spell it out for you. It's K-Y-A-S-I-A, and the last name is Spann, S-P-A-N-N, N as in Nancy.
+[00:38] [Receptionist]: Understood. And you say you're calling from where? Sorry.
+[00:42] [Aaron]: Uh, yeah, Telecare Pharmacy. It's T-E-L-E-C-A-R-E Pharmacy.
+[00:49] [Receptionist]: Understood. All right. Give me one moment to pull up this file. Do you allow me to place you on a brief hold for one minute? Let me see if she's available at the moment.
+[01:01] [Aaron]: Uh, I would— before you transfer me, uh, I would be needing the case manager's name and their email address, so in case if the call disconnects.
+[01:13] [Receptionist]: Uh, yes, yes, I can give you that. Uh, let me know when you're ready for the name.
+[01:19] [Aaron]: Uh, hold on. Uh, yeah, I'm ready.
+[01:25] [Receptionist]: I won't transfer you right away. I'm going to see if she's available first, but let me provide you with the info. Her name is Paige, that would be spelled P as in Peter, A, Y, G as in George, E, Paige.
+[01:44] [Aaron]: It's P-E-L— sorry, P-A-Y-G-E. Is that right?
+[01:50] [Receptionist]: Correct. And her last name is spelled A as in Alpha, L as in Lima, M as in Mary, O, N as in Nancy, Almond.
+[02:01] [Aaron]: Okay, and the email address?
+[02:04] [Receptionist]: Would be— well, the email is her name, Paige, P-A-Y-G-E, at Bey and Associates, B as in Bravo, E, Y, A as in Alpha, N as in Nancy, D, Bey and Associates with an S, dot com.
+[02:31] [Aaron]: Okay, let me spell it out for you, just for the confirmation. It's Paige, P-A-Y-G-E, at B-E-Y-A-N-D-A-S-S-O-C-I-A-T-E-S dot com.
+[02:49] [Receptionist]: Correct, that would be the one.
+[02:52] [Aaron]: Okay, thank you so much for providing me the name and the email address. Uh, I think that would be all. Uh, so I'm just gonna, you know, route the updated bill on this email address and I can get connected to the case manager on the email, no worries.
+[03:11] [Receptionist]: All right. So you don't need to leave a voicemail? You don't want to leave a voicemail? Or see if she's available at the moment?
+[03:17] [Aaron]: Okay, okay, you can transfer me if she's available.
+[03:21] [Receptionist]: All right, let me see if she's available first. Uh, I'll be right back with you in one minute, sir.
+[03:26] [Aaron]: No worries.
+[03:29] [Receptionist]: Uh, yeah, she's not available at the moment. Would you like to leave a voicemail?
+[03:34] [Aaron]: Um, yeah, sure.
+[03:36] [Receptionist]: Understood. Perfect. All right, so I'll transfer you over right now and I'll send her an email so that she can get back to you as soon as possible.
+[03:43] [Aaron]: That would be great. Thank you so much for assisting me. Have a great day.
+[03:48] [Receptionist]: Thank you, you too.
+[03:50] [Aaron]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

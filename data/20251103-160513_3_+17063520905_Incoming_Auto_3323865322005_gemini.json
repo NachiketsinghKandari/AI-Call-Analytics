@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with Taylor Middleton regarding their case status following a mediation. The receptionist asked the caller to wait a moment and initiated a transfer.",
+    "call_duration_seconds": 34.2,
+    "call_duration_formatted": "00:34"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist asked the caller to wait for a moment to facilitate the request to speak with a specific staff member, and the call ended immediately afterward."
+  }
+}

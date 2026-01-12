@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Javan Smith / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, tell me how may I help you?
+[00:08] [Javan Smith]: Hey, how you doing?
+[00:10] [Receptionist]: So good, thank you so much for asking. What about you, sir?
+[00:13] [Javan Smith]: I'm just fine, man. I was trying to get a update on everything.
+[00:19] [Receptionist]: Sure, let's see what happened.
+[00:23] [ ... Silence (10s) ... ]
+[00:33] [Receptionist]: Hey, how do you just confirm, how do you spell your first name?
+[00:38] [Javan Smith]: I'm sorry, I didn't hear you.
+[00:41] [Receptionist]: Oh, sorry. I said how do you spell your first name?
+[00:44] [Javan Smith]: J-A-V-A-N.
+[00:51] [Receptionist]: Smith, I found it. Can I have the date of loss?
+[00:56] [Javan Smith]: Uh, 7/17/83.
+[01:05] [Receptionist]: And would you like to get an update?
+[01:08] [Javan Smith]: Yes.
+[01:11] [Receptionist]: Let's see if the case manager is available. Hold on.
+[01:17] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

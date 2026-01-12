@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: [Receptionist] at The Law Firm: 6 turns
+  • Speaker 2 / Dr. Betty / Role: Caller from Serenity Chiropractic and Rehab: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling the Law Firm, my name is Fatima, how may I assist you today?
+[00:07] [Dr. Betty]: Hi, my name is Dr. Betty and I'm calling from Serenity Chiropractic and Rehab. I wanted to know, um, when will the checks be dispersed for the client Cambria Harness? So we wanted to pick up our check.
+[00:22] [Receptionist]: May I please have the client's first and last name, also who the case manager is, and if they can help us with that?
+[00:27] [Dr. Betty]: Um, Cambria, let's see, Cambria...
+[00:32] [ ... Silence (29s) ... ]
+[01:02] [Receptionist]: Is that her last name, Harness?
+[01:05] [Dr. Betty]: Yes, that's it. Yep. Harness.
+[01:09] [Receptionist]: And date of loss was on July 4th of the year 2022?
+[01:13] [Dr. Betty]: Uh-huh.
+[01:15] [Receptionist]: All right, bear with me one moment, I'll see if I can help you with that.
+[01:19] [ ... Silence (11s) ... ]
+[01:31] [Receptionist]: One moment.
+
+========================================
+TRANSCRIPT END
+========================================

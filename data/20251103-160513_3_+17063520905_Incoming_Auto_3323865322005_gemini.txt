@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Berry and Associates: 3 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Berry and Associates, this is Dinel.
+[00:07] [Speaker 2]: Hey, how are you?
+[00:11] [Receptionist]: Fine, what about you?
+[00:12] [Speaker 2]: I'm not alright. I've been trying to reach Taylor Middleton for two weeks and I haven't got a call back or anything about my case. I just had my mediation and I just want to know something, what's going on? Nobody's answering me, nobody's returning my calls.
+[00:28] [Receptionist]: Okay, give me one moment please.
+
+========================================
+TRANSCRIPT END
+========================================

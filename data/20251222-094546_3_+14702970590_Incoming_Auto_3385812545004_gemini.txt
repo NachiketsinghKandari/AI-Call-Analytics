@@ -1,0 +1,17 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:03] [ ... Silence (5s) ... ]
+[00:08] [Receptionist]: Hello?
+[00:09] [ ... Silence (8s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

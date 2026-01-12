@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Alley and Associates Law Firm: 9 turns
+  • Speaker 2 / [Destiny] / Role: Representative from Emory Hospital: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Alley and Associates Law Firm, my name is Fatima, how may I assist you today?
+[00:08] [Destiny]: Hi, my name is Destiny, I'm calling on behalf of Emory Hospital. I was calling to confirm representation of a patient.
+[00:16] [Receptionist]: Oh, okay, may I please have the client's first and last name, please?
+[00:20] [Destiny]: First name is Tedria, it's T-E-D-R-I-A, last name is Glover.
+[00:27] [Receptionist]: Thank you. Bear with me while I search in our system.
+[00:34] [Receptionist]: Um, I am going to confirm the name. T as in Tom, E as in Echo, R as in Rose, I as in India, A as in Apple?
+[00:51] [Destiny]: Um, it's T, E, D, R, I, A.
+[00:57] [Receptionist]: D, I, A. Okay, yeah. So I got it, and the last name Glover, G-L-O-V-E-R.
+[01:05] [Destiny]: Yes.
+[01:07] [Receptionist]: Nothing is coming up on my system as of yet, let me look into archives. Oh yeah, here we go. Date of loss was on September the 26th?
+[01:23] [Destiny]: Yes.
+[01:24] [Receptionist]: So the file is archived. Let me confirm if I'm able to see why, please.
+[01:30] [ ... Silence (6s) ... ]
+[01:34] [Receptionist]: Okay, so it seems that we withdrew from this case.
+[01:38] [Destiny]: Gotcha. Okay. Thank you so much.
+[01:41] [Receptionist]: You're welcome, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

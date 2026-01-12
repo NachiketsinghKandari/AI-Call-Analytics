@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Cam / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (8s) ... ]
+[00:08] [Receptionist]: Bey and Associates, how can I help?
+[00:11] [Cam]: Hey, is Kadim available?
+[00:14] [Receptionist]: Let me see. He... Can I have your name and reason for calling?
+[00:21] [Cam]: Yeah, it's Cam, C-A-M, calling with Hona, and just needed to reschedule a meeting with him.
+[00:31] [Receptionist]: Calling with Hona?
+[00:34] [Cam]: Hona, yeah, H-O-N-A.
+[00:39] [Receptionist]: Okay, one second, let me see.
+[00:42] [Cam]: No worries.
+
+========================================
+TRANSCRIPT END
+========================================

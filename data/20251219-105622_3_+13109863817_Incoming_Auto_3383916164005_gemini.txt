@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Kim speaking?
+[00:05] [Unknown]: Hey, good morning. I was hoping to speak with John.
+[00:11] [Receptionist]: Mr. Bey?
+[00:13] [Unknown]: Yes, Mr. John Bey.
+[00:16] [Receptionist]: All right. Um, he is not available right now, but I can transfer you over to his executive assistant.
+[00:23] [Unknown]: That's okay. I'll just try sending him an email. I appreciate it.
+[00:27] [Receptionist]: You're welcome. You have a great rest of your day then.
+[00:30] [Unknown]: You too. Thanks. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

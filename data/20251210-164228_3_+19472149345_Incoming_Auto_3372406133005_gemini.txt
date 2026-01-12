@@ -1,0 +1,15 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 1 turn
+
+----------------------------------------
+
+[00:02] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:07] [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

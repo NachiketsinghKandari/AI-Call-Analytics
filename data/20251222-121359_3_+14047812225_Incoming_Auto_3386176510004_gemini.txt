@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Krisha / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Fatima, how may I assist you?
+[00:07] [Krisha]: Hi, this is Krisha calling with ASC College Park and we're referring to a mutual client, Eric Patton.
+[00:14] [Receptionist]: What is the client's name? Eric Patton?
+[00:17] [Krisha]: P-A-T-T-O-N, uh-huh.
+[00:20] [Receptionist]: Thank you, bear with me while I search for this client. The date of loss was on November the 22nd?
+[00:29] [Krisha]: Yes.
+[00:30] [Receptionist]: And how may I assist you from his file?
+[00:33] [Krisha]: Um, we received a call from Mr. Patton this morning saying that he was told by the attorney that, um, liability is not being assumed, so he's not sure if he should still be treating.
+[00:50] [Receptionist]: Okay, and for that ma— let's see if the case manager is available for you so that she can, she can, uh, give you more information regarding that matter because I don't see anything on our file. One moment.
+[01:01] [Krisha]: Who's the, um, who's the case manager?
+[01:04] [Receptionist]: That is going to be Miss Linda Huff.
+[01:08] [Krisha]: Okay.
+[01:09] [Receptionist]: Did you need her info?
+[01:11] [Krisha]: I just have her name, but that's it.
+[01:14] [Receptionist]: Okay, so her email is her name, Linda at Bey and Associates dot com, and spelled out A-N-D.
+[01:26] [Krisha]: Okay, gotcha.
+[01:28] [Receptionist]: Okay, one moment please, let's see if she's available.
+
+========================================
+TRANSCRIPT END
+========================================

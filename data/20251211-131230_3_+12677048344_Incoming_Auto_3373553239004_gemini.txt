@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatimah / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Unknown / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fatimah, how may I assist you?
+[00:08] [Unknown]: Hello, um, I was hoping to speak with Beth. Is she available?
+[00:13] [Receptionist]: I'm so sorry, with whom? Beth?
+[00:16] [Unknown]: Beth Miller.
+[00:21] [Receptionist]: Beth Miller. I don't have a Beth Miller here.
+[ ... Silence (7s) ... ]
+[00:31] [Unknown]: Okay, um, okay. She's not a case manager and works and helps attorney Jason Green?
+[00:42] [Receptionist]: Bear with me one moment.
+[00:44] [Unknown]: Sure.
+[ ... Silence (6s) ... ]
+[00:50] [Receptionist]: Hi, thank you so much for the waiting time. Is by any chance India Miller the person that you're looking for?
+[00:58] [Unknown]: Hmm. I have it as Beth Miller and her email is B Miller at Bey and Associates. Hmm.
+[01:05] [Receptionist]: Beth Miller. Oh, yeah, I can see her email absolutely, but that person might no longer be with us because it's not coming up on my phone directory. So I don't think she's any longer with us.
+[01:25] [Unknown]: Gotcha. Um, okay. I, I, in the past have helped her with, um, her and attorney Jason Green with funding when some of their clients needed some pre-settlement funding and I have since switched companies and we offer much better rates and I was just trying to touch base with her because I had not heard back from the emails and that makes sense.
+[01:49] [Receptionist]: That would make sense. Yeah, I don't think she's longer with us since she's not on our directory. But I can— she was a case manager or a paralegal?
+[01:59] [Unknown]: Case manager, yeah.
+[02:01] [Receptionist]: Case manager. I can— well, I can give you our office manager email address so that you can email her that info and she can direct it to who would be the best option. All right. So her name is Brittany. I'll spell that for you. B as in Bravo, R as in Rose, I as in India, T as in Tom, T as in Tom, A as in Alpha, N as in Nancy, Y as in Yellow. And her last name is Lawson. L-A-W-S-O-N. And her email is only her name, Brittany, at Bey and Associates dot com.
+[02:39] [Unknown]: Perfect. And you said she's the office manager?
+[02:42] [Receptionist]: She is the office manager.
+[02:44] [Unknown]: Okay. All right. Fantastic. I appreciate your— I appreciate your help today.
+[02:49] [Receptionist]: Yes, you're so welcome. Have an amazing rest of the day. Bye-bye.
+[02:52] [Unknown]: All right. You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

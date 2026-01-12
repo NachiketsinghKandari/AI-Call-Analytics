@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Megan Wolf / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:06] [Megan Wolf]: Hi, I was looking to speak with Taylor Middleton.
+[00:09] [Receptionist]: Yes, can I have your name and reason for calling?
+[00:12] [Megan Wolf]: Yes, my name is Megan Wolf with Even Up Law, um, Taylor and I have a meeting scheduled for tomorrow morning and I just wanted to call and confirm that it was still a good time.
+[00:22] [Receptionist]: Okay. You said Taylor, I mean, Wolf?
+[00:29] [Megan Wolf]: No, Taylor— the person I'm reaching out to is Taylor Middleton, my name is Megan Wolf.
+[00:37] [Receptionist]: Megan Wolf. I'm sorry. Megan. All right, and then, okay, got it. Let me go ahead and see if she's available. One second.
+[00:46] [Megan Wolf]: Okay.
+[00:48] [Receptionist]: Ms. Wolf, um, she didn't answer. Would you like to be transferred to her voicemail?
+[00:54] [Megan Wolf]: Yes, please.
+[00:56] [Receptionist]: All right, you have a great rest of your day.
+[00:58] [Megan Wolf]: You too.
+[00:59] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

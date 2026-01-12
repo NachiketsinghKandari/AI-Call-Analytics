@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Shadel / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, Matt speaking, how may I help you?
+[00:05] [Shadel]: Hi, this is Shadel calling from First Acceptance Insurance. I was hoping to speak with, uh, Stephanie Peck. This is in regards to, uh, a motor vehicle accident from May 19th, 2025, for, uh, Michelle Shelton.
+[00:21] [Receptionist]: One moment. Is that Michaela Shelton, maybe?
+[00:26] [Shadel]: Or Michaela, I apologize.
+[00:27] [Receptionist]: That's okay. I just want to make sure I had the right... um...
+[00:31] [ ... Silence (11s) ... ]
+[00:42] [Receptionist]: Uh, it looks like, um, Attorney Steel is handling that and they're... the... I mean, I can... I can transfer you to Stephanie in a minute, um, but just to let you know, it looks like we're going to be filing because we're... we're sticking with the... the punitive aspect.
+[00:59] [Shadel]: Okay. Okay, I appreciate that. Um, you don't have to transfer me if that's the case then, sir. Can you, um, ask just out of courtesy if they could send us a courtesy copy of the suit when it's filed, sir?
+[01:12] [Receptionist]: Uh, yeah. Yeah, it looks like, uh, that's what Jonathan's notes said, that he would send you guys a courtesy copy of the complaint. I think they're just finalizing it, it looks like.
+[01:22] [Shadel]: Okay. Thank you so much, sir. I greatly appreciate your time.
+[01:26] [Receptionist]: No worries.
+[01:27] [Shadel]: All right, take care.
+[01:28] [Receptionist]: Mhm.
+[01:29] [Shadel]: Bye.
+[01:30] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

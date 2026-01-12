@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Michael Fragola / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:07] [Michael Fragola]: Hi, uh, this is Michael Fragola with The Rollins Company. I'm calling on behalf of Oscar Health and I'm calling on your client Bridget Williams.
+[00:18] [Receptionist]: What is the name, I'm sorry?
+[00:20] [Michael Fragola]: Bridget Williams.
+[00:23] [ ... Silence (10s) ... ]
+[00:33] [Receptionist]: Yes.
+[00:34] [Michael Fragola]: I'm trying to find out the status of the case.
+[00:37] [ ... Silence (21s) ... ]
+[00:58] [Receptionist]: One moment.
+[01:00] [ ... Silence (42s) ... ]
+[01:42] [Receptionist]: So, we withdrawn from this case. We are not representing her anymore.
+[01:48] [Michael Fragola]: Oh. Do you know why you withdrew? Was there no insurance?
+[01:52] [Receptionist]: Let me see if I have a note.
+[01:55] [ ... Silence (14s) ... ]
+[02:09] [Receptionist]: So, after they signed with us, they were unresponsive, meaning that they were not taking any of our calls. We then called the chiro, the facility, to see if they were treating and they were not. So because of they being unresponsive plus, you know, the lack of communication and no treatment, we decided to withdraw.
+[02:36] [Michael Fragola]: Okay, thank you.
+[02:38] [Receptionist]: Okay.
+[02:39] [Michael Fragola]: Okay, thank you too.
+[02:41] [Receptionist]: Mm-hmm. Bye.
+[02:43] [Michael Fragola]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

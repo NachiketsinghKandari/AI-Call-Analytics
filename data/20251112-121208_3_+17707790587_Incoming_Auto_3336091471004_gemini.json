@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "legal_operations_discussion",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller, an insurance adjuster, requested confirmation of document receipt and coverage details for a client. The receptionist placed the caller on hold to retrieve the information, but the call ended before the receptionist returned or provided the information.",
+    "call_duration_seconds": 55.01,
+    "call_duration_formatted": "00:55"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the call ended while the caller was on hold for the receptionist to retrieve information."
+  }
+}

@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Jack Brown / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:06] [Jack Brown]: Daniel, how you doing this morning?
+[00:09] [Receptionist]: I'm good, what about you?
+[00:11] [Jack Brown]: I'm alright yourself. Um, I'm a client, Jack Brown, and uh, Mr. Love is out for the week, he he left a message, but I'm trying to reach my lawyer, uh, Sarah.
+[00:24] [Receptionist]: May I have your phone number please?
+[00:28] [Jack Brown]: My phone number?
+[00:30] [Receptionist]: Yes.
+[00:31] [Jack Brown]: 404-543-1528. Jack Brown.
+[ ... Silence (7s) ... ]
+[00:42] [Receptionist]: Okay, one moment. Thank you so much for holding. Um, your paralegal is not available right now. I will be sending an email so he can get back to you, okay?
+[00:53] [Jack Brown]: Who— hold on, say that again?
+[00:57] [Receptionist]: Yes, um, so the paralegal, Kevin, is not available. I will be sending an email so he can give you a call back.
+[01:07] [Jack Brown]: Now I left him a message. I wanted to talk to my my lawyer. He is just my paralegal. My lawyer's not in today?
+[01:14] [Receptionist]: No, unfortunately no.
+[ ... Silence (5s) ... ]
+[01:20] [Receptionist]: But I can send an email so they can give you a call back, okay?
+[01:23] [Jack Brown]: Yeah, I want somebody to give me a call today, sometime.
+[01:27] [Receptionist]: Okay, I'm sending the email right now, okay?
+[01:30] [Jack Brown]: Thank you.
+[01:31] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

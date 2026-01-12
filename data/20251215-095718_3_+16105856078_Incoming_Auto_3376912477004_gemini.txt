@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how may I help you?
+[00:04] [Speaker 2]: Hi, uh, good morning. I'm trying to get a hold of possibly John Bey, I'm not sure if he's around. If he's not, perhaps Kevin Love is available.
+[00:13] [Receptionist]: What case are you calling about, sir?
+[00:15] [Speaker 2]: Uh, Mercedes Gordon.
+[00:18] [Receptionist]: One moment, let me see who's available. May I place you on hold?
+[00:21] [Speaker 2]: Sure.
+[00:23] [ ... Silence (68s) ... ]
+[01:31] [Receptionist]: Sorry about the hold, John is available. I'm going to transfer you over to him now.
+[01:35] [Speaker 2]: Thank you.
+[01:37] [Receptionist]: Yes sir, have a great day.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Jesse / Role: Receptionist at Bey and Associates: 16 turns
+  • [V] / V / Role: Caller from Progressive Insurance: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [V]: Hey Jesse, this is V with Progressive Insurance, how are you today?
+[00:10] [Receptionist]: Uh, good, thank you for asking ma'am, how can I assist you?
+[00:13] [V]: Hey, I'm actually calling, um, in regards to Betty Cynegus, C for Charlie, I-N for November, E-G-S, with a date of loss of, uh, December 10th.
+[00:28] [Receptionist]: All right, give me one moment.
+[ ... Silence (5s) ... ]
+[00:35] [Receptionist]: Yes, I do have a Betty Cynius, but I have a different spelling on the last name. I got C-I-N-E-U-S, is that what you have?
+[00:45] [V]: No, let's see, let me pull up the police report one second.
+[00:51] [Receptionist]: Yeah, you mentioned there was a G in there, I think.
+[00:53] [V]: That's what I show here. Let's see... That is correct, C-I-N-E-U-S. Let me update it, so yeah, that is correct, Cynius.
+[01:04] [Receptionist]: Got it, understood. All right. Uh, yes ma'am, I can help you with this. There is a case manager assigned to this file. Do you allow me to place you on a brief hold for one minute?
+[01:14] [V]: Go ahead.
+[01:15] [Receptionist]: Thank you, ma'am.
+[ ... Silence (5s) ... ]
+[01:21] [Receptionist]: All right, thank you so much for holding, ma'am.
+[01:23] [V]: Yes, sir.
+[01:24] [Receptionist]: Uh, let me tell you, so, uh, the case manager is not available at the moment. Her name is Tiana. Uh, but this is what I can do on my end. If you like, I can provide you with her email. Uh, I can also transfer you over to her voicemail so you can leave one. Uh, and I'm also going to send her an email so that she can get back to you as soon as possible. And it looks like that she's off for the day today.
+[01:43] [V]: Okay. Um, Jesse, by any chance, are you able to confirm preliminary injuries for Ms. Betty?
+[01:50] [Receptionist]: Let me see if I have access to that information, give me one more moment.
+[01:54] [V]: Mhm.
+[ ... Silence (7s) ... ]
+[02:02] [Receptionist]: Um, okay. Let me tell you, there are injuries I've seen here, however, I don't have access to that information, ma'am. She would be the best person to answer that, I really don't know, I really couldn't give you any specifics.
+[02:16] [V]: Okay. All right, well I do appreciate it.
+[02:21] [Receptionist]: Understood. And do you, so let me provide you with her email. Do you want her email or just the voicemail is fine?
+[02:25] [V]: Yes.
+[02:26] [Receptionist]: Perfect. Uh, so the email, let me know when you're ready because I gotta spell it for you.
+[02:32] [V]: Okay, go ahead.
+[02:34] [Receptionist]: It's T as in Tango, Y as in Yellow, A as in Apple, U as in Uniform, N as in Nancy, A as in Alpha. And that would be at Bey and Associates, B as in Bravo, E-Y, and, A-N-D, associates with an S, dot com.
+[02:58] [V]: All right, thank you so much.
+[03:01] [Receptionist]: Perfect. So I'll transfer you over to her voicemail now. Do you have a direct line where they can reach you at, ma'am?
+[03:06] [V]: 678-783-5498.
+[03:14] [Receptionist]: 5498. Excellent, perfect. Uh, I'll, I'll send that email right away. Thank you so much for your help, ma'am.
+[03:20] [V]: All right, you as well.
+
+========================================
+TRANSCRIPT END
+========================================

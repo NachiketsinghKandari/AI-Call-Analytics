@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bolenbe and Associates Law Firm: 5 turns
+  • Speaker 2 / [Alicia Imioma] / Role: Client: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bolenbe and Associates Law Firm, my name is Fatima, how may I assist you today?
+
+[00:08] [Alicia Imioma]: Yes, my name is Alicia Imioma. I have, uh, received a settlement check from Bolenbe and Associates and I'm also at the bank trying to cash it, put it into my account, but they won't accept it because they're saying that the check is not legible and that I need to get another check through Bolenbe and Associates. I don't understand what's going on.
+
+[00:32] [Receptionist]: Ms. Alicia, may I please have the phone number that you have on file so I can pull up your file and see who is your case manager?
+
+[00:41] [Alicia Imioma]: Okay, 706-585-3143.
+
+[00:47] [Receptionist]: 3143. Thank you. Please bear with me one moment while I search.
+
+[00:53] [Alicia Imioma]: All right.
+
+[00:59] [Receptionist]: Your information is loading. Please allow me just one moment. I'll see if I'm able to locate anyone. Okay, one moment please.
+
+[01:09] [Alicia Imioma]: Okay, thank you.
+
+[01:11] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

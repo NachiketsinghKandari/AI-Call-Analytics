@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Miranda / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:06] [Miranda]: Did you say Karina?
+[00:08] [Receptionist]: Karina. K-A-R-I-N-A.
+[00:12] [Miranda]: This is Miranda with Progressive Insurance, calling on behalf of an adjuster who's out the office. And it looks like back in May, we settled a claim with you guys for Javonte Wright is the client. And we never received that signed release back, so I was just following up in regard to that.
+[00:30] [Receptionist]: Okay, can I have the spelling of his, uh, first name, please?
+[00:34] [Miranda]: It's J-A-V-as in Victor-O-N-as in Nancy-T-as in Tom-E-as in Edward. And then Wright, W-R-I-G-H-T.
+[00:48] [Receptionist]: One moment.
+[00:50] [ ... Silence (12s) ... ]
+[01:02] [Receptionist]: Let me place you on a brief hold, okay?
+[01:05] [Miranda]: Thank you.
+[01:06] [ ... Silence (6s) ... ]
+[01:12] [Receptionist]: Thank you so much for holding. Victoria, which is the case manager, is not available at the moment. Would you like her voicemail?
+[01:17] [Miranda]: Yes, I'll take it.
+[01:20] [Receptionist]: Thank you. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

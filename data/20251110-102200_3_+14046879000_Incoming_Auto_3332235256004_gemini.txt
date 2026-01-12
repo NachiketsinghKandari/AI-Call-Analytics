@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Devin / [Receptionist] / Role: Receptionist at Bay and Associates: 17 turns
+  • Shakita / [Shakita] / Role: Employee at Hurt 911 Injury: 13 turns
+
+----------------------------------------
+
+[00:00] [Devin]: Bay and Associates law firm, Devin speaking.
+[00:03] [Shakita]: Hi, this is Shakita from Hurt 911 Injury. I just need the email address for the case manager for Wanda Brooks.
+[00:12] [Devin]: Sure, what is the name of the client?
+[00:15] [Shakita]: Wanda Brooks.
+[00:17] [Devin]: Sorry, I didn't quite hear that, so Wanda Brooks. Let me just pull up her file.
+[00:24] [Devin]: Okay, for Wanda, we have Paige Almond.
+[00:28] [Shakita]: Paige Almond?
+[00:31] [Devin]: Mhm.
+[00:32] [Shakita]: P-A-Y-G-E?
+[00:33] [Devin]: P-A-Y-G-E. Thanks.
+[00:36] [Shakita]: You're welcome.
+[00:37] [Devin]: Can I give you her super-?
+[00:40] [Shakita]: No, I just need her email address.
+[00:41] [Devin]: Oh, okay.
+[00:43] [Devin]: So that would be Paige, P-A-Y-G-E, at bayandassociates.com.
+[00:55] [Shakita]: Okay. Thank you.
+[00:56] [Devin]: You're welcome.
+[00:57] [Shakita]: And that is B-E-Y...
+[00:59] [Devin]: B-E-Y for Bay?
+[01:01] [Shakita]: Yes ma'am.
+[01:02] [Devin]: The "and" is spelled out. Associates is plural dot com.
+[01:07] [Devin]: Um, while I have you on the line, do you mind checking to see if our client is scheduled for treatment with you guys?
+[01:16] [Shakita]: What's the client's name and date of birth?
+[01:19] [Devin]: So his first- first name is Pharrell, F-A-R-R-E-L-L, last name would be Boyrington, B-O-I- sorry, B-O-Y-R-I-N-G-T-O-N.
+[01:35] [Shakita]: And the date of birth?
+[01:37] [Devin]: DOB is August 25th of 86.
+[01:44] [Shakita]: Do you know which location he was scheduled to go to?
+[01:49] [Devin]: No ma'am. That's what I'm trying to...
+[01:52] [Shakita]: Yeah, I don't have him in my system.
+[01:55] [Devin]: Yeah, okay. He did say that no treatment was- I just wanted to confirm.
+[02:01] [Shakita]: Okay. Thank you so much, Devin. Appreciate it.
+[02:05] [Devin]: You're welcome. No problem. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

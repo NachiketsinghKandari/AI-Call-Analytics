@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Natasha / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:08] [Receptionist]: Hello? Can you hear me? Hey, Natasha, this is Daniel.
+[00:12] [Natasha]: Is this Bey and Associates?
+[00:15] [Receptionist]: Yes.
+[00:17] [Natasha]: You sound so low, I'm sorry, I cannot hear you. I'm calling because you you all handled my my case for my daughter and I'm just calling to get some information.
+[00:27] [Receptionist]: May I have the phone number on file, please?
+[00:31] [Natasha]: It's 678-548-9412.
+
+[ ... Silence (9s) ... ]
+
+[00:51] [Receptionist]: Okay, give me one moment, okay?
+[00:52] [Natasha]: Mhm.
+
+[ ... Silence (8s) ... ]
+
+[01:01] [Receptionist]: Um, thank you so much for holding. The paralegal Stephanie is on another call. I will send her an email so that she can give you a call back today, okay?
+[01:10] [Natasha]: Okay, I appreciate it.
+[01:11] [Receptionist]: Okay, thank you.
+[01:12] [Natasha]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

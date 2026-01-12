@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Gabe Downey / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:07] [Gabe Downey]: Hey, good afternoon Jesse. This is Gabe Downey. I was calling to speak with Vanessa Cole if she's available.
+[00:14] [Receptionist]: Vanessa Cole. Understood. Are you a client, sir?
+[00:18] [Gabe Downey]: Um, no. We had spoke with Vanessa earlier in the year. I'm with an insurance company. She has an insurance renewal coming up that I'm trying to get in touch with her about.
+[00:29] [Receptionist]: Understood. Understood. All right. And what— what is her last name? Vanessa— what is the last name?
+[00:33] [Gabe Downey]: Uh, Vanessa Cole.
+[00:37] [Receptionist]: Cole. Perfect. All right. Give me one moment.
+[00:43] [ ... Silence (6s) ... ]
+[00:48] [Receptionist]: And would you allow me to place you on a brief hold for one minute? Let me try to find Ms. Vanessa, all right?
+[00:55] [Gabe Downey]: Thank you so much. I appreciate it.
+[00:58] [Receptionist]: Thank you.
+[01:01] [Receptionist]: Thank you so much for holding, sir.
+[01:03] [Gabe Downey]: Hi.
+[01:04] [Receptionist]: Yes, let me tell you. So Ms. Vanessa is not available at the moment. What I can do on my end is I can transfer you over to her voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible.
+[01:15] [Gabe Downey]: Okay. Hey, thank you so much. I really appreciate it.
+[01:19] [Receptionist]: Thank you, sir. I'll transfer you over right now.
+[01:22] [Gabe Downey]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

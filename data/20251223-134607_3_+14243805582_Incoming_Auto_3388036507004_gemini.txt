@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Daniela Espinoza / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:03] [Daniela Espinoza]: Hi Angelo, my name is Daniela Espinoza. I'm calling from Rockpoint Legal Funding and I'm wondering if I could please speak to the case manager or attorney for Shantel Holley?
+[00:18] [Receptionist]: Shantel. Let's see. How do you spell Shantel?
+[00:23] [Daniela Espinoza]: That would be S-H-A-W-N-T-E-L-L.
+[00:32] [ ... Silence (26s) ... ]
+[00:59] [Receptionist]: Okay. So the name is Jaela Kennedy. So the case manager, let's see if she's available, okay? Hold on.
+[01:10] [Daniela Espinoza]: Thank you so much.
+[01:15] [Receptionist]: Thank you for staying on the line. I was trying to get in contact with the case manager or with the attorney, but it looks like they are not available. Would you like to leave them a voicemail?
+[01:28] [Daniela Espinoza]: Yes. Before you transfer me over, um, can you please repeat the name for the case manager?
+[01:36] [Receptionist]: Sure. I'm going to spell it. It is J-A-E-L-A. And then Kennedy.
+[01:47] [Daniela Espinoza]: Got it. Thank you so much.
+[01:51] [Receptionist]: No worry. Let me pass you over to the voicemail.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Lourdes / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates Home Health.
+[00:07] [Lourdes]: Hello Angelo, my name is Lourdes and I'm calling from Tristar Injury Centers. I was just calling to um double check that you guys are still representing a patient that's treating with us.
+[00:19] [Receptionist]: Sure, let me go ahead and double check that for you, Lourdes. Can I please have the name for the client?
+[00:28] [Lourdes]: Yes, first name is Vanessa, that's V-A-N-E-S-S-A, and last name is Barrera, that's B as in Bravo, A-R-R-E-R-A.
+[00:42] [Receptionist]: Yes, actually we represent her and the case is in litigation. But one minute because I'm reading here something. Please hold. Plaintiff's understanding representation is unable to reach the client, does not answer... okay, but actually here in the system says termination. It looks like that the client has like a new representation or like a new attorney, alright?
+[01:14] [Lourdes]: Oh, so Vanessa... oh, okay. Is um Stephanie um still... she didn't send the withdrawal letter so I was see if I can speak with... she's the case manager?
+[01:25] [Receptionist]: She's the case manager. Yeah. Let me see if she's available then.
+[01:29] [Lourdes]: Alright, thank you so much, appreciate it.
+[01:31] [Receptionist]: No issue, hold on.
+[01:33] [ ... Silence (10s) ... ]
+[01:43] [Receptionist]: You are saying that you are calling from...
+[01:45] [Lourdes]: Tristar Injury Center.
+[01:47] [Receptionist]: Tristar. Okay, great. Thank you for staying on the line. It looks like that Stephanie isn't available at this moment. Would you like to leave her a voice message or would you like to uh get in contact with her via email?
+[01:52] [Lourdes]: Oh, I do have her um email address, I can go ahead and send her an email. I just to double verify, so it looks like the case was withdrawn?
+[02:01] [Receptionist]: Yes, mhm.
+[02:03] [Lourdes]: Yes, okay. Ah, alright. I will reach out to her... well, you can transfer me to her voice and I will send her an email as well.
+[02:11] [Receptionist]: Okay, no an issue at all. Let me pass you over. Have an an excellent rest of your day, ma'am.
+[02:16] [Lourdes]: Appreciate it, thank you.
+[02:18] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

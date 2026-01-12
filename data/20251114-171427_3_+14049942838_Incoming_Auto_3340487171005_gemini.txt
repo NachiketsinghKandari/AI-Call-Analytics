@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Benner and Associates: 9 turns
+  • Speaker 2 / Mauricio / Role: Caller from Health and Singh: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Benner and Associates. This is Daniel.
+[00:07] [Mauricio]: Hey, good afternoon. This is Mauricio from Health and Singh. I am just trying to get an update on the case status for a mutual client. Is that something you can help me with?
+[00:21] [Receptionist]: No worries. Name?
+[00:24] [Mauricio]: Tyler Robertson.
+[00:29] [ ... Silence (13s) ... ]
+[00:43] [Receptionist]: Um, based on what I see on the file, we are withdrawing from this case.
+[00:47] [Mauricio]: Oh, okay, okay. I see, I see.
+[00:52] [Receptionist]: Yes. Withdrawal letters will be sent once we um finalize this process.
+[00:57] [Mauricio]: Sounds good, sounds good. Uh, what was the reason for withdrawal?
+[01:02] [ ... Silence (26s) ... ]
+[01:29] [Receptionist]: I am not quite sure about the reason of the withdrawal, so you will have to call back on Monday and talk to the adjuster or the case manager.
+[01:41] [Mauricio]: Sounds good, sounds good. Um, well, we should- we should get the um disengagement letters once they're ready too.
+[01:47] [Receptionist]: Give me one moment. Sorry for the hold. Um, what was your last question, sorry?
+[01:52] [Mauricio]: Actually, I forgot about it.
+[01:54] [Receptionist]: Hello?
+[01:56] [Mauricio]: Hello? Uh, allow me a second, I'll try to remember what... um... [ ... Silence (8s) ... ] Oh, yeah, yeah. I remember now. Are you guys going to send those withdrawal letters once they're ready or do I need to call to request them?
+[02:15] [Receptionist]: Yes. Once they are ready, we will be sending um the withdrawal letter.
+[02:21] [Mauricio]: Awesome, awesome. Thank you. I appreciate the information.
+[02:24] [Receptionist]: Okay. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

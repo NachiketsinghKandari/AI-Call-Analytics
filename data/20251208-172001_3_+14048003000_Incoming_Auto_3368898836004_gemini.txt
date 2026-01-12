@@ -1,0 +1,62 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 24 turns
+  • Speaker 2 / Gaby / Role: Caller from Dominguez Chiropractic: 22 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fatima, how may I assist you?
+[00:07] [Gaby]: Hi, this is Gaby from Dominguez Chiropractic, how are you?
+[00:11] [Receptionist]: I'm very well, how about you, Ms. Gaby?
+[00:13] [Gaby]: What is your name? I can't hear you, so sorry.
+[00:15] [Receptionist]: That's okay. Fatima.
+[00:18] [Gaby]: Fatima. Fatima. Pretty name, Fatima.
+[00:22] [Receptionist]: Thank you. How may I help?
+[00:24] [Gaby]: Yes, I'm calling regarding a patient, the name is Darrell, it's D-A-R-R-E-L-L.
+[00:34] [Receptionist]: D-R-I-L-L?
+[00:36] [Gaby]: D-A-R-R-E-L-L. Darrell.
+[00:42] [Receptionist]: Darrell. Yes. Is that his— oh, that is his name. What is his last name?
+[00:48] [Gaby]: is S-T-E-P-H-E-N-S.
+[00:56] [Receptionist]: Stevens. If you'll bear with me while I search.
+[01:02] [ ... Silence (22s) ... ]
+[01:24] [Receptionist]: Nothing is coming up on— wait. Do you have a phone number for the client?
+[01:29] [Gaby]: Yeah. 678-277-1777.
+[01:36] [Receptionist]: Bear with me, I wasn't ready to write that down. Can you please, um, repeat that? Is that 678...
+[01:41] [Gaby]: 277-1777.
+[01:46] [Receptionist]: Thank you.
+[01:47] [ ... Silence (5s) ... ]
+[01:52] [Receptionist]: Oh, wait. Um, nothing is coming up on my system.
+[01:57] [Gaby]: Maybe the date of birth or date of accident?
+[02:01] [Receptionist]: Oh, here we go. The date of accident was on October 31st?
+[02:06] [Gaby]: Yes. Uh-huh.
+[02:08] [Receptionist]: All right. So yes, I was able to locate it. So the status of this account remains in treatment.
+[02:13] [Gaby]: Yeah. The thing is, you know, we're having a hard time to bring him in from last month on the 29th, and the phones are out of service. And I called the emergency number that we have, but, um, no answer. So I just leave a voicemail message about...
+[02:34] [Receptionist]: Okay. Do you have the case manager's information? 'Cause she already left for the day, so I cannot contact her 'cause she works until five.
+[02:44] [Gaby]: Oh, no, I don't.
+[02:45] [Receptionist]: But if you— I can give you her info, so that is something that she definitely is going to want to discuss with you guys.
+[02:53] [Gaby]: Okay, please.
+[02:55] [Receptionist]: All right. So her email— her name is Linda. L-I-N-D-A. Yes. And her last name is Huff, H-U-F-F, as in Frank, F as in Frank.
+[03:04] [Gaby]: L-I-N or E-N?
+[03:06] [Receptionist]: No, L-I-N-D-A. Linda.
+[03:11] [Gaby]: I-N. D-A. Linda. Mm-hmm.
+[03:13] [Receptionist]: And her last name is H-U-F-F, as in Frank, F as in Frank.
+[03:21] [Gaby]: Mm-hmm.
+[03:22] [Receptionist]: Her email is just her name, Linda at beyandassociate.com.
+[03:33] [Gaby]: Okay. At beyassociate.com.
+[03:43] [Receptionist]: So you can send her an email and let her know. I will leave notes on the account for her, but I would recommend that you send her an email as well.
+[03:53] [Gaby]: Yeah, I will send. She can call me back anytime at 404-800-3000 as well.
+[03:59] [Receptionist]: Bear with me, let me write that down, that phone number. Can you please repeat that number for me?
+[04:05] [Gaby]: Uh, 404-800-3000. Or she can email...
+[04:13] [Receptionist]: Okay. Go ahead.
+[04:15] [Gaby]: The email is intake, I-N-T-A-K-E, at dominguezchiropractic.com. My name is Gaby.
+[04:31] [Receptionist]: Chiropractic.com. All right. For Gaby. I will let her know.
+[04:37] [Gaby]: Okay, thank you, Fatima. Have a nice day.
+[04:40] [Receptionist]: You're so welcome, bye Gaby. Thank you.
+[04:42] [Gaby]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

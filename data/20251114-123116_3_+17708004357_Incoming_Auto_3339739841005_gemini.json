@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific case manager. The receptionist attempted to facilitate a connection but determined the staff member was unavailable. As a fallback, the receptionist provided the staff member's direct phone number and email address, which the caller confirmed and accepted.",
+    "call_duration_seconds": 156.53,
+    "call_duration_formatted": "02:36"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist offered to connect the caller to the assigned case manager but then stated she was currently on another call."
+  }
+}

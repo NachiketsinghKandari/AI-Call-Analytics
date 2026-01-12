@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Mary / Role: Caller from Optimum Health Rehab: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you today?
+[00:07] [Mary]: Hi, good morning, Angelo. My name is Mary. I'm giving you a call from Optimum Health Rehab. How are you today?
+[00:13] [Receptionist]: I'm doing good. Thank you so much for asking. What about you?
+[00:16] [Mary]: I'm doing well, thank you for asking. Um, I'm actually giving you a call regarding a patient of ours just to confirm representation for her. Her name is Kaylyn Joseph.
+[00:28] [ ... Silence (6s) ... ]
+[00:34] [Receptionist]: Kaylyn Joseph. Let me see. Give me one minute. Kaylyn Joseph. How did you spell the first name just to make sure?
+[00:44] [Mary]: It's K as in king, A as in apple, I as in igloo, L as in love, Y as in yo-yo, N as in Nancy.
+[00:53] [Receptionist]: Yes. Can I have the date of loss, please?
+[00:59] [Mary]: Yes. The date of loss is December 1st, 2025.
+[01:05] [Receptionist]: Yes. Oh yes, actually, uh, this is our client. We complete the intake and the case manager, her name is Linda. The case manager for this client.
+[01:18] [ ... Silence (7s) ... ]
+[01:25] [Mary]: What was that name?
+[01:27] [Receptionist]: Linda.
+[01:29] [Mary]: Linda? Okay. All right. And would you be able to provide me with Linda's email address, please?
+[01:37] [Receptionist]: Sure. Let me look it up.
+[01:40] [ ... Silence (6s) ... ]
+[01:46] [Receptionist]: All right, so I'm going to spell it. It will be the same as the name, Linda, L-I-N-D-A at B-E-Y-A-N-D-A-S-S-O-C-I-A-T-E-S dot com. Linda at Bey and Associates dot com. That is her email. Mm-hmm.
+[02:07] [Mary]: All right, perfect. Thank you so much for your help. I truly appreciate it. I hope you enjoy the rest of your day.
+[02:12] [Receptionist]: You as well, ma'am. Take care. Bye-bye.
+[02:15] [Mary]: Okay, you do as well. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

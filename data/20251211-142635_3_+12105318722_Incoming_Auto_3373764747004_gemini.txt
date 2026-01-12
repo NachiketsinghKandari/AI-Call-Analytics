@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Don Johnson / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [Don Johnson]: Hi, my name is Don Johnson with USAA Insurance. Can I speak to Linda or someone on your client Kiara Dees?
+[ ... Silence (6s) ... ]
+[00:23] [Receptionist]: One moment. You said you're calling from where?
+[00:26] [Don Johnson]: USAA.
+[00:28] [Receptionist]: She is on another call. Do you want to leave a voicemail?
+[00:31] [Don Johnson]: Yes, please.
+
+========================================
+TRANSCRIPT END
+========================================

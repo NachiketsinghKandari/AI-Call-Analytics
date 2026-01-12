@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Yesenia / Role: Employee at Georgia Spine and Orthopedics: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is [muffled], how can I help you?
+[00:04] [Yesenia]: Hi, my name is Yesenia, I'm calling you from Georgia Spine and Orthopedics. How are you today?
+[00:09] [Receptionist]: I'm doing well, thank you for asking. How about yourself?
+[00:12] [Yesenia]: Good, thank you.
+[00:14] [Yesenia]: Um, I have a question. Can— would you be able to tell me if a patient is being represented by your firm? Just need to know yes or no. Her name is Nicole Davis and the day of the accident was October 4th, 2025.
+[00:28] [Receptionist]: Yes ma'am. Stephanie Peck is the— is the case manager.
+[00:38] [Yesenia]: Stephanie Peck?
+[00:40] [Receptionist]: Mhm.
+[00:41] [Yesenia]: Okay, let me— does she have a direct line or should I keep this number for her on file?
+[00:47] [Receptionist]: Direct line would be 470-645-1748.
+[00:58] [Yesenia]: Okay, 470-645-1748.
+[01:02] [Receptionist]: Yes ma'am.
+[01:03] [Yesenia]: And does she have an email?
+[01:05] [Receptionist]: Stephanie, S-T-E-P-H-A-N-I-E, at beyandassociates.com. B-E-Y A-N-D associates with an S dot com.
+[01:22] [Yesenia]: Perfect. Thank you so much. Have a great day.
+[01:26] [Receptionist]: You too. Bye-bye.
+[01:27] [Yesenia]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

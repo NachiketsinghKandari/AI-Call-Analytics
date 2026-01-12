@@ -1,0 +1,82 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Angelo / Role: [Receptionist] at Bay and Associates: 28 turns
+  • Marion / Role: [Caller] from First Pain Specialists: 26 turns
+
+----------------------------------------
+
+[00:00] [Angelo]: Hello good morning and thanks for contacting Bay and Associates, my name is Angelo how may I help you?
+[00:10] [Marion]: Yes hi good morning Angelo. This is Marion calling from First Pain Specialists. I'm actually calling to see if I could get a case update on about five of our patients.
+[00:22] [Angelo]: Sure, can you confirm for me the name for the first patient?
+[00:26] [Marion]: Yes, first one is Shanna Hamilton.
+[00:32] [Angelo]: Uh, how do you spell Shanna, please?
+[00:36] [Marion]: S-H-A-N-N-A.
+[00:42] [Angelo]: Okay, Shanna Hamilton, I found it.
+[00:45] [Angelo]: The case status, the last update actually... 
+[00:46] [ ... Silence (8s) ... ]
+[00:54] [Angelo]: ...is pre-litigation demand. So it is in a demand status. Would you like to talk with the case manager or that's it?
+[01:02] [Marion]: Oh no, no, that's fine. We're just um getting an update for our records. Um I appreciate that though. And then I have four more if that's okay, I'm so sorry.
+[01:12] [Angelo]: Ah no issue at all. Let me leave the short note on this one and I will move on on the next one, okay? Let's see... demand department... 
+[01:21] [Marion]: Okay, thank you. Take your time.
+[01:22] [Angelo]: ...to get the status of this case, it is on pre-litigation demand. 
+[01:25] [ ... Silence (10s) ... ]
+[01:35] [Angelo]: I'm going to copy this note to paste it into the another one. One minute. Uh service... and are you calling from the medical facility?
+[01:56] [Marion]: Yeah, from First Pain Specialists.
+[02:00] [Angelo]: Thank you. And let's move on to the next client. Can you tell me the name?
+[02:06] [Marion]: Okay, the next one is George Charneco. C-H-A-R-N-E-C-O.
+[02:12] [Angelo]: George and then the last name? I couldn't hear you.
+[02:24] [Marion]: Charneco. C-H-A-R-N-E-C-O.
+[02:31] [Angelo]: Let's see if I found it. 
+[02:32] [ ... Silence (13s) ... ]
+[02:45] [Angelo]: And George is spelled as the normal one, G-O-R-G-E?
+[02:52] [Marion]: Correct, G-E-O-R-G-E.
+[02:54] [Angelo]: Okay, I found it. I found it, I found it. 
+[03:00] [ ... Silence (15s) ... ]
+[03:15] [Angelo]: Can you tell me the date of loss?
+[03:21] [Marion]: Uh yeah, hold on one sec, let me look him up. I'm so sorry. 
+[03:25] [ ... Silence (13s) ... ]
+[03:38] [Marion]: Um George, I have accident date 5/14/2025.
+[03:44] [Angelo]: Yes, 5/14. Thank you. Let's see.
+[03:57] [Marion]: Did you need his date of birth or...?
+[04:02] [Angelo]: Oh no, I found it, I found it. I was just um leaving the note. So the status of this case shows pre-litigation demand draft.
+[04:13] [Marion]: Okay, so pre-litigation demand draft.
+[04:18] [Angelo]: Yes, that's what it shows.
+[04:24] [Marion]: Okay, perfect. Thank you. And then I just have three more, I am so sorry, thank you so much.
+[04:30] [Angelo]: No issue at all. Can you tell me the another name?
+[04:32] [Marion]: Yeah, Joao, it's J as in John, O as in Oscar, A as in Apple, O as in Oscar. And the last name is Gomez, but with an S as in Sam instead of a Z.
+[04:46] [Angelo]: I found it. Joao.
+[04:52] [Angelo]: The status on this case is pre-litigation negotiations in plural.
+[05:01] [Marion]: Negotiations, negotiations. Okay, perfect. Thank you.
+[05:06] [Marion]: And then, oh my god, yeah, I'm gonna have to spell this one.
+[05:14] [Angelo]: That's fine.
+[05:16] [Marion]: Okay. So I as in India, P as in Papa, H as in Hotel, I as in India, G as in George, E as in Echo, N as in November, I as in India, and A as in Alpha.
+[05:30] [Angelo]: Iphigenia maybe?
+[05:33] [Marion]: Iphigenia, something like that. Yeah.
+[05:37] [Marion]: Last name is Avery.
+[05:40] [Angelo]: Avery. Yes, I found it.
+[05:44] [Angelo]: Thank you. Can you confirm for me the date of loss, please?
+[05:48] [Marion]: Uh yeah, hold on. I'm so sorry. My computer's a little slow today, like me. 
+[05:50] [ ... Silence (8s) ... ]
+[05:58] [Marion]: Date of loss I have 5/18/2025 for accident date, yeah.
+[06:07] [Angelo]: Thank you. Yes, status of this it is pre-litigation closing. That's what it shows, pre-litigation closing.
+[06:17] [Marion]: Pre-litigation closing? Yes. Okay.
+[06:22] [Marion]: And oh my god, yeah, I'm gonna have to spell this one too.
+[06:26] [Angelo]: No worries, what is it?
+[06:28] [Marion]: Okay. So R as in Romeo, E as in Echo, N as in November, I as in India, Q as in Quebec, U as in United, E as in Echo, C as in Charlie, A as in Alpha. And last name is Roper. Reniqueca? I don't, I don't know, man. Roper. R-O-P-E-R.
+[06:49] [Angelo]: Reniqueca. No hace sentido ni en español Reniqueca. No entiendo.
+[06:57] [Angelo]: No, quién sabe qué idioma será ese.
+[07:01] [Angelo]: But that's fine. The status of this it is pre-litigation reduction, como reducción.
+[07:07] [Marion]: Pre-litigation... okay, so it's in reductions.
+[07:14] [Marion]: Okay, amor, pues muchísimas gracias. Entonces, um, ¿yo puedo enviar un correo a intake? ¿A dónde es que lo envío if I wanted to to see another update? Where, where would I send it? Is it intake@bayandassociates.com or is there a different one?
+[07:30] [Angelo]: Uh, you can use that one or you can always give us a call, we're more than happy to assist you, no issue at all.
+[07:38] [Marion]: Okay, amor, pues muchísimas gracias. Que Dios te bendiga y tengas un bonito día.
+[07:51] [Angelo]: No te preocupes, igualmente, Dios te bendiga y excelente día para ti. Hasta luego, que estés muy bien.
+[07:55] [Marion]: Gracias. Okay, bye.
+[07:57] [Angelo]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

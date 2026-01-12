@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tashon / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Lexus / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Tashon, how may I help you?
+[00:05] [Lexus]: Hi, my name is Lexus, calling from Arrowhead Clinic. I was hoping that I could get the case manager's email for one of my patients.
+[00:13] [Receptionist]: Sure. Can I have the patient's name, ma'am?
+[00:15] [Lexus]: Uh, patient name, I'll spell it for you. It's Q-U-A-V-A-D-A-S, last name K-A-Y.
+[00:29] [Receptionist]: Did you say Q-U-B-A?
+[00:35] [Lexus]: No, ma'am. Q-U-A, Q as in queen, U as in unicorn, A as in alpha, V as in victor, A as in alpha, D as in delta, A as in alpha, S as in sierra.
+[00:52] [ ... Silence (5s) ... ]
+[00:57] [Receptionist]: Okay, one moment.
+[00:59] [Lexus]: Sure.
+[01:00] [ ... Silence (34s) ... ]
+[01:34] [Receptionist]: And his first name, ma'am?
+[01:37] [Lexus]: Ma'am?
+[01:39] [Receptionist]: His first name?
+[01:41] [Lexus]: Quavadas.
+[01:46] [Receptionist]: And that— so that was his first name or his last name?
+[01:53] [Lexus]: That was his first name and then the last name was K-A-Y.
+[02:00] [ ... Silence (12s) ... ]
+[02:12] [Receptionist]: Yes, um, case manager's name is Devin McLaughlin. I can give you his contact info, I can also transfer you over.
+[02:20] [Lexus]: Perfect. If I can have his email?
+[02:23] [Receptionist]: Oh, it's Devin...
+[02:25] [ ... Silence (6s) ... ]
+[02:31] [Receptionist]: D-E-V-I-N at beyandassociates.com. B-E-Y-A-N-D associates dot com.
+[02:44] [Lexus]: Perfect. And if you could transfer me over, that would be great.
+[02:48] [Receptionist]: Sure. Transferring now. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

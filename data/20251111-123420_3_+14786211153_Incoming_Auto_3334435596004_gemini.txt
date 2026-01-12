@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Jesse / Role: Receptionist at Bey and Associates: 13 turns
+  • Jessica / Role: Claims Representative at Geico: 11 turns
+
+----------------------------------------
+
+[00:00] [Jesse]: Hello, this is Jesse from Bey and Associates, how can I help you?
+[00:07] [Jessica]: Hi, good afternoon, this is Jessica with Geico Claims, call may be recorded for quality purposes. I'm calling you on behalf of two clients that you represent, uh, Tara Johnson and Sebastian Rice.
+[00:24] [Jesse]: Rice, uh, yes ma'am, how can I assist you?
+[00:27] [Jessica]: I'm sorry, I was just following up to see if you all, um, still working on the letter of representation since we haven't gotten it yet.
+[00:34] [Jesse]: Understood, give me one moment, I do have the information for Sebastian Rice here. Give me one moment.
+[00:42] [ ... Silence (5s) ... ]
+[00:47] [Jesse]: And you're calling from where, I'm sorry?
+[00:50] [Jessica]: From Geico.
+[00:52] [Jesse]: Geico, understood. Okay, give me one moment.
+[00:54] [ ... Silence (20s) ... ]
+[01:14] [Jessica]: I'm so sorry, could I get your name once more?
+[01:18] [Jesse]: Uh, yes, my name is Jesse.
+[01:20] [Jessica]: Okay.
+[01:21] [Jesse]: All right, give me one moment because I am seeing here that we do have the information for the insurance but it's not for Geico, it's a different company. Give me one moment.
+[01:32] [ ... Silence (14s) ... ]
+[01:46] [Jesse]: Let me tell you ma'am, I do have the information for Tara Johnson and Sebastian Rice, uh, but it looks like that it's a different insurance company, so I'm not sure how I can assist you.
+[01:58] [Jessica]: Uh, so we've got my driver, uh, Ashley McClure, um, as the one who was involved.
+[02:07] [Jesse]: Ashley McClure, got it. Understood. There's a different, uh, insurance name here, my apologies. All right, it looks like that we have not sent the LORs yet, ma'am.
+[02:18] [Jessica]: Okay, that's perfectly fine, I just wanted to get an update.
+[02:22] [Jesse]: Right, right. I am seeing here the name of Ashley McClure, uh, but I am not seeing here that we've sent any LORs. So there is a, there is a person, uh, there is a case manager for this, uh, for this client, her name's Stephanie. Let me reach out to her so she can, uh, work on that, all right?
+[02:40] [Jessica]: Okay, that's perfect.
+[02:42] [Jesse]: Understood. Can I help you with anything else at the moment, ma'am?
+[02:45] [Jessica]: Uh, not at all, you've been perfect.
+[02:47] [Jesse]: Understood. I hope you have an excellent day.
+[02:49] [Jessica]: You too, thank you.
+[02:51] [Jesse]: Bye-bye.
+[02:53] [Jessica]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

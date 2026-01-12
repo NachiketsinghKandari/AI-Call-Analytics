@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Michelle White-Collar / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Michelle White-Collar]: Hey, this is Michelle White-Collar from Geico Claims, uh, on a recorded line again. I think I spoke to you not too long ago. I was like, had I known, I would have asked all my questions earlier. But, um, following up, the client is Pharrell Boyrington and I believe I had Stephanie as the point of contact for him. Um, just trying to get an update on treatment status.
+[00:32] [Receptionist]: On treatment, okay. Let's see. Let's see if Stephanie's available, just one moment. And what is the name for the client, just so I have it on record?
+[00:46] [Michelle White-Collar]: It's Pharrell, last name is Boyrington, B-O-Y-R-I-N-G-T-O-N.
+[00:55] [Receptionist]: Yes, I found this. Yes, it's Stephanie. Let's see if Stephanie's available, just one moment. Angelo.
+
+========================================
+TRANSCRIPT END
+========================================

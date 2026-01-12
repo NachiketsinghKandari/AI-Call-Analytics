@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Taqwavious Hill / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. My name is Jesse. How can I assist you?
+[00:06] [Taqwavious Hill]: How you doing? Uh, my name Taqwavious Hill. Um, they said my, uh, case was transferred to the litigation. Could you transfer to me to the litigation team that has my case?
+[00:19] [Receptionist]: Uh, yes sir. I can help you with this. Give me one moment.
+[00:22] [Taqwavious Hill]: All right.
+[00:24] [ ... Silence (7s) ... ]
+[00:31] [Receptionist]: All right. Do you allow me to place you on a brief hold for one minute? Let me see if your case manager is available, sir, all right?
+[00:38] [Taqwavious Hill]: Okay. It's not Nunda no more. I know that.
+[00:42] [Receptionist]: Uh, no. I'm seeing here that it's, uh, Carrie. Carrie Wait.
+[00:46] [Taqwavious Hill]: Okay.
+[00:48] [Receptionist]: Yeah. I'll be right back with you in one minute, sir.
+[00:51] [Taqwavious Hill]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific staff member regarding settlement follow-ups for multiple clients. The receptionist placed the caller on hold to check for the staff member, and the call ended while the caller was on hold.",
+    "call_duration_seconds": 53.78,
+    "call_duration_formatted": "00:53"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was initiated; the call ended while the receptionist had the caller on hold to check for the requested staff member."
+  }
+}

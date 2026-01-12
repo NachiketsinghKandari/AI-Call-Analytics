@@ -1,0 +1,54 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 19 turns
+  • Speaker 2 / Renee / Role: Caller: 18 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Renee]: Hi Jesse, Jesse, is it Jesse?
+[00:09] [Receptionist]: Jesse, J-E-S-S-E.
+[00:12] [Renee]: Okay, making sure. Jesse, my name is Renee, I'm calling from AICA Orthopedics. Jesse, I'm calling to follow up on the status for um a patient, can you assist me?
+[00:22] [Receptionist]: Uh yes ma'am, what's the name of the patient?
+[00:25] [Renee]: I'm sorry Jesse, I got a um little sore throat, my voice is kind of funny. Okay. The patient name is um Bowman, B-O-W-M-A-N, and the first name is um Shetavia, Shetavia Bowman.
+[00:44] [Receptionist]: Found it. Thank you. Give me one moment. And uh what's the name of the place, sorry? I you were cutting up a little, I just heard Orthopedics.
+[00:53] [Renee]: It's A-I-C-A Orthopedics.
+[00:57] [Receptionist]: Oh, got it. Thank you. Orthopedics, got it. Uh let me tell you, so I found here Shetavia Bowman. The status for her case it she is in pre-litigation reductions. That is the status of the case as of today.
+[01:17] [Renee]: Pre-litigation reduction. Reductions, yes. So um Jesse, are you able to give me like three more?
+[01:27] [Receptionist]: Uh like uh yes, yes I can help you with that.
+[01:31] [Renee]: Okay. Um the next one last name is Thompson, T-H-O-M-P-S-O-N. I'm sorry about my voice, I'm sorry.
+[01:41] [Receptionist]: No worries. And what's the name?
+[01:43] [Renee]: First name is Jordan, J-O-R-D-E-N.
+[01:47] [Receptionist]: All right. Give me one moment.
+
+[ ... Silence (10s) ... ]
+
+[02:00] [Receptionist]: Jordan Thompson. Uh let me tell you, so I'm not able to find any Jordan Thompson. So—
+[02:08] [Renee]: J-O-R-D-E-N.
+[02:11] [Receptionist]: J-O-R-D-E-N. Uh yes, I found it here, give me one moment.
+[02:21] [Renee]: Yeah, it was spelled different.
+[02:23] [Receptionist]: Yeah. Let me tell you, so this file shows here on my system as archived. It doesn't show that it's closed or that we withdrew from the case, but it just shows as archived.
+[02:39] [Renee]: Who's the case manager?
+[02:41] [Receptionist]: The case manager would be Stephanie, Stephanie Peck with a P as in Peter.
+[02:47] [Renee]: I I have her information. And let me give you the last one. These two guys um last name I'm sorry, it's Waller, W-A-L-L-E-R, and the first name is Ronald, R-O-N-A-L-D.
+[03:05] [Receptionist]: All right, give me one moment on Waller. I found it here. Ronald Waller. Um let me tell you, so the status for this uh client would be litigation settling.
+[03:25] [Renee]: So it's not finalized yet?
+[03:28] [Receptionist]: No, it looks like that they're still trying to figure out if liability is going to be accepted or not from what I'm seeing here, but uh I'm not sure. That's the status as of right now, litigation settling.
+[03:43] [Renee]: Okay, good. That's fine. And this is going to be my last my last one.
+[03:47] [Receptionist]: Yes ma'am.
+[03:48] [Renee]: The last one is going to be um let me see these guys, we got Walker, W-A-L-K-E-R, and the first name is Betty, Betty Walker. Betty.
+[04:04] [Receptionist]: All right, let me see here. Uh Betty Walker also shows as archived. Uh it doesn't show here that it's closed or anything like that, it just shows here as archived.
+[04:24] [Renee]: Okay.
+[04:25] [Receptionist]: Yeah, that's the status as of today.
+[04:28] [Renee]: I'm just going to put settling down too. Jesse, thank you so much and I apologize for my voice.
+[04:35] [Receptionist]: No, no worries, no worries at all ma'am.
+[04:38] [Renee]: You enjoy your you enjoy your New Year. Thank you.
+[04:41] [Receptionist]: You too ma'am. Goodbye.
+[04:43] [Renee]: Bye now.
+
+========================================
+TRANSCRIPT END
+========================================

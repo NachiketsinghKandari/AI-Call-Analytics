@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Vanessa / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [Vanessa]: Hi, my name is Vanessa, I'm calling from Erie Insurance. I'm calling on behalf of your client Miriam Barnes. Um, we have a claim here. I'm calling to speak with the attorney Alani.
+[00:21] [Receptionist]: Um, the office is closed already. We'll have to call back on Monday.
+[00:26] [Vanessa]: All right. Can I leave a voicemail or no?
+[00:29] [Receptionist]: Yeah, one moment.
+[00:33] [Vanessa]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

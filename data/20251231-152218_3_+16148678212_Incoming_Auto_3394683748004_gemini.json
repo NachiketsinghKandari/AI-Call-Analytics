@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to the customer success team for a case inquiry, but then informed the caller the office was closed and requested a callback number, which was not provided before the call ended.",
+    "call_duration_seconds": 91.01,
+    "call_duration_formatted": "01:31"
+  },
+  "transfer_context": {
+    "destinations": [
+      "administration_and_operations"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist offered to transfer the caller to the customer success team to locate her file, but immediately retracted the offer upon realizing the office was closed."
+  }
+}

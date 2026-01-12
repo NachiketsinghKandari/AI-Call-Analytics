@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bayer and Associates: 6 turns
+  • Speaker 2 / Dan / Role: Representative at Bristol West Insurance: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bayer and Associates, this is Dainel, how can I help you?
+[00:08] [Dan]: Hi, good morning. My name is Dan. I'm calling from Bristol West Insurance. Uh, just regarding one of your clients, uh, don't know how to pronounce her first name, last name is Avery. I can spell the first name for you if you need it.
+[00:24] [Receptionist]: Um, yes.
+[00:27] [Dan]: First name is I-T-H-I-G-E-N-I-A.
+[00:41] [Receptionist]: Can you tell me the last name?
+[00:44] [Dan]: Avery. A-V-E-R-Y.
+[00:57] [Receptionist]: So, A-V as in boy or V as in Victor?
+[01:01] [Dan]: V as in Victor. Avery.
+[01:07] [Receptionist]: Date of loss?
+[01:11] [Dan]: May 18th, 2025.
+[01:15] [Receptionist]: Okay, one moment. Um, the case manager for this case is on another call. Do you want to leave a voicemail?
+[01:26] [Dan]: Yeah, that's fine.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,42 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Tiffany Burris / Role: Caller: 13 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Angelo, how can I help you?
+[00:06] [Tiffany Burris]: Uh, good morning. Can I speak to Brittany Lawson?
+[00:10] [Receptionist]: Sure, yes you can. Uh, can you confirm for me your name?
+[00:19] [Tiffany Burris]: I'm sorry, what'd you say? I can't hear you.
+[00:22] [Receptionist]: Yes, can I have please your name?
+[00:25] [Tiffany Burris]: Uh, Tiffany Burris.
+[00:28] [Receptionist]: Tiffany Burris. One moment please, let me enter your name in my system.
+[00:33] [ ... Silence (8s) ... ]
+[00:41] [Receptionist]: Uh, just to confirm, Tiffany, are you a client?
+[00:44] [Tiffany Burris]: No, I'm— I'm calling to follow up on my referral check.
+[00:48] [Receptionist]: Okay, all right. No worries about it. Uh, Brittany Lawson, would you like to talk or Brianna?
+[01:02] [Tiffany Burris]: I'm sorry, what'd you say?
+[01:04] [Receptionist]: Oh, I'm just confirming, would you like to talk with Brianna or Brittany?
+[01:09] [Tiffany Burris]: Um, in the email it says— it says Brittany Lawson. So, whoever is in charge of the referral checks for other attorneys.
+[01:19] [Receptionist]: Yes. So, um, she doesn't have like a direct line to transfer you, but she has like a direct line in order that you can give her a call. Okay? So I have the telephone number for her. Ready to write it down?
+[01:36] [Tiffany Burris]: Okay. Is this for Brittany? Who is this for?
+[01:39] [Receptionist]: Yes. Brittany Lawson.
+[01:42] [Tiffany Burris]: Okay. Hold on. She works at the firm, so you're— you can't— I'm a little bit confused. Like, you're unable to transfer the call to her?
+[01:49] [Receptionist]: No, no. You will need to call her directly because she's not available at this moment. All right? You will need to call her in about 20 to 30 minutes.
+[02:00] [Tiffany Burris]: Okay. What is her number?
+[02:02] [Receptionist]: It is 470-339-7214.
+[02:17] [Tiffany Burris]: 470-339-7214.
+[02:24] [Receptionist]: Yes, you are right.
+[02:26] [Tiffany Burris]: Okay. Thank you.
+[02:28] [Receptionist]: You're more than welcome. Something else I can help you with?
+[02:31] [Tiffany Burris]: That's all.
+[02:33] [Receptionist]: All right. Have a good one, bye-bye.
+[02:35] [Tiffany Burris]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

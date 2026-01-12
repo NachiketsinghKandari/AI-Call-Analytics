@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with his case worker or attorney. The receptionist stated that no one was available to discuss the specific case and offered to send an email. The caller continued to demand to speak with someone immediately, and the call ended.",
+    "call_duration_seconds": 111.53,
+    "call_duration_formatted": "01:51"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted because the receptionist determined the relevant staff members were unavailable."
+  }
+}

@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Joanne Kennedy / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (10s) ... ]
+[00:10] [Receptionist]: Thank you for calling Bey and Associates, this is Daniel.
+[00:14] [Joanne Kennedy]: Hey, good afternoon Daniel, my name is Joanne Kennedy, I'm calling from Nationwide Insurance, call may be monitored for quality assurance. I'm looking to speak with Matt regarding your client Gustav Charles.
+[00:28] [Receptionist]: What was the first name?
+[00:31] [Joanne Kennedy]: Gustav.
+[00:33] [Receptionist]: Are you looking for the case manager?
+[00:36] [Joanne Kennedy]: I'm looking to speak with Matt.
+[00:38] [Receptionist]: He's not the case manager, that's why I'm I am I am asking.
+[00:43] [Joanne Kennedy]: He's the attorney, I'm looking to speak with him.
+[00:45] [Receptionist]: No, he is not the attorney either.
+[00:48] [Joanne Kennedy]: Who is Matt then?
+[00:50] [Receptionist]: Matt is one of our representatives. So, if you want to talk to someone in charge of the case, I can transfer to someone in charge.
+[00:59] [Joanne Kennedy]: Thank you.
+[01:00] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

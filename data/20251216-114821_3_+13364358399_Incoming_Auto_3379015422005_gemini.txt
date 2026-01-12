@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Daniel Cohen / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Tasha, how may I help you?
+[00:07] [Daniel Cohen]: Hey, hello. My name's Daniel Cohen from National General Insurance Claims. I'm uh calling to uh discuss with case manager attorney a demand I received for our client, John Quell Grimes. And I can spell that if you need me to.
+[00:24] [Receptionist]: Sure. Well, you said last name is Quell?
+[00:28] [Daniel Cohen]: Uh, first name was John Quell, last name is Grimes, G-R-I-M-E-S.
+[00:33] [ ... Silence (10s) ... ]
+[00:43] [Receptionist]: Okay, sure. That would be with Ms. Victoria Morales, she would be the best person to speak to. I can transfer you over and I can also provide you her contact info.
+[00:53] [Daniel Cohen]: Please do. You said Victoria Morales?
+[00:57] [Receptionist]: That is correct, sir. I can see that—
+[00:59] [Daniel Cohen]: All right, phone number?
+[01:01] [Receptionist]: Phone number is 470-615-0710. Unfortunately, I can see that Ms. Victoria's on the other line, but I can transfer you over to her voicemail, you can leave a message for her.
+[01:18] [Daniel Cohen]: Yeah, yeah, if you don't mind, I'd appreciate that. You said your name was Tasha?
+[01:22] [Receptionist]: That is correct.
+[01:24] [Daniel Cohen]: All right, I appreciate the transfer. Happy holidays to you.
+[01:27] [Receptionist]: You too, happy holidays. Transferring now.
+
+========================================
+TRANSCRIPT END
+========================================

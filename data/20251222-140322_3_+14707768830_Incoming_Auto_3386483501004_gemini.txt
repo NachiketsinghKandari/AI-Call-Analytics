@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Unknown / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates... Thank you for calling Bey and Associates... Thank you for calling Bey and Associates, this is Lionel, how may I assist you?
+[00:11] [Unknown]: Yes, is this Bey and Associates?
+[00:13] [Receptionist]: It is.
+[00:14] [Unknown]: Oh, I'm trying to reach Nick, he's my attorney. I think he said he was going to give me a call by 12:00 today and I didn't hear from him, so I'm just calling to double-check and make sure I didn't miss his call.
+[00:22] [Receptionist]: Oh, absolutely. Please bear with me, sir, while I pull up your file and contact the attorney and see if um he is available for you. One moment, please. If I'm unable to contact the attorney, um can I contact your case manager, Ms. Wade, and see if she's available?
+[00:41] [Unknown]: Yes.
+[00:42] [Receptionist]: Yes, oh, one moment please and thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Martha Story / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Lionel.
+[00:07] [Martha Story]: Yes, is Taylor in?
+[00:10] [Receptionist]: I'm sorry?
+[00:12] [Martha Story]: Taylor, T-A-E-L-A. I don't even know if she works there anymore.
+[00:21] [Receptionist]: Taylor... T-A-E... No, she's no longer with us.
+[00:28] [Martha Story]: Okay. Well, I haven't been able to get anybody call me back and I guess that's because she doesn't work there. And what's your name?
+[00:41] [Receptionist]: Lionel.
+[00:42] [Martha Story]: Can you spell that?
+[00:44] [Receptionist]: I'm sorry, um, you're calling from where or...
+[00:47] [Martha Story]: Is this Bey and Associates?
+[00:49] [Receptionist]: Yes.
+[00:51] [Martha Story]: Okay. Well, I've been getting someone— I'm a client of yours and I was wondering to see if somebody could call me on the update of my case. She was the one handling it and now she's not working there anymore, so I'd like to see who is working on it. Martha Story, S-T-O-R-Y.
+[01:14] [Receptionist]: Well, let me just one moment on the line, please.
+[01:18] [Martha Story]: Okay.
+[01:22] [Receptionist]: Um, thank you so much for holding. The person in charge of your case right now, her name is Veronica. She is actually on another call, but I will send her an email so that she can give you a call back today, okay?
+[01:33] [Martha Story]: Okay, just needed an update on the case.
+[01:37] [Receptionist]: Okay, I will let her know so that she can get back to you today, okay?
+[01:40] [Martha Story]: Thank you so, so much.
+[01:42] [Receptionist]: Thank you too.
+[01:43] [Martha Story]: Bye-bye.
+[01:44] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

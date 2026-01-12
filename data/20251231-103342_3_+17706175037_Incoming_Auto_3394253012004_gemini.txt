@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Britney / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: ...calling Bey and Associates. I am Emma. How can I help you, Britney?
+[00:05] [Britney]: Yes, I need to speak to Matt McCarron, please.
+[00:09] [Receptionist]: Sorry about that. May I have your name?
+[00:14] [Britney]: Britney.
+[00:18] [Receptionist]: Thank you, Britney. Unfortunately, I don't have contact information for Matt McCarron. Would you like me to take a message for him?
+[00:26] [Britney]: Uh, no thank you. Can you transfer me to Michael Soul?
+[00:32] [Receptionist]: Sorry about that. May I have your name?
+[00:37] [Britney]: Britney.
+[00:42] [Receptionist]: I don't have contact information for Michael Soul. Would you like me to take a message for him instead?
+[00:47] [Britney]: No thank you.
+[00:49] [Receptionist]: All right, Britney.
+
+========================================
+TRANSCRIPT END
+========================================

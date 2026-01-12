@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Automated Voice / Role: Automated Message: 1 turn
+  • Speaker 2 / [Receptionist] / Role: [Receptionist] at Law Offices of Michael J. Paris: 8 turns
+  • Speaker 3 / Michael Smith / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: ...two or dial 877-865-5852 to opt out.
+[00:10] [Receptionist]: Thank you for calling the Law Offices of Michael J. Paris. This is Jennifer. How can I help you?
+[00:13] [Michael Smith]: Hi, Jennifer. This is, uh, Michael. Michael Smith.
+[00:15] [Receptionist]: Hi, Michael. How can I help you today?
+[00:18] [Michael Smith]: Um, I'm calling to, uh, check on the status of my case. I- I haven't heard anything in a while.
+[00:25] [Receptionist]: Sure, I can help with that. Can I get your case number?
+[00:28] [Michael Smith]: Uh, yeah. It's, uh, 1-2-3-4-5.
+[00:32] [Receptionist]: Okay, let me look that up for you. One moment.
+
+[ ... Silence (7s) ... ]
+
+[00:42] [Receptionist]: Okay, I see here that, uh, your case is still in the discovery phase. We're waiting on some documents from the other side.
+[00:48] [Michael Smith]: Oh, okay. Um, how long do you think that'll take?
+[00:52] [Receptionist]: It's hard to say, but, uh, we should have an update for you in a week or two.
+[00:58] [Michael Smith]: Okay, thanks. I'll, uh, I'll check back then.
+[01:01] [Receptionist]: You're welcome. Have a great day.
+[01:04] [Michael Smith]: You too. Bye.
+[01:06] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

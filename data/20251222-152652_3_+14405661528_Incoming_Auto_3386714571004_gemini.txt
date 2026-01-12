@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Sarah / Role: Caller from Progressive Insurance: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, how can I help you?
+[00:06] [Sarah]: Hi, this is Sarah with Progressive Insurance. I was looking to speak to Dinell regarding the client Jerry Pope.
+[00:16] [Receptionist]: Jerry Pope?
+[00:19] [Sarah]: Yes.
+[00:23] [Receptionist]: What's the date of loss?
+[00:27] [Sarah]: Uh, July 10th, twenty twenty-five.
+[00:30] [Receptionist]: I think Dinell's in the intake department, uh, I think Jonathan Steele's the attorney handling it. Can I get you over to Jonathan?
+[00:38] [Sarah]: Yeah, you sure can. Thanks.
+[00:41] [Receptionist]: And his email, would you like that as well?
+[00:44] [Sarah]: Yes.
+[00:45] [Receptionist]: It's J-Steele, and he spells it S-T-E-E-L-E, so J-Steele at Bey and Associates dot com.
+[00:55] [Sarah]: Okay, perfect. I'll update it.
+[00:58] [Receptionist]: I'll transfer you. Yep. One sec.
+[00:59] [Sarah]: Thanks.
+
+========================================
+TRANSCRIPT END
+========================================

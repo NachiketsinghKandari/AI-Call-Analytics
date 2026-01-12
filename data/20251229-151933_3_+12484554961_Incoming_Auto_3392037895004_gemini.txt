@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kareem / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Mildred / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kareem, how can I help you?
+[00:04] [Mildred]: Hey, this is Mildred with Team Rehab. I am calling about Cassandra Molina.
+[00:12] [Receptionist]: Give me a moment, let me check on that.
+[00:15] [ ... Silence (6s) ... ]
+[00:21] [Receptionist]: Cassandra Molina?
+[00:23] [Mildred]: Yes, that's right.
+[00:25] [ ... Silence (6s) ... ]
+[00:31] [Receptionist]: All right, and what exactly do you need to know about this case?
+[00:34] [Mildred]: Yeah, um, on this one, we were doing a reduction negotiation and we kind of stopped, uh, let's see, I think the last message was in November, no, it was December, December 8th. Um, on this one, I was wanting to know if we could wrap up at 1900.
+[00:56] [Receptionist]: Um, let me try to get the, uh, the case manager, maybe she's available. Hold on one moment, okay? And you said your name is?
+[01:03] [Mildred]: Mildred.
+[01:05] [Receptionist]: Mildred. Give me a moment, thank you.
+[01:08] [Mildred]: Thanks.
+[01:14] [Receptionist]: Thank you so much for holding.
+[01:16] [Mildred]: Yeah.
+[01:17] [Receptionist]: Um, none of the case managers are available today, uh, due to the holidays. I apologize for that. It's going to be very hard to get ahold of them. Um, I will, if you want, I can transfer you to their voicemail and then they can get back to you on Monday.
+[01:34] [Mildred]: Okay, that sounds good. Thank you so much.
+[01:37] [Receptionist]: You're welcome. Give me one second, okay? Thank you.
+[01:41] [Mildred]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Ruby / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Emma, how can I help you?
+[00:03] [Ruby]: Hi, this is Ruby.
+[00:06] [Receptionist]: Sure, Ruby.
+[00:08] [Ruby]: I have a... I have a Sigma Woodson on the line looking to speak with his case manager Lonnie.
+[00:17] [Receptionist]: Sure, I can help with that. May I have Sigma Woodson's name?
+[00:21] [Ruby]: It's Sigma Woodson.
+[00:24] [Receptionist]: I'm here to assist further. Could you share more details so I can help you efficiently?
+[00:31] [Ruby]: Um, he said he has a concern about his case.
+[00:37] [Receptionist]: Transferring you to Lonnie Soleranza-Pouchie.
+[00:42] [ ... Silence (28s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

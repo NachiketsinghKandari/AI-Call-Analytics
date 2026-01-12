@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Devin / Role: Receptionist at Bain and Associates Law Firm: 5 turns
+  • Speaker 2 / Chris / Role: Representative from Catch on behalf of United Healthcare Insurance: 5 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bain and Associates Law Firm, Devin speaking.
+[00:07] [Chris]: Hi, this is Chris speaking calling from Catch on behalf of United Healthcare Insurance. I am calling for client name, uh, Juhi Tiwari, eleven fifteen twenty twenty four date of loss.
+[00:26] [Receptionist]: Okay, can you repeat the name please?
+[00:29] [Chris]: Uh, Juhi spelled as J for Juliet, U for Uniform, H-I. Last name T for Tango, I, W-A-R-I.
+[00:49] [Receptionist]: Sorry ma'am, unfortunately, I don't know if it's my connection or what is happening, but whenever you say the name, it cuts out.
+[00:59] [Chris]: Okay, I'll just, uh, repeat it. Uh, first name spelled as J for Juliet, U for Uniform, H for Henry, I for India. Juhi. And then the last name, T for Tango, I for India, W for Whiskey, A for Alpha, R for Romeo, I for India.
+[01:12] [ ... Silence (20s) ... ]
+[01:32] [Receptionist]: Okay, thank you so much for patiently holding on me. I apologize for that delay.
+[01:44] [Chris]: Okay.
+[01:46] [Receptionist]: Let me get you over to someone that can assist, okay? Bear with me for just a second.
+[01:55] [Chris]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

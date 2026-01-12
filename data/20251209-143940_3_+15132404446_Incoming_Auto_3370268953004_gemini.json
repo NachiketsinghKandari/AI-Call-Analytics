@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with specific staff members. The receptionist determined they were unavailable and offered a transfer to voicemail. The call disconnected while the receptionist was requesting the caller's phone number, so the transfer was not initiated and no message was completed.",
+    "call_duration_seconds": 70.13,
+    "call_duration_formatted": "01:10"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_voicemail"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist offered a transfer to voicemail after confirming staff unavailability, but the call ended before the transfer was initiated."
+  }
+}

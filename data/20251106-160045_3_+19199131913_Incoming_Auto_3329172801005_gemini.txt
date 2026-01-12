@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Devin] / Role: [Receptionist at Bay and Associates Law Firm]: 10 turns
+  • Speaker 2 / [Justin Clark] / Role: [Caller from Gallagher Bassett]: 8 turns
+
+----------------------------------------
+
+[00:00] [Devin]: Bay and Associates Law Firm, Devin speaking.
+[00:06] [Justin Clark]: Hi, I was calling to speak with Matt McCarron.
+[00:10] [Devin]: Okay, just a- just a moment. Sure, let me go ahead and try and reach over to Matt for you. May I have your first and last name please?
+[00:17] [Justin Clark]: Sure, it's Justin Clark. I'm calling from Gallagher Bassett on behalf of FedEx.
+[00:23] [Devin]: Okay. Mr. Clark, right?
+[00:27] [Justin Clark]: Yes.
+[00:29] [Devin]: Let me see if Matt is available.
+[00:32] [ ... Silence (5s) ... ]
+[00:37] [Devin]: Mr. Clark, I do apologize. It seems like Mr. Matt is away from his phone at the moment. I'm only getting his voicemail. Do you have his email?
+[00:45] [Justin Clark]: I do not.
+[00:47] [Devin]: Okay, I can provide you the email so you can send him a- an email. He's normally really responsive, uh, with emails more than phone calls. Uh, so let me go ahead and give that to you.
+[00:59] [Justin Clark]: Great, thank you.
+[01:01] [Devin]: You're welcome. So that would be his first name, Matt, M-A-T-T, like Tom, at bayandassociates.com.
+[01:13] [Justin Clark]: Is "and" spelled out? So it's bay, A-N-D, associates.com?
+[01:18] [Devin]: Yes, sir. That's B-E-Y, the word "and" spelled out, A-N-D, associates will be plural, .com.
+[01:26] [Justin Clark]: Great. Th- and uh, can I have your name again please?
+[01:32] [Devin]: Devin. D-E-V-I-N.
+[01:34] [Justin Clark]: Devin. Thank you. Thank you so much for your help, Devin. You have a great day.
+[01:37] [Devin]: You're welcome, Mr. Clark. Have a great one as well.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Role: Receptionist at Bain and Associates: 4 turns
+  • Miriam / Role: Employee at Southern Crescent Engineering and Rehab: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, can I speak- can I help you?
+
+[00:05] Miriam: Hey, this is Miriam calling from Southern Crescent Engineering and Rehab. I was calling to see if I can speak to Stephanie Peck?
+
+[00:13] [Receptionist]: Yes, ma'am.
+
+[00:15] [ ... Silence (3s) ... ]
+
+[00:18] [Receptionist]: Okay. Is, um, which client is this in regards to?
+
+[00:22] Miriam: Uh, Mitesh Patel.
+
+[00:25] [Receptionist]: Patel.
+
+[00:27] [ ... Silence (4s) ... ]
+
+[00:31] [Receptionist]: One sec.
+
+[00:32] Miriam: Okay.
+
+[00:33] [ ... Silence (4s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

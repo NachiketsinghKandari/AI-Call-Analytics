@@ -1,0 +1,58 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist: 6 turns
+  • Speaker 2 / Herb Chislett / Role: Caller from National General: 19 turns
+  • Speaker 3 / Unknown / Role: Receptionist at Bey and Associates: 16 turns
+
+----------------------------------------
+
+[00:00] [Emma]: This is Emma, how can I help you?
+[00:03] [Herb Chislett]: Hi Emma, my name's Herb Chislett with National General. I'm calling in regards to two clients.
+[00:11] [Emma]: May I have the clients' full names, Herb?
+[00:14] [Herb Chislett]: Ladonna Carter is the first one and Darnell Williams is the second.
+[00:27] [Emma]: I wasn't able to locate a file for Ladonna Carter. Can you confirm the spelling of her name for me? For Darnell Williams, I see two cases.
+[00:37] [Herb Chislett]: Sure. Okay. It'll be a 12/22 date of loss and they were in the same car. Ladonna is L-A-D-O-N-N-A and it's at Ohio.
+[00:53] [Emma]: I couldn't locate a file for Ladonna Carter. For Darnell Williams, I see multiple cases. Could you please confirm the date of birth or any other specific details to help narrow it down?
+[01:09] [Herb Chislett]: I don't have a date of birth.
+[01:12] [Emma]: Since I still can't narrow down Darnell Williams' file or locate Ladonna Carter's, given the Ohio details and incident date you've provided, during business hours, would you like me to transfer you to our customer success team to assist further?
+[01:27] [Herb Chislett]: Yes, please.
+[01:29] [Emma]: Transferring you to our customer success team. Handoff initiated.
+[01:33] [ ... Silence (28s) ... ]
+[02:01] [Receptionist]: Thank you for calling Bey and Associates. How may I help you?
+[02:04] [Herb Chislett]: Yes, ma'am. I'm calling in regards to Darnell Williams and Ladonna Carter. Date of injury would have been 12/22.
+[02:16] [Receptionist]: And who would you like to speak to?
+[02:18] [Herb Chislett]: Uh, case manager would be fine.
+[02:23] [Receptionist]: Would you know their name? Just so I don't, um, give you to the wrong one.
+[02:27] [Herb Chislett]: No, I have— I have no idea.
+[02:33] [Receptionist]: Okay. And who are you with?
+[02:37] [Herb Chislett]: National General.
+[02:43] [Receptionist]: May I have your first and last name?
+[02:48] [Herb Chislett]: Herb, H-E-R-B as in boy. Last name is Chislett, C-H-I-S like Sam, L-E-T-T.
+[03:00] [Receptionist]: One moment.
+[03:03] [ ... Silence (81s) ... ]
+[04:24] [Receptionist]: Thank you for holding. Um, so the best person to speak to is away from the line, but I'd be more than happy to leave a message, um, with your phone number and request for them to call you back.
+[04:39] [Herb Chislett]: Okay, fantastic. Thank you so much.
+[04:42] [Receptionist]: Okay, and may I have your phone number?
+[04:44] [Herb Chislett]: 336-331-6674.
+[04:51] [Receptionist]: It was 336-331-6674?
+[04:56] [Herb Chislett]: Correct.
+[04:57] [Receptionist]: And then I have your first and last name spelled as H-E-R-B, C-H-I-S-L-E-T-T?
+[05:06] [Herb Chislett]: Yeah, good job. Yes.
+[05:08] [Receptionist]: You with National General?
+[05:11] [Herb Chislett]: Yes, ma'am.
+[05:12] [Receptionist]: And lastly, may I have your email?
+[05:17] [Herb Chislett]: Uh, generically, it'll be claims, C-L-A-I-M-S at ngic.com.
+[05:29] [Receptionist]: That was N-G-I-speed?
+[05:32] [Herb Chislett]: No, no. N like National, G like General, I like Insurance, C like Company dot com.
+[05:40] [Receptionist]: Oh, thank you. It was claims at ngic.com.
+[05:45] [Herb Chislett]: Yes, ma'am.
+[05:46] [Receptionist]: Okay, I'll send this message and request that call back. You have a great day.
+[05:53] [Herb Chislett]: Thank you, you too.
+[05:55] [Receptionist]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Kevin Davis / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (10s) ... ]
+[00:10] [Receptionist]: Bey and Associates, this is Lionel. How can I help you?
+[00:14] [Kevin Davis]: Yes, uh, my name is Kevin Davis. I'm calling about, uh, a case.
+[00:20] [Receptionist]: Okay, Mr. Davis. Let me see if I can find that for you. One moment.
+[00:25] [ ... Silence (18s) ... ]
+[00:43] [Receptionist]: Thank you for holding, Mr. Davis. I'm transferring you now.
+[00:47] [Kevin Davis]: Okay, thank you.
+[00:49] [ ... Silence (23s) ... ]
+[01:12] [Receptionist]: Bey and Associates, this is Lionel. How can I help you?
+[01:16] [Kevin Davis]: Yes, uh, my name is Kevin Davis. I'm calling about, uh, a case.
+[01:22] [Receptionist]: Okay, Mr. Davis. Let me see if I can find that for you. One moment.
+[01:27] [ ... Silence (18s) ... ]
+[01:45] [Receptionist]: Thank you for holding, Mr. Davis. I'm transferring you now.
+[01:49] [Kevin Davis]: Okay, thank you.
+[01:51] [ ... Silence (13s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

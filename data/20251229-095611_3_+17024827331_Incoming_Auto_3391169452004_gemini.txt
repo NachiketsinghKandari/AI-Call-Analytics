@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Rose White / Role: Caller from Neurospine: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Sa— how can I help you?
+[00:07] [Rose White]: Yes, hi, this is Rose White connecting on behalf of Neurospine. How are you doing today?
+[00:13] [Receptionist]: Yes, how can I help you?
+[00:16] [Rose White]: Okay, so just reaching out to get an update for some of the personal injury clients.
+[00:23] [Receptionist]: What is the name?
+[00:26] [Rose White]: The first patient's name is uh Veona, spelled as V-E-O-N-A, last name is Hickson, H-I-X-S-O-N. Veona Hickson.
+[00:42] [ ... Silence (7s) ... ]
+[00:48] [Receptionist]: What was the last name?
+[00:50] [Rose White]: Hickson, H-I-X-S-O-N.
+[00:57] [ ... Silence (16s) ... ]
+[01:12] [Receptionist]: So that case was settled already and closed.
+[01:16] [Rose White]: Settled already. If you could just provide me with the settlement date?
+[01:21] [Receptionist]: I don't have that.
+[01:24] [Rose White]: No worries. If you could just provide me with the case manager's email address so that way we would be reaching out for the lien negotiation because the case is settled.
+[01:34] [Receptionist]: So case manager is Linda. Her email is linda@beyandassociates.com.
+[01:43] [Rose White]: And everything is spelled out, right?
+[01:46] [Receptionist]: Mhm.
+[01:48] [Rose White]: Got it. Beyandassociates.com. The next one is Troy, T-R-O-Y, and the last name is Cleveland, C-L-E-V-E-L-A-N-D. Troy Cleveland.
+[02:06] [Receptionist]: We are working on the demand so far.
+[02:10] [Rose White]: Sorry, you're working on?
+[02:12] [Receptionist]: We are working on the demand so far.
+[02:17] [Rose White]: Working on the demand so far, got it. And the next one is Tobias, T-O-B-I-A-S, last name is Jackson. Tobias Jackson.
+[02:31] [Receptionist]: We are working on the reductions.
+[02:34] [Rose White]: Working on reductions, got it. And the next one is Tevin, T-E-V-I-N, last name is Williams.
+[02:47] [Receptionist]: Negotiations.
+[02:49] [Rose White]: In negotiations, got it. And the next one is—
+
+========================================
+TRANSCRIPT END
+========================================

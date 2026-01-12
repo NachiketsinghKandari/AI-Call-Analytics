@@ -1,0 +1,27 @@
+{
+  "caller_type": "law_office",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to a case manager regarding a file release. The staff member was unavailable, so the receptionist provided an email address for the caller to send the request to, which the caller accepted.",
+    "call_duration_seconds": 133.7,
+    "call_duration_formatted": "02:13"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to transfer the caller to the case manager, but then returned to the line to state the staff member was at lunch and provided an email address instead."
+  }
+}

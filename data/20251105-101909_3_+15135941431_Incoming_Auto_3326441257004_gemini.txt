@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 10 turns
+  • Speaker 2 / [Dr. Shane Tegencamp] / Role: Doctor: 10 turns
+
+----------------------------------------
+
+[00:06] [Receptionist]: Bain and Associates, this is Tasha, how may I help you?
+[00:09] [Dr. Shane Tegencamp]: Hi, my name is Dr. Shane Tegencamp. I'm calling on a Julie Downie on her personal injury case. I'm just trying to get a status of what's going on.
+[00:19] [Receptionist]: Okay, one moment sir, let me try to bring up Mrs. Julie's file for you.
+[00:24] [Dr. Shane Tegencamp]: Thank you.
+[00:25] [ ... Silence (11s) ... ]
+[00:37] [Receptionist]: Could you spell out Mrs. Julie's last name for me please?
+[00:40] [Dr. Shane Tegencamp]: D-O-W-N-I-E, Downie.
+[00:44] [ ... Silence (8s) ... ]
+[00:53] [Receptionist]: Could you please confirm Mrs. Downie's date of birth for me please, sir?
+[00:59] [Dr. Shane Tegencamp]: Hold on one second, let me pull it up for you. I don't have it in front of me. [ ... Silence (12s) ... ] Um, 7/20 of 2005.
+[01:22] [Receptionist]: All right, okay, perfect. Um, I have Mrs. Downie's file here. Um, I see that her case manager's name is Ms. Loni Pucci. And you're calling for an update, sir, is that correct?
+[01:35] [Dr. Shane Tegencamp]: Yeah, that's what I need.
+[01:37] [Receptionist]: Yeah, it's- case status is under pre-lit demand, but I can transfer you over to Mrs. Loni, she would be the best person to speak to regarding this case, sir.
+[01:47] [Dr. Shane Tegencamp]: Thank you.
+[01:48] [Receptionist]: I can also provide you her contact info if you'd like.
+[01:51] [Dr. Shane Tegencamp]: Yeah, my contact info is of course Dr. Tegencamp, 513-468-0061.
+[02:01] [Receptionist]: Thank you for that, sir. Um, but I can provide you Mrs. Loni's contact info if you'd like.
+[02:05] [Dr. Shane Tegencamp]: Okay. Go ahead, what- what would that be?
+[02:09] [Receptionist]: Contact number is 404-592-9370.
+[02:15] [Dr. Shane Tegencamp]: All right, thank you. Are you going to transfer me over or do I need to call?
+[02:19] [Receptionist]: Yes, sir, transferring now.
+[02:21] [Dr. Shane Tegencamp]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

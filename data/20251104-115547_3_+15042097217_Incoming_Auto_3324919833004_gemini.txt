@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Speaker 1] / Role: Automated Voice: 1 turn
+  • Speaker 2 / [Receptionist] / Role: Receptionist at Law Offices of Michael J. Redenburg: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: ...you. Press one to speak with an agent immediately and verify your Google listing.
+[00:05] [Receptionist]: Thank you for calling the Law Offices of Michael J. Redenburg. This is Michael. How can I help you?
+
+========================================
+TRANSCRIPT END
+========================================

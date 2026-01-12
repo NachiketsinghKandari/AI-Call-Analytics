@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Shannon Robinson / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Shannon Robinson]: Um, yes, may I speak with the case manager on my case?
+[00:09] [Receptionist]: Sure.
+[00:14] [Receptionist]: So, can I have your name?
+[00:16] [Shannon Robinson]: Shannon Robinson. S-H-A-N-N-O-N R-O-B-I-N-S-O-N.
+[00:23] [ ... Silence (10s) ... ]
+[00:33] [Receptionist]: Thank you, Shannon. May I have the date of loss?
+[00:38] [Shannon Robinson]: 9/22, I mean, yeah, 9/22/2022.
+[00:43] [ ... Silence (31s) ... ]
+[01:14] [Receptionist]: All right, let me see if the case manager is available. Please stay on the line.
+
+========================================
+TRANSCRIPT END
+========================================

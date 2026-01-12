@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 10 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo speaking from Bay and Associates. How may I help you?
+[00:09] [Speaker 2]: Yes, I called earlier to speak with Taylor Middleton, but uh she was on the phone at the time so I left a message and I hadn't talked to her in probably a month or so so I was just trying to give her an update and also get updated. But it's really hard getting a call back.
+[00:30] [Receptionist]: I totally understand. We do apologize for any inconvenience. Let me go ahead and take a look here into the system. Can you confirm for me what is your name please? Or what is the case name?
+[00:42] [Speaker 2]: The case- the case name is Nature, N-A-T-U-R-E, Williams. Nature Williams.
+[00:47] [Receptionist]: Thank you. Let's see. [ ... Silence (11s) ... ] Um, the estate of Nature Williams, I found it. So, uh may I know the reason why you wish to talk with Taylor Middleton, like since the case manager? Uh what do you want me to explain just for let her know?
+[01:19] [Speaker 2]: I need her to call me. I haven't spoke to her in weeks, you know, a month. I just need to get an update and I need to update her.
+[01:41] [Receptionist]: I totally understand. And are you representing this person or this- this case?
+[01:46] [Speaker 2]: This- this is my daughter. This is my daughter and she passed away last year.
+[01:52] [Receptionist]: That's what I see. I'm sorry to hear that. Let me go ahead and consult with her, okay? Thank you so much. Stay on the line.
+[01:58] [Speaker 2]: Mhm.
+[01:59] [ ... Silence (20s) ... ]
+[02:19] [Receptionist]: Hello?
+[02:21] [Speaker 2]: Yes.
+[02:23] [Receptionist]: Thank you so much for stay on the line. So I was making some investigations here, the reason why the case manager didn't answer, and it looks like that she's at this moment out of the office, alright? She's not in the office at this moment. But uh I did like an- a follow up and I do see that you called this morning.
+[02:43] [Speaker 2]: Right.
+[02:45] [Receptionist]: Oh, I mean I can see a note here into the system, uh you know, from the emails to her and everything, but it looks like that at this moment the case manager is not at the office. So I guess that by tomorrow, uh I'm going to leave the documentation here just to see if she can schedule a phone call, alright? In this case.
+[02:59] [Speaker 2]: Alright. Alright. I appreciate it. Have a good day.
+[03:03] [Receptionist]: Thank- thank you for understand. You as well. Anything else or that will be all?
+[03:07] [Speaker 2]: No, that was it. Thank you.
+[03:10] [Receptionist]: Alright. Alright. Have a nice day. Take care. Bye-bye.
+[03:14] [Speaker 2]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

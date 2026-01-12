@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bain and Associates: 6 turns
+  • Speaker 2 / [Renee]/ Role: Representative from Ika Orthopedics: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kimmy speaking.
+[00:03] [Renee]: Hi Kimmy, my name is Renee, I'm calling from Ika Orthopedics. I'm calling to follow up on a status for a patient. The patient last name is Elie, date of birth first or...
+[00:19] [Receptionist]: I'm sorry, I can barely hear you. You said Patricia?
+[00:24] [Renee]: No, I'm calling from Ika Orthopedics. I'm calling to follow up on the status for a patient.
+[00:30] [Receptionist]: And the patient's name? I- I thought you said Patricia.
+[00:34] [Renee]: Oh no, the um, the patient last name is Elie, E-L-I-E. And the first name is Tina and Bernard.
+[00:52] [Receptionist]: [Coughing] Okay, so they're in pre-litigation reduction right now.
+[01:00] [Renee]: Pre-litigation reduction. Okay.
+[01:03] [Receptionist]: And the case manager for that is going to be Payge Allman. Payge, P-A-Y-G-E.
+[01:10] [Renee]: I got- I have her email address. Um, Kimmy thank you so much, I can update those. Thank you, bye now.
+[01:15] [Receptionist]: You're welcome, bye.
+
+========================================
+TRANSCRIPT END
+========================================

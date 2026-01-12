@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karina / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Harold Wright / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Karina, how can I help you?
+[00:04] [Harold Wright]: Can I speak to, um, Mr. Dante or Mac?
+[00:09] [Receptionist]: Do you have a case with us, sir?
+[00:12] [Harold Wright]: Yes.
+[00:13] [Receptionist]: Can I have your name?
+[00:15] [Harold Wright]: Harold Wright.
+[00:17] [Receptionist]: Let me check if he's here.
+[00:19] [ ... Silence (6s) ... ]
+[00:25] [Receptionist]: All right, let me see if Dante's available. Keep in mind that due to the holiday season, they're not in the office, but let me check if he's in, okay? One moment.
+[00:34] [ ... Silence (5s) ... ]
+[00:39] [Receptionist]: Yes, thank you for holding. Yeah, Dante's not available. Would you like his voicemail?
+[00:43] [Harold Wright]: No, I'm good. I'm finna go up there. I appreciate it.
+
+========================================
+TRANSCRIPT END
+========================================

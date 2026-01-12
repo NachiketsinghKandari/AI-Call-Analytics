@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Tobias / Role: Caller from Progressive Claims: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking?
+[00:04] [Tobias]: Hey, it's Tobias, Progressive Claims. How are you?
+[00:08] [Receptionist]: I'm doing well, thank you for asking. How can I help you?
+[00:11] [Tobias]: Yes, I was calling to get a file update, treatment update, um, for a DeAndre Price.
+[00:23] [Receptionist]: Okay, one second, let me see who's handling that. Okay, Stephanie Peck. Let me get her for you.
+[00:31] [Tobias]: Thank you.
+[00:33] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

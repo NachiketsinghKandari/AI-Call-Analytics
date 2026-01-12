@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • SPEAKER 1: 10 turns, 00:40 total speech time
+  • SPEAKER 2: 7 turns, 00:18 total speech time
+
+----------------------------------------
+
+[00:03] SPEAKER 1: Bay and Associates Law Firm. Devin speaking.
+[00:06] SPEAKER 2: Yes. Is it possible for me to speak with John Bay, please?
+[00:13] SPEAKER 1: Mister Bay is not available in the office today, but I can get you over to his assistant.
+[00:19] SPEAKER 2: Yes. Well, he has does he is his assistant available?
+[00:24] SPEAKER 1: I think he is. Let me check if John is available. Yes, ma'am. Because he was in a meeting earlier today. Let me check.
+[00:36] SPEAKER 1: Okay?
+[00:37] SPEAKER 2: Okay. Thank you.
+[00:39] SPEAKER 1: You're welcome. Yes. Thank you so much for patiently holding. Seems like I'm only getting a voice mail. Looks like the meeting is still running long.
+[00:51] SPEAKER 1: Would you like to leave a message? Let
+[00:54] SPEAKER 2: me ask you this. Is everyone in a meeting today?
+[00:58] SPEAKER 1: Yes. There is a meeting happening right now except for the interview. Okay.
+[01:05] SPEAKER 2: So I guess I'll call back. Do you know if they'll be done today, or should I just call back tomorrow?
+[01:12] SPEAKER 1: I would definitely call back tomorrow, ma'am.
+[01:16] SPEAKER 2: Okay. Alright. Thank you so much.
+[01:19] SPEAKER 1: You're welcome.
+[01:22] SPEAKER 2: Bye for now.
+[01:24] SPEAKER 1: Bye bye.
+
+========================================
+TRANSCRIPT END
+========================================

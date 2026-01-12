@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Devon] / Role: [Receptionist at Steinger and Associates Law Firm]: 9 turns
+  • Speaker 2 / [Ronald Peterson] / Role: [Client]: 7 turns
+
+----------------------------------------
+
+[00:00] [Devon]: Steinger and Associates Law Firm, Devon speaking.
+[00:04] [Ronald Peterson]: Hey Devon, this is Ronald Peterson. I was trying to reach out to, um, my, uh, paralegal for my case.
+[00:14] [Devon]: Okay, uh, Mr. Peterson, let me pull up your file and get you connected. Let me take a look here.
+[00:21] [Ronald Peterson]: Okay.
+[00:23] [Devon]: Let's see here, that this is being handled by Dante, India... Okay, perfect.
+[00:36] [Devon]: Allow me just a second, let me connect you with someone. Okay?
+[00:41] [Ronald Peterson]: Thank you.
+[00:42] [Devon]: You're welcome, sir.
+[00:44] [Devon]: Mr. Peterson, thank you so much for patiently holding. I tried reaching out to Dante Thompson in regards to your case to provide you with an update. I know that they have been requesting medical records and making sure all the bills are up to date. Um, but Dante is not available at the moment. Seems like he is out of the office for the minute. So what I can do is I can reach out to the liti- the litigation team and have them reach out to you as quick as possible to provide you that update, okay?
+[01:19] [Ronald Peterson]: Yeah, uh, yeah, 'cause I wanted to confirm have they received, um, the medical records and everything. Okay, I'd appreciate that.
+[01:27] [Devon]: You're welcome, sir. I'll work on that right now to have someone reach out, okay?
+[01:32] [Ronald Peterson]: Okay, thank you.
+[01:34] [Devon]: You're welcome. Have a good day.
+[01:36] [Ronald Peterson]: You too, sir.
+[01:37] [Devon]: Goodbye.
+[01:38] [Ronald Peterson]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

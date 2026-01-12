@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist identified the assigned case manager and attorney, informed the caller of their unavailability, provided their email addresses, and committed to sending an email to both parties regarding the caller's settlement funds.",
+    "call_duration_seconds": 414.72,
+    "call_duration_formatted": "06:54"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist checked staff availability while the caller was on hold and then provided alternative contact information."
+  }
+}

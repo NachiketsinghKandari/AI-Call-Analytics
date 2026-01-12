@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 2 / Aaron / Role: Caller from South State Bank: 11 turns
+  • Speaker 3 / Michael Schriver / Role: Customer: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:07] [Aaron]: You said may I hold?
+[00:09] [Receptionist]: Oh, how may I help, like, what I can do for you?
+[00:12] [Aaron]: Oh, I'm sorry, I thought you said may I hold. Okay. Hi, my name is Aaron, I'm with South State Bank here in Smyrna, Georgia. Um, one of my customers is depositing one of your checks. I was wondering if you could just verify it for me?
+[00:23] [Receptionist]: Sure, I'm more than happy to assist you. Can I have please the client name?
+[00:29] [Aaron]: His name is Michael Schriver, S-C-H-R-I-V-E-R. And the check is actually dated 8/28. He said he's just been hanging onto it. It says actually 8/28/25.
+[00:44] [Receptionist]: One moment.
+
+[ ... Silence (29s) ... ]
+
+[01:15] [Receptionist]: Michael. Uh, can I have— do you have the date of loss of this incident, no?
+[01:23] [Aaron]: Uh, do you have— happen to have with you what your date of loss was on the incident? He's asking. Probably be on there.
+[01:31] [Michael Schriver]: Date of loss... I don't see it on here. He has the paperwork from your office. Let's see. I think it was June, uh, 25th.
+[01:47] [Aaron]: So June of 2025?
+[01:49] [Michael Schriver]: My birthday, the day after, maybe the 15th.
+[01:52] [Aaron]: He said maybe June 15th, 2025.
+[01:59] [Receptionist]: Yes, it was on June. Thank you. And for how much it is the check? What is the amount?
+[02:04] [Aaron]: So the check is 23, it's 23,594.01. And it's check number 38347. And I know with fraud and everything crazy, I just want to make sure you guys haven't changed account numbers, you know, the check's still good, all that good stuff.
+[02:22] [Receptionist]: Mhm. Yes, we totally understand because it is a good amount. I wish I have that for Christmas. Uh, let's see. 38347, Michael, Michael, yes. And for full name, thank you. Yes, it is fine. It is signed for our operation manager, which is Mark McCarran. So yes.
+[02:58] [Aaron]: Yes. That is what I'm looking at.
+[03:01] [Receptionist]: Yes, the check is— the check is through. Mhm. It is our check. It is in our file. Thank you for your— for your confirmation.
+[03:09] [Aaron]: Okay, thank you. Can you please tell me, um, your name?
+[03:13] [Receptionist]: Oh, yes. This is Angelo. Angelo from Bey and Associates. Yes.
+[03:20] [Aaron]: Okay. I appreciate you, Angelo. Thank you very much. All right, have a good day.
+[03:24] [Receptionist]: You're more than welcome. Have an excellent rest of your day. Yes.
+[03:27] [Aaron]: Thank you. You too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Edna Adams / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Edna Adams]: Hey there, this is Edna Adams calling with Macon-Bibb County. I was wondering if there was somebody that was going to be able to pick up your Mayor's Ball tickets from City Hall or I tried to go by the office yesterday to drop them off but there wasn't anybody there. Is there someone there now?
+[00:21] [Receptionist]: Hello?
+[00:23] [Edna Adams]: Yeah, can you hear me?
+[00:24] [Receptionist]: Bey and Associates, Kim speaking.
+[00:27] [Edna Adams]: Yes, can you hear me?
+[00:29] [Receptionist]: Hello?
+[00:31] [Edna Adams]: Can you hear me?
+[00:33] [Receptionist]: Hello?
+
+========================================
+TRANSCRIPT END
+========================================

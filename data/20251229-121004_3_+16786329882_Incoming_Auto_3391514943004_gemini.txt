@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Yolanda Thomas / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (3s) ... ]
+[00:03] [Receptionist]: Bey and Associates, this is Lionel.
+[00:05] [Yolanda Thomas]: Yes, this is Yolanda Thomas coming from Liberty Mutual, trying to reach Jonathan Steel.
+[00:11] [Receptionist]: They are out of the office until next week due to the holidays, ma'am.
+[00:17] [Yolanda Thomas]: Okay. All right, well I'll try to get in contact with them next week. Thank you.
+[00:22] [Receptionist]: All right, you're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

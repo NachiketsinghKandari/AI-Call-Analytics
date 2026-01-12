@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist: 7 turns
+  • Speaker 2 / [Roe] / Role: Representative from Georgia Spine and Orthopedics: 7 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (12s) ... ]
+[00:12] [Receptionist]: Hello?
+[00:13] [Roe]: Hi, this is Roe from Georgia Spine and Orthopedics. How are you today?
+[00:18] [Receptionist]: I'm doing great, ma'am. How about yourself?
+[00:20] [Roe]: Good. I'm calling in regards to Janetta Justice.
+[00:27] [Receptionist]: Um, just a second. Justice. [ ... Silence (22s) ... ] Okay, how can I assist you with this one?
+[00:51] [Roe]: I'm calling in regards to this patient to verify if the patient's liability has been established and accepted.
+[00:59] [Receptionist]: So, yes. It seems like liability has been accepted.
+[01:06] [Roe]: And you guys have the policy limits at this time?
+[01:12] [Receptionist]: The- the policy limits, um, verbally were 25/50.
+[01:17] [Roe]: No UM or MedPay?
+[01:19] [Receptionist]: No UM or MedPay.
+[01:24] [Roe]: Okay. Well, thank you so much. I highly appreciate it.
+[01:27] [Receptionist]: You're welcome. Have a great one.
+[01:29] [Roe]: You too. [ ... Silence (12s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

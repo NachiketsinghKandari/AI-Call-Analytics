@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Unknown / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Lionel, how can I help you today?
+[00:07] [Unknown]: Uh, is Dante available?
+[00:10] [Receptionist]: Who's calling?
+[00:13] [Unknown]: I'm so sorry, the phone's really muffled. I apologize.
+[00:17] [Receptionist]: Sorry, are you a client?
+[00:19] [Unknown]: Uh, we've been back and forth all morning. It's just important. I'm working— I'm working on him with a Harold Wright's case.
+[00:25] [Receptionist]: Yes. Uh, let me provide for you some information, so...
+[00:31] [Unknown]: I just really need to get in touch with him directly. It's very, like, time-sensitive.
+[00:36] [Receptionist]: Yes, let's see if Dante answers the phone. Hold on.
+[00:41] [Unknown]: All righty.
+[00:42] [Receptionist]: Thank you so much for staying on the line. It looks like that he didn't answer the phone so far. Would you like to take his direct line or would you like to leave him a voicemail?
+[00:52] [Unknown]: Uh, I can leave a voicemail and I'll send him an email too. I just— I'll try him back in a couple minutes because I just really need to get back in touch with him.
+[01:00] [Receptionist]: Yes, he didn't answer the phone, so let me pass you over to the voicemail, okay?
+[01:05] [Unknown]: All righty, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

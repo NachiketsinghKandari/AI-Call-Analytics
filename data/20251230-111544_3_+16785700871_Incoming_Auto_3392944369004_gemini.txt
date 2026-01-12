@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 17 turns
+  • Speaker 2 / Laura Cason / Role: Caller: 15 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:05] [Laura Cason]: Yes, my name is Laura Cason. Um, I was just calling to see if I could get— I don't know if I'm assigned to a case manager yet or not, but the doctor's office is asking for that.
+[00:18] [Receptionist]: All right, let's see here.
+[00:20] [ ... Silence (5s) ... ]
+[00:25] [Receptionist]: You said that your first name is Laura?
+[00:27] [Laura Cason]: Yes, sir. L-A-U-R-A. Last name is C-A-S-O-N.
+[00:38] [Receptionist]: Thank you. Yes, we have the case manager. Would you like me to give you this information or would you like me to talk with the people in the office?
+[00:49] [Laura Cason]: Yeah, um, you can give it to me because they're actually standing right here waiting on it, so I can just hand it straight to them.
+[00:57] [Receptionist]: All right, no issue at all. So your case manager name, it is Stephanie, the normal spelling. Yes, S-T-E-P-H-A-N-I-E. Stephanie.
+[01:10] [Laura Cason]: Okay.
+[01:11] [Receptionist]: And just in case, because they may— may ask, the email, it is Stephanie at B-E-Y-A-N-D-associates.com. So it would be Stephanie at Bey and Associates dot com.
+[01:31] [Laura Cason]: Stephanie at... spell that... Bey, B-E...
+[01:38] [Receptionist]: Bey, B-E-Y-A-N-D.
+[01:42] [Laura Cason]: A-M-B, M as in Michael?
+[01:45] [Receptionist]: N for Nancy, like N-associates.
+[01:49] [Laura Cason]: Okay. So B-E-Y-A-N...
+[01:52] [Receptionist]: D.
+[01:53] [Laura Cason]: D?
+[01:54] [Receptionist]: Yes, D for David, for duck, and then associates.
+[02:01] [Laura Cason]: Associates.
+[02:02] [Receptionist]: Associates with S, associates. Yes, sure. It will be A-S-S-O-C-I-A-T-E-S. Associates. By the name of the company, Bey and Associates.
+[02:21] [Laura Cason]: Okay. Stephanie at Bey and Associates.
+[02:28] [Receptionist]: Bey and Associates. The name for the company, the name for the law firm.
+[02:33] [Receptionist]: Okay. No worries. Anything else or that's all?
+[02:37] [Laura Cason]: Um, do I have a case number?
+[02:41] [Receptionist]: No. We don't look up for the case— we don't— only with the name we look up.
+[02:48] [Laura Cason]: Okay. All right then. Thank you so much.
+[02:52] [Receptionist]: No issue at all. Something else or that's all?
+[02:55] [Laura Cason]: That's all. Thank you.
+[02:57] [Receptionist]: All right. Have a good one and happy New Year. Hope you get better.
+[03:01] [Laura Cason]: Thank you, sir. I appreciate it. Happy New Year.
+[03:05] [Receptionist]: Bye-bye.
+[03:06] [Laura Cason]: Bye-bye. Okay, I hope I heard it.
+
+========================================
+TRANSCRIPT END
+========================================

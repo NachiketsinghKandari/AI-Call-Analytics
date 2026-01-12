@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with Attorney Middleton to return a call. The receptionist checked availability and determined the attorney was unavailable. The receptionist offered to send an email to the attorney for a callback, but the caller declined the assistance, stating they would send the email themselves.",
+    "call_duration_seconds": 79.34,
+    "call_duration_formatted": "01:19"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to check the availability of a specific attorney but reported they were unavailable."
+  }
+}

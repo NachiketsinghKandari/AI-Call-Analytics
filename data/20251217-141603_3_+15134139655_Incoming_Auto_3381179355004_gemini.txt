@@ -1,0 +1,133 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Danyelle / Role: Receptionist at Bey and Associates: 56 turns
+  • Speaker 2 / Tameron Grant / Role: Caller: 51 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Danyelle, how can I help you today?
+[00:06] [Tameron Grant]: Hi, my name is Tameron Grant. Um, I have called you earlier in the past, um, earlier this year for a personal injury that I had experienced at work. And, um, you guys had referred me to NRS, which they have been handling my workers' comp case. But I just, um, got involved in an, uh, car accident on Friday the 12th. And they told me to give you guys a call since you were like the ones that referred me to them.
+[00:39] [Receptionist]: Um, was this related to work also?
+[00:43] [Tameron Grant]: No.
+[00:45] [Receptionist]: And you, you weren't the one placed at fault, right?
+[00:50] [Tameron Grant]: No, I wasn't.
+[00:52] [Receptionist]: Okay, perfect. Uh, well, we can go ahead and complete the intake and then I can have you, get you signed up with us. Is that okay?
+[01:02] [Tameron Grant]: That's fine.
+[01:04] [Receptionist]: All right.
+[01:05] [ ... Silence (7s) ... ]
+[01:12] [Receptionist]: Can I have your name again?
+[01:15] [Tameron Grant]: Tameron. T-A-M-E-R-O-N G-R-A-N-T.
+[01:27] [Receptionist]: T, T right? For Tom?
+[01:30] [Tameron Grant]: Yes.
+[01:32] [Receptionist]: Data, I mean, the address?
+[01:35] [Tameron Grant]: 2064 Quail Court, Apartment 8, Cincinnati, Ohio, 45240.
+[01:46] [Receptionist]: Okay, perfect. And then a good phone number to get a hold of you?
+[01:51] [Tameron Grant]: 513-413-9655.
+[01:58] [Receptionist]: Thank you.
+[01:59] [ ... Silence (10s) ... ]
+[02:09] [Receptionist]: Okay, and you have the same email address, tamrongrant@gmail.com?
+[02:18] [Tameron Grant]: Yes, ma'am.
+[02:21] [Receptionist]: All right. And what would be a, um, your date of birth?
+[02:29] [Tameron Grant]: 4/9/74.
+[02:32] [ ... Silence (25s) ... ]
+[02:57] [Receptionist]: Could you tell me what happened?
+[03:01] [Tameron Grant]: Um, I was sitting at, I was stopped in the road and I got hit from behind.
+[03:15] [Receptionist]: You, were you at a stop, like at a stoplight or maybe a stop sign?
+[03:22] [Tameron Grant]: No, I wasn't at a stop sign or a stoplight. I was stopped behind a vehicle that was in front of me.
+[03:29] [Receptionist]: Okay.
+[03:30] [ ... Silence (17s) ... ]
+[03:47] [Receptionist]: And then you were rear-ended, right?
+[03:51] [Tameron Grant]: Yes.
+[03:53] [ ... Silence (14s) ... ]
+[04:07] [Receptionist]: Have you consulted with any other attorneys besides NRS?
+[04:12] [Tameron Grant]: No.
+[04:14] [ ... Silence (8s) ... ]
+[04:22] [Receptionist]: What is your marital status?
+[04:25] [Tameron Grant]: Single.
+[04:26] [Receptionist]: What was the time of the incident?
+[04:29] [Tameron Grant]: Around 12:00.
+[04:32] [Receptionist]: PM?
+[04:34] [Tameron Grant]: Yes.
+[04:35] [Receptionist]: Location where it happened?
+[04:38] [Tameron Grant]: Uh, it was on Kemper Road.
+[04:42] [Receptionist]: Kemper? Kemper?
+[04:44] [Tameron Grant]: Yes.
+[04:45] [Receptionist]: Kemper Road. Okay, what police showed up?
+[04:51] [Tameron Grant]: Sharonville.
+[04:54] [Receptionist]: Sharonville? Sharonville? Could you spell that for me?
+[05:03] [Tameron Grant]: S-H-A-R-O-N-V-I-L-L-E.
+[05:09] [Receptionist]: Okay. All right. Any citations issued?
+[05:14] [Tameron Grant]: To the, uh, person that hit me.
+[05:19] [Receptionist]: Were you transported in an ambulance?
+[05:21] [Tameron Grant]: Yes.
+[05:23] [Receptionist]: Do you know what ambulance?
+[05:25] [Tameron Grant]: Um, I want to say it's the Sharonville EMT.
+[05:36] [Receptionist]: Okay. And what hospital did they take you to?
+[05:43] [Tameron Grant]: TriHealth Bethesda North.
+[05:46] [ ... Silence (15s) ... ]
+[06:01] [Receptionist]: Did they do any X-rays or scans?
+[06:03] [Tameron Grant]: Yes.
+[06:05] [ ... Silence (6s) ... ]
+[06:11] [Receptionist]: Are you already scheduled for any follow-up treatment or with a chiropractor, or would you like us to go ahead and refer you to one?
+[06:18] [Tameron Grant]: Well, I already, I see Dr. Daniel Buchanan, but he's like handling, uh, my workers' comp part. Is it, I can stick with him?
+[06:33] [Receptionist]: Yes, um, yes you can. Okay, I'm ready for that case number.
+[06:41] [Tameron Grant]: Case number?
+[06:43] [Receptionist]: Mm-hmm.
+[06:44] [ ... Silence (11s) ... ]
+[06:55] [Tameron Grant]: Just a moment. I'm doing it. I gotta look it up real quick. Case number's 25-2886. That's the, uh, police report.
+[07:09] [Receptionist]: Okay. 25-2886, right?
+[07:13] [Tameron Grant]: Yes.
+[07:14] [Receptionist]: Do you know anything about the other driver? Maybe name, insurance?
+[07:17] [Tameron Grant]: Um, everything is all on the police report.
+[07:24] [Receptionist]: Okay. What is your insurance and did you file a claim with them?
+[07:29] [Tameron Grant]: My insurance is Progressive and yes.
+[07:34] [Receptionist]: All right. Do you have any pictures of the damages?
+[07:43] [Tameron Grant]: Yes.
+[07:45] [Receptionist]: Was your car towed?
+[07:47] [Tameron Grant]: No.
+[07:49] [Receptionist]: It was still drivable?
+[07:51] [Tameron Grant]: Yes.
+[07:53] [Receptionist]: What are the injuries or pain complaints that you, um, sustained?
+[08:01] [Tameron Grant]: Uh, my neck is a little sore and then now I'm having like headaches.
+[08:11] [Receptionist]: Anything else?
+[08:14] [Tameron Grant]: No.
+[08:16] [Receptionist]: Okay.
+[08:17] [ ... Silence (7s) ... ]
+[08:24] [Receptionist]: And are you employed, losing wages due to this accident?
+[08:31] [Tameron Grant]: No.
+[08:33] [Receptionist]: Not losing wages?
+[08:36] [Tameron Grant]: No.
+[08:38] [Receptionist]: Okay. What are some things that you do that you're experiencing the neck pain, like maybe turning your head?
+[08:46] [Tameron Grant]: Yeah, when I turn my head, if I lay a certain way.
+[08:53] [Receptionist]: Okay. Have you ever filed for bankruptcy?
+[08:57] [Tameron Grant]: No.
+[08:59] [Receptionist]: Do you receive Medicaid or Medicare?
+[09:02] [Tameron Grant]: Yes.
+[09:04] [Receptionist]: Which one?
+[09:06] [Tameron Grant]: Uh, I think it's Medicare.
+[09:09] [Receptionist]: Medicare. All right, we are all done here. Um, so what I'll, what I'll do now, uh, Mr. Grant, I'll go ahead and send you over the contract and HIPAA. Once you sign it, it's a DocuSign, so it'll return back to me, let me know that you have signed. And then I'll assign a case manager, her name would be Ms. Loni Pucci. She's going to reach out to you, she's going to go over this information and then, uh, she's going to be your main point of contact, you know, uh, seeing how treatment is going, letting you know how your case is going. And then the attorney that works with her, um, his name is Mr. Kadeem Gibson. So he'll be, um, both of them will be working on your case, updating you, and then I'll be in the background adding info to the file.
+[10:16] [Tameron Grant]: Okay.
+[10:18] [Receptionist]: Okay. If you have any questions either day and you can't get a hold of Loni, I'll be glad to go ahead and assist you with anything that I can.
+[10:29] [Tameron Grant]: Okay.
+[10:30] [Receptionist]: All right, let me send that now. So it should come as a text message with a link.
+[10:38] [Tameron Grant]: Okay.
+[10:40] [ ... Silence (7s) ... ]
+[10:47] [Receptionist]: Sign time?
+[10:49] [Tameron Grant]: Yes, ma'am.
+[10:50] [Receptionist]: Okay. So NRS just let us know also that, um, they were referring you back to us. They did add someone else to call you, so I'll just let them know that I already completed your intake.
+[11:06] [Tameron Grant]: Okay.
+[11:08] [ ... Silence (9s) ... ]
+[11:17] [Receptionist]: Okay, perfect. I'll send you an additional text message with a few things that I'm going to need from you, um, Mr. Grant. Uh, so this one is a text only, a text-only number. So you can reply back with any pictures of the damages, anything that you have pertaining the day of the accident, any documents, you could just snap a picture and, and reply to that number. I'm going to need a photo ID also. It's just a list of, um, things that I'm going to need. If you, um, if you don't have something on hand, you just, uh, skip to the next, to the next thing.
+[12:00] [Tameron Grant]: Okay.
+[12:01] [Receptionist]: All right, perfect then. Um, we look forward to working with you and if you, like I said, if you have any questions or concerns, I can gladly go ahead and answer them for you. My info will be below the text message, direct number and email, so you can go ahead and text me or call me or email me. I'll be glad to help you.
+[12:28] [Tameron Grant]: Okay.
+[12:31] [Receptionist]: All right, perfect. Thank you so much, Mr. Grant. You have a great rest of your day.
+[12:35] [Tameron Grant]: Thanks, you too.
+[12:36] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

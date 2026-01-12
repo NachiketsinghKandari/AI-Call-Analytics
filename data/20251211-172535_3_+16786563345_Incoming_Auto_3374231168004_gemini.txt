@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Eugene Smith / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm. My name is Fatima, how may I assist you?
+[00:09] [Eugene Smith]: Uh, I'm uh, I'd like to speak to uh, the attorney.
+[00:13] [ ... Silence (5s) ... ]
+[00:18] [Receptionist]: Um, may I please ask who's calling and do you know to which attorney?
+[00:24] [Eugene Smith]: Uh, I can't remember his name, but uh, Eugene Smith is calling.
+[00:30] [Receptionist]: Mr. Smith. Thank you. Allow me just one moment, Mr. Smith.
+[00:34] [ ... Silence (5s) ... ]
+[00:39] [Receptionist]: So I have here that your attorney is Mr. Jonathan Steel, your case manager Miss Victoria Morales. But they already left for the day. They work until five.
+[00:54] [Eugene Smith]: Okay. Can I call back tomorrow?
+[00:57] [Receptionist]: Yeah. Would you like to leave a message for him on his voicemail? Yeah, but would you like to leave a message for him on his voicemail?
+[01:03] [Eugene Smith]: Yes. Yes, I would.
+[01:06] [Receptionist]: Uh, absolutely. Allow me one moment, please. I'll transfer you directly.
+[01:11] [Eugene Smith]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

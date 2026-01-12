@@ -1,0 +1,47 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Angelo] / Role: [Receptionist] at B and S Associate: 13 turns
+  • Speaker 2 / Role: Caller from MRI Imaging Specialists: 13 turns
+
+----------------------------------------
+
+[00:04] [Angelo]: Hi, this is Angelo speaking from B and S Associate. How may I help you?
+[00:10] [Speaker 2]: Hi, yes. Uh, we received an order here for a patient named Kyle O'Reilly and was just calling to confirm if you guys represent this patient.
+[00:19] [Angelo]: Okay, the name is Kyle O'Reilly. Let's see.
+[00:23] [Speaker 2]: K-Y-L-E.
+[00:26] [Angelo]: How do you spell the last name?
+[00:30] [Speaker 2]: O-R-E-I-L-L-Y.
+[00:33] [Angelo]: Hello?
+[00:35] [Speaker 2]: Yes, I'm here.
+[00:36] [Angelo]: Yes, I found... Hmm, can I have the date of birth you have?
+[00:41] [Speaker 2]: Uh, let's see. I have here 10/23.
+[00:44] [Angelo]: Yes, we represent this client. So what do you want me to check on this?
+[00:49] [Speaker 2]: Uh, to see who is the case manager on this one.
+[00:52] [Angelo]: The case manager... but sorry, you are calling from who? Just to make sure.
+[00:59] [Speaker 2]: MRI Imaging Specialists.
+[01:02] [Angelo]: Thank you for confirming that. Yes. The name- the name for the case manager, it is Victoria Morales. Would you like me to spell it?
+[01:14] [Speaker 2]: Uh, you said Victoria?
+[01:17] [Angelo]: Yes, Victoria Morales. Yes.
+[01:20] [Speaker 2]: Okay, perfect. Uh, the only thing that I will be needing is just the, um, email address.
+[01:24] [Angelo]: The email address from Victoria? Okay, sure. Ready?
+[01:28] [Speaker 2]: I'm ready.
+[01:30] [Angelo]: One minute. Uh, Victoria Morales... Okay, so the email is victoria@bayandassociates.com. Associates with an S at the end.
+[01:52] [Speaker 2]: Okay, perfect. Uh, and by any chance is she available at the moment?
+[01:58] [Angelo]: Hmm, let's see if she is available. While I'm checking if she's available, I'm going to put you on a hold, okay? Stay on the line.
+[02:07] [Speaker 2]: Okay.
+[02:08] [ ... Silence (6s) ... ]
+[02:15] [Angelo]: Thank you for staying on the line. So it looks like that she is not available at this moment. Would you like to leave her like in a voice message and she can call you back?
+[02:24] [Speaker 2]: Uh, that's fine. I'll go ahead and send her an email with the lien and the- and the lien will be attached the date and time of their appointment.
+[02:33] [Angelo]: Thank you so much. Yes, very much so. Yes. If you have any other questions, you can give us a call back. Thank you so much.
+[02:37] [Speaker 2]: Okay. Thank you. And I'm sorry, I didn't catch it. What was your name one more time?
+[02:41] [Angelo]: Yes, my name is Angelo.
+[02:44] [Speaker 2]: Angelo. Okay. Thank you, Angelo, and you just have a great day.
+[02:48] [Angelo]: You as well. Take care. Bye-bye.
+[02:51] [Speaker 2]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

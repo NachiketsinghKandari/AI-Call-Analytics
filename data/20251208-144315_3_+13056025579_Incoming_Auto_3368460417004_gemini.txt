@@ -1,0 +1,38 @@
+thought
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Yasmir / Role: Caller from EMS Ventures: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. My name is Jesse. How can I assist you?
+[00:07] [Yasmir]: Hello, good morning, sir. This is Yasmir from EMS Ventures. Um, I'm trying to get a little bit information about one of your clients. Are you able to help me with that, sir?
+[00:18] [Receptionist]: Uh, yes, sir. What is the name of the client?
+[00:21] [Yasmir]: Yes, let me confirm. Is the first name would be Micah. Oh, just let me spell it. It would be M-I-C-A-H.
+[00:36] [Receptionist]: Micah. Got it.
+[00:37] [Yasmir]: And the last name, Tilton. T-I-L-T-O-N. Yes.
+[00:43] [Receptionist]: Understood. And you said you're calling from where? Sorry.
+[00:47] [Yasmir]: Yes, from EMS Ventures.
+[00:50] [Receptionist]: EMS Ventures. Got it. All right, perfect. Give me one moment.
+[00:55] [ ... Silence (12s) ... ]
+[01:07] [Receptionist]: What is your name, sir?
+[01:09] [Yasmir]: My name is Yasmir with Y. Yasmir.
+[01:13] [Receptionist]: Yasmir. Perfect. Give me one moment. There is a case manager assigned. Um, do you allow me to place you on a brief hold for one minute? Let me try to reach out to her.
+[01:25] [Yasmir]: Oh, sure. Thank you very much.
+[01:27] [Receptionist]: Okay. Thank you so much for holding, sir.
+[01:34] [Yasmir]: Oh, yes.
+[01:35] [Receptionist]: Let me tell you. So, the case manager is not available at the moment. So this is what I can do on my end. If you like, I can transfer you over to her voicemail so you can leave one, and I'm also going to send her an email so that she can get back to you as soon as possible. Is that okay?
+[01:51] [Yasmir]: Oh, yes. No worries. I'm going to give the voicemail without a problem.
+[01:57] [Receptionist]: Understood. Do you have a direct line where they can contact you, sir?
+[02:01] [Yasmir]: Oh, yes. Would be the same number. Um, 305-602-5579.
+[02:12] [Receptionist]: 5579. Perfect. Excellent. All right. Let me transfer you over to her voicemail, and I'm going to send her the email right away, sir. All right?
+[02:21] [Yasmir]: Okay. Thank you very much.
+[02:23] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Knasos Law Firm: 6 turns
+  • Speaker 2 / Malik / Role: Representative at Hurt 911 Injury Centers: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Knasos Law Firm, my name is Fatima, how may I assist you today?
+[00:07] [Malik]: Hello, this is Malik calling from Hurt 911 Injury Centers, um, calling about a mutual client of ours, his last name is McHaney, and first name is Dario.
+[00:17] [Receptionist]: Can you please spell that for me? Like D-A-R-I-O, Dario?
+[00:23] [Malik]: Yes, um, okay, and it's, yeah, his last name is spelled M-C-H-A-N-E-Y.
+[00:33] [Receptionist]: Thank you. Bear with me while I search the client's file.
+[00:38] [Malik]: Mhm.
+[00:42] [Receptionist]: Date of loss was on the first of October?
+[00:46] [Malik]: Correct.
+[00:47] [Receptionist]: All right, the status of this account is currently treating.
+[00:53] [Malik]: Yes, so we, he's treating here for chiropractic therapy and the problem is, um, we tried to contact him multiple times to get his next appointment and we've been unsuccessful, so we wanted to know if you guys had any luck contacting him, contacting the patient.
+[01:07] [Receptionist]: Oh, let me, yeah, let me get in contact with the case manager and see if she has contacted him. Allow me one moment.
+[01:16] [Malik]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

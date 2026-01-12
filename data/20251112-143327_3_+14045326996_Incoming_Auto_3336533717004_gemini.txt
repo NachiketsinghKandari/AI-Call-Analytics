@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Sarah / Role: Receptionist at Law Offices of Michael J. Green: 3 turns
+  • Speaker 2 / David Miller / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling the Law Offices of Michael J. Green. This is Sarah speaking. How can I help you today?
+
+[00:04] [David Miller]: Hi, Sarah. Uh, my name is David Miller. I'm, uh, I'm calling because I- I need some legal advice regarding a, uh, a car accident I was in last week.
+
+[00:12] [Receptionist]: I'm sorry to hear that, Mr. Miller. Um, let me see if I can, uh, get you through to one of our attorneys. Could you, uh, could you hold for just a moment?
+
+[00:18] [David Miller]: Yeah, sure. No problem.
+
+[00:20] [ ... Silence (8s) ... ]
+
+[00:28] [Receptionist]: Thank you for holding. I'm transferring you now.
+
+========================================
+TRANSCRIPT END
+========================================

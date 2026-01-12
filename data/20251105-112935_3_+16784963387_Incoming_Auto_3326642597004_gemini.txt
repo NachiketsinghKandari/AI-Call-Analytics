@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist]: Candy / Role: Receptionist at Bae and Associates: 8 turns
+  • [Renee]: Renee / Role: Caller from ICOR Orthopedics: 7 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bae and Associates, Candy speaking.
+[00:05] [Renee]: Good morning Candy. Candy, my name is Renee. I'm calling from ICOR Orthopedics. Candy, I'm calling to follow up and see who's the case manager or attorney for a patient. Can you assist me?
+[00:17] [Receptionist]: Yes ma'am, can I have the client's name?
+[00:21] [Renee]: Client's first name is Kennedy, K-E-N-N-E-D-Y. And the last name is, I'm gonna spell it. It's A as in Alpha, C as in Charlie, H, E as in Echo, A as in Alpha, M as in Mary, P as in Peter, O, N as in Nancy, G as in George.
+[00:43] [Receptionist]: Yes ma'am, um, we do represent them. The, the attorney is Jonathan Steele and then the, uh, case manager is Victoria Morales.
+[00:55] [Renee]: Case manager is Victoria, V-I-C-T-O-R-I-A, M-O-R-A-L-E-S. Victoria? V-I... Okay. Okay. And her, um, let me just get her, um, I do have her email address as victoria@baeandassociates.com?
+[01:12] [Receptionist]: Yes ma'am, that is correct. She's the case manager.
+[01:17] [Renee]: And, um, the attorney was Jonathan Steele?
+[01:18] [Receptionist]: Yes ma'am.
+[01:23] [Renee]: Is that J-O-N-A-T-H-A-N S-T-E-E-L?
+[01:31] [Receptionist]: T-I... S-T-E-E-L-E.
+[01:38] [Renee]: L-E. Okay. All right. Um, is there any way that you can pass me over to either one of them, Victoria or, in regards to, in regards to MedPay?
+[01:50] [Receptionist]: Okay. I'll send you over.
+[01:53] [Renee]: Thank you.
+[01:55] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

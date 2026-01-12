@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / San-Angelo / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Megan / Role: Caller from Progressive: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is San-Angelo speaking, how may I help?
+[00:07] [Megan]: Hi, this is Megan from Progressive. I was calling in regards to Arturo Alexander.
+[00:12] [Receptionist]: One moment.
+[00:13] [ ... Silence (13s) ... ]
+[00:26] [Receptionist]: And can I have the date of loss?
+[00:29] [Megan]: November 19th, 2021.
+[00:33] [Receptionist]: And how may I help you?
+[00:35] [Megan]: I was calling for the injury and treatment details.
+[00:38] [Receptionist]: Injury and treatment. Let's see if the case manager is available, please hold.
+[00:44] [Megan]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

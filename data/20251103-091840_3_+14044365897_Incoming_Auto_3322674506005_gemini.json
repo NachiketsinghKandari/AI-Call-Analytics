@@ -1,0 +1,27 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to his assigned case manager. After the transfer failed due to staff unavailability, the receptionist provided the case manager's direct contact number and took a message for a callback.",
+    "call_duration_seconds": 122.83,
+    "call_duration_formatted": "02:02"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to transfer the caller to the assigned case manager, but the staff member was away from his desk. The receptionist then offered to take a message."
+  }
+}

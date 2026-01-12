@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bay and Associates: 8 turns
+  • Speaker 2 / Andrew Smith / Role: Client: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bay and Associates, Kim speaking?
+[00:05] [Andrew Smith]: Yes, my name is Andrew Smith. I am a client of Donovan Potter, I believe is, uh, associated with this law firm.
+[00:18] [Receptionist]: You... okay. You are a client with us or with Donovan Porter?
+[00:25] [Andrew Smith]: Donovan Porter. But this is the John Bay law firm, isn't it?
+[00:31] [Receptionist]: Yes sir, it is. How can I help?
+[00:34] [Andrew Smith]: Well, I'm just calling because I've reached out to him, oh, it's been a month or more ago and, uh, he said that someone would probably reach out to me from this office just to give me somewhat of an idea of where they were or where they are with my, with my, uh, case. And, um, I haven't received a call from this office and I'm just wondering if I can get some kind of information, at least, uh, letting me know where they are, you know, at what juncture they are in, and, and getting the, pulling the information together for my lawsuit.
+[01:16] [Receptionist]: Okay. Uh, you said Andrew Smith, right?
+[01:22] [Andrew Smith]: Yes.
+[01:24] [Receptionist]: Okay. And the, the case is under your name?
+[01:30] [Andrew Smith]: Yes it is.
+[01:32] [Receptionist]: [ ... Silence (11s) ... ] Okay. Um, unfortunately I don't find you in our system, Mr. Smith. Let me see if I could get our, uh, my supervisor, maybe he can find your file.
+[01:52] [Andrew Smith]: I appreciate that.
+[01:55] [Receptionist]: You're welcome. So, you're signed up with us, with Bay and Associates law firm?
+[02:01] [Andrew Smith]: Yes, well, I signed up with Donovan Potter. He informed me that, that Bay and Associates would be handling the Cincinnati end of this, or would be helping with it anyway. Donovan's out of Atlanta.
+[02:20] [Receptionist]: Okay. All right, one second then.
+
+========================================
+TRANSCRIPT END
+========================================

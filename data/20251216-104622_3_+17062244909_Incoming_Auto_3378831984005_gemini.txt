@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Unknown / Role: Caller from Gordon Reese: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: (Unintelligible)
+[00:06] [Unknown]: Uh, I'm sorry you're breaking up, but could I speak with either Jonathan Steel or Matt McKaren?
+[00:14] [Receptionist]: You are calling from where?
+[00:17] [Unknown]: Gordon Reese.
+[00:20] [ ... Silence (7s) ... ]
+[00:27] [Receptionist]: Um, are you calling about a particular case?
+[00:30] [Unknown]: Yes I am.
+[00:32] [Receptionist]: Okay, what is the name of the case?
+[00:34] [Unknown]: Uh, Bey and Associates client is Samantha Pauling, P-A-U-L-I-N-G.
+[00:44] [ ... Silence (29s) ... ]
+[01:13] [Receptionist]: Um, are you looking for the case manager?
+[01:16] [Unknown]: No, I'm trying to reach opposing counsel, Jonathan Steel. But, but I will also be happy to speak with his legal assistant, Matt McKaren.
+[01:29] [Receptionist]: No, Matt is not his legal assistant, and that's the reason why I'm asking. Well let me verify if he's available, one moment.
+[01:37] [Unknown]: Thank you.
+[01:38] [Receptionist]: Thank you so much for holding, um, he's not available, would you want to leave a voicemail?
+[01:53] [Unknown]: Uh, yeah, sure, that's— yes, that's fine.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Laura / Role: Representative at Progressive Insurance: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:06] [Laura]: Yes, hi. This is Laura with Progressive Insurance. I'm trying to reach Michael. I'm not sure of his last name. I don't know how many—how many Michaels you have there.
+[00:12] [Receptionist]: So... Michael Soul. He's the only one.
+[00:17] [Laura]: Okay, good.
+[00:22] [Receptionist]: Okay, so I'll go ahead...
+[00:24] [Laura]: Wait, actually, you know what, actually, do you have his email address? Because that's all I'm looking for.
+[00:28] [Receptionist]: Yeah, it's michael at bay, B-E-Y, and, A-N-D, associates with an S dot com. So michael at bay and associates dot com.
+[00:43] [Laura]: Okay, and he spells his first name M-I-C-H-A-E-L? Traditional?
+[00:48] [Receptionist]: Yes, ma'am.
+[00:51] [Laura]: All right, that's all I needed. I appreciate it. Thank you very much.
+[00:54] [Receptionist]: You're welcome. You have a great rest of your day.
+[00:56] [Laura]: You too, the same. Bye-bye.
+[00:58] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

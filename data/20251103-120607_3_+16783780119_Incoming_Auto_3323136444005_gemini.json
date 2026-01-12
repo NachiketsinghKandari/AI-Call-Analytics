@@ -1,0 +1,27 @@
+{
+  "caller_type": "family_member",
+  "call_summary": {
+    "primary_intent": "document_and_evidence_submission",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to the case manager, but she was unavailable. The receptionist then collected insurance claim details, adjuster contact information, and notes regarding a police report, promising that the case manager would follow up.",
+    "call_duration_seconds": 401.83,
+    "call_duration_formatted": "06:41"
+  },
+  "transfer_context": {
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to connect the caller to the case manager, Paige, but informed the caller she was currently on the phone with another client."
+  }
+}

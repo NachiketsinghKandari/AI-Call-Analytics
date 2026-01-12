@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse Gonzalez / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Angelina / Role: Caller from Progressive Insurance: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, my name is Jesse, how can I assist you?
+[00:06] [Angelina]: Hi, my name is Angelina, I'm calling from Progressive Insurance regarding your client Arturo Alexander.
+[00:14] [Receptionist]: Yes, give me one moment.
+[00:18] [ ... Silence (5s) ... ]
+[00:23] [Receptionist]: All right, um, there is a case manager assigned to this file, ma'am. Um, do you allow me to place you on a brief hold for one minute? Let me see if she's available.
+[00:32] [Angelina]: Yeah, that's fine.
+[00:33] [Receptionist]: Thank you. Thank you so much for holding, ma'am.
+[00:41] [Angelina]: Mhm.
+[00:42] [Receptionist]: Let me tell you, so, the case manager, he's not available at the moment, but this is what I can do. I can transfer you over to his voicemail so you can leave one, and I'm also going to send him an email so he can get back to you as soon as possible. Is that okay?
+[00:53] [Angelina]: Uh, that's okay. Is there a Jesse Gonzalez that's available? She had just— I guess I don't know if it's a she— uh, they had just emailed me a moment ago regarding coverage and liability, and I wanted to make sure they had the right person's contact information.
+[01:13] [Receptionist]: Understood. Uh, yes, I can help you with this. Jesse Gonzalez is actually me, ma'am. So, um—
+[01:19] [Angelina]: Oh, gotcha! My apologies, I just had confusion.
+[01:22] [Receptionist]: No, no worries, no worries at all. I was actually trying to reach out to the other adjuster, her name is Megan.
+[01:27] [Angelina]: Mhm. Yes, um, I'm not able to provide her email directly. Uh, that is the assigned bodily injury adjuster, so that's who's going to be sending policy documents. Um, but part— I handle coverage and liability. Um, that is still pending at this time.
+[01:43] [Receptionist]: Understood, understood. Perfect. So, um, what information are you going to provide me, ma'am? I'm going to write it down here on the file.
+[01:52] [Angelina]: Uh, so your email was looking for policy documents and status of coverage and liability. The policy documents are coming from the bodily injury adjuster, and I just wanted to let y'all know that at this time coverage and liability are pending.
+[02:07] [Receptionist]: Oh, got it, got it. Are still pending. Excellent. That's actually what I needed to know. Um, excellent. So I'm going to notify the case manager that coverage and liability are still pending. I'm going to let him know that I spoke with you, ma'am, and we're just going to wait on the documents, all right?
+[02:22] [Angelina]: Perfect. And I'll let, um, Megan know, um, that you guys are still looking for those.
+[02:27] [Receptionist]: Ah, yes, please. So she is the adjuster assigned, right?
+[02:33] [Angelina]: Uh, yes. So there's two adjusters assigned to this claim: me and Megan. Megan is handling bodily injury only. Um, I am handling coverage and liability and property damage.
+[02:42] [Receptionist]: Got it, got it. Understood, understood. Perfect. Excellent. All right. So then I'll be waiting for that information, ma'am, and I'll make sure to notify the case manager about this.
+[02:51] [Angelina]: Hey, awesome! Well, thank you so much for your time. I hope you have a great day.
+[02:55] [Receptionist]: Thank you. You too. Goodbye, ma'am.
+[02:58] [Angelina]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

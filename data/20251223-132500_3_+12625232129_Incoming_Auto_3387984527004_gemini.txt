@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Patricia / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, tell me help you?
+[00:04] [Patricia]: Yes, this is Patricia calling with Carelon— Carelon Subrogation for Georgia Medicaid and I'm looking for payment status on Chrisette Myrick.
+[00:21] [Receptionist]: Is that Christopher Myrick?
+[00:25] [Patricia]: Uh, on my end looks like Chrisette. So C-H-R-I-S-E-T-T-E.
+[00:33] [ ... Silence (18s) ... ]
+[00:51] [Receptionist]: Yeah, looks like we're still finishing up resolving that.
+[00:56] [Patricia]: Oh, okay. I was told back in October that the case was resolved and they needed my final lien, so is when I sent it in October the 17th.
+[01:06] [Receptionist]: Yeah, but you're not the only— the only provider, like, that's your final lien, but there are other— other providers that we have to finalize with, so...
+[01:13] [Patricia]: Oh no, I'm trying to explain to you that I have to do a follow-up if I provide a final lien. So the cases is still, uh, getting all the liens in to do the payment?
+[01:21] [Receptionist]: The case is resolved, but we're finalizing— we're resolving the other reductions. We have to get all the reductions finalized before any money is re— is sent out.
+[01:29] [Patricia]: Okay. And who am I speaking to, please?
+[01:32] [Receptionist]: Matt.
+[01:34] [Patricia]: Okay. So just FYI for you, we have to do a follow-up for these payments every 30 days. I usually push the first one a little farther out, but you're gonna hear from me every 30 days.
+[01:46] [Receptionist]: I'm familiar. Yep.
+[01:48] [Patricia]: Okay. Thank you. Have a nice day.
+[01:51] [Receptionist]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

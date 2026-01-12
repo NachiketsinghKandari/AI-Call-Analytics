@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Karen / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Karen speaking, how may I help you?
+[00:05] [Unknown]: How you doing? I had just called a few few minutes ago but I lost signal. Um, I had a vehicle accident in January of this year.
+[00:16] [Unknown]: And I was wondering if you guys would be willing to take the case. Um, a guy rear-ended me, totaled my truck and my trailer out. Um, I I still got the... I still had a accident pending the accident turned out to... I have right now... John Foy... but I'm look— I'm looking to move on from John Foy.
+[00:43] [Receptionist]: Give me one moment.
+[00:46] [Unknown]: Okay.
+[00:48] [ ... Silence (46s) ... ]
+[01:34] [Receptionist]: Okay, I will go ahead and transfer you over to the person that was assisting you before, okay? She will help you with all that information in one moment.
+[01:42] [Unknown]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

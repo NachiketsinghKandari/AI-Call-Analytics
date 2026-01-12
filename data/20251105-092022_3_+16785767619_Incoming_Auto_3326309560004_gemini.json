@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist informed the client that the assigned attorney was no longer with the firm and the current case manager was out of the office. The receptionist provided a status update regarding the discovery phase and took a message for the case manager to return the call by Monday.",
+    "call_duration_seconds": 521.35,
+    "call_duration_formatted": "08:41"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist determined the relevant staff member was out of the office and opted to take a message instead."
+  }
+}

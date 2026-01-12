@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to reach two specific staff members at the caller's request. Both were unavailable, and the caller declined the offer to leave a voicemail, stating they would follow up via email instead.",
+    "call_duration_seconds": 94.39,
+    "call_duration_formatted": "01:34"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked the availability of Michael Soul and Stephanie Pett; both were unavailable to take the call."
+  }
+}

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Roselle / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates, this is Lionel.
+[00:07] [Roselle]: Hi, this is Roselle calling from Optum doing subrogation services on behalf of United Healthcare. I'm calling regarding client Robert Simons with date of loss May 25, 2024. I would like to speak with Michael.
+[00:26] [Receptionist]: What was the name of the client?
+[00:32] [Roselle]: Client's name is Robert L. Simons.
+[00:38] [ ... Silence (11s) ... ]
+[00:49] [Receptionist]: I don't see any client under that name. Can you spell me the last name?
+[00:57] [Roselle]: S-I-M-M-O-N-S.
+[01:05] [Receptionist]: Okay, one moment.
+[01:09] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

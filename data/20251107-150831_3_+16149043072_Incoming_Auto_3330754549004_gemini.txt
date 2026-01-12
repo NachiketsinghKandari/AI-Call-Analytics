@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Kimmy / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / [Unnamed] / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:05] [Speaker 2]: Hey, I just got off the phone with you, I just left a voicemail regarding Chris Harris. Do you happen to have an email address for the attorney or the paralegal?
+[00:13] [Receptionist]: Yes, um, so his name is Kadeem Gibson, I can spell that for you. Kadeem...
+[00:22] [Speaker 2]: Is it the K-A-D-E-E-M?
+[00:23] [Receptionist]: Mhm.
+[00:24] [Speaker 2]: K-A-D-E-E-M.
+[00:25] [Receptionist]: Mhm.
+[00:26] [Speaker 2]: Okay.
+[00:32] [Receptionist]: And then it's Kadeem at Bey and Associates dot com. B-E-Y-A-N-D-associates is with an S dot com.
+[00:43] [Speaker 2]: Perfect. Thank you so much.
+[00:45] [Receptionist]: You're welcome. Have a great rest of your day.
+[00:48] [Speaker 2]: You too. Bye-bye.
+[00:49] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

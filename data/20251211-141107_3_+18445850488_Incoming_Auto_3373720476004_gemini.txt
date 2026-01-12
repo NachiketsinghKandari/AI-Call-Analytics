@@ -1,0 +1,58 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Kaymie / Role: Receptionist at Bey and Associates: 19 turns
+  • [Teresa] / Teresa / Role: Caller from Bank of America's fraud department: 19 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kaymie speaking.
+[00:04] [Teresa]: Hello, this is uh Teresa with Bank of America's fraud department. This call may be monitored and recorded. I'm just trying to verify a check that's being presented.
+[00:13] [Receptionist]: Sure. Can I have the client's name?
+[00:15] [Teresa]: The name on here is Keith Jones Junior.
+[00:20] [Receptionist]: Keith Jones Junior. Okay, yes.
+[00:23] [Teresa]: And are you located at 191 uh Peachtree Street, Atlanta, Georgia?
+[00:27] [Receptionist]: No, we moved. We moved. Um, we're at the 4200 if you need it, I can provide it.
+[00:34] [Teresa]: Well, no, I just want to verify if you can verify the check, that'd be fine.
+[00:39] [Receptionist]: All right, so I'm pulling it up here, one second.
+[00:42] [Teresa]: Thank you so much.
+[00:44] [Receptionist]: You're welcome.
+[00:46] [Teresa]: And your name?
+[00:47] [Receptionist]: Kaymie. K-A-Y-M-I-E.
+[00:52] [Teresa]: K-A-Y-M-I-E. Thank you.
+[00:57] [Receptionist]: Yes ma'am. And uh this would be for 6,309.13?
+[01:04] [Teresa]: Well, this check is for— I'm give you the check number 38643 because it's showing for 13,062 dollars and 72 cents.
+[01:16] [Receptionist]: Okay, let me see if that's another one.
+[01:18] [Teresa]: Okay.
+
+[ ... Silence (19s) ... ]
+
+[01:39] [Receptionist]: Oh yeah, we have one here for 13,062.72. Check number 38643.
+[01:49] [Teresa]: For Keith Jones Junior. Was that check hand-delivered?
+[01:53] [Receptionist]: Hand-delivered. Um, um, let me see here because...
+[01:58] [Teresa]: Thank you. Let me make sure I got the right person, you know, presenting the check.
+[02:02] [Receptionist]: Yes ma'am. It does say Keith Jones Junior. Uh, there is another document down here, but um, definitely... Okay, let me see the date was 12/9/2025?
+[02:19] [Teresa]: Right, that's the date on the check. Yes.
+[02:22] [Receptionist]: Okay. I would have to check with um, with upper management to see if it was that he picked it up or was it mailed. If you...
+[02:34] [Teresa]: Yeah. Okay. Well, I'm not suspicious. Do you have an address for that person? I guess that'll kind of let me know. Do you have an address?
+[02:41] [Receptionist]: Yes ma'am. For Keith?
+[02:44] [Teresa]: Yes.
+[02:45] [Receptionist]: Okay, so the one that we— let me see here.
+
+[ ... Silence (10s) ... ]
+
+[02:59] [Teresa]: You know what, I don't think I'm really concerned.
+[03:01] [Receptionist]: 1284 Oakland Drive Southwest, Apartment C, in Atlanta, Georgia. That's the one we have on file.
+[03:13] [Teresa]: Give me one second. What was it again? You said 12...
+[03:17] [Receptionist]: 84 Oakland Drive. Apartment C.
+[03:23] [Teresa]: And that's in Atlanta, Georgia?
+[03:25] [Receptionist]: Mhm. Let me see here. There it is. Let me see here. I can maybe see in the notes if he— client picked up check and signed release. Yes, he picked it up. That's right.
+[03:47] [Teresa]: That's excellent. Thank you so much. Have a great day.
+[03:51] [Receptionist]: You're welcome. You too. Bye-bye.
+[03:53] [Teresa]: Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

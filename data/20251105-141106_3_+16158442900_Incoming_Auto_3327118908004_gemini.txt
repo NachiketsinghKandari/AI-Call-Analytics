@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain Associates: 2 turns
+  • Speaker 2 / [Chadel] / Role: Representative at First Acceptance Insurance Company: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain Associates.
+[00:03] [Chadel]: Hi, yes, this is Chadel calling from First Acceptance Insurance Company. Um, I am calling on a client of your office, first name is Michelle, last name is, uh, Shelton. And I was hoping to possibly speak with maybe her case manager, Stephanie.
+[00:23] [Receptionist]: One sec.
+[00:24] [Chadel]: Thank you.
+[00:26] [ ... Silence (5s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

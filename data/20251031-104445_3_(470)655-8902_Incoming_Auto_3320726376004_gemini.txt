@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Vance and Associates Law Firm: 7 turns
+  • Speaker 2 / [Evelyn Golin] / Role: Representative from Dominguez Chiropractic: 4 turns
+  • Speaker 3 / [Janay] / Role: Background Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Vance and Associates Law Firm, Devin speaking.
+[00:05] [Evelyn Golin]: Hi, hello. This is Evelyn Golin from Dominguez Chiropractic. Uh, I was calling regarding a patient with the name Alexis Zimmerman.
+[00:14] [Janay]: Hi, this is Janay calling from Vance and Associates Law Firm. I was calling to follow up on a claim number 257590350. My name is Shomari Smith.
+[00:17] [Receptionist]: Okay, let me search Alexis Zimmerman.
+[00:23] [Receptionist]: Let me get you over to Paige, okay?
+[00:26] [Evelyn Golin]: Okay, thank you.
+[00:27] [Receptionist]: You're welcome.
+[00:31] [Receptionist]: I'm sorry about that. It seems like Paige is away from her desk at the moment. Would you like to leave a voicemail or should I have her return a call?
+[00:41] [Evelyn Golin]: Okay, is there any other case manager I can talk to?
+[00:44] [Receptionist]: No, only Paige.
+[00:45] [Evelyn Golin]: Okay, thank you. I appreciate it.
+[00:47] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

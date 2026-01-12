@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at LMP Legal Firm: 10 turns
+  • Speaker 2 / [Christy Parkinson] / Role: Representative from Barbara Ortho: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: LMP Legal Firm, my name is Fatima, how may I assist you today?
+[00:07] [Christy Parkinson]: Hi, is Taylor Middleton uh available?
+[00:11] [Receptionist]: I can find out, please allow me just one moment. May I please have your first and last name so I can let her know?
+[00:17] [Christy Parkinson]: Yes, my name is Christy Parkinson and I'm with Barbara Ortho.
+[00:23] [Receptionist]: Understood, thank you. One moment please.
+[00:26] [Receptionist]: Ms. Christy, thank you so much for the waiting time, I apologize for the delay. Ms. Taylor is not answering her phone, but would you like for me to send an email to her? May I please have a phone number that she can contact you?
+[00:38] [Christy Parkinson]: Yes. Yes, and I'm also sending her an email. Um, my direct phone number is 678-977-2860.
+[00:56] [Receptionist]: I'll send her an email and request for a call back for you.
+[01:01] [Christy Parkinson]: Can I- can I tell you one more thing that might help her call me faster? Um, this is for the Jonetta Corley, J-O-N-E-T-T-A, Corley, C-O-R-L-E-Y, depo that's supposed to be tomorrow at 2:30, but I haven't received a Zoom link and I haven't received payment and our policy is if you don't pay within two business days, um, we cancel. That said, I remember when we set this up with, um, India Miller and Taylor Middleton who I also tried to call, um, that the- like you guys have a court date on November 3rd or you're third in line, so this is- this is gonna be terrible for you if we cancel.
+[01:41] [Receptionist]: Right. Oh, in that case if you are also able to speak to Ms. India, would you please allow me one more moment, maybe she is available.
+[01:46] [Christy Parkinson]: Well, um, Devon, I talked to Devon earlier and he told me that India was no longer with the company.
+[01:59] [Receptionist]: Oh, I forgot.
+[02:00] [Christy Parkinson]: So, I tried that route too, but I- I appreciate your effort. Um, okay, I'm gonna send the email, if you can send Ms. Middleton and I'll leave it for- that she can call me after 4:00. If I don't hear by probably 7:00 tonight, I'm gonna cancel.
+[02:21] [Receptionist]: Understood, I'll let her know.
+[02:24] [Christy Parkinson]: Here's the other thing is that my doctor needs to have time to review these and I'm not gonna waste his time if this isn't going through.
+[02:30] [Receptionist]: Of course, it's understandable. I will let her know.
+[02:34] [Christy Parkinson]: Okay, I'm not trying to be sassy, I'm just trying to look out for you guys too.
+[02:38] [Receptionist]: Of course. You have an amazing rest of your day, Ms. Christy. Bye-bye.
+[02:43] [Christy Parkinson]: Thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

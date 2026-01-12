@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Claudia / Role: Caller from MRI Imaging Specialist: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, my name is Fatima, how may I assist you?
+[00:07] [Claudia]: Hi Fatima, my name is Claudia calling from MRI Imaging Specialist. I was just seeing who is the case manager for Shaina Addison? I hope I'm saying that first name right.
+[00:18] [Receptionist]: Are you able to spell that name for me, Shaina?
+[00:21] [Claudia]: Yes, it's Addison, Sierra, H-A-N-N-Y-A. I probably pronounced it wrong.
+[00:28] [Receptionist]: It happens. I would not be able to pronounce it for sure. Bear with me while I search.
+[00:34] [ ... Silence (6s) ... ]
+[00:40] [Receptionist]: The date of loss was on November the 29th?
+[00:42] [Claudia]: Yes.
+[00:43] [Receptionist]: All right, so the info is loading for me. So her case manager is Ms. Victoria Morales. Do you need her email?
+[00:52] [Claudia]: I I have her email. I'll go ahead and send an email with the lien right now.
+[00:59] [Receptionist]: Understood. Is there anything else I can assist you with?
+[01:02] [Claudia]: No, that will be it. Thank you very much.
+[01:04] [Receptionist]: You're welcome. Happy holidays to you, okay? Bye.
+[01:06] [Claudia]: Yes, you too.
+
+========================================
+TRANSCRIPT END
+========================================

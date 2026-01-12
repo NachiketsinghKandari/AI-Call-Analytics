@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at Bain and Associates: 6 turns
+  • Speaker 2 / [Jimmy Jones] / Role: Client: 5 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain and Associates, Kimmy speaking.
+[00:04] [Jimmy Jones]: Yes, um, good afternoon. My name is Jimmy Jones. Um, I can't remember the lawyer name that took over my case or somebody else that took it over, but my phone number is 843-332-41069. Um, trying to get in touch with the lawyer that took it over. It was a paralegal, I can't remember her name.
+[00:23] [Receptionist]: Okay. [ ... Silence (5s) ... ] Was it, um, Miss... I mean... Okay. So, you... your name is Mr. Jimmy L. Jones?
+[00:37] [Jimmy Jones]: Jones. Yes, ma'am.
+[00:39] [Receptionist]: All right, so that would be with Susan Speers.
+[00:42] [Jimmy Jones]: Susan. Okay.
+[00:44] [Receptionist]: All right, let me get her... get you over to her, sir.
+[00:49] [Jimmy Jones]: Thank you.
+[00:51] [Receptionist]: You are very welcome. You have a great rest of your day.
+[00:54] [Jimmy Jones]: You too. Thank you.
+[00:56] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

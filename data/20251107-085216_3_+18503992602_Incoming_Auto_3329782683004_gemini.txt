@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+----------------------------------------
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bain Associates: 3 turns
+  • Speaker 2 / [Speaker 2] / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bain Associates, Kim speaking.
+[00:05] [Speaker 2]: Hi, I was looking for Brittany, please, one of the office managers there.
+[00:10] [Receptionist]: Yes, ma'am. Let me go ahead and send you over.
+[00:14] [Speaker 2]: Sure.
+[00:15] [Receptionist]: One moment, please.
+
+========================================
+TRANSCRIPT END
+========================================

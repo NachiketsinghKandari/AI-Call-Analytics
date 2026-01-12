@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kim / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 2 / Doluska Henry / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kim speaking.
+[00:04] [Doluska Henry]: Yes, hi. Is this Middleton, a Miss— Attorney Middleton or Miss Miller in?
+[00:12] [Receptionist]: Miss Middleton, let me— can I have your name please?
+[00:16] [Doluska Henry]: Doluska Henry.
+[00:18] [Receptionist]: Okay, Miss Henry. One second, let me check to see if Miss Middleton is in. Miss Henry?
+[00:31] [Doluska Henry]: Yes.
+[00:33] [Receptionist]: Miss Middleton did not answer. I can send her an email and let her know to reach out to you whenever she's available. And Miss Miller is no longer with us.
+[00:45] [Doluska Henry]: Okay. All right. Well, you put— just— I sent an email to them both and uh, CC'd Miss Miller on it, but I— I did send Miss Middleton an email as well and she has not answered my email.
+[01:00] [Receptionist]: Mhm. Okay. I will go ahead and send her that right now and let her know that if she could reach out to you as soon as possible.
+[01:11] [Doluska Henry]: Yes, please. Thank you so much.
+[01:14] [Receptionist]: You're welcome. You have a great rest of your day, ma'am.
+[01:17] [Doluska Henry]: Right. You too. Bye-bye.
+[01:19] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided a case status update and the direct contact numbers for the case manager and attorney after determining staff were unavailable.",
+    "call_duration_seconds": 365.33,
+    "call_duration_formatted": "06:05"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist checked for staff availability while the caller was on hold but did not initiate a transfer because the staff members were busy."
+  }
+}

@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Fatima / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Carissa Ferrero / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates Law Firm. My name is Fatima. How may I assist you today?
+[00:08] [Carissa Ferrero]: Hey, this is Carissa Ferrero and I was trying to get a free consultation with a lawyer from your firm.
+[00:16] [Receptionist]: Is there an specific attorney that you would like to speak with and is this in regarding of an specific case?
+[00:25] [Carissa Ferrero]: Um, so, this is, this is not, there's not a case in, um, there's not a case yet. I'm trying to build one but I need a lawyer and I'm not sure which attorney to talk to. Anyone is fine because I'm not familiar with your company.
+[00:42] [Receptionist]: Um, but is there an injury involved or...
+[00:44] [Carissa Ferrero]: Yes ma'am, from a car accident.
+[00:47] [Receptionist]: From a car accident? In that case, if you have a car accident, would you like to proceed with an intake process and then after you can speak to the attorney? Or you want to speak to the attorney first?
+[01:01] [Carissa Ferrero]: I already went through— so, um, I'm going through the process and unfortunately the police didn't deem anyone at fault, um, so the other person's insurance is giving me a hard time. Um, I have pictures and evidence to provide but before I provide that to the company, I would want to speak to a lawyer to see the best way to go about it.
+[01:24] [Receptionist]: Understood. Would you please bear with me? I don't have an attorney at the moment as they work until 5:00 PM, but allow me one moment, let me speak to my supervisor and see at what time would be in and if we can schedule a call for you with an attorney. One moment, please.
+[01:41] [Carissa Ferrero]: Okay.
+[01:42] [ ... Silence (14s) ... ]
+[01:56] [Receptionist]: Miss Carissa, thank you so much for the waiting time. I apologize for the delay. All right, so, um, what I can do, my supervisor requested if you can provide your phone number so that we can send an email to the attorney so that he can give you a call back tomorrow morning. At what time would it be the best time for him to give you a call?
+[02:14] [Carissa Ferrero]: Um, anytime is, um, okay.
+[02:17] [Receptionist]: After 8:00?
+[02:19] [Carissa Ferrero]: Yes, that's fine.
+[02:20] [Receptionist]: That's fine. All right. May I please have your phone number?
+[02:23] [Carissa Ferrero]: 478-228-7671.
+[02:33] [Receptionist]: 7671. The attorney's name is Jonathan Steel, okay? So I will be sending him an email with your information letting him know that you would like to speak to him before you proceed with the accident. And can you please let me know when did the accident happen?
+[02:49] [Carissa Ferrero]: It happened on the 2nd of December this year.
+[02:53] [Receptionist]: Okay, 12/02. All right, thank you. This is information that he might need, he might want to know before calling, okay?
+[03:00] [Carissa Ferrero]: Okay.
+[03:01] [Receptionist]: All right. Anything else I can assist you with today?
+[03:05] [Carissa Ferrero]: No ma'am, that's it.
+[03:06] [Receptionist]: All right. Thank you so much for your time and please do expect that call tomorrow morning. I cannot say exactly what time, but he does start at 8:00 AM, okay?
+[03:17] [Carissa Ferrero]: Okay. Thank you.
+[03:19] [Receptionist]: All right. You're welcome. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

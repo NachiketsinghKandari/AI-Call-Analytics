@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Matt / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates.
+[00:04] [Unknown]: Hey, uh, am I speaking with Dante?
+[00:08] [Receptionist]: You just called here, bro. This is Matt.
+[00:11] [Unknown]: This is Matt again. Yeah, sorry about that. I thought maybe I could try—
+[00:14] [Receptionist]: I'm good, I'm good. Thank you. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

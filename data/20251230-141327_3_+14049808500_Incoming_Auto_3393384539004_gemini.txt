@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Kenneth Jones / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Lionel, how can I help you?
+[00:05] [Kenneth Jones]: Well, yes, I've been calling and calling and calling trying to get somebody on the phone to talk about my case. Um, and you all have had my check for over two months and it's like at this point I don't I guess I need to find another attorney or what because I can't get nobody on the phone and it's just not cool.
+[00:28] [Receptionist]: Can I have your name, sir?
+[00:31] [Kenneth Jones]: Kenneth Jones.
+[00:34] [Receptionist]: I'm sorry, can you repeat that for me?
+[00:37] [Kenneth Jones]: Kenneth Jones. Linda Huff was my case manager.
+[00:43] [Receptionist]: Okay. Got it here, Kenneth Jones.
+[00:49] [ ... Silence (12s) ... ]
+[01:01] [Receptionist]: Yeah, they're currently working on your case, sir. The thing is that it usually takes some time, but at this point Linda is out of the office due to the holiday season and she'll be back until Monday.
+[01:13] [Kenneth Jones]: Yeah, I was supposed to got a thousand dollars or something like that a week or two ago. I was promised and I haven't been given that, I haven't been like it's this the business is bad. And not only that, but they've had my money for two months. The case has been settled basically for two months and my money is still being held up. Like, I'm not liking any of that.
+[01:40] [Receptionist]: Well, I do see that the status of the case is still in in you know it's still in process. They're still working on reductions and all of that, so it's still not settled yet.
+[01:50] [Kenneth Jones]: I have never had a case that has taken this long to work the process. Two months? I've never seen a case settled and the money was given and it took two months to settle the case. I've never seen that myself.
+[02:07] [Receptionist]: I understand, you know, I would love to help you more but I'm not an attorney so I'm not sure what's going on. Uh, but as I stated, I what I can do is transfer you to Linda's voicemail, you can tell her whatever you need to say and then she will get back to you on Monday.
+[02:25] [Kenneth Jones]: Uh, well, I mean, if I can't, you know, at least get the thousand dollars I was promised, I'm I'll just find me another attorney to finish this out.
+[02:41] [Receptionist]: Well, this this case is pretty pretty much ahead now. I mean—
+[02:46] [Kenneth Jones]: I don't I just don't want to wait until Monday. That's not okay with me. Um, I need some actions like ASAP. I need something to happen.
+[03:01] [Receptionist]: Understand. Let me see, and the thing is that no one's in the office. Let me see if someone is in the office right now so I can assist you, okay? Give me a second.
+[03:12] [Receptionist]: Thank you for holding, uh, Mr. Kenneth Jones. No one is picking up. It seems that no one is available today, as I stated, until Monday.
+[03:29] [Kenneth Jones]: All right.
+[03:31] [Receptionist]: I'm so sorry. Thank you.
+[03:33] [Kenneth Jones]: I'm just gonna find another attorney. I'm gonna just call the insurance company and have them issue a different check. Just find another attorney. All right.
+[03:42] [Receptionist]: All right. Thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

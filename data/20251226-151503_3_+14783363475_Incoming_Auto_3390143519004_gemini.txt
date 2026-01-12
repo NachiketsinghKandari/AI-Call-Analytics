@@ -1,0 +1,48 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Initial Agent: 7 turns
+  • Theodore Smith / Role: Caller: 14 turns
+  • Receptionist / Unknown / Role: Receptionist at Bey and Associates: 10 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: Hello?
+[00:02] [Theodore Smith]: Yes, hi, how you doing?
+[00:04] [Speaker 1]: I'm doing well, thanks for asking. How can I help you today?
+[00:08] [Theodore Smith]: Yeah, uh, I was trying to, uh, check on my case, uh, my name is Theodore Smith.
+[00:15] [Speaker 1]: Sure, I can help with that. May I have your name?
+[00:19] [Theodore Smith]: Theodore Smith.
+[00:26] [Speaker 1]: I'm not finding your file under the name Theodore Smith. Can you please spell your name for me?
+[00:33] [Theodore Smith]: It's T-H-E-O-D-O-R-E Smith.
+[00:42] [Speaker 1]: I'm still not finding your file. Let me get you to our customer success team. They'll help track this down for you. Let me get you to our customer success team so they can assist further. Is that okay?
+[00:53] [Theodore Smith]: Yes.
+[00:57] [Speaker 1]: Transferring you to our customer success team.
+[01:01] [Speaker 1]: Hand off.
+[01:02] [ ... Silence (16s) ... ]
+[01:18] [Receptionist]: Thank you for calling Bey and Associates, how may I help you?
+[01:24] [Theodore Smith]: Yes, hi, how you doing?
+[01:26] [Receptionist]: I'm well, thank you, how are you?
+[01:28] [Theodore Smith]: I'm doing great. Um, I was trying to check on my case, um, the lady said she couldn't find my name in the system. My name is Theodore Smith.
+[01:42] [Receptionist]: Theodore Smith. Okay. And do you know who your case manager is, Theodore?
+[01:52] [Theodore Smith]: I think it's Harvest. Mr. Harvest.
+[01:56] [Receptionist]: Harvest? Okay.
+[01:58] [ ... Silence (14s) ... ]
+[02:12] [Receptionist]: Okay, Mr. Harvest is away from the line. I'm happy to take a message.
+[02:17] [Theodore Smith]: Um, yes, um, can you let him know that, um, Theodore Smith called? And my number is 478-336-3475.
+[02:31] [Receptionist]: Okay, and just to make sure I have this correct, um, I have the phone number 478-336-3475. Okay, absolutely. All right, I'll get this message right over and, uh, just in case, Theodore, may I have your email address?
+[02:51] [Theodore Smith]: Yes, it's L-O-C-P-E-D-D-Y 48 at gmail dot com.
+[03:01] [Receptionist]: Okay, and just to make sure I have that correct, I have L-O-C as in cat, C as in cat, E, D as in dog, D as in dog, Y, 48 at gmail dot com.
+[03:12] [Theodore Smith]: No, no, no, no, it's L-O-C-P-E-D-D-Y 48 at gmail dot com.
+[03:22] [Receptionist]: Okay, L-O-C-T as in, uh, Texas, E-D-D-Y 48 at gmail dot com?
+[03:32] [Theodore Smith]: Yes.
+[03:33] [Receptionist]: Okay, perfect. I'll get this right over and I do hope you have a great rest of your day.
+[03:39] [Theodore Smith]: Okay, thank you.
+[03:41] [Receptionist]: Absolutely. Bye.
+[03:43] [Theodore Smith]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

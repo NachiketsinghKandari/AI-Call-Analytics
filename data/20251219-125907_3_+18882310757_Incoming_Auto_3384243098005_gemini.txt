@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 11 turns
+  • Speaker 2 / Mo Song / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo, how may I help you?
+[00:04] [Mo Song]: Hi, uh, this is Mo Song calling from Wells Fargo, the department of loss prevention. Please be aware that this call may be recorded, monitored, analyzed by Wells Fargo and its service providers. I was just wondering if you can help me verify a check?
+[00:20] [Receptionist]: Sure, can I have the name for our client?
+[00:23] [Mo Song]: Uh, you said the name, I'm sorry?
+[00:27] [Receptionist]: Yes, please, the name for the client.
+[00:29] [Mo Song]: Okay. Um... let me see. I think it's Lynette Veliz, V-E-L-I-Z?
+[00:44] [Receptionist]: Lynette, right?
+[00:47] [Mo Song]: Yeah. L-I-N-E-T-H.
+[00:54] [ ... Silence (7s) ... ]
+[01:01] [Receptionist]: Okay, I found it here. Wow, okay, but it was uploaded just yesterday, the check. So I guess that it was sent yesterday. And you are calling from who?
+[01:16] [Mo Song]: Uh, Wells Fargo. Just to verify the check.
+[01:22] [Receptionist]: Wells Fargo. Wells Fargo Bank?
+[01:25] [Mo Song]: Yes.
+[01:26] [Receptionist]: For, oh, oof. I wish I had this check for my life. $31,578.03?
+[01:39] [Mo Song]: Yes.
+[01:40] [Receptionist]: Yeah, that is the perfect check that I need for this December. Oh, just kidding. But yes, that is our check.
+[01:46] [Mo Song]: Okay, so it is— there's no stops or holds on that?
+[01:49] [Receptionist]: No, everything is clear. It is from— it is from our CEO, which is Matt McCarren. He signed the check. Lynette Velez, full and initial. The check number is 38654 and it is approved from our company. Mhm.
+[02:04] [Mo Song]: All right, that's all I needed. Thank you very much.
+[02:08] [Receptionist]: You're more than welcome and Merry Christmas, okay?
+[02:11] [Mo Song]: All right, thank you. Have a great day.
+[02:13] [Receptionist]: Thank you, bye-bye.
+[02:15] [Mo Song]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

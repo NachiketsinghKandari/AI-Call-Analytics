@@ -1,0 +1,42 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bey and Associates: 13 turns
+  • Speaker 2 / Unknown / Role: Caller: 14 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Angelo from Bey and Associates, how may I help?
+[00:08] [Unknown]: Yes, hi there Angelo. Uh, can you connect me to the facility manager or the person in charge of your trash pickup services?
+[00:16] [Receptionist]: Oh, yes. But in this case...
+[00:19] [Unknown]: Are they—oh, they're not yet in?
+[00:22] [Receptionist]: It looks like, yes. That's what I was checking. Her name, yes...
+[00:28] [Unknown]: Brittany? All right. And, uh, let me take note of this one.
+[ ... Silence (5s) ... ]
+[00:37] [Unknown]: Perfect, perfect. Angelo, right?
+[00:40] [Receptionist]: Yes, this is Angelo. But her name is Brittany.
+[00:43] [Unknown]: And Brittany is who exactly?
+[00:45] [Receptionist]: The person in charge for the mailing and everything, like the secretary of the company.
+[00:51] [Unknown]: Okay. All right. Oh, would she be the one paying for—I mean, checking on the bills or the invoices for your trash?
+[00:58] [Receptionist]: She's the one, most likely. Yes, yes, she can check all the records and everything.
+[01:04] [Unknown]: All right. Uh, right before I go, just to save time, uh, when I speak to—speak with Brittany, do you have any idea how big your dumpster—how many dumpsters you guys are using right now? Do you have any clue?
+[01:22] [Receptionist]: No idea, because I'm just from the front department. She may know, yes, you can ask to her. But I'm just from the front.
+[01:30] [Unknown]: All right. All right. Just checking. All right. I got you, I got you. Well, I do appreciate your time, Angelo. Have a good one.
+[01:33] [Receptionist]: No any issue at all. You too.
+[01:35] [Unknown]: Oh, oh, sorry, sorry. Sorry, before we go, the number. Yeah, you were telling me about her direct line.
+[01:41] [Receptionist]: Okay, yes, you can write there. It is 470...
+[01:46] [Unknown]: Yep.
+[01:47] [Receptionist]: 339...
+[01:49] [Unknown]: Yep.
+[01:50] [Receptionist]: 7214.
+[01:52] [Unknown]: 7214. Let me just run that by you, it's 470-339-7214.
+[01:58] [Receptionist]: You are right. That is her line.
+[02:01] [Unknown]: All right. All right, I'll appreciate you. Thank you so much, Angelo.
+[02:04] [Receptionist]: You're more than welcome. Have a good one. Bye-bye.
+[02:07] [Unknown]: And you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

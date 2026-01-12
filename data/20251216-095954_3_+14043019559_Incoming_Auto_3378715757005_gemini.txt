@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kyrie / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Angel Sanchez / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Kyrie, how can I help?
+[00:05] [Angel Sanchez]: Oh hi, good morning. My name is Angel Sanchez. I'm looking to speak with Stuart Bagley.
+[00:13] [Receptionist]: I'm sorry, to who?
+[00:15] [Angel Sanchez]: Stuart Bagley. First name is Stuart, S-T-U-A-R-T. Last name is Bagley.
+[00:29] [Receptionist]: We have no one by that name.
+[00:33] [Angel Sanchez]: Is this a law firm?
+[00:35] [Receptionist]: It is. Bey and Associates.
+[00:41] [Angel Sanchez]: Okay, thank you for your time, ma'am.
+[00:44] [Receptionist]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Kim] / Role: [Receptionist at Bay and Associates]: 7 turns
+  • Speaker 2 / [Sam Truman] / Role: [Representative at Progressive Insurance]: 7 turns
+
+----------------------------------------
+
+[00:00] [Kim]: Bay and Associates, Kim speaking.
+[00:06] [Sam Truman]: Hello, um, my name is Sam Truman with Progressive Insurance. Um, I believe we might have a mutual customer, uh, who is Elyssia Abdelrazak. I can spell that name, uh, if you need.
+[00:24] [Kim]: Yes, please.
+[00:26] [Sam Truman]: Okay. Uh, first name E-L-Y-S-S-I-A.
+[00:34] [Kim]: Right, I got it here. Okay. Um, okay, let me get that case manager for you. You said from Progressive, right?
+[00:48] [Sam Truman]: Correct. Yeah. And who's the case manager so I can put a note in here? Um...
+[00:53] [Kim]: Tyauna Evans. I can provide her email and direct number also.
+[00:59] [Sam Truman]: Oh, sure. I'd appreciate it. Thank you.
+[01:02] [Kim]: So it's T-Y-A-U-N-A. T for Tango, Y for Yellow, A for Alpha, U for Umbrella, N for Nancy, A for Alpha. Last name Evans, E-V-A-N-S. Direct number 404-889-8965.
+[01:31] [Sam Truman]: Okay.
+[01:33] [Kim]: And then her email is Tyauna, her first name, T-Y-A-U-N-A at Bay, B-E-Y, and, A-N-D, Associates, with a S, dot com. So Tyauna at Bay and Associates dot com.
+[01:56] [Sam Truman]: Okay. Thank you.
+[01:58] [Kim]: One second, let me get her.
+[02:00] [Sam Truman]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

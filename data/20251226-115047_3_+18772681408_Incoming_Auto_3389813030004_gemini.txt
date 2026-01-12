@@ -1,0 +1,68 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist: 5 turns
+  • Speaker 2 / Laz Perez / Role: Caller from Mobilitas Insurance: 19 turns
+  • Speaker 3 / Unknown / Role: Receptionist at Bey and Associates: 19 turns
+
+----------------------------------------
+
+[00:00] [Emma]: This is Emma, how can I help you?
+[00:04] [Laz Perez]: Hi there, uh, Emma, um, calling for Matt or Karen?
+[00:10] [Emma]: Sure, I can help with that. May I have your name?
+[00:15] [Laz Perez]: Yeah, my name is Laz with Mobilitas Insurance claims department. I have your client's name if you'd like.
+[00:23] [Emma]: May I have the client's full name, please?
+[00:26] [Laz Perez]: Yes, it is Shanya Addison, I can spell out the first name. Or Shanya.
+[00:38] [Emma]: I'm not finding that name. Could you please spell it for me?
+[00:42] [Laz Perez]: Yes, it begins with the letter S as in Sierra, H, A, N...
+[00:53] [Emma]: I'm still not finding that file. Let me get you to our customer success team. Is that all right? Transferring you to our customer success team. The call has been successfully transferred.
+
+[ ... Silence (17s) ... ]
+
+[01:23] [Receptionist]: Thank you for calling Bey and Associates, how may I help you?
+[01:34] [Laz Perez]: Hi there, uh, my name is Laz with Mobilitas Insurance claims department. How are you?
+[01:40] [Receptionist]: I'm doing good. How can I help you today?
+[01:42] [Laz Perez]: Good deal. Hey, I'm calling in regards of one of your clients, Shanya Addison.
+[01:51] [Receptionist]: How do you spell the name?
+[01:54] [Laz Perez]: The first name is, uh, S, H, A, N as in November, Y, A. Shanya. And their last name is Addison, A, D as in Delta, D as in Delta, I, S, O, N as in November.
+[02:18] [Receptionist]: Wonderful. And then what company did you say you were calling with again?
+[02:22] [Laz Perez]: I'm with Mobilitas Insurance claims department.
+[02:28] [Receptionist]: Okay. [ ... Silence (11s) ... ] Wonderful. And what's your call regarding today?
+[02:40] [Laz Perez]: Um, I just wanted to know the role, um, in this claim. We don't have her listed, um, so we're just trying to figure out was she like a passenger on the Mazda or the Kia or the driver? Trying to figure that out.
+[02:58] [Receptionist]: Okay. [ ... Silence (10s) ... ] And then, uh, may I have your first and last name?
+[03:09] [Laz Perez]: Yes, of course. Um, my name is Laz, L, A, Z as in Zulu, and my last name is Perez, P, E, R, E, Z.
+[03:19] [Receptionist]: Okay, wonderful Laz. Let me go ahead and see if I can get you over with the correct person. Give me one moment, please.
+[03:25] [Laz Perez]: Thanks.
+[03:27] [Receptionist]: Of course.
+
+[ ... Silence (39s) ... ]
+
+[04:08] [Receptionist]: Thank you so much for holding. I'm going to go ahead and try another line for you. One moment.
+
+[ ... Silence (32s) ... ]
+
+[04:46] [Receptionist]: Thank you so much for holding, Laz. So they have both stepped away from their line at this moment. However, I'd be more than happy to get them a message and I can ask that they get back with you as soon as they are available to.
+[04:58] [Laz Perez]: Sure. Yeah, that's fine.
+[05:01] [Receptionist]: Okay, wonderful. What's a good callback number for you?
+[05:05] [Laz Perez]: Uh, yeah, my direct line is 405-753-8046.
+[05:14] [Receptionist]: That's 405-753-8046?
+[05:19] [Laz Perez]: Yes.
+[05:21] [Receptionist]: Wonderful. And then may I have a good email for you as well?
+[05:24] [Laz Perez]: Um, the email is, we have only like a generic email, it's the claim docs, it's C, L, A, I, M, D, O, C, S, at mobilitasinsurance.com. And I can spell out Mobilitas for you if you'd like.
+[05:44] [Receptionist]: Yeah, could you do that for me, please?
+[05:47] [Laz Perez]: Yes, of course. It's mobile, so M as in Mike, O, B, I, L, I, T as in Tango, A, S.
+[05:59] [Receptionist]: Okay, wonderful. And insurance is just spelled out. Mobilitas Insurance.
+[06:05] [Laz Perez]: Okay.
+[06:07] [Receptionist]: Wonderful. So that was going to be, um, C, L, A, I, M, D, O, C, S, at Mobilitas, M, O, B, I, L, I, T, A, insurance.com?
+[06:21] [Laz Perez]: There's, yeah, there's an S at the end of Mobilitas. Mobilitas.
+[06:25] [Receptionist]: Mobilitas. Okay, wonderful, Laz. I'll go ahead and get this over for you now and I'll ask that the correct person get back with you as soon as they're available to.
+[06:33] [Laz Perez]: Perfect. Thank you so much for your help. I hope you have a wonderful day.
+[06:37] [Receptionist]: Of course, you as well and happy holidays.
+[06:40] [Laz Perez]: Happy holidays. Bye-bye.
+[06:42] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

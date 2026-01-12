@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tasha / Role: [Receptionist] at Bain Associates: 8 turns
+  • Speaker 2 / Marjorie / Role: Georgia Admin Services: 7 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (5s) ... ]
+[00:05] [Tasha]: Bain Associates this is Tasha how may I help you?
+[00:09] [Marjorie]: Tasha, um, my name's Marjorie I'm with Georgia Admin Services and I'm trying to find out who's handling a claim, uh, for Kelly Franklin Bonnet.
+[00:20] [Marjorie]: We have a letter of representation but uh no name on it.
+[00:24] [Tasha]: One moment there.
+[00:26] [ ... Silence (5s) ... ]
+[00:32] [Tasha]: Okay, can you confirm the date of loss for me ma'am?
+[00:37] [Marjorie]: 8/28/25.
+[00:41] [Tasha]: Alrighty. Yes, um case manager's name is Victoria Morales, attorney's name is Mr. Jonathan Steel. I can provide you their contact info and I can also transfer you over ma'am.
+[00:53] [Marjorie]: Okay, uh, I'm sorry, what was the attorney's name again?
+[00:57] [Tasha]: Jonathan Steel.
+[01:00] [Marjorie]: Jonathan Steel. Okay. Uh, do you have the, uh, email address for either of them?
+[01:08] [Tasha]: Yes ma'am.
+[01:11] [Marjorie]: Okay. I'm ready.
+[01:13] [Tasha]: Alright. One second. Ms. Victoria's email address is victoria@bainassociates.com. That's B-E-Y-A-N-D associates.com. Her contact number is 470-615-0710.
+[01:37] [Marjorie]: Okay. Uh, yeah, if you could transfer me that would be great.
+[01:42] [Tasha]: Transferring now ma'am.
+[01:45] [Marjorie]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

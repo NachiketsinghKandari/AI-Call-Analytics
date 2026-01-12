@@ -1,0 +1,58 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jesse / Role: Receptionist at Bey and Associates: 20 turns
+  • Speaker 2 / Michaela / Role: Caller from Protective Insurance: 18 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Jesse. How can I assist you?
+[00:05] [Michaela]: Hey, this is Michaela. I'm calling with Protective Insurance.
+[00:11] [Receptionist]: All right. How can I assist you, ma'am?
+[00:14] [Michaela]: Um, so your client is Meeta Raha and I'm calling on behalf of my insured, but it doesn't look like a policy number or a claim number was provided. So I was just calling to get that.
+[00:27] [Receptionist]: Understood. Give me one moment. I can help with this. All right. And the date of the accident was November the 7th of this year?
+[00:43] [Michaela]: No, I have it listed as December 5th. I can spell the client's name if you need.
+[00:49] [Receptionist]: Um, all right. Give me one moment. Uh, her last name would be spelled R-A-H-A, right?
+[00:57] [Michaela]: Yeah, that's correct.
+[00:58] [Receptionist]: Understood. Yes, there is a file for December the 5th. Yes, give me one moment. Let me go to that file. All right.
+
+[ ... Silence (11s) ... ]
+
+[01:16] [Receptionist]: All right. So, uh, you're calling from Protective Insurance. And what exactly do you need, ma'am, again?
+[01:22] [Michaela]: So the claim number or the policy number for our insured.
+[01:27] [Receptionist]: Got it. Uh, yes. I got it here. Uh, your insured's name would be Hassan Haji, right? H-A-J-I? Hassan?
+[01:39] [Michaela]: That's what we have listed as our insured, but our insured is usually a company name since we're a commercial company. So I just wanted to confirm the policy you had.
+[01:51] [Receptionist]: Got it. The policy that I have is 0-L as in Lima, 0-0-0-0, four consecutive zeros, 8-6-dash-2-5. That's the policy number that I have for Protective Insurance.
+[02:08] [Michaela]: Okay, so that policy number belongs to a company called Ceva Logistics and they have split coverage when it comes to claims. So if our driver was under dispatch or delivering at all, then your client's claim is going to be handled by the liability for Ceva. Let me go ahead and get their phone number pulled up so I can give that to you.
+[02:35] [Receptionist]: I'm seeing here that there is even an adjuster assigned to that policy, but I don't have a claim number.
+[02:43] [Michaela]: Okay. Um, let me see. I'm not sure if we would have a claim here. Let me just double-check though.
+[02:52] [Receptionist]: And you say your name was Kayla, ma'am?
+[02:56] [Michaela]: It's Michaela.
+[02:58] [Receptionist]: Oh, Michaela. Got it.
+
+[ ... Silence (20s) ... ]
+
+[03:20] [Michaela]: And bear with me here. I'm just going to see if we have a claim on file here. If not, uh, I'll give you the phone number for Ceva. And if you just give them the date of loss and some loss information, they should be able to locate a claim.
+[03:36] [Receptionist]: Understood.
+[03:38] [Michaela]: And so did we confirm that the date of loss was the 12/5/25?
+[03:42] [Receptionist]: Yes. Yes, ma'am. 12/5/25.
+[03:51] [Michaela]: All right. Yeah, it doesn't look like there's a claim on file here. So you'll want to contact Ceva directly. Let me get their phone number. All right. Whenever you're ready.
+[04:01] [Receptionist]: I'm ready, ma'am. Go ahead.
+[04:03] [Michaela]: It's 2-8-1-6-1-8-3-8-8-1.
+[04:11] [Receptionist]: Got it. So I got 2-8-1-6-1-8-3-8-8-1.
+[04:18] [Michaela]: Yep, that's correct.
+[04:19] [Receptionist]: Understood. And what is the name of that company again?
+[04:22] [Michaela]: Um, it's Ceva, C-E-V-A.
+[04:26] [Receptionist]: Ceva. Got it. Understood. Perfect. Is there anyone in particular that we need to ask for or just whoever answers can assist?
+[04:35] [Michaela]: Um, I'm not sure if there's a specific name, but I would ask for the claims department when you call.
+[04:41] [Receptionist]: Perfect. All right. Excellent. So what I'm going to do is I'm going to pass this information over to the case manager who is handling this file so they can call themselves. All right?
+[04:51] [Michaela]: Okay. Thank you so much.
+[04:53] [Receptionist]: Thank you so much for your help, ma'am.
+[04:55] [Michaela]: You're welcome. Have a good day. Bye.
+[04:57] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

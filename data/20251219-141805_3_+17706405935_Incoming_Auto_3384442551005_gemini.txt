@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Amy / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Denise / Role: Caller from Farmers Insurance: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, this is Amy speaking.
+[00:04] [Denise]: Hi, this is Denise with Farmers Insurance. I'm trying to reach Matt McKaren.
+[00:11] [Receptionist]: Yes. And in regards to which client?
+[00:15] [Denise]: This is for a Mr. Kevin Zardies.
+[00:21] [Receptionist]: Could you spell that last name for me?
+[00:24] [Denise]: Yes. Z-A-R-D-I-E-S.
+[00:30] [ ... Silence (11s) ... ]
+[00:41] [Receptionist]: What was the first letter?
+[00:42] [Denise]: Z as in zebra.
+[00:44] [Receptionist]: Oh, okay. I got it. That would actually be with Victoria Morales. She's the case manager. Let me go ahead and transfer you.
+[00:54] [Denise]: Okay, thanks.
+
+========================================
+TRANSCRIPT END
+========================================

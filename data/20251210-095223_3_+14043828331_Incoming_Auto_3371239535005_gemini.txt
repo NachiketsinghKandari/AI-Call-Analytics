@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Daniel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Steve / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Thank you for calling Bey and Associates. This is Daniel.
+[00:07] [Steve]: Yes, I was trying to reach Tana Evans?
+[00:10] [Receptionist]: You're calling from where?
+[00:12] [Steve]: This is Steve with Barry and Associates.
+[00:15] [Receptionist]: And for what case?
+[00:19] [Steve]: Uh, I'm calling on, on behalf of a mutual client that we have. We are a law firm who filed, who filed bankruptcy for a client. Her name is Starshinma Lovett. And I was calling to, uh, talk to someone about that situation.
+[00:37] [Receptionist]: Okay. One moment.
+[00:41] [Receptionist]: Thank you so much for holding. The case manager is not available. Do you want to leave a voicemail?
+[00:47] [Steve]: That'd be great. Thanks.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Angelo / Role: Receptionist at Bay and Associates: 11 turns
+  • Speaker 2 / [Speaker 2] / Role: Representative from Metro Ambulance: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, good morning, and thanks for contacting Bay and Associates. My name is Angelo. How may I help you?
+[00:11] [Speaker 2]: Hi, I'm calling on behalf of Metro Ambulance and I'm calling in reference to your client... I would have to spell the name for you.
+[00:23] [Receptionist]: Please, yes, to look up the file. What is it?
+[00:25] [Speaker 2]: It's F as in Frank, U, M, I, H as in Harry, I, R, O.
+[00:39] [Receptionist]: Yes, I found the file. What do you want me to check on this?
+[00:42] [Speaker 2]: I'm calling, um, in reference to the patient's outstanding ambulance bill of $2,018.21.
+[00:51] [Receptionist]: I get it. So could you like to check if the check was sent? If the check from the ambulance?
+[00:57] [Speaker 2]: Yes. Is this case still open or is it closed?
+[01:03] [Receptionist]: Um, it shows still open. So let's see what is the status. And are you calling on behalf of the hospital or the ambulance service?
+[01:12] [Speaker 2]: Metro Ambulance.
+[01:15] [Receptionist]: Metro Ambulance. Thank you. Let's see if the check was mailed. Let me go ahead and double check.
+[01:29] [ ... Silence (26s) ... ]
+[01:55] [Receptionist]: Yes, it shows $2,532, right?
+[02:02] [Speaker 2]: Yes, that's the bill.
+[02:05] [Receptionist]: Okay. Let me go ahead and look at this. One minute, please.
+[02:14] [ ... Silence (43s) ... ]
+[02:57] [Receptionist]: Um, so far here in the system shows that the case still is still open, alright? Since everything has been like, uh, we are still in the litigation status, we're still open, like making the verification, getting some bills paid and everything. So so far it doesn't show that the check was sent. It shows still pending. So would you like to talk by any chance with the case manager or just to double check this information and that's it?
+[03:29] [Speaker 2]: No, that's it. May I have your name for my notes?
+[03:36] [Receptionist]: Yes, this is Angelo. Angelo.
+[03:39] [Speaker 2]: Alright, thank you. Have a good day.
+[03:42] [Receptionist]: You as well. Take care. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

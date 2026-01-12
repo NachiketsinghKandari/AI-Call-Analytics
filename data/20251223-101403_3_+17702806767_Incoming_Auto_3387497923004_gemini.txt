@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Kaitlyn / Role: Caller from Progressive: 9 turns
+
+----------------------------------------
+
+[00:02] [Receptionist]: Bey and Associates, how may I help you?
+[00:04] [Kaitlyn]: Hey, this is Kaitlyn with Progressive, just trying to get some, uh, information on a mutual claim and client.
+[00:11] [Receptionist]: Uh, let me get a new screen open, I can help you.
+[00:18] [Kaitlyn]: Okay.
+[00:23] [Receptionist]: What's the client's name?
+[00:25] [Kaitlyn]: Christian, last name is T-A-N-K-A-M. It looks like Stephanie P is the point of contact here, but she's not available. We just need to make sure that their vehicle has been taken care of. Um, we've tried reaching out to everyone and nobody's answering. I'm sure it has, but we just want to make sure before we move forward with that part. And then we want to make sure that you guys have the information you need to send over the letter of representation. This accident took place in August, so we're looking to see if you guys are trying to open like a UM situation or if there's something else that's needed more for their vehicle.
+[01:01] [Receptionist]: And the last name is spelled how?
+[01:04] [Kaitlyn]: So, it's a T-A-N-K-A-M.
+[01:09] [Receptionist]: Oh, Sh-moon, yeah, the hyphenated. Okay, I found it. Sorry.
+[01:19] [Kaitlyn]: Oh, yes, sorry, it is hyphenated.
+[01:21] [Receptionist]: It's okay, no worries.
+[01:23] [ ... Silence (10s) ... ]
+[01:33] [Receptionist]: Yeah, it looks like it's for UM purposes. Uh, Geico was the liability carrier and they tendered— they're tendering their limits of 25,000, so I think this is specifically for the, um, UMBI coverage.
+[01:52] [Kaitlyn]: Okay, perfect. And did you all have a fax number for us so that we can open that up when you guys send it over?
+[01:58] [Receptionist]: Yeah. Uh, 404-393-6107, or you can email Stephanie directly, I can give you her email.
+[02:08] [Kaitlyn]: Oh, no, no, I was talking about ours, so y'all can send that letter of representation over. Sorry.
+[02:14] [Receptionist]: Um, sure. Let me see something real quick.
+[02:17] [ ... Silence (7s) ... ]
+[02:24] [Receptionist]: It looks like it was sent on Friday, so you should have it soon.
+[02:29] [Kaitlyn]: Okay, we just haven't gotten it yet, maybe— maybe it just hasn't trickled into the claim. Okay. Well, as soon as it comes in, you know, we'll go ahead and open that up and then there will be a different adjuster assigned. I'll go ahead and close out the collision portion here and, um, I'll make a note that a UMBI is going to be needed here, okay?
+[02:44] [Receptionist]: All right, sounds good.
+[02:46] [Kaitlyn]: Thank you so much. All right.
+[02:48] [Receptionist]: All right, thanks. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist]/ Role: Receptionist at Bey and Associates Law Firm: 9 turns
+  • Speaker 2 / Ariana Cook/ Role: Potential Client: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, Devin speaking.
+[00:06] [Ariana Cook]: Hello, um, my name is Ariana Cook and I'm calling to see if you all handle cases, um, where someone knowingly, um, transmitted a STD to another person and failed to disclose that.
+[00:21] [ ... Silence (5s) ... ]
+[00:26] [Ariana Cook]: Hello?
+[00:27] [Receptionist]: Um, uh, yes ma'am, I'm here. I'm trying to, to see how I can respond. Okay. So for those types of cases like that, normally we would have to do a, a little intake and get as much information as possible and send it or have an attorney review that information. If you like, I can give you my email and you can, you know, make a summary because these types of cases like this is very private, you know?
+[00:52] [ ... Silence (9s) ... ]
+[01:01] [Receptionist]: Um, I can give you my email, you can send me a little summary and I can get an attorney to take a look and see if we're able to take on the case. Okay. If you like, okay?
+[01:13] [Ariana Cook]: Okay. Yeah, what's your email?
+[01:17] [Receptionist]: Yes, my email is Devin, D-E-V-I-N, the at symbol, Bey, which would be B-E-Y, and associates, the and would be spelled out, A-N-D, associates will be plural, dot com.
+[01:46] [Ariana Cook]: Okay. And you said send over a summary?
+[01:51] [Receptionist]: Yes, so take your time, write over a summary about everything that happened, timeframes, dates, do you know this person, who is this person, relation-wise, right? Um, how long did, did it happen, when did you find out, everything happened, a brief summary of everything detailed-wise so that an attorney can take a look and review it and see if we're able to take a case or what route to get you into, okay?
+[02:22] [Ariana Cook]: Okay, thank you.
+[02:24] [Receptionist]: No, you're welcome ma'am, you're welcome. And I do it like that because it's more private, you never know who's listening to your calls, right?
+[02:33] [Ariana Cook]: Yes.
+[02:34] [Receptionist]: I suggest that.
+[02:35] [Ariana Cook]: Thank you.
+[02:36] [Receptionist]: No problem.
+[02:37] [Ariana Cook]: My bad.
+[02:38] [Receptionist]: Bye-bye.
+[02:39] [Ariana Cook]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

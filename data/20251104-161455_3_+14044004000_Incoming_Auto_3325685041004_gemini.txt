@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Devin] / Role: [Receptionist at Bey and Associates]: 10 turns
+  • Speaker 2 / [Regina] / Role: [Employee at John Foy and Associates]: 10 turns
+
+----------------------------------------
+
+[00:04] [Receptionist]: Bey and Associates, Devon speaking, good afternoon.
+[00:08] [Regina]: Did you say Devon?
+[00:11] [Receptionist]: Yes, ma'am.
+[00:13] [Regina]: Good afternoon, Devon. My name is Regina. I'm calling from John Foy and Associates. We have a client that says she was, um, represented by you all. I need to get the case manager's email address so I can send over a termination letter.
+[00:28] [Receptionist]: Okay. What is this client's first and last name, please, ma'am?
+[00:32] [Regina]: Last name Glover, first name is T as in Tom, E-D-R-I-A.
+[00:42] [Receptionist]: T-E-D-R-I-A. Okay.
+[00:46] [Regina]: Yes, last name Glover.
+[00:47] [Receptionist]: So, you would have... um, actually, looks like we withdrew. So, I can give you the email and they can forward the withdrawal letter as well, okay?
+[00:59] [Regina]: Okay.
+[01:02] [Receptionist]: The email is Stephanie, and that's Stephanie with a P-H, ending in I-E, okay, at beyandassociates.com.
+[01:17] [Regina]: And that's B-E-Y-A-N-D associates.com?
+[01:22] [Receptionist]: Associates, yes, correct, ma'am. You got it.
+[01:26] [Regina]: Okay, so let me make sure I have this correct. I have that you all withdrew from the claim, and your name is Devin, D-E-V-I-N, send an email to Stephanie at beyandassociates.com and that is B-E-Y-A-N-D associates.com.
+[01:40] [Receptionist]: Yes, ma'am.
+[01:43] [Regina]: All right, I got it. Thank you so much.
+[01:47] [Receptionist]: You're welcome. Thank you so much for calling and have a great one.
+[01:52] [Regina]: You're welcome, you too.
+[01:55] [Receptionist]: Thank you, ma'am. Bye-bye.
+[01:58] [Regina]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

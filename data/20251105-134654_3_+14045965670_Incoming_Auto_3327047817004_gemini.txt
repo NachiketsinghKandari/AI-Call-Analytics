@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / [Receptionist] / Role: Receptionist at B and Associates: 12 turns
+  • Speaker 2 / [Angie] / Role: Representative at Georgia Spine and Orthopedics: 9 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, this is Jesse from B and Associates. How can I help you?
+[00:04] [Angie]: Hi, good afternoon. My name is Angie calling with Georgia Spine and Orthopedics. I was just wanting to confirm representation, confirm who the case manager would be for a patient.
+[00:13] [Receptionist]: All right, what is the name of the patient?
+[00:15] [Angie]: Uh, first name is Ashanti, it's A-S-H-A-N-T-I, last name is Lewis, L-E-W-I-S.
+[00:23] [Receptionist]: All right, give me one moment.
+[00:25] [ ... Silence (31s) ... ]
+[00:56] [Receptionist]: All right, give me one moment, I'm still searching for the customer's profile.
+[01:01] [Angie]: Okay.
+[01:02] [Receptionist]: Ashanti Lewis, give me one moment.
+[01:06] [ ... Silence (7s) ... ]
+[01:13] [Receptionist]: Uh, thank you so much for holding, ma'am. Let me confirm with you, I'm not able to find any information. Let me confirm the spelling. So the first name would be A-S-H-A-N-T-E, Ashanti?
+[01:29] [Angie]: Um, so after the T, it's an I.
+[01:35] [Receptionist]: Oh, it's an I, my bad.
+[01:37] [Angie]: No, you're okay.
+[01:39] [ ... Silence (13s) ... ]
+[01:52] [Receptionist]: Uh, thank you so much for holding, ma'am. Let me tell you, um, by any chance, do you have the client's phone number by chance?
+[01:59] [Angie]: Um, I do, it is, let's see, it's 470-642-7829.
+[02:11] [Receptionist]: 7829, perfect. Give me one moment.
+[02:13] [Angie]: Okay.
+[02:15] [ ... Silence (50s) ... ]
+[03:05] [Receptionist]: Uh, thank you so much for holding, ma'am. Let me tell you, so I tried to search with the name, the last name, the phone number, I got the correct spelling, and I'm not able to find the profile. However, that does- that doesn't mean that we don't have- that that's not one of our clients. We might have to create the file. Would it be possible for you to give us a call back tomorrow? That way you can give us a little time.
+[03:27] [Angie]: Okay, yeah, no problem. I can most definitely reach out tomorrow. Thank you so much for your help.
+[03:33] [Receptionist]: Thank you so much, ma'am. My apologies.
+[03:35] [Angie]: No, no problem. Have a great day. Bye-bye.
+[03:39] [Receptionist]: Thank you, you too. Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

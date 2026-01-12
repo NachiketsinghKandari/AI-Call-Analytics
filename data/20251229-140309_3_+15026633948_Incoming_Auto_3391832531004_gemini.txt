@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimmy / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Unknown / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates, Kimmy speaking.
+[00:05] [Unknown]: Hey Kimmy, um, I was wondering if Lonnie was available?
+[00:10] [Receptionist]: I'm sorry?
+[00:12] [Unknown]: Um, Lonnie.
+[00:15] [Receptionist]: Lonnie? Oh, okay. One sec, let me transfer you over. Alright, sending you over. Have a great rest of your day.
+[00:25] [Unknown]: You too.
+[00:26] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

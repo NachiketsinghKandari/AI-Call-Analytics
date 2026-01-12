@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 2 / Terrica Mitchell / Role: Caller: 3 turns
+  • Speaker 3 / Unknown / Role: Background Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: Bey and Associates Law Firm, this is Lionel, how can I help you?
+[00:05] [Terrica Mitchell]: Um, yes, I'm trying to talk to my advocate, um, um, on my phone.
+[00:12] [Receptionist]: Can I have your name?
+[00:14] [Terrica Mitchell]: Terrica Mitchell.
+[00:16] [Unknown]: And just so that you two are just friends and nothing more, there's no real type of...
+[00:23] [Receptionist]: Okay, let me try to get the case manager, one moment.
+[00:27] [Terrica Mitchell]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

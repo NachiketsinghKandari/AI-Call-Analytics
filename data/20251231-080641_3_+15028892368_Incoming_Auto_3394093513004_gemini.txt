@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Emma / Role: Receptionist: 7 turns
+  • Speaker 2 / Jeff Duggins / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This is Emma. How can I help you?
+[00:03] [Jeff Duggins]: Yes, Emma. Taylor Middleton, please.
+[00:08] [Receptionist]: Sure, I can try to reach Taylor Middleton. May I have your name?
+[00:12] [Jeff Duggins]: Jeff Duggins.
+[00:15] [ ... Silence (6s) ... ]
+[00:21] [Receptionist]: Taylor Middleton is currently unavailable. I'd be happy to take a message and ensure they reach out to you.
+[00:27] [Jeff Duggins]: Yes. Uh, please return my phone call, 502-889-2368.
+[00:38] [Receptionist]: Got it. I'll make sure Taylor Middleton gets your message and returns your call. I've noted your phone number as 502-889-2368. Is that correct?
+[00:55] [Jeff Duggins]: Yes, Georgia Medicaid.
+[00:58] [Receptionist]: Thank you. I'll convey your message to Taylor Middleton regarding Georgia Medicaid. They'll reach out to you soon.
+[01:07] [Jeff Duggins]: I hope so.
+[01:10] [Receptionist]: We'll ensure Taylor connects with you as soon as possible. If you need further assistance—
+[01:14] [Jeff Duggins]: Thank you.
+[01:15] [Receptionist]: You're welcome. Have a great day.
+
+========================================
+TRANSCRIPT END
+========================================

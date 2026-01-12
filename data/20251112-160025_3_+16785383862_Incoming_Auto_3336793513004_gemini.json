@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist provided the case status, the name of the assigned case manager, and the case manager's direct phone number. The caller agreed to call the case manager back directly in 10 to 15 minutes.",
+    "call_duration_seconds": 142.99,
+    "call_duration_formatted": "02:22"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted because the receptionist identified that the requested staff member was currently on another call."
+  }
+}
