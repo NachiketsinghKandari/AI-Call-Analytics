@@ -1,6 +1,7 @@
 'use client';
 
-import { useMemo, useState, useEffect } from 'react';
+import { useMemo } from 'react';
+import { useHydrated } from '@/lib/hooks';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Switch } from '@/components/ui/switch';
@@ -96,13 +97,8 @@ function KPICard({
 }
 
 export default function FlowPage() {
-  const [mounted, setMounted] = useState(false);
+  const hydrated = useHydrated();
   const { files, filters, sankeyOptions, setSankeyOptions, setSelectedFileId } = useCallDataStore();
-
-  // Prevent hydration mismatch from Radix UI Tabs
-  useEffect(() => {
-    setMounted(true);
-  }, []);
 
   const filteredFiles = useMemo(() => {
     return applyAllFilters(files, filters);
@@ -280,7 +276,7 @@ export default function FlowPage() {
           <CardTitle className="text-sm">Flow Visualization</CardTitle>
         </CardHeader>
         <CardContent className="py-0 pb-4">
-          {mounted ? (
+          {hydrated ? (
             <Tabs value={currentPreset} onValueChange={handlePresetChange}>
               <TabsList className="grid w-full grid-cols-5">
                 <TabsTrigger value="resolution" className="text-xs sm:text-sm">
@@ -318,7 +314,7 @@ export default function FlowPage() {
           </p>
 
           {/* Custom Options Panel */}
-          {mounted && currentPreset === 'custom' && (
+          {hydrated && currentPreset === 'custom' && (
             <div className="mt-4 pt-4 border-t space-y-4">
               {/* Header with Reset */}
               <div className="flex items-center justify-between">

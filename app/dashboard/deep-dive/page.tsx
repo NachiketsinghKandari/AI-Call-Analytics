@@ -1,7 +1,8 @@
 'use client';
 
-import { useMemo, useState, useCallback, useEffect } from 'react';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { useMemo, useState, useCallback } from 'react';
+import { useHydrated } from '@/lib/hooks';
+import { Card, CardContent, CardHeader } from '@/components/ui/card';
 import { FileList, useSelectedFile } from '@/components/data/FileList';
 import { FileViewer } from '@/components/data/FileViewer';
 import { useCallDataStore } from '@/store/callDataStore';
@@ -15,12 +16,7 @@ export default function DeepDivePage() {
   const { files, filters, selectedFileId, setSelectedFileId } = useCallDataStore();
   const selectedFile = useSelectedFile();
   const [isFileListOpen, setIsFileListOpen] = useState(false);
-  const [mounted, setMounted] = useState(false);
-
-  // Prevent hydration mismatch with Radix UI components
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  const hydrated = useHydrated();
 
   const filteredFiles = useMemo(() => {
     return applyAllFilters(files, filters);
@@ -91,7 +87,7 @@ export default function DeepDivePage() {
       </div>
 
       {/* Collapsible File Search */}
-      {mounted ? (
+      {hydrated ? (
         <Collapsible open={isFileListOpen} onOpenChange={setIsFileListOpen}>
           <Card>
             <CollapsibleTrigger asChild>

@@ -1,6 +1,7 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
+import { useHydrated } from '@/lib/hooks';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Input } from '@/components/ui/input';
@@ -30,13 +31,9 @@ function DefinitionCard({ field }: { field: FieldDefinition }) {
 
 function CategorySection({ category, defaultOpen = false }: { category: CategoryDefinition; defaultOpen?: boolean }) {
   const [isOpen, setIsOpen] = useState(defaultOpen);
-  const [mounted, setMounted] = useState(false);
+  const hydrated = useHydrated();
 
-  useEffect(() => {
-    setMounted(true);
-  }, []);
-
-  if (!mounted) {
+  if (!hydrated) {
     return (
       <Card className="py-4">
         <CardHeader className="pb-2">
@@ -125,7 +122,7 @@ export default function InfoPage() {
             spoken evidence from transcripts. It focuses on what the receptionist actually did, not caller
             emotions or satisfaction. Resolution means a valid operational terminal state was reached.
             Transfer detection is binary - if a transfer was attempted, the resolution type must be
-            "transfer_attempted" regardless of other factors.
+            &quot;transfer_attempted&quot; regardless of other factors.
           </p>
         </CardContent>
       </Card>
@@ -139,7 +136,7 @@ export default function InfoPage() {
           <ul className="space-y-2 text-sm text-muted-foreground">
             <li className="flex gap-2">
               <span className="text-primary font-bold">1.</span>
-              <span>If any transfer destination is recorded, resolution type <strong>must</strong> be "transfer_attempted"</span>
+              <span>If any transfer destination is recorded, resolution type <strong>must</strong> be &quot;transfer_attempted&quot;</span>
             </li>
             <li className="flex gap-2">
               <span className="text-primary font-bold">2.</span>
@@ -151,7 +148,7 @@ export default function InfoPage() {
             </li>
             <li className="flex gap-2">
               <span className="text-primary font-bold">4.</span>
-              <span>Spanish speakers are classified as "spanish_speaker" regardless of their role</span>
+              <span>Spanish speakers are classified as &quot;spanish_speaker&quot; regardless of their role</span>
             </li>
             <li className="flex gap-2">
               <span className="text-primary font-bold">5.</span>
@@ -171,7 +168,7 @@ export default function InfoPage() {
       {filteredCategories.length === 0 && (
         <Card>
           <CardContent className="p-8 text-center text-muted-foreground">
-            No definitions found matching "{searchTerm}"
+            No definitions found matching &quot;{searchTerm}&quot;
           </CardContent>
         </Card>
       )}

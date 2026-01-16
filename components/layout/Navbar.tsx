@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useHydrated } from '@/lib/hooks';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { GitBranch, Grid3X3, FileSearch, LogOut, Menu, BookOpen } from 'lucide-react';
@@ -23,15 +23,10 @@ const navItems = [
 ];
 
 export function Navbar() {
-  const [mounted, setMounted] = useState(false);
+  const hydrated = useHydrated();
   const pathname = usePathname();
   const router = useRouter();
   const { clearData, stats, dataSource } = useCallDataStore();
-
-  // Prevent hydration mismatch by only rendering Radix components after mount
-  useEffect(() => {
-    setMounted(true);
-  }, []);
 
   const handleChangeData = () => {
     clearData();
@@ -73,7 +68,7 @@ export function Navbar() {
 
         {/* Mobile Navigation */}
         <div className="md:hidden flex-1">
-          {mounted ? (
+          {hydrated ? (
             <Sheet>
               <SheetTrigger asChild>
                 <Button variant="ghost" size="icon">

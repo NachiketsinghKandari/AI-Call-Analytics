@@ -1,6 +1,7 @@
 'use client';
 
 import { useMemo, useCallback, useState, useEffect } from 'react';
+import { useHydrated } from '@/lib/hooks';
 import dynamic from 'next/dynamic';
 import { useTheme } from 'next-themes';
 import type { FileInfo, SankeyOptions } from '@/lib/types';
@@ -29,20 +30,22 @@ interface PlotlySankeyProps {
   onFilesSelect?: (files: FileInfo[]) => void;
 }
 
+// Type for Sankey link click point (Plotly doesn't export this)
+interface SankeyLinkPoint {
+  source: { index: number };
+  target: { index: number };
+  pointNumber: number;
+}
+
 export function PlotlySankey({ files, options, height = 600, onFilesSelect }: PlotlySankeyProps) {
   const { resolvedTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
+  const hydrated = useHydrated();
   const isDarkMode = resolvedTheme === 'dark';
   const [selectedFiles, setSelectedFiles] = useState<FileInfo[] | null>(null);
   const [modalOpen, setModalOpen] = useState(false);
   const [modalIndex, setModalIndex] = useState(0);
   const [showNotification, setShowNotification] = useState(false);
   const [isSelectionVisible, setIsSelectionVisible] = useState(false);
-
-  // Ensure component is mounted before rendering Plotly
-  useEffect(() => {
-    setMounted(true);
-  }, []);
 
   const { trace, layout, linkToFilesMap } = useMemo(() => {
     return buildPlotlySankeyTrace(files, options, isDarkMode);
@@ -57,7 +60,8 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect }: Pl
   useEffect(() => {
     const element = document.getElementById('selected-flow-section');
     if (!element) {
-      setIsSelectionVisible(false);
+      // Use queueMicrotask to avoid synchronous setState in effect
+      queueMicrotask(() => setIsSelectionVisible(false));
       return;
     }
 
@@ -81,7 +85,7 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect }: Pl
   const handleClick = useCallback((event: Readonly<Plotly.PlotMouseEvent>) => {
     // Handle link clicks
     if (event.points && event.points.length > 0) {
-      const point = event.points[0] as any;
+      const point = event.points[0] as unknown as SankeyLinkPoint;
 
       // Check if it's a link click (has source/target)
       if (point.source !== undefined && point.target !== undefined) {
@@ -141,7 +145,7 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect }: Pl
         </div>
       )}
 
-      {mounted ? (
+      {hydrated ? (
         <Plot
           key={plotKey}
           data={[trace]}
