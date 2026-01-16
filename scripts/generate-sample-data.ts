@@ -48,6 +48,9 @@ interface FileInfo {
   final_outcome: string;
   transcript: string | null;
   data: CallData;
+  // VAPI-specific fields (null for sample data)
+  assistantId: string | null;
+  squadId: string | null;
 }
 
 interface DataStats {
@@ -56,6 +59,8 @@ interface DataStats {
   callerTypes: string[];
   primaryIntents: string[];
   durationRange: [number, number];
+  assistantIds: string[];
+  squadIds: string[];
 }
 
 // Utility functions
@@ -180,6 +185,8 @@ function computeStats(files: FileInfo[]): DataStats {
       minDuration === Infinity ? 0 : Math.floor(minDuration),
       maxDuration === -Infinity ? 600 : Math.ceil(maxDuration),
     ],
+    assistantIds: [], // Not applicable for sample data
+    squadIds: [], // Not applicable for sample data
   };
 }
 
@@ -272,6 +279,8 @@ function generate() {
         final_outcome: callData.call_summary.final_outcome,
         transcript,
         data: callData,
+        assistantId: null, // Not applicable for sample data
+        squadId: null, // Not applicable for sample data
       });
 
       processed++;

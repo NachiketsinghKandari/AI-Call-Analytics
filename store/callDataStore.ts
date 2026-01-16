@@ -41,6 +41,8 @@ const defaultFilters: FilterState = {
   transferStatus: ['successful', 'failed', 'no_transfer'],
   durationRange: [0, 600],
   multiCase: ['true', 'false', 'unknown'],
+  assistantIds: [],
+  squadIds: [],
 };
 
 const defaultCustomOptions: CustomSankeyOptions = {
@@ -62,6 +64,8 @@ function computeStats(files: FileInfo[]): DataStats {
   const resolutionTypes = new Set<string>();
   const callerTypes = new Set<string>();
   const primaryIntents = new Set<string>();
+  const assistantIds = new Set<string>();
+  const squadIds = new Set<string>();
   let minDuration = Infinity;
   let maxDuration = -Infinity;
 
@@ -75,6 +79,13 @@ function computeStats(files: FileInfo[]): DataStats {
       minDuration = Math.min(minDuration, file.call_duration);
       maxDuration = Math.max(maxDuration, file.call_duration);
     }
+    // VAPI-specific fields
+    if (file.assistantId) {
+      assistantIds.add(file.assistantId);
+    }
+    if (file.squadId) {
+      squadIds.add(file.squadId);
+    }
   }
 
   return {
@@ -86,6 +97,8 @@ function computeStats(files: FileInfo[]): DataStats {
       minDuration === Infinity ? 0 : Math.floor(minDuration),
       maxDuration === -Infinity ? 600 : Math.ceil(maxDuration),
     ],
+    assistantIds: Array.from(assistantIds).sort(),
+    squadIds: Array.from(squadIds).sort(),
   };
 }
 
@@ -105,12 +118,17 @@ export const useCallDataStore = create<CallDataState>()(
       // Actions
       setFiles: (files) => {
         const stats = computeStats(files);
+        // Include 'none' in assistant/squad filters to show files without these IDs
+        const hasNullAssistant = files.some(f => f.assistantId === null);
+        const hasNullSquad = files.some(f => f.squadId === null);
         const newFilters: FilterState = {
           ...defaultFilters,
           resolutionTypes: stats.resolutionTypes,
           callerTypes: stats.callerTypes,
           primaryIntents: stats.primaryIntents,
           durationRange: stats.durationRange,
+          assistantIds: hasNullAssistant ? [...stats.assistantIds, 'none'] : stats.assistantIds,
+          squadIds: hasNullSquad ? [...stats.squadIds, 'none'] : stats.squadIds,
         };
         set({
           files,
@@ -132,8 +150,11 @@ export const useCallDataStore = create<CallDataState>()(
         })),
 
       resetFilters: () => {
-        const { stats } = get();
+        const { stats, files } = get();
         if (stats) {
+          // Include 'none' in assistant/squad filters to show files without these IDs
+          const hasNullAssistant = files.some(f => f.assistantId === null);
+          const hasNullSquad = files.some(f => f.squadId === null);
           set({
             filters: {
               ...defaultFilters,
@@ -141,6 +162,8 @@ export const useCallDataStore = create<CallDataState>()(
               callerTypes: stats.callerTypes,
               primaryIntents: stats.primaryIntents,
               durationRange: stats.durationRange,
+              assistantIds: hasNullAssistant ? [...stats.assistantIds, 'none'] : stats.assistantIds,
+              squadIds: hasNullSquad ? [...stats.squadIds, 'none'] : stats.squadIds,
             },
           });
         } else {

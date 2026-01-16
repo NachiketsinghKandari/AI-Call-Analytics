@@ -84,6 +84,30 @@ export function matchesMultiCase(file: FileInfo, values: MultiCaseStatus[]): boo
 }
 
 /**
+ * Check if file matches assistant ID filter (VAPI-specific)
+ */
+export function matchesAssistantId(file: FileInfo, ids: string[]): boolean {
+  if (ids.length === 0) return true;
+  // Files without assistantId match if 'none' is in the filter, otherwise match by ID
+  if (file.assistantId === null) {
+    return ids.includes('none');
+  }
+  return ids.includes(file.assistantId);
+}
+
+/**
+ * Check if file matches squad ID filter (VAPI-specific)
+ */
+export function matchesSquadId(file: FileInfo, ids: string[]): boolean {
+  if (ids.length === 0) return true;
+  // Files without squadId match if 'none' is in the filter, otherwise match by ID
+  if (file.squadId === null) {
+    return ids.includes('none');
+  }
+  return ids.includes(file.squadId);
+}
+
+/**
  * Apply all filters to a list of files
  */
 export function applyAllFilters(files: FileInfo[], filters: FilterState): FileInfo[] {
@@ -95,7 +119,9 @@ export function applyAllFilters(files: FileInfo[], filters: FilterState): FileIn
       matchesPrimaryIntent(file, filters.primaryIntents) &&
       matchesTransferSuccess(file, filters.transferStatus) &&
       matchesDuration(file, filters.durationRange) &&
-      matchesMultiCase(file, filters.multiCase)
+      matchesMultiCase(file, filters.multiCase) &&
+      matchesAssistantId(file, filters.assistantIds) &&
+      matchesSquadId(file, filters.squadIds)
     );
   });
 }
@@ -105,7 +131,7 @@ export function applyAllFilters(files: FileInfo[], filters: FilterState): FileIn
  */
 export function calculateDimensionCounts(
   files: FileInfo[],
-  dimension: 'resolution_type' | 'caller_type' | 'primary_intent' | 'achieved' | 'transfer' | 'multi_case'
+  dimension: 'resolution_type' | 'caller_type' | 'primary_intent' | 'achieved' | 'transfer' | 'multi_case' | 'assistant_id' | 'squad_id'
 ): Map<string, { count: number; duration: number }> {
   const counts = new Map<string, { count: number; duration: number }>();
 
@@ -139,6 +165,12 @@ export function calculateDimensionCounts(
         else key = 'unknown';
         break;
       }
+      case 'assistant_id':
+        key = file.assistantId || 'none';
+        break;
+      case 'squad_id':
+        key = file.squadId || 'none';
+        break;
     }
 
     const existing = counts.get(key) || { count: 0, duration: 0 };

@@ -48,6 +48,9 @@ interface FileInfo {
   final_outcome: string;
   transcript: string | null;
   data: CallData;
+  // VAPI-specific fields
+  assistantId: string | null;
+  squadId: string | null;
 }
 
 interface DataStats {
@@ -56,6 +59,8 @@ interface DataStats {
   callerTypes: string[];
   primaryIntents: string[];
   durationRange: [number, number];
+  assistantIds: string[];
+  squadIds: string[];
 }
 
 // VAPI source data structure
@@ -65,6 +70,8 @@ interface VapiRecord {
   type: string;
   endedReason: string;
   durationSeconds: number | null;
+  assistantId: string | null;
+  squadId: string | null;
   llm_analysis: {
     caller_type: string;
     call_summary: {
@@ -105,6 +112,8 @@ function computeStats(files: FileInfo[]): DataStats {
   const resolutionTypes = new Set<string>();
   const callerTypes = new Set<string>();
   const primaryIntents = new Set<string>();
+  const assistantIds = new Set<string>();
+  const squadIds = new Set<string>();
   let minDuration = Infinity;
   let maxDuration = -Infinity;
 
@@ -116,6 +125,8 @@ function computeStats(files: FileInfo[]): DataStats {
       minDuration = Math.min(minDuration, file.call_duration);
       maxDuration = Math.max(maxDuration, file.call_duration);
     }
+    if (file.assistantId) assistantIds.add(file.assistantId);
+    if (file.squadId) squadIds.add(file.squadId);
   }
 
   return {
@@ -127,6 +138,8 @@ function computeStats(files: FileInfo[]): DataStats {
       minDuration === Infinity ? 0 : Math.floor(minDuration),
       maxDuration === -Infinity ? 600 : Math.ceil(maxDuration),
     ],
+    assistantIds: Array.from(assistantIds).sort(),
+    squadIds: Array.from(squadIds).sort(),
   };
 }
 
@@ -182,6 +195,8 @@ function transformVapiRecord(record: VapiRecord): FileInfo | null {
     final_outcome: callSummary.final_outcome || '',
     transcript: record.transcript,
     data: callData,
+    assistantId: record.assistantId,
+    squadId: record.squadId,
   };
 }
 
@@ -255,6 +270,8 @@ function generate() {
   console.log(`  Caller types: ${stats.callerTypes.length}`);
   console.log(`  Primary intents: ${stats.primaryIntents.length}`);
   console.log(`  Duration range: ${stats.durationRange[0]}s - ${stats.durationRange[1]}s`);
+  console.log(`  Assistant IDs: ${stats.assistantIds.length}`);
+  console.log(`  Squad IDs: ${stats.squadIds.length}`);
 }
 
 generate();

@@ -120,6 +120,14 @@ export function FilterSidebar() {
     return calculateDimensionCounts(filteredFiles, 'multi_case');
   }, [filteredFiles]);
 
+  const assistantCounts = useMemo(() => {
+    return calculateDimensionCounts(filteredFiles, 'assistant_id');
+  }, [filteredFiles]);
+
+  const squadCounts = useMemo(() => {
+    return calculateDimensionCounts(filteredFiles, 'squad_id');
+  }, [filteredFiles]);
+
   const handleResolutionTypeChange = (type: string, checked: boolean) => {
     const newTypes = checked
       ? [...filters.resolutionTypes, type]
@@ -159,6 +167,20 @@ export function FilterSidebar() {
     setFilters({ durationRange: [values[0], values[1]] });
   };
 
+  const handleAssistantIdChange = (id: string, checked: boolean) => {
+    const newIds = checked
+      ? [...filters.assistantIds, id]
+      : filters.assistantIds.filter((i) => i !== id);
+    setFilters({ assistantIds: newIds });
+  };
+
+  const handleSquadIdChange = (id: string, checked: boolean) => {
+    const newIds = checked
+      ? [...filters.squadIds, id]
+      : filters.squadIds.filter((i) => i !== id);
+    setFilters({ squadIds: newIds });
+  };
+
   // Select All / Unselect All handlers
   const selectAllResolutionTypes = () => {
     if (stats) setFilters({ resolutionTypes: [...stats.resolutionTypes] });
@@ -193,6 +215,27 @@ export function FilterSidebar() {
   };
   const unselectAllMultiCase = () => {
     setFilters({ multiCase: [] });
+  };
+
+  // VAPI-specific filters
+  const selectAllAssistantIds = () => {
+    if (stats) {
+      const allIds = stats.assistantIds.length > 0 ? [...stats.assistantIds, 'none'] : ['none'];
+      setFilters({ assistantIds: allIds });
+    }
+  };
+  const unselectAllAssistantIds = () => {
+    setFilters({ assistantIds: [] });
+  };
+
+  const selectAllSquadIds = () => {
+    if (stats) {
+      const allIds = stats.squadIds.length > 0 ? [...stats.squadIds, 'none'] : ['none'];
+      setFilters({ squadIds: allIds });
+    }
+  };
+  const unselectAllSquadIds = () => {
+    setFilters({ squadIds: [] });
   };
 
   if (!stats) {
@@ -431,6 +474,104 @@ export function FilterSidebar() {
             })}
           </div>
         </FilterSection>
+
+        {/* Assistant ID - VAPI only */}
+        {stats.assistantIds.length > 0 && (
+          <>
+            <Separator />
+            <FilterSection
+              title="Assistant ID"
+              count={filters.assistantIds.length}
+              onSelectAll={selectAllAssistantIds}
+              onUnselectAll={unselectAllAssistantIds}
+            >
+              <div className="space-y-2">
+                {stats.assistantIds.map((id) => {
+                  const count = assistantCounts.get(id)?.count || 0;
+                  const shortId = id.slice(0, 8) + '...';
+                  return (
+                    <div key={id} className="flex items-center space-x-2">
+                      <Checkbox
+                        id={`assistant-${id}`}
+                        checked={filters.assistantIds.includes(id)}
+                        onCheckedChange={(checked) =>
+                          handleAssistantIdChange(id, checked as boolean)
+                        }
+                      />
+                      <Label htmlFor={`assistant-${id}`} className="flex-1 text-xs cursor-pointer font-mono truncate" title={id}>
+                        {shortId}
+                      </Label>
+                      <span className="text-xs text-muted-foreground tabular-nums">{formatCountWithPercent(count, filteredFiles.length)}</span>
+                    </div>
+                  );
+                })}
+                {/* None option for calls without assistantId */}
+                <div className="flex items-center space-x-2">
+                  <Checkbox
+                    id="assistant-none"
+                    checked={filters.assistantIds.includes('none')}
+                    onCheckedChange={(checked) =>
+                      handleAssistantIdChange('none', checked as boolean)
+                    }
+                  />
+                  <Label htmlFor="assistant-none" className="flex-1 text-xs cursor-pointer italic">
+                    (none)
+                  </Label>
+                  <span className="text-xs text-muted-foreground tabular-nums">{formatCountWithPercent(assistantCounts.get('none')?.count || 0, filteredFiles.length)}</span>
+                </div>
+              </div>
+            </FilterSection>
+          </>
+        )}
+
+        {/* Squad ID - VAPI only */}
+        {stats.squadIds.length > 0 && (
+          <>
+            <Separator />
+            <FilterSection
+              title="Squad ID"
+              count={filters.squadIds.length}
+              onSelectAll={selectAllSquadIds}
+              onUnselectAll={unselectAllSquadIds}
+            >
+              <div className="space-y-2">
+                {stats.squadIds.map((id) => {
+                  const count = squadCounts.get(id)?.count || 0;
+                  const shortId = id.slice(0, 8) + '...';
+                  return (
+                    <div key={id} className="flex items-center space-x-2">
+                      <Checkbox
+                        id={`squad-${id}`}
+                        checked={filters.squadIds.includes(id)}
+                        onCheckedChange={(checked) =>
+                          handleSquadIdChange(id, checked as boolean)
+                        }
+                      />
+                      <Label htmlFor={`squad-${id}`} className="flex-1 text-xs cursor-pointer font-mono truncate" title={id}>
+                        {shortId}
+                      </Label>
+                      <span className="text-xs text-muted-foreground tabular-nums">{formatCountWithPercent(count, filteredFiles.length)}</span>
+                    </div>
+                  );
+                })}
+                {/* None option for calls without squadId */}
+                <div className="flex items-center space-x-2">
+                  <Checkbox
+                    id="squad-none"
+                    checked={filters.squadIds.includes('none')}
+                    onCheckedChange={(checked) =>
+                      handleSquadIdChange('none', checked as boolean)
+                    }
+                  />
+                  <Label htmlFor="squad-none" className="flex-1 text-xs cursor-pointer italic">
+                    (none)
+                  </Label>
+                  <span className="text-xs text-muted-foreground tabular-nums">{formatCountWithPercent(squadCounts.get('none')?.count || 0, filteredFiles.length)}</span>
+                </div>
+              </div>
+            </FilterSection>
+          </>
+        )}
         </div>
       </div>
     </TooltipProvider>

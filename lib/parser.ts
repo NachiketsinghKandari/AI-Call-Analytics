@@ -218,6 +218,8 @@ export async function processFiles(
         final_outcome: callData.call_summary.final_outcome,
         transcript,
         data: callData,
+        assistantId: null, // Not applicable for uploaded data
+        squadId: null, // Not applicable for uploaded data
       };
 
       results.push(fileInfo);

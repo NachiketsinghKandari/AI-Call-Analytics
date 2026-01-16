@@ -42,6 +42,9 @@ export interface FileInfo {
   final_outcome: string;
   transcript: string | null;
   data: CallData;
+  // VAPI-specific fields (null for non-VAPI data)
+  assistantId: string | null;
+  squadId: string | null;
 }
 
 export type AchievedStatus = 'resolved' | 'unresolved' | 'unknown';
@@ -56,6 +59,9 @@ export interface FilterState {
   transferStatus: TransferStatus[];
   durationRange: [number, number];
   multiCase: MultiCaseStatus[];
+  // VAPI-specific filters
+  assistantIds: string[];
+  squadIds: string[];
 }
 
 export interface DataStats {
@@ -64,6 +70,9 @@ export interface DataStats {
   callerTypes: string[];
   primaryIntents: string[];
   durationRange: [number, number];
+  // VAPI-specific stats (empty arrays for non-VAPI data)
+  assistantIds: string[];
+  squadIds: string[];
 }
 
 // Sankey diagram types
