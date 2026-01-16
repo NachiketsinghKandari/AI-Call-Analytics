@@ -2,7 +2,7 @@
 
 import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
-import { Upload, Database, ArrowRight, Loader2 } from 'lucide-react';
+import { Upload, Database, Phone, ArrowRight, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { FolderUploader } from '@/components/data/FolderUploader';
@@ -14,6 +14,7 @@ export default function HomePage() {
   const router = useRouter();
   const { files, dataSource, setLoading, setFiles, setDataSource, setError } = useCallDataStore();
   const [isLoadingSample, setIsLoadingSample] = useState(false);
+  const [isLoadingVapi, setIsLoadingVapi] = useState(false);
 
   // Redirect to dashboard if data is loaded
   useEffect(() => {
@@ -44,6 +45,28 @@ export default function HomePage() {
     }
   };
 
+  const handleLoadVapiData = async () => {
+    setIsLoadingVapi(true);
+    setLoading(true);
+    setError(null);
+
+    try {
+      const response = await fetch('/api/vapi-data');
+      if (!response.ok) {
+        throw new Error('Failed to load VAPI data');
+      }
+      const data = await response.json();
+      setFiles(data.files);
+      setDataSource('vapi');
+      router.push('/dashboard/flow');
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Failed to load VAPI data');
+      setIsLoadingVapi(false);
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <main className="min-h-screen bg-background">
       {/* Header with theme toggle */}
@@ -67,7 +90,7 @@ export default function HomePage() {
         </div>
 
         {/* Data Source Options */}
-        <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+        <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
           {/* Upload Folder */}
           <Card className="relative overflow-hidden p-4">
             <CardHeader className="pb-2">
@@ -118,6 +141,43 @@ export default function HomePage() {
               </Button>
               <p className="text-xs text-muted-foreground mt-4 text-center">
                 1,000+ real call records with transcripts
+              </p>
+            </CardContent>
+          </Card>
+
+          {/* VAPI Data */}
+          <Card className="relative overflow-hidden p-4">
+            <CardHeader className="pb-2">
+              <div className="flex items-center gap-2">
+                <Phone className="h-5 w-5 text-primary" />
+                <CardTitle>Load VAPI Data</CardTitle>
+              </div>
+              <CardDescription>
+                Explore 730 analyzed VAPI call records with full transcripts
+                and AI analysis.
+              </CardDescription>
+            </CardHeader>
+            <CardContent className="pt-4 flex flex-col items-center justify-center flex-1">
+              <Button
+                size="lg"
+                onClick={handleLoadVapiData}
+                disabled={isLoadingVapi}
+                className="gap-2"
+              >
+                {isLoadingVapi ? (
+                  <>
+                    <Loader2 className="h-4 w-4 animate-spin" />
+                    Loading...
+                  </>
+                ) : (
+                  <>
+                    Load VAPI Data
+                    <ArrowRight className="h-4 w-4" />
+                  </>
+                )}
+              </Button>
+              <p className="text-xs text-muted-foreground mt-4 text-center">
+                730 call records with AI analysis
               </p>
             </CardContent>
           </Card>

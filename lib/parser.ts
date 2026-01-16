@@ -248,3 +248,20 @@ export async function loadSampleData(): Promise<FileInfo[]> {
     throw error;
   }
 }
+
+/**
+ * Load VAPI data from bundled JSON files
+ */
+export async function loadVapiData(): Promise<FileInfo[]> {
+  try {
+    const response = await fetch('/api/vapi-data');
+    if (!response.ok) {
+      throw new Error('Failed to load VAPI data');
+    }
+    const data = await response.json();
+    return data.files as FileInfo[];
+  } catch (error) {
+    console.error('Error loading VAPI data:', error);
+    throw error;
+  }
+}

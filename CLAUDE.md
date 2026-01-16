@@ -51,6 +51,21 @@ const { files, filters, setFiles, setFilters } = useCallDataStore();
 
 State shape: `files` (FileInfo[]), `filters` (FilterState), `dataSource`, `selectedFileId`, `sankeyOptions`
 
+### Core Data Types
+
+Key fields in `FileInfo` (`lib/types.ts`):
+- `resolution_type`, `caller_type`, `primary_intent` - Categorical fields from controlled vocabularies
+- `resolution_achieved: boolean | null` - Whether call was resolved
+- `transfer_success: boolean | null` - Transfer outcome (null = no transfer)
+- `call_duration: number | null` - Duration in seconds
+
+Filter axes in `FilterState`:
+- `resolutionTypes`, `callerTypes`, `primaryIntents` - Multi-select string arrays
+- `achievedStatus` - 'resolved' | 'unresolved' | 'unknown'
+- `transferStatus` - 'successful' | 'failed' | 'no_transfer'
+- `durationRange: [number, number]` - Min/max seconds (0-600)
+- `multiCase` - 'true' | 'false' | 'unknown'
+
 ### Adding Features
 
 **New filter dimension:**

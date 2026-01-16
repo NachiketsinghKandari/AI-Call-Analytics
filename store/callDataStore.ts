@@ -7,7 +7,7 @@ interface CallDataState {
   files: FileInfo[];
   isLoading: boolean;
   error: string | null;
-  dataSource: 'none' | 'sample' | 'uploaded';
+  dataSource: 'none' | 'sample' | 'uploaded' | 'vapi';
 
   // Computed stats
   stats: DataStats | null;
@@ -25,7 +25,7 @@ interface CallDataState {
   setFiles: (files: FileInfo[]) => void;
   setLoading: (loading: boolean) => void;
   setError: (error: string | null) => void;
-  setDataSource: (source: 'none' | 'sample' | 'uploaded') => void;
+  setDataSource: (source: 'none' | 'sample' | 'uploaded' | 'vapi') => void;
   setFilters: (filters: Partial<FilterState>) => void;
   resetFilters: () => void;
   setSelectedFileId: (id: string | null) => void;
