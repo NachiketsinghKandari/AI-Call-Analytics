@@ -15,10 +15,12 @@ import {
 import { FilterSidebar } from './FilterSidebar';
 import { useCallDataStore } from '@/store/callDataStore';
 import { applyAllFilters } from '@/lib/filters';
+import { useHydrated } from '@/lib/hooks';
 
 export function MobileFilterSheet() {
   const [open, setOpen] = useState(false);
   const { filters, stats, files } = useCallDataStore();
+  const hydrated = useHydrated();
 
   // Calculate number of active filters (non-default selections)
   const activeFilterCount = useMemo(() => {
@@ -82,6 +84,18 @@ export function MobileFilterSheet() {
     if (!files.length) return 0;
     return applyAllFilters(files, filters).length;
   }, [files, filters]);
+
+  // Render placeholder during SSR to avoid Radix ID hydration mismatch
+  if (!hydrated) {
+    return (
+      <Button
+        size="icon"
+        className="relative rounded-full h-14 w-14 shadow-xl hover:shadow-2xl transition-shadow bg-primary hover:bg-primary/90"
+      >
+        <SlidersHorizontal className="h-5 w-5" />
+      </Button>
+    );
+  }
 
   return (
     <Sheet open={open} onOpenChange={setOpen}>
