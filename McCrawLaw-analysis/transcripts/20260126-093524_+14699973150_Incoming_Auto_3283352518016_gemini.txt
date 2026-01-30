@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Richard / Role: Receptionist at McGraw Law Group: 9 turns
+  • Speaker 2 / Shaina Young / Role: Caller: 8 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 2 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Unknown]: This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: McGraw Law Group, this is Richard, how can I help?
+[00:15] [Shaina Young]: Hi Richard, my name is Shaina and I'm with Safeco Insurance. I'm calling about William Aguilar.
+[00:24] [Receptionist]: Okay, William Aguilar, of course. Um, let's see. You mentioned your name is Shaina, how do you spell that?
+[00:32] [Shaina Young]: S-H-A-Y-N-A.
+[00:38] [Receptionist]: Safeco Insurance. Okay.
+[00:45] [Receptionist]: And what would be the reason for the call?
+[00:48] [Shaina Young]: Trying to get treatment and injury updates on William and his passenger, Nufin Rasien.
+[01:01] [Receptionist]: Thank you so much, ma'am. Now, I see your phone number as 469-997-3150, is that correct?
+[01:10] [Shaina Young]: That's correct.
+[01:12] [Receptionist]: Okay, and for last, do you have an email where we can reach you?
+[01:15] [Shaina Young]: Yeah, Shaina, S-H-A-Y-N-A, there's a period, and then Young, Y-O-U-N-G.
+[01:26] [ ... Silence (7s) ... ]
+[01:33] [Receptionist]: And what is the domain, at gmail.com?
+[01:36] [Shaina Young]: Oh, I'm so sorry, at libertymutual.com. I'm so sorry. Shaina.Young@libertymutual.com.
+[01:44] [Receptionist]: .com. Thank you so much for that, ma'am. Now, as part of the receptionist team, I don't have an update on the case, but I can definitely take a message, get it over to the office, pass this along for you right away.
+[01:57] [Shaina Young]: All right, thank you.
+[01:59] [Receptionist]: Thank you, ma'am. Have a wonderful day.
+[02:01] [Shaina Young]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

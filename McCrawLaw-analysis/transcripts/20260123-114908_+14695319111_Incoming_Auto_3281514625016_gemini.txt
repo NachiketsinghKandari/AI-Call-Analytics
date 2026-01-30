@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Carita / Role: Receptionist at DeMayo Law Group: 14 turns
+  • Speaker 3 / Jess / Role: Colleague: 2 turns
+  • Speaker 4 / Diego Molina / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Receptionist]: Hi Jess.
+[00:05] [Jess]: Hey Carita, can you help me with this Spanish speaker?
+[00:09] [Receptionist]: Yes, you can put them through.
+[00:10] [Jess]: Thank you, here you go.
+[00:12] [Receptionist]: Thank you.
+[00:16] [Receptionist]: Hola, buenas tardes o buenos días, ¿en cómo le puedo ayudar?
+[00:20] [Diego Molina]: Sí, estaba devolviendo una llamada, mi nombre es Diego Molina.
+[00:24] [Receptionist]: Diego Molina, un momento.
+[00:28] [ ... Silence (5s) ... ]
+[00:33] [Receptionist]: Diego, ¿es usted un cliente, un cliente de nosotros?
+[00:38] [Diego Molina]: No, no soy cliente, ¿cómo— cómo se llaman ustedes, perdón?
+[00:42] [Receptionist]: Eh, DeMayo Law Group?
+[00:46] [Diego Molina]: No, no soy cliente, pero si no me equivoco ustedes me mandaron una carta con respecto a un caso de Adrianis Rojas.
+[00:59] [ ... Silence (10s) ... ]
+[01:09] [Receptionist]: ¿Cuál era el nombre de la— o sea, el primer nombre?
+[01:18] [Diego Molina]: Adrianis Rojas.
+[01:22] [Receptionist]: Un momento. Adrianis.
+[01:27] [ ... Silence (17s) ... ]
+[01:44] [Receptionist]: Um, ¿había otro nombre en ese— en ese documento? ¿Recuerda?
+[01:52] [Diego Molina]: A ver, si no me equivoco, déjeme buscar porque yo sé que— a ver si tengo la carta acá. Deme un segundito. Sí. Fue un choque que estaba Adrianis Rojas y parece que chocó a un señor. Estoy tratando de buscar el nombre de la— de la carta de él y me mandaron la carta a mí. A ver, un segundito. Aquí está, mira.
+[02:30] [Receptionist]: Mhm.
+[02:34] [Diego Molina]: Eh, el señor se llama Scott Winn.
+[02:40] [Receptionist]: Ah, okay. Scott Winn.
+[02:43] [Diego Molina]: Scott Winn.
+[02:44] [Receptionist]: Gracias. Um, si me espera un momentito, eh, voy a ver si está disponible la persona que está encargada del caso y, ¿cuál es su nombre, perdone?
+[02:56] [Diego Molina]: Diego Molina.
+[02:58] [Receptionist]: Diego Molina. Okay. Un momento.
+
+========================================
+TRANSCRIPT END
+========================================

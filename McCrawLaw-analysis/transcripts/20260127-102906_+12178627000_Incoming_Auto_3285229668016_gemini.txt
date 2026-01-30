@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Perlita / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Brandon / Role: Caller: 5 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded.
+[00:03] [Receptionist]: Bey and Associates, this is Perlita, how can I help you?
+[00:07] [Brandon]: Hi, my name is Brandon with Blue Cross Blue Shield and I'm calling on a recorded line for quality. I was hoping to speak with Crystal on case status for Leticia Lujan Nati Devad.
+[00:19] [Receptionist]: One second.
+[00:21] [ ... Silence (8s) ... ]
+[00:29] [Receptionist]: Just hold on the line for me please.
+[00:31] [Brandon]: Sure.
+[00:32] [Receptionist]: Thank you so much for holding. Uh, there Brandon, so it does seem that Crystal is not available at this moment. However, for case statuses, we do ask if you can place an inquiry through our fax number and I can give you that number.
+[00:46] [Brandon]: Sure. 972-332-2361?
+[00:51] [Receptionist]: Yes. Mm-hmm.
+[00:53] [Brandon]: Okay. I'll have something over to you shortly.
+[00:56] [Receptionist]: Okay. Thank you so much. Bye-bye.
+[00:58] [Brandon]: Thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

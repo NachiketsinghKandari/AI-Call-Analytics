@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with their case manager for a case update. The receptionist determined the staff member was unavailable, collected the caller's email address, and took a message for a follow-up.",
+    "call_duration_seconds": 129.6,
+    "call_duration_formatted": "02:09"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist checked availability for the requested staff member and determined they were unavailable; no transfer was attempted."
+  }
+}

@@ -44,7 +44,7 @@ function JsonViewer({ data }: { data: unknown }) {
   }, [data]);
 
   return (
-    <ScrollArea className="h-[600px]">
+    <ScrollArea className="h-[350px] sm:h-[450px] lg:h-[600px]">
       <pre
         className="text-xs font-mono p-4 bg-muted/30 rounded-lg whitespace-pre-wrap leading-relaxed"
         dangerouslySetInnerHTML={{ __html: highlighted }}
@@ -56,14 +56,14 @@ function JsonViewer({ data }: { data: unknown }) {
 function TranscriptViewer({ transcript }: { transcript: string | null }) {
   if (!transcript) {
     return (
-      <div className="flex items-center justify-center h-[600px] text-muted-foreground">
+      <div className="flex items-center justify-center h-[350px] sm:h-[450px] lg:h-[600px] text-muted-foreground">
         No transcript available
       </div>
     );
   }
 
   return (
-    <ScrollArea className="h-[600px]">
+    <ScrollArea className="h-[350px] sm:h-[450px] lg:h-[600px]">
       <pre className="text-sm font-serif leading-relaxed p-4 bg-muted/30 rounded-lg whitespace-pre-wrap">
         {transcript}
       </pre>
@@ -95,25 +95,17 @@ export function FileViewer({ file, currentIndex, totalFiles, onPrevious, onNext 
       {/* File Info Header */}
       <Card>
         <CardHeader className="py-3">
-          <div className="flex items-center justify-between gap-2">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
             <CardTitle className="text-sm flex items-center gap-2 flex-wrap flex-1 min-w-0">
-              <span className="truncate">{file.name}</span>
+              <span className="truncate max-w-[200px] sm:max-w-none">{file.name}</span>
               <CopyButton text={file.name} />
-              <Badge variant="outline">{file.resolution_type}</Badge>
-              <Badge variant="secondary">{file.caller_type}</Badge>
-              {file.resolution_achieved === true && (
-                <Badge className="bg-green-500/20 text-green-500">Resolved</Badge>
-              )}
-              {file.resolution_achieved === false && (
-                <Badge className="bg-red-500/20 text-red-500">Unresolved</Badge>
-              )}
             </CardTitle>
             {hasNavigation && (
               <div className="flex items-center gap-1 flex-shrink-0">
                 <Button
                   variant="ghost"
                   size="icon"
-                  className="h-8 w-8"
+                  className="h-9 w-9"
                   onClick={onPrevious}
                   disabled={!hasPrevious}
                   title="Previous file"
@@ -128,7 +120,7 @@ export function FileViewer({ file, currentIndex, totalFiles, onPrevious, onNext 
                 <Button
                   variant="ghost"
                   size="icon"
-                  className="h-8 w-8"
+                  className="h-9 w-9"
                   onClick={onNext}
                   disabled={!hasNext}
                   title="Next file"
@@ -136,6 +128,17 @@ export function FileViewer({ file, currentIndex, totalFiles, onPrevious, onNext 
                   <ChevronRight className="h-4 w-4" />
                 </Button>
               </div>
+            )}
+          </div>
+          {/* Badges row - separate for better mobile layout */}
+          <div className="flex flex-wrap gap-1.5 mt-2">
+            <Badge variant="outline" className="text-xs">{file.resolution_type.replace(/_/g, ' ')}</Badge>
+            <Badge variant="secondary" className="text-xs">{file.caller_type.replace(/_/g, ' ')}</Badge>
+            {file.resolution_achieved === true && (
+              <Badge className="bg-green-500/20 text-green-500 text-xs">Resolved</Badge>
+            )}
+            {file.resolution_achieved === false && (
+              <Badge className="bg-red-500/20 text-red-500 text-xs">Unresolved</Badge>
             )}
           </div>
         </CardHeader>

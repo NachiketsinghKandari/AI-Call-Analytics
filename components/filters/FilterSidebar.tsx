@@ -437,6 +437,18 @@ export function FilterSidebar() {
               <span>{formatDuration(filters.durationRange[0])}</span>
               <span>{formatDuration(filters.durationRange[1])}</span>
             </div>
+            <div className="flex items-center space-x-2 pt-1">
+              <Checkbox
+                id="include-unknown-duration"
+                checked={filters.includeUnknownDuration}
+                onCheckedChange={(checked) =>
+                  setFilters({ includeUnknownDuration: checked as boolean })
+                }
+              />
+              <Label htmlFor="include-unknown-duration" className="text-sm cursor-pointer">
+                Include unknown duration
+              </Label>
+            </div>
           </div>
         </FilterSection>
 

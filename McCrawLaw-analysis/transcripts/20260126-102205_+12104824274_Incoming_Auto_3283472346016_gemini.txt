@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCarl Law Group: 8 turns
+  • Speaker 3 / Luis Medrano / Role: Caller from Allstate: 8 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:08] [ ... Silence (8s) ... ]
+[00:16] [Receptionist]: Hi, thank you for calling McCarl Law Group, how can I help you?
+[00:20] [Luis Medrano]: Hi there, good morning. My name is Luis Medrano, I'm calling from Allstate, following up with you regarding your client Julie Newton.
+[00:28] [Receptionist]: Okay, let me see... Julie, J-U-L-I-E...
+[00:33] [Luis Medrano]: Yes.
+[00:34] [Receptionist]: Okay, and Newton. And how can we help you regarding this client?
+[00:39] [Luis Medrano]: Uh, I was just trying to get the information regarding her injuries and treatment.
+[00:45] [Receptionist]: Okay. I don't have anyone right now to provide that, but I can take a message. I have your callback number as 210-482-4274?
+[00:56] [Luis Medrano]: Yes.
+[00:57] [Receptionist]: May I have a good email for you?
+[00:59] [Luis Medrano]: claims at claims dot allstate dot com.
+[01:07] [Receptionist]: Okay, I have claims at claims dot allstate dot com.
+[01:12] [Luis Medrano]: Mhm.
+[01:13] [Receptionist]: Okay, perfect. I will send the message right over to the team. Is there anything else you'd like me to relay?
+[01:20] [Luis Medrano]: That's it. Thank you very much.
+[01:23] [Receptionist]: Thank you, take care.
+[01:25] [Luis Medrano]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

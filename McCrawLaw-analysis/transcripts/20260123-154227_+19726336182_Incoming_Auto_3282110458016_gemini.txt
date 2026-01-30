@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Terra / Role: Receptionist at Kral Law Group: 4 turns
+  • Speaker 3 / Logan / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: The Kral Law Group, this is Terra speaking, how may I help you?
+[00:07] [Logan]: Uh, I'm returning a call to Drake, please.
+[00:10] [Receptionist]: May I get the name of the client that this is over?
+[00:14] [Logan]: Sure, Christopher Biggs.
+[00:19] [Receptionist]: Great. And I'm so sorry, I didn't catch that. What was your name?
+[00:24] [Logan]: Logan.
+[00:27] [Receptionist]: Great. Give me one moment, please.
+
+========================================
+TRANSCRIPT END
+========================================

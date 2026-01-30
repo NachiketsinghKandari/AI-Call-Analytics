@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maria / Role: Receptionist at McCraw Law Group: 9 turns
+  • Speaker 2 / Unknown / Role: Caller: 9 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: Good morning, McCraw Law Group, this is Maria. May I help you?
+[00:08] [Unknown]: Maria, ¿cómo está?
+[00:09] [Receptionist]: Bien, bien. ¿Y usted?
+[00:11] [Unknown]: Mire, estoy buscando trabajo porque están diciendo que ahí es que están ocupando drivers.
+[00:16] [Receptionist]: ¿Cómo?
+[00:18] [Unknown]: Que están buscando— ocupando trabajadores ahí con ustedes.
+[00:24] [Receptionist]: No. Usted tiene— ¿de qué clase de trabajo anda buscando?
+[00:31] [Unknown]: Dice de lo que sea, pero dice que están ocupando gente para que manejen vans, no sé si es ahí con usted o es otro lado.
+[00:39] [Receptionist]: A mí se me hace que marcó el número mal. Este es de los abogados. [Laughs] Y yo dije, este— este hombre quiere trabajar en la oficina. ¿Qué quiere ser usted en la oficina?
+[00:54] [Unknown]: De lo que sea, Maria, quizás haciéndole café ahí a los abogados.
+[00:58] [Receptionist]: ¿Verdad? ¿Verdad? No, no me quita a mí mi trabajo, no, no.
+[01:02] [Unknown]: No, pues eh— usted sabe que yo lo hago— yo los hago— hago un montón de café y usted los reparte.
+[01:09] [Receptionist]: Okay, está bien, está bien. No, señor, aquí no es. Yo creo que marcó el número mal.
+[01:19] [Unknown]: Okay, muchas gracias entonces, Maria.
+[01:22] [Receptionist]: A ver si— well, good luck, a ver si halla trabajo por allá.
+[01:26] [Unknown]: Okay.
+[01:27] [Receptionist]: Cuídese mucho, okay. Adiós.
+[01:29] [Unknown]: Okay, bye.
+
+========================================
+TRANSCRIPT END
+========================================

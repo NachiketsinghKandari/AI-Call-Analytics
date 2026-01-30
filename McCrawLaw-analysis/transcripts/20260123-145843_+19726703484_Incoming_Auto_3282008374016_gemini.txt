@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Terrica / Role: Receptionist at McCall Law Group: 5 turns
+  • Speaker 3 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Terrica, how may I help you?
+[00:07] [Unknown]: Yes, ma'am, I just called this number?
+[00:10] [Receptionist]: May I get your first and last name? You said someone, um, called your number?
+[00:16] [Unknown]: I mean, uh, what kind of business is this?
+[00:19] [Receptionist]: This is a law firm, a personal injury law firm.
+[00:23] [Unknown]: Somebody called my number. And they didn't, they didn't, uh, say nothing.
+[00:29] [Receptionist]: Oh, okay. Were you inquiring with us?
+[00:33] [Unknown]: No.
+[00:34] [Receptionist]: Oh, okay. It must have been a misdial. I apologize for that confusion.
+
+========================================
+TRANSCRIPT END
+========================================

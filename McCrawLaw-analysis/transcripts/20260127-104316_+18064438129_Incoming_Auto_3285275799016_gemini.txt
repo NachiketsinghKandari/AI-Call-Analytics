@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Maria / Role: Receptionist at McLaw Group: 6 turns
+  • Speaker 3 / Courtney Rayford / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: Good morning, McLaw Group, this is Maria, may I help you?
+[00:08] [Courtney Rayford]: Yes ma'am, this is Courtney Rayford, and I was needing to speak to Crystal, please.
+[00:14] [Receptionist]: Give me one moment, Courtney. May I tell her what this is regarding?
+[00:22] [Courtney Rayford]: Um, I need paperwork filled out.
+[00:24] [Receptionist]: Okay. Give me one moment. Put you on hold, okay?
+[00:29] [Courtney Rayford]: Thank you.
+[00:30] [Receptionist]: You're welcome.
+[00:32] [ ... Silence (5s) ... ]
+[00:37] [Receptionist]: I'm going to transfer you now, okay?
+[00:39] [Courtney Rayford]: Okay, thank you.
+[00:40] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

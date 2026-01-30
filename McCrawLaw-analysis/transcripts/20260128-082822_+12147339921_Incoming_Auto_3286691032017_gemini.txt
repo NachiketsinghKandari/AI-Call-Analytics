@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Third Party: 2 turns
+  • Speaker 3 / Phyllis / Role: Receptionist at Bey and Associates: 7 turns
+  • Speaker 4 / Unknown / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:08] [ ... Silence (6s) ... ]
+[00:14] [Speaker 2]: Be quiet, motherfucker.
+[00:15] [Receptionist]: Thank you for calling, how can I help you?
+[00:17] [Speaker 2]: Be quiet.
+[00:19] [Speaker 4]: Hello? Yes, hi.
+[00:23] [Receptionist]: Hi. How can I help you?
+[00:25] [Speaker 4]: Hi, who is this speaking?
+[00:26] [Receptionist]: This is Phyllis.
+[00:28] [Speaker 4]: Hi. I am a client, um, with your law firm, um, with Drake Pew— I mean, I actually am calling because, uh, in regards to a, a, a settlement payment I was sent, a PIP payment, P-I-P payment, um, through you guys, um, and I was actually, uh, calling in regards to that. I was wondering if there was anyone I could speak to?
+[00:55] [Receptionist]: Well, you've reached the after-hours, uh, reception. The attorney's not available at the moment, but I can send over a message and let him know.
+[01:03] [Speaker 4]: Okay. Is, is, is anyone— is Kelsey in at all?
+[01:07] [Receptionist]: No one's available. It's after hours right now.
+[01:11] [Speaker 4]: After hours? Oh, I'm sorry. Yeah. Uh, okay. Um, when is usually, uh, when's a better time to call? Sorry.
+[01:22] [Receptionist]: Between 9:00 and 5:00.
+[01:24] [Speaker 4]: 9:00 and 5:00. Okay. That's fine. Thank you. I'll just contact them then.
+[01:28] [Receptionist]: Okay.
+[01:29] [Speaker 4]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

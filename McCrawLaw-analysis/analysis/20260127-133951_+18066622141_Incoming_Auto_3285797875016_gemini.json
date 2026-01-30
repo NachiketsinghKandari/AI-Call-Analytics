@@ -1,0 +1,27 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist initiated a transfer to a specific staff member after the caller stated they were returning a call regarding a recent inquiry.",
+    "call_duration_seconds": 58.97,
+    "call_duration_formatted": "00:58"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated she would see if the requested staff member was available and the call ended immediately following the intent to transfer."
+  }
+}

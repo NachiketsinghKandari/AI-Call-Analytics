@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 1 turn
+  • Speaker 2 / Jonathan Jolivet / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Receptionist]: This call is being recorded. We're so sorry, one's on the line right now, please leave your name and number and we will call you back in a few minutes.
+[00:12] [Jonathan Jolivet]: Hi, this is Jonathan Jolivet, J-O-N-A-T-H-A-N, last name Jolivet, J-O-L-I-V-E-T, my number is 214-733-9921. That is 214-733-9921. Once again, this is Jonathan Jolivet. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

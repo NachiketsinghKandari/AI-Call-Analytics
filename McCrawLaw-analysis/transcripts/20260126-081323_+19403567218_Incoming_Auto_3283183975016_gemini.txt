@@ -1,0 +1,14 @@
+========================================
+TRANSCRIPT START (ENHANCED)
+========================================
+
+SPEAKERS IDENTIFIED:
+  • IVR System - Automated phone system with legal disclaimers (1 turns)
+
+----------------------------------------
+
+[00:00] [IVR System]: This call is being recorded. This call may be recorded for quality assurance purpose.
+
+========================================
+TRANSCRIPT END (ENHANCED)
+========================================

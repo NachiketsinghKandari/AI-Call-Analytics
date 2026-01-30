@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Vaka / Role: Receptionist at Makhoul Law Group: 12 turns
+  • Speaker 3 / Andrea Carrier / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [ ... Silence (5s) ... ]
+[00:08] [Receptionist]: Thank you for calling Makhoul Law Group, this is Vaka, how can I help you?
+[00:11] [Andrea Carrier]: Hi, this is Andrea with Donegal Insurance Company, trying to get a status on one of your clients, please.
+[00:17] [Receptionist]: All right, what's a call back number for you, Andrea?
+[00:19] [Andrea Carrier]: 505-764-3624.
+[00:24] [Receptionist]: Okay, your email address?
+[00:27] [Andrea Carrier]: acarrier at m-s-i-g-hyphen-n-m dot com.
+[00:39] [Receptionist]: That's a-c-a-r-r-i-e-r at m-s-i-g-dash-n-m dot com.
+[00:45] [Andrea Carrier]: Correct.
+[00:46] [Receptionist]: Thank you.
+[00:47] [ ... Silence (5s) ... ]
+[00:52] [Receptionist]: All right, the spelling of the client, their first and last name.
+[00:58] [Andrea Carrier]: First name is Han, H-A-N, last name Tran, T-R-A-N.
+[01:06] [Receptionist]: And your claim number.
+[01:11] [Andrea Carrier]: 1209326.
+[01:16] [Receptionist]: And you're just needing an update on the status of the case?
+[01:20] [Andrea Carrier]: Correct.
+[01:21] [Receptionist]: Give me a few moments, I'm going to check to see if I have someone from my legal team available, okay?
+[01:27] [Andrea Carrier]: Thank you.
+[01:28] [Receptionist]: Mhm.
+[01:29] [ ... Silence (74s) ... ]
+[02:43] [Receptionist]: Uh, thank you, Andrea. I don't have anyone available right now, so what I can do is get a message over to our team for review to give them the heads up that you are wanting an update on the case. Is there anything else you'd like for me to make note of for you?
+[02:57] [Andrea Carrier]: No, that'll be it.
+[03:00] [Receptionist]: All righty, well, thank you for reaching out and you take care, okay?
+[03:03] [Andrea Carrier]: You too, thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

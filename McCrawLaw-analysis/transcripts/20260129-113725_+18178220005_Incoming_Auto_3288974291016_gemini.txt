@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maddie / Role: Receptionist at Coker Law Group: 10 turns
+  • Speaker 2 / Dan Smith / Role: Caller: 9 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: Coker Law Group, this is Maddie, how can I help you?
+[00:08] [Dan Smith]: Hey, uh, good morning. This is Dan Smith. I was calling for Thompson Du. This is, um, involving a case that, uh, where he represents Jennifer Bernason.
+[00:21] [Receptionist]: One second. And...
+[00:25] [Dan Smith]: Oh, go ahead.
+[00:26] [Receptionist]: I was just...
+[00:27] [Dan Smith]: I was just going to say, I'm also an attorney in in that case.
+[00:31] [Receptionist]: Oh, okay. And that was Jennifer Bernason?
+[00:38] [Dan Smith]: Yes.
+[00:40] [Receptionist]: Okay. Would you mind just, um, holding on the line for me and I will reach out to Thompson and, um, just to confirm you are opposing counsel?
+[00:54] [Dan Smith]: Um, I guess I'm opposing counsel, I guess that's what you'd call it. We both represent plaintiffs in the same case.
+[01:01] [Receptionist]: Oh, oh, okay. All righty. Okay, just hold on.
+[01:07] [ ... Silence (6s) ... ]
+[01:07] [Receptionist]: Thank you so much for holding there, um, Mr. Smith. So it does seem that Thompson is not available at this very moment, but I can take a message and have him give you a call back.
+[01:20] [Dan Smith]: Okay. Yeah, please, please ask him to call me.
+[01:23] [Receptionist]: What would be a good callback number?
+[01:25] [Dan Smith]: 817-822-0005.
+[01:32] [Receptionist]: Thank you so much. I will go ahead and let him know and he should be reaching out to you.
+[01:37] [Dan Smith]: Okay. Thank you.
+[01:39] [Receptionist]: Thank you. Have a great day. Bye-bye.
+[01:41] [Dan Smith]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

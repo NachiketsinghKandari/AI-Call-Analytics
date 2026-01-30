@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 3 / Unknown / Role: Unknown: 2 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded for quality assurance purposes.
+[00:08] [ ... Silence (12s) ... ]
+[00:20] [Speaker 3]: Hello? Hello? Can you hear me?
+[00:29] [ ... Silence (9s) ... ]
+[00:38] [Speaker 3]: Hello?
+[00:39] [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

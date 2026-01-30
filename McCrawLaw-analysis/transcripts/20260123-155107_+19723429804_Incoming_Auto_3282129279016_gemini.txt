@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Terica / Role: Receptionist at Carlock Group: 10 turns
+  • Speaker 3 / Deborah Boyer / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: Carlock Group, this is Terica speaking, how may I help you?
+[00:06] [Deborah Boyer]: Hi, this is Deborah Boyer. I've been working with Emma on my case and I was wondering if she was available for me to ask her a question?
+[00:16] [Receptionist]: Um, let me check for you. Give me one moment.
+[00:20] [Deborah Boyer]: Okay, thanks.
+[00:22] [Receptionist]: Hi Deborah, um, sorry for that long hold. Unfortunately, Emma is unavailable. May I forward a message for you and um make sure that we have a good uh callback number?
+[00:36] [Deborah Boyer]: Well, I had several questions for her, uh, so I probably just need to talk to her.
+[00:46] [Receptionist]: Okay, I can make sure that she knows that you contacted and that you have several questions for her.
+[00:53] [Deborah Boyer]: Yeah.
+[00:54] [Receptionist]: Okay. And she should be reaching out when she can.
+[00:58] [Deborah Boyer]: Okay. What time do y'all close today? If she's— if I haven't heard from her by what time should I go ahead and— like I have some errands to run and stuff, but I can wait.
+[01:15] [Receptionist]: Gotcha. I'm not too sure if Emma is um scheduled today, but I will make sure that she does receive this message and that she knows that you called and that she knows that you have um questions for her.
+[01:31] [Deborah Boyer]: Okay, but like if I haven't heard from her by six, then probably I'm not going to hear from her today, is that safe to assume?
+[01:45] [Receptionist]: Our regular office hours are till five, so um I would, yeah, I would assume, yeah.
+[01:52] [Deborah Boyer]: Okay. All right, well I'll just make sure I have my phone with me until then. And if not, well then hopefully I'll hear from her next week or so.
+[02:01] [Receptionist]: I will definitely make sure that she knows that you called and so that she can reach out to you.
+[02:07] [Deborah Boyer]: Well, we scheduled— one of the important ones is we scheduled the deposition in April. And if you can leave her the message there's a possibility I might have to change that. We just scheduled it yesterday, so— but I got some information last night.
+[02:26] [Receptionist]: Gotcha, okay. I will let her know that you possibly um may need to change on that date.
+[02:32] [Deborah Boyer]: Okay, thank you.
+[02:34] [Receptionist]: Of course. Thank you for calling. Have a nice day.
+[02:37] [Deborah Boyer]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

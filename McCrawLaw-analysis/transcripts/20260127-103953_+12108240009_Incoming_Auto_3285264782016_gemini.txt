@@ -1,0 +1,57 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McGraw Law Group: 20 turns
+  • Speaker 3 / Rachel Brown / Role: Caller: 19 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[ ... Silence (6s) ... ]
+[00:11] [Receptionist]: Hello, thanks for calling McGraw Law Group, how can I help you?
+[00:14] [Rachel Brown]: Hi, I was hoping that I could speak with Allison Taff or someone who works for her.
+[00:21] [Receptionist]: Allison Taff, let me see if she might be available. And who am I speaking with, please?
+[00:25] [Rachel Brown]: My name is Rachel Brown.
+[00:28] [Receptionist]: Rachel, are you a current client of ours or were you recently referred to her?
+[00:32] [Rachel Brown]: Uh, no, I actually am calling on behalf of a, uh, defense, sorry, for my attorney.
+[00:42] [Receptionist]: You're calling on behalf of defense? Are you like a paralegal, legal assistant, or...?
+[00:46] [Rachel Brown]: Yes, legal assistant.
+[00:48] [Receptionist]: Okay, let me get your details in really quickly, Rachel. R-A-C-H-E-L, is that how you spell your name?
+[00:53] [Rachel Brown]: Yes. Yep, that's it.
+[00:56] [Receptionist]: Brown, B-R-O-W-N?
+[00:57] [Rachel Brown]: B-R-O-W-N.
+[01:01] [Receptionist]: Okay. And what firm are you with?
+[01:04] [Rachel Brown]: MehaffyWeber.
+[01:06] [Receptionist]: Mehaffy, M-A-H-A-F-F-E-Y?
+[01:09] [Rachel Brown]: F-E-Y, sorry. F-Y, sorry.
+[01:12] [Receptionist]: F-E-F-Y?
+[01:13] [Rachel Brown]: Sorry. M-E-H-A-F-F-Y. I apologize.
+[01:21] [Receptionist]: Oh, no, that's all right. And a good phone number for you, please?
+[01:24] [Rachel Brown]: 210-463-9667.
+[01:31] [Receptionist]: All right. 210-463-9667.
+[01:36] [Rachel Brown]: Yes.
+[01:37] [Receptionist]: Okay. Thank you. And are you calling in reference to, like, a specific case today, Rachel? What's your call in reference to?
+[01:46] [Rachel Brown]: Yes, I'm calling about Jacob Paulson. That would be your client versus Malavida LLC.
+[01:56] [Receptionist]: Thank you. Uh, Jacob and then Paulson, P-A-U-L-S-O-N?
+[02:00] [Rachel Brown]: Yes.
+[02:01] [Receptionist]: Okay. Give me one moment then, Rachel. I'm going to place you on a brief hold, okay?
+[02:07] [Rachel Brown]: Perfect. Thank you.
+[02:09] [Receptionist]: Thank you.
+[ ... Silence (81s) ... ]
+[03:31] [Receptionist]: Hello, Rachel, are you still with me?
+[03:33] [Rachel Brown]: Yes, I am.
+[03:35] [Receptionist]: Hey, thanks so much for holding. I wasn't able to reach anybody on our team just now, Rachel. I'm going to take a message and let Allison know that you called. Is there anything specific that I should relay along?
+[03:46] [Rachel Brown]: Um, it's just regarding the deposition. Um, we just wanted to ask if we could keep it under an hour and a half. Um, our client has— is starting a new job, so we just wanted to make sure that she need— she was able to get to where she needed to today.
+[04:02] [Receptionist]: Okay. And you said you would like to keep it under an hour and a half?
+[04:05] [Rachel Brown]: Yeah. Yeah, but, you know, if— if Allison can call me back, I mean, obviously the message is pretty straightforward, but I feel like that might be an important conversation.
+[04:14] [Receptionist]: Makes sense. Yeah, most definitely. I'll get this over right now then, Rachel. Thank you so much for reaching out. You have yourself a great day.
+[04:21] [Rachel Brown]: Thank you. You as well.
+[04:23] [Receptionist]: Thank you. Goodbye.
+[04:25] [Rachel Brown]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

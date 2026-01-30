@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McGraw Law Group: 5 turns
+  • Speaker 3 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:09] [Receptionist]: Hello, thank you for calling McGraw Law Group, how can I help you?
+[00:14] [Speaker 3]: Hi, is this the answering service?
+[00:17] [Receptionist]: Uh, is this an existing client?
+[00:21] [Speaker 3]: Um, I was just call testing from the office. Is this—
+[00:25] [Receptionist]: Yes ma'am, it's the answering service.
+[00:27] [Speaker 3]: Okay, thank you so much, just a testing call.
+[00:31] [Receptionist]: Yes ma'am, I've noted it. Thank you.
+[00:33] [Speaker 3]: Bye-bye.
+[00:34] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

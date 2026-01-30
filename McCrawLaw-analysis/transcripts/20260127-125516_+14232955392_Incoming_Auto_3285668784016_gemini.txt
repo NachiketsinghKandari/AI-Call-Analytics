@@ -1,0 +1,54 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Clarita / Role: Receptionist at McGarrah Law Group: 19 turns
+  • Speaker 2 / Stephanie Panis / Role: Caller: 18 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: McGarrah Law Group, this is Clarita, how can I help you?
+[00:08] [Stephanie Panis]: Hi, I saw your blog, uh, you guys handled a case against a hospice for wrongful death?
+[00:17] [Receptionist]: Hospice for wrongful death? Death? Oh, I'm sorry.
+[00:23] [Stephanie Panis]: Yeah, like they, uh, exasper- or they accelerated it.
+[00:31] [Receptionist]: Oh no. Um, so we don't handle, um, those kind- kind of cases. Uh, we do handle personal injury cases such as car accidents, slip and falls, premises liability...
+[00:47] [Stephanie Panis]: Medical malpractice?
+[00:51] [Receptionist]: Uh, we don't, but I can go ahead and see, uh, if we have a good referral for a...
+[00:57] [Stephanie Panis]: I read, listen, I read the article you guys wrote on a nursing home death where the FBI investigated them in North Texas.
+[01:07] [Receptionist]: Mhm.
+[01:08] [Stephanie Panis]: Where they put them in- they were putting them into hospices and then they were, uh, administering, uh, morphine and Ativan to accelerate death. And this was on your blog.
+[01:30] [Receptionist]: One second. And can I have your name, ma'am?
+[01:36] [Stephanie Panis]: My name is Stephanie Panis.
+[01:41] [Receptionist]: Okay. Would you mind just holding just a second for me?
+[01:48] [Stephanie Panis]: Sure.
+[01:49] [Receptionist]: Thank you.
+[01:52] [Receptionist]: Thank you so much for holding there, Stephanie. Um, so unfortunately, we don't handle any medical malpractice. Um, we did post, um, different information on our blogs, but we specifically do not, um, handle medical malpractice. We do have a good referral, um...
+[02:13] [Stephanie Panis]: Okay.
+[02:14] [Receptionist]: Yes, and I can give you their number if you'd like.
+[02:19] [Stephanie Panis]: Yes. By any chance, you don't know who the FBI agent was that investigated that down there, do you?
+[02:27] [Receptionist]: No, I don't. Unfortunately, no.
+[02:32] [Stephanie Panis]: Okay. Um, who- hold on, let me see if I can find a pen real quick.
+[02:40] [Receptionist]: Mhm. Yes, for sure.
+[02:43] [ ... Silence (13s) ... ]
+[02:56] [Stephanie Panis]: And of course, I don't see one. How difficult is this number to memorize?
+[03:02] [Receptionist]: Um...
+[03:04] [Stephanie Panis]: And who is it?
+[03:05] [Receptionist]: The- the name is Girards Law Firm. And the- uh, their number is actually on their website as well, if you can...
+[03:18] [Stephanie Panis]: Okay. What's their, uh, phone number?
+[03:23] [Receptionist]: It's 214...
+[03:27] [Stephanie Panis]: Okay.
+[03:28] [Receptionist]: 346...
+[03:31] [Stephanie Panis]: Okay.
+[03:32] [Receptionist]: 9529.
+[03:35] [Stephanie Panis]: 9529. Okay. And what's their website? The Girards Law Firm at what?
+[03:41] [Receptionist]: Um, it's girardslawfirm.com. Like that.
+[03:46] [Stephanie Panis]: Okay, thank you.
+[03:47] [Receptionist]: Thank you as well. Have a great day. Bye-bye.
+[03:49] [Stephanie Panis]: Thanks, bye.
+
+========================================
+TRANSCRIPT END
+========================================

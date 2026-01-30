@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START (ENHANCED)
+========================================
+
+SPEAKERS IDENTIFIED:
+  • IVR System - Automated emergency alert and menu prompt system (6 turns)
+
+----------------------------------------
+
+[00:00] [IVR System]: This call is being recorded.
+[00:03] [IVR System]: System.
+[00:04] [IVR System]: Alert GP. Call may be recorded for quality assurance Benjamin Ortiz, five foot tall bald Hispanic male wearing black stripe pants with a pink blanket. Last day near Pioneer Slash Corn Valley Road last night on foot. Immediately call 911.
+[00:20] [IVR System]: Press 2 to replay this message. Press 2 to replay this message.
+[00:27] [IVR System]: Alert GP, missing elderly adult, 84 year old Benjamin Ortiz, five foot tall bald Hispanic male wearing black stripe pants with a pink blanket. Last seen near Pioneer Slash Corn Valley Road last night on foot. If seen, immediately call 911.
+[00:44] [IVR System]: Press 2 to replay this message. Press 2 to replay this message. Goodbye.
+
+========================================
+TRANSCRIPT END (ENHANCED)
+========================================

@@ -1,0 +1,102 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maria / Role: Receptionist at Bey and Associates: 43 turns
+  • Speaker 2 / Mia / Role: Third Party (Transferring call): 2 turns
+  • Speaker 3 / Onre Wells / Role: Caller: 41 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Good afternoon, Mia.
+[00:05] [Mia]: Hey, I have Onre Wells returning your call.
+[00:10] [Receptionist]: Yes, most certainly. Thank you.
+[00:12] [Mia]: Thanks.
+[00:13] [Receptionist]: Thank you.
+[00:18] [Receptionist]: Good afternoon, how are you?
+[00:22] [Onre Wells]: I'm spectacular. How are you?
+[00:24] [Receptionist]: I am doing well, thank you. The reason I was calling—
+[00:27] [Onre Wells]: Is this Miss Maria?
+[00:28] [Receptionist]: Yes sir, it is.
+[00:30] [Onre Wells]: Okay. Well, I'm Onre. That is my given name, yes ma'am.
+[00:40] [Receptionist]: Okay, good, good. Okay, so, do you mind if I ask you a few questions?
+[00:43] [Onre Wells]: Ma'am, you can ask me anything you would like.
+[00:47] [Receptionist]: Let me see, give me a second. Sorry. Okay, so... let's see if I've got your email address.
+[01:01] [Receptionist]: How did you happen to hear about us?
+[01:05] [Onre Wells]: Um, actually, I've heard about y'all for some— a while, but I was kind of scared to call because I don't know— I— I don't know what to do.
+[01:22] [Receptionist]: Okay. May I have your address?
+[01:25] [Onre Wells]: Do what, ma'am?
+[01:26] [Receptionist]: May I have your address?
+[01:28] [Onre Wells]: Uh, it's 301 Cherry, Skellytown, Texas.
+[01:39] [Receptionist]: Okay.
+[01:41] [Onre Wells]: And I get my mail at a post office box.
+[01:43] [Receptionist]: Okay. What's the post office box?
+[01:46] [Onre Wells]: 217 in Skellytown, 79080.
+[01:52] [Receptionist]: 79080. Thank you so much. Okay, and the incident, I see it happened in 20— February the 7th, 2025.
+[02:04] [Onre Wells]: Yes ma'am.
+[02:06] [Receptionist]: And so you were on a motorcycle.
+[02:08] [Onre Wells]: Yes ma'am. And something fell off of a semi and hit me in the face and knocked me out, from what I understand.
+[02:20] [Receptionist]: Is there a police report?
+[02:23] [Onre Wells]: I believe so. Um, there was a lot of cops there. I got a ticket for failure to maintain single lane and something else. But my memory, I can't remember, so I would have— we would have to look it up. I had insurance and everything like that.
+[02:48] [Receptionist]: Okay, so you got the ticket for what again? Did you get the ticket for the accident?
+[02:54] [Onre Wells]: Yes. Failure to maintain single lane, and I believe my tags were out.
+[03:05] [Receptionist]: Oh, okay. So you got the ticket for the accident. What were your injuries?
+[03:14] [Onre Wells]: I lost my left leg below the knee. I tore my quad in my right leg. I broke my elbow, broke my shoulder on the left side, broke both bones in my left arm, um... uh, bruised my sternum, crushed my left hand, it's permanently disfigured, um, broke some ribs.
+[03:49] [Receptionist]: Did the semi-truck— did they stop?
+[03:52] [Onre Wells]: No ma'am.
+[03:53] [Receptionist]: So the semi took off. I mean, didn't know. What is it that fell out of the semi, do you know?
+[04:01] [Onre Wells]: I have no idea, ma'am. All I know is it ripped my visor plumb off of my face and knocked me— I guess knocked me unconscious.
+[04:13] [Receptionist]: So, were you— you were behind the semi?
+[04:17] [Onre Wells]: Yes ma'am.
+[04:26] [Onre Wells]: I was in construction going between Skellytown and Pampa on Highway 152, and I couldn't pass them or anything like that. So whatever fell off of the truck or didn't— I— I don't know. I'm just going by what people told me. I don't remember that day.
+[04:54] [Receptionist]: Yeah. So, why do you think something hit you on the face?
+[05:01] [Onre Wells]: From— well, my visor was ripped off of my head and I can kind of remember some stuff, but I was told by a person behind me that they saw something come off or they saw what had happened.
+[05:26] [Receptionist]: Okay. Well, what I'm trying to understand is you got a— a ticket for change lane?
+[05:35] [Onre Wells]: Failure to maintain single lane.
+[05:38] [Receptionist]: Right. So, you— did you merge into somebody's lane?
+[05:44] [Onre Wells]: No ma'am. I— I went from the highway to the bar ditch, and that's how I got the ticket.
+[05:58] [Onre Wells]: They gave me a ticket for not staying in my lane.
+[06:02] [Receptionist]: Correct, correct. And in— in this accident, correct?
+[06:08] [Onre Wells]: Yes ma'am.
+[06:09] [Receptionist]: Okay, let me put you on hold. Did you already pay your ticket? Did you already pay your ticket?
+[06:15] [Onre Wells]: Yes ma'am. I— I didn't have much choice. I didn't know what else to do. And my insurance, they basically told me what I had was liability, the word, not liability with anything helping.
+[06:39] [Onre Wells]: That's honestly what they told me. I had the word liability, I didn't have anything extra.
+[06:47] [Receptionist]: Let me put you on hold. Let me speak with an attorney, okay?
+[06:52] [Onre Wells]: Yes ma'am.
+[06:53] [ ... Silence (6s) ... ]
+[06:59] [Receptionist]: Okay, I'm sorry about that, Mr. Onre. Okay, I did speak with the attorney—
+[07:01] [Onre Wells]: No ma'am, no problem.
+[07:04] [Receptionist]: And I'm sorry, but this is not the type of case we are taking. Is there a reason you waited for a whole year?
+[07:11] [Onre Wells]: I— I spent quite a couple of months in the hospital, and I've kind of been battling with stuff.
+[07:22] [Receptionist]: Yes, I can imagine. I'm so sorry. But y'all— y'all aren't taking this kind of case?
+[07:28] [Receptionist]: No, I'm sorry. I did speak with the attorney. And also because you were cited for the accident.
+[07:38] [Onre Wells]: I was what, ma'am?
+[07:39] [Receptionist]: You were cited for the accident. Correct?
+[07:49] [Onre Wells]: Oh. Yes. Okay. So I got cited for the accident and that—
+[07:56] [Receptionist]: Go ahead.
+[07:57] [Onre Wells]: No, go ahead. Um, I'm just trying to figure out since I got a ticket because they didn't have anybody else to write a ticket to.
+[08:11] [Receptionist]: Right. Oh my gosh, that's crazy. Did you— after you— after something fell off the semi, did you— did you hit someone else or you don't— well, you don't remember?
+[08:22] [Onre Wells]: No ma'am. I hit the bar ditch and hit a sign and folded myself in half. I skidded my leg off first, though. I was trying to correct the bike.
+[08:35] [Receptionist]: Wow, I'm so sorry. Wow.
+[08:40] [Onre Wells]: Well, I mean, you live and learn.
+[08:45] [Receptionist]: I am so sorry, sir, you went through that. And thank you for calling. Are you still doing therapy and all that?
+[08:54] [Onre Wells]: No ma'am. Um, insurance didn't help me with anything, so I have to pay for everything out of pocket.
+[09:05] [Receptionist]: Oh, really? Oh my goodness. My goodness.
+[09:10] [Onre Wells]: So I still have a broken shoulder and a broken elbow and a torn quad, and I can't do anything about it.
+[09:20] [Receptionist]: Wow.
+[09:24] [Onre Wells]: I can't even walk on crutches. I'm stuck in a wheelchair.
+[09:28] [Receptionist]: Wow.
+[09:32] [Onre Wells]: But, you know, if a lawyer can't help me, then I guess I don't need help.
+[09:42] [Receptionist]: Well, we're not saying— would you like for me to give you the number to the State Bar of Texas? That's a list of attorneys. Would you like that number?
+[10:04] [Onre Wells]: Um, could you email it to me? I don't have anything to write with. Do you have my email address?
+[10:10] [Receptionist]: I do.
+[10:11] [Onre Wells]: That would be amazing of you.
+[10:14] [Receptionist]: Okay. That would— I will do that, Onre. Thank you so much. You take care of yourself.
+[10:19] [Onre Wells]: Thank you. You too, ma'am. Have a good day.
+[10:22] [Receptionist]: You too. Bye.
+[10:24] [Onre Wells]: Yes ma'am. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

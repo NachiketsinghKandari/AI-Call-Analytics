@@ -1,0 +1,78 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Dean, Cobb, and McCraw Law Group: 8 turns
+  • Speaker 2 / Camie Wade / Role: Caller, Lawyer at Kirby and Wade: 26 turns
+  • Speaker 3 / Salen / Role: Assistant at Dean, Cobb, and McCraw Law Group: 2 turns
+  • Speaker 4 / Landon Knots / Role: Lawyer at Dean, Cobb, and McCraw Law Group: 19 turns
+
+----------------------------------------
+
+[00:14] [Receptionist]: Hello, Dean, Cobb, and McCraw Law Group, how can I help?
+[00:17] [Camie Wade]: Landon Knots, please?
+[00:20] [Receptionist]: Okay, and may I have your name, please?
+[00:22] [Camie Wade]: Camie Wade.
+[00:26] [Receptionist]: Camie Wade. Okay. Are you an existing client?
+[00:30] [Camie Wade]: I'm a lawyer.
+[00:32] [Receptionist]: You're a lawyer. Okay. Got it. Your callback number, is that 806-793-7600?
+[00:43] [Camie Wade]: Yes, sir.
+[00:45] [Receptionist]: Is Camie C-A-M-M-I-E or Y?
+[00:51] [Camie Wade]: One M. C-A-M-I-E.
+[00:53] [Receptionist]: C-A-M-I-E. Okay. Wade W-A-D-E. And uh, what firm or courthouse are you calling with?
+[01:01] [Camie Wade]: Uh, Kirby and Wade.
+[01:05] [Receptionist]: Kirby and Wade. Okay. Perfect. What's the client or case you're calling about?
+[01:09] [Camie Wade]: Casey Elliott.
+[01:13] [Receptionist]: Casey Elliott. Okay. Perfect. Give me just a second here on hold.
+[01:19] [ ... Silence (53s) ... ]
+[02:12] [Salen]: Hi, this is Salen.
+[02:14] [Camie Wade]: Hi, I'm trying to reach Landon.
+[02:16] [Salen]: Yeah, give me just a moment and I'm going to go ahead and put you through.
+[02:19] [Camie Wade]: Okay, thank you.
+[02:21] [ ... Silence (65s) ... ]
+[03:26] [Landon Knots]: Hello, this is Landon.
+[03:28] [Camie Wade]: Hi Landon, it's Camie Wade in Lubbock.
+[03:31] [Landon Knots]: Hey Camie, sorry for that pause. I was waiting for a beep. Usually there's a beep before someone gets put through. Uh, I just now saw your email. Let me go back to it. I swear, I I hate working on a laptop with these things.
+[03:48] [Camie Wade]: Oh, me too. Yeah, I get spoiled with my big screens.
+[03:51] [Landon Knots]: Paragraph 10, 11, 19, and 22.
+[03:57] [Camie Wade]: Yeah, so I've got a pretty hard-charging adjuster on this one. Um, she wants me to file the MSJ, she wants to get it done. Um, but I talked to her today and the apartment complex has med pay coverage of 5,000 that she said she would be willing to pay if we could get it done.
+[04:26] [Landon Knots]: Okay. Um, is there a, let's see. I'm meeting with with the the lit department manager this afternoon. This might be something that I bring up with him. I know we were able we were never able to uh get the actual residents involved in this one, which was a portion of it.
+[04:46] [Camie Wade]: Right. And I think they're I think they're ripe for a default. Um, they're just, you know, individuals that don't have insurance and are never going to they don't care if you get a judgment against them probably.
+[05:01] [Landon Knots]: Right. So let's see here. I'm just trying to get to the lease agreement. That was in disclosures? Or was that—
+[05:09] [Camie Wade]: Um, it would have been with our production. Yeah.
+[05:13] [Landon Knots]: Okay.
+[05:14] [ ... Silence (27s) ... ]
+[05:41] [Landon Knots]: Was it with that one? It would have been—
+[05:42] [Camie Wade]: Let me see when it was produced. Should have been around February 13th of last year. Is what it looks like we produced that.
+[05:55] [Landon Knots]: Okay.
+[05:56] [ ... Silence (21s) ... ]
+[06:17] [Landon Knots]: Here, paragraph— oh wow, that's really tiny print. Let's see here.
+[06:21] [Camie Wade]: Yeah, I had to blow it up pretty pretty big to read it.
+[06:24] [Landon Knots]: So the first one was paragraph 11? No, 10.
+[06:28] [Camie Wade]: Uh, 10, yeah.
+[06:30] [Landon Knots]: Okay.
+[06:31] [ ... Silence (24s) ... ]
+[06:55] [Landon Knots]: I don't see anything in number 10 that— are you looking specifically at things having to do with liability of the apartment complex? Like um, I know that's a broad question, but like for conduct of other residents?
+[07:05] [Camie Wade]: Yeah, well, and she she testified that she violated that lease. Like I went through it pretty closely with her in her deposition and she agreed that she breached the lease in 10 and 11, and then 19 and 22 deal with the apartment's liability.
+[07:22] [Landon Knots]: Okay.
+[07:23] [Camie Wade]: And if you want to take time and look at it and then respond, that's fine. I just wanted to let you know that I have the the five that I can offer if it'll get it to go away. If not, I'm going to have to do the motion.
+[07:38] [Landon Knots]: Okay. And what— I know that Todd was the one who was in the the deposition. I was able to review it some, enough to look for instances where she talked about like reporting prior instances with the dog or with the neighbors and all that stuff. What did she admit that she violated? Was it specific to this incident or or prior to?
+[08:04] [Camie Wade]: Yeah, the community standards by she's got a pending criminal assault charge against her for this accident or incident, whatever you want to call it.
+[08:13] [Landon Knots]: Right.
+[08:14] [Camie Wade]: She and her mom both are under criminal charges for it.
+[08:18] [Landon Knots]: Right. Okay. And then animals? Is that the one to number 12?
+[08:32] [Camie Wade]: I don't think there's anything specific to animals in there other than their disclaim liability for any actions by anybody on the property.
+[08:40] [Landon Knots]: Okay. Resident safety and loss. We do not warrant security of any kind. You agree that you will not rely upon any security measures taken by us for personal security. Okay. Not equipped or trained. I don't know if that would include a dog bite though. Let's see.
+[09:05] [Camie Wade]: Well, and I think it's going to have to be a comprehensive review of the lease and her testimony. And and you may call and talk to the lawyer that sat in on it. Um, I I've had clients before who were like that. Um, it was not a good deposition. I I don't think she's testified favorably um for any of the claims against the apartment. She said they didn't do anything wrong. And and again, I'm paraphrasing and you can look at it and see if you want to keep fighting about it, but I've got the five if that'll get it done.
+[09:40] [Landon Knots]: Right. I recall I recall seeing that um that question answered, I think, in the deposition where I think you asked something like um, "Do you know what what the apartment complex did wrong to cause this to occur?" or something like that. And she said no. I can't recall the exact way that was phrased. Let's see here.
+[10:04] [Landon Knots]: Okay. All right. I'll I'll see what we can do with the 5,000 and then just um go and get a default against the the individuals then. Um, okay. All right.
+[10:21] [Camie Wade]: Yeah, just let me know. Like I said, I've got a hard-charging adjuster. She wants it done one way or another, so I've just got to move it. Either just settlement or file the motion and go ahead.
+[10:32] [Landon Knots]: All right. Sounds good. Well, give me a chance to go back through the deposition testimony again and I'll try to highlight some things in there uh to see if we can try to wrap this up quicker.
+[10:43] [Camie Wade]: Okay. Thanks.
+[10:46] [Landon Knots]: All right. Thanks, Camie. Bye.
+[10:47] [Camie Wade]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

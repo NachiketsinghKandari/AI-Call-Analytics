@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Tarek / Role: Receptionist at The Craw Law Group: 6 turns
+  • Speaker 3 / Maria Rodriguez / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: The Craw Law Group, Tarek speaking, how may I help you today?
+[00:07] [Maria Rodriguez]: Hi, can I please speak to Mary? I'm returning her phone call. This is Maria Rodriguez.
+[00:12] [Receptionist]: Gotcha, give me one moment, please.
+[00:15] [Maria Rodriguez]: Thank you.
+[00:17] [Receptionist]: Sorry for that long hold. Unfortunately, it looks like Mary is currently unavailable. May I forward a message for you?
+[00:25] [Maria Rodriguez]: Yes, please.
+[00:27] [Receptionist]: Okay. And, um, is the number that you're calling from a good number?
+[00:35] [Maria Rodriguez]: Yes.
+[00:37] [Receptionist]: Okay, great. I'll make sure that this gets forwarded over to her and that she knows that you called back.
+[00:43] [Maria Rodriguez]: Okay, I appreciate. Thank you very much.
+[00:45] [Receptionist]: Of course, have a nice day.
+[00:47] [Maria Rodriguez]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

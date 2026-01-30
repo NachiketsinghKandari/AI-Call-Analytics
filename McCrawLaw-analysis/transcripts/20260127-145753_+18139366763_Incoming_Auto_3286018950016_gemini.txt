@@ -1,0 +1,42 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Maria / Role: Receptionist at McCraw Law Group: 13 turns
+  • Speaker 3 / Lou / Role: Caller: 13 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: Good afternoon, McCraw Law Group, this is Maria. May I help you?
+[00:08] [Lou]: This is Lou with Acceptance Insurance. I need to speak with Cheyenne Ellis regarding Athena Mack, date of loss 12/31/2025.
+[00:18] [Receptionist]: Okay, give me one moment. Mack, M-A-C-K?
+[00:21] [Lou]: Yes, ma'am. Just like the truck.
+[00:24] [Receptionist]: Thank you for that. Give me one moment. I'm sorry, our internet's really slow, so it's going to take a minute if you don't mind.
+[00:32] [Lou]: I understand. I'm working in Florida, but our home office is in Nashville, Tennessee, and they've been closed for two days.
+[00:42] [Receptionist]: Because of the weather?
+[00:44] [Lou]: Oh, yeah.
+[00:46] [Receptionist]: Yeah, it's been a mess. So over there it's beautiful, huh?
+[00:50] [Lou]: Oh, yeah. It's— it's probably going to hit a high of 45 today.
+[00:55] [Receptionist]: Really?
+[00:56] [Lou]: Yeah. So I'll be walking the dog here in another two hours in my shorts and t-shirt.
+[01:04] [Receptionist]: Well, that's good. Yeah, over here, I'm— I'm from Amarillo.
+[01:12] [Lou]: Oh, boy.
+[01:13] [Receptionist]: Yeah, we were— I was— I was stuck at home for three days. And finally came back.
+[01:21] [Lou]: Yeah, people don't understand that, you know, I've lived in Montana, Maryland, Washington State, so I know snow. And my wife loves Tennessee, she wants to move there and I'm like, "Nope."
+[01:33] [Receptionist]: You're like, "Not today."
+[01:35] [Lou]: Yeah. Or Kentucky for that matter.
+[01:40] [Receptionist]: Yeah. Okay, Athena Mack. And may I tell them what this is regarding?
+[01:45] [Lou]: Yeah, I just spoke with Athena again, and she said you guys represent her, but we've never received a letter of representation.
+[01:56] [Receptionist]: Okay, letter of rep. Okay, let me put you on hold for a moment, okay?
+[02:02] [Lou]: All right, thank you.
+[02:03] [Receptionist]: You're welcome. Thank you for holding, I'm transferring you now.
+[02:07] [Lou]: All right, thank you.
+[02:09] [Receptionist]: You're welcome, to Cheyenne, okay?
+[02:11] [Lou]: All right. Take care.
+
+========================================
+TRANSCRIPT END
+========================================

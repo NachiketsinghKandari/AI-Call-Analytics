@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kimberly / Role: Receptionist at McCraw Law Group: 11 turns
+  • Speaker 2 / Carlos Blanco / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This call is being recorded. McCraw Law Group, this is Kimberly, how may I help you?
+[00:07] [Carlos Blanco]: Hello Kimberly, my name is Carlos Blanco. Uh, by any chance is Carrie Stein available?
+[00:15] [Receptionist]: I can certainly check for you, Carlos. May I get what this call is in regards to or where you are calling from?
+[00:22] [Carlos Blanco]: Oh, he texted me to Indeed. I'm just following up with him.
+[00:28] [ ... Silence (5s) ... ]
+[00:33] [Receptionist]: Okay. And you said Carrie Stein, correct?
+[00:36] [Carlos Blanco]: Yes, ma'am.
+[00:38] [Receptionist]: Okay. And I'm sorry, sir, I didn't, I didn't catch there what it was in regards to. I think it cut out.
+[00:42] [Carlos Blanco]: Oh, he texted me to, uh, Indeed to apply for a job.
+[00:48] [Receptionist]: Oh, okay. Perfect. And was there a specific position that she was inquiring with you about?
+[00:53] [Carlos Blanco]: Oh, yes, the bilingual legal assistant.
+[00:57] [Receptionist]: Okay. Give me just one moment, sir.
+[01:00] [Carlos Blanco]: Yeah, no worries. Thank you.
+[01:02] [Receptionist]: Mm-hmm.
+[01:03] [ ... Silence (5s) ... ]
+[01:08] [Receptionist]: Apologize for that hold there, sir. It does look like Carrie was currently unavailable. Um, can I get a good phone number for you? I will let her know you're reaching back out and she should be giving you a call back as soon as possible.
+[01:21] [Carlos Blanco]: Oh, yeah, definitely. Uh, the phone number is 786-710-7979.
+[01:31] [Receptionist]: 7979. Perfect.
+[01:34] [Carlos Blanco]: Uh, my, my name is Carlos Blanco.
+[01:37] [Receptionist]: Blanco. Okay, perfect. I will go ahead and shoot that over to her and she should be reaching back out as soon as possible.
+[01:46] [Carlos Blanco]: Yeah, sure. Thank you for your help. Appreciate it. Have a good day.
+[01:50] [Receptionist]: Have a good one. Bye-bye.
+[01:52] [Carlos Blanco]: You too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a case status update. The receptionist was unable to access the case management system and recorded the caller's phone number to facilitate a callback from the assigned staff.",
+    "call_duration_seconds": 134.64,
+    "call_duration_formatted": "02:14"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted because the receptionist could not identify the assigned staff while the internal system was down."
+  }
+}

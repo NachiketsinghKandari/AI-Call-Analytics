@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo } from 'react';
-import { useHydrated } from '@/lib/hooks';
+import { useHydrated, useResponsiveChartHeight } from '@/lib/hooks';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Switch } from '@/components/ui/switch';
@@ -69,25 +69,25 @@ function KPICard({
 }) {
   return (
     <Card>
-      <CardContent className="p-4">
-        <div className="flex items-start justify-between">
-          <div className="space-y-1">
-            <p className="text-xs font-medium text-muted-foreground uppercase tracking-wide">{title}</p>
-            <div className="flex items-baseline gap-2">
-              <span className={`text-2xl font-bold ${colorClass}`}>{value}</span>
+      <CardContent className="p-3 sm:p-4">
+        <div className="flex items-start justify-between gap-2">
+          <div className="space-y-0.5 sm:space-y-1 min-w-0 flex-1">
+            <p className="text-[10px] sm:text-xs font-medium text-muted-foreground uppercase tracking-wide truncate">{title}</p>
+            <div className="flex items-baseline gap-1 sm:gap-2 flex-wrap">
+              <span className={`text-lg sm:text-2xl font-bold ${colorClass}`}>{value}</span>
               {percentage !== undefined && (
-                <span className="text-sm font-medium text-muted-foreground">
+                <span className="text-xs sm:text-sm font-medium text-muted-foreground">
                   ({percentage.toFixed(1)}%)
                 </span>
               )}
             </div>
             {description && (
-              <p className="text-xs text-muted-foreground">{description}</p>
+              <p className="text-[10px] sm:text-xs text-muted-foreground truncate">{description}</p>
             )}
           </div>
           {Icon && (
-            <div className={`p-2 rounded-lg bg-muted ${colorClass}`}>
-              <Icon className="h-4 w-4" />
+            <div className={`p-1.5 sm:p-2 rounded-lg bg-muted ${colorClass} flex-shrink-0`}>
+              <Icon className="h-3 w-3 sm:h-4 sm:w-4" />
             </div>
           )}
         </div>
@@ -98,6 +98,7 @@ function KPICard({
 
 export default function FlowPage() {
   const hydrated = useHydrated();
+  const chartHeight = useResponsiveChartHeight(350, 450, 550);
   const { files, filters, sankeyOptions, setSankeyOptions, setSelectedFileId } = useCallDataStore();
 
   const filteredFiles = useMemo(() => {
@@ -224,7 +225,7 @@ export default function FlowPage() {
       </div>
 
       {/* KPI Cards */}
-      <div className="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 gap-4">
+      <div className="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 gap-2 sm:gap-4">
         <KPICard
           title="Total Calls"
           value={insights.total}
@@ -278,31 +279,31 @@ export default function FlowPage() {
         <CardContent className="py-0 pb-4">
           {hydrated ? (
             <Tabs value={currentPreset} onValueChange={handlePresetChange}>
-              <TabsList className="grid w-full grid-cols-5">
-                <TabsTrigger value="resolution" className="text-xs sm:text-sm">
+              <TabsList className="flex w-full overflow-x-auto lg:grid lg:grid-cols-5 gap-1">
+                <TabsTrigger value="resolution" className="flex-shrink-0 min-w-fit text-xs sm:text-sm">
                   Resolution
                 </TabsTrigger>
-                <TabsTrigger value="transfer" className="text-xs sm:text-sm">
+                <TabsTrigger value="transfer" className="flex-shrink-0 min-w-fit text-xs sm:text-sm">
                   Transfers
                 </TabsTrigger>
-                <TabsTrigger value="caller" className="text-xs sm:text-sm">
+                <TabsTrigger value="caller" className="flex-shrink-0 min-w-fit text-xs sm:text-sm">
                   Callers
                 </TabsTrigger>
-                <TabsTrigger value="intent" className="text-xs sm:text-sm">
+                <TabsTrigger value="intent" className="flex-shrink-0 min-w-fit text-xs sm:text-sm">
                   Intents
                 </TabsTrigger>
-                <TabsTrigger value="custom" className="text-xs sm:text-sm gap-1">
+                <TabsTrigger value="custom" className="flex-shrink-0 min-w-fit text-xs sm:text-sm gap-1">
                   <Settings2 className="h-3 w-3" />
                   Custom
                 </TabsTrigger>
               </TabsList>
             </Tabs>
           ) : (
-            <div className="grid w-full grid-cols-5 gap-1 h-9 bg-muted p-1 rounded-lg">
+            <div className="flex w-full overflow-x-auto lg:grid lg:grid-cols-5 gap-1 h-9 bg-muted p-1 rounded-lg">
               {['Resolution', 'Transfers', 'Callers', 'Intents', 'Custom'].map((label) => (
                 <div
                   key={label}
-                  className="flex items-center justify-center text-xs sm:text-sm text-muted-foreground"
+                  className="flex-shrink-0 min-w-fit flex items-center justify-center text-xs sm:text-sm text-muted-foreground px-3"
                 >
                   {label}
                 </div>
@@ -378,12 +379,14 @@ export default function FlowPage() {
       {/* Sankey Diagram */}
       <Card>
         <CardContent className="p-4">
-          <PlotlySankey
-            files={filteredFiles}
-            options={sankeyOptions}
-            height={550}
-            onFilesSelect={handleLinkClick}
-          />
+          <div className="min-h-[350px] sm:min-h-[450px] lg:min-h-[550px]">
+            <PlotlySankey
+              files={filteredFiles}
+              options={sankeyOptions}
+              height={chartHeight}
+              onFilesSelect={handleLinkClick}
+            />
+          </div>
         </CardContent>
       </Card>
     </div>

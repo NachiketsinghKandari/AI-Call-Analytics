@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at Makar Law Group: 2 turns
+  • Speaker 3 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: Thank you for calling the Makar Law Group, how can I help you?
+[00:15] [Speaker 3]: Hi, this is a test call.
+[00:18] [Receptionist]: Okay.
+[00:19] [Speaker 3]: Thank you, I'll mark it as a test.
+
+========================================
+TRANSCRIPT END
+========================================

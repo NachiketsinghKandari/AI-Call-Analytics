@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 3 / Patricia Walker / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: Bey and Associates, this is [unclear], how can I help you?
+[00:08] [Patricia Walker]: Hi, yes, I was calling to see if Emily's available.
+[00:12] [Receptionist]: I can go ahead and see if she's available. Can I have your name, please?
+[00:16] [Patricia Walker]: Sure, Patricia Walker.
+[00:20] [Receptionist]: Just one moment for me, Patricia, and I'll see if Emily's available. Thank you.
+[00:27] [Patricia Walker]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

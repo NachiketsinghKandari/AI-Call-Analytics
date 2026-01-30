@@ -58,6 +58,7 @@ export interface FilterState {
   primaryIntents: string[];
   transferStatus: TransferStatus[];
   durationRange: [number, number];
+  includeUnknownDuration: boolean;
   multiCase: MultiCaseStatus[];
   // VAPI-specific filters
   assistantIds: string[];

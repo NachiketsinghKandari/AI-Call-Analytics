@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Kimberly / Role: Receptionist at McLawler Group: 6 turns
+  • Speaker 3 / Derquise / Role: Caller from Progressive Insurance: 5 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: McLawler Group, this is Kimberly, how may I help you?
+[00:07] [Derquise]: Hey, good afternoon Kimberly. My name is Derquise and I'm calling with Progressive Insurance in reference to client Heriberto Valencia.
+[00:16] [Receptionist]: Okay, just one moment let me go ahead and pull that up here. Give me just one moment.
+[00:22] [Derquise]: Sure.
+[00:27] [Receptionist]: Yeah, let me go ahead and connect you over to that attorney, just one moment Derquise.
+[00:32] [Derquise]: Okay, thank you.
+[00:34] [Receptionist]: I apologize for that hold there. It does look like attorney Todd was currently unavailable. Can I go ahead and shoot him your callback number if it's this one that ends in 3431 and have him return your call?
+[00:49] [Derquise]: Yes, sure.
+[00:51] [Receptionist]: Perfect, I'll go ahead and do that. He should be reaching back out to you as soon as possible.
+[00:56] [Derquise]: No problem, thank you. Have a good one.
+[00:58] [Receptionist]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

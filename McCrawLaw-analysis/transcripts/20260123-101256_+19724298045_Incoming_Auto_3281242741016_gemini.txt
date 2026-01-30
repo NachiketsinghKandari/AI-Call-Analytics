@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jessica / Role: Receptionist at McCraw Law Group: 5 turns
+  • Speaker 2 / Dina / Role: Caller from Wylie Police Department: 4 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: McCraw Law Group, this is Jessica, how may I help you?
+[00:06] [Dina]: Yes, may I speak to Lindsay Pausik?
+[00:09] [Receptionist]: Yeah, I can definitely connect you over. Can I get your name and where you're calling from?
+[00:13] [Dina]: Yes, I'm Dina and I'm calling from the Wylie Police Department.
+[00:17] [Receptionist]: Wylie Police Department. Okay. And then, do you happen to know which client this was in regards to?
+[00:22] [Dina]: It is for Birdie Turner.
+[00:26] [Receptionist]: Birdie Turner. All right, perfect. Give me one moment, let me go ahead and connect you over.
+[00:29] [Dina]: Okay.
+[00:30] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

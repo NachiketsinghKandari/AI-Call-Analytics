@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Bey Law Group: 6 turns
+  • Speaker 3 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: Bey Law Group.
+[00:07] [Speaker 3]: I'm looking to speak with Abram, Abram Smith.
+[00:11] [Receptionist]: Abram is no longer with us.
+[00:14] [Speaker 3]: Is there any replacement? Or if possible, can you connect me with the office manager?
+[00:21] [Receptionist]: I'm sorry, can I ask where you're calling from?
+[00:26] [Speaker 3]: Yes, I'm from LQS, it's Lead Quote Sale, and we are the providers of leads to the attorneys within PI segment.
+[00:35] [Receptionist]: Okay. Um, do you have a good callback number or a good email address? That way I can go ahead and send them over. We would have to have you inquire before sending you over to someone directly.
+[00:47] [Speaker 3]: Okay, sure. So the callback number is 952-952-4990.
+[00:53] [Receptionist]: Okay. I will go ahead and send it over to our marketing team. Thank you.
+[00:59] [Speaker 3]: Perfect. Thank you very much.
+[01:01] [Receptionist]: Uh-huh. Bye-bye.
+[01:03] [Speaker 3]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

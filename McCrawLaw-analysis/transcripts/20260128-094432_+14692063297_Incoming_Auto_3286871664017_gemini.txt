@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:02] [Speaker 2]: Get this fixed by pressing zero...
+[00:04] [Speaker 3]: This call may be recorded for quality assurance purposes.
+[00:05] [Speaker 2]: ...so your listing doesn't drop on Google searches. Again, please press zero to get this handled. It only takes a few minutes. To opt out, press nine or call 619-935-1051.
+
+========================================
+TRANSCRIPT END
+========================================

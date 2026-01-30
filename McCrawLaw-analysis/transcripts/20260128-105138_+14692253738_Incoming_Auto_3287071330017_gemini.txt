@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jessica / Role: Receptionist at McCalla Law Group: 4 turns
+  • Speaker 2 / Griselda / Role: Caller: 4 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Receptionist]: McCalla Law Group, this is Jessica, how may I help you?
+[00:08] [Griselda]: Hi Jessica, this is Griselda with Vista Physical Therapy. I was trying to reach Ariana.
+[00:14] [Receptionist]: Yeah, I can definitely connect you over. I am so sorry, it looks like you cut out there. Can I get your name and where you're calling from?
+[00:21] [Griselda]: Yeah, it's Griselda, that's G-R-I-S-E-L-D-A, and I'm with Vista Physical Therapy.
+[00:27] [Receptionist]: Okay. And then, do you happen to know which client this is in regards to?
+[00:30] [Griselda]: Adam Yildirim. Adam is A-D-E-M.
+[00:39] [Receptionist]: Okay. One moment.
+[00:41] [Griselda]: No problem, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

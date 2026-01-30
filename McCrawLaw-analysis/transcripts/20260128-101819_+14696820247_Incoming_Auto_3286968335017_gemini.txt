@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Macarla Group: 6 turns
+  • Speaker 3 / Adrian Castle / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:12] [Receptionist]: Hello, thank you for calling Macarla Group. How can I help you?
+[00:16] [Adrian Castle]: Hi, yes, my name is Adrian Castle. I missed a call from someone at this, uh, number this morning.
+[00:22] [Receptionist]: Okay, Adrian Castle.
+[00:27] [Adrian Castle]: And I should have checked the voicemail to see who it was.
+[00:33] [Receptionist]: Okay, I'm not sure who tried to reach you, but I don't have anyone from the team right now. I just want to confirm I have your callback number as 469-682-0247.
+[00:44] [Adrian Castle]: That's correct.
+[00:45] [Receptionist]: Okay, I will take a message and let them know you called back, okay?
+[00:51] [Adrian Castle]: Sure. You know what, let me listen to my voicemail see who it was and I'll call you right back.
+[00:55] [Receptionist]: Okay, no worries. Thank you.
+[00:57] [Adrian Castle]: Thank you. Bye-bye.
+[00:58] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

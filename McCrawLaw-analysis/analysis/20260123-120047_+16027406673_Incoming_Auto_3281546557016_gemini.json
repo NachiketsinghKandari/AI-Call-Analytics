@@ -1,0 +1,27 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to transfer the caller to staff regarding a new mold-related case, but after a hold, informed the caller the firm could not take the case and provided a referral to another attorney.",
+    "call_duration_seconds": 1183.46,
+    "call_duration_formatted": "19:43"
+  },
+  "transfer_context": {
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to transfer the caller to see if the firm could take the case, but returned to the line to decline the matter."
+  }
+}

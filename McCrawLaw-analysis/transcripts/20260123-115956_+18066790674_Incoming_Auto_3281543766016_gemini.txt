@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 4 turns
+  • Speaker 2 / Tanya Powers / Role: Caller: 4 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:05] [Receptionist]: Bey and Associates, this is Lionel, how can I help you?
+[00:09] [Tanya Powers]: Hi, I'm looking for Todd.
+[00:11] [Receptionist]: Todd? Okay, just one moment. Um, sure. Can I have your name please?
+[00:16] [Tanya Powers]: It's Tanya Powers.
+[00:18] [Receptionist]: Okay, thank you so much, Tanya. Just hold on a second for me. Thank you so much for holding there, Tanya. So, I did speak with Todd just now. He said— he did mention that he is in the middle of something right right now, but that he will call you back shortly with Crystal, if that's okay?
+[00:38] [Tanya Powers]: Okay, awesome. Thank you. I appreciate it.
+[00:41] [Receptionist]: Uh-huh. Thank you so much. Have a— have a great day. Bye-bye.
+[00:43] [Tanya Powers]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

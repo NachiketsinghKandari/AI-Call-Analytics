@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 11 turns
+  • Speaker 3 / Kamala Wilkinson / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Automated Voice]: This call may be recorded for quality assurance purposes.
+[00:12] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:16] [Kamala Wilkinson]: Hey there, this is Kamala Wilkinson and I'm calling for Thompson. I am the defense attorney on a case... Hurst...
+[00:27] [Receptionist]: I apologize, I think there's a little bit of a lag between our phones here. Um, continue?
+[00:36] [Kamala Wilkinson]: Oh, I was just going to tell you that the plaintiff is... let's see here, it is... where did that go? I guess there's a bunch of parties... a bunch of different people in the lawsuit. Okay, so there is Thomps— where is the plaintiff counsel? There is no... alright, it's Hurst. Alright, Sydney Hurst.
+[01:12] [Receptionist]: Alright, and is that Sydney with an S or a C?
+[01:18] [Kamala Wilkinson]: Um, it's Sydney with, it's S like Sam, Y, D, N, E, Y. Yes.
+[01:27] [Receptionist]: Okay, um, and you said your name was Pamela?
+[01:32] [Kamala Wilkinson]: It was with a K, Kamala.
+[01:35] [Receptionist]: Pamela, okay.
+[01:36] [Kamala Wilkinson]: Yeah, K.
+[01:38] [Receptionist]: Alright, let me see if I can get you connected through. Give me one moment here.
+[01:45] [ ... Silence (106s) ... ]
+[03:31] [Receptionist]: Okay, Kamala, thank you so much for your patience. Are you still there?
+[03:35] [Kamala Wilkinson]: Yes.
+[03:36] [Receptionist]: Alright, I wasn't able to get through. Is it possible for me to get a good callback number for you?
+[03:42] [Kamala Wilkinson]: Sure, he can reach me on my cell at 214-543-4252.
+[03:54] [Receptionist]: Okay, absolutely. Um, so I will go ahead and pass along this message and I will have them reach back out to you, um, and I'll ask for them to do it as soon as possible so that you can get the information that you need.
+[04:07] [Kamala Wilkinson]: Okay, thank you.
+[04:09] [Receptionist]: Alright, have a good one.
+[04:11] [Kamala Wilkinson]: You too. Bye-bye.
+[04:13] [Receptionist]: Alrighty, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

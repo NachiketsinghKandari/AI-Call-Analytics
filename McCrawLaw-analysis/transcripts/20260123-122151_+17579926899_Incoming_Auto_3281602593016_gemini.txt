@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCrae Law Group: 5 turns
+  • Speaker 3 / Jack Root / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:13] [Receptionist]: Hello, thank you for calling McCrae Law Group, how can I help you?
+[00:16] [Jack Root]: Hey, this is Jack Root, I just received a call from, uh, I forget his name, but one of the gentlemen there, he was discussing my case and I was going to tell him go ahead and, uh, I'll handle the medical bill because I talked to them and it was only like total bill was two thousand and fifty-nine twenty and all that's left on it is three hundred dollars. And that was for the, uh, Riverside.
+[00:44] [Receptionist]: You said Jack Root, correct?
+[00:47] [Jack Root]: Correct. J-A-C-K R-O-O-T like a tree.
+[00:53] [Receptionist]: Oh, okay, yeah, it looks like he's wrapping up another phone call right now. Is this your phone number so he can call you back?
+[01:01] [Jack Root]: Yeah, this one right here, which is, uh, oh my goodness, 757-992- I want to say 6- he has it, it's 699.
+[01:15] [Receptionist]: Okay, yes, I have it right here. I will let him know right away then.
+[01:19] [Jack Root]: All right, thank you.
+[01:21] [Receptionist]: Thank you, bye-bye.
+[01:22] [Jack Root]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

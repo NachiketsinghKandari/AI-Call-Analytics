@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McPraw Law Group: 11 turns
+  • Speaker 3 / Tony Khalil / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:07] [Receptionist]: Hello, thank you for calling McPraw Law Group, how can I help you?
+[00:11] [Tony Khalil]: Hey, uh, I recently was involved in an accident. I'm looking for like an attorney. I was wondering how much you guys charge to get started on a on a case.
+[00:19] [Receptionist]: Okay, you said uh you were in an accident?
+[00:22] [Tony Khalil]: Yes ma'am. It was like near Hollywood.
+[00:26] [Receptionist]: Okay, gotcha. I'm so sorry about that. Can I get your first and last name please?
+[00:31] [Tony Khalil]: Well, I'm actually doing this for my friend. I'm trying to find a good attorney for him. I was just wondering about price.
+[00:37] [Receptionist]: Yeah, so since you're the one I'm talking to, just in case if I lose you, I know who I'm speaking with. Can I get your name and phone number real quick, just like if I have to call you back?
+[00:43] [Tony Khalil]: Yeah. It's Tony. And then last name is Khalil. K-H-A-L-I-L. And then the phone number is 469-863-9533.
+[00:58] [Receptionist]: Thank you. And did you say Tony like T-O-N as in Nancy Y?
+[01:02] [Tony Khalil]: Yes ma'am.
+[01:04] [Receptionist]: Okay, one second.
+[01:06] [ ... Silence (8s) ... ]
+[01:15] [Receptionist]: Okay, and just in case if we need to send any information about the case to you guys, um, so what I can do because it doesn't look like I have like pricing information myself, um, I can see if I can get you guys set up for like a consultation or uh see if I can get somebody to contact you guys to go over some like pricing or what we offer and everything. Um, I can say we do offer a free 30-minute consultation originally. Um, I would just have to gather some basic information from you to see if we can set that up. Um, would would that be okay?
+[01:47] [Tony Khalil]: Then let me let me call you back on that then.
+[01:51] [Receptionist]: Okay, no problem. Uh, let me just make a note of that real quick and then that's totally fine.
+[01:56] [ ... Silence (12s) ... ]
+[02:09] [Receptionist]: Okay, you should be good to go.
+[02:11] [Tony Khalil]: Okay, thank you.
+[02:13] [Receptionist]: No problem.
+[02:14] [Tony Khalil]: All right, bye-bye.
+[02:15] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

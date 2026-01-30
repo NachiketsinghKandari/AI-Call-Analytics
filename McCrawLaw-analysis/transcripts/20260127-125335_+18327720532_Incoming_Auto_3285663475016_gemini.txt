@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCall Law Group: 13 turns
+  • Speaker 3 / Stephanie / Role: Caller from Geico: 13 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Automated Voice]: This call may be recorded for quality assurance purposes.
+[00:13] [Receptionist]: Thank you for calling McCall Law Group, how can I help you?
+[00:16] [Stephanie]: Hi, this is Stephanie calling from Geico on a recorded line just looking to touch base on a file I have for Glendy Enamorado.
+[00:24] [Receptionist]: All right, and do you have an email address that we can add into your profile as well?
+[00:29] [Stephanie]: Um, we don't have anything direct. I can give you the general Geico email if you want it.
+[00:34] [Receptionist]: Sure, I'll take that.
+[00:36] [Stephanie]: It's geicoclaims with an S at geico.com.
+[00:42] [Receptionist]: Thank you, that was geicoclaims with an S as in Sam at geico.com.
+[00:47] [Stephanie]: Uh-huh, and anytime you use that you have to have the claim number in the subject line.
+[00:52] [Receptionist]: Okay. And how do you spell that client's full name?
+[00:56] [Stephanie]: Uh, first name is Glendy, G-L-E-N-D-Y. Last name is E-N-A-M-O-R-A-D-O.
+[01:06] [Receptionist]: Thank you, that was Glendy, G-L-E-N as in Nancy, D-Y, and then her last name is E as in Edward, N as in Nancy, A, M as in Mary, O, R, A, D as in dog, O.
+[01:20] [Stephanie]: You got it.
+[01:21] [Receptionist]: All right, and were you looking for a case status update on the client?
+[01:24] [Stephanie]: Um, well we had an offer out, so checking up on that or if there was anything additional we needed to review, yeah.
+[01:32] [Receptionist]: Yeah, okay. Gotcha. So I don't have anyone available for you to speak with right now and I don't have access to client information as an intake receptionist, so I can just get this over to the legal team and have them correspond with you as soon as they're able.
+[01:46] [Stephanie]: Yeah, absolutely. That's fine.
+[01:49] [Receptionist]: Awesome. And did you want to provide the claim number in case they do email you back?
+[01:53] [Stephanie]: Yeah, it's 88 54 03 04 000 000 01.
+[02:06] [Receptionist]: Thank you. I'll repeat that back as 885 403 040 000 000 01.
+[02:18] [Stephanie]: Should be seven zeros.
+[02:20] [Receptionist]: Okay, yeah, I thought I missed a zero, but I got it. I got the zeros. Thank you. And then your best callback is still the 852-772-0532?
+[02:30] [Stephanie]: Yes, ma'am.
+[02:32] [Receptionist]: Perfect. Okay, I will go ahead and get this to them for you, okay?
+[02:36] [Stephanie]: I appreciate it. Have a good rest of your day.
+[02:39] [Receptionist]: You too. Bye-bye.
+[02:41] [Stephanie]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

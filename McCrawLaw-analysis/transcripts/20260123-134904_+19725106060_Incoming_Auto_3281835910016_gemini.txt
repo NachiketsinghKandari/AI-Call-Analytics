@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Erica / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 3 / David / Role: Caller from Allstate: 3 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:06] [Receptionist]: Hello, Bey and Associates, Erica speaking, how may I help you?
+[00:10] [David]: Uh, good afternoon, my name is David calling from Allstate. Could I speak to John Walker, please?
+[00:16] [Receptionist]: Okay, and can I get the client that this is over?
+[00:18] [David]: Lorian Watkins.
+[00:23] [ ... Silence (6s) ... ]
+[00:28] [Receptionist]: Okay, give me one moment please.
+[00:30] [David]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

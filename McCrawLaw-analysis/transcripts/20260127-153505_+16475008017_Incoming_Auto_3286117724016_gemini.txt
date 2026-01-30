@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 2 / Tina Tran / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This call is being recorded.
+[00:07] [Tina Tran]: Hi, sorry, um, I just missed a call from, uh, about 10 minutes ago. My name is Tina Tran.
+[00:16] [Receptionist]: Okay. Do you currently have a case open with us?
+[00:19] [Tina Tran]: Yes.
+[00:20] [Receptionist]: Okay. Give me just a moment, let me get you pulled up and see who that was.
+[00:26] [ ... Silence (20s) ... ]
+[00:46] [Receptionist]: Okay, that was Ms. Emily. Give me just a moment.
+[00:50] [Tina Tran]: Okay, thank you.
+[00:52] [Receptionist]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McPhraw Law Group: 9 turns
+  • Speaker 3 / Tyler Cannon / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Automated Voice]: This call may be recorded for quality assurance purposes.
+[00:10] [Receptionist]: Hello thank you for calling McPhraw Law Group, how can I help you?
+[00:13] [Tyler Cannon]: Hi, I was calling to see if Lem was available?
+[00:16] [Receptionist]: Um, hi, I can check for you, are you an existing client?
+[00:21] [Tyler Cannon]: No, I'm with Martindale, my name is Tyler.
+[00:24] [Receptionist]: Okay, hi Mr. Tyler, may I have your last name?
+[00:27] [Tyler Cannon]: Cannon, like a cannonball.
+[00:29] [Receptionist]: Okay, thank you. May I have the best callback number for you?
+[00:34] [Tyler Cannon]: 908-673-1354.
+[00:42] [Receptionist]: Thank you, and may I let them know if it's regarding a specific case or what the call is about?
+[00:46] [Tyler Cannon]: Just some general referrals that we weren't able to get in touch with him.
+[00:50] [Receptionist]: Okay, thank you, just a moment.
+[00:53] [ ... Silence (40s) ... ]
+[01:33] [Receptionist]: Hi Mr. Cannon, thank you for holding. Um, unfortunately they were not available to take the call, um, I by that I mean their assistant either, but I can get a message over. Um, do you have an email through which they could communicate with you as well?
+[01:42] [Tyler Cannon]: Yeah, I I actually um will send something over but it's just my first name dot last name at Martindale hyphen Avvo which is A-V-as in Victor-V-as in Victor-O-as in Oscar dot com.
+[02:04] [Receptionist]: Dot com. Okay, perfect, thank you so much, I'll make sure to advise them that you called.
+[02:10] [Tyler Cannon]: Thanks, take care.
+[02:12] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

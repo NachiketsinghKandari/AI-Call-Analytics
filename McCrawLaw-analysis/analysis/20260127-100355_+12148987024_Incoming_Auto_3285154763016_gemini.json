@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The caller was returning a call to speak with a lawyer. The receptionist determined the lawyer was unavailable and took a message for a callback, which the caller accepted.",
+    "call_duration_seconds": 125.78,
+    "call_duration_formatted": "02:05"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist informed the caller that the requested staff member was unavailable and offered to take a message."
+  }
+}

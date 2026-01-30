@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCrowe Law Group: 9 turns
+  • Speaker 3 / Kirsten / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: Hello, thank you for calling McCrowe Law Group, how can I help you?
+[00:14] [Kirsten]: Hi, is Vicky Crabb available?
+[00:18] [Receptionist]: I can certainly check for you. Are you an existing client?
+[00:22] [Kirsten]: Yes, my name is Kirsten, I'm calling with Aperture.
+[00:26] [Receptionist]: Okay, thank you, Kirsten. Kirsten, I'm so sorry, and the phone number that ends in 2528, is that the best contact number for you?
+[00:37] [Kirsten]: Uh, yes.
+[00:39] [Receptionist]: All right, awesome. And may I ask what's the reason for your call today?
+[00:44] [Kirsten]: Um, I'm calling in reference to Aiden Pool. Uh, we have, we have a inspection scheduled. However, we have freezing fog incoming that morning and I need to, and travel impacts. So I just need to know if, um, we can possibly move it. I did email her, I just wanted to see if I could catch her before the end of the day.
+[01:01] [Receptionist]: Okay, I do understand. Let me see. All righty. And when was that appointment scheduled for?
+[01:13] [Kirsten]: It's Wednesday out in, where is he going? Amarillo, between Amarillo and, um, where is he going? Plainview.
+[01:27] [Receptionist]: Okay. And do you know the time that it was set for Wednesday?
+[01:32] [Kirsten]: Um, noon.
+[01:34] [Receptionist]: Noon. Okay, thank you. So that's the 28th. All righty, so I do apologize, I don't have anyone available to take the call to get that rescheduled for you, but I'll be happy to, um, take a message and have someone follow up with you.
+[01:58] [Kirsten]: Okay. And I didn't cancel anything. I just wanted to know, there's a trooper involved and all the things and I just want to make sure that we can, we don't want to waste his time if we're going to end up being delayed because I know that there's a hard stop deadline for the inspection. So, um, we just wanted to see if we can move it. I haven't done anything yet.
+[02:14] [Receptionist]: Okay, perfect. All right, well I will get those details over. Thank you so much for calling, you have a great day now.
+[02:21] [Kirsten]: You too, thank you.
+[02:23] [Receptionist]: Thank you, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

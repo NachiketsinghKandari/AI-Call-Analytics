@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 7 turns
+  • Speaker 3 / Sheila / Role: Caller from Synapse TBI: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:08] [ ... Silence (8s) ... ]
+[00:16] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:19] [Sheila]: Hi, this is Sheila from Synapse TBI, medical provider. I would just like to confirm a case status for a client.
+[00:28] [Receptionist]: Okay, ma'am. Um, and would you mind providing me with the name of the client, please?
+[00:38] [Sheila]: Sure. First name is Tara, T-A-R-A, last name Peppers, P-E-P-P-E-R-S.
+[00:46] [ ... Silence (7s) ... ]
+[00:53] [Receptionist]: All right. And you said from Synapse TBI. I have here your email address, ma'am, as billing at synapse-tbi.com, is that correct?
+[01:05] [Sheila]: Yes, that's right.
+[01:07] [Receptionist]: Okay, perfect. Then let me go ahead and pass on the message that you're looking for the status for this client. Once I have someone available, ma'am, I will let them know that you called, okay?
+[01:19] [Sheila]: Yes, so they can email also the status of the case or they can call back.
+[01:26] [Receptionist]: All right, perfect. I'll make sure to pass on the message then.
+[01:29] [Sheila]: Thank you very much.
+[01:31] [Receptionist]: No problem.
+[01:32] [Sheila]: Have a great day. Bye-bye.
+[01:34] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 9 turns
+  • Speaker 3 / Charles Johnson / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:05] [ ... Silence (6s) ... ]
+[00:11] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:15] [Charles Johnson]: Yeah, yes, I was wanting to talk to my case manager or my attorney.
+[00:23] [Receptionist]: I'm sorry, uh, your reception is breaking up really bad, could you repeat that please?
+[00:28] [Charles Johnson]: Yes, I was wanting to talk to my, uh, my attorney or my case manager.
+[00:38] [Receptionist]: Okay, can you confirm your name please?
+[00:41] [Charles Johnson]: Charles Johnson.
+[00:44] [Receptionist]: All right, and, um, who are you currently working with?
+[00:49] [Charles Johnson]: Um, they switched it. Um, my lawyer, my lawyer's Landon, I believe. And then I think they switched my case worker to Danielle.
+[01:01] [Receptionist]: Okay, thank you for that. Um, give me a moment.
+[01:05] [ ... Silence (10s) ... ]
+[01:15] [Receptionist]: Okay, um, so she's not avail— Danielle's not available at the time, but I'll forward a message and have her call you back as soon as possible. Um, can you confirm your callback number please?
+[01:26] [Charles Johnson]: Uh yes, it's 806-316-2362. Um...
+[01:32] [Receptionist]: Okay. Was there anything else?
+[01:34] [Charles Johnson]: Sorry, go ahead. I just really wanted to know if, if the deposition was set, because they sent me some dates and I replied back, um, a few weeks ago and I still haven't heard anything.
+[01:44] [Receptionist]: Mhm. Okay, let me note that down for you. All right, well thank you for reaching out. I'll get a message over and let Danielle know you wanted, um, an update on the deposition, okay?
+[01:56] [Charles Johnson]: Thank you.
+[01:57] [Receptionist]: You're welcome. Have a good day. Bye-bye.
+[01:59] [Charles Johnson]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

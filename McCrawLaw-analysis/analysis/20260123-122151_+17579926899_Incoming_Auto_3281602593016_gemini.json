@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The caller contacted the firm to return a call regarding medical bills for their case. The receptionist determined the staff member was unavailable, confirmed the caller's phone number, and scheduled a callback.",
+    "call_duration_seconds": 82.15,
+    "call_duration_formatted": "01:22"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist identified the staff member was unavailable and proceeded to schedule a callback."
+  }
+}

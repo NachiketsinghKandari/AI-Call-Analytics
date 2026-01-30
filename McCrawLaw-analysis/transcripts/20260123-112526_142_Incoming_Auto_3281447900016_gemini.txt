@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Unknown: 1 turn
+  • Speaker 2 / Unknown / Role: Unknown: 3 turns
+  • Speaker 3 / Unknown / Role: Unknown: 3 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: Hello?
+[00:04] [Speaker 3]: Hey, can you respond back to Greg Jones and ask for the email thread between him and the Winstar adjuster?
+[00:11] [Speaker 2]: Yeah.
+[00:12] [Speaker 3]: Perfect. Thank you.
+[00:13] [Speaker 2]: Yep, you're welcome.
+[00:14] [Speaker 3]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

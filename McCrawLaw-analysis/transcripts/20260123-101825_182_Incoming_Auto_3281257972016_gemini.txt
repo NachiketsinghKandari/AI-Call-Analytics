@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Caelen / Role: Employee: 3 turns
+  • Speaker 3 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Caelen]: Hi.
+[00:05] [Receptionist]: Hey Caelen, I have a Gregory Jones on the line. He says that he's returning your call.
+[00:10] [Caelen]: Uh, it's not my call. It goes to Drake, please.
+[00:12] [Receptionist]: Okay.
+[00:13] [Caelen]: Thank you.
+[00:14] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

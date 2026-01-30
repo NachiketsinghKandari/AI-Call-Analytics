@@ -9,7 +9,8 @@
     "lint": "eslint",
     "generate-sample": "npx tsx scripts/generate-sample-data.ts",
     "generate-vapi": "npx tsx scripts/generate-vapi-data.ts",
-    "prebuild": "npm run generate-sample && npm run generate-vapi"
+    "generate-mccraw": "npx tsx scripts/generate-mccraw-data.ts",
+    "prebuild": "npm run generate-sample && npm run generate-vapi && npm run generate-mccraw"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.3.3",

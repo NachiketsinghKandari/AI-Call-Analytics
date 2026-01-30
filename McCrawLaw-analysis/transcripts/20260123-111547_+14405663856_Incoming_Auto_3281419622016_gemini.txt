@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Tareka / Role: Receptionist at McCall Law Group: 2 turns
+  • Speaker 3 / Brandy / Role: Caller from Progressive Insurance: 2 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Tareka, how may I help you?
+[00:07] [Brandy]: Yes, my name is Brandy, I'm calling with Progressive Insurance. I'm looking to speak with someone regarding a case your office is handling for Gracie Degear and Michael Degear.
+[00:18] [Receptionist]: Gotcha, give me one moment, please.
+[00:20] [Brandy]: Sure.
+
+========================================
+TRANSCRIPT END
+========================================

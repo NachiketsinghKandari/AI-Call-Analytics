@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Clarita / Role: Receptionist at McCorraw Law Group: 6 turns
+  • Speaker 3 / Shanna / Role: Caller from Blue Cross Blue Shield: 5 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: McCorraw Law Group, this is Clarita, how can I help you?
+[00:09] [Shanna]: Hi, my name is Shanna, I'm calling with Blue Cross Blue Shield on a recorded line. I am responding to a request for your client Layton Sender. I am just needing an email address to send over the plan documents as requested.
+[00:25] [Receptionist]: Uh, sure. Just give me one second. Layton Sender.
+[00:31] [ ... Silence (11s) ... ]
+[00:42] [Receptionist]: The email of the case manager is... um, are you ready for it now?
+[00:47] [Shanna]: I am, yes.
+[00:49] [Receptionist]: That's A-G-O-N-Z-A-L-E-Z at mccorrawlawgroup.com. So A Gonzalez at mccorrawlawgroup.com.
+[01:06] [Shanna]: Okay. And I'm sorry, what was your name again?
+[01:08] [Receptionist]: It's Clarita.
+[01:11] [Shanna]: Okay. Thank you so much.
+[01:13] [Receptionist]: Thank you as well. Have a good day. Bye-bye.
+[01:16] [Shanna]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

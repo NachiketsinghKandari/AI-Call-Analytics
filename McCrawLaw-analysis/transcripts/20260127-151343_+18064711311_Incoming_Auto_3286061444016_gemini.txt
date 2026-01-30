@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Law Group: 2 turns
+  • Speaker 3 / Lindsay Forest / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: Law Group.
+[00:06] [Lindsay Forest]: Yeah, this is Lindsay Forest calling. Um, I was needing to speak with Todd.
+[00:11] [Receptionist]: Okay, give me just a moment.
+
+========================================
+TRANSCRIPT END
+========================================

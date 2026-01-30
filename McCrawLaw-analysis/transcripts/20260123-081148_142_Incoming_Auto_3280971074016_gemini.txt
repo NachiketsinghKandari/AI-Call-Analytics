@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 2 / Unknown / Role: Attorney/Colleague: 8 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded.
+[00:03] [Receptionist]: Hey, are you in this morning?
+[00:07] [Speaker 2]: Yeah, well I'm driving in right now. What's going on?
+[00:10] [Receptionist]: Okay. Uh, I had an intake call from Amarillo right at 8:00. They were— him and his son were in a— a rear-end yesterday. The at-fault driver did not have insurance, but he has State Farm and does carry UIM. Uh, back, neck, shoulder pain. The son's 11. He's having the same thing.
+[00:31] [Speaker 2]: Okay. Um, yeah, anything special about it? They just want to talk to an attorney or what's the dealio?
+[00:39] [Receptionist]: Yeah. Yeah, um, he has some questions about, uh, his own— using his own insurance.
+[00:46] [Speaker 2]: Okay. Um, all right. What— what were their names again?
+[00:51] [Receptionist]: Uh, son's name is Ethan, he's 11. His name is, uh, Joel, but he just kept calling himself Mr. Zuniga.
+[00:59] [Speaker 2]: Mr. Zuniga?
+[01:00] [Receptionist]: Yeah.
+[01:01] [Speaker 2]: Okay. Calling himself that?
+[01:03] [Receptionist]: He was just like, saying it, and I was like, okay. But his name's Joel.
+[01:13] [Speaker 2]: All right. Okay, Joel and Ethan. And then when did it happen?
+[01:18] [Receptionist]: Yesterday.
+[01:19] [Speaker 2]: Okay.
+[01:20] [Receptionist]: Yep. I'm going to end it here since you called me back and then I'll put you straight through.
+[01:25] [Speaker 2]: All right. Sounds good.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jessica / Role: Receptionist at McCraw Law Group: 3 turns
+  • Speaker 3 / Jacqueline / Role: Caller from USAA Insurance: 2 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:05] [Receptionist]: McCraw Law Group, this is Jessica, how may I help you?
+[00:08] [Jacqueline]: Hi, this is Jacqueline with USAA Insurance, and before we proceed, I need to inform you this call may be monitored or recorded for quality assurance purposes. I am calling on the client April Trotter.
+[00:22] [Receptionist]: April Trotter. Okay. Give me one moment while I pull it up here. And just to confirm, you said your first name was Jacqueline?
+[00:28] [Jacqueline]: Correct.
+[00:29] [Receptionist]: Okay. One moment.
+
+========================================
+TRANSCRIPT END
+========================================

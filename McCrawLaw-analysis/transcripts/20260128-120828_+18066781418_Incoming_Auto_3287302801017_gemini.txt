@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Ariel / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 3 / Jonathan Matos / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Automated Voice]: This call may be recorded for quality assurance purposes.
+[00:07] [ ... Silence (6s) ... ]
+[00:13] [Receptionist]: Hello, thank you for calling Bey and Associates. This is Ariel, how can I help?
+[00:17] [Jonathan Matos]: Uh, yes ma'am. Hello, this is Jonathan Matos. I was just checking on my case on my first car accident if my attorney has turned anything yet or has any updates.
+[00:29] [Receptionist]: Okay, I can check on that for you. Give me one second, okay?
+[00:33] [Jonathan Matos]: Okay, thank you.
+[00:34] [Receptionist]: You're very welcome.
+[00:35] [ ... Silence (23s) ... ]
+[00:58] [Receptionist]: Okay, so I do see your profile here. I just want to make sure that the phone number we have on file is still valid. Is it 806-678-1418?
+[01:14] [Jonathan Matos]: Yes ma'am. Yes ma'am.
+[01:16] [Receptionist]: Okay, and is that your mobile phone?
+[01:18] [Jonathan Matos]: Yes ma'am. I got you, I got you. Yes ma'am.
+[01:21] [Receptionist]: Perfect. And you said you just wanted to check on a case update if there is any?
+[01:26] [Jonathan Matos]: Yes ma'am. Yes ma'am. On my first one please.
+[01:29] [Receptionist]: Okay, okay. So unfortunately it looks like the team is currently unavailable, but I'll go ahead and forward a message to have them call you back as soon as possible, okay?
+[01:40] [Jonathan Matos]: Okay, thank you.
+[01:42] [Receptionist]: You're very welcome. I hope you have a great rest of your day.
+[01:45] [Jonathan Matos]: Okay, thank you.
+
+========================================
+TRANSCRIPT END
+========================================

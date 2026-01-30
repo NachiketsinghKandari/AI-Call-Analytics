@@ -7,7 +7,7 @@ interface CallDataState {
   files: FileInfo[];
   isLoading: boolean;
   error: string | null;
-  dataSource: 'none' | 'sample' | 'uploaded' | 'vapi';
+  dataSource: 'none' | 'sample' | 'uploaded' | 'vapi' | 'mccraw';
 
   // Computed stats
   stats: DataStats | null;
@@ -25,7 +25,7 @@ interface CallDataState {
   setFiles: (files: FileInfo[]) => void;
   setLoading: (loading: boolean) => void;
   setError: (error: string | null) => void;
-  setDataSource: (source: 'none' | 'sample' | 'uploaded' | 'vapi') => void;
+  setDataSource: (source: 'none' | 'sample' | 'uploaded' | 'vapi' | 'mccraw') => void;
   setFilters: (filters: Partial<FilterState>) => void;
   resetFilters: () => void;
   setSelectedFileId: (id: string | null) => void;
@@ -40,6 +40,7 @@ const defaultFilters: FilterState = {
   primaryIntents: [],
   transferStatus: ['successful', 'failed', 'no_transfer'],
   durationRange: [0, 600],
+  includeUnknownDuration: true,
   multiCase: ['true', 'false', 'unknown'],
   assistantIds: [],
   squadIds: [],

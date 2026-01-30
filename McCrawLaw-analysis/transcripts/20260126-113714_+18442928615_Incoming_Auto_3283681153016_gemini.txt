@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Automated Recording: 2 turns
+  • Speaker 2 / April / Role: Receptionist at McGraw Law Group: 11 turns
+  • Speaker 3 / Marisha / Role: Caller from State Farm: 10 turns
+
+----------------------------------------
+
+[00:00] [Automated Recording]: This call is being recorded.
+[00:03] [Automated Recording]: This call may be recorded for quality assurance purposes.
+[00:08] [Receptionist]: Thank you for calling McGraw Law Group, how can I help you?
+[00:12] [Marisha]: Good morning, this is Marisha with State Farm, I'm calling for Alec Teasdale or the attorney or case manager handling Antonio Defelice.
+[00:22] [Receptionist]: Okay, let me see, give me one second to see what I can do.
+[00:28] [ ... Silence (8s) ... ]
+[00:36] [Receptionist]: Okay. And that's for Antonio Defelice?
+[00:41] [Marisha]: Yes, ma'am.
+[00:42] [Receptionist]: How do you spell that?
+[00:45] [Marisha]: Which name, the beginning name or the last name?
+[00:49] [Receptionist]: The last name, please.
+[00:51] [Marisha]: Last name is D-E-F-E-L-I-C-E.
+[00:58] [Receptionist]: Defelice. Okay. Give me one second, let me see if they're available for your call.
+[01:08] [Marisha]: Yes, ma'am.
+[01:09] [Receptionist]: What's what's your phone number in case we get disconnected?
+[01:12] [Marisha]: It's 972-732-5652.
+[01:22] [Receptionist]: Okay, 972-732-5652. Okay.
+[01:27] [Marisha]: Yes, ma'am.
+[01:28] [Receptionist]: Um, yeah, Alec Teasdale is currently unavailable, but I'll forward a message to have them call you as soon as possible.
+[01:33] [Marisha]: Thank you. Um, just let them know I'll be sending them an email requesting an extension. Um, and can I just get who I'm speaking with today?
+[01:43] [Receptionist]: Of course, my name is April.
+[01:45] [Marisha]: Thank you, April. You have a great day.
+[01:47] [Receptionist]: You too, take care. Bye-bye.
+[01:49] [Marisha]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,49 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 17 turns
+  • Speaker 3 / Alondra Watkins / Role: Caller: 14 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:10] [Receptionist]: Hello, thank you for calling McCraw Law Group. How can I help you?
+[00:14] [Alondra Watkins]: Hi, good afternoon. My name is Alondra Watkins and I applied online for the bilingual legal assistant role and I was wondering if that's something you're still hiring for or if it's still an opening available?
+[00:27] [Receptionist]: Okay, I'm not sure, but I'm happy to find out or get your information in the hands of the people who can find out for you.
+[00:34] [Alondra Watkins]: Awesome, thank you.
+[00:35] [Receptionist]: You're welcome. You said you're Alondra Watkins? Can you spell your first name for me?
+[00:41] [Alondra Watkins]: Yes. A-L-O-N-D-R-A, Alondra, and then Watkins, W-A-T-K-I-N-S.
+[00:50] [Receptionist]: Thank you, Ms. Watkins. One more, please. 
+[00:53] [ ... Silence (6s) ... ]
+[00:59] [Receptionist]: And I will find out how we can get your information in the right hands here. Um, and the phone number 940-2— I'm sorry, 940-923-3915 is the correct number for you?
+[01:11] [Alondra Watkins]: Correct.
+[01:12] [Receptionist]: Perfect. That's a mobile phone?
+[01:14] [Alondra Watkins]: Yes.
+[01:15] [Receptionist]: Thank you. And what's the best email address for you, Ms. Watkins?
+[01:19] [Alondra Watkins]: It's actually my last name and then my first name, so WatkinsAlondra and then my year of birth is 99, so WatkinsAlondra99@gmail.com.
+[01:34] [Receptionist]: Thank you, and I'm just going to confirm spelling. Watkins, W-A-T-K-I-N-S, Alondra, A-L-A-N-D-R-A, 99@gmail.com, correct?
+[01:46] [Alondra Watkins]: Actually, it's actually A-L-O-N-D-R-A, Alondra with the O.
+[01:53] [Receptionist]: Well, I definitely want to make sure I get it right. Alondra, A-L-O-N-D-R-A. Is that correct?
+[02:01] [Alondra Watkins]: I believe so. A-L-O-N-D-R-A.
+[02:04] [Receptionist]: A-L-O-N-D-R-A. Got it this time. Let me—
+[02:07] [Alondra Watkins]: Thank you.
+[02:08] [Receptionist]: Yeah, no problem. Let me correct the email also.
+[02:12] [Alondra Watkins]: Awesome.
+[02:13] [Receptionist]: Thank you for holding for me. 
+[02:15] [ ... Silence (5s) ... ]
+[02:20] [Receptionist]: Put an O in there. So it's Watkins, W-A-T-K-I-N-S, A-L-O-N-D-R-A-99@gmail.
+[02:28] [Alondra Watkins]: That's accurate, correct.
+[02:30] [Receptionist]: Perfect. Okay. All right. And you're calling regarding a job off— opening that you had applied for?
+[02:37] [Alondra Watkins]: Yes, I applied for the bilingual legal assistant.
+[02:43] [Receptionist]: Okay. Thank you very much. I'm going to take this information down. I don't have any information on whether it's still open or what's happening, but I'm going to take your information down and pass it along to the team to let them know that you're following up. And best of luck.
+[03:01] [Alondra Watkins]: All right. Thank you so much. You have a great rest of your day.
+[03:05] [Receptionist]: You too, Ms. Watkins. Good luck.
+[03:07] [Alondra Watkins]: Likewise. Thank you. Bye-bye.
+[03:10] [Receptionist]: You bet. Goodbye.
+
+========================================
+TRANSCRIPT END
+========================================

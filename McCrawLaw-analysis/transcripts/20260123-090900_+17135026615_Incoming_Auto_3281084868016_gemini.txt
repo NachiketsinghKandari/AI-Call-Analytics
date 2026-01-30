@@ -1,0 +1,71 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maria / Role: Receptionist at Bey and Associates: 28 turns
+  • Speaker 2 / Mia / Role: Internal Staff: 3 turns
+  • Speaker 3 / Esmelin Paz / Role: Caller: 22 turns
+  • Speaker 4 / Unknown / Role: Automated System: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: Good morning Mia.
+[00:05] [Mia]: Hey Ms. Maria, I have Esmelin Paz returning your call. He's one of your contacted on Facebook, I mean, I'm sorry, on Salesforce.
+[00:21] [Receptionist]: Yes, okay. Muchas gracias.
+[00:24] [Mia]: Okay, here you are. Thank you. Oh, he's a Spanish speaker by the way.
+[00:28] [Receptionist]: Uh-huh. Okay. Thank you.
+[00:30] [Mia]: Mhm. Okay, here you are.
+[00:33] [Receptionist]: Buenos días.
+[00:36] [Receptionist]: Hello. Buenos días.
+[ ... Silence (7s) ... ]
+[00:43] [Receptionist]: Buenos días.
+[00:45] [Esmelin Paz]: Buenos días.
+[00:46] [Receptionist]: ¿Cómo está?
+[00:47] [Esmelin Paz]: Bien.
+[00:51] [Receptionist]: Okay, deme un momento. Usted se llama Esmelin Paz, ¿verdad?
+[00:56] [Esmelin Paz]: Sí.
+[00:57] [Receptionist]: ¿Cómo está, señor? ¿Tuvo un accidente?
+[01:01] [Esmelin Paz]: Sí.
+[01:02] [Receptionist]: ¿Y tiene abogado o no?
+[01:04] [Esmelin Paz]: No.
+[01:05] [Receptionist]: Okay. So, ¿me puede decir...? Okay. Primero le voy a hacer unas preguntas, ¿está bien?
+[01:11] [Esmelin Paz]: Sí, está bien.
+[01:12] [Receptionist]: Okay. Uh, ¿cuál es la dirección de su casa?
+[01:16] [Esmelin Paz]: Es 7011 Triola Lane. Es una casa.
+[01:21] [Receptionist]: 70... ¿7011?
+[01:24] [Esmelin Paz]: 7011 Triola Lane.
+[01:27] [Receptionist]: South Lake?
+[01:28] [Esmelin Paz]: No, Triola.
+[01:29] [Receptionist]: ¿Me lo deletrea?
+[01:31] [Esmelin Paz]: Es T-R-I-O-L-A.
+[01:36] [Receptionist]: Triola. Okay. ¿Y en cuál ciudad?
+[01:39] [Esmelin Paz]: ¿Mande?
+[01:40] [Receptionist]: ¿Qué ciudad?
+[01:41] [Esmelin Paz]: No entiendo la pregunta.
+[01:42] [Receptionist]: ¿Dónde es? ¿En Dallas o en Houston?
+[01:45] [Esmelin Paz]: Houston.
+[01:46] [Receptionist]: Houston. Okay. ¿Qué es el código postal?
+[01:49] [Esmelin Paz]: 77074.
+[01:52] [Receptionist]: 77074. Okay. ¿Y cuándo le pasó el accidente?
+[01:56] [Esmelin Paz]: El 25 de noviembre.
+[01:58] [Receptionist]: ¿De noviembre?
+[01:59] [Esmelin Paz]: Sí, de 2023.
+[02:02] [Receptionist]: 2023. Okay. ¿Y usted iba manejando? ¿Por dónde iba?
+[02:06] [Esmelin Paz]: Iba en el carril derecho de... pegado a la banqueta y una camioneta del carril izquierdo me impactó al lado del conductor.
+[02:15] [Receptionist]: Okay. Casi no lo puedo entender. Okay. ¿Está trabajando usted?
+[02:21] [Esmelin Paz]: Sí, estoy trabajando.
+[02:22] [Receptionist]: Okay. So, uh, ¿pasó la luz el otro carro o un stop?
+[02:28] [Esmelin Paz]: Sí, estábamos en la luz y cuando avanzamos en la luz me pasó arrollando. No me vio, dice.
+[02:36] [Receptionist]: Okay. ¿Y usted se golpeó en el accidente?
+[02:41] [Esmelin Paz]: No.
+[02:42] [Receptionist]: No. Okay. ¿Y usted qué clase de ayuda anda buscando? ¿Nomás por su carro?
+[02:48] [Esmelin Paz]: Sí, como no me... estoy esperando como dos meses para que me conteste la aseguranza, pero no me contestan.
+[02:56] [Receptionist]: No le contestan. Oh, okay. Okay, lo siento mucho, pero aquí en este... en estos abogados lo que hacemos nosotros, nosotros hacemos como si se lastimó en un accidente o se cayó en una... como en una tienda o algo así. O si hubo una muerte. ¿Okay?
+[03:14] [Esmelin Paz]: Sí, muchas gracias.
+[03:16] [Receptionist]: Okay, muchas gracias. Lo siento mucho. Cuídese mucho. Adiós.
+
+========================================
+TRANSCRIPT END
+========================================

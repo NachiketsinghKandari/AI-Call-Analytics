@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Terica / Role: Receptionist at McCall Law Group: 6 turns
+  • Speaker 2 / Tina / Role: Caller: 5 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Terica, how may I help you?
+[00:07] [Tina]: Tina with Progressive, I was calling for Crystal Flores in regard to client Jack Root, R-O-O-T.
+[00:17] [Receptionist]: Gotcha. And I'm so sorry, the call did cut out. May I get your first name again?
+[00:23] [Tina]: Yes, Tina with Progressive.
+[00:26] [Receptionist]: Gotcha. Give me one moment, please. I'm sorry about that long hold. It looks like Crystal is currently unavailable. May I get a good callback number for you and forward a message?
+[00:42] [Tina]: You know what, I'll just email her.
+[00:45] [Receptionist]: Okay.
+[00:46] [Tina]: Would you like her— I have it. C-Flores at McCall Law Group.
+[00:53] [Receptionist]: Okay. Yes, that's correct.
+[00:56] [Tina]: Thanks so much. Have a nice day.
+[00:58] [Receptionist]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

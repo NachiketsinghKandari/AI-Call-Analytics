@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jessica / Role: Receptionist at McCrae Law Group: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 2 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Receptionist]: McCrae Law Group, this is Jessica, how may I help you?
+[00:08] [Unknown]: Yes, someone was calling me from there, uh, it's for Rose Hernandez. My phone did not ring. I don't know why, but it did not ring.
+[00:18] [Receptionist]: Yeah, no problem, let me go ahead and connect you over.
+[00:21] [Unknown]: Thank you.
+[00:22] [Receptionist]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

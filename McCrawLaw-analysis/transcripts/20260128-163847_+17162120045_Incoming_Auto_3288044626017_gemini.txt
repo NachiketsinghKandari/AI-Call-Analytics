@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Clarita / Role: Receptionist at McGrath Law Group: 2 turns
+  • Speaker 3 / Unknown / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: McGrath Law Group, this is Clarita, how can I help you?
+[00:11] [Unknown]: Hello, can you hear me?
+[00:15] [Receptionist]: McGrath Law Group, this is Clarita, how can I help you?
+
+========================================
+TRANSCRIPT END
+========================================

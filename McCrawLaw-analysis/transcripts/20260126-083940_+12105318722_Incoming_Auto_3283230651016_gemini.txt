@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 3 / Unknown / Role: Receptionist at McCalla Law Group: 8 turns
+  • Speaker 4 / Nick / Role: Caller from USAA Auto Claims: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: McCalla Law Group, how can I help you?
+[00:14] [Nick]: Yes, good morning. My name is Nick. I'm calling with USAA Auto Claims. Before I proceed, I just have to let you know this call may be monitored or recorded for quality assurance purposes. I'm calling in regards to your client Tracy DeRose, date of loss 2/13/25.
+[00:28] [Receptionist]: Okay, could you spell the client's first and last name as you have it, please?
+[00:32] [Nick]: Yep, T-R-A-C-I, last name D-E-R-O-S-E.
+[00:39] [Receptionist]: Gotcha, thank you. And Nick, could you confirm your telephone number for me?
+[00:44] [Nick]: Yep, 210-531-8722, extension 43835.
+[00:52] [Receptionist]: Okay, thank you. And what information were you looking for?
+[00:56] [Nick]: I was looking to get an update on status of treatment and then also see if the surgery has been scheduled or completed at this time.
+[01:05] [Receptionist]: Okay, gotcha.
+[01:07] [ ... Silence (7s) ... ]
+[01:14] [Receptionist]: Okay, let me check with the team and see who is managing this one. Um, I'll let them know that you wanted that status update and I'll ask them to give you a call back as soon as they can, okay?
+[01:28] [Nick]: Okay, perfect. Thank you so much.
+[01:30] [Receptionist]: Absolutely, have a good one.
+[01:32] [Nick]: Thanks, you as well. Bye.
+[01:34] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

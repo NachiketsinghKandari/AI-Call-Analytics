@@ -2,7 +2,7 @@
 
 import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
-import { Upload, Database, Phone, ArrowRight, Loader2 } from 'lucide-react';
+import { Upload, Building2, Scale, Phone, ArrowRight, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { FolderUploader } from '@/components/data/FolderUploader';
@@ -10,11 +10,12 @@ import { useCallDataStore } from '@/store/callDataStore';
 import { HelloCounselLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
 
+type DataSourceLoading = 'none' | 'sample' | 'mccraw' | 'vapi';
+
 export default function HomePage() {
   const router = useRouter();
   const { files, dataSource, setLoading, setFiles, setDataSource, setError } = useCallDataStore();
-  const [isLoadingSample, setIsLoadingSample] = useState(false);
-  const [isLoadingVapi, setIsLoadingVapi] = useState(false);
+  const [loadingSource, setLoadingSource] = useState<DataSourceLoading>('none');
 
   // Redirect to dashboard if data is loaded
   useEffect(() => {
@@ -23,49 +24,35 @@ export default function HomePage() {
     }
   }, [files, dataSource, router]);
 
-  const handleLoadSampleData = async () => {
-    setIsLoadingSample(true);
+  const handleLoadData = async (source: 'sample' | 'mccraw' | 'vapi') => {
+    setLoadingSource(source);
     setLoading(true);
     setError(null);
 
+    const endpoints = {
+      sample: '/api/sample-data',
+      mccraw: '/api/mccraw-data',
+      vapi: '/api/vapi-data',
+    };
+
     try {
-      const response = await fetch('/api/sample-data');
+      const response = await fetch(endpoints[source]);
       if (!response.ok) {
-        throw new Error('Failed to load sample data');
+        throw new Error(`Failed to load ${source} data`);
       }
       const data = await response.json();
       setFiles(data.files);
-      setDataSource('sample');
+      setDataSource(source);
       router.push('/dashboard/flow');
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Failed to load sample data');
-      setIsLoadingSample(false);
+      setError(err instanceof Error ? err.message : `Failed to load ${source} data`);
+      setLoadingSource('none');
     } finally {
       setLoading(false);
     }
   };
 
-  const handleLoadVapiData = async () => {
-    setIsLoadingVapi(true);
-    setLoading(true);
-    setError(null);
-
-    try {
-      const response = await fetch('/api/vapi-data');
-      if (!response.ok) {
-        throw new Error('Failed to load VAPI data');
-      }
-      const data = await response.json();
-      setFiles(data.files);
-      setDataSource('vapi');
-      router.push('/dashboard/flow');
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'Failed to load VAPI data');
-      setIsLoadingVapi(false);
-    } finally {
-      setLoading(false);
-    }
-  };
+  const isLoading = loadingSource !== 'none';
 
   return (
     <main className="min-h-screen bg-background">
@@ -90,95 +77,128 @@ export default function HomePage() {
         </div>
 
         {/* Data Source Options */}
-        <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
-          {/* Upload Folder */}
-          <Card className="relative overflow-hidden p-4">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+          {/* Bey & Associates (Sample Data) */}
+          <Card className="relative overflow-hidden p-4 flex flex-col">
             <CardHeader className="pb-2">
               <div className="flex items-center gap-2">
-                <Upload className="h-5 w-5 text-primary" />
-                <CardTitle>Upload Your Data</CardTitle>
+                <Building2 className="h-5 w-5 text-blue-500" />
+                <CardTitle className="text-base">Bey & Associates</CardTitle>
               </div>
-              <CardDescription>
-                Select a folder containing JSON metadata and TXT transcript files.
-                Supports nested folders.
-              </CardDescription>
-            </CardHeader>
-            <CardContent className="pt-4">
-              <FolderUploader compact />
-            </CardContent>
-          </Card>
-
-          {/* Sample Data */}
-          <Card className="relative overflow-hidden p-4">
-            <CardHeader className="pb-2">
-              <div className="flex items-center gap-2">
-                <Database className="h-5 w-5 text-primary" />
-                <CardTitle>Try Sample Data</CardTitle>
-              </div>
-              <CardDescription>
-                Explore the dashboard with pre-loaded sample call data to see
-                all features in action.
+              <CardDescription className="text-xs">
+                Sample call data from Bey & Associates law firm with full transcripts.
               </CardDescription>
             </CardHeader>
             <CardContent className="pt-4 flex flex-col items-center justify-center flex-1">
               <Button
-                size="lg"
-                onClick={handleLoadSampleData}
-                disabled={isLoadingSample}
-                className="gap-2"
+                size="default"
+                onClick={() => handleLoadData('sample')}
+                disabled={isLoading}
+                className="gap-2 w-full"
               >
-                {isLoadingSample ? (
+                {loadingSource === 'sample' ? (
                   <>
                     <Loader2 className="h-4 w-4 animate-spin" />
                     Loading...
                   </>
                 ) : (
                   <>
-                    Load Sample Data
+                    Load Data
                     <ArrowRight className="h-4 w-4" />
                   </>
                 )}
               </Button>
-              <p className="text-xs text-muted-foreground mt-4 text-center">
-                1,000+ real call records with transcripts
+              <p className="text-xs text-muted-foreground mt-3 text-center">
+                1,000+ call records
+              </p>
+            </CardContent>
+          </Card>
+
+          {/* McCraw Law */}
+          <Card className="relative overflow-hidden p-4 flex flex-col">
+            <CardHeader className="pb-2">
+              <div className="flex items-center gap-2">
+                <Scale className="h-5 w-5 text-amber-500" />
+                <CardTitle className="text-base">McCraw Law</CardTitle>
+              </div>
+              <CardDescription className="text-xs">
+                Call data from McCraw Law with Gemini-generated transcripts and analysis.
+              </CardDescription>
+            </CardHeader>
+            <CardContent className="pt-4 flex flex-col items-center justify-center flex-1">
+              <Button
+                size="default"
+                onClick={() => handleLoadData('mccraw')}
+                disabled={isLoading}
+                className="gap-2 w-full"
+              >
+                {loadingSource === 'mccraw' ? (
+                  <>
+                    <Loader2 className="h-4 w-4 animate-spin" />
+                    Loading...
+                  </>
+                ) : (
+                  <>
+                    Load Data
+                    <ArrowRight className="h-4 w-4" />
+                  </>
+                )}
+              </Button>
+              <p className="text-xs text-muted-foreground mt-3 text-center">
+                486 call records
               </p>
             </CardContent>
           </Card>
 
           {/* VAPI Data */}
-          <Card className="relative overflow-hidden p-4">
+          <Card className="relative overflow-hidden p-4 flex flex-col">
             <CardHeader className="pb-2">
               <div className="flex items-center gap-2">
-                <Phone className="h-5 w-5 text-primary" />
-                <CardTitle>Load VAPI Data</CardTitle>
+                <Phone className="h-5 w-5 text-green-500" />
+                <CardTitle className="text-base">VAPI</CardTitle>
               </div>
-              <CardDescription>
-                Explore 730 analyzed VAPI call records with full transcripts
-                and AI analysis.
+              <CardDescription className="text-xs">
+                VAPI call records with AI-generated analysis and full transcripts.
               </CardDescription>
             </CardHeader>
             <CardContent className="pt-4 flex flex-col items-center justify-center flex-1">
               <Button
-                size="lg"
-                onClick={handleLoadVapiData}
-                disabled={isLoadingVapi}
-                className="gap-2"
+                size="default"
+                onClick={() => handleLoadData('vapi')}
+                disabled={isLoading}
+                className="gap-2 w-full"
               >
-                {isLoadingVapi ? (
+                {loadingSource === 'vapi' ? (
                   <>
                     <Loader2 className="h-4 w-4 animate-spin" />
                     Loading...
                   </>
                 ) : (
                   <>
-                    Load VAPI Data
+                    Load Data
                     <ArrowRight className="h-4 w-4" />
                   </>
                 )}
               </Button>
-              <p className="text-xs text-muted-foreground mt-4 text-center">
-                730 call records with AI analysis
+              <p className="text-xs text-muted-foreground mt-3 text-center">
+                730 call records
               </p>
+            </CardContent>
+          </Card>
+
+          {/* Upload Folder */}
+          <Card className="relative overflow-hidden p-4 flex flex-col">
+            <CardHeader className="pb-2">
+              <div className="flex items-center gap-2">
+                <Upload className="h-5 w-5 text-purple-500" />
+                <CardTitle className="text-base">Upload Data</CardTitle>
+              </div>
+              <CardDescription className="text-xs">
+                Select a folder with JSON metadata and TXT transcripts.
+              </CardDescription>
+            </CardHeader>
+            <CardContent className="pt-4">
+              <FolderUploader compact />
             </CardContent>
           </Card>
         </div>

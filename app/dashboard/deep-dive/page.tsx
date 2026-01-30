@@ -122,7 +122,7 @@ export default function DeepDivePage() {
             </CollapsibleTrigger>
             <CollapsibleContent>
               <CardContent className="pt-0 pb-4">
-                <div className="h-[350px] border rounded-lg">
+                <div className="h-[250px] sm:h-[300px] lg:h-[350px] border rounded-lg">
                   <FileList />
                 </div>
               </CardContent>
@@ -141,7 +141,7 @@ export default function DeepDivePage() {
       )}
 
       {/* File Viewer */}
-      <div className="min-h-[500px]">
+      <div className="min-h-[400px] lg:min-h-[500px]">
         <FileViewer
           file={selectedFile}
           currentIndex={currentIndex >= 0 ? currentIndex : undefined}

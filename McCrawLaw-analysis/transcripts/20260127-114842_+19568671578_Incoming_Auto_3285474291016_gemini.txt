@@ -1,0 +1,42 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • [Receptionist] / Unknown / Role: Receptionist at Crow Law Group: 9 turns
+  • Julia Leek / Julia Leek / Role: Caller: 10 turns
+  • Unknown / Unknown / Role: Third Party (Background Voice): 3 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:12] [Receptionist]: Hi, thank you for calling the Crow Law Group. How can I help you?
+[00:16] [Julia Leek]: Yes, uh, I have a case with you. My name is Julia Leek.
+[00:21] [Receptionist]: All right, so you're an existing client. And how can I help you?
+[00:26] [Julia Leek]: Well, I was checking about my car and then, um, this is the lawyer or the secretary?
+[00:34] [Receptionist]: Yeah, I'm the receptionist here.
+[00:36] [Julia Leek]: Okay. So I talk to the people that fix my car and then they say that the car is gonna be total.
+[00:45] [Receptionist]: All right, and this is about your case?
+[00:47] [Julia Leek]: Yes.
+[00:48] [Receptionist]: And you want to let them know that your car was totaled, they're going to total it?
+[00:52] [Julia Leek]: Yes. No, um, they don't want to fix it. They say that it doesn't have like... what did they say about my car?
+[01:05] [Unknown]: What do you mean?
+[01:06] [Julia Leek]: When you go... when I go to Lucky, what did he say? That my car is total?
+[01:09] [Unknown]: They're probably gonna total it out because it's $30,000 to fix it.
+[01:14] [Julia Leek]: Yeah, that... they don't want to fix it, it's too much money to fix it.
+[01:17] [Unknown]: They don't know if they're gonna fix it yet.
+[01:19] [Receptionist]: Okay.
+[01:20] [ ... Silence (22s) ... ]
+[01:42] [Receptionist]: All right. So thank you for that information.
+[01:48] [Julia Leek]: Yeah. And I want to talk with my lawyer first, you know, like, so that she can know already what's going on.
+[01:57] [Receptionist]: All right, well, I'm going to... she's not available at this time, but I'm going to send that message over so that way someone can, uh, review that and follow up as necessary, okay?
+[02:08] [Julia Leek]: Okay. Thank you so much for calling. Have a wonderful day.
+[02:12] [Receptionist]: Okay, thank you.
+[02:13] [Julia Leek]: Thank you, bye-bye.
+[02:15] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 3 / Shanda / Role: Receptionist at McCall Law Group: 12 turns
+  • Speaker 4 / Leslie / Role: Caller from Knight Family Chiropractic: 11 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded for quality assurance purposes.
+[00:08] [ ... Silence (7s) ... ]
+[00:15] [Receptionist]: Hello, thank you for calling McCall Law Group, how can I help you?
+[00:18] [Leslie]: Is this Cheyenne?
+[00:21] [Receptionist]: My name is Shanda.
+[00:23] [Leslie]: Okay, this is Leslie from Knight Family Chiropractic and, uh, there was supposed to be an LOP forwarded to us from Samantha Lewis for Samantha Lewis, I guess she's the client.
+[00:36] [Receptionist]: Okay. Sure, I can check on that. Do you have her phone number for me?
+[00:41] [Leslie]: Uh, my office phone number, I'm working from home because we're in Texas and we're snowed in. But my—
+[00:46] [Receptionist]: Yeah.
+[00:47] [Leslie]: Isn't that crazy?
+[00:48] [Receptionist]: I know, we're in Texas. How could we be snowed in for a week, for real?
+[00:52] [Leslie]: Yeah. And the roads are just impassable.
+[00:55] [Receptionist]: Oh my god.
+[00:56] [Leslie]: Okay, my cell phone is 903-818-3735 and I'm going to give you my email address. Leslie at doctor knight dot net.
+[01:07] [Receptionist]: Okay.
+[01:08] [Leslie]: Yes, and if you'll forward that to me, I'll get it sent over and, um, let's see that they give her a call and try to schedule her maybe for Monday because I don't think anybody's getting out today either.
+[01:21] [Receptionist]: Give me one second. What was her last name? Samantha...
+[01:24] [Leslie]: It's supposed to be Samantha Lewis.
+[01:27] [Receptionist]: And you stated who was sending it over for you?
+[01:31] [Leslie]: It said on the message that the number I should return call to was Cheyenne.
+[01:36] [Receptionist]: Okay.
+[01:37] [ ... Silence (5s) ... ]
+[01:42] [Receptionist]: Okay. Okay, I'll go ahead and get a message over to the team letting them know that, okay?
+[01:51] [Leslie]: Okay, and I will get it out as soon as you forward it to me.
+[01:55] [Receptionist]: Thank you. All right, have a good day, Leslie. Bye-bye.
+[01:57] [Leslie]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

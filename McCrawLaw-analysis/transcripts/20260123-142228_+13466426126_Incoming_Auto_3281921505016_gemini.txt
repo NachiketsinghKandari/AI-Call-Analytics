@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Terrica / Role: Receptionist at McCall Law Group: 3 turns
+  • Speaker 3 / Unknown / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Terrica speaking, how may I help you?
+[00:06] [Unknown]: I'm sorry, our internet went out and I think we were disconnected.
+[00:09] [Receptionist]: Okay, yes, yes.
+[00:11] [Unknown]: Um, so, it looks like Bryce Hobson contacted me.
+[00:15] [Receptionist]: Okay. Give me one moment please.
+[00:18] [Unknown]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Pam (Tam) / Role: Receptionist at McCraw Law Group: 13 turns
+  • Speaker 3 / Iris / Role: Caller from State Farm: 13 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Automated Voice]: This call may be recorded for quality assurance purposes.
+[00:12] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:15] [Iris]: Hi, this is Iris calling with State Farm PIP department and, um, I was calling in regards to your client Yasan Masanat... I'm sorry, I'm probably totally messing that up.
+[00:28] [Receptionist]: That's okay. If you spell it, uh, I'm sure we'll work it out.
+[00:32] [Iris]: Okay. So the last name is spelled M-A-S-A-N-N-A-T... I'm sorry, P.
+[00:43] [Receptionist]: M-A-S-A-N-N-A-P as in Paul?
+[00:45] [Iris]: T as in Tom.
+[00:47] [Receptionist]: T as in Tom. Okay. And what's the first name, the spelling?
+[00:50] [Iris]: Uh, it's Y-A-Z-A-N.
+[00:54] [Receptionist]: Y-A-Z-A-N. Okay. And what information are you needing, Ms. Iris?
+[00:58] [Iris]: Um, so we have a passenger by the name of Hani, H-A-N-I, same last name, and we were just wanting to see what the gender, was that a female or male?
+[01:10] [Receptionist]: Okay. All right. And a number to reach you back?
+[01:13] [Iris]: It's 844-292-8615, extension 541.
+[01:25] [Receptionist]: All right. 844-292-8615, extension 541. And you just need the passen— the passenger's gender for Hani?
+[01:37] [Iris]: Yes, ma'am.
+[01:39] [Receptionist]: Okay. And a claim number? Because I'm taking messages now.
+[01:42] [Iris]: It's, um, 5394X398D.
+[01:53] [Receptionist]: D as in David?
+[01:55] [Iris]: Yes, ma'am. And what was your name again? I'm sorry.
+[01:58] [Receptionist]: Pam, T as in Tom, A-M.
+[02:01] [Iris]: Okay.
+[02:03] [Receptionist]: Okay. And I know you guys' email is claims at statefarmclaims.com?
+[02:07] [Iris]: Um, no, it's automedicalclaims@statefarm.com.
+[02:12] [Receptionist]: Automedicalclaims at statefarm.com. And I have the claim number. All right, I'll forward this on, we'll find that gender for you and get it back to you as soon as possible.
+[02:24] [Iris]: Okay, well thank you and you have a nice day.
+[02:27] [Receptionist]: Same to you. Goodbye.
+[02:29] [Iris]: Thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

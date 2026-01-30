@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at McGraw Law Group: 10 turns
+  • Speaker 2 / Micah Garcia / Role: Caller: 8 turns
+  • Speaker 3 / Automated Voice / Role: Automated Message: 2 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Automated Voice]: This call may be recorded for quality...
+[00:07] [Receptionist]: Hello, thank you for calling McGraw Law Group, how can I help you?
+[00:11] [Micah Garcia]: Hi, this is Micah with Texas Tech Health Science Center in Amarillo. I'm calling for Alondra, um, she was calling in regards to billing records request for Charles Johnson.
+[00:22] [Receptionist]: Thank you. One sec.
+[00:25] [ ... Silence (32s) ... ]
+[00:57] [Receptionist]: Okay, sir, I don't have Ms. Alondra immediately available, but I'm going to send her a message right away. Um, is the 806-414-9447 the best number for you?
+[01:08] [Micah Garcia]: Yeah, that'll work.
+[01:10] [Receptionist]: Thank you, sir. Is there also a good email I can have for you?
+[01:13] [Micah Garcia]: Um, yeah, it's uh, micah dot garcia at T-T-U-H-S-C dot E-D-U.
+[01:23] [Receptionist]: I'm sorry, it's micah dot garcia and then what was after the at symbol?
+[01:28] [Micah Garcia]: T-T-U-H-S-C...
+[01:30] [Receptionist]: Uh-huh.
+[01:31] [Micah Garcia]: ...dot E-D-U.
+[01:33] [Receptionist]: Thank you. Micah, M-I-C-A-H, correct?
+[01:37] [Micah Garcia]: Yeah.
+[01:38] [Receptionist]: dot garcia at T-T-U-H-S-C dot E-D-U.
+[01:46] [Micah Garcia]: Yep.
+[01:47] [Receptionist]: Thank you, sir. Okay, I'll send the message right away.
+[01:49] [Micah Garcia]: Okay. All right, thank you.
+[01:51] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

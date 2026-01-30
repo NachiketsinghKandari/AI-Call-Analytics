@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Recording: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McGraw Law Group: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded for quality purposes.
+[00:05] [Receptionist]: Hello, thank you for calling McGraw Law Group, how can I help you? Hello, thank you for calling McGraw Law Group, how can I help you?
+
+========================================
+TRANSCRIPT END
+========================================

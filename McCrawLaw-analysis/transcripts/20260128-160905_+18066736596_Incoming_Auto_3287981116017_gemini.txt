@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCrory Law Group: 8 turns
+  • Speaker 3 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:08] [Receptionist]: Hello, thank you for calling McCrory Law Group, how can I help you?
+[00:12] [Speaker 3]: Hi, yes, ma'am, uh, Todd please.
+[00:15] [Receptionist]: Okay, I can definitely see if Todd is available. Okay, are you an existing client of his?
+[00:21] [Speaker 3]: Yes, ma'am.
+[00:23] [Receptionist]: Okay, and let's see here...
+[00:26] [ ... Silence (15s) ... ]
+[00:41] [Receptionist]: And then can I have a brief reason for the call to relate to Todd?
+[00:45] [Speaker 3]: Yeah, uh, he's working on a case with, uh, my daughter Elena McKay.
+[00:53] [Receptionist]: Okay, so regarding the case McKay, M-C-K-A-Y.
+[00:58] [Speaker 3]: Yes, ma'am.
+[00:59] [Receptionist]: Okay, let me see if he's available, let's see here.
+[01:04] [ ... Silence (12s) ... ]
+[01:16] [Receptionist]: It looks like Todd Henderson is currently unavailable, but I'll make sure to forward a message to him so he can call you as soon as possible.
+[01:24] [Speaker 3]: Okay. All right, thank you.
+[01:27] [Receptionist]: Thank you, have a good day, bye-bye.
+[01:29] [Speaker 3]: Yes, ma'am, you too.
+
+========================================
+TRANSCRIPT END
+========================================

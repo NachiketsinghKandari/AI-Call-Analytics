@@ -58,10 +58,11 @@ export function matchesTransferSuccess(file: FileInfo, status: TransferStatus[])
 
 /**
  * Check if file matches duration range filter
+ * Files with null duration pass if includeUnknown is true (default)
  */
-export function matchesDuration(file: FileInfo, range: [number, number]): boolean {
+export function matchesDuration(file: FileInfo, range: [number, number], includeUnknown: boolean = true): boolean {
   if (file.call_duration === null) {
-    return false;
+    return includeUnknown;
   }
   return file.call_duration >= range[0] && file.call_duration <= range[1];
 }
@@ -118,7 +119,7 @@ export function applyAllFilters(files: FileInfo[], filters: FilterState): FileIn
       matchesCallerType(file, filters.callerTypes) &&
       matchesPrimaryIntent(file, filters.primaryIntents) &&
       matchesTransferSuccess(file, filters.transferStatus) &&
-      matchesDuration(file, filters.durationRange) &&
+      matchesDuration(file, filters.durationRange, filters.includeUnknownDuration) &&
       matchesMultiCase(file, filters.multiCase) &&
       matchesAssistantId(file, filters.assistantIds) &&
       matchesSquadId(file, filters.squadIds)

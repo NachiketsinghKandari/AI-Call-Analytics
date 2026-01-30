@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Cochran Law Group: 12 turns
+  • Speaker 2 / Lamar Jones / Role: Caller: 10 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded.
+[00:04] [Receptionist]: Cochran Law Group.
+[00:06] [Lamar Jones]: Uh yes, I was trying to reach Allison Taff?
+[00:09] [Receptionist]: Okay. Do you currently have a case open with us?
+[00:12] [Lamar Jones]: Uh, I'm defense counsel on the... hold on one second, I apologize.
+[00:19] [Receptionist]: No worries.
+[00:20] [Lamar Jones]: On the Barnett Walker Jr. case.
+[00:23] [Receptionist]: Let's see. Barnett... Walker.
+[ ... Silence (7s) ... ]
+[00:33] [Receptionist]: And what was your name?
+[00:35] [Lamar Jones]: Lamar Jones.
+[00:37] [Receptionist]: Lamar Jones. Okay. Give me just a moment.
+[00:41] [Lamar Jones]: Thanks.
+[00:44] [Receptionist]: Hey Lamar.
+[00:46] [Lamar Jones]: Yes.
+[00:47] [Receptionist]: Hey, I do apologize. Uh, Ms. Allison, I'm— she's not at her desk at the moment. I did try to send her over a text as well. Um, could I just take a message from you and send that over to her?
+[01:00] [Lamar Jones]: Sure.
+[01:01] [Receptionist]: Okay, let's see here. Is this number that you're calling from a good callback number for you?
+[01:07] [Lamar Jones]: Uh, yes.
+[01:09] [Receptionist]: Okay. Awesome. And then does she know what you're calling about or is there a brief message you would like me to leave with her?
+[01:16] [Lamar Jones]: Uh, just let her know I represent Angie Incorporated and wanted to discuss settlement.
+[01:22] [Receptionist]: Okay. I will go ahead and let her know.
+[01:26] [Lamar Jones]: All right, thank you.
+[01:28] [Receptionist]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

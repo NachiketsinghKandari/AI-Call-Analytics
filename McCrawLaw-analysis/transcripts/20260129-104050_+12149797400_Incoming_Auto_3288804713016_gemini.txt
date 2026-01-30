@@ -1,0 +1,45 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Kenneth / Role: Receptionist at McCall Law Group: 13 turns
+  • Speaker 3 / James Payne / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: McCall Law Group, this is Kenneth, how can I help you?
+[00:08] [James Payne]: Uh, yes, Landon Knotts, please?
+[00:11] [Receptionist]: Uh, sure, I can go ahead and see if he's available. Can I have your name, please?
+[00:16] [James Payne]: Yes, it's James Payne, and I'm opposing counsel on his Cole Carroll case.
+[00:27] [Receptionist]: Cole Carroll, one second.
+[00:29] [ ... Silence (13s) ... ]
+[00:42] [Receptionist]: What's the last name of that client?
+[00:44] [James Payne]: Carroll, C-A-R-R-O-L-L.
+[00:49] [Receptionist]: Okay, thank you so much. Just hold on the line for me, please. Thank you.
+[00:53] [James Payne]: You bet.
+[00:56] [Receptionist]: Thank you so much for holding there, um, James. So it does seem that he's not available at this moment, but I can take a message and have him give you a call back.
+[01:05] [James Payne]: Well, uh, I need some immediate assistance. How about, uh, let me look at who else is on the petition. Uh, the paralegal would be okay? I can try her if you—
+[01:06] [ ... Silence (17s) ... ]
+[01:23] [James Payne]: Uh, yeah, Allison Tapp, how about her?
+[01:26] [Receptionist]: Um, so Allison is one of our attorneys and she's not handling this case. Um, actually, let me just, uh, check with the paralegal, one second.
+[01:40] [Receptionist]: Thank you so much for holding. So it does seem that they're not available at this moment. Um, I also tried Amy, the other attorney on this case, um, but unfortunately they are not available.
+[01:51] [James Payne]: Well, how about— how about Charlie? Is Charlie in?
+[01:54] [ ... Silence (6s) ... ]
+[02:00] [James Payne]: Are you there?
+[02:01] [Receptionist]: Uh, yes, I'm here. I'm just checking, I'm sorry.
+[02:03] [ ... Silence (6s) ... ]
+[02:09] [Receptionist]: So Charlie is not available, I'm so sorry.
+[02:13] [James Payne]: Oh, y'all have busy attorneys. Nobody's sitting in their office, huh?
+[02:19] [Receptionist]: Yeah, um, I believe they're— they're having a meeting currently.
+[02:25] [James Payne]: Oh, so they're in a meeting all together, no wonder. Uh, how long will that meeting last, do you think?
+[02:33] [Receptionist]: I'm not sure.
+[02:35] [James Payne]: Okay. All right, well thank you very much.
+[02:41] [Receptionist]: Um, I will go ahead and let them know that you called.
+[02:44] [James Payne]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

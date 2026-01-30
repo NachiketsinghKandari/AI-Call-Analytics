@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Recording: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCall Law Group: 6 turns
+  • Speaker 3 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: Hello, thank you for calling McCall Law Group, how can I help you?
+[00:15] [Speaker 3]: Hi, is the office still closed due to the weather?
+[00:21] [Receptionist]: Uh, let me see if I have that information for you. Um, because sometimes it's open to us but not anyone else. One moment.
+[00:30] [ ... Silence (8s) ... ]
+[00:38] [Receptionist]: So as far as I know we're open from nine to five, um, today.
+[00:46] [Speaker 3]: Okay. Okay, perfect. Thank you.
+[00:47] [Receptionist]: Is there something else I can help you with?
+[00:49] [Speaker 3]: Are you in the office? Yep.
+[00:51] [Receptionist]: No, you're fine.
+[00:52] [Speaker 3]: Okay. Sorry.
+[00:53] [Receptionist]: No, you're fine.
+[00:54] [Speaker 3]: Okay. Bye.
+[00:55] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

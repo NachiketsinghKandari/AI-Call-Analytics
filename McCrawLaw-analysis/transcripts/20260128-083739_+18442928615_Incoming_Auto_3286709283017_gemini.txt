@@ -1,0 +1,21 @@
+========================================
+    TRANSCRIPT START
+    ========================================
+
+    SPEAKERS IDENTIFIED:
+      • Speaker 1 / Lionel / Role: Receptionist at Bey and Associates: 2 turns
+      • Speaker 2 / Unknown / Role: Caller from State Farm: 2 turns
+      • Speaker 3 / Unknown / Role: Automated Voice: 2 turns
+
+    ----------------------------------------
+
+    [00:00] [Automated Voice]: This call is being recorded.
+    [00:03] [Automated Voice]: This call may be recorded for quality assurance purposes.
+    [00:08] [Receptionist]: Bey and Associates, this is Lionel, how can I help you?
+    [00:13] [Unknown]: Hi, yes, I'm trying to reach Ammonia for Kayla Rudisill, I'm calling from State Farm.
+    [00:20] [Receptionist]: Okay, let me see if Ammonia's available. Can you help me with your name and a number in case we get disconnected?
+    [00:28] [Unknown]: Um, I can try back at a later date, thanks.
+
+    ========================================
+    TRANSCRIPT END
+    ========================================

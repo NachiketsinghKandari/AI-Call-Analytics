@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maria / Role: Receptionist at McCrow Law Group: 13 turns
+  • Speaker 2 / Joseph Cornell / Role: Caller: 12 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Receptionist]: Good morning, McCrow Law Group, this is Maria. May I help you?
+[00:08] [Joseph Cornell]: Yes, I'm needing to speak to April or is it Amber in accounting?
+[00:13] [Receptionist]: May I have your name, please?
+[00:15] [Joseph Cornell]: Joseph Cornell.
+[00:17] [Receptionist]: Give me one moment, sir. And may I tell her what this is regarding?
+[00:21] [Joseph Cornell]: Uh, just trying to see if my check has come in.
+[00:24] [Receptionist]: Okay, most certainly. I'll put you on hold, okay?
+[00:27] [Joseph Cornell]: Okay.
+[00:31] [Receptionist]: Joseph, I'm sorry, Mr. Landon, your attorney, is not in, he's not available. I can have him return your call. What is your number?
+[00:39] [Joseph Cornell]: You can have what?
+[00:42] [Receptionist]: Landon, your attorney.
+[00:44] [Joseph Cornell]: I asked for— I asked for somebody in accounting, ma'am.
+[00:48] [Receptionist]: I asked— yes, sir. I spoke with April and uh she said for me to get your attorney, so I tried him. Can I have him return your call?
+[00:59] [Joseph Cornell]: That's fine.
+[01:01] [Receptionist]: And I'm sure he's the one that can answer your question, okay, Joseph?
+[01:04] [Joseph Cornell]: Okay, I was re— April told me to refer to her, so that's why I was calling her, so...
+[01:10] [Receptionist]: Oh, I understand that. I'm sorry about that.
+[01:13] [Joseph Cornell]: Okay.
+[01:14] [Receptionist]: May I have your phone number?
+[01:16] [Joseph Cornell]: 972-865-5551.
+[01:23] [Receptionist]: 972-865-5551.
+[01:28] [Joseph Cornell]: Correct.
+[01:29] [Receptionist]: And if they don't— if he don't call you, call back, okay? What can I say? I'm sorry about that.
+[01:34] [Joseph Cornell]: All right. Thank you.
+[01:35] [Receptionist]: Okay, thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

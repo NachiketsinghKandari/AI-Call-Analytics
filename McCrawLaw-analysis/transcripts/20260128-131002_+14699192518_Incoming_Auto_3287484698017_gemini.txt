@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCloud Group: 10 turns
+  • Speaker 3 / Emily / Role: Caller from Blue Zone Medical: 10 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:08] [ ... Silence (5s) ... ]
+[00:13] [Receptionist]: Thank you for calling the McCloud Group, how can I help you?
+[00:16] [Emily]: Hi, my name is Emily, I work at Blue Zone Medical, and I was just wondering if I could talk to the case manager for one of our patients.
+[00:24] [Receptionist]: I can check if they're available, yeah. This is Emily, right, from Blue Zone Medical?
+[00:29] [Emily]: Yes.
+[00:30] [Receptionist]: Okay. I think the email is records at bluezonemedical.us, right?
+[00:36] [Emily]: Yes, that's correct.
+[00:37] [Receptionist]: Okay. Can you help me with the name of the patient while I get a response if someone is available to take the call?
+[00:42] [Emily]: Yes, his name is James Welch.
+[00:47] [Receptionist]: J-A-M-E-S Welch, W-E-L-C-H?
+[00:51] [Emily]: Yes, correct.
+[00:53] [Receptionist]: Okay. Was there something in specific that you needed?
+[00:58] [Emily]: Um, so we haven't seen this patient since November 6th. Um, and last I spoke with him, he— I believe he was in a second accident, but it may or may not have been like workers' comp related. So I was just calling to see if we were able to close him out or just kind of what was going on.
+[01:19] [Receptionist]: Okay. So, they told me that there's no one available right now, but I did add your information. Now for the— for a callback number, I do see one that ends in 2515, is that the right one? 469-919-2515?
+[01:40] [Emily]: Uh, it's 2518.
+[01:43] [Receptionist]: Okay. Yeah, I do see that one here. Okay, let me just change it, that would be the best number. Does it have an extension or is it a direct number?
+[01:51] [Emily]: It's a direct number.
+[01:53] [Receptionist]: Okay. Okay, you are all set. I'll submit it right now to my team.
+[02:04] [Emily]: Okay, perfect. Thank you so much.
+[02:07] [Receptionist]: Thanks. Hope you have a good day.
+[02:09] [Emily]: You too. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

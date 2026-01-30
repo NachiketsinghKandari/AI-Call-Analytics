@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCrae Law Group: 11 turns
+  • Speaker 3 / Jimmy Bolton / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:10] [Receptionist]: Hello, McCrae Law Group, how can I help you?
+[00:13] [Jimmy Bolton]: I just received a call from this number. My name is Jimmy Bolton.
+[00:19] [Receptionist]: Jimmy Bolton?
+[00:21] [Jimmy Bolton]: Yes.
+[00:23] [Receptionist]: All right, give me just one second.
+
+[ ... Silence (7s) ... ]
+
+[00:32] [Receptionist]: Hi, Mr. Bolton, what's a good phone number for you in case we get disconnected?
+[00:39] [Jimmy Bolton]: Uh, 325-202-8915.
+[00:44] [Receptionist]: Thank you so much. I have that first name as Jimmy, J-I-M-M-Y, last name Bolton, B-O-L-T-O-N. And then that phone number was 325-202-8915. And you said you, uh, you had a missed call. Did they leave you a message by any chance?
+[00:58] [Jimmy Bolton]: No. Probably might have had something to do with my property.
+[01:05] [Receptionist]: Okay. All right.
+[01:07] [Jimmy Bolton]: Who is this?
+[01:09] [Receptionist]: This is McCrae Law Group.
+[01:12] [Jimmy Bolton]: Oh, I meant, this is not a— I thought it might have been my attorney.
+[01:19] [Receptionist]: Um, it could have been your attorney calling. I'm the receptionist. Uh, yeah. Okay. Give me one moment here. But they didn't leave a message. All right, not a problem. So Mr. Bolton, what I'll do is I will take a message and let them know that you were returning that call, um, but that no one left a message. And you're an existing client, correct?
+[01:42] [Jimmy Bolton]: Yes. Arlette Medina. Arlette Medina or Medina. Medina, I think. Yes. Arlette.
+[01:53] [Receptionist]: Okay. Okay. All right.
+[01:56] [Jimmy Bolton]: I think she's my case manager.
+[01:58] [Receptionist]: Okay, thank you so much. Um, I don't have anyone available to take the call at the moment, but I will take a message and let them know you returned that call.
+[02:07] [Jimmy Bolton]: Okay, thank you so much.
+[02:09] [Receptionist]: Thank you, you have a great day.
+[02:11] [Jimmy Bolton]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

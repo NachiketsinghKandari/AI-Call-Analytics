@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Unknown: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: Yeah, this department is taking care of patients right now. The community knows that. They know that we're here to provide that care. They seek that care. Everybody's been needing healthcare...
+
+========================================
+TRANSCRIPT END
+========================================

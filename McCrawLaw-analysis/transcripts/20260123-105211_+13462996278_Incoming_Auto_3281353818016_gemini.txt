@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Terica / Role: Receptionist at McCall Law Group: 9 turns
+  • Speaker 2 / Cliff / Role: Caller: 9 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Terica, how may I help you?
+[00:08] [Cliff]: Hi, may I speak to Gloria Campos?
+[00:12] [Receptionist]: What— may I get your name?
+[00:15] [Cliff]: Cliff.
+[00:17] [Receptionist]: And may I ask what this is in regards to?
+[00:21] [Cliff]: Yeah, I'm with uh AI ASAP. I have some qualified personal injury leads that I wanted to discuss with her.
+[00:33] [Receptionist]: Okay. Give me one moment, please. I'm so sorry about that long hold. It does look like Gloria is currently unavailable. May I forward a message for you and get a good callback number?
+[00:47] [Cliff]: Yeah, uh— yes, as I mentioned, I have some personal— I mean, I have some personal injury leads, qualified personal injury leads. My number is uh... 857...
+[01:04] [Receptionist]: Gotcha.
+[01:05] [Cliff]: 693-2734.
+[01:10] [Receptionist]: I'm sorry, may you repeat those last numbers? Last four numbers?
+[01:14] [Cliff]: Uh, last four is 2734.
+[01:18] [Receptionist]: Gotcha. And may you tell me your company name one more time?
+[01:23] [Cliff]: It's A-I-ASAP, A-S-A-P.
+[01:30] [Receptionist]: Gotcha. Perfect. And I will make sure that this gets forwarded over to her.
+[01:37] [Cliff]: Thank you.
+[01:38] [Receptionist]: Of course. Have a nice day.
+[01:41] [Cliff]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

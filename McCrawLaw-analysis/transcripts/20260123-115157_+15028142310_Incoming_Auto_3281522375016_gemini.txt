@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jessica / Role: Receptionist at McCall Law Group: 5 turns
+  • Speaker 3 / Vic / Role: Caller from Rollins Group: 5 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Jessica, how may I help you?
+[00:07] [Vic]: Hi Jessica, my name is Vic and I'm calling from the Rollins Group on behalf of Cigna Health Plans. I just wanted to confirm case representation and some information about a patient's auto injury claim.
+[00:18] [Receptionist]: Okay, unfortunately we are unable to verify representation over the phone. Would you be able to place a fax to our fax number?
+[00:25] [Vic]: Uh, what would be the fax number please?
+[00:27] [Receptionist]: It's going to be 972-332-2361.
+[00:34] [Vic]: Let me repeat and confirm. 972-332-2361.
+[00:41] [Receptionist]: Yes.
+[00:42] [Vic]: Thank you so much, appreciate it.
+[00:43] [Receptionist]: Have a nice day.
+[00:44] [Vic]: You too, thank you, bye.
+
+========================================
+TRANSCRIPT END
+========================================

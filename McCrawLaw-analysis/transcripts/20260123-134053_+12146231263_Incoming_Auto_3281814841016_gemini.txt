@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Sarah / Role: Receptionist at McCall Law Group: 2 turns
+  • Speaker 2 / Unknown / Role: System: 1 turn
+  • Speaker 3 / Unknown / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [System]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Sarah speaking, how may I help you?
+[00:09] [Unknown]: Can you hear me?
+[00:11] [Receptionist]: Hello?
+
+========================================
+TRANSCRIPT END
+========================================

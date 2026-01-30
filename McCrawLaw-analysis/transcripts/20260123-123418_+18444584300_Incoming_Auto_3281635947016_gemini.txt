@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Gladita / Role: Receptionist at Bey and Associates: 10 turns
+  • Speaker 3 / Lisa / Role: Caller from State Farm Insurance: 8 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Receptionist]: Bey and Associates, this is Gladita, how can I help you?
+[00:08] [Lisa]: Hi, this is Lisa from State Farm Insurance. I was calling to touch base on a client, Ashley Rogers, for I think a dog bite incident.
+[00:18] [Receptionist]: One second. Ashley... let me just pull up that case.
+[00:25] [Lisa]: Sure.
+[00:27] [ ... Silence (31s) ... ]
+[00:58] [Receptionist]: I am so sorry that it's taking more than usual. Um, our system is currently down, I believe, so...
+[01:08] [Lisa]: That's okay.
+[01:09] [Receptionist]: ...and I'm not quite sure who's handling that case, so...
+[01:14] [Lisa]: Okay.
+[01:15] [Receptionist]: Would you mind just holding just a second for me?
+[01:18] [Lisa]: Yeah, that's fine. Thanks.
+[01:20] [Receptionist]: Thank you.
+[01:21] [ ... Silence (9s) ... ]
+[01:30] [Receptionist]: Thank you so much for holding, Lisa. So, um, our system is currently down, so I can't seem to see who the case manager or the attorney is assigned to that case. I don't know if you would mind calling back later?
+[01:45] [Lisa]: Okay, that's fine. I appreciate it.
+[01:48] [Receptionist]: Or if you leave me a good callback number, I can go ahead and request that callback once our system is back.
+[01:56] [Lisa]: Sure. It's, um, 844-458-4300.
+[02:04] [Receptionist]: 4300. Okay. Thank you so much. I will make sure for them to give you a callback, okay? Thank you.
+[02:11] [Lisa]: Okay, thank you. Bye-bye.
+[02:13] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

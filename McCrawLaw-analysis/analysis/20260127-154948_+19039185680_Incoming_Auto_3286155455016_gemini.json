@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist completed an initial intake regarding a premises liability claim and scheduled a follow-up call for the next morning to review documentation the caller needs to locate.",
+    "call_duration_seconds": 962.86,
+    "call_duration_formatted": "16:02"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist placed the caller on hold to consult an attorney internally and then returned to the line to conclude the call."
+  }
+}

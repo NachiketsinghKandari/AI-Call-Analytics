@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCall Law Group: 10 turns
+  • Speaker 3 / Karen McCarty / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:10] [Receptionist]: Hello, thank you for calling McCall Law Group, how can I help you?
+[00:14] [Karen McCarty]: Hi there, my name is Karen McCarty and I was just uh working on something Rachel had sent me for some information. Um, I was going to tell her I'm going to send it to her, uh pay stubs, and then I also need to find out if we have any time set for my deposition and uh my visit with her before the deposition.
+[00:39] [Receptionist]: Okay. Um and...
+[00:41] [Karen McCarty]: I know it's a lot at one time, isn't it? Sorry.
+[00:43] [Receptionist]: You're fine. Um so, um you're working on what Rachel needed from you. Is that correct?
+[00:49] [Karen McCarty]: Yes. In fact, I called my lady at work that does that, in fact, they have switched to another uh pay company that does all their payroll, so she was still able to get back into the old payroll and she fixed those dates, but it looks different. It might be a little harder to read. Um, but it's got the correct dates and I went ahead and just got the whole year because I wasn't sure um what exactly dates she needed. Um, but after the accident, I was not working. So those those ones will show zero pay.
+[01:26] [Receptionist]: Okay. Let me notate that.
+[01:31] [Karen McCarty]: And then I just need to know what times I need to meet with her for our visit before the deposition and the deposition date and time. And if she wants to do a Zoom with the one before the deposition, that's fine. However she wants to do it.
+[01:55] [Receptionist]: Okay. Let me just note that.
+[ ... Silence (8s) ... ]
+[02:06] [Receptionist]: I'm just notating, so thank you for bearing with me.
+[02:09] [Karen McCarty]: No, no, that's okay. I know I bombarded you with a lot of stuff there. Sorry.
+[02:15] [Receptionist]: No, you're good, you're good. Um let's see.
+[ ... Silence (20s) ... ]
+[02:38] [Receptionist]: All right, it does seem that Rachel is currently unavailable, but I'm going to forward this message and then she'll call you back as soon as possible um with answers to your inquiries, okay?
+[02:49] [Karen McCarty]: Okay. All right. Sounds great. Thank you.
+[02:52] [Receptionist]: All right, thank you Karen, have a great day.
+[02:54] [Karen McCarty]: You too. Bye-bye.
+[02:56] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

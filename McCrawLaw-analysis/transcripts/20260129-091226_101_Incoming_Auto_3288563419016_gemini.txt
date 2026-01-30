@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maria / Role: Receptionist at Bey and Associates: 14 turns
+  • Speaker 2 / Unknown / Role: Colleague: 13 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Receptionist]: Good morning.
+[00:05] [Unknown]: Hey Maria, good morning. Um, I am— do you have a moment to speak about Rock Knowles?
+[00:13] [Receptionist]: Rock Knowles? Yes.
+[00:16] [Unknown]: He is in contacted, I'm just trying to understand, um, did you speak with Dawn or some— or Rock yesterday?
+[00:24] [Receptionist]: Let me see, Rock Knowles. Oh, this is the one that his mom called. Okay, yes.
+[00:36] [Unknown]: Okay, Dawn. His mom Dawn called.
+[00:38] [Receptionist]: Okay.
+[00:39] [Unknown]: Just a reminder, if you have already talked to someone, then maybe put it in under review. Because contacted is if we have— we have not spoken to them yet.
+[00:50] [Receptionist]: Okay, okay. Yes. Okay, and you know what? I need to work on that now because Mr. Bryce already answered me. Okay.
+[00:59] [Unknown]: What's— what's going on with this one?
+[01:01] [Receptionist]: Uh, we're going to reject because there was no injuries.
+[01:06] [Unknown]: I see. Okay, I'm going to send you a message. I'm going to forward you a message. Um, it looks like she called last night.
+[01:14] [Receptionist]: She did?
+[01:15] [Unknown]: Dawn did. Last night at like six. So I'm just going to forward you that message that she left with the after-hours service if you want to add it to the chatter.
+[01:24] [Receptionist]: Oh, okay, because she called around 5:44. I'm wondering, okay.
+[01:28] [Unknown]: Yeah, it looks like she called back right after.
+[01:31] [Receptionist]: Oh, okay.
+[01:32] [Unknown]: So I don't know if he rejected yesterday or if he— or if you may have to call to reject today or— or get with Bryce and see what he wants to do, if he wants to be the one to reject.
+[01:43] [Receptionist]: He uh did speak with her and he told her not a case we can take. And she was very appreciative and I already put this in here. She would let everyone know to call over here if they have an accident.
+[01:58] [Unknown]: Okay. Okay, so he has already rejected?
+[02:04] [Receptionist]: Yes, I'm rejecting right now.
+[02:06] [Unknown]: All right. Just make sure to note that clearly. It looks like she called back after, I guess, so I'll forward this over to him.
+[02:14] [Receptionist]: Okay, sounds good. And you can send it to me and I'll put it in here too.
+[02:18] [Unknown]: Okay, I sent it to you as well.
+[02:20] [Receptionist]: Appreciate that. Thank you so much.
+[02:22] [Unknown]: Thank you. Bye.
+[02:23] [Receptionist]: Thank you. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

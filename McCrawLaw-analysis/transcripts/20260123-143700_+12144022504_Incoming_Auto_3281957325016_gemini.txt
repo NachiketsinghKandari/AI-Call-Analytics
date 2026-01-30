@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maria / Role: Receptionist at McCraw Law Group: 8 turns
+  • Speaker 2 / Jeff McKee / Role: Caller: 7 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:05] [Receptionist]: Good afternoon, McCraw Law Group, this is Maria. May I help you?
+[00:09] [Jeff McKee]: Hey, Maria. My name is Jeff McKee. How are you doing?
+[00:12] [Receptionist]: I am doing well, sir. How are you today?
+[00:15] [Jeff McKee]: Oh, I'm doing pretty good. Hey, I've got an open case with you guys and I need to come in and sign my release. I just wanted to double-check, make sure y'all were going to be there for the next like 45 minutes.
+[00:32] [Receptionist]: Okay, give me one moment, sir.
+[00:35] [Jeff McKee]: Sure.
+[00:38] [Receptionist]: How are we spelling McKee? M-A-G—
+[00:41] [Jeff McKee]: Uh, M-C-K-E-E.
+[00:44] [Receptionist]: M-C-K-E-E. I was way off. Sorry about that.
+[00:47] [Jeff McKee]: That's okay. You were— you were one letter off.
+[00:51] [Receptionist]: Thank you for that. Okay, let me put you on hold for a moment, okay?
+[ ... Silence (6s) ... ]
+[00:57] [Jeff McKee]: Okay, thank you.
+[00:58] [Receptionist]: You're welcome. Okay, Mr. McKee, I'm going to transfer you to Rachel.
+[01:03] [Jeff McKee]: Okay, thank you.
+[01:05] [Receptionist]: Thank you for holding.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,121 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Salen / Role: Receptionist at McCraw Law Group: 21 turns
+  • Speaker 2 / Danika Wilson / Role: Caller: 31 turns
+  • Speaker 3 / Drake Pew / Role: Attorney at McCraw Law Group: 11 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This call is being recorded.
+[00:04] [Receptionist]: This call may be recorded for quality assurance purposes.
+[00:09] [ ... Silence (3s) ... ]
+[00:12] [Receptionist]: Hello, thank you for calling McCraw Law Group. This is Salen, how can I help you?
+[00:16] [Danika Wilson]: Um, yes, I was speaking with someone and the phone disconnected.
+[00:20] [Receptionist]: Oh, okay, ma'am. No worries, I'd be happy to continue assisting you. Um, can you just confirm your name for me, please?
+[00:27] [Danika Wilson]: It's Danika Wilson.
+[00:30] [Receptionist]: Thank you very much, Ms. Wilson. Um, and are you a client of the office or was that your first time calling?
+[00:36] [Danika Wilson]: Uh, first time, just consultation.
+[00:39] [Receptionist]: Okay. All right, so let me see, we have your phone, your email on file and your physical address. Let me save that here. And how did you hear about our office?
+[00:48] [Danika Wilson]: Uh, Google.
+[00:51] [Receptionist]: Okay. And can you tell me a little bit about your situation or how we can help?
+[00:56] [Danika Wilson]: Uh, well, my daughter was, uh, she was injured in a car accident, uh, November 8th, I want to say. Uh, while she, she was a minor as well, but, um, she was like seen in the ER the next day and they documented her wrist and, uh, like her back injuries. They did like some in— imaging. Uh, like she's 18 now though, but, um, she still have like headaches and neck pain and, um, her wrist as well and some sleep issues, but, um, like everything's been documented through her primary care physician. And, um, like the lady, um, in that, uh, she admitted fault and, um, but we weren't able no bodily injury, um, claim or anything wasn't open, so initially, so we just trying to see what I should do next. They're wanting to, um, guess like settle or just try to, you know, look for guidance pretty much, just first round.
+[01:58] [Receptionist]: Okay. Okay, no problem. Yes, I'd be happy to add that here. And let me just confirm, since you're calling on behalf of your daughter, can you provide me with her first and last name, please?
+[02:07] [Danika Wilson]: It's Ray-Anna McDonald.
+[02:10] [Receptionist]: Anna McDonald?
+[02:12] [Danika Wilson]: Ray-Anna, R-A-Y-A-N-N-A, McDonald.
+[02:18] [Receptionist]: Okay. All righty, thank you very much. And what are the injuries, um, that she sustained?
+[02:27] [Danika Wilson]: As I said, she had, uh, headaches, had a neck, back, wrist pain, and they did like the, um, like a whole like little CT scan and everything on her. So that's what she's been dealing with so far, just like her wrist is, I don't know what it is, but it's like a knot or something that's on her wrist, uh, like she actually has like a little brace that she wears.
+[02:52] [Receptionist]: Okay. And and this happened, you said, on November the 8th of last year, 2025?
+[02:58] [Danika Wilson]: Correct. Yeah, there were, uh, for my daughter, it was four of her friends in the car, um, she was in the car, the passenger side, and when the car hit. So, um, I think like her mom's been having to deal with everything, but I didn't know that I had to call, so I was like, oh, okay, so this whole time I've been thinking, um, she was having to speak, you know, to a lawyer or her claim, but it was just for her car, so I was like, okay, well, I have to call in.
+[03:34] [Receptionist]: Okay. Understood. And and what city, um, did this happen in?
+[03:39] [Danika Wilson]: Denton, Texas.
+[03:41] [Receptionist]: In Denton, okay.
+[03:44] [Receptionist]: All righty, give me one brief moment then, ma'am. I'm going to place you on a quick hold and I'm going to check to see if I have someone available that can speak to you, okay?
+[03:52] [Danika Wilson]: Okay.
+[03:53] [Receptionist]: All right, thank you, one sec.
+[03:55] [ ... Silence (131s) ... ]
+[06:07] [Receptionist]: This is Salen with McCraw Law Group.
+[06:10] [Danika Wilson]: Yes, hello. Can you hear me?
+[06:12] [Receptionist]: I can, yes, ma'am.
+[06:14] [Danika Wilson]: Okay, I was calling because I was just trying to get like some information, like a consultation or just guidance on my next step. Um, but it was just for my daughter. Um, I don't know if she told you everything or do I need to explain it again?
+[06:29] [Receptionist]: Yeah, no, I'm going to go ahead and get the initial information, um, from you. What is your first and last name?
+[06:37] [Danika Wilson]: It's Danika Wilson. It's D as in David, E-A-N-I-K-A.
+[06:47] [Receptionist]: Awesome. And is this number, um, see here, ends in 691, what's a good callback number for you?
+[06:58] [Danika Wilson]: Uh, 214-356-0691.
+[07:04] [Receptionist]: Awesome. And you said calling on behalf of your daughter?
+[07:11] [Danika Wilson]: Yes.
+[07:13] [Receptionist]: Okay. And what is her first name?
+[07:17] [Danika Wilson]: It's Ray-Anna McDonald.
+[07:22] [Receptionist]: Okay. And will you spell her first name for me, that way I just make sure I have it correct?
+[07:32] [Danika Wilson]: It's R-A-Y-A-N-N-A, McDonald.
+[07:38] [Receptionist]: Perfect. And is she a minor or an adult?
+[07:42] [Danika Wilson]: Um, well, the wreck she was a minor, but now she's, she just turned 18, so...
+[07:50] [Receptionist]: Okay. Let's see here. And what's a good number to contact her at?
+[07:56] [Danika Wilson]: Uh, the, they can call this one or...
+[08:02] [Receptionist]: Are you going to be the main point of contact?
+[08:05] [Danika Wilson]: Yes.
+[08:07] [Receptionist]: Okay, we will leave you under here then. And what's a good email address for you then?
+[08:12] [Danika Wilson]: Uh, 1986danika@gmail.com.
+[08:27] [Receptionist]: Okay. And what date did this accident happen on?
+[08:33] [Danika Wilson]: Um, it was in November 8th. It was like a while back. But, um, well, there was four of them in the car, um, so this whole time it's just miscommunication pretty much. Um, I thought that the car that they were in that, um, like she had everything, like I thought she had her own lawyer and we would just like go through like just under her pretty much, but I didn't know we had to call separately, so I was like, okay. So they had told her that, um, that they were wanting to settle, um, because she's already admitted fault, but I just didn't know if I needed to speak with someone beforehand or just, you know, if that makes sense.
+[09:21] [Receptionist]: Yeah, we can definitely see. Um, and so you said there was four passengers in the vehicle with her?
+[09:28] [Danika Wilson]: Yes. Well, four in total, yes.
+[09:32] [Receptionist]: Okay. And it was a friend driving the vehicle or a friend's vehicle?
+[09:38] [Danika Wilson]: Correct. Yeah, the friend's mother's vehicle.
+[09:43] [Receptionist]: Okay. And where did they have this accident at?
+[09:46] [Danika Wilson]: Here in Denton. And she has it on video as well. Um, a car behind them was, um, driving and his dashcam caught it.
+[10:01] [Receptionist]: Okay, let's see here. And do you know how the accident happened? What, um, kind of what went on?
+[10:06] [Danika Wilson]: It was, they were stopping, it was like they were crossing an intersection and the car ran the light.
+[10:12] [Receptionist]: Okay. Let's see here. And you said that, um, they were at fault, correct?
+[10:28] [Danika Wilson]: Correct. Yeah, I have the, uh, report and their insurance, like all that information.
+[10:37] [Receptionist]: Okay. Um, let's see here. Do you have that police report number at the moment?
+[10:43] [Danika Wilson]: Uh, at the moment, but I'm sure I can get it. Um, let me see, this might be it. Well, I have the actual insurance company, um, information that she gave, um, about that one.
+[11:06] [Receptionist]: Okay. Uh, what, what, um, what insurance carrier did the at-fault driver have?
+[11:16] [Danika Wilson]: Let's see, I'm on a lady over here and contact number, oh, here, um...
+[11:30] [Danika Wilson]: Hold on, I'm sorry, she has over here contact number, well, they just gave her a contact number and her name and...
+[11:46] [Danika Wilson]: Well, she just gave me the claim of loss number, so I don't know if that links to that, but...
+[11:52] [Receptionist]: Okay. No, but you know that both of the vehicles had, um, insurance?
+[11:57] [Danika Wilson]: Correct.
+[11:59] [Receptionist]: Okay. And, um, as far as your daughter having any injuries, um, can you kind of let me know how she's feeling there, what injuries she faced?
+[12:10] [Danika Wilson]: Yeah, she had, um, her wrist, it was, uh, like she had smashed up against the door when the impact, and they had, um, she had her wrist, her, like headaches she was having, and she had, um, I'd have to read the paper, I'm trying to remember. Um, it was like her wrist, her back injuries, and, um, yeah, those three things.
+[12:47] [Receptionist]: Okay. And is she still getting any treatment or has she been getting treatment at all?
+[12:54] [Danika Wilson]: Yeah, she's been having to go. Um, we just make a schedule because sometimes like her hand hurts, like she can't move it sometimes, it'll like stiffen up. She's been having really bad headaches, like she don't sleep, and sometimes she's having to miss school because of that, but, um, her primary doctor, she's prescribed her like over-the-counter medicine and also like, um, like some prescriptions as well.
+[13:29] [Receptionist]: Okay. Let's see here. And the initial time of the, uh, accident, um, did she go with the ambulance to the ER or did you guys go to the ER on your own?
+[13:42] [Danika Wilson]: No, we went on our own. Um, they didn't send the, uh, emergency, yeah.
+[13:48] [Receptionist]: Okay.
+[13:59] [Receptionist]: And I know you mentioned the other people having an attorney. Um, do they have a different attorney or do you know if they signed with us?
+[14:07] [Danika Wilson]: No, um, I don't think she had one, like she didn't, I don't think she found an attorney. I thought she was going to, but she was just like, she just filed a claim for her loss, um, for her car, if that makes sense.
+[14:21] [Receptionist]: Okay. Let's see here. Okay, so what I'm going to do for you is I'm going to go ahead and, um, put you on a brief hold. I'm going to see if we have an attorney available that's, uh, going to be able to go ahead and speak with you, okay?
+[14:39] [Danika Wilson]: Okay.
+[14:41] [Receptionist]: Yeah, give me just a moment.
+[14:44] [Danika Wilson]: Okay.
+[14:45] [ ... Silence (237s) ... ]
+[18:43] [Drake Pew]: Hi, Ms. Wilson. This is Drake Pew, one of the attorneys at the McCraw Law Group. How are you doing today?
+[18:49] [Danika Wilson]: Hey, I'm doing good.
+[18:51] [Drake Pew]: Good, good. Trying to stay warm?
+[18:53] [Danika Wilson]: Yeah, pretty much, trying. Looking at this snow out here, I'm like, ooh, kind of crazy.
+[19:04] [Drake Pew]: Right, right. Absolutely. Well, I wish that we were meeting under some better circumstances, and Salen was telling me a little bit about what has happened to your daughter, and I'm, I'm sorry that she's going through all this. You know, I'm glad that she's working on getting better, but I just wanted to get on the phone with you, be a resource for you, answer any questions that you may have about potentially pursuing a personal injury case with your daughter. So feel free to ask me any questions that you have kind of right off the bat.
+[19:36] [Danika Wilson]: Okay. Um, I'm just, I'm just trying to find, you know, people who handled injuries, people minors, or well, once she turned 18 though, but she was a minor, I don't know if that matters. But, um, yeah, like the, like ongoing symptoms she had, um, like later on, it was like after the wreck, but like she's been going to the doctor as well. It was just like her headaches and her wrist, and like she's having like stomach issues as well, but they just give her like, um, like over-the-counter, over-the-counter medicines and, um, uh-huh. She has like everything like documented and stuff, but it's just, I'm not really sure what to do because like they want to settle and I'm like, why you want to settle so fast? But at the same time, I'm like, I always hear call a lawyer because you may be missing out, so I'm just like, just trying to cross all my T's, dot my I's, if that makes sense.
+[20:43] [Drake Pew]: Right, right. So the most important thing right now, and what you've already been doing, is just making sure that we get her healthy again. That's number one most important thing. Just got to make sure that she's going to make a 100% recovery. And part of what we do is, I know she's been having treatment already, but if she needs additional treatment, if she needs additional imaging, if she needs a second opinion, we're happy to get her set up with some additional providers as well that are going to see her quickly, going to get her the best care that we can get her to make sure that she is going to get back to 100%. The second thing that we do is make sure that we step in and start handling those conversations with the insurance company to make sure that they're not going to take advantage of her, not make sure that y'all aren't going to fall into a bad deal because at the same time, you know, these insurance companies, they're going to try and get you to settle quickly without knowing the full extent of her injuries, the full extent of the medical bills that are associated with those injuries. You know, they're going to try and get you to take a deal that's going to almost leave you kind of holding the bill. Yep, right, right. So part of our job's to handle all those communications, make sure that I'm getting her the biggest value that I can, but I can't know what the value of her case is until she's fully done her treatment, until I see all the medical bills that she's accumulated, and then just, you know, hearing a little bit about her, about the overall pain and suffering she's had to endure going through an incident like this. Once we do get to that, that's when we do start negotiating, and then once I get them to a number that I believe is going to be fair for her, I'll give y'all a call, we'll talk about the breakdown, we'll talk about what the attorney's fees would be, the case expenses, and paying back medical bills and how much would ultimately end up going in her pocket. And I'll let y'all know whether or not I think it's a fair deal. If they're not giving her a fair deal, that's the time that we gear up and potentially file a lawsuit. But two important things to keep in mind is, one, we would never file a lawsuit without y'all's permission, and two, we would never settle her case without her permission, okay? And then I want to make sure I'm being transparent with you about how we get paid. So we work on a contingency fee basis, meaning we only get paid if we recover. If for some reason there's no recovery, she does not owe us a dime. There's no upfront fees, no retainer fees, anything like that. Now, if we are able to get a recovery in what's called the pre-suit phase, meaning that we did not have to file a lawsuit, then the fee structure is one-third of the gross recovery plus any case expenses. And you'll find that that number's pretty customary throughout the personal injury field. But let's say in the event, you know, they're not giving her a fair deal and we do end up having to file a lawsuit, then the fee structure would increase to 40% simply because then we're in the court system. We'd be filing motions, we're taking depositions, we're going the whole nine yards, hence the increase there. And I know I'm throwing a lot of information at you. What questions can I answer?
+[23:52] [Danika Wilson]: I mean, well, you answered them actually along the way because like the fees, you already answered that. Um, communication, like all that, just, um, yeah, you pretty much answered most of my questions just within that little statement itself, so...
+[24:12] [Drake Pew]: That's what I try to do. I try to get it all out there.
+[24:15] [Danika Wilson]: Yeah, you hit it on the head.
+[24:18] [Drake Pew]: The most important, the most important thing, like I said, is making sure that we're getting her healthy again, and you know, if she needs to get set up with those additional appointments, that's what we're going to step in and assist with. So as of right now, you know, I'd love to get it moving and get her signed up, but obviously there's a lot, you have to talk to her and make sure it's something that she wants to do. Um, so in terms of next steps, I have two options. One, if you'd like to come meet us in person at some point, we can get her signed up in person, or because of, you know, the weather right now, I can send everything via DocuSign and get everything signed up electronically as well, but whatever y'all's preference is.
+[24:59] [Danika Wilson]: Yeah, I mean, DocuSign's fine for now, especially since the weather, because, yeah, I don't know about driving anywhere, we're kind of stuck, so we can't move.
+[25:11] [Drake Pew]: Right, right. Yep. And then so those forms that I'm going to send, they'll be in her name, and then she needs to be the one to sign them since she is 18 now, she is technically an adult, okay? But if you, if she wants to give us permission to speak with you about the case, you can be, you know, kind of the, the contact, if you will, for her case.
+[25:33] [Danika Wilson]: Okay. All right, I can do that.
+[25:36] [Drake Pew]: Perfect. Any other questions or just general concerns about moving forward?
+[25:42] [Danika Wilson]: Um, I'm, I'm loving everything. Just you touched all the bases, very informative.
+[25:51] [Drake Pew]: Absolutely. Well, here's the thing. I'll tell you right now, you're going to have questions as we go through the process. When you have questions or concerns, just give us a call. We'll pick up the phone, we'll talk about it. Does that sound fair?
+[26:03] [Danika Wilson]: Sounds good to me.
+[26:05] [Drake Pew]: Perfect. Okay, well, I'll go ahead and send everything over. Let me know if you have questions about the documents I send over then, okay? Just a phone call away.
+[26:13] [Danika Wilson]: All right, thank you.
+[26:15] [Drake Pew]: Of course. Bye now.
+[26:17] [Danika Wilson]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

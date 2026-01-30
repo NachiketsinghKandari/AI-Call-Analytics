@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Betty / Role: Receptionist at Bey and Associates: 12 turns
+  • Speaker 2 / Dan / Role: Caller from Kia America: 9 turns
+  • Speaker 3 / Unknown / Role: Automated System: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded.
+[00:03] [Receptionist]: Bey and Associates, this is Betty, how can I help you?
+[00:08] [Dan]: Hi, my name is Dan, I'm calling from Kia America. Just trying to get more information about, um, a case that we're working with on your client. Would I be able to provide you the client's information?
+[00:19] [Receptionist]: Uh, yes, can I have their name please?
+[00:22] [Dan]: Sure, it should be Anna M. Slaton. Please let me know if you want me to spell it out.
+[00:31] [Receptionist]: Uh, would you mind spelling that last name?
+[00:33] [Dan]: Sure, it's going to be S-L-A-Y-T-O-N, Slaton.
+[00:41] [Receptionist]: Thank you so much. Uh, would you mind just holding on the line so I could connect you over to the case manager?
+[00:49] [Dan]: Great, thank you.
+[00:51] [Receptionist]: Thank you.
+[00:52] [Receptionist]: Thank you so much for holding there. So it does seem that Kyra is not available at this moment. Um, but I can take a message and have her give you a call back.
+[ ... Silence (15s) ... ]
+[01:07] [Receptionist]: Hello?
+[01:12] [Dan]: Hi, speaking. Sorry about that. Can you hear me?
+[01:15] [Receptionist]: Oh, I can hear you now, yes. Um, I was saying—
+[01:19] [Dan]: Okay, perfect. I I did hear you. What was the case manager's name again?
+[01:23] [Receptionist]: Her name is Kyra.
+[01:26] [Dan]: Kyra. Okay. Yeah, no problem. If you can let Kyra know, uh, we've been communicating by email. We're just waiting for an inspection permission form signed from her client.
+[01:37] [Receptionist]: Okay.
+[01:38] [Dan]: And if you could just let her know to either email me or call me back.
+[01:42] [Receptionist]: Okay, I will let her know. Thank you so much.
+[01:45] [Dan]: Okay. Mhm. I appreciate your help. You take care.
+[01:48] [Receptionist]: You as well. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Sarah / Role: Receptionist at McCalla Raymer Leibert Pierce: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: McCalla Raymer Leibert Pierce, this is Sarah speaking, how may I help you? Hello? Can you hear me? Hello?
+
+========================================
+TRANSCRIPT END
+========================================

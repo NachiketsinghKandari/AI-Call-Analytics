@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Tarika / Role: Receptionist at The Law Group: 5 turns
+  • Speaker 3 / Roy / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: The Law Group, this is Tarika, how may I help you?
+[00:06] [Roy]: Hey, Roy with First Acceptance Insurance. Uh, excuse me, I'm following up on a case you guys are handling for a client looks like by the name of James Addington for an auto accident June 4th of '25.
+[00:19] [Receptionist]: Okay, give me one moment, please.
+[00:21] [Roy]: Mhm.
+[00:23] [Receptionist]: Hi, for that long hold. It seems that our systems are currently down, but could I forward a message for you and get a good callback number?
+[00:31] [Roy]: Yeah, that's totally fine. Uh, my direct dial 615-846-3152. And just reference claim number 0422502264.
+[00:51] [Receptionist]: Got it. Okay, great. And I'll make sure that this message gets forwarded.
+[00:57] [Roy]: Sounds good. Thank you. Have a good weekend.
+[00:59] [Receptionist]: Thank you, you too.
+[01:01] [Roy]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

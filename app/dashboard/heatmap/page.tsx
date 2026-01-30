@@ -2,19 +2,22 @@
 
 import { useMemo, useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
+import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group';
 import { PlotlyHeatmap } from '@/components/charts/PlotlyHeatmap';
 import { Heatmap3D } from '@/components/charts/Heatmap3D';
 import { useCallDataStore } from '@/store/callDataStore';
 import { applyAllFilters } from '@/lib/filters';
-import { HEATMAP_PRESETS, getDimensionName } from '@/lib/heatmap';
+import { HEATMAP_PRESETS } from '@/lib/heatmap';
+import { useResponsiveChartHeight } from '@/lib/hooks';
 import { Grid3x3, Box } from 'lucide-react';
 
 export default function HeatmapPage() {
   const { files, filters } = useCallDataStore();
   const [selectedPreset, setSelectedPreset] = useState(HEATMAP_PRESETS[0].id);
   const [viewMode, setViewMode] = useState<'2d' | '3d'>('2d');
+  const chartHeight = useResponsiveChartHeight(350, 450, 550);
+  const chart3DHeight = useResponsiveChartHeight(400, 500, 650);
 
   const filteredFiles = useMemo(() => {
     return applyAllFilters(files, filters);
@@ -96,9 +99,9 @@ export default function HeatmapPage() {
             </CardHeader>
             <CardContent className="py-0 pb-4">
               <Tabs value={selectedPreset} onValueChange={setSelectedPreset}>
-                <TabsList className="grid w-full grid-cols-3">
+                <TabsList className="flex w-full overflow-x-auto lg:grid lg:grid-cols-3 gap-1">
                   {HEATMAP_PRESETS.map((preset) => (
-                    <TabsTrigger key={preset.id} value={preset.id}>
+                    <TabsTrigger key={preset.id} value={preset.id} className="flex-shrink-0 min-w-fit">
                       {preset.label}
                     </TabsTrigger>
                   ))}
@@ -110,13 +113,15 @@ export default function HeatmapPage() {
           {/* 2D Heatmap */}
           <Card>
             <CardContent className="p-4">
-              <PlotlyHeatmap
-                files={filteredFiles}
-                xDimension={currentPreset.xDimension}
-                yDimension={currentPreset.yDimension}
-                title={currentPreset.label}
-                height={550}
-              />
+              <div className="min-h-[350px] sm:min-h-[450px] lg:min-h-[550px]">
+                <PlotlyHeatmap
+                  files={filteredFiles}
+                  xDimension={currentPreset.xDimension}
+                  yDimension={currentPreset.yDimension}
+                  title={currentPreset.label}
+                  height={chartHeight}
+                />
+              </div>
             </CardContent>
           </Card>
         </>
@@ -138,7 +143,9 @@ export default function HeatmapPage() {
           {/* 3D Heatmap */}
           <Card>
             <CardContent className="p-4">
-              <Heatmap3D files={filteredFiles} height={650} />
+              <div className="min-h-[400px] sm:min-h-[500px] lg:min-h-[650px]">
+                <Heatmap3D files={filteredFiles} height={chart3DHeight} />
+              </div>
             </CardContent>
           </Card>
         </>

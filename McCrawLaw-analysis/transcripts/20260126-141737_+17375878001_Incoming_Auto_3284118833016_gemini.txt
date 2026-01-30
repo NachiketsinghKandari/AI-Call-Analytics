@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Unknown: 1 turn
+  • Speaker 2 / Unknown / Role: Unknown: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: Thank you for your call. Unfortunately, our system has flagged your phone number as spam.
+
+========================================
+TRANSCRIPT END
+========================================

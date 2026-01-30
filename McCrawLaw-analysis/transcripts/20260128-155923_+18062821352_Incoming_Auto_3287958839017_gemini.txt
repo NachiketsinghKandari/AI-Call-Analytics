@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jessica / Role: Receptionist at McCall Law Group: 3 turns
+  • Speaker 3 / Amy Johnson / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Jessica, may I help you?
+[00:08] [Amy Johnson]: Hi Jessica, my name is Amy Johnson. Um, I currently have a case with you guys and I was needing to talk to someone about that, please.
+[00:18] [Receptionist]: Yeah, definitely. Give me one moment, let me go ahead and connect you over.
+[00:22] [Amy Johnson]: Thank you.
+[00:23] [Receptionist]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

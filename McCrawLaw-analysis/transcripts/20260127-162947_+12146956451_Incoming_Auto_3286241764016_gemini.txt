@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maria / Role: Receptionist at McGraw Law Group: 10 turns
+  • Speaker 2 / Kenneth Tomas / Role: Caller: 10 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: Good afternoon, McGraw Law Group, this is Maria, may I help you?
+[00:08] [Kenneth Tomas]: Uh, yes, ma'am. I have an appointment tomorrow with Landon. Uh, I just wanted to make sure your office was open still because of the weather, and secondly, you are located at the 5900, uh, Lake Forest, correct?
+[00:25] [Receptionist]: Yes. May I have your last name?
+[00:28] [Kenneth Tomas]: Tomas. T-O-M-A-S.
+[00:31] [Receptionist]: That's your last name?
+[00:33] [Kenneth Tomas]: Uh-huh.
+[00:34] [ ... Silence (5s) ... ]
+[00:39] [Receptionist]: Okay. What's your first name?
+[00:41] [Kenneth Tomas]: Kenneth.
+[00:42] [Receptionist]: Okay. And you're meeting with Mr. Landon tomorrow. What time is your appointment?
+[00:46] [Kenneth Tomas]: 10:00.
+[00:48] [Receptionist]: Okay. May I put you on hold so we can verify this, okay?
+[00:51] [Kenneth Tomas]: Yeah, I do need to make sure you verify it because I was supposed to meet with the other attorneys on Thursday and I'm not going to meet with them unless I can talk to him first.
+[01:01] [Receptionist]: Correct. Put you on hold for a moment.
+[01:03] [Kenneth Tomas]: Okay.
+[01:04] [Receptionist]: And you said Landon, is that correct?
+[01:06] [Kenneth Tomas]: Uh, yeah.
+[01:07] [Receptionist]: Put you on hold for a moment. Thank you for holding, Mr. Kenneth. I've got Emma Coons. I'm going to transfer you to her, okay?
+[01:17] [Kenneth Tomas]: Yeah, yeah, I know Emma, or know of her.
+[01:20] [Receptionist]: Good. Hold on, okay?
+[01:22] [Kenneth Tomas]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

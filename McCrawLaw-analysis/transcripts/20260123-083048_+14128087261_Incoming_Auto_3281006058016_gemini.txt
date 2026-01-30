@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Tareka / Role: Receptionist at The Cochran Group: 5 turns
+  • Speaker 3 / Alphonso Kasu Funken / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: The Cochran Group, this is Tareka, how may I help you today?
+[00:07] [Alphonso Kasu Funken]: Um, hi, this is Alphonso... um, I'm calling about some issues with some shopping.
+[00:15] [Receptionist]: I'm so sorry, I— the call is cutting in and out. May you repeat yourself?
+[00:22] [Alphonso Kasu Funken]: I said may I— may I speak to Ariana?
+[00:26] [Receptionist]: Okay. May I get your first and last name?
+[00:30] [Alphonso Kasu Funken]: Uh, Alphonso... K-A-S-U... one gap... F-U-N-K-E-N.
+[00:42] [Receptionist]: Okay, give me one moment, please.
+[00:43] [Receptionist]: I apologize for that long hold. It looks like Ariana is currently unavailable. May I take a message for you and forward it to her?
+[00:52] [Alphonso Kasu Funken]: What about Drake? Is Drake around?
+[00:56] [Receptionist]: Okay, give me one moment, please.
+
+========================================
+TRANSCRIPT END
+========================================

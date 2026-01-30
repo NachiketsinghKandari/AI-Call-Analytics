@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at McGraw Law Group: 11 turns
+  • Speaker 2 / Stephen Jones Young / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This call is being recorded.
+[00:03] [ ... Silence (7s) ... ]
+[00:10] [Receptionist]: Thank you for calling McGraw Law Group, how can I help you?
+[00:14] [Stephen Jones Young]: Hi, I missed a call from this number?
+[00:18] [Receptionist]: Okay. This is Stephen Jones Young?
+[00:21] [ ... Silence (6s) ... ]
+[00:27] [Receptionist]: Did you get to hear who it was that called you?
+[00:29] [Stephen Jones Young]: Ah, I didn't, I didn't. I was on the call with another line at the time.
+[00:34] [Receptionist]: Oh, okay. Let me see if I—
+[00:38] [Stephen Jones Young]: I believe my wife— did you say this is which law group?
+[00:44] [Receptionist]: This is McGraw Law.
+[00:47] [Stephen Jones Young]: I believe my wife has a case with y'all.
+[00:51] [Receptionist]: Oh, do you know who her attorney is?
+[00:53] [Stephen Jones Young]: Not off the top of my head, unfortunately. It would deal with personal injury— it's like a small personal injury case from an accident. Her name is Stephanie Jones Young.
+[01:07] [Receptionist]: Okay. Um, I'm not sure, I don't have any notes here, so I'll have to send your your call over to the main group and see if somebody claims the call for you. Is there a best time to reach you or actually, I'll have them call you back.
+[01:24] [Stephen Jones Young]: Anytime is fine. You just— you just reached me at a bad time when you guys called.
+[01:28] [Receptionist]: Okay. Um, they probably won't get back to you today, actually. Are you available tomorrow?
+[01:34] [Stephen Jones Young]: Yeah.
+[01:35] [Receptionist]: Okay. All right, I'll let them know. Thank you so much.
+[01:38] [Stephen Jones Young]: All right. Bye now.
+[01:39] [Receptionist]: Take care. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

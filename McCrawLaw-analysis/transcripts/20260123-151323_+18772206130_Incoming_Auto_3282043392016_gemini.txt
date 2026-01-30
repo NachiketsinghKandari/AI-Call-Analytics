@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tarka / Role: Receptionist at McCall Law Group: 14 turns
+  • Speaker 2 / Pedro / Role: Caller: 13 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: McCall Law Group, this is Tarka speaking, how may I help?
+[00:08] [Pedro]: Hey, this is Pedro with Sea Harbor Insurance.
+[00:12] [Receptionist]: Gotcha. Do you have a client that you're calling for?
+[00:18] [Pedro]: Uh, yes, this is regarding five of them. Uh, no, sorry, four of them. Sheila Beard, Sophia, Sheila, and Dominique Altman.
+[00:33] [Receptionist]: Gotcha. And I apologize, the call did cut out. May I get your name again? And the insurance?
+[00:41] [Pedro]: Yeah, it's Pedro.
+[00:42] [Receptionist]: Gotcha.
+[00:43] [Pedro]: And the insurance... yes, Sea Harbor Insurance.
+[00:49] [Receptionist]: Gotcha. Thank you so much. Sorry about that. Give me one moment, please.
+[00:54] [Pedro]: Of course.
+[00:55] [ ... Silence (6s) ... ]
+[01:01] [Receptionist]: I apologize for that long hold. It looks like the attorney over those claims or cases is currently unavailable. May I take a message to forward for you and, um, get a good callback number?
+[01:12] [Pedro]: Yeah, absolutely. Um, so, man, not to make it too convoluted, but the message is that we're extending an offer for our global limits to the five people involved in this accident. Y'all represent four of them.
+[01:32] [Receptionist]: Gotcha.
+[01:34] [Pedro]: Yeah. Dean Boyd Law represents the final one.
+[01:42] [Receptionist]: Gotcha.
+[01:46] [Pedro]: Yeah. And that'd be global limits of 60,000.
+[01:53] [Receptionist]: Okay, got it. And then, um, do you have a good callback number?
+[02:01] [Pedro]: Yes, 972...
+[02:04] [Receptionist]: Got it, 972...
+[02:06] [Pedro]: 357...
+[02:08] [Receptionist]: 357...
+[02:10] [Pedro]: 9261.
+[02:12] [Receptionist]: Great, I got it.
+[02:14] [Pedro]: All right, you have a great rest of your day.
+[02:16] [Receptionist]: Have an amazing day. I'll make sure that this message gets forwarded over.
+[02:20] [Pedro]: Thank you. Bye-bye.
+[02:22] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

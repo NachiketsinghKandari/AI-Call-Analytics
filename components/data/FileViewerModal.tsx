@@ -125,9 +125,12 @@ export function FileViewerModal({
       <DialogContent className="w-[95vw] max-w-[95vw] sm:max-w-[90vw] lg:w-[calc(100vw-18rem-3rem)] lg:max-w-none lg:left-[calc(18rem+(100vw-18rem)/2)] lg:top-[calc(3.5rem+(100vh-3.5rem)/2)] h-[80vh] lg:h-[calc(100vh-3.5rem-3rem)] flex flex-col">
         {/* Header */}
         <DialogHeader className="flex-shrink-0">
-          <DialogTitle className="flex items-center gap-2 flex-wrap pr-8">
-            <span className="truncate max-w-[400px]">{file.name}</span>
+          <DialogTitle className="flex items-center gap-2 pr-8">
+            <span className="truncate max-w-[150px] sm:max-w-[300px] lg:max-w-[400px]">{file.name}</span>
             <CopyButton text={file.name} />
+          </DialogTitle>
+          {/* Badges row - responsive layout */}
+          <div className="flex flex-wrap gap-1.5 mt-1">
             <Badge variant="outline" className="text-xs">
               {file.resolution_type.replace(/_/g, ' ')}
             </Badge>
@@ -140,8 +143,8 @@ export function FileViewerModal({
             {file.resolution_achieved === false && (
               <Badge className="bg-red-500/20 text-red-500 text-xs">Unresolved</Badge>
             )}
-          </DialogTitle>
-          <DialogDescription className="flex flex-wrap gap-4 text-xs">
+          </div>
+          <DialogDescription className="flex flex-wrap gap-x-4 gap-y-1 text-xs mt-2">
             <span>
               <span className="text-muted-foreground">Duration:</span>{' '}
               <span className="font-medium">
@@ -193,30 +196,33 @@ export function FileViewerModal({
         </div>
 
         {/* Footer with navigation */}
-        <DialogFooter className="flex-shrink-0 sm:justify-between border-t pt-4">
-          <Button
-            variant="outline"
-            size="sm"
-            onClick={goToPrevious}
-            disabled={!hasPrevious}
-            className="gap-1"
-          >
-            <ChevronLeft className="h-4 w-4" />
-            Previous
-          </Button>
-          <span className="text-sm text-muted-foreground">
-            {currentIndex + 1} of {totalFiles} files
-          </span>
-          <Button
-            variant="outline"
-            size="sm"
-            onClick={goToNext}
-            disabled={!hasNext}
-            className="gap-1"
-          >
-            Next
-            <ChevronRight className="h-4 w-4" />
-          </Button>
+        <DialogFooter className="flex-shrink-0 border-t pt-4">
+          <div className="flex items-center justify-between w-full gap-2">
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={goToPrevious}
+              disabled={!hasPrevious}
+              className="gap-1 h-10 px-3 sm:px-4"
+            >
+              <ChevronLeft className="h-4 w-4" />
+              <span className="hidden sm:inline">Previous</span>
+              <span className="sm:hidden">Prev</span>
+            </Button>
+            <span className="text-xs sm:text-sm text-muted-foreground text-center">
+              {currentIndex + 1} / {totalFiles}
+            </span>
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={goToNext}
+              disabled={!hasNext}
+              className="gap-1 h-10 px-3 sm:px-4"
+            >
+              <span>Next</span>
+              <ChevronRight className="h-4 w-4" />
+            </Button>
+          </div>
         </DialogFooter>
       </DialogContent>
     </Dialog>

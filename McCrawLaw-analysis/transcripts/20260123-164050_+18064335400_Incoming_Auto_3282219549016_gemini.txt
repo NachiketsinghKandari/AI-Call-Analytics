@@ -1,0 +1,42 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice (Female): 1 turn
+  • Speaker 2 / Unknown / Role: Automated Voice (Male): 1 turn
+  • Speaker 3 / Unknown / Role: Receptionist at McCraw Law Group: 11 turns
+  • Speaker 4 / Marlin Cross / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded for quality assurance purposes.
+[00:06] [ ... Silence (6s) ... ]
+[00:12] [Receptionist]: Thank you for calling McCraw Law Group, how can we help you?
+[00:15] [Marlin Cross]: Uh yes sir, this is Marlin Cross, I was uh trying to speak with either Drake or Cheyenne.
+[00:23] [Receptionist]: Okay. Are you already an existing client of the firm?
+[00:26] [Marlin Cross]: Yes, yes I am.
+[00:28] [Receptionist]: And how do you spell your last name?
+[00:30] [Marlin Cross]: Uh, Cross, C-R-O-S-S. And Marlin, M-A-R-L-I-N.
+[00:37] [Receptionist]: Marlin, M-A-R-L-I-N. Yes sir. And in case we disconnect, what's a good call back number for you?
+[00:43] [Marlin Cross]: 806... uh, I'll try to remember my new number. 433-5400. I forgot to give it to 'em.
+[00:57] [Receptionist]: Okay, thank you sir.
+[00:59] [ ... Silence (10s) ... ]
+[01:09] [Receptionist]: Okay, let me just put you on a really quick hold, just a moment.
+[01:13] [Marlin Cross]: Yes sir, thank you.
+[01:14] [Receptionist]: Mhm.
+[01:15] [ ... Silence (159s) ... ]
+[03:54] [Marlin Cross]: Yes sir.
+[03:56] [Receptionist]: Hello. Thank you so much for the patience. They are currently unavailable. I was unable to reach Attorney Drake, but I'll pass along a message and we'll follow up as soon as possible.
+[04:06] [Marlin Cross]: Uh, he— I got an email from him and Cheyenne, uh, just telling me that uh I needed to check up with them, it's kind of urgent. I guess I— I just found out that my co-defendant, or not co-defendant, what do you say, honey? The guy that was in the wreck with me, they— he told me that the insurance company offered him something or something and I guess maybe they need to see what I— if I'll take the offer or not take the offer. Is what I'm thinking. So I just trying to get back with them and see what they said. I just found out.
+[04:35] [Receptionist]: Gotcha. Okay. Yeah, I'll let him know you called in and he'll uh get back with you as soon as possible.
+[04:41] [Marlin Cross]: Okay. And that's the number he can reach me at too.
+[04:45] [Receptionist]: Okay, very good. I've made note of that and I've updated it for you.
+[04:48] [Marlin Cross]: Okay. Thank you. Thank you sir.
+[04:50] [Receptionist]: No problem. Have a good weekend.
+[04:52] [Marlin Cross]: You too sir. Have a— have a good one. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

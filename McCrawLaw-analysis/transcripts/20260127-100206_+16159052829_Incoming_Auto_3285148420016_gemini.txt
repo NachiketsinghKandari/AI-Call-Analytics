@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Kai / Role: Receptionist at McCorra Law Group: 12 turns
+  • Speaker 3 / Wanda / Role: Caller from Revcore: 12 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:09] [Receptionist]: Hello, thank you for calling McCorra Law Group, how can I help you?
+[00:13] [Wanda]: Good morning, this is Wanda, and I'm calling from Revcore on behalf of BSA Hospital and this call may be recorded for quality and training and I'm calling to see if you are representing a patient, her name is Quitney Johnson.
+[00:28] [Receptionist]: Okay, thank you for that, ma'am. Um, so I'll have to take a message to, um, get it over to the legal team to confirm. Could you spell the client's first name please?
+[00:42] [Wanda]: Yes, it's Q-U-I-T-N-E-Y Johnson.
+[00:45] [Receptionist]: Okay, Q-U-I-T-N-E-Y Johnson. Okay, and may I please have, uh, a good callback number for you?
+[00:52] [Wanda]: 615-905-2829.
+[00:56] [Receptionist]: Okay, thank you. And which hospital did you say you're calling on behalf of?
+[00:59] [Wanda]: It's BSA Hospital. And let me give you the reference number for her account so when they call back I can pull it up.
+[01:12] [Receptionist]: Okay, let me note that down, one moment. Reference account... Okay, I'm ready.
+[01:24] [Wanda]: 7061989.
+[01:29] [Receptionist]: Okay, 7061989.
+[01:33] [Wanda]: Uh-huh.
+[01:34] [Receptionist]: Okay, and would there also be an email I can put down?
+[01:37] [Wanda]: Yes, it's wpope, that's P-O-P-E, at revcore, that's R-E-V-E-C-O-R-E.com.
+[01:46] [Receptionist]: Okay. All right, thank you for that, ma'am, so I'll...
+[01:49] [Wanda]: And what is your name?
+[01:51] [Receptionist]: My name is Kai.
+[01:52] [Wanda]: K-Y?
+[01:53] [Receptionist]: Uh, K-H-A-I.
+[01:56] [Wanda]: K-H-A-I. Okay.
+[01:58] [Receptionist]: Okay.
+[01:59] [Wanda]: Well, thank you for...
+[02:00] [Receptionist]: Of course. Uh, thank you for calling and have a good rest of your day, okay? Bye-bye.
+[02:05] [Wanda]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

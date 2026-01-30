@@ -1,0 +1,61 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 23 turns
+  • Speaker 3 / Andrew Schieber / Role: Caller: 19 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: For quality assurance purposes.
+[00:07] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:11] [Andrew Schieber]: I received a traffic violation in Greenville, Hunt County, just last night.
+[00:19] [Receptionist]: Okay, let me see. And I'm sorry, what, what, what was it again? I'm sorry, in Huntsville?
+[00:26] [Andrew Schieber]: Uh, yes, it was a traffic violation.
+[00:29] [Receptionist]: Okay. Traffic violation. All right, what's your first and last name?
+[00:35] [Andrew Schieber]: Andrew Schieber.
+[00:41] [Receptionist]: And how do you spell your last name?
+[00:43] [Andrew Schieber]: S-C-H-I-E-B-E-R.
+[00:48] [Receptionist]: All right. And is 903-975-5307 a good mobile number for you?
+[00:56] [Andrew Schieber]: Yes.
+[00:58] [Receptionist]: Okay. And what's a good email address?
+[01:01] [Andrew Schieber]: First name, last name, 55 at gmail dot com.
+[01:07] [Receptionist]: All right.
+[01:09] [ ... Silence (9s) ... ]
+[01:18] [Receptionist]: Okay. And then what's a good mailing address for you?
+[01:23] [Andrew Schieber]: 308 Sherman Street, Winnsboro, Texas, 75494.
+[01:32] [Receptionist]: 7, 5, I'm sorry, can you give me that zip code one more time?
+[01:35] [Andrew Schieber]: 75494.
+[01:38] [Receptionist]: 75494. Okay. Let me get that saved in here for you. And is that Hunt, or what county is that located in?
+[01:45] [Andrew Schieber]: Hunt. Oh, uh, the ticket was in Hunt, the, uh, address, my, my mailing address is in Wood County.
+[01:56] [Receptionist]: Okay, gotcha. Let me get this saved in here. Wood County. All right. And were you referred to us or did you find us on Google?
+[02:07] [Andrew Schieber]: I'm just calling on Google right now. This just happened and I need to get it taken care of.
+[02:14] [Receptionist]: Okay, gotcha, gotcha. I'm not too familiar with the area. Is, um, Hunt County near Dallas-Fort Worth or Amarillo, Texas?
+[02:22] [Andrew Schieber]: It's between, uh, it's east of Dallas. Where, where is this office located?
+[02:29] [Receptionist]: Um, so we have a few different offices. Um, we have one in Amarillo, uh, Wylie, Sulphur Springs, Denton, McKinney, and Frisco.
+[02:41] [Andrew Schieber]: Okay, sounds like you've got coverage all over the map then.
+[02:45] [Receptionist]: All right. All over the map, so that is for you. And you said a traffic violation.
+[02:55] [ ... Silence (20s) ... ]
+[03:15] [Receptionist]: Okay. And which location are you closest to? Amarillo, Denton, Frisco, McKinney, Sulphur Springs, or Wylie?
+[03:23] [Andrew Schieber]: Uh, sounds like the Frisco, McKinney, or Sulphur Springs. It's in between those two. I don't know which office would pick it up.
+[03:31] [Receptionist]: Gotcha, gotcha. Let me see here. Okay. So it is looking like this isn't something that they'll be able to work on, but we don't disqualify anybody based on, um, the type of case you have. I have a referral for you if you would like for me to give it to you and their name, and they, they handle traffic violations. And it's going to be at the McKinney office that we'll be giving this referral to you.
+[03:57] [Andrew Schieber]: Okay.
+[03:59] [Receptionist]: All right. Just let me know when you're ready.
+[04:02] [Andrew Schieber]: I'm ready.
+[04:04] [Receptionist]: Okay, this is John, I'm gonna spell the last name, G-I-O-F-F-R-E-D-I and Associates. Their number is 214-739-4515. And I'm still gonna go ahead and send this information over to the office to let them know and have everything in there for you just in case they are able to take care of it, okay?
+[04:34] [Andrew Schieber]: Okay. I, uh, I got the dashcam footage. The officer, he lied and wrote me a citation for something that didn't happen. I've got the proof of it.
+[04:50] [Receptionist]: Okay, gotcha, gotcha. Proof of it. Dashcam footage.
+[04:54] [Andrew Schieber]: He also treated me like a criminal for something I did not do. It was horrible.
+[04:59] [Receptionist]: Gotcha, gotcha. That's not right. That's not good. I will put that in there as well. Horrible.
+[05:10] [Receptionist]: All right, Mr. Andrew, let me get this sent over for you, let them know what's going on, and I did provide you with that other referral just in case. Um, and they have your phone number and your email in here, okay?
+[05:21] [Andrew Schieber]: All right, thank you.
+[05:23] [Receptionist]: Oh, you're welcome. You have a good rest of your day.
+[05:26] [Andrew Schieber]: Yep, you too. Bye.
+[05:28] [Receptionist]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

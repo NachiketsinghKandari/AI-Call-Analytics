@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Recording: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 13 turns
+  • Speaker 3 / Leaford / Role: Caller from Capital Financing: 11 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+
+[00:05] [ ... Silence (7s) ... ]
+
+[00:12] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:15] [Leaford]: Hi, yes, good afternoon. My name is Leaford, I'm calling from Capital Financing. Uh, I was trying to get a hold of paralegal Rachel Woods, um, if she's available, and if not, if the attorney Allison Taff is available.
+[00:28] [Receptionist]: Okay, um, hold on a moment.
+[00:33] [Leaford]: And I can give you the client's name, I'm sorry.
+[00:36] [Receptionist]: Yes, that would be great actually. Um, go ahead.
+[00:41] [Leaford]: So, uh, her first name is Ellen and the last name is Thompson or Thomas, excuse me.
+[00:47] [Receptionist]: Ellen, E-L-L-E-N?
+[00:50] [Leaford]: Yes, ma'am.
+[00:51] [Receptionist]: Thomas, okay. And you said that, um, which attorney was it? A— Allison?
+[00:56] [Leaford]: Allison Taff or her paralegal Rachel Woods, I guess.
+[00:59] [Receptionist]: Okay, give me one moment. And I'm sorry, can you just spell your name for me?
+[01:05] [Leaford]: Sure, um, it's L-E-A-F-O-R-D.
+[01:10] [Receptionist]: Okay, Ford. From, you said Capital Financing?
+[01:14] [Leaford]: That's correct.
+[01:15] [Receptionist]: Okay, perfect.
+
+[01:17] [ ... Silence (21s) ... ]
+
+[01:39] [Receptionist]: Okay, um, I'm sorry, I don't have them available at this moment. I'll have to notify that you called. Um, a specific message that you'd like to leave?
+[01:51] [Leaford]: Uh, yeah, this is pertaining to their to the client's treatment. I was just trying to get kind of like a summary or just discuss her the client's treatment, that's all. But, um, I can leave my phone number or actually I'll go ahead and set— I'll send them a quick email as well.
+[02:06] [Receptionist]: Okay, sure thing. So this is regarding the client's treatment and, sure, what's a good callback number?
+[02:12] [Leaford]: That's going to be 404-348-4475 and then my extension is 602.
+[02:22] [Receptionist]: 602. And what's your email?
+[02:25] [Leaford]: Um, my email is Leaford, so it's L-E-A-F-O-R-D @ injuryfinancing.com.
+[02:35] [Receptionist]: financing.com. Perfect, just so I can provide them this contact as well on my end. So I will get your message over and let them know that you called. Thank you so much.
+[02:44] [Leaford]: Okay, thank you. Bye-bye.
+[02:46] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================
