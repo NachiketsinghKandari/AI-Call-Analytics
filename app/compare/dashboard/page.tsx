@@ -87,19 +87,16 @@ export default function CompareDashboardPage() {
   const [isExporting, setIsExporting] = useState(false);
 
   // Force a preset toggle on initial mount to ensure Plotly click handlers are properly bound
-  // This mimics what happens when user manually switches tabs
+  // Always start on 'resolution' preset for consistent first-load experience
   useEffect(() => {
-    const currentPreset = sankeyOptions.preset || 'resolution';
-    const tempPreset = currentPreset === 'resolution' ? 'transfer' : 'resolution';
-
-    // Wait for Plot to initialize
+    // Wait for Plot to initialize, then toggle to 'transfer' briefly
     const timer1 = setTimeout(() => {
-      setSankeyOptions({ preset: tempPreset as SankeyPreset });
+      setSankeyOptions({ preset: 'transfer' as SankeyPreset });
     }, 150);
 
-    // Wait for remount, then switch back
+    // Switch back to 'resolution' - everyone starts here on first load
     const timer2 = setTimeout(() => {
-      setSankeyOptions({ preset: currentPreset as SankeyPreset });
+      setSankeyOptions({ preset: 'resolution' as SankeyPreset });
     }, 300);
 
     return () => {
@@ -319,7 +316,7 @@ export default function CompareDashboardPage() {
         yaxis: {
           gridcolor: gridColor,
           title: { text: 'Percentage (%)', font: { size: 10 } },
-          range: [0, Math.max(110, ...traces.flatMap(t => t.y)) * 1.15], // Dynamic range with headroom for text
+          range: [0, Math.min(100, Math.max(...traces.flatMap(t => t.y)) + 10)], // Highest bar + 10pp, capped at 100
         },
         margin: { t: 50, b: 100, l: 50, r: 20 },
         showlegend: true,
@@ -410,10 +407,10 @@ export default function CompareDashboardPage() {
     const maxCalls = Math.max(...firms.map((f) => f.stats?.totalCalls || 0));
 
     return {
-      resolutionRate: { trace: resolutionRateTrace, layout: { ...commonLayout, title: { text: 'Resolution Rate (%)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, Math.min(100, maxResolution + 10) * 1.15] } } },
-      transferRate: { trace: transferRateTrace, layout: { ...commonLayout, title: { text: 'Transfer Success (%)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, Math.min(100, maxTransfer + 10) * 1.15] } } },
-      duration: { trace: durationTrace, layout: { ...commonLayout, title: { text: 'Avg Duration (s)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, maxDuration * 1.2] } } },
-      calls: { trace: callsTrace, layout: { ...commonLayout, title: { text: 'Total Calls', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, maxCalls * 1.2] } } },
+      resolutionRate: { trace: resolutionRateTrace, layout: { ...commonLayout, title: { text: 'Resolution Rate (%)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, Math.min(100, maxResolution + 10)] } } },
+      transferRate: { trace: transferRateTrace, layout: { ...commonLayout, title: { text: 'Transfer Success (%)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, Math.min(100, maxTransfer + 10)] } } },
+      duration: { trace: durationTrace, layout: { ...commonLayout, title: { text: 'Avg Duration (s)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, maxDuration * 1.15] } } },
+      calls: { trace: callsTrace, layout: { ...commonLayout, title: { text: 'Total Calls', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, maxCalls * 1.15] } } },
       resolutionTypes,
       callerTypes,
       primaryIntents,

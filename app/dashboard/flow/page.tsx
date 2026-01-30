@@ -106,19 +106,16 @@ export default function FlowPage() {
   }, [files, filters]);
 
   // Force a preset toggle on initial mount to ensure Plotly click handlers are properly bound
-  // This mimics what happens when user manually switches tabs
+  // Always start on 'resolution' preset for consistent first-load experience
   useEffect(() => {
-    const currentPreset = sankeyOptions.preset || 'resolution';
-    const tempPreset = currentPreset === 'resolution' ? 'transfer' : 'resolution';
-
-    // Wait for Plot to initialize
+    // Wait for Plot to initialize, then toggle to 'transfer' briefly
     const timer1 = setTimeout(() => {
-      setSankeyOptions({ preset: tempPreset as SankeyPreset });
+      setSankeyOptions({ preset: 'transfer' as SankeyPreset });
     }, 150);
 
-    // Wait for remount, then switch back
+    // Switch back to 'resolution' - everyone starts here on first load
     const timer2 = setTimeout(() => {
-      setSankeyOptions({ preset: currentPreset as SankeyPreset });
+      setSankeyOptions({ preset: 'resolution' as SankeyPreset });
     }, 300);
 
     return () => {
