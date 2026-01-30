@@ -30,24 +30,33 @@ export default function CompareDashboardLayout({
 }) {
   const hydrated = useHydrated();
   const router = useRouter();
-  const { selectedFirmIds, firmData, loadAllSelectedFirms, filterSidebarOpen, setFilterSidebarOpen } = useCompareStore();
+  const { selectedFirmIds, firmData, filterSidebarOpen, setFilterSidebarOpen } = useCompareStore();
 
-  // Redirect if no firms selected
+  // Redirect if no firms selected OR if page was reloaded (firmData empty but selectedFirmIds exist)
   useEffect(() => {
     if (selectedFirmIds.length < 2) {
       router.push('/compare');
+      return;
     }
-  }, [selectedFirmIds, router]);
 
-  // Load firm data if not loaded
-  useEffect(() => {
-    const needsLoading = selectedFirmIds.some((id) => !firmData[id]?.files?.length);
-    if (needsLoading && selectedFirmIds.length >= 2) {
-      loadAllSelectedFirms();
+    // Detect page reload: selectedFirmIds exist in localStorage but firmData is empty
+    // This happens because firmData is not persisted, only selectedFirmIds is
+    const hasNoLoadedData = selectedFirmIds.every((id) => !firmData[id]?.files?.length);
+    const noDataLoading = selectedFirmIds.every((id) => !firmData[id]?.loading);
+
+    if (hasNoLoadedData && noDataLoading) {
+      // This is a page reload - redirect to /compare to re-select firms
+      router.push('/compare');
     }
-  }, [selectedFirmIds, firmData, loadAllSelectedFirms]);
+  }, [selectedFirmIds, firmData, router]);
 
   if (selectedFirmIds.length < 2) {
+    return null;
+  }
+
+  // Also redirect during render if we detect reload state
+  const hasNoLoadedData = selectedFirmIds.every((id) => !firmData[id]?.files?.length);
+  if (hasNoLoadedData) {
     return null;
   }
 
