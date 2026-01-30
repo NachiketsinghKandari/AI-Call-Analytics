@@ -41,6 +41,9 @@ interface CompareState {
   // Sankey options
   sankeyOptions: SankeyOptions;
 
+  // Filter sidebar visibility
+  filterSidebarOpen: boolean;
+
   // Actions
   setSelectedFirmIds: (ids: string[]) => void;
   toggleFirmSelection: (firmId: string) => void;
@@ -48,6 +51,7 @@ interface CompareState {
   setFilters: (filters: Partial<FilterState>) => void;
   resetFilters: () => void;
   setSankeyOptions: (options: Partial<SankeyOptions>) => void;
+  setFilterSidebarOpen: (open: boolean) => void;
   loadFirmData: (firmId: string) => Promise<void>;
   loadAllSelectedFirms: () => Promise<void>;
   clearComparison: () => void;
@@ -145,6 +149,7 @@ export const useCompareStore = create<CompareState>()(
       filters: defaultFilters,
       combinedStats: null,
       sankeyOptions: defaultSankeyOptions,
+      filterSidebarOpen: true,
 
       setSelectedFirmIds: (ids) => {
         set({ selectedFirmIds: ids });
@@ -241,6 +246,8 @@ export const useCompareStore = create<CompareState>()(
           sankeyOptions: { ...state.sankeyOptions, ...options },
         })),
 
+      setFilterSidebarOpen: (open) => set({ filterSidebarOpen: open }),
+
       loadFirmData: async (firmId) => {
         const config = FIRM_CONFIGS.find((c) => c.id === firmId);
         if (!config) return;
@@ -289,6 +296,7 @@ export const useCompareStore = create<CompareState>()(
       partialize: (state) => ({
         sankeyOptions: state.sankeyOptions,
         selectedFirmIds: state.selectedFirmIds,
+        filterSidebarOpen: state.filterSidebarOpen,
       }),
     }
   )

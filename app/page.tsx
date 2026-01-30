@@ -103,7 +103,7 @@ export default function HomePage() {
               </div>
               <div className="mt-auto">
                 <Link href="/compare">
-                  <Button variant="secondary" className="w-full gap-2" size="lg">
+                  <Button className="w-full gap-2" size="lg">
                     Compare Firms
                     <ArrowRight className="h-4 w-4" />
                   </Button>

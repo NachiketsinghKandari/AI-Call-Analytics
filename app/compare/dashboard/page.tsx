@@ -86,6 +86,29 @@ export default function CompareDashboardPage() {
   const [isSelectionVisible, setIsSelectionVisible] = useState(false);
   const [isExporting, setIsExporting] = useState(false);
 
+  // Force a preset toggle on initial mount to ensure Plotly click handlers are properly bound
+  // This mimics what happens when user manually switches tabs
+  useEffect(() => {
+    const currentPreset = sankeyOptions.preset || 'resolution';
+    const tempPreset = currentPreset === 'resolution' ? 'transfer' : 'resolution';
+
+    // Wait for Plot to initialize
+    const timer1 = setTimeout(() => {
+      setSankeyOptions({ preset: tempPreset as SankeyPreset });
+    }, 150);
+
+    // Wait for remount, then switch back
+    const timer2 = setTimeout(() => {
+      setSankeyOptions({ preset: currentPreset as SankeyPreset });
+    }, 300);
+
+    return () => {
+      clearTimeout(timer1);
+      clearTimeout(timer2);
+    };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   // Auto-hide notification after 4 seconds
   useEffect(() => {
     if (showNotification) {

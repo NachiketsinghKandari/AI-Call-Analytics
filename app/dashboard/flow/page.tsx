@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo } from 'react';
+import { useMemo, useEffect } from 'react';
 import { useHydrated, useResponsiveChartHeight } from '@/lib/hooks';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
@@ -104,6 +104,29 @@ export default function FlowPage() {
   const filteredFiles = useMemo(() => {
     return applyAllFilters(files, filters);
   }, [files, filters]);
+
+  // Force a preset toggle on initial mount to ensure Plotly click handlers are properly bound
+  // This mimics what happens when user manually switches tabs
+  useEffect(() => {
+    const currentPreset = sankeyOptions.preset || 'resolution';
+    const tempPreset = currentPreset === 'resolution' ? 'transfer' : 'resolution';
+
+    // Wait for Plot to initialize
+    const timer1 = setTimeout(() => {
+      setSankeyOptions({ preset: tempPreset as SankeyPreset });
+    }, 150);
+
+    // Wait for remount, then switch back
+    const timer2 = setTimeout(() => {
+      setSankeyOptions({ preset: currentPreset as SankeyPreset });
+    }, 300);
+
+    return () => {
+      clearTimeout(timer1);
+      clearTimeout(timer2);
+    };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   // Get custom options with defaults
   const customOptions: CustomSankeyOptions = sankeyOptions.customOptions || {

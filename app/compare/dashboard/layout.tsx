@@ -3,7 +3,7 @@
 import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
-import { ArrowLeft, ChevronsUpDown, BarChart3, GitCompareArrows } from 'lucide-react';
+import { ArrowLeft, ChevronsUpDown, BarChart3, GitCompareArrows, Globe, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { HelloCounselLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
@@ -16,6 +16,12 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu';
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from '@/components/ui/tooltip';
 
 export default function CompareDashboardLayout({
   children,
@@ -24,7 +30,7 @@ export default function CompareDashboardLayout({
 }) {
   const hydrated = useHydrated();
   const router = useRouter();
-  const { selectedFirmIds, firmData, loadAllSelectedFirms } = useCompareStore();
+  const { selectedFirmIds, firmData, loadAllSelectedFirms, filterSidebarOpen, setFilterSidebarOpen } = useCompareStore();
 
   // Redirect if no firms selected
   useEffect(() => {
@@ -100,12 +106,46 @@ export default function CompareDashboardLayout({
       </header>
 
       <div className="flex">
-        {/* Filter Sidebar */}
-        <aside className="hidden lg:block w-72 shrink-0 border-r bg-muted/30">
-          <div className="sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto">
-            <CompareFilterSidebar />
-          </div>
+        {/* Collapsed sidebar toggle (always visible on lg screens) */}
+        <aside className="hidden lg:flex w-10 shrink-0 border-r bg-muted/30 flex-col items-center pt-4">
+          <TooltipProvider>
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-8 w-8"
+                  onClick={() => setFilterSidebarOpen(!filterSidebarOpen)}
+                >
+                  <Globe className="h-4 w-4" />
+                </Button>
+              </TooltipTrigger>
+              <TooltipContent side="right">
+                {filterSidebarOpen ? 'Close filter panel' : 'Open filter panel'}
+              </TooltipContent>
+            </Tooltip>
+          </TooltipProvider>
         </aside>
+
+        {/* Expandable Filter Sidebar */}
+        {filterSidebarOpen && (
+          <aside className="hidden lg:block w-72 shrink-0 border-r bg-muted/30">
+            <div className="sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto">
+              <div className="flex items-center justify-between px-4 py-2 border-b">
+                <span className="text-sm font-medium">Filters</span>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-6 w-6"
+                  onClick={() => setFilterSidebarOpen(false)}
+                >
+                  <X className="h-3 w-3" />
+                </Button>
+              </div>
+              <CompareFilterSidebar />
+            </div>
+          </aside>
+        )}
 
         {/* Main Content */}
         <main className="flex-1 min-w-0">
