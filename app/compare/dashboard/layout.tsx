@@ -3,7 +3,7 @@
 import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
-import { ArrowLeft, ChevronsUpDown, BarChart3, GitCompareArrows, Globe, X } from 'lucide-react';
+import { ArrowLeft, ChevronsUpDown, BarChart3, GitCompareArrows, Filter, X, CheckCircle2, Users, Target, ArrowRightLeft, Clock, Layers } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { HelloCounselLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
@@ -106,9 +106,10 @@ export default function CompareDashboardLayout({
       </header>
 
       <div className="flex">
-        {/* Collapsed sidebar toggle (always visible on lg screens) */}
-        <aside className="hidden lg:flex w-10 shrink-0 border-r bg-muted/30 flex-col items-center pt-4">
+        {/* Collapsed sidebar with filter icons (always visible on lg screens) */}
+        <aside className="hidden lg:flex w-10 shrink-0 border-r bg-muted/30 flex-col items-center pt-4 gap-1">
           <TooltipProvider>
+            {/* Main filter toggle */}
             <Tooltip>
               <TooltipTrigger asChild>
                 <Button
@@ -117,12 +118,100 @@ export default function CompareDashboardLayout({
                   className="h-8 w-8"
                   onClick={() => setFilterSidebarOpen(!filterSidebarOpen)}
                 >
-                  <Globe className="h-4 w-4" />
+                  <Filter className="h-4 w-4" />
                 </Button>
               </TooltipTrigger>
               <TooltipContent side="right">
                 {filterSidebarOpen ? 'Close filter panel' : 'Open filter panel'}
               </TooltipContent>
+            </Tooltip>
+
+            {/* Divider */}
+            <div className="w-5 h-px bg-border my-2" />
+
+            {/* Filter category icons */}
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-7 w-7 text-muted-foreground hover:text-foreground"
+                  onClick={() => setFilterSidebarOpen(true)}
+                >
+                  <CheckCircle2 className="h-3.5 w-3.5" />
+                </Button>
+              </TooltipTrigger>
+              <TooltipContent side="right">Resolution Status</TooltipContent>
+            </Tooltip>
+
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-7 w-7 text-muted-foreground hover:text-foreground"
+                  onClick={() => setFilterSidebarOpen(true)}
+                >
+                  <Layers className="h-3.5 w-3.5" />
+                </Button>
+              </TooltipTrigger>
+              <TooltipContent side="right">Resolution Types</TooltipContent>
+            </Tooltip>
+
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-7 w-7 text-muted-foreground hover:text-foreground"
+                  onClick={() => setFilterSidebarOpen(true)}
+                >
+                  <Users className="h-3.5 w-3.5" />
+                </Button>
+              </TooltipTrigger>
+              <TooltipContent side="right">Caller Types</TooltipContent>
+            </Tooltip>
+
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-7 w-7 text-muted-foreground hover:text-foreground"
+                  onClick={() => setFilterSidebarOpen(true)}
+                >
+                  <Target className="h-3.5 w-3.5" />
+                </Button>
+              </TooltipTrigger>
+              <TooltipContent side="right">Primary Intents</TooltipContent>
+            </Tooltip>
+
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-7 w-7 text-muted-foreground hover:text-foreground"
+                  onClick={() => setFilterSidebarOpen(true)}
+                >
+                  <ArrowRightLeft className="h-3.5 w-3.5" />
+                </Button>
+              </TooltipTrigger>
+              <TooltipContent side="right">Transfer Status</TooltipContent>
+            </Tooltip>
+
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-7 w-7 text-muted-foreground hover:text-foreground"
+                  onClick={() => setFilterSidebarOpen(true)}
+                >
+                  <Clock className="h-3.5 w-3.5" />
+                </Button>
+              </TooltipTrigger>
+              <TooltipContent side="right">Call Duration</TooltipContent>
             </Tooltip>
           </TooltipProvider>
         </aside>

@@ -1,17 +1,24 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef, useCallback } from 'react';
 import { useHydrated } from '@/lib/hooks';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Input } from '@/components/ui/input';
+import { Button } from '@/components/ui/button';
 import { ALL_CATEGORIES, type CategoryDefinition, type FieldDefinition } from '@/lib/definitions';
-import { Search, ChevronDown } from 'lucide-react';
+import { Search, ChevronDown, Download, Copy, Check, Loader2 } from 'lucide-react';
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
 } from '@/components/ui/collapsible';
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from '@/components/ui/tooltip';
 
 function DefinitionCard({ field }: { field: FieldDefinition }) {
   return (
@@ -82,6 +89,162 @@ function CategorySection({ category, defaultOpen = false }: { category: Category
 
 export default function InfoPage() {
   const [searchTerm, setSearchTerm] = useState('');
+  const [isExporting, setIsExporting] = useState(false);
+  const [copied, setCopied] = useState(false);
+  const contentRef = useRef<HTMLDivElement>(null);
+
+  // Generate markdown content for copy
+  const generateMarkdown = useCallback(() => {
+    let md = '# Field Definitions\n\n';
+    md += 'Reference guide for all classification fields used in call analysis.\n\n';
+
+    md += '## About This System\n\n';
+    md += 'This call analysis system models **operational call handling outcomes** based on spoken evidence from transcripts. ';
+    md += 'It focuses on what the receptionist actually did, not caller emotions or satisfaction. ';
+    md += 'Resolution means a valid operational terminal state was reached. ';
+    md += 'Transfer detection is binary - if a transfer was attempted, the resolution type must be "transfer_attempted" regardless of other factors.\n\n';
+
+    md += '## Key Rules\n\n';
+    md += '1. If any transfer destination is recorded, resolution type **must** be "transfer_attempted"\n';
+    md += '2. Transfer connection status is true if caller was placed into transfer path, not whether staff answered\n';
+    md += '3. Resolution achieved is true only if transfer succeeded OR a fallback was accepted\n';
+    md += '4. Spanish speakers are classified as "spanish_speaker" regardless of their role\n';
+    md += '5. Secondary action can only be set if transfer failed and fallback was accepted\n\n';
+
+    ALL_CATEGORIES.forEach((category) => {
+      md += `## ${category.name}\n\n`;
+      md += `${category.description}\n\n`;
+      md += '| Value | Label | Description |\n';
+      md += '|-------|-------|-------------|\n';
+      category.fields.forEach((field) => {
+        md += `| \`${field.value}\` | ${field.label} | ${field.description} |\n`;
+      });
+      md += '\n';
+    });
+
+    return md;
+  }, []);
+
+  const handleCopy = async () => {
+    const markdown = generateMarkdown();
+    await navigator.clipboard.writeText(markdown);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
+  const handleExportPDF = async () => {
+    setIsExporting(true);
+    try {
+      const { default: jsPDF } = await import('jspdf');
+
+      const pdf = new jsPDF('p', 'mm', 'a4');
+      const pageWidth = pdf.internal.pageSize.getWidth();
+      const pageHeight = pdf.internal.pageSize.getHeight();
+      const margin = 15;
+      let yPosition = margin;
+
+      // Title
+      pdf.setFontSize(20);
+      pdf.setFont('helvetica', 'bold');
+      pdf.text('Field Definitions', pageWidth / 2, yPosition, { align: 'center' });
+      yPosition += 10;
+
+      // Subtitle
+      pdf.setFontSize(10);
+      pdf.setFont('helvetica', 'normal');
+      pdf.text('Reference guide for all classification fields used in call analysis', pageWidth / 2, yPosition, { align: 'center' });
+      yPosition += 10;
+
+      // Date
+      pdf.setFontSize(8);
+      pdf.text(`Generated: ${new Date().toLocaleDateString()} ${new Date().toLocaleTimeString()}`, pageWidth / 2, yPosition, { align: 'center' });
+      yPosition += 15;
+
+      // About section
+      pdf.setFontSize(12);
+      pdf.setFont('helvetica', 'bold');
+      pdf.text('About This System', margin, yPosition);
+      yPosition += 7;
+
+      pdf.setFontSize(9);
+      pdf.setFont('helvetica', 'normal');
+      const aboutText = 'This call analysis system models operational call handling outcomes based on spoken evidence from transcripts. It focuses on what the receptionist actually did, not caller emotions or satisfaction.';
+      const aboutLines = pdf.splitTextToSize(aboutText, pageWidth - margin * 2);
+      pdf.text(aboutLines, margin, yPosition);
+      yPosition += aboutLines.length * 4 + 10;
+
+      // Key Rules
+      pdf.setFontSize(12);
+      pdf.setFont('helvetica', 'bold');
+      pdf.text('Key Rules', margin, yPosition);
+      yPosition += 7;
+
+      pdf.setFontSize(9);
+      pdf.setFont('helvetica', 'normal');
+      const rules = [
+        '1. If any transfer destination is recorded, resolution type must be "transfer_attempted"',
+        '2. Transfer connection status is true if caller was placed into transfer path',
+        '3. Resolution achieved is true only if transfer succeeded OR a fallback was accepted',
+        '4. Spanish speakers are classified as "spanish_speaker" regardless of their role',
+        '5. Secondary action can only be set if transfer failed and fallback was accepted',
+      ];
+      rules.forEach((rule) => {
+        const ruleLines = pdf.splitTextToSize(rule, pageWidth - margin * 2);
+        if (yPosition + ruleLines.length * 4 > pageHeight - margin) {
+          pdf.addPage();
+          yPosition = margin;
+        }
+        pdf.text(ruleLines, margin, yPosition);
+        yPosition += ruleLines.length * 4 + 2;
+      });
+      yPosition += 10;
+
+      // Categories
+      for (const category of ALL_CATEGORIES) {
+        if (yPosition > pageHeight - 40) {
+          pdf.addPage();
+          yPosition = margin;
+        }
+
+        pdf.setFontSize(12);
+        pdf.setFont('helvetica', 'bold');
+        pdf.text(category.name, margin, yPosition);
+        yPosition += 5;
+
+        pdf.setFontSize(8);
+        pdf.setFont('helvetica', 'normal');
+        const descLines = pdf.splitTextToSize(category.description, pageWidth - margin * 2);
+        pdf.text(descLines, margin, yPosition);
+        yPosition += descLines.length * 3 + 5;
+
+        for (const field of category.fields) {
+          if (yPosition > pageHeight - 20) {
+            pdf.addPage();
+            yPosition = margin;
+          }
+
+          pdf.setFontSize(9);
+          pdf.setFont('helvetica', 'bold');
+          pdf.text(`${field.value}`, margin, yPosition);
+          pdf.setFont('helvetica', 'normal');
+          pdf.text(` - ${field.label}`, margin + pdf.getTextWidth(field.value), yPosition);
+          yPosition += 4;
+
+          pdf.setFontSize(8);
+          const fieldDescLines = pdf.splitTextToSize(field.description, pageWidth - margin * 2 - 5);
+          pdf.text(fieldDescLines, margin + 5, yPosition);
+          yPosition += fieldDescLines.length * 3 + 3;
+        }
+        yPosition += 5;
+      }
+
+      pdf.save(`field_definitions_${new Date().toISOString().split('T')[0]}.pdf`);
+    } catch (error) {
+      console.error('Failed to export PDF:', error);
+    } finally {
+      setIsExporting(false);
+    }
+  };
 
   const filteredCategories = ALL_CATEGORIES.map((category) => ({
     ...category,
@@ -94,12 +257,50 @@ export default function InfoPage() {
   })).filter((category) => category.fields.length > 0);
 
   return (
-    <div className="space-y-6">
-      <div>
-        <h1 className="text-2xl font-bold">Field Definitions</h1>
-        <p className="text-muted-foreground">
-          Reference guide for all classification fields used in call analysis
-        </p>
+    <div className="space-y-6" ref={contentRef}>
+      <div className="flex items-start justify-between">
+        <div>
+          <h1 className="text-2xl font-bold">Field Definitions</h1>
+          <p className="text-muted-foreground">
+            Reference guide for all classification fields used in call analysis
+          </p>
+        </div>
+        <div className="flex items-center gap-2">
+          <TooltipProvider>
+            <Tooltip>
+              <TooltipTrigger asChild>
+                <Button
+                  variant="outline"
+                  size="sm"
+                  className="gap-2"
+                  onClick={handleCopy}
+                >
+                  {copied ? (
+                    <Check className="h-4 w-4 text-green-500" />
+                  ) : (
+                    <Copy className="h-4 w-4" />
+                  )}
+                  <span className="hidden sm:inline">{copied ? 'Copied!' : 'Copy'}</span>
+                </Button>
+              </TooltipTrigger>
+              <TooltipContent>Copy as Markdown</TooltipContent>
+            </Tooltip>
+          </TooltipProvider>
+          <Button
+            variant="outline"
+            size="sm"
+            className="gap-2"
+            onClick={handleExportPDF}
+            disabled={isExporting}
+          >
+            {isExporting ? (
+              <Loader2 className="h-4 w-4 animate-spin" />
+            ) : (
+              <Download className="h-4 w-4" />
+            )}
+            <span className="hidden sm:inline">Export PDF</span>
+          </Button>
+        </div>
       </div>
 
       {/* Search */}

@@ -76,7 +76,7 @@ export default function CompareDashboardPage() {
   const isDarkMode = resolvedTheme === 'dark';
   const exportRef = useRef<HTMLDivElement>(null);
 
-  const { selectedFirmIds, firmData, filters, sankeyOptions, setSankeyOptions } = useCompareStore();
+  const { selectedFirmIds, firmData, filters, sankeyOptions, setSankeyOptions, filterSidebarOpen } = useCompareStore();
   const [viewMode, setViewMode] = useState<'sankey' | 'metrics'>('sankey');
   const [selectedFiles, setSelectedFiles] = useState<FileInfo[] | null>(null);
   const [selectedFirmId, setSelectedFirmId] = useState<string | null>(null);
@@ -403,11 +403,17 @@ export default function CompareDashboardPage() {
     const callerTypes = buildDistributionData('caller_type', 'Caller Types Distribution');
     const primaryIntents = buildDistributionData('primary_intent', 'Primary Intents Distribution');
 
+    // Calculate dynamic ranges based on max values + 10pp headroom
+    const maxResolution = Math.max(...firms.map((f) => f.stats?.resolutionRate || 0));
+    const maxTransfer = Math.max(...firms.map((f) => f.stats?.transferSuccessRate || 0));
+    const maxDuration = Math.max(...firms.map((f) => f.stats?.avgDuration || 0));
+    const maxCalls = Math.max(...firms.map((f) => f.stats?.totalCalls || 0));
+
     return {
-      resolutionRate: { trace: resolutionRateTrace, layout: { ...commonLayout, title: { text: 'Resolution Rate (%)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, 110] } } },
-      transferRate: { trace: transferRateTrace, layout: { ...commonLayout, title: { text: 'Transfer Success (%)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, 110] } } },
-      duration: { trace: durationTrace, layout: { ...commonLayout, title: { text: 'Avg Duration (s)', font: { size: 12 } } } },
-      calls: { trace: callsTrace, layout: { ...commonLayout, title: { text: 'Total Calls', font: { size: 12 } } } },
+      resolutionRate: { trace: resolutionRateTrace, layout: { ...commonLayout, title: { text: 'Resolution Rate (%)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, Math.min(100, maxResolution + 10) * 1.15] } } },
+      transferRate: { trace: transferRateTrace, layout: { ...commonLayout, title: { text: 'Transfer Success (%)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, Math.min(100, maxTransfer + 10) * 1.15] } } },
+      duration: { trace: durationTrace, layout: { ...commonLayout, title: { text: 'Avg Duration (s)', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, maxDuration * 1.2] } } },
+      calls: { trace: callsTrace, layout: { ...commonLayout, title: { text: 'Total Calls', font: { size: 12 } }, yaxis: { ...commonLayout.yaxis, range: [0, maxCalls * 1.2] } } },
       resolutionTypes,
       callerTypes,
       primaryIntents,
@@ -442,26 +448,122 @@ export default function CompareDashboardPage() {
       pdf.text(`Generated: ${new Date().toLocaleDateString()} ${new Date().toLocaleTimeString()}`, pageWidth / 2, yPosition, { align: 'center' });
       yPosition += 15;
 
-      // Firms being compared
-      pdf.setFontSize(12);
+      // Executive Summary
+      pdf.setFontSize(14);
       pdf.setFont('helvetica', 'bold');
-      pdf.text('Firms Compared:', margin, yPosition);
-      yPosition += 7;
+      pdf.text('Executive Summary', margin, yPosition);
+      yPosition += 8;
 
       pdf.setFont('helvetica', 'normal');
       pdf.setFontSize(10);
       selectedFirmIds.forEach((id) => {
         const config = FIRM_CONFIGS.find((c) => c.id === id);
         const stats = filteredFirmData[id]?.stats;
+        const totalFiles = firmData[id]?.files?.length || 0;
+        const filteredCount = filteredFirmData[id]?.files.length || 0;
         if (config && stats) {
-          pdf.text(`• ${config.name}: ${stats.totalCalls} calls, ${stats.resolutionRate.toFixed(1)}% resolution rate`, margin + 5, yPosition);
+          pdf.setFont('helvetica', 'bold');
+          pdf.text(`${config.name}`, margin + 5, yPosition);
           yPosition += 5;
+          pdf.setFont('helvetica', 'normal');
+          pdf.text(`  Total Calls: ${stats.totalCalls} (${filteredCount} of ${totalFiles} after filters)`, margin + 5, yPosition);
+          yPosition += 4;
+          pdf.text(`  Resolution Rate: ${stats.resolutionRate.toFixed(1)}%`, margin + 5, yPosition);
+          yPosition += 4;
+          pdf.text(`  Transfer Success Rate: ${stats.transferSuccessRate.toFixed(1)}%`, margin + 5, yPosition);
+          yPosition += 4;
+          pdf.text(`  Average Duration: ${Math.round(stats.avgDuration)}s`, margin + 5, yPosition);
+          yPosition += 7;
         }
       });
+      yPosition += 5;
+
+      // Detailed Metrics Comparison Table
+      pdf.setFontSize(14);
+      pdf.setFont('helvetica', 'bold');
+      pdf.text('Detailed Metrics Comparison', margin, yPosition);
+      yPosition += 8;
+
+      // Table header
+      pdf.setFontSize(9);
+      pdf.setFont('helvetica', 'bold');
+      const colWidths = [50, 35, 35, 35, 30];
+      const headers = ['Metric', ...selectedFirmIds.map(id => FIRM_CONFIGS.find(c => c.id === id)?.name || id)];
+      let xPos = margin;
+      headers.forEach((header, i) => {
+        pdf.text(header, xPos, yPosition);
+        xPos += colWidths[i] || 35;
+      });
+      yPosition += 5;
+
+      // Draw line
+      pdf.setDrawColor(200);
+      pdf.line(margin, yPosition, pageWidth - margin, yPosition);
+      yPosition += 4;
+
+      // Table rows
+      pdf.setFont('helvetica', 'normal');
+      const metrics = [
+        { label: 'Total Calls', getValue: (s: FirmStats) => String(s.totalCalls) },
+        { label: 'Resolution Rate', getValue: (s: FirmStats) => `${s.resolutionRate.toFixed(1)}%` },
+        { label: 'Transfer Success', getValue: (s: FirmStats) => `${s.transferSuccessRate.toFixed(1)}%` },
+        { label: 'Avg Duration', getValue: (s: FirmStats) => `${Math.round(s.avgDuration)}s` },
+        { label: 'Resolution Types', getValue: (s: FirmStats) => `${Object.keys(s.resolutionTypes).length} types` },
+        { label: 'Caller Types', getValue: (s: FirmStats) => `${Object.keys(s.callerTypes).length} types` },
+        { label: 'Primary Intents', getValue: (s: FirmStats) => `${Object.keys(s.primaryIntents).length} intents` },
+      ];
+
+      metrics.forEach((metric) => {
+        xPos = margin;
+        pdf.text(metric.label, xPos, yPosition);
+        xPos += colWidths[0];
+        selectedFirmIds.forEach((id, i) => {
+          const stats = filteredFirmData[id]?.stats;
+          if (stats) {
+            pdf.text(metric.getValue(stats), xPos, yPosition);
+          }
+          xPos += colWidths[i + 1] || 35;
+        });
+        yPosition += 5;
+      });
+      yPosition += 10;
+
+      // Applied Filters Section
+      if (yPosition > pageHeight - 50) {
+        pdf.addPage();
+        yPosition = margin;
+      }
+
+      pdf.setFontSize(14);
+      pdf.setFont('helvetica', 'bold');
+      pdf.text('Applied Filters', margin, yPosition);
+      yPosition += 8;
+
+      pdf.setFontSize(9);
+      pdf.setFont('helvetica', 'normal');
+      pdf.text(`Resolution Status: ${filters.achievedStatus.join(', ') || 'All'}`, margin + 5, yPosition);
+      yPosition += 4;
+      pdf.text(`Transfer Status: ${filters.transferStatus.join(', ') || 'All'}`, margin + 5, yPosition);
+      yPosition += 4;
+      pdf.text(`Duration Range: ${filters.durationRange[0]}s - ${filters.durationRange[1]}s`, margin + 5, yPosition);
+      yPosition += 4;
+      pdf.text(`Resolution Types: ${filters.resolutionTypes.length} selected`, margin + 5, yPosition);
+      yPosition += 4;
+      pdf.text(`Caller Types: ${filters.callerTypes.length} selected`, margin + 5, yPosition);
+      yPosition += 4;
+      pdf.text(`Primary Intents: ${filters.primaryIntents.length} selected`, margin + 5, yPosition);
       yPosition += 10;
 
       // Capture charts if in metrics view
       if (exportRef.current) {
+        pdf.addPage();
+        yPosition = margin;
+
+        pdf.setFontSize(14);
+        pdf.setFont('helvetica', 'bold');
+        pdf.text('Visual Charts', margin, yPosition);
+        yPosition += 10;
+
         const canvas = await html2canvas(exportRef.current, {
           backgroundColor: isDarkMode ? '#1f2937' : '#ffffff',
           logging: false,
@@ -472,13 +574,16 @@ export default function CompareDashboardPage() {
         const imgWidth = pageWidth - (margin * 2);
         const imgHeight = (canvas.height * imgWidth) / canvas.width;
 
-        // Check if we need a new page
-        if (yPosition + imgHeight > pageHeight - margin) {
-          pdf.addPage();
-          yPosition = margin;
+        // Add image, handling page breaks if needed
+        const maxImageHeight = pageHeight - yPosition - margin;
+        if (imgHeight <= maxImageHeight) {
+          pdf.addImage(imgData, 'PNG', margin, yPosition, imgWidth, imgHeight);
+        } else {
+          // Scale to fit page
+          const scaledHeight = maxImageHeight;
+          const scaledWidth = (canvas.width * scaledHeight) / canvas.height;
+          pdf.addImage(imgData, 'PNG', margin, yPosition, Math.min(scaledWidth, imgWidth), scaledHeight);
         }
-
-        pdf.addImage(imgData, 'PNG', margin, yPosition, imgWidth, Math.min(imgHeight, pageHeight - yPosition - margin));
       }
 
       // Save
@@ -770,6 +875,9 @@ export default function CompareDashboardPage() {
           open={modalOpen}
           onOpenChange={setModalOpen}
           onIndexChange={setModalIndex}
+          firmName={selectedFirmId ? FIRM_CONFIGS.find((c) => c.id === selectedFirmId)?.name : undefined}
+          firmColor={selectedFirmId ? FIRM_COLORS[selectedFirmId] : undefined}
+          sidebarOpen={filterSidebarOpen}
         />
       )}
 

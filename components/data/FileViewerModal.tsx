@@ -21,6 +21,9 @@ interface FileViewerModalProps {
   open: boolean;
   onOpenChange: (open: boolean) => void;
   onIndexChange: (index: number) => void;
+  firmName?: string;
+  firmColor?: string;
+  sidebarOpen?: boolean;
 }
 
 function JsonViewer({ data }: { data: unknown }) {
@@ -78,6 +81,9 @@ export function FileViewerModal({
   open,
   onOpenChange,
   onIndexChange,
+  firmName,
+  firmColor,
+  sidebarOpen = true,
 }: FileViewerModalProps) {
   const file = files[currentIndex];
   const totalFiles = files.length;
@@ -120,12 +126,26 @@ export function FileViewerModal({
 
   if (!file) return null;
 
+  // Dynamic modal sizing based on sidebar state
+  const modalClass = sidebarOpen
+    ? "w-[95vw] max-w-[95vw] sm:max-w-[90vw] lg:w-[calc(100vw-18rem-3rem)] lg:max-w-none lg:left-[calc(18rem+(100vw-18rem)/2)] lg:top-[calc(3.5rem+(100vh-3.5rem)/2)] h-[80vh] lg:h-[calc(100vh-3.5rem-3rem)] flex flex-col"
+    : "w-[95vw] max-w-[95vw] sm:max-w-[90vw] lg:w-[calc(100vw-5rem)] lg:max-w-none lg:left-[calc(2.5rem+(100vw-2.5rem)/2)] lg:top-[calc(3.5rem+(100vh-3.5rem)/2)] h-[80vh] lg:h-[calc(100vh-3.5rem-3rem)] flex flex-col";
+
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="w-[95vw] max-w-[95vw] sm:max-w-[90vw] lg:w-[calc(100vw-18rem-3rem)] lg:max-w-none lg:left-[calc(18rem+(100vw-18rem)/2)] lg:top-[calc(3.5rem+(100vh-3.5rem)/2)] h-[80vh] lg:h-[calc(100vh-3.5rem-3rem)] flex flex-col">
+      <DialogContent className={modalClass}>
         {/* Header */}
         <DialogHeader className="flex-shrink-0">
           <DialogTitle className="flex items-center gap-2 pr-8">
+            {firmName && (
+              <Badge
+                variant="outline"
+                className="text-xs shrink-0"
+                style={firmColor ? { borderColor: firmColor, color: firmColor } : undefined}
+              >
+                {firmName}
+              </Badge>
+            )}
             <span className="truncate max-w-[150px] sm:max-w-[300px] lg:max-w-[400px]">{file.name}</span>
             <CopyButton text={file.name} />
           </DialogTitle>
