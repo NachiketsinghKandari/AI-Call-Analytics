@@ -1,59 +1,13 @@
 'use client';
 
-import { useRouter } from 'next/navigation';
-import { useEffect, useState } from 'react';
-import { Upload, Building2, Scale, Phone, ArrowRight, Loader2 } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import Link from 'next/link';
+import { BarChart3, GitCompareArrows, ArrowRight, FileSearch, Grid3X3, GitBranch } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { FolderUploader } from '@/components/data/FolderUploader';
-import { useCallDataStore } from '@/store/callDataStore';
+import { Button } from '@/components/ui/button';
 import { HelloCounselLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
 
-type DataSourceLoading = 'none' | 'sample' | 'mccraw' | 'vapi';
-
 export default function HomePage() {
-  const router = useRouter();
-  const { files, dataSource, setLoading, setFiles, setDataSource, setError } = useCallDataStore();
-  const [loadingSource, setLoadingSource] = useState<DataSourceLoading>('none');
-
-  // Redirect to dashboard if data is loaded
-  useEffect(() => {
-    if (files.length > 0 && dataSource !== 'none') {
-      router.push('/dashboard/flow');
-    }
-  }, [files, dataSource, router]);
-
-  const handleLoadData = async (source: 'sample' | 'mccraw' | 'vapi') => {
-    setLoadingSource(source);
-    setLoading(true);
-    setError(null);
-
-    const endpoints = {
-      sample: '/api/sample-data',
-      mccraw: '/api/mccraw-data',
-      vapi: '/api/vapi-data',
-    };
-
-    try {
-      const response = await fetch(endpoints[source]);
-      if (!response.ok) {
-        throw new Error(`Failed to load ${source} data`);
-      }
-      const data = await response.json();
-      setFiles(data.files);
-      setDataSource(source);
-      router.push('/dashboard/flow');
-    } catch (err) {
-      setError(err instanceof Error ? err.message : `Failed to load ${source} data`);
-      setLoadingSource('none');
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  const isLoading = loadingSource !== 'none';
-
   return (
     <main className="min-h-screen bg-background">
       {/* Header with theme toggle */}
@@ -63,166 +17,140 @@ export default function HomePage() {
 
       <div className="container mx-auto px-4 py-16">
         {/* Hero Section */}
-        <div className="text-center mb-12">
+        <div className="text-center mb-16">
           <div className="flex justify-center mb-4">
-            <HelloCounselLogo className="h-10" />
+            <HelloCounselLogo className="h-12" />
           </div>
-          <h1 className="text-3xl font-bold tracking-tight mb-3">
-            Call Analysis
+          <h1 className="text-4xl font-bold tracking-tight mb-4">
+            Call Analytics Dashboard
           </h1>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Visual analytics and deep-dive tools for call resolution data.
-            Explore call flows, analyze patterns, and dive into individual transcripts.
+            Analyze individual firms or compare performance across multiple organizations.
           </p>
         </div>
 
-        {/* Data Source Options */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
-          {/* Bey & Associates (Sample Data) */}
-          <Card className="relative overflow-hidden p-4 flex flex-col">
-            <CardHeader className="pb-2">
-              <div className="flex items-center gap-2">
-                <Building2 className="h-5 w-5 text-blue-500" />
-                <CardTitle className="text-base">Bey & Associates</CardTitle>
+        {/* Main Options */}
+        <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto mb-16">
+          {/* Analyze Option */}
+          <Card className="relative overflow-hidden group hover:shadow-lg transition-shadow flex flex-col">
+            <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-transparent" />
+            <CardHeader className="relative p-6 pb-4">
+              <div className="flex items-center gap-3 mb-2">
+                <div className="p-3 rounded-xl bg-blue-500/10">
+                  <BarChart3 className="h-8 w-8 text-blue-500" />
+                </div>
+                <div>
+                  <CardTitle className="text-2xl">Analyze</CardTitle>
+                  <CardDescription className="text-base">
+                    Deep dive into a single firm&apos;s data
+                  </CardDescription>
+                </div>
               </div>
-              <CardDescription className="text-xs">
-                Sample call data from Bey & Associates law firm with full transcripts.
-              </CardDescription>
             </CardHeader>
-            <CardContent className="pt-4 flex flex-col items-center justify-center flex-1">
-              <Button
-                size="default"
-                onClick={() => handleLoadData('sample')}
-                disabled={isLoading}
-                className="gap-2 w-full"
-              >
-                {loadingSource === 'sample' ? (
-                  <>
-                    <Loader2 className="h-4 w-4 animate-spin" />
-                    Loading...
-                  </>
-                ) : (
-                  <>
-                    Load Data
-                    <ArrowRight className="h-4 w-4" />
-                  </>
-                )}
-              </Button>
-              <p className="text-xs text-muted-foreground mt-3 text-center">
-                1,000+ call records
+            <CardContent className="relative flex flex-col flex-1 p-6 pt-0">
+              <p className="text-muted-foreground mb-4">
+                Select from pre-loaded firm data or upload your own. Explore call flows with interactive
+                Sankey diagrams, heatmaps, and detailed transcripts.
               </p>
+              <div className="flex flex-wrap gap-2 text-sm mb-6">
+                <span className="px-2 py-1 bg-muted rounded-md flex items-center gap-1">
+                  <GitBranch className="h-3 w-3" /> Flow Analysis
+                </span>
+                <span className="px-2 py-1 bg-muted rounded-md flex items-center gap-1">
+                  <Grid3X3 className="h-3 w-3" /> Heatmaps
+                </span>
+                <span className="px-2 py-1 bg-muted rounded-md flex items-center gap-1">
+                  <FileSearch className="h-3 w-3" /> Deep Dive
+                </span>
+              </div>
+              <div className="mt-auto">
+                <Link href="/analyze">
+                  <Button className="w-full gap-2" size="lg">
+                    Start Analysis
+                    <ArrowRight className="h-4 w-4" />
+                  </Button>
+                </Link>
+              </div>
             </CardContent>
           </Card>
 
-          {/* McCraw Law */}
-          <Card className="relative overflow-hidden p-4 flex flex-col">
-            <CardHeader className="pb-2">
-              <div className="flex items-center gap-2">
-                <Scale className="h-5 w-5 text-amber-500" />
-                <CardTitle className="text-base">McCraw Law</CardTitle>
+          {/* Compare Option */}
+          <Card className="relative overflow-hidden group hover:shadow-lg transition-shadow flex flex-col">
+            <div className="absolute inset-0 bg-gradient-to-br from-purple-500/10 to-transparent" />
+            <CardHeader className="relative p-6 pb-4">
+              <div className="flex items-center gap-3 mb-2">
+                <div className="p-3 rounded-xl bg-purple-500/10">
+                  <GitCompareArrows className="h-8 w-8 text-purple-500" />
+                </div>
+                <div>
+                  <CardTitle className="text-2xl">Compare</CardTitle>
+                  <CardDescription className="text-base">
+                    Side-by-side firm comparison
+                  </CardDescription>
+                </div>
               </div>
-              <CardDescription className="text-xs">
-                Call data from McCraw Law with Gemini-generated transcripts and analysis.
-              </CardDescription>
             </CardHeader>
-            <CardContent className="pt-4 flex flex-col items-center justify-center flex-1">
-              <Button
-                size="default"
-                onClick={() => handleLoadData('mccraw')}
-                disabled={isLoading}
-                className="gap-2 w-full"
-              >
-                {loadingSource === 'mccraw' ? (
-                  <>
-                    <Loader2 className="h-4 w-4 animate-spin" />
-                    Loading...
-                  </>
-                ) : (
-                  <>
-                    Load Data
-                    <ArrowRight className="h-4 w-4" />
-                  </>
-                )}
-              </Button>
-              <p className="text-xs text-muted-foreground mt-3 text-center">
-                486 call records
+            <CardContent className="relative flex flex-col flex-1 p-6 pt-0">
+              <p className="text-muted-foreground mb-4">
+                Compare metrics and call flows across multiple firms simultaneously.
+                Universal filters ensure you&apos;re comparing the same categories.
               </p>
-            </CardContent>
-          </Card>
-
-          {/* VAPI Data */}
-          <Card className="relative overflow-hidden p-4 flex flex-col">
-            <CardHeader className="pb-2">
-              <div className="flex items-center gap-2">
-                <Phone className="h-5 w-5 text-green-500" />
-                <CardTitle className="text-base">VAPI</CardTitle>
+              <div className="flex flex-wrap gap-2 text-sm mb-6">
+                <span className="px-2 py-1 bg-muted rounded-md">Side-by-Side Sankey</span>
+                <span className="px-2 py-1 bg-muted rounded-md">Universal Filters</span>
+                <span className="px-2 py-1 bg-muted rounded-md">Metrics Charts</span>
               </div>
-              <CardDescription className="text-xs">
-                VAPI call records with AI-generated analysis and full transcripts.
-              </CardDescription>
-            </CardHeader>
-            <CardContent className="pt-4 flex flex-col items-center justify-center flex-1">
-              <Button
-                size="default"
-                onClick={() => handleLoadData('vapi')}
-                disabled={isLoading}
-                className="gap-2 w-full"
-              >
-                {loadingSource === 'vapi' ? (
-                  <>
-                    <Loader2 className="h-4 w-4 animate-spin" />
-                    Loading...
-                  </>
-                ) : (
-                  <>
-                    Load Data
+              <div className="mt-auto">
+                <Link href="/compare">
+                  <Button variant="secondary" className="w-full gap-2" size="lg">
+                    Compare Firms
                     <ArrowRight className="h-4 w-4" />
-                  </>
-                )}
-              </Button>
-              <p className="text-xs text-muted-foreground mt-3 text-center">
-                730 call records
-              </p>
-            </CardContent>
-          </Card>
-
-          {/* Upload Folder */}
-          <Card className="relative overflow-hidden p-4 flex flex-col">
-            <CardHeader className="pb-2">
-              <div className="flex items-center gap-2">
-                <Upload className="h-5 w-5 text-purple-500" />
-                <CardTitle className="text-base">Upload Data</CardTitle>
+                  </Button>
+                </Link>
               </div>
-              <CardDescription className="text-xs">
-                Select a folder with JSON metadata and TXT transcripts.
-              </CardDescription>
-            </CardHeader>
-            <CardContent className="pt-4">
-              <FolderUploader compact />
             </CardContent>
           </Card>
         </div>
 
         {/* Features */}
-        <div className="mt-16 text-center">
-          <h2 className="text-2xl font-semibold mb-8">Features</h2>
-          <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+        <div className="text-center">
+          <h2 className="text-2xl font-semibold mb-8">Key Features</h2>
+          <div className="grid md:grid-cols-4 gap-6 max-w-5xl mx-auto">
             <div className="p-4">
-              <h3 className="font-semibold mb-2">Interactive Sankey Diagram</h3>
+              <div className="h-10 w-10 rounded-lg bg-primary/10 flex items-center justify-center mx-auto mb-3">
+                <GitBranch className="h-5 w-5 text-primary" />
+              </div>
+              <h3 className="font-semibold mb-2">Interactive Sankey</h3>
               <p className="text-sm text-muted-foreground">
-                Visualize call flows from resolution status through types, transfer outcomes, and destinations.
+                Visualize call flows from resolution through outcomes
               </p>
             </div>
             <div className="p-4">
+              <div className="h-10 w-10 rounded-lg bg-primary/10 flex items-center justify-center mx-auto mb-3">
+                <Grid3X3 className="h-5 w-5 text-primary" />
+              </div>
               <h3 className="font-semibold mb-2">Multi-Dimensional Heatmaps</h3>
               <p className="text-sm text-muted-foreground">
-                Explore correlations between resolution types, caller types, and primary intents.
+                Explore correlations between call dimensions
               </p>
             </div>
             <div className="p-4">
+              <div className="h-10 w-10 rounded-lg bg-primary/10 flex items-center justify-center mx-auto mb-3">
+                <FileSearch className="h-5 w-5 text-primary" />
+              </div>
               <h3 className="font-semibold mb-2">7-Axis Filtering</h3>
               <p className="text-sm text-muted-foreground">
-                Filter by resolution type, status, caller, intent, transfer outcome, duration, and multi-case.
+                Filter by resolution, caller, intent, transfers, and more
+              </p>
+            </div>
+            <div className="p-4">
+              <div className="h-10 w-10 rounded-lg bg-primary/10 flex items-center justify-center mx-auto mb-3">
+                <GitCompareArrows className="h-5 w-5 text-primary" />
+              </div>
+              <h3 className="font-semibold mb-2">Firm Comparison</h3>
+              <p className="text-sm text-muted-foreground">
+                Compare performance metrics side-by-side
               </p>
             </div>
           </div>

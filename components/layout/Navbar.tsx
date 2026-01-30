@@ -4,12 +4,12 @@ import { useState } from 'react';
 import { useHydrated } from '@/lib/hooks';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
-import { GitBranch, Grid3X3, FileSearch, LogOut, Menu, BookOpen, Building2, Scale, Phone, Upload, ChevronDown, Loader2 } from 'lucide-react';
+import { GitBranch, Grid3X3, FileSearch, LogOut, Menu, BookOpen, Building2, Scale, Phone, Upload, ChevronDown, Loader2, MoreVertical, Moon, Sun, ChevronsUpDown, BarChart3, GitCompareArrows } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { HelloCounselLogo } from '@/components/logo';
-import { ThemeToggle } from '@/components/theme-toggle';
 import { useCallDataStore } from '@/store/callDataStore';
 import { cn } from '@/lib/utils';
+import { useTheme } from 'next-themes';
 import {
   Sheet,
   SheetContent,
@@ -43,6 +43,7 @@ export function Navbar() {
   const hydrated = useHydrated();
   const pathname = usePathname();
   const router = useRouter();
+  const { setTheme } = useTheme();
   const { clearData, stats, dataSource, setFiles, setDataSource, setLoading, setError } = useCallDataStore();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [isLoadingSource, setIsLoadingSource] = useState<DataSourceId | null>(null);
@@ -80,15 +81,44 @@ export function Navbar() {
   const CurrentIcon = currentSource?.icon || Building2;
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+    <header className="sticky top-0 z-50 w-full border-b bg-background">
       <div className="flex h-14 items-center px-4 gap-4">
-        {/* Logo - width matches sidebar on lg screens for tab alignment */}
-        <Link href="/" className="flex items-center gap-2 shrink-0 lg:w-[calc(18rem-1rem)]">
-          <HelloCounselLogo className="h-6" />
-          <span className="hidden sm:inline-block text-sm font-medium text-muted-foreground">
-            Analytics
-          </span>
-        </Link>
+        {/* Logo + Mode Switcher - width matches sidebar on lg screens */}
+        <div className="flex items-center gap-2 shrink-0 lg:w-[calc(18rem-1rem)]">
+          <Link href="/" className="flex items-center shrink-0">
+            <HelloCounselLogo className="h-6" />
+          </Link>
+
+          {/* Mode Switcher */}
+          {hydrated ? (
+            <DropdownMenu>
+              <DropdownMenuTrigger asChild>
+                <Button variant="ghost" size="sm" className="gap-1 text-muted-foreground hover:text-foreground">
+                  <BarChart3 className="h-4 w-4" />
+                  <span className="hidden sm:inline">Analyze</span>
+                  <ChevronsUpDown className="h-3 w-3 opacity-50" />
+                </Button>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent align="start" className="w-48">
+                <DropdownMenuItem className="gap-2 bg-accent">
+                  <BarChart3 className="h-4 w-4" />
+                  Analyze
+                  <span className="ml-auto text-xs text-muted-foreground">Active</span>
+                </DropdownMenuItem>
+                <DropdownMenuItem onClick={() => router.push('/compare')} className="gap-2">
+                  <GitCompareArrows className="h-4 w-4" />
+                  Compare
+                </DropdownMenuItem>
+              </DropdownMenuContent>
+            </DropdownMenu>
+          ) : (
+            <Button variant="ghost" size="sm" className="gap-1 text-muted-foreground" disabled>
+              <BarChart3 className="h-4 w-4" />
+              <span className="hidden sm:inline">Analyze</span>
+              <ChevronsUpDown className="h-3 w-3 opacity-50" />
+            </Button>
+          )}
+        </div>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center gap-1 flex-1">
@@ -188,6 +218,46 @@ export function Navbar() {
                     </Button>
                   </div>
                 </div>
+
+                {/* Mobile Settings */}
+                <div className="mt-6 pt-6 border-t">
+                  <p className="text-xs text-muted-foreground mb-2 px-2">Settings</p>
+                  <div className="flex flex-col gap-1">
+                    <Button
+                      variant="ghost"
+                      className="w-full justify-start gap-2 h-11"
+                      onClick={() => {
+                        setTheme('light');
+                        setMobileMenuOpen(false);
+                      }}
+                    >
+                      <Sun className="h-4 w-4" />
+                      Light Mode
+                    </Button>
+                    <Button
+                      variant="ghost"
+                      className="w-full justify-start gap-2 h-11"
+                      onClick={() => {
+                        setTheme('dark');
+                        setMobileMenuOpen(false);
+                      }}
+                    >
+                      <Moon className="h-4 w-4" />
+                      Dark Mode
+                    </Button>
+                    <Button
+                      variant="ghost"
+                      className="w-full justify-start gap-2 h-11 text-red-500 hover:text-red-600"
+                      onClick={() => {
+                        handleChangeData();
+                        setMobileMenuOpen(false);
+                      }}
+                    >
+                      <LogOut className="h-4 w-4" />
+                      Exit
+                    </Button>
+                  </div>
+                </div>
               </SheetContent>
             </Sheet>
           ) : (
@@ -251,16 +321,35 @@ export function Navbar() {
             </span>
           )}
 
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={handleChangeData}
-            className="gap-2"
-          >
-            <LogOut className="h-4 w-4" />
-            <span className="hidden sm:inline">Exit</span>
-          </Button>
-          <ThemeToggle />
+          {/* 3-dot overflow menu */}
+          {hydrated ? (
+            <DropdownMenu>
+              <DropdownMenuTrigger asChild>
+                <Button variant="ghost" size="icon" className="h-9 w-9">
+                  <MoreVertical className="h-4 w-4" />
+                </Button>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent align="end" className="w-48">
+                <DropdownMenuItem onClick={() => setTheme('light')} className="gap-2">
+                  <Sun className="h-4 w-4" />
+                  Light Mode
+                </DropdownMenuItem>
+                <DropdownMenuItem onClick={() => setTheme('dark')} className="gap-2">
+                  <Moon className="h-4 w-4" />
+                  Dark Mode
+                </DropdownMenuItem>
+                <DropdownMenuSeparator />
+                <DropdownMenuItem onClick={handleChangeData} className="gap-2 text-red-500 focus:text-red-500">
+                  <LogOut className="h-4 w-4" />
+                  Exit
+                </DropdownMenuItem>
+              </DropdownMenuContent>
+            </DropdownMenu>
+          ) : (
+            <Button variant="ghost" size="icon" className="h-9 w-9" disabled>
+              <MoreVertical className="h-4 w-4" />
+            </Button>
+          )}
         </div>
       </div>
     </header>
