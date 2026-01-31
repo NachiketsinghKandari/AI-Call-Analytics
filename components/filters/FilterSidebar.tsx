@@ -20,6 +20,7 @@ import type { AchievedStatus, TransferStatus, MultiCaseStatus } from '@/lib/type
 import {
   RESOLUTION_TYPE_DEFINITIONS,
   CALLER_TYPE_DEFINITIONS,
+  ACHIEVED_STATUS_DEFINITIONS,
   getDefinition,
 } from '@/lib/definitions';
 
@@ -325,6 +326,7 @@ export function FilterSidebar() {
           <div className="space-y-2">
             {(['resolved', 'unresolved', 'unknown'] as AchievedStatus[]).map((status) => {
               const count = achievedCounts.get(status)?.count || 0;
+              const definition = getDefinition(ACHIEVED_STATUS_DEFINITIONS, status);
               return (
                 <div key={status} className="flex items-center space-x-2">
                   <Checkbox
@@ -334,8 +336,18 @@ export function FilterSidebar() {
                       handleAchievedChange(status, checked as boolean)
                     }
                   />
-                  <Label htmlFor={`achieved-${status}`} className="flex-1 text-sm cursor-pointer capitalize">
+                  <Label htmlFor={`achieved-${status}`} className="flex-1 text-sm cursor-pointer capitalize flex items-center gap-1">
                     {status}
+                    {definition && (
+                      <Tooltip>
+                        <TooltipTrigger asChild>
+                          <Info className="h-3 w-3 text-muted-foreground/50 hover:text-muted-foreground cursor-help" />
+                        </TooltipTrigger>
+                        <TooltipContent side="right" className="max-w-[250px]">
+                          <p className="text-xs">{definition.description}</p>
+                        </TooltipContent>
+                      </Tooltip>
+                    )}
                   </Label>
                   <span className="text-xs text-muted-foreground tabular-nums">{formatCountWithPercent(count, filteredFiles.length)}</span>
                 </div>

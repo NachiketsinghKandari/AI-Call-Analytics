@@ -17,6 +17,24 @@ export interface CategoryDefinition {
   fields: FieldDefinition[];
 }
 
+export const ACHIEVED_STATUS_DEFINITIONS: FieldDefinition[] = [
+  {
+    value: 'resolved',
+    label: 'Resolved',
+    description: 'The receptionist completed a valid operational end-state: transfer path entered, fallback accepted (message taken, callback scheduled), or direct service completed (question answered, info provided, intake finished).',
+  },
+  {
+    value: 'unresolved',
+    label: 'Unresolved',
+    description: 'The call ended without a completed next step: transfer failed with no fallback accepted, call ended before next steps agreed, or caller gave no contact info for follow-up.',
+  },
+  {
+    value: 'unknown',
+    label: 'Unknown',
+    description: 'Resolution status could not be determined from the transcript.',
+  },
+];
+
 export const CALLER_TYPE_DEFINITIONS: FieldDefinition[] = [
   {
     value: 'insurance_rep',
