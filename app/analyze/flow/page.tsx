@@ -105,20 +105,47 @@ export default function FlowPage() {
     return applyAllFilters(files, filters);
   }, [files, filters]);
 
-  // Force a preset toggle on initial mount to ensure Plotly click handlers are properly bound
-  // Always start on 'resolution' preset for consistent first-load experience
+  // ===================================================================================
+  // IMPORTANT: Plotly Click Handler Bug Workaround - Part 2
+  // ===================================================================================
+  // This preset toggle works in conjunction with PlotlySankey's mount state machine.
+  // Plotly's click handlers don't work on initial render - they only start working
+  // after a "real" data change happens post-initialization.
+  //
+  // The PlotlySankey component handles the unmount/remount cycle (0-400ms).
+  // This effect then triggers a preset toggle (500-700ms) AFTER that cycle completes,
+  // which causes a final re-render with properly bound click handlers.
+  //
+  // Timeline:
+  //   0-400ms:   PlotlySankey mount cycle (waiting -> mounted -> remounting -> ready)
+  //   500ms:     This effect switches preset to 'transfer'
+  //   700ms:     This effect switches back to 'resolution'
+  //   After:     Click handlers work correctly
+  //
+  // DO NOT REMOVE OR "OPTIMIZE" THIS - it's not a bug, it's a bug prevention mechanism.
+  // Without this, users cannot click on Sankey links to see file details.
+  // ===================================================================================
   useEffect(() => {
-    // Wait for Plot to initialize, then toggle to 'transfer' briefly
-    const timer1 = setTimeout(() => {
-      setSankeyOptions({ preset: 'transfer' as SankeyPreset });
-    }, 150);
+    console.log('[FlowPage] Mount effect triggered');
+    console.log('[FlowPage] Current state - files:', files.length, 'hydrated:', hydrated, 'preset:', sankeyOptions.preset);
+    console.log('[FlowPage] Will toggle after mount settles: current -> transfer -> resolution');
 
-    // Switch back to 'resolution' - everyone starts here on first load
+    // Wait for PlotlySankey mount cycle to complete (400ms), then toggle
+    // Step 1: Switch to transfer (at 500ms, after mount cycle)
+    const timer1 = setTimeout(() => {
+      console.log('[FlowPage] AUTO-TOGGLE Step 1: Switching to transfer');
+      setSankeyOptions({ preset: 'transfer' as SankeyPreset });
+    }, 500);
+
+    // Step 2: Switch back to resolution (at 700ms)
     const timer2 = setTimeout(() => {
+      console.log('[FlowPage] AUTO-TOGGLE Step 2: Switching back to resolution');
       setSankeyOptions({ preset: 'resolution' as SankeyPreset });
-    }, 300);
+      console.log('[FlowPage] AUTO-TOGGLE Complete - click handlers should work now');
+    }, 700);
 
     return () => {
+      console.log('[FlowPage] Cleanup - clearing timers');
       clearTimeout(timer1);
       clearTimeout(timer2);
     };
@@ -229,6 +256,7 @@ export default function FlowPage() {
   };
 
   const handlePresetChange = (preset: string) => {
+    console.log('[FlowPage] USER-TOGGLE: User changed preset to', preset);
     setSankeyOptions({ preset: preset as SankeyPreset });
   };
 

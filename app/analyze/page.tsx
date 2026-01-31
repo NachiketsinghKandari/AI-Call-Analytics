@@ -18,10 +18,10 @@ export default function AnalyzePage() {
   const { files, dataSource, setLoading, setFiles, setDataSource, setError } = useCallDataStore();
   const [loadingSource, setLoadingSource] = useState<DataSourceLoading>('none');
 
-  // Redirect to dashboard if data is loaded
+  // Redirect to flow analysis if data is loaded
   useEffect(() => {
     if (files.length > 0 && dataSource !== 'none') {
-      router.push('/dashboard/flow');
+      router.push('/analyze/flow');
     }
   }, [files, dataSource, router]);
 
@@ -44,7 +44,7 @@ export default function AnalyzePage() {
       const data = await response.json();
       setFiles(data.files);
       setDataSource(source);
-      router.push('/dashboard/flow');
+      router.push('/analyze/flow');
     } catch (err) {
       setError(err instanceof Error ? err.message : `Failed to load ${source} data`);
       setLoadingSource('none');

@@ -7,12 +7,11 @@ import {
   DialogHeader,
   DialogTitle,
   DialogDescription,
-  DialogFooter,
 } from '@/components/ui/dialog';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { CopyButton } from '@/components/ui/copy-button';
-import { ChevronLeft, ChevronRight, Headphones } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Headphones, X } from 'lucide-react';
 import type { FileInfo } from '@/lib/types';
 import { AudioPlayer } from './AudioPlayer';
 
@@ -134,9 +133,42 @@ export function FileViewerModal({
 
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className={modalClass}>
+      <DialogContent className={modalClass} showCloseButton={false}>
+        {/* Top-right navigation and close controls */}
+        <div className="absolute top-4 right-4 flex items-center gap-1 z-10">
+          <Button
+            variant="ghost"
+            size="icon"
+            className="h-6 w-6 opacity-70 hover:opacity-100"
+            onClick={goToPrevious}
+            disabled={!hasPrevious}
+          >
+            <ChevronLeft className="h-4 w-4" />
+          </Button>
+          <span className="text-xs text-muted-foreground min-w-[3rem] text-center">
+            {currentIndex + 1}/{totalFiles}
+          </span>
+          <Button
+            variant="ghost"
+            size="icon"
+            className="h-6 w-6 opacity-70 hover:opacity-100"
+            onClick={goToNext}
+            disabled={!hasNext}
+          >
+            <ChevronRight className="h-4 w-4" />
+          </Button>
+          <Button
+            variant="ghost"
+            size="icon"
+            className="h-6 w-6 opacity-70 hover:opacity-100"
+            onClick={() => onOpenChange(false)}
+          >
+            <X className="h-4 w-4" />
+          </Button>
+        </div>
+
         {/* Header */}
-        <DialogHeader className="flex-shrink-0">
+        <DialogHeader className="flex-shrink-0 pr-32">
           <DialogTitle className="flex items-center gap-2 pr-8">
             {firmName && (
               <Badge
@@ -189,17 +221,18 @@ export function FileViewerModal({
               </span>
             </span>
           </DialogDescription>
-          {/* Audio Player - only shown when audioUrl is present */}
-          {file.audioUrl && (
-            <div className="mt-3">
-              <div className="flex items-center gap-2 mb-2">
-                <Headphones className="h-4 w-4 text-muted-foreground" />
-                <span className="text-sm text-muted-foreground">Call Recording</span>
-              </div>
-              <AudioPlayer src={file.audioUrl} />
-            </div>
-          )}
         </DialogHeader>
+
+        {/* Audio Player - outside header for full width alignment */}
+        {file.audioUrl && (
+          <div className="flex-shrink-0">
+            <div className="flex items-center gap-2 mb-2">
+              <Headphones className="h-4 w-4 text-muted-foreground" />
+              <span className="text-sm text-muted-foreground">Call Recording</span>
+            </div>
+            <AudioPlayer src={file.audioUrl} />
+          </div>
+        )}
 
         {/* Side-by-side content */}
         <div className="flex-1 grid grid-cols-1 lg:grid-cols-2 gap-4 min-h-0">
@@ -226,35 +259,6 @@ export function FileViewerModal({
           </div>
         </div>
 
-        {/* Footer with navigation */}
-        <DialogFooter className="flex-shrink-0 border-t pt-4">
-          <div className="flex items-center justify-between w-full gap-2">
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={goToPrevious}
-              disabled={!hasPrevious}
-              className="gap-1 h-10 px-3 sm:px-4"
-            >
-              <ChevronLeft className="h-4 w-4" />
-              <span className="hidden sm:inline">Previous</span>
-              <span className="sm:hidden">Prev</span>
-            </Button>
-            <span className="text-xs sm:text-sm text-muted-foreground text-center">
-              {currentIndex + 1} / {totalFiles}
-            </span>
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={goToNext}
-              disabled={!hasNext}
-              className="gap-1 h-10 px-3 sm:px-4"
-            >
-              <span>Next</span>
-              <ChevronRight className="h-4 w-4" />
-            </Button>
-          </div>
-        </DialogFooter>
       </DialogContent>
     </Dialog>
   );

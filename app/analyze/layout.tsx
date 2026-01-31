@@ -1,27 +1,38 @@
 'use client';
 
-import { useRouter } from 'next/navigation';
+import { useRouter, usePathname } from 'next/navigation';
 import { useEffect } from 'react';
 import { Navbar } from '@/components/layout/Navbar';
 import { FilterSidebar } from '@/components/filters/FilterSidebar';
 import { MobileFilterSheet } from '@/components/filters/MobileFilterSheet';
 import { useCallDataStore } from '@/store/callDataStore';
 
-export default function DashboardLayout({
+export default function AnalyzeLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
   const router = useRouter();
+  const pathname = usePathname();
   const { files, dataSource } = useCallDataStore();
 
-  // Redirect to home if no data
-  useEffect(() => {
-    if (files.length === 0 && dataSource === 'none') {
-      router.push('/');
-    }
-  }, [files, dataSource, router]);
+  // Check if we're on the data selection page or a dashboard sub-route
+  const isDataSelectionPage = pathname === '/analyze';
+  const isDashboardRoute = !isDataSelectionPage;
 
+  // Redirect to data selection if no data and trying to access dashboard routes
+  useEffect(() => {
+    if (isDashboardRoute && files.length === 0 && dataSource === 'none') {
+      router.push('/analyze');
+    }
+  }, [files, dataSource, router, isDashboardRoute]);
+
+  // Data selection page - render without navbar/sidebar (it has its own header)
+  if (isDataSelectionPage) {
+    return <>{children}</>;
+  }
+
+  // Dashboard routes - render with navbar and sidebar
   return (
     <div className="flex flex-col h-screen">
       {/* Top Navbar */}

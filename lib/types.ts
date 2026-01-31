@@ -59,6 +59,7 @@ export interface FilterState {
   callerTypes: string[];
   primaryIntents: string[];
   transferStatus: TransferStatus[];
+  transferDestinations: string[];
   durationRange: [number, number];
   includeUnknownDuration: boolean;
   multiCase: MultiCaseStatus[];
@@ -72,6 +73,7 @@ export interface DataStats {
   resolutionTypes: string[];
   callerTypes: string[];
   primaryIntents: string[];
+  transferDestinations: string[];
   durationRange: [number, number];
   // VAPI-specific stats (empty arrays for non-VAPI data)
   assistantIds: string[];

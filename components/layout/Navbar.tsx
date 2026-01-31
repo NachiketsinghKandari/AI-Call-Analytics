@@ -25,10 +25,10 @@ import {
 } from '@/components/ui/dropdown-menu';
 
 const navItems = [
-  { href: '/dashboard/flow', label: 'Flow Analysis', icon: GitBranch },
-  { href: '/dashboard/heatmap', label: 'Heatmap Analysis', icon: Grid3X3 },
-  { href: '/dashboard/deep-dive', label: 'Deep Dive', icon: FileSearch },
-  { href: '/dashboard/info', label: 'Definitions', icon: BookOpen },
+  { href: '/analyze/flow', label: 'Flow Analysis', icon: GitBranch },
+  { href: '/analyze/heatmap', label: 'Heatmap Analysis', icon: Grid3X3 },
+  { href: '/analyze/deep-dive', label: 'Deep Dive', icon: FileSearch },
+  { href: '/analyze/info', label: 'Definitions', icon: BookOpen },
 ];
 
 const dataSources = [
@@ -51,6 +51,11 @@ export function Navbar() {
   const handleChangeData = () => {
     clearData();
     router.push('/');
+  };
+
+  const handleUploadData = () => {
+    clearData();
+    router.push('/analyze');
   };
 
   const handleLoadSource = async (sourceId: DataSourceId) => {
@@ -209,7 +214,7 @@ export function Navbar() {
                       variant="ghost"
                       className="w-full justify-start gap-2 h-11"
                       onClick={() => {
-                        handleChangeData();
+                        handleUploadData();
                         setMobileMenuOpen(false);
                       }}
                     >
@@ -306,7 +311,7 @@ export function Navbar() {
                   );
                 })}
                 <DropdownMenuSeparator />
-                <DropdownMenuItem onClick={handleChangeData} className="gap-2">
+                <DropdownMenuItem onClick={handleUploadData} className="gap-2">
                   <Upload className="h-4 w-4 text-purple-500" />
                   Upload Data
                 </DropdownMenuItem>

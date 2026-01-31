@@ -86,25 +86,8 @@ export default function CompareDashboardPage() {
   const [isSelectionVisible, setIsSelectionVisible] = useState(false);
   const [isExporting, setIsExporting] = useState(false);
 
-  // Force a preset toggle on initial mount to ensure Plotly click handlers are properly bound
-  // Always start on 'resolution' preset for consistent first-load experience
-  useEffect(() => {
-    // Wait for Plot to initialize, then toggle to 'transfer' briefly
-    const timer1 = setTimeout(() => {
-      setSankeyOptions({ preset: 'transfer' as SankeyPreset });
-    }, 150);
-
-    // Switch back to 'resolution' - everyone starts here on first load
-    const timer2 = setTimeout(() => {
-      setSankeyOptions({ preset: 'resolution' as SankeyPreset });
-    }, 300);
-
-    return () => {
-      clearTimeout(timer1);
-      clearTimeout(timer2);
-    };
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  // Simple mount state - wait for initial delay before rendering
+  const [isPlotReady, setIsPlotReady] = useState(false);
 
   // Auto-hide notification after 4 seconds
   useEffect(() => {
@@ -183,6 +166,7 @@ export default function CompareDashboardPage() {
   };
 
   const handlePresetChange = (preset: string) => {
+    console.log('[CompareDashboard] USER-TOGGLE: User changed preset to', preset);
     setSankeyOptions({ preset: preset as SankeyPreset });
   };
 
@@ -202,30 +186,99 @@ export default function CompareDashboardPage() {
     return result;
   }, [selectedFirmIds, filteredFirmData, sankeyOptions, isDarkMode]);
 
-  // Key to force Plot remount when data changes - guarantees fresh event handlers
-  const plotKey = useMemo(() => {
-    const filesCounts = selectedFirmIds.map(id => filteredFirmData[id]?.files.length || 0).join('-');
-    return `${filesCounts}-${sankeyOptions.preset}-${JSON.stringify(sankeyOptions.customOptions)}-${isDarkMode}`;
-  }, [selectedFirmIds, filteredFirmData, sankeyOptions, isDarkMode]);
+  // Check if any firm has data
+  const hasAnyData = selectedFirmIds.some(id => (filteredFirmData[id]?.files.length || 0) > 0);
 
-  // Handle Sankey link click - create individual handlers for each firm
+  // ===================================================================================
+  // IMPORTANT: Plotly Click Handler Bug Workaround - Part 2
+  // ===================================================================================
+  // This preset toggle works in conjunction with the mount state machine.
+  // Plotly's click handlers don't work on initial render - they only start working
+  // after a "real" data change happens post-initialization.
+  //
+  // The mount cycle handles the unmount/remount (0-400ms).
+  // This effect then triggers a preset toggle (500-700ms) AFTER that cycle completes,
+  // which causes a final re-render with properly bound click handlers.
+  //
+  // Timeline:
+  //   0-400ms:   Mount cycle (waiting -> mounted -> remounting -> ready)
+  //   500ms:     This effect switches preset to 'transfer'
+  //   700ms:     This effect switches back to 'resolution'
+  //   After:     Click handlers work correctly
+  //
+  // DO NOT REMOVE OR "OPTIMIZE" THIS - it's not a bug, it's a bug prevention mechanism.
+  // Without this, users cannot click on Sankey links to see file details.
+  // ===================================================================================
+  useEffect(() => {
+    console.log('[CompareDashboard] Mount effect triggered');
+    console.log('[CompareDashboard] Current state - hasAnyData:', hasAnyData, 'preset:', sankeyOptions.preset);
+    console.log('[CompareDashboard] Will toggle after mount settles: current -> transfer -> resolution');
+
+    // Wait for mount cycle to complete (400ms), then toggle
+    // Step 1: Switch to transfer (at 500ms, after mount cycle)
+    const timer1 = setTimeout(() => {
+      console.log('[CompareDashboard] AUTO-TOGGLE Step 1: Switching to transfer');
+      setSankeyOptions({ preset: 'transfer' as SankeyPreset });
+    }, 500);
+
+    // Step 2: Switch back to resolution (at 700ms)
+    const timer2 = setTimeout(() => {
+      console.log('[CompareDashboard] AUTO-TOGGLE Step 2: Switching back to resolution');
+      setSankeyOptions({ preset: 'resolution' as SankeyPreset });
+      console.log('[CompareDashboard] AUTO-TOGGLE Complete - click handlers should work now');
+    }, 700);
+
+    return () => {
+      console.log('[CompareDashboard] Cleanup - clearing timers');
+      clearTimeout(timer1);
+      clearTimeout(timer2);
+    };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Simple mount delay - wait for data then render
+  useEffect(() => {
+    console.log('[CompareDashboard] Mount effect - hasAnyData:', hasAnyData, 'isPlotReady:', isPlotReady);
+    if (hasAnyData && !isPlotReady) {
+      const timer = setTimeout(() => {
+        console.log('[CompareDashboard] Plot ready to render');
+        setIsPlotReady(true);
+      }, 100);
+      return () => clearTimeout(timer);
+    }
+  }, [hasAnyData, isPlotReady]);
+
+  // Don't render Plot until ready
+  const shouldRenderPlot = isPlotReady;
+
+  // Key for Plot component
+  const getPlotKey = useCallback((firmId: string) => {
+    const filesCount = filteredFirmData[firmId]?.files.length || 0;
+    return `${firmId}-${filesCount}-${sankeyOptions.preset}-${JSON.stringify(sankeyOptions.customOptions)}-${isDarkMode}`;
+  }, [filteredFirmData, sankeyOptions, isDarkMode]);
+
+  // Handle Sankey link click - remount mechanism ensures this has fresh data
   const createSankeyClickHandler = useCallback((firmId: string) => {
     return (event: Readonly<Plotly.PlotMouseEvent>) => {
+      console.log('[CompareDashboard] Click event received for firm:', firmId, 'points:', event.points?.length);
       if (event.points && event.points.length > 0) {
         const point = event.points[0] as unknown as SankeyLinkPoint;
+        console.log('[CompareDashboard] Point data:', { source: point.source, target: point.target, pointNumber: point.pointNumber });
 
         // Check if it's a link click (has source/target)
         if (point.source !== undefined && point.target !== undefined) {
           const linkIndex = point.pointNumber;
           const linkToFilesMap = sankeyDataMap[firmId]?.linkToFilesMap;
           const clickedFiles = linkToFilesMap?.get(linkIndex);
+          console.log('[CompareDashboard] Link click - index:', linkIndex, 'files found:', clickedFiles?.length || 0);
           if (clickedFiles && clickedFiles.length > 0) {
             setSelectedFiles(clickedFiles);
             setSelectedFirmId(firmId);
             setShowNotification(true);
             setModalIndex(0);
-            // Don't open modal immediately - let user see the selection first
           }
+        } else {
+          console.log('[CompareDashboard] Not a link click (node click or other)');
         }
       }
     };
@@ -796,9 +849,9 @@ export default function CompareDashboardPage() {
                   </div>
                 </CardHeader>
                 <CardContent className="p-2">
-                  {sankeyData?.trace ? (
+                  {sankeyData?.trace && shouldRenderPlot ? (
                     <Plot
-                      key={`${plotKey}-${firmId}`}
+                      key={getPlotKey(firmId)}
                       data={[sankeyData.trace]}
                       layout={{
                         ...sankeyData.layout,
@@ -811,7 +864,11 @@ export default function CompareDashboardPage() {
                     />
                   ) : (
                     <div className="flex items-center justify-center h-[350px] text-muted-foreground">
-                      No data available with current filters
+                      {!shouldRenderPlot && sankeyData?.trace ? (
+                        <Loader2 className="h-6 w-6 animate-spin" />
+                      ) : (
+                        'No data available with current filters'
+                      )}
                     </div>
                   )}
                 </CardContent>

@@ -39,6 +39,7 @@ const defaultFilters: FilterState = {
   callerTypes: [],
   primaryIntents: [],
   transferStatus: ['successful', 'failed', 'no_transfer'],
+  transferDestinations: [],
   durationRange: [0, 600],
   includeUnknownDuration: true,
   multiCase: ['true', 'false', 'unknown'],
@@ -65,6 +66,7 @@ function computeStats(files: FileInfo[]): DataStats {
   const resolutionTypes = new Set<string>();
   const callerTypes = new Set<string>();
   const primaryIntents = new Set<string>();
+  const transferDestinations = new Set<string>();
   const assistantIds = new Set<string>();
   const squadIds = new Set<string>();
   let minDuration = Infinity;
@@ -75,6 +77,9 @@ function computeStats(files: FileInfo[]): DataStats {
     callerTypes.add(file.caller_type);
     if (file.primary_intent) {
       primaryIntents.add(file.primary_intent);
+    }
+    if (file.transfer_destination) {
+      transferDestinations.add(file.transfer_destination);
     }
     if (file.call_duration !== null) {
       minDuration = Math.min(minDuration, file.call_duration);
@@ -94,6 +99,7 @@ function computeStats(files: FileInfo[]): DataStats {
     resolutionTypes: Array.from(resolutionTypes).sort(),
     callerTypes: Array.from(callerTypes).sort(),
     primaryIntents: Array.from(primaryIntents).sort(),
+    transferDestinations: Array.from(transferDestinations).sort(),
     durationRange: [
       minDuration === Infinity ? 0 : Math.floor(minDuration),
       maxDuration === -Infinity ? 600 : Math.ceil(maxDuration),
@@ -119,14 +125,16 @@ export const useCallDataStore = create<CallDataState>()(
       // Actions
       setFiles: (files) => {
         const stats = computeStats(files);
-        // Include 'none' in assistant/squad filters to show files without these IDs
+        // Include 'none' in assistant/squad/destination filters to show files without these values
         const hasNullAssistant = files.some(f => f.assistantId === null);
         const hasNullSquad = files.some(f => f.squadId === null);
+        const hasNullDestination = files.some(f => f.transfer_destination === null);
         const newFilters: FilterState = {
           ...defaultFilters,
           resolutionTypes: stats.resolutionTypes,
           callerTypes: stats.callerTypes,
           primaryIntents: stats.primaryIntents,
+          transferDestinations: hasNullDestination ? [...stats.transferDestinations, 'none'] : stats.transferDestinations,
           durationRange: stats.durationRange,
           assistantIds: hasNullAssistant ? [...stats.assistantIds, 'none'] : stats.assistantIds,
           squadIds: hasNullSquad ? [...stats.squadIds, 'none'] : stats.squadIds,
@@ -153,15 +161,17 @@ export const useCallDataStore = create<CallDataState>()(
       resetFilters: () => {
         const { stats, files } = get();
         if (stats) {
-          // Include 'none' in assistant/squad filters to show files without these IDs
+          // Include 'none' in assistant/squad/destination filters to show files without these values
           const hasNullAssistant = files.some(f => f.assistantId === null);
           const hasNullSquad = files.some(f => f.squadId === null);
+          const hasNullDestination = files.some(f => f.transfer_destination === null);
           set({
             filters: {
               ...defaultFilters,
               resolutionTypes: stats.resolutionTypes,
               callerTypes: stats.callerTypes,
               primaryIntents: stats.primaryIntents,
+              transferDestinations: hasNullDestination ? [...stats.transferDestinations, 'none'] : stats.transferDestinations,
               durationRange: stats.durationRange,
               assistantIds: hasNullAssistant ? [...stats.assistantIds, 'none'] : stats.assistantIds,
               squadIds: hasNullSquad ? [...stats.squadIds, 'none'] : stats.squadIds,

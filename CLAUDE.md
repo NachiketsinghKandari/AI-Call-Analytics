@@ -25,7 +25,7 @@ This is a **client-side analytics dashboard** for legal call center data. It tra
 
 ### Key Directories
 
-- `app/dashboard/` - Dashboard pages: flow (Sankey), heatmap, deep-dive (file browser), info (definitions)
+- `app/analyze/` - Analysis pages: data selection, flow (Sankey), heatmap, deep-dive (file browser), info (definitions)
 - `lib/` - Core logic:
   - `parser.ts` - JSON/TXT file parsing
   - `filters.ts` - 7-axis filter implementation (all filters AND-ed together)
@@ -77,7 +77,7 @@ Filter axes in `FilterState`:
 **New Sankey preset:**
 1. Create `build*Flow()` function in `lib/sankey.ts`
 2. Add case to `buildSankeyData()` switch
-3. Add entry to `PRESET_INFO` in `app/dashboard/flow/page.tsx`
+3. Add entry to `PRESET_INFO` in `app/analyze/flow/page.tsx`
 
 ### Deployment Notes
 

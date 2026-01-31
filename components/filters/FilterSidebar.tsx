@@ -21,6 +21,7 @@ import {
   RESOLUTION_TYPE_DEFINITIONS,
   CALLER_TYPE_DEFINITIONS,
   ACHIEVED_STATUS_DEFINITIONS,
+  TRANSFER_DESTINATION_DEFINITIONS,
   getDefinition,
 } from '@/lib/definitions';
 
@@ -117,6 +118,10 @@ export function FilterSidebar() {
     return calculateDimensionCounts(filteredFiles, 'transfer');
   }, [filteredFiles]);
 
+  const transferDestinationCounts = useMemo(() => {
+    return calculateDimensionCounts(filteredFiles, 'transfer_destination');
+  }, [filteredFiles]);
+
   const multiCaseCounts = useMemo(() => {
     return calculateDimensionCounts(filteredFiles, 'multi_case');
   }, [filteredFiles]);
@@ -155,6 +160,13 @@ export function FilterSidebar() {
       ? [...filters.transferStatus, status]
       : filters.transferStatus.filter((s) => s !== status);
     setFilters({ transferStatus: newStatus });
+  };
+
+  const handleTransferDestinationChange = (destination: string, checked: boolean) => {
+    const newDestinations = checked
+      ? [...filters.transferDestinations, destination]
+      : filters.transferDestinations.filter((d) => d !== destination);
+    setFilters({ transferDestinations: newDestinations });
   };
 
   const handleMultiCaseChange = (value: MultiCaseStatus, checked: boolean) => {
@@ -209,6 +221,19 @@ export function FilterSidebar() {
   };
   const unselectAllTransferStatus = () => {
     setFilters({ transferStatus: [] });
+  };
+
+  const selectAllTransferDestinations = () => {
+    if (stats) {
+      const hasNullDestination = files.some(f => f.transfer_destination === null);
+      const allDestinations = hasNullDestination
+        ? [...stats.transferDestinations, 'none']
+        : stats.transferDestinations;
+      setFilters({ transferDestinations: allDestinations });
+    }
+  };
+  const unselectAllTransferDestinations = () => {
+    setFilters({ transferDestinations: [] });
   };
 
   const selectAllMultiCase = () => {
@@ -430,6 +455,70 @@ export function FilterSidebar() {
                 </div>
               );
             })}
+          </div>
+        </FilterSection>
+
+        <Separator />
+
+        {/* Transfer Destination */}
+        <FilterSection
+          title="Transfer Destination"
+          count={filters.transferDestinations.length}
+          onSelectAll={selectAllTransferDestinations}
+          onUnselectAll={unselectAllTransferDestinations}
+        >
+          <div className="space-y-2">
+            {stats.transferDestinations.map((destination) => {
+              const count = transferDestinationCounts.get(destination)?.count || 0;
+              const definition = getDefinition(TRANSFER_DESTINATION_DEFINITIONS, destination);
+              return (
+                <div key={destination} className="flex items-center space-x-2">
+                  <Checkbox
+                    id={`dest-${destination}`}
+                    checked={filters.transferDestinations.includes(destination)}
+                    onCheckedChange={(checked) =>
+                      handleTransferDestinationChange(destination, checked as boolean)
+                    }
+                  />
+                  <Label htmlFor={`dest-${destination}`} className="flex-1 text-sm cursor-pointer flex items-center gap-1">
+                    {destination.replace(/_/g, ' ')}
+                    {definition && (
+                      <Tooltip>
+                        <TooltipTrigger asChild>
+                          <Info className="h-3 w-3 text-muted-foreground/50 hover:text-muted-foreground cursor-help" />
+                        </TooltipTrigger>
+                        <TooltipContent side="right" className="max-w-[250px]">
+                          <p className="text-xs">{definition.description}</p>
+                        </TooltipContent>
+                      </Tooltip>
+                    )}
+                  </Label>
+                  <span className="text-xs text-muted-foreground tabular-nums">{formatCountWithPercent(count, filteredFiles.length)}</span>
+                </div>
+              );
+            })}
+            {/* None option for calls without transfer destination */}
+            <div className="flex items-center space-x-2">
+              <Checkbox
+                id="dest-none"
+                checked={filters.transferDestinations.includes('none')}
+                onCheckedChange={(checked) =>
+                  handleTransferDestinationChange('none', checked as boolean)
+                }
+              />
+              <Label htmlFor="dest-none" className="flex-1 text-sm cursor-pointer italic flex items-center gap-1">
+                (no transfer)
+                <Tooltip>
+                  <TooltipTrigger asChild>
+                    <Info className="h-3 w-3 text-muted-foreground/50 hover:text-muted-foreground cursor-help" />
+                  </TooltipTrigger>
+                  <TooltipContent side="right" className="max-w-[250px]">
+                    <p className="text-xs">Calls that did not involve a transfer attempt.</p>
+                  </TooltipContent>
+                </Tooltip>
+              </Label>
+              <span className="text-xs text-muted-foreground tabular-nums">{formatCountWithPercent(transferDestinationCounts.get('none')?.count || 0, filteredFiles.length)}</span>
+            </div>
           </div>
         </FilterSection>
 

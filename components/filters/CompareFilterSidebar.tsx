@@ -97,7 +97,7 @@ export function CompareFilterSidebar() {
   }, [firmCounts]);
 
   const handleCheckboxChange = (
-    field: 'resolutionTypes' | 'callerTypes' | 'primaryIntents' | 'achievedStatus' | 'transferStatus' | 'multiCase',
+    field: 'resolutionTypes' | 'callerTypes' | 'primaryIntents' | 'achievedStatus' | 'transferStatus' | 'transferDestinations' | 'multiCase',
     value: string,
     checked: boolean
   ) => {
@@ -275,6 +275,39 @@ export function CompareFilterSidebar() {
               <span className="capitalize text-xs">{status.replace(/_/g, ' ')}</span>
             </label>
           ))}
+        </div>
+      </FilterSection>
+
+      <Separator />
+
+      {/* Transfer Destinations */}
+      <FilterSection
+        title="Transfer Destinations"
+        onSelectAll={() => setFilters({ transferDestinations: [...combinedStats.transferDestinations, 'none'] })}
+        onUnselectAll={() => setFilters({ transferDestinations: [] })}
+      >
+        <div className="max-h-40 overflow-y-auto space-y-1">
+          {combinedStats.transferDestinations.map((destination) => (
+            <label key={destination} className="flex items-center gap-2 text-sm cursor-pointer">
+              <Checkbox
+                checked={filters.transferDestinations.includes(destination)}
+                onCheckedChange={(checked) =>
+                  handleCheckboxChange('transferDestinations', destination, !!checked)
+                }
+              />
+              <span className="truncate text-xs">{destination.replace(/_/g, ' ')}</span>
+            </label>
+          ))}
+          {/* None option for calls without transfer destination */}
+          <label className="flex items-center gap-2 text-sm cursor-pointer">
+            <Checkbox
+              checked={filters.transferDestinations.includes('none')}
+              onCheckedChange={(checked) =>
+                handleCheckboxChange('transferDestinations', 'none', !!checked)
+              }
+            />
+            <span className="truncate text-xs italic">(no transfer)</span>
+          </label>
         </div>
       </FilterSection>
 

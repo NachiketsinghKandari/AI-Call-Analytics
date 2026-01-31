@@ -57,6 +57,18 @@ export function matchesTransferSuccess(file: FileInfo, status: TransferStatus[])
 }
 
 /**
+ * Check if file matches transfer destination filter
+ */
+export function matchesTransferDestination(file: FileInfo, destinations: string[]): boolean {
+  if (destinations.length === 0) return true;
+  // Files without transfer_destination match if 'none' is in the filter
+  if (file.transfer_destination === null) {
+    return destinations.includes('none');
+  }
+  return destinations.includes(file.transfer_destination);
+}
+
+/**
  * Check if file matches duration range filter
  * Files with null duration pass if includeUnknown is true (default)
  */
@@ -119,6 +131,7 @@ export function applyAllFilters(files: FileInfo[], filters: FilterState): FileIn
       matchesCallerType(file, filters.callerTypes) &&
       matchesPrimaryIntent(file, filters.primaryIntents) &&
       matchesTransferSuccess(file, filters.transferStatus) &&
+      matchesTransferDestination(file, filters.transferDestinations) &&
       matchesDuration(file, filters.durationRange, filters.includeUnknownDuration) &&
       matchesMultiCase(file, filters.multiCase) &&
       matchesAssistantId(file, filters.assistantIds) &&
@@ -132,7 +145,7 @@ export function applyAllFilters(files: FileInfo[], filters: FilterState): FileIn
  */
 export function calculateDimensionCounts(
   files: FileInfo[],
-  dimension: 'resolution_type' | 'caller_type' | 'primary_intent' | 'achieved' | 'transfer' | 'multi_case' | 'assistant_id' | 'squad_id'
+  dimension: 'resolution_type' | 'caller_type' | 'primary_intent' | 'achieved' | 'transfer' | 'transfer_destination' | 'multi_case' | 'assistant_id' | 'squad_id'
 ): Map<string, { count: number; duration: number }> {
   const counts = new Map<string, { count: number; duration: number }>();
 
@@ -158,6 +171,9 @@ export function calculateDimensionCounts(
         if (file.transfer_success === true) key = 'successful';
         else if (file.transfer_success === false) key = 'failed';
         else key = 'no_transfer';
+        break;
+      case 'transfer_destination':
+        key = file.transfer_destination || 'none';
         break;
       case 'multi_case': {
         const multiCase = file.data?.call_summary?.multi_case_details;

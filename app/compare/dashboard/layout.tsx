@@ -61,9 +61,9 @@ export default function CompareDashboardLayout({
   }
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="flex flex-col h-screen bg-background">
       {/* Header */}
-      <header className="sticky top-0 z-50 w-full border-b bg-background">
+      <header className="shrink-0 z-50 w-full border-b bg-background">
         <div className="flex h-14 items-center px-4 gap-4">
           {/* Logo + Mode Switcher - width matches sidebar on lg screens */}
           <div className="flex items-center gap-2 shrink-0 lg:w-[calc(18rem-1rem)]">
@@ -114,7 +114,7 @@ export default function CompareDashboardLayout({
         </div>
       </header>
 
-      <div className="flex">
+      <div className="flex flex-1 overflow-hidden">
         {/* Collapsed sidebar with filter icons (always visible on lg screens) */}
         <aside className="hidden lg:flex w-10 shrink-0 border-r bg-muted/30 flex-col items-center pt-4 gap-1">
           <TooltipProvider>
@@ -226,27 +226,29 @@ export default function CompareDashboardLayout({
         </aside>
 
         {/* Expandable Filter Sidebar */}
-        {filterSidebarOpen && (
-          <aside className="hidden lg:block w-72 shrink-0 border-r bg-muted/30">
-            <div className="sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto">
-              <div className="flex items-center justify-between px-4 py-2 border-b">
-                <span className="text-sm font-medium">Filters</span>
-                <Button
-                  variant="ghost"
-                  size="icon"
-                  className="h-6 w-6"
-                  onClick={() => setFilterSidebarOpen(false)}
-                >
-                  <X className="h-3 w-3" />
-                </Button>
-              </div>
-              <CompareFilterSidebar />
-            </div>
-          </aside>
-        )}
+        <aside
+          className={`hidden lg:flex shrink-0 border-r bg-muted/30 transition-all duration-300 ease-in-out overflow-hidden flex-col ${
+            filterSidebarOpen ? 'w-72 opacity-100' : 'w-0 opacity-0 border-r-0'
+          }`}
+        >
+          <div className="flex items-center justify-between px-4 py-2 border-b shrink-0 w-72">
+            <span className="text-sm font-medium">Filters</span>
+            <Button
+              variant="ghost"
+              size="icon"
+              className="h-6 w-6"
+              onClick={() => setFilterSidebarOpen(false)}
+            >
+              <X className="h-3 w-3" />
+            </Button>
+          </div>
+          <div className="flex-1 overflow-y-auto w-72">
+            <CompareFilterSidebar />
+          </div>
+        </aside>
 
         {/* Main Content */}
-        <main className="flex-1 min-w-0">
+        <main className="flex-1 min-w-0 overflow-auto">
           <div className="p-6">
             {children}
           </div>

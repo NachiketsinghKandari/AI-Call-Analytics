@@ -47,14 +47,73 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect }: Pl
   const [showNotification, setShowNotification] = useState(false);
   const [isSelectionVisible, setIsSelectionVisible] = useState(false);
 
+  // ===================================================================================
+  // IMPORTANT: Plotly Click Handler Bug Workaround
+  // ===================================================================================
+  // Plotly.js has a known issue where click handlers don't work on initial render.
+  // The onClick callback passed to <Plot> is not properly bound until the component
+  // goes through a complete unmount/remount cycle AFTER the initial render settles.
+  //
+  // This state machine forces that cycle:
+  //   waiting (100ms) -> mounted (200ms) -> remounting (100ms) -> ready
+  //
+  // The 'remounting' state unmounts the Plot, then 'ready' remounts it with fresh
+  // event handlers. Combined with the preset toggle in FlowPage/CompareDashboard
+  // (which happens AFTER this cycle at 500-700ms), this ensures clicks work.
+  //
+  // DO NOT REMOVE OR "OPTIMIZE" THIS - it's not a bug, it's a bug prevention mechanism.
+  // Without this, users cannot click on Sankey links to see file details.
+  // ===================================================================================
+  const [mountState, setMountState] = useState<'waiting' | 'mounted' | 'remounting' | 'ready'>('waiting');
+
   const { trace, layout, linkToFilesMap } = useMemo(() => {
     return buildPlotlySankeyTrace(files, options, isDarkMode);
   }, [files, options, isDarkMode]);
 
-  // Key to force Plot remount when data changes - guarantees fresh event handlers
+  // Mount state machine: waiting -> mounted -> remounting -> ready
+  // This forces a complete unmount/remount cycle to fix Plotly click handlers
+  useEffect(() => {
+    console.log('[PlotlySankey] Mount state:', mountState, 'files:', files.length);
+
+    if (files.length === 0) return;
+
+    if (mountState === 'waiting') {
+      // Initial delay before first mount
+      const timer = setTimeout(() => {
+        console.log('[PlotlySankey] State: waiting -> mounted');
+        setMountState('mounted');
+      }, 100);
+      return () => clearTimeout(timer);
+    }
+
+    if (mountState === 'mounted') {
+      // After first mount, trigger unmount
+      const timer = setTimeout(() => {
+        console.log('[PlotlySankey] State: mounted -> remounting (unmounting Plot)');
+        setMountState('remounting');
+      }, 200);
+      return () => clearTimeout(timer);
+    }
+
+    if (mountState === 'remounting') {
+      // After unmount, remount with fresh handlers
+      const timer = setTimeout(() => {
+        console.log('[PlotlySankey] State: remounting -> ready (remounting Plot with fresh handlers)');
+        setMountState('ready');
+      }, 100);
+      return () => clearTimeout(timer);
+    }
+  }, [files.length, mountState]);
+
+  // Key for Plot component - includes mountState to force remount
   const plotKey = useMemo(() => {
-    return `${files.length}-${options.preset}-${JSON.stringify(options.customOptions)}-${isDarkMode}`;
-  }, [files.length, options, isDarkMode]);
+    const key = `${files.length}-${options.preset}-${JSON.stringify(options.customOptions)}-${isDarkMode}-${mountState}`;
+    console.log('[PlotlySankey] Plot key changed:', key);
+    return key;
+  }, [files.length, options, isDarkMode, mountState]);
+
+  // Only render Plot in 'mounted' or 'ready' states (not during 'waiting' or 'remounting')
+  const shouldRenderPlot = mountState === 'mounted' || mountState === 'ready';
 
   // Track visibility of the selected flow section
   useEffect(() => {
@@ -82,20 +141,25 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect }: Pl
     }
   }, [showNotification]);
 
+  // Click handler - remount mechanism ensures this has fresh data
   const handleClick = useCallback((event: Readonly<Plotly.PlotMouseEvent>) => {
-    // Handle link clicks
+    console.log('[PlotlySankey] Click event received:', event.points?.length, 'points');
     if (event.points && event.points.length > 0) {
       const point = event.points[0] as unknown as SankeyLinkPoint;
+      console.log('[PlotlySankey] Point data:', { source: point.source, target: point.target, pointNumber: point.pointNumber });
 
       // Check if it's a link click (has source/target)
       if (point.source !== undefined && point.target !== undefined) {
         const linkIndex = point.pointNumber;
         const clickedFiles = linkToFilesMap.get(linkIndex);
+        console.log('[PlotlySankey] Link click - index:', linkIndex, 'files found:', clickedFiles?.length || 0);
         if (clickedFiles && clickedFiles.length > 0) {
           setSelectedFiles(clickedFiles);
           setShowNotification(true);
           onFilesSelect?.(clickedFiles);
         }
+      } else {
+        console.log('[PlotlySankey] Not a link click (node click or other)');
       }
     }
   }, [linkToFilesMap, onFilesSelect]);
@@ -145,7 +209,7 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect }: Pl
         </div>
       )}
 
-      {hydrated ? (
+      {hydrated && shouldRenderPlot ? (
         <Plot
           key={plotKey}
           data={[trace]}
