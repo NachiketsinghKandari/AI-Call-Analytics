@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and business details to pass along to the firm's marketing department for a potential follow-up.",
+    "final_outcome": "The receptionist collected the caller's business name, phone number, and email address to pass along to the marketing department for a potential follow-up.",
     "call_duration_seconds": 120.6,
     "call_duration_formatted": "02:00"
   },

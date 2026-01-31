@@ -8,13 +8,13 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member, but returned to the line to state the staff member was unavailable and took a message instead.",
+    "final_outcome": "The receptionist attempted to transfer the caller to her case manager; upon finding the staff member unavailable, the receptionist took a message for a return call.",
     "call_duration_seconds": 38.59,
     "call_duration_formatted": "00:38"
   },
   "transfer_context": {
     "destinations": [
-      "specific_staff_member"
+      "case_management"
     ],
     "transfer_connection_status": [
       false
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist offered to connect the caller to her case manager, Emily, but after a brief hold, informed the caller that Emily was on another line."
+    "description": "The receptionist attempted to connect the caller to her case manager, Emily, but returned to the line to inform the caller that the staff member was busy and offered to take a message."
   }
 }

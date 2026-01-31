@@ -4,18 +4,24 @@
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the legal team was unavailable and took a message including the caller's name, phone number, and claim number for a follow-up.",
+    "final_outcome": "The receptionist attempted to locate a member of the legal team for the caller. After determining no one was available, the receptionist took a message including the caller's name, phone number, and claim number for a follow-up.",
     "call_duration_seconds": 107.71,
     "call_duration_formatted": "01:47"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist determined that no staff members were available to take the call."
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check for the availability of the legal team and returned to state that no one was available to take the call."
   }
 }

@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": "message_taken",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and case details to submit a follow-up request to the legal team.",
+    "final_outcome": "The caller returned a missed call regarding an insured party. The receptionist collected the caller's contact information and the insured's name, then stated they would submit a request for the legal team to follow up.",
     "call_duration_seconds": 112.18,
     "call_duration_formatted": "01:52"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted."
   }
 }

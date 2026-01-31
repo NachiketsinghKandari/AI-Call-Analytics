@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "The caller requested a case status update from a specific staff member. The receptionist informed the caller that the staff member was unavailable and provided instructions to submit the inquiry via fax, which the caller accepted.",
+    "final_outcome": "The caller requested a case status from a specific staff member. The receptionist attempted to locate the staff member but found them unavailable, then provided a fax number for the inquiry which the caller accepted.",
     "call_duration_seconds": 59.11,
     "call_duration_formatted": "00:59"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist handled the inquiry by providing the firm's protocol for case status requests."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check for Crystal's availability and returned to inform the caller she was unavailable."
   }
 }

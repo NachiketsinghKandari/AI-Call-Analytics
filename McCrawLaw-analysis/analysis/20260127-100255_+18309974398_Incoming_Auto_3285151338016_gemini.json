@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "returning_call",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a missed call. The receptionist identified the staff member who called, noted that she was unavailable, and took a message for a callback.",
+    "final_outcome": "The caller was returning a missed call regarding a client. The receptionist attempted to identify and locate the staff member responsible, determined the staff member was unavailable, and took a message for a callback.",
     "call_duration_seconds": 172.22,
     "call_duration_formatted": "02:52"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist placed the caller on hold to identify the staff member and then offered to take a message."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to locate the staff member who had previously called him. Upon returning, the receptionist stated the staff member was unavailable and offered a callback."
   }
 }

@@ -4,18 +4,24 @@
     "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested a settlement update from a specific staff member. The receptionist determined the staff member was unavailable and took a message for a callback, which the caller accepted.",
+    "final_outcome": "The caller requested a follow-up on a settlement adjustment with a specific staff member. The receptionist determined the staff member was unavailable and took a message for a callback, which the caller accepted.",
     "call_duration_seconds": 136.08,
     "call_duration_formatted": "02:16"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the requested staff member was unavailable."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist checked for the requested staff member, found them unavailable, and offered to take a message instead of completing a transfer."
   }
 }

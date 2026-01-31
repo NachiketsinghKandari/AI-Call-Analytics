@@ -1,5 +1,5 @@
 {
-  "caller_type": "new_client",
+  "caller_type": "unknown_or_undetermined",
   "call_summary": {
     "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm looking for an individual named Marlene. The receptionist identified the business as McCall Law Group, leading the caller to realize they had dialed the wrong number. The caller then ended the call.",
+    "final_outcome": "The caller requested a specific individual, but after the receptionist identified the law firm, the caller realized they had dialed a wrong number and ended the call.",
     "call_duration_seconds": 43.42,
     "call_duration_formatted": "00:43"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted as the caller reached the firm by mistake."
   }
 }

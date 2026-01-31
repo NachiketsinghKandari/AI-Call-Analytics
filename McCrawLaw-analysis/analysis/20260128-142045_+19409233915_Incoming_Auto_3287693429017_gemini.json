@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about the status of a job application for a bilingual legal assistant position. The receptionist collected the caller's name, phone number, and email address, and stated that the information would be passed to the relevant team for follow-up.",
+    "final_outcome": "The caller inquired about the status of a job application. The receptionist collected the caller's contact information and confirmed that the details would be passed along to the relevant team for follow-up.",
     "call_duration_seconds": 193.18,
     "call_duration_formatted": "03:13"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist collected the caller's contact information to be passed along to the internal team."
+    "description": "No transfer was attempted during this call."
   }
 }

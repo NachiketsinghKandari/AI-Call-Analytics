@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller notified the receptionist that the firm had reached a wrong number regarding a message for an individual named Avery. The receptionist collected the caller's phone number to update the firm's records and the call was concluded.",
+    "final_outcome": "The caller informed the receptionist that they received a voicemail for an individual named Avery and that it was the wrong number. The receptionist collected the caller's phone number to update the firm's records and the call was concluded.",
     "call_duration_seconds": 41.83,
     "call_duration_formatted": "00:41"
   },

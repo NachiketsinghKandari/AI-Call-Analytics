@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the caller as an insurance representative calling regarding a demand. After determining no staff were available to take a transfer, the receptionist took a message for the team.",
+    "final_outcome": "The receptionist attempted to transfer the caller to the legal team regarding a demand response, but informed the caller that no one was available and took a message instead.",
     "call_duration_seconds": 200.66,
     "call_duration_formatted": "03:20"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "assigned_staff_unavailable"
     ],
-    "description": "The receptionist checked for staff availability to handle a demand response but found no one available, leading to a message being taken."
+    "description": "The receptionist checked for availability to transfer the caller but explicitly stated that no one was available to take the call."
   }
 }

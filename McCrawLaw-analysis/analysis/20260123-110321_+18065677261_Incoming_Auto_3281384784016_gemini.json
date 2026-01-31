@@ -2,20 +2,26 @@
   "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "returning_call",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm to return an attorney's call regarding a case. After the caller provided their name, the receptionist asked for a moment and the call ended before any transfer or resolution occurred.",
+    "final_outcome": "The caller contacted the firm to return a call from an attorney regarding their case. The receptionist requested the caller's name and initiated a transfer, at which point the call ended.",
     "call_duration_seconds": 28.58,
     "call_duration_formatted": "00:28"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted before the call ended."
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated 'give me one moment please' after the caller identified themselves as returning an attorney's call, and the call terminated immediately afterward."
   }
 }

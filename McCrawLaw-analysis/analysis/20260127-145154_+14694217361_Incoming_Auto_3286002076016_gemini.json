@@ -8,13 +8,13 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist stated they would put the caller through to the requested staff member and the call ended immediately after the transfer statement.",
+    "final_outcome": "The receptionist stated the intent to transfer the caller to the requested staff member and the call ended immediately afterward.",
     "call_duration_seconds": 52.92,
     "call_duration_formatted": "00:52"
   },
   "transfer_context": {
     "destinations": [
-      "legal_counsel"
+      "specific_staff_member"
     ],
     "transfer_connection_status": [
       true
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "Receptionist Salen confirmed they would transfer the caller to Landon Knotts and the call concluded."
+    "description": "The receptionist informed the caller they would be put through to Landon Knotts and the call terminated."
   }
 }

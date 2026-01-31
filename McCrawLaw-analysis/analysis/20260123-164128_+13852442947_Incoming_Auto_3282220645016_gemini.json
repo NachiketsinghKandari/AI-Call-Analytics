@@ -1,5 +1,5 @@
 {
-  "caller_type": "medical_provider",
+  "caller_type": "business_vendor",
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to locate a specific staff member, determined they were unavailable, and took a message with the caller's contact information.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding medical records. The receptionist attempted to check availability, confirmed the staff member was unavailable, and took a message with the caller's contact information.",
     "call_duration_seconds": 66.74,
     "call_duration_formatted": "01:06"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist placed the caller on hold to check for the requested staff member's availability but returned to the line after finding they were unavailable."
+    "description": "The receptionist placed the caller on hold to check for the requested staff member's availability but returned to the line after finding them unavailable."
   }
 }

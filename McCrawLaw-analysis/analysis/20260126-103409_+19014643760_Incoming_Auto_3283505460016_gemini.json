@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "verify_representation",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and the details of the representation verification request to pass along to the team for a follow-up.",
+    "final_outcome": "The receptionist attempted to check for representation information by placing the caller on hold, but returned to take a message and contact information for the team when they were unavailable.",
     "call_duration_seconds": 284.18,
     "call_duration_formatted": "04:44"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist placed the caller on hold to check for representation details and returned to state she would need to take a message for the team."
   }
 }

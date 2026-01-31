@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and email address to forward to the HR department regarding the caller's offer of legal nurse consultant services.",
+    "final_outcome": "The caller offered legal nurse consulting services and requested an email address to send a resume. The receptionist collected the caller's email and phone number to forward to the HR department.",
     "call_duration_seconds": 114.34,
     "call_duration_formatted": "01:54"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the receptionist placed the caller on hold to gather information and then handled the request directly."
   }
 }

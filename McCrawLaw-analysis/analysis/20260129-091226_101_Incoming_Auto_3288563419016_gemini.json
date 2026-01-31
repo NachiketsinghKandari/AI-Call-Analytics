@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "information_provided",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "The receptionist and a colleague discussed the status of a specific case, confirmed it was rejected due to no injuries, and coordinated the logging of an after-hours message into the system.",
+    "final_outcome": "Receptionist and a colleague discussed the status of a specific case, confirmed its rejection, and coordinated the documentation of a message received from the after-hours service.",
     "call_duration_seconds": 143.5,
     "call_duration_formatted": "02:23"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted during the call."
   }
 }

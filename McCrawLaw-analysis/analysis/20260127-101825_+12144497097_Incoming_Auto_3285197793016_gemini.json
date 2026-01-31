@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller identified the call as a test call, and the receptionist acknowledged the information before the call was concluded.",
+    "final_outcome": "The caller identified the call as a test; the receptionist acknowledged the statement and the call was concluded.",
     "call_duration_seconds": 24.55,
     "call_duration_formatted": "00:24"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted."
   }
 }

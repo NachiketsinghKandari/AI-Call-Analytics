@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the case the caller was referencing and initiated a transfer to the staff member in charge of the file.",
+    "final_outcome": "The receptionist identified the case associated with the caller's inquiry and initiated a transfer to the staff member assigned to the file. The call ended immediately after the transfer statement.",
     "call_duration_seconds": 181.73,
     "call_duration_formatted": "03:01"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she would check for the person in charge of the case and the call ended immediately after her request for the caller to wait."
+    "description": "The receptionist stated she would see if the person in charge of the case was available and the call ended immediately after she placed the caller on hold."
   }
 }

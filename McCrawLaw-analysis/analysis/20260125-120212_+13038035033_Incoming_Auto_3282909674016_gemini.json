@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected intake information regarding a potential medical malpractice claim, determined the firm could not assist, and provided the caller with a referral to an external law firm.",
+    "final_outcome": "The receptionist collected intake information regarding a potential medical malpractice claim, determined the firm was unable to assist, and provided the caller with a referral to an outside law firm.",
     "call_duration_seconds": 517.46,
     "call_duration_formatted": "08:37"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist provided a referral to an external attorney after determining the firm could not assist."
+    "description": "No internal transfer was attempted. The receptionist provided a referral to an external attorney."
   }
 }

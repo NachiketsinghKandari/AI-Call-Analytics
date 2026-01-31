@@ -1,21 +1,27 @@
 {
   "caller_type": "existing_client",
   "call_summary": {
-    "primary_intent": "check_case_status",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding case updates and insurance notifications. The receptionist checked availability, determined the staff member was unavailable, and took a message for a callback.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding insurance notifications. The receptionist checked for the staff member's availability, determined they were unavailable, and took a message for a return call.",
     "call_duration_seconds": 109.37,
     "call_duration_formatted": "01:49"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist checked the staff member's availability internally and, upon finding them unavailable, offered to take a message."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check for the requested staff member and returned to state they were unavailable."
   }
 }

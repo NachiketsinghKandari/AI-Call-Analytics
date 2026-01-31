@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist gathered the caller's contact information and case details, informed the caller that the firm does not handle criminal matters, and provided a referral to the Dallas Bar Association.",
+    "final_outcome": "The receptionist informed the caller that the firm does not handle criminal matters and provided a referral phone number for the Dallas Bar Association.",
     "call_duration_seconds": 203.98,
     "call_duration_formatted": "03:23"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist provided a referral directly."
+    "description": "No transfer was attempted."
   }
 }

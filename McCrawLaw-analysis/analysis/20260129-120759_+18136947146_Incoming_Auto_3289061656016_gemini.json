@@ -1,5 +1,5 @@
 {
-  "caller_type": "sales_vendor",
+  "caller_type": "new_client",
   "call_summary": {
     "primary_intent": "solicitation_and_spam",
     "resolution_achieved": false,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call was automatically flagged as spam by the system and terminated before any interaction with staff occurred.",
+    "final_outcome": "The call was automatically terminated by the system after the caller's number was flagged as spam.",
     "call_duration_seconds": 15.55,
     "call_duration_formatted": "00:15"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the call was terminated by the automated system."
+    "description": "No transfer was attempted as the call was disconnected by an automated system message."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call consisted of a recording notification followed by fourteen seconds of silence before terminating without any verbal interaction.",
+    "final_outcome": "The call disconnected after an automated recording disclosure without any verbal interaction or request being made.",
     "call_duration_seconds": 16.92,
     "call_duration_formatted": "00:16"
   },

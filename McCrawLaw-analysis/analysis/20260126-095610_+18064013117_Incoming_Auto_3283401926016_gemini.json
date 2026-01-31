@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "Receptionist identified the caller as an existing client returning a call for a specific staff member regarding settlement offers and initiated a transfer.",
+    "final_outcome": "The receptionist stated she would reach out to the requested staff member and the call ended immediately after the caller was placed on hold.",
     "call_duration_seconds": 52.34,
     "call_duration_formatted": "00:52"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she would reach out to the requested staff member and the call ended immediately afterward."
+    "description": "The receptionist initiated a transfer to Todd after the caller identified herself as a client returning his call regarding settlement offers."
   }
 }

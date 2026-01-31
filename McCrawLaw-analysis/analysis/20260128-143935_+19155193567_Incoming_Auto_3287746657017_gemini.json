@@ -4,18 +4,27 @@
     "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist determined that no staff members were available to take the call and recorded a message from the insurance representative regarding a settlement offer amount.",
+    "final_outcome": "The caller from Progressive Insurance provided a settlement offer for a client. The receptionist checked for the availability of the case manager and attorney, determined they were unavailable, and recorded a message with the offer details.",
     "call_duration_seconds": 91.87,
     "call_duration_formatted": "01:31"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted because the receptionist explicitly stated that no one was available to take the call before offering to take a message."
+    "destinations": [
+      "case_management",
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false,
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff",
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the availability of the case manager and attorney, confirmed they were unavailable, and proceeded to take a message."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided the firm's fax number to the caller and instructed them to send a written request to verify representation. The caller agreed to send the correspondence.",
+    "final_outcome": "The receptionist provided the firm's fax number and instructed the caller to send a written request to verify representation.",
     "call_duration_seconds": 56.16,
     "call_duration_formatted": "00:56"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during this call."
   }
 }

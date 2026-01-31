@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call ended immediately after the automated recording disclaimer without any verbal interaction.",
+    "final_outcome": "The call ended immediately after the automated recording disclosure without any verbal interaction from a caller or receptionist.",
     "call_duration_seconds": 5.18,
     "call_duration_formatted": "00:05"
   },

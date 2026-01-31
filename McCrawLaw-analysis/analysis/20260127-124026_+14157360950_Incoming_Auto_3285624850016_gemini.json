@@ -1,5 +1,5 @@
 {
-  "caller_type": "new_client",
+  "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": false,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call ended after automated recording disclosures were played, with no verbal interaction from a caller or receptionist.",
+    "final_outcome": "The call recording contains only automated disclosures regarding call recording and quality assurance, and the call ended before any interaction with a receptionist or staff occurred.",
     "call_duration_seconds": 11.81,
     "call_duration_formatted": "00:11"
   },

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist performed an intake for a potential new client seeking help with code violations. After informing the caller the firm could not assist, the receptionist agreed to relay the caller's request for a callback to the attorneys.",
+    "final_outcome": "The receptionist collected the caller's contact information and details regarding legal issues with code violations and ADA violations, informed the caller that the firm could not assist with those matters, and agreed to relay a request for a referral to the attorneys.",
     "call_duration_seconds": 365.26,
     "call_duration_formatted": "06:05"
   },

@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and took a message regarding a client's case manager after stating that no staff members were currently available.",
+    "final_outcome": "The receptionist collected the caller's contact information and took a message regarding a specific client because no staff members were available to take the call.",
     "call_duration_seconds": 178.7,
     "call_duration_formatted": "02:58"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist stated no one was available to take the call."
+    "description": "No transfer was attempted; the receptionist informed the caller that no one was available and proceeded to take a message."
   }
 }

@@ -8,13 +8,13 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist briefed the attorney on a new intake involving a father and son from a rear-end accident and then initiated a transfer to connect the attorney with the prospective clients.",
+    "final_outcome": "The receptionist briefed an attorney on a new intake involving a father and son from a car accident and then initiated a transfer to connect the attorney with the prospective clients.",
     "call_duration_seconds": 88.13,
     "call_duration_formatted": "01:28"
   },
   "transfer_context": {
     "destinations": [
-      "legal_counsel"
+      "unspecified_internal_transfer"
     ],
     "transfer_connection_status": [
       true
@@ -22,6 +22,6 @@
     "reasons": [
       "specialized_knowledge_required"
     ],
-    "description": "The receptionist stated she would put the attorney through to the intake callers and the call ended immediately after."
+    "description": "The receptionist stated she would put the attorney through to the intake and the call ended immediately after."
   }
 }

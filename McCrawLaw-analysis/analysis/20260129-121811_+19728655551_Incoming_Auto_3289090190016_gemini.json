@@ -8,20 +8,23 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about a settlement check. The receptionist attempted to reach the attorney while the caller was on hold, but the attorney was unavailable. The receptionist then collected the caller's phone number for a callback.",
+    "final_outcome": "The caller inquired about a settlement check. The receptionist attempted to transfer the call to accounting and the assigned attorney, but both were unavailable. The caller provided a phone number for a callback.",
     "call_duration_seconds": 96.91,
     "call_duration_formatted": "01:36"
   },
   "transfer_context": {
     "destinations": [
+      "billing_and_disbursements",
       "legal_counsel"
     ],
     "transfer_connection_status": [
+      false,
       false
     ],
     "reasons": [
-      "administrative_billing_inquiry"
+      "administrative_billing_inquiry",
+      "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to reach the attorney while the caller was on hold, but the attorney was unavailable."
+    "description": "The receptionist attempted to reach the accounting department and the attorney, but neither was available to take the call."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that they had reached a law firm and not a factory, clarifying that the caller had the wrong number regarding a job advertisement.",
+    "final_outcome": "The caller inquired about a job advertisement for a factory; the receptionist clarified that the office is a law firm and the caller had the wrong number.",
     "call_duration_seconds": 77.26,
     "call_duration_formatted": "01:17"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist identified the call as a wrong number."
+    "description": "No transfer was attempted as the caller had reached the wrong business."
   }
 }

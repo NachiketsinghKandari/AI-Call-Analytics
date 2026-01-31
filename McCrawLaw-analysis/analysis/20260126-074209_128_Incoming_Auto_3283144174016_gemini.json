@@ -1,5 +1,5 @@
 {
-  "caller_type": "business_vendor",
+  "caller_type": "law_office",
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller identified as an employee and requested to speak with a specific staff member. The receptionist informed the caller the office was closed and took a message for the staff member to return the call.",
+    "final_outcome": "The caller identified as an employee and requested to speak with Kimberly. The receptionist informed the caller the office was closed and took a message for a return call.",
     "call_duration_seconds": 64.73,
     "call_duration_formatted": "01:04"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the office was not yet open."
+    "description": "No transfer was attempted."
   }
 }

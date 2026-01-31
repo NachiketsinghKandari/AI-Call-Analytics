@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "information_provided",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "The receptionist conducted an intake interview, consulted an attorney while the caller was on hold, informed the caller the firm would not take the case, and agreed to email the State Bar of Texas contact information.",
+    "final_outcome": "The receptionist completed the intake process, consulted with an attorney while the caller was on hold, and informed the caller that the firm would not be taking the case. The receptionist then offered to email the caller the contact information for the State Bar of Texas.",
     "call_duration_seconds": 628.34,
     "call_duration_formatted": "10:28"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist consulted an attorney while the caller was on hold and then returned to the line."
+    "description": "No transfer was attempted; the receptionist placed the caller on hold for an internal consultation and returned to the line to provide the decision directly."
   }
 }

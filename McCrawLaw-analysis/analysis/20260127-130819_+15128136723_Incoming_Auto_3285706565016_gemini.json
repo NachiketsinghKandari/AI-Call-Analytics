@@ -8,20 +8,23 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to the attorney to discuss a settlement offer. After determining the attorney was unavailable, the receptionist took a message to be forwarded to both the attorney and the case manager.",
+    "final_outcome": "The receptionist attempted to transfer the caller to the case manager and the attorney, but both were unavailable. The receptionist took a message and a callback number to forward to both parties.",
     "call_duration_seconds": 152.06,
     "call_duration_formatted": "02:32"
   },
   "transfer_context": {
     "destinations": [
+      "case_management",
       "legal_counsel"
     ],
     "transfer_connection_status": [
+      false,
       false
     ],
     "reasons": [
+      "request_assigned_staff",
       "request_assigned_staff"
     ],
-    "description": "The receptionist offered to try the attorney after the case manager was found to be unavailable. After checking availability, the receptionist informed the caller the attorney was also unavailable and took a message."
+    "description": "The receptionist attempted to reach the case manager and the attorney sequentially; both were unavailable, resulting in a message being taken as a fallback."
   }
 }

@@ -6,9 +6,9 @@
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "callback_scheduled",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to reach the requested attorney while the caller was on hold. After determining the attorney was unavailable, the receptionist took a message and a callback number from the caller.",
+    "final_outcome": "The receptionist attempted to reach an attorney for the caller; upon determining the attorney was unavailable, the receptionist took a message and a callback number.",
     "call_duration_seconds": 103.03,
     "call_duration_formatted": "01:43"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to connect the caller to the requested attorney, but the attorney was unavailable. The receptionist then returned to the line to take a message."
+    "description": "The receptionist placed the caller on hold to reach the requested attorney, then returned to the line to state the attorney was unavailable and offered to take a message."
   }
 }

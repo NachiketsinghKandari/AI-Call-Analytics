@@ -1,14 +1,14 @@
 {
-  "caller_type": "sales_vendor",
+  "caller_type": "business_vendor",
   "call_summary": {
-    "primary_intent": "administrative_request",
+    "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "information_provided",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided the email address for the Chief Marketing Officer after the caller reported difficulty reaching the marketing department regarding Yelp listings.",
+    "final_outcome": "The receptionist provided the email address for the firm's Chief Marketing Officer to the caller regarding marketing leads and the call concluded.",
     "call_duration_seconds": 117.29,
     "call_duration_formatted": "01:57"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist provided contact information directly to the caller."
+    "description": "No transfer was attempted during the call."
   }
 }

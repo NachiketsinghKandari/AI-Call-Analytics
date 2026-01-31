@@ -1,14 +1,14 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "returning_call",
+    "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected contact information and claimant names from an insurance representative following up on a previous email, then took a message for the legal team.",
+    "final_outcome": "The receptionist collected contact information and claimant names from an insurance representative and took a message for the team after stating no staff members were available to address the inquiry.",
     "call_duration_seconds": 179.21,
     "call_duration_formatted": "02:59"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message after stating no team member was available to address the inquiry."
+    "description": "No transfer was attempted during the call."
   }
 }

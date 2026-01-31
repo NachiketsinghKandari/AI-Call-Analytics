@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and claim details regarding a client's settlement negotiations, then confirmed the information would be forwarded to the legal team as no one was currently available.",
+    "final_outcome": "The receptionist collected contact information and claim details from the insurance representative regarding a client's negotiations. After checking internal availability, the receptionist informed the caller that no one was available and took a message to be forwarded to the team.",
     "call_duration_seconds": 162.14,
     "call_duration_formatted": "02:42"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted; the receptionist took a message after checking internal availability during silences."
   }
 }

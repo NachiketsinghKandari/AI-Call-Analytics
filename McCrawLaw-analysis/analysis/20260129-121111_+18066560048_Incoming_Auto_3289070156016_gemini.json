@@ -8,13 +8,13 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "Receptionist stated intent to connect the caller to the case manager and the call ended immediately afterward.",
+    "final_outcome": "The receptionist initiated a transfer to case management after the caller inquired about the status of a client's case, and the call ended immediately following the transfer statement.",
     "call_duration_seconds": 38.95,
     "call_duration_formatted": "00:38"
   },
   "transfer_context": {
     "destinations": [
-      "unspecified_internal_transfer"
+      "case_management"
     ],
     "transfer_connection_status": [
       true
@@ -22,6 +22,6 @@
     "reasons": [
       "case_status_inquiry"
     ],
-    "description": "Receptionist stated she would connect the caller and the call ended immediately."
+    "description": "The receptionist stated she would connect the caller to the case manager and the call ended immediately afterward."
   }
 }

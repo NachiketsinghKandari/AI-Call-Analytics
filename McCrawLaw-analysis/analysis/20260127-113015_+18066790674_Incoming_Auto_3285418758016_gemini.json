@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with specific staff members regarding her case status. The receptionist informed the caller that the staff were unavailable and took a message to be sent to them urgently.",
+    "final_outcome": "The caller requested to speak with specific staff members regarding her case status. The receptionist informed the caller that the staff were unavailable and took an urgent message for a callback.",
     "call_duration_seconds": 111.82,
     "call_duration_formatted": "01:51"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist determined the requested staff members were unavailable before initiating a transfer path."
+    "description": "No transfer was attempted as the requested staff members were identified as unavailable before a transfer path was initiated."
   }
 }

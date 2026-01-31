@@ -4,18 +4,24 @@
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with his attorney or case manager. The receptionist determined the staff member was unavailable, collected a callback number, and took a message regarding the status of a deposition.",
+    "final_outcome": "The caller requested to speak with his case manager or attorney. The receptionist attempted to locate the staff member, determined she was unavailable, and took a message regarding a deposition status update.",
     "call_duration_seconds": 123.05,
     "call_duration_formatted": "02:03"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted because the receptionist determined the requested staff member was unavailable after checking."
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the availability of the requested staff member and returned to the line to state she was unavailable."
   }
 }

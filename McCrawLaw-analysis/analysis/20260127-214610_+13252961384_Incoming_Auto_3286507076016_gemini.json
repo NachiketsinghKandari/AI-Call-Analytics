@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call reached an automated recording requesting a name and number for a callback and ended without human interaction or a transfer attempt.",
+    "final_outcome": "The call reached an automated recording requesting a name and number, but no interaction with a receptionist occurred and no caller information was provided.",
     "call_duration_seconds": 12.31,
     "call_duration_formatted": "00:12"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during this interaction."
   }
 }

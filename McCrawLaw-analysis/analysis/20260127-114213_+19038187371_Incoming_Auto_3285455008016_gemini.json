@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist asked the caller to hold to check on the status of a Letter of Protection for a mutual client, and the call ended as the caller was placed into the transfer path.",
+    "final_outcome": "The receptionist requested the caller to hold for a transfer after receiving an inquiry regarding a Letter of Protection, and the call ended immediately following the transfer statement.",
     "call_duration_seconds": 55.01,
     "call_duration_formatted": "00:55"
   },
@@ -20,8 +20,8 @@
       true
     ],
     "reasons": [
-      "administrative_billing_inquiry"
+      "specialized_knowledge_required"
     ],
-    "description": "The receptionist requested the caller to hold to address the inquiry regarding a Letter of Protection, and the call concluded as the transfer path was initiated."
+    "description": "The receptionist uttered a hold phrase to facilitate the caller's request and the call ended immediately afterward."
   }
 }

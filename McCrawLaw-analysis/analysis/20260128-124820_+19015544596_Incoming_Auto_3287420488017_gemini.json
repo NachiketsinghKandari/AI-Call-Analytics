@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a case status update for a specific claimant. The receptionist collected the caller's contact information and a case reference number, then took a message for the legal team as they were unavailable.",
+    "final_outcome": "The caller requested a case status update for a claimant. The receptionist collected the caller's contact information and a reference number, then took a message for the legal team.",
     "call_duration_seconds": 161.42,
     "call_duration_formatted": "02:41"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist informed the caller that staff was unavailable and took a message."
+    "description": "No transfer was attempted during the call."
   }
 }

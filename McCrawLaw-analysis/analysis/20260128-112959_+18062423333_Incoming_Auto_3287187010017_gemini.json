@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member. After the staff member was found to be unavailable, the receptionist recorded the caller's contact information and a message regarding a specific case for a callback.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member. After the staff member was unavailable, the receptionist took a message for a callback regarding a specific case.",
     "call_duration_seconds": 163.15,
     "call_duration_formatted": "02:43"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to reach Todd Henderson, but after a hold period, informed the caller he was unavailable and returned to the line to take a message."
+    "description": "The receptionist attempted to transfer the caller to Todd Henderson, but returned to the line stating he was unavailable and offered to take a message."
   }
 }

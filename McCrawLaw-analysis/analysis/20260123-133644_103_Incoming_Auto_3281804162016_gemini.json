@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with Todd. The receptionist informed the caller that Todd was at lunch, and the caller left a message for a callback regarding the Dingman case.",
+    "final_outcome": "The caller requested to speak with a specific staff member; the receptionist informed the caller the staff member was at lunch and took a message for a callback regarding the Dingman case.",
     "call_duration_seconds": 46.51,
     "call_duration_formatted": "00:46"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the requested staff member was unavailable at the time of the call."
+    "description": "No transfer was attempted as the requested staff member was unavailable."
   }
 }

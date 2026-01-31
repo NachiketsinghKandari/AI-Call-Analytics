@@ -1,14 +1,14 @@
 {
   "caller_type": "medical_provider",
   "call_summary": {
-    "primary_intent": "administrative_request",
+    "primary_intent": "document_and_evidence_submission",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to connect the caller to the team regarding a missing Letter of Protection but was unable to do so. The receptionist then took the caller's contact information and a message to have the document sent.",
+    "final_outcome": "The receptionist attempted to connect the caller to the appropriate department regarding a missing Letter of Protection; when the transfer could not be completed, the receptionist took a message and verified the caller's contact information for a follow-up.",
     "call_duration_seconds": 162.14,
     "call_duration_formatted": "02:42"
   },
@@ -20,8 +20,8 @@
       false
     ],
     "reasons": [
-      "administrative_billing_inquiry"
+      "specialized_knowledge_required"
     ],
-    "description": "The receptionist attempted to connect the caller to the team to address the missing Letter of Protection but stated they were unable to connect and took a message instead."
+    "description": "The receptionist attempted to connect the caller to staff regarding the LOP but informed the caller they were unavailable and took a message instead."
   }
 }

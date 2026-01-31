@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to connect the caller to her case worker or attorney. Upon finding them unavailable, the receptionist took a message regarding the caller's dissatisfaction with the case progress and issues with her rental car settlement.",
+    "final_outcome": "The caller requested to speak with her caseworker or attorney. The receptionist attempted to check their availability but determined they were unavailable. The receptionist then took a message regarding the caller's insurance and rental car concerns.",
     "call_duration_seconds": 190.08,
     "call_duration_formatted": "03:10"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist checked for the availability of the requested staff members and informed the caller they were unavailable."
+    "description": "The receptionist attempted to locate the requested staff members but returned to the line to state they were unavailable and offered to take a message."
   }
 }

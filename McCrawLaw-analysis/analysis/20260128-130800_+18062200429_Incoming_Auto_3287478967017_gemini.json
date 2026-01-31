@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "returning_call",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "callback_scheduled",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from a staff member named Tom. The receptionist informed the caller that Tom was unavailable and stated that they would have him return the call.",
+    "final_outcome": "The caller identified as Shalonda Jones returning a call from Tom. The receptionist checked for Tom's availability during a 43-second silence, then informed the caller he was unavailable and scheduled a callback.",
     "call_duration_seconds": 84.46,
     "call_duration_formatted": "01:24"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was verbally attempted. The receptionist checked availability during a period of silence and then offered a callback."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the requested staff member's availability during a 43-second silence and determined he was unavailable."
   }
 }

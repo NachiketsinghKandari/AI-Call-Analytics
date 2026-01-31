@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "intake_completed",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and accident details for a new potential case and informed the caller that the information would be provided to the legal team.",
+    "final_outcome": "The receptionist collected the caller's contact information, physical address, and details regarding a motor vehicle accident involving the caller's wife to facilitate a follow-up from the legal team.",
     "call_duration_seconds": 179.21,
     "call_duration_formatted": "02:59"
   },

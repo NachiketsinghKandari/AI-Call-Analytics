@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a case manager regarding a patient's status. The receptionist attempted to locate a staff member, but they were unavailable, so the receptionist took a message for a callback.",
+    "final_outcome": "The caller requested to speak with a case manager regarding a patient's status. The receptionist checked for availability, determined no one was available, and took a message for a callback.",
     "call_duration_seconds": 132.12,
     "call_duration_formatted": "02:12"
   },
@@ -20,8 +20,8 @@
       false
     ],
     "reasons": [
-      "case_status_inquiry"
+      "request_assigned_staff"
     ],
-    "description": "The receptionist checked for an available case manager, but none were available to take the call."
+    "description": "The receptionist attempted to locate the case manager while the caller was on the line but informed the caller that no one was available to take the call."
   }
 }

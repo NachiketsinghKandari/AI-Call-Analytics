@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "solicitation_and_spam",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding personal injury leads. The receptionist determined the staff member was unavailable and took a message including the caller's name, company, and phone number.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable, then took a message including the caller's name, company, and phone number.",
     "call_duration_seconds": 103.9,
     "call_duration_formatted": "01:43"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist handled the call directly by taking a message after checking availability."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the requested staff member's availability and, upon finding them unavailable, offered to take a message."
   }
 }

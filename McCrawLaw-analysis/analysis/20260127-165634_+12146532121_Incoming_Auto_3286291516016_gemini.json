@@ -6,15 +6,15 @@
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "callback_scheduled",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "Receptionist attempted to transfer the caller to a specific staff member but was unable to connect. The receptionist then collected a callback number and promised to have the staff member return the call.",
+    "final_outcome": "The receptionist attempted to transfer the caller to staff regarding the Hurst case, but the transfer was unsuccessful. The receptionist then collected a callback number and confirmed a message would be passed along.",
     "call_duration_seconds": 257.18,
     "call_duration_formatted": "04:17"
   },
   "transfer_context": {
     "destinations": [
-      "specific_staff_member"
+      "unspecified_internal_transfer"
     ],
     "transfer_connection_status": [
       false
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to connect the caller to the requested staff member, but returned to the line after a hold to report they were unable to get through."
+    "description": "The receptionist attempted to connect the caller to internal staff, but returned to the line stating they were unable to get through and proceeded to take a message."
   }
 }

@@ -1,21 +1,27 @@
 {
   "caller_type": "existing_client",
   "call_summary": {
-    "primary_intent": "document_and_evidence_submission",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about the receipt of signed forms and fee information. The receptionist placed the caller on hold to check availability, then informed the caller that no one was available to confirm receipt and took a message for a callback.",
+    "final_outcome": "The receptionist attempted to check staff availability regarding the caller's inquiry about documents and fees. After a hold, the receptionist informed the caller that no one was available and agreed to the caller's request for a callback.",
     "call_duration_seconds": 178.13,
     "call_duration_formatted": "02:58"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist placed the caller on hold to check availability internally and then returned to the line."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check for staff availability; upon returning, the receptionist stated that no one was available and offered to relay the caller's inquiry."
   }
 }

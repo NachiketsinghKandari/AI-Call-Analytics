@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call disconnected immediately after the IVR recording disclaimer without any interaction from a caller or receptionist.",
+    "final_outcome": "The call disconnected immediately after the automated IVR recording notice without any interaction from a caller or receptionist.",
     "call_duration_seconds": 18.29,
     "call_duration_formatted": "00:18"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the call ended during the initial IVR announcement."
   }
 }

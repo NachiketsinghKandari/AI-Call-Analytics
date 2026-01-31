@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the firm is not looking for new office space and is not planning to move.",
+    "final_outcome": "The receptionist informed the caller that the firm is not looking for new office space and has no plans to move.",
     "call_duration_seconds": 47.23,
     "call_duration_formatted": "00:47"
   },

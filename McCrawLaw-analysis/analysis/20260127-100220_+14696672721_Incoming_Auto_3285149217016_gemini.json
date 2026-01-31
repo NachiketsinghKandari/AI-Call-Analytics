@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding a case. The receptionist checked availability, informed the caller the staff member was unavailable, and took a message and contact information for a callback.",
+    "final_outcome": "The receptionist attempted to locate Amy Hefner for the caller; however, she was unavailable, so the receptionist took a message and the caller's contact information.",
     "call_duration_seconds": 104.76,
     "call_duration_formatted": "01:44"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist placed the caller on hold to check for the requested staff member's availability and returned to state they were unavailable."
+    "description": "The receptionist checked for the requested staff member's availability but determined they were unavailable and proceeded to take a message."
   }
 }

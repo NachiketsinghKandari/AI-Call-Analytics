@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller returned a call for attorney Drake. The receptionist collected the caller's contact information and confirmed that a message would be sent to the legal team.",
+    "final_outcome": "The caller contacted the firm to return a call from their attorney. The receptionist collected the caller's name and callback number and confirmed that they would notify the legal team that the caller had returned the call.",
     "call_duration_seconds": 81.22,
     "call_duration_formatted": "01:21"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the receptionist immediately informed the caller that the legal team was unavailable and took a message."
   }
 }

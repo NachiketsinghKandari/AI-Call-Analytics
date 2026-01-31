@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller stated they were returning a call but disconnected to check their voicemail before the receptionist could identify the appropriate staff member.",
+    "final_outcome": "The caller stated they were returning a call from the firm; when the receptionist asked for more details, the caller stated they would call back after checking their voicemail and ended the call.",
     "call_duration_seconds": 28.15,
     "call_duration_formatted": "00:28"
   },

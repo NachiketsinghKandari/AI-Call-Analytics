@@ -1,5 +1,5 @@
 {
-  "caller_type": "new_client",
+  "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": false,

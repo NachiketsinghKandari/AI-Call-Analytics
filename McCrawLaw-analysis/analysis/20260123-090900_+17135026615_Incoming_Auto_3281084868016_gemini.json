@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist conducted a new client intake in Spanish and informed the caller that the firm only handles personal injury or wrongful death cases, which did not apply to the caller's situation.",
+    "final_outcome": "The receptionist completed an intake interview and informed the caller that the firm only handles personal injury or wrongful death cases, declining the property damage matter.",
     "call_duration_seconds": 251.93,
     "call_duration_formatted": "04:11"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist handled the inquiry directly."
+    "description": "No transfer was attempted; the receptionist handled the intake and provided a resolution directly."
   }
 }

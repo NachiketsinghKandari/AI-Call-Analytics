@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided the correct fax number to the caller from Blue Cross Blue Shield, who confirmed the information and ended the call.",
+    "final_outcome": "The receptionist provided the correct fax number to the caller from Blue Cross Blue Shield after the caller reported issues with a previous number.",
     "call_duration_seconds": 87.05,
     "call_duration_formatted": "01:27"
   },

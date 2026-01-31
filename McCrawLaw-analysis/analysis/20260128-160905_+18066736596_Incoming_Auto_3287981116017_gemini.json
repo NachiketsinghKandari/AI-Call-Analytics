@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to locate a specific staff member, determined they were unavailable, and took a message from the caller.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding a case. The receptionist checked availability, determined the staff member was unavailable, and took a message for a callback.",
     "call_duration_seconds": 97.99,
     "call_duration_formatted": "01:37"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist checked for the staff member's availability but they were unavailable; a message was taken as a fallback."
+    "description": "The receptionist attempted to check the availability of Todd Henderson. After determining he was unavailable, the receptionist offered to take a message."
   }
 }

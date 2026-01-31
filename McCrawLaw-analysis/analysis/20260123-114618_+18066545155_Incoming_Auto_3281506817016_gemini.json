@@ -1,20 +1,20 @@
 {
   "caller_type": "existing_client",
   "call_summary": {
-    "primary_intent": "check_case_status",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist checked for the requested attorney's availability, informed the caller that both the attorney and case manager were unavailable, provided a brief status update regarding lien negotiations, and took a message for a callback.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable. The receptionist provided a brief case status and took a message for a callback.",
     "call_duration_seconds": 59.83,
     "call_duration_formatted": "00:59"
   },
   "transfer_context": {
     "destinations": [
-      "legal_counsel"
+      "specific_staff_member"
     ],
     "transfer_connection_status": [
       false
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to locate the attorney but explicitly stated they were unavailable and offered to take a message."
+    "description": "The receptionist attempted to connect the caller to the requested attorney, but returned to the line to state that both the attorney and case manager were unavailable."
   }
 }

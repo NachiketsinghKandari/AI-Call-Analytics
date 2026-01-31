@@ -1,21 +1,27 @@
 {
   "caller_type": "law_office",
   "call_summary": {
-    "primary_intent": "financial_and_settlement_inquiry",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the requested staff member was unavailable and took a message regarding a settlement discussion for the Barnett Walker Jr. case.",
+    "final_outcome": "The receptionist attempted to reach a specific staff member who was unavailable. The receptionist then took a message from the caller regarding a settlement discussion for the Barnett Walker Jr. case.",
     "call_duration_seconds": 90.94,
     "call_duration_formatted": "01:30"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist determined the staff member was not at her desk and proceeded to take a message."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check for the requested staff member's availability and returned to the line when they were found to be unavailable."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and the client's details to notify the legal team for a follow-up regarding the case status.",
+    "final_outcome": "The receptionist collected the caller's contact information and the client's details to notify the legal team for a follow-up regarding a case status inquiry.",
     "call_duration_seconds": 200.23,
     "call_duration_formatted": "03:20"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist took a message for the legal team to follow up."
+    "description": "No transfer was attempted during the call."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller informed the receptionist that they were being called back by a staff member on another line and concluded the call.",
+    "final_outcome": "The caller informed the receptionist that they were being called back by a staff member and no longer required assistance; the receptionist acknowledged this and the call concluded.",
     "call_duration_seconds": 20.52,
     "call_duration_formatted": "00:20"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted as the caller withdrew their request."
   }
 }

@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller provided an update regarding her vehicle being totaled and requested to speak with her attorney. The receptionist informed the caller the attorney was unavailable and took a message for follow-up.",
+    "final_outcome": "The caller requested to speak with her lawyer to provide an update on her vehicle being totaled. The receptionist stated the lawyer was unavailable and took a message for a follow-up.",
     "call_duration_seconds": 138.1,
     "call_duration_formatted": "02:18"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist informed the caller the attorney was unavailable and offered to take a message."
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The caller requested to speak with her lawyer, but the receptionist informed her she was unavailable and offered to take a message."
   }
 }

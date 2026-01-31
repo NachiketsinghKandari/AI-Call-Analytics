@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and job inquiry details, stating they would send the information to the team.",
+    "final_outcome": "The receptionist collected the caller's contact information and details regarding a job application, then informed the caller that the information would be forwarded to the team.",
     "call_duration_seconds": 158.98,
     "call_duration_formatted": "02:38"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist gathered information to forward to the internal team."
+    "description": "No transfer was attempted; the receptionist gathered information to be passed along to the internal team."
   }
 }

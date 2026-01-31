@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The firm's automated system flagged the incoming call as spam and terminated the interaction after providing instructions to use an alternative contact method.",
+    "final_outcome": "The system identified the incoming call as spam and provided instructions to contact the firm via email or a different number before the interaction ended.",
     "call_duration_seconds": 20.59,
     "call_duration_formatted": "00:20"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the call was automatically flagged as spam."
+    "description": "No transfer was attempted as the call was flagged as spam by the automated system."
   }
 }

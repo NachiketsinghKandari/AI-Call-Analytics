@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist acknowledged the caller's request to speak with staff regarding a case and initiated a transfer, at which point the call ended.",
+    "final_outcome": "The receptionist stated intent to transfer the caller to someone regarding a case and the call ended immediately after the caller acknowledged the request to hold.",
     "call_duration_seconds": 21.67,
     "call_duration_formatted": "00:21"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated 'give me one moment' following a request to speak with staff and the call ended immediately, indicating the caller was placed into the transfer path."
+    "description": "The receptionist asked the caller to hold for a moment to connect them with staff regarding the case, and the call concluded."
   }
 }

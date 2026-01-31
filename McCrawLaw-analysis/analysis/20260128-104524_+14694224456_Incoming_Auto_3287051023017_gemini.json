@@ -6,9 +6,9 @@
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from a staff member. The receptionist attempted to reach the staff member while the caller was on hold, but the staff member was unavailable. The receptionist then took a message for a callback and confirmed the caller's phone number.",
+    "final_outcome": "The caller attempted to reach a specific staff member to return a call. The receptionist placed the caller on hold to check availability, determined the staff member was unavailable, and then confirmed the caller's contact information to facilitate a callback.",
     "call_duration_seconds": 119.16,
     "call_duration_formatted": "01:59"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist placed the caller on hold to check for Emily's availability. After determining she was unavailable, the receptionist returned to the line to take a message."
+    "description": "The receptionist placed the caller on hold to attempt a transfer to a specific staff member, but returned to the line when the staff member was unavailable."
   }
 }

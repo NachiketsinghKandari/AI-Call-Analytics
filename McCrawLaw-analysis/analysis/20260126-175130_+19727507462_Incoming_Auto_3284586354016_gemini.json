@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the caller's case information and verified the phone number for the caller to submit a separation letter via text message.",
+    "final_outcome": "The receptionist confirmed the caller's case details and verified the phone number for the caller to submit a separation letter via text message.",
     "call_duration_seconds": 133.34,
     "call_duration_formatted": "02:13"
   },

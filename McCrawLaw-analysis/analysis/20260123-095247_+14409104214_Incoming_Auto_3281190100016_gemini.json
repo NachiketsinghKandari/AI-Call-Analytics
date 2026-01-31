@@ -4,18 +4,24 @@
     "primary_intent": "returning_call",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from an attorney regarding a specific matter. The receptionist determined the attorney was unavailable and recorded the caller's name and phone number for a callback.",
+    "final_outcome": "The caller attempted to return a call to an attorney. The receptionist checked for the attorney's availability, determined they were unavailable, and took a message with the caller's contact information.",
     "call_duration_seconds": 105.91,
     "call_duration_formatted": "01:45"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist checked availability while the caller was on hold and then proceeded to take a message."
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to reach the attorney but returned to state he was unavailable and proceeded to take a message."
   }
 }

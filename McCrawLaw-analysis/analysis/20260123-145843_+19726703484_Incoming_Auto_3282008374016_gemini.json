@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller returned a missed call to identify the business; the receptionist identified the firm and concluded the call was a misdial.",
+    "final_outcome": "The caller contacted the firm regarding a missed call from the firm's number. The receptionist identified the business as a personal injury law firm and determined the initial call was a misdial.",
     "call_duration_seconds": 43.56,
     "call_duration_formatted": "00:43"
   },

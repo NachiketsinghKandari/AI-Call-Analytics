@@ -1,14 +1,14 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "check_case_status",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to an attorney, but the attorney was unavailable. The receptionist then took a message and a callback number from the caller.",
+    "final_outcome": "The receptionist attempted to transfer the caller to an attorney. After the attorney was found to be unavailable, the receptionist took a message and a callback number from the caller.",
     "call_duration_seconds": 96.05,
     "call_duration_formatted": "01:36"
   },
@@ -20,8 +20,8 @@
       false
     ],
     "reasons": [
-      "case_status_inquiry"
+      "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to connect the caller to an attorney, but returned to the line to state the attorney was unavailable and offered to take a message."
+    "description": "The receptionist attempted to connect the caller to an attorney, but returned to the line to state the attorney was unavailable and then took a message."
   }
 }

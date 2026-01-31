@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "An automated IVR system played an emergency alert regarding a missing person and then disconnected the call.",
+    "final_outcome": "The call was an automated emergency alert broadcast from an IVR system that disconnected after playing the message twice.",
     "call_duration_seconds": 56.45,
     "call_duration_formatted": "00:56"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the call consisted entirely of an automated IVR broadcast."
+    "description": "No transfer was attempted."
   }
 }

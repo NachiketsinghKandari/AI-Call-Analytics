@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member. When the staff member was unavailable, the receptionist took a message and contact information from the insurance representative.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable, then proceeded to take a message.",
     "call_duration_seconds": 190.8,
     "call_duration_formatted": "03:10"
   },
@@ -17,11 +17,11 @@
       "specific_staff_member"
     ],
     "transfer_connection_status": [
-      "false"
+      false
     ],
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to transfer the caller to a specific staff member, but the staff member was unavailable, so the receptionist offered to take a message."
+    "description": "The receptionist attempted to transfer the caller to Alec, but returned to the line stating the staff member was unavailable and offered to take a message."
   }
 }

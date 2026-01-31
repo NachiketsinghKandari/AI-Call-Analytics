@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm regarding an advertisement but expressed confusion about the nature of the business. The receptionist explained the firm's services, and the call ended without establishing a clear legal need or next steps.",
+    "final_outcome": "The caller contacted the firm regarding an advertisement but was confused about the nature of the business. The receptionist explained the firm's services, and the call ended without a specific request or intake being initiated.",
     "call_duration_seconds": 59.83,
     "call_duration_formatted": "00:59"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during this call."
   }
 }

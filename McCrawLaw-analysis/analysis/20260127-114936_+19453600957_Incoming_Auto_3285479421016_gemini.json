@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information for a divorce inquiry but determined the firm's local office does not handle family law. The receptionist provided a verbal referral to another attorney, which the caller accepted.",
+    "final_outcome": "The receptionist collected the caller's contact information and determined the firm's Sulphur Springs office does not handle family law, then provided a referral to another attorney.",
     "call_duration_seconds": 261.58,
     "call_duration_formatted": "04:21"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist provided a verbal referral directly to the caller."
+    "description": "No transfer was attempted; the receptionist provided a referral directly to the caller."
   }
 }

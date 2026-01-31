@@ -1,5 +1,5 @@
 {
-  "caller_type": "sales_vendor",
+  "caller_type": "business_vendor",
   "call_summary": {
     "primary_intent": "solicitation_and_spam",
     "resolution_achieved": false,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The system flagged the incoming call as spam and played an automated message instructing the caller to email or call from a different number before the call was terminated.",
+    "final_outcome": "The call was automatically flagged as spam by the firm's system and the caller was instructed to contact the firm via email or a different phone number.",
     "call_duration_seconds": 21.38,
     "call_duration_formatted": "00:21"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the call was automatically terminated by the system after a spam notification."
+    "description": "No transfer was attempted as the call was automatically intercepted and terminated by a spam filter."
   }
 }

@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a staff member regarding a potential case. The receptionist determined the staff member was unavailable, provided a phone number for the caller to text documentation, and recorded a callback number.",
+    "final_outcome": "The receptionist attempted to locate a specific staff member who was unavailable. The receptionist provided a text-only number for the caller to submit documentation and recorded a callback request with the caller's confirmed phone number.",
     "call_duration_seconds": 125.71,
     "call_duration_formatted": "02:05"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist checked availability while the caller was on hold and then handled the request directly."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check availability for a specific staff member and returned to state they were unavailable."
   }
 }

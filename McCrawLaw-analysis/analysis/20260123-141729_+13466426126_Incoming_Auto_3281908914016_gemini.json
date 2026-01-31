@@ -4,18 +4,24 @@
     "primary_intent": "returning_call",
     "resolution_achieved": false,
     "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from the firm. The receptionist was unable to identify the staff member who initiated the call and requested a callback number, but the call ended before the caller provided any contact information.",
+    "final_outcome": "The caller was returning a call from the firm. The receptionist attempted to identify the staff member who reached out but was unable to do so and requested a callback number before the call concluded.",
     "call_duration_seconds": 58.46,
     "call_duration_formatted": "00:58"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist placed the caller on hold to locate the staff member who had previously called the caller, but returned to state they could not be found."
   }
 }

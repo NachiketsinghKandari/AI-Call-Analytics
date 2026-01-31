@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding marketing accounts. The receptionist attempted to reach the staff member, found them unavailable, and subsequently took a message and callback number.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding a marketing account. The receptionist attempted to reach the staff member, but they were unavailable. The receptionist then took a message and confirmed the caller's contact information for a callback.",
     "call_duration_seconds": 183.89,
     "call_duration_formatted": "03:03"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to contact a specific staff member in the marketing department while the caller held, but the staff member was unavailable."
+    "description": "The receptionist placed the caller on hold to attempt a transfer to a specific staff member, then returned to the line to state the staff member was unavailable and offered to take a message."
   }
 }

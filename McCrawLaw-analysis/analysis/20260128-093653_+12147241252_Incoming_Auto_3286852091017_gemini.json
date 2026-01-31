@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist gathered the caller's contact information and details regarding a property and inheritance matter, determined the firm does not handle real estate or probate, and provided a referral to another attorney.",
+    "final_outcome": "The receptionist collected the caller's contact information and case details, determined the firm could not assist with the specific real estate and probate matters, and provided a referral to another attorney.",
     "call_duration_seconds": 369.43,
     "call_duration_formatted": "06:09"
   },

@@ -1,5 +1,5 @@
 {
-  "caller_type": "new_client",
+  "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": false,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller encountered an automated recording regarding a legal matter and the call disconnected after the caller said hello.",
+    "final_outcome": "The caller answered an automated recording from the firm regarding a court warrant and said hello, but the call ended before a live receptionist joined or any operational action was taken.",
     "call_duration_seconds": 27.43,
     "call_duration_formatted": "00:27"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted as the call ended after the automated recording."
   }
 }

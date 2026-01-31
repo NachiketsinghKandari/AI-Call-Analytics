@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a treatment status update for a client. The receptionist stated that no staff were available to provide the update and collected the caller's phone number and email address for a callback.",
+    "final_outcome": "The caller requested a treatment status update for a client. The receptionist stated the relevant team was unavailable and recorded the caller's phone number and email address for a callback.",
     "call_duration_seconds": 186.12,
     "call_duration_formatted": "03:06"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the receptionist stated the team was unavailable and proceeded to take a message for a callback."
   }
 }

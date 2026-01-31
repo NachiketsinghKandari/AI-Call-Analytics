@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the client, recorded the caller's contact information, and stated that the team would be notified to provide a status update via callback.",
+    "final_outcome": "The receptionist collected the caller's contact information and the client's details, then promised to have the team call back with a status update.",
     "call_duration_seconds": 96.77,
     "call_duration_formatted": "01:36"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "description": "No transfer was attempted. The receptionist offered a callback from the team."
   }
 }

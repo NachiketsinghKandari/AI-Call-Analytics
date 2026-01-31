@@ -2,20 +2,26 @@
   "caller_type": "insurance_rep",
   "call_summary": {
     "primary_intent": "financial_and_settlement_inquiry",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller from State Farm requested a fax number or email to send a notice regarding a duplicate payment. The receptionist asked for the client's name and then asked the caller to wait, but the call ended before any information was provided or next steps were established.",
+    "final_outcome": "The receptionist requested the caller to hold after obtaining the client's name, and the call ended immediately, placing the caller into the transfer path.",
     "call_duration_seconds": 59.26,
     "call_duration_formatted": "00:59"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted before the call ended."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist stated 'Give me one moment' and the call ended, which constitutes an initiated transfer under the operational rules."
   }
 }

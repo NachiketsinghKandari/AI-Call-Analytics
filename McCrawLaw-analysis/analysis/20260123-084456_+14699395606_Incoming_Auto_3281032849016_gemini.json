@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided the requested email address for Amy Hefner and the caller confirmed receipt before ending the call.",
+    "final_outcome": "The caller requested the email address for a specific staff member. The receptionist provided the email address and the caller confirmed they received it before the call concluded.",
     "call_duration_seconds": 58.32,
     "call_duration_formatted": "00:58"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the receptionist provided the requested information directly."
   }
 }

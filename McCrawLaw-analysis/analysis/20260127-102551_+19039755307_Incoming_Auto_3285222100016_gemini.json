@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and details regarding a traffic violation. The receptionist provided a referral to another law firm and stated they would also send the intake information to the firm's McKinney office for review.",
+    "final_outcome": "The receptionist collected the caller's contact information and details regarding a traffic violation, provided a referral to another firm, and confirmed the information would be sent to the office for review.",
     "call_duration_seconds": 331.42,
     "call_duration_formatted": "05:31"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted during the call."
   }
 }

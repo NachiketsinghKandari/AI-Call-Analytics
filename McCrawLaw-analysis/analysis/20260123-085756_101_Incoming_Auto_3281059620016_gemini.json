@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested permission to work from home or bring a family member to the office due to a family emergency, and the supervisor granted the request and provided instructions.",
+    "final_outcome": "The caller requested to work from home and pick up a family member due to a medical emergency; the supervisor granted the request and provided instructions for taking equipment home.",
     "call_duration_seconds": 85.9,
     "call_duration_formatted": "01:25"
   },

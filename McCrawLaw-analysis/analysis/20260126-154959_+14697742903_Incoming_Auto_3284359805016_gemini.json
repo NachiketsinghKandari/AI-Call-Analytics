@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "scheduling_and_appointments",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and request to schedule a meeting with Kimberly Messenger, then confirmed a message would be relayed to the team as no one was currently available.",
+    "final_outcome": "The receptionist checked for the availability of a specific staff member, confirmed they were unavailable, and took a message from the caller regarding a meeting request.",
     "call_duration_seconds": 206.35,
     "call_duration_formatted": "03:26"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist gathered information and took a message directly."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check for Kimberly's availability; she then returned to the line to state that no one was available and offered to take a message."
   }
 }

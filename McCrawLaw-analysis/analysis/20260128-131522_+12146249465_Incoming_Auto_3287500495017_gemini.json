@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "returning_call",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call for a specific case. The receptionist determined the staff member was on lunch, took a callback number, and promised to relay the message.",
+    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist checked availability, determined the staff member was on lunch, and took a callback number from the caller.",
     "call_duration_seconds": 52.92,
     "call_duration_formatted": "00:52"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to check availability for a specific staff member who was found to be on lunch."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the staff member who had previously called the client and initiated a transfer to that individual.",
+    "final_outcome": "The receptionist identified the staff member who previously contacted the client and initiated a transfer to that individual.",
     "call_duration_seconds": 60.91,
     "call_duration_formatted": "01:00"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist identified Crystal as the staff member who called the client and initiated a transfer after the caller provided verbal consent."
+    "description": "The receptionist confirmed the caller was an existing client, identified the staff member Crystal as the one who called him, and transferred the call to her."
   }
 }

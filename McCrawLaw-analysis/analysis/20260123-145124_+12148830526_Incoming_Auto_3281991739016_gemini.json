@@ -2,20 +2,26 @@
   "caller_type": "law_office",
   "call_summary": {
     "primary_intent": "returning_call",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller identified as defense counsel returning a call from a specific staff member, but the call ended while the receptionist was attempting to locate the case information.",
+    "final_outcome": "The caller requested to speak with a specific staff member to return a call. The receptionist stated 'Give me one moment' and the call ended immediately afterward.",
     "call_duration_seconds": 35.93,
     "call_duration_formatted": "00:35"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted before the call concluded."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist used a hold phrase to initiate a transfer to the requested staff member and the call ended immediately afterward."
   }
 }

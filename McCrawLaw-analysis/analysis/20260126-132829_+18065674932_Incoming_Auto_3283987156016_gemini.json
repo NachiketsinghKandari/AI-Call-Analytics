@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the caller's identity and contact information, then documented her question regarding counseling referrals to be sent to the legal team for a callback.",
+    "final_outcome": "The receptionist documented the caller's inquiry regarding counseling referrals and confirmed her contact information to facilitate a callback from the legal team.",
     "call_duration_seconds": 170.06,
     "call_duration_formatted": "02:50"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted. The receptionist took a message for the legal team."
   }
 }

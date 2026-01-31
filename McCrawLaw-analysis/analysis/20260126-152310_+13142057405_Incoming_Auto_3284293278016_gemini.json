@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that they were unable to connect them to staff at the moment and took a message including a callback number, claim number, and email address.",
+    "final_outcome": "The caller requested to speak with staff regarding a file. The receptionist stated that they could not connect the caller at that time and took a message with the caller's contact information and claim number.",
     "call_duration_seconds": 75.53,
     "call_duration_formatted": "01:15"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist stated they could not connect the caller to anyone at that time."
+    "description": "No transfer was attempted as the receptionist stated staff were unavailable and proceeded to take a message."
   }
 }

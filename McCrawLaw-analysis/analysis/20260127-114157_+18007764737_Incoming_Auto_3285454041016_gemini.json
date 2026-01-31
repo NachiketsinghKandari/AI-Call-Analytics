@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller reached a voicemail greeting and left a message containing a settlement offer and contact information for two individuals.",
+    "final_outcome": "The caller reached a voicemail greeting and left a message including their name, company, contact information, and a settlement offer for the clients.",
     "call_duration_seconds": 39.82,
     "call_duration_formatted": "00:39"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the caller reached a voicemail greeting directly."
+    "description": "No transfer was attempted; the call was answered by an automated voicemail system."
   }
 }

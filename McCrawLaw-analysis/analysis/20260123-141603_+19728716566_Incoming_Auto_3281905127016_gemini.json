@@ -1,21 +1,27 @@
 {
-  "caller_type": "insurance_rep",
+  "caller_type": "spanish_speaker",
   "call_summary": {
     "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": true,
-    "final_outcome": "The caller provided settlement offer details for three separate cases. The receptionist noted the information and took a message for the attorney to return the call as he was currently unavailable.",
+    "final_outcome": "The caller provided settlement offer details for three separate cases. The receptionist checked for the assigned attorney, determined he was unavailable, and took a message with the caller's contact information and specific offer amounts.",
     "call_duration_seconds": 342.79,
     "call_duration_formatted": "05:42"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist informed the caller the attorney was on another line and took a message for the multiple cases discussed."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist checked for the attorney, stated he was on another line, and proceeded to take a message for the caller."
   }
 }

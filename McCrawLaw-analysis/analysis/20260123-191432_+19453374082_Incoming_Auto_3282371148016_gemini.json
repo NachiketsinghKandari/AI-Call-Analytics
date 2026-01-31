@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "callback_scheduled",
-    "operational_terminal_state": "direct_resolution",
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the caller as a Spanish speaker, collected her name and phone number, and initiated an automated request for a Spanish-language callback.",
+    "final_outcome": "The receptionist identified the caller as a Spanish speaker, obtained her name and phone number, and initiated a transfer path for a Spanish callback before the call disconnected.",
     "call_duration_seconds": 70.27,
     "call_duration_formatted": "01:10"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist processed a request for a callback in Spanish."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist stated they were requesting a Spanish callback and the call ended immediately after an automated Spanish message confirmed the request."
   }
 }

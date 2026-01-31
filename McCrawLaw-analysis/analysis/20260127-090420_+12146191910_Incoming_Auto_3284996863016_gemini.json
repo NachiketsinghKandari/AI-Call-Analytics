@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected contact information and details regarding a Letter of Protection request for a patient and informed the caller that the information would be sent to the team for review.",
+    "final_outcome": "The receptionist collected contact information and specific details regarding a Letter of Protection request for a patient and confirmed the information would be forwarded to the legal team for review.",
     "call_duration_seconds": 375.41,
     "call_duration_formatted": "06:15"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist handled the request by taking a message and documenting the necessary details."
+    "description": "No transfer was attempted. The receptionist gathered all necessary information directly from the caller."
   }
 }

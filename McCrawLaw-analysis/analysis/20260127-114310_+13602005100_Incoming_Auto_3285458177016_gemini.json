@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The automated system flagged the caller's number as spam and terminated the call after providing instructions to email or use a different number.",
+    "final_outcome": "The automated system identified the caller's number as spam and terminated the call after providing alternative contact instructions.",
     "call_duration_seconds": 21.31,
     "call_duration_formatted": "00:21"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the call was blocked by the automated system."
+    "description": "No transfer was attempted as the call was automatically blocked and terminated by the system."
   }
 }

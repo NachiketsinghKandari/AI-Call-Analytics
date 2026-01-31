@@ -2,20 +2,26 @@
   "caller_type": "medical_provider",
   "call_summary": {
     "primary_intent": "document_and_evidence_submission",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested confirmation of record receipt; the receptionist asked for a moment to check, and the call ended before any information was provided or action taken.",
+    "final_outcome": "The caller requested confirmation of record receipt for a specific individual. The receptionist requested the caller to hold, and the call ended immediately following the request.",
     "call_duration_seconds": 21.89,
     "call_duration_formatted": "00:21"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist stated 'Give me one moment, please' and the call ended immediately afterward."
   }
 }

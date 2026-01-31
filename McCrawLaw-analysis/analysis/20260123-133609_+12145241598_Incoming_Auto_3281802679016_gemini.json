@@ -2,20 +2,26 @@
   "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "returning_call",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from a staff member named Mary. After the caller provided his name, the receptionist asked for a moment and the call ended shortly after without a transfer or message being taken.",
+    "final_outcome": "The caller stated he was returning a call from a staff member named Mary. The receptionist requested the caller's name and then initiated a transfer, at which point the call ended.",
     "call_duration_seconds": 32.11,
     "call_duration_formatted": "00:32"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was initiated during the call."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist asked the caller to hold for a moment after he identified himself as returning a call for Mary, and the call ended immediately after."
   }
 }

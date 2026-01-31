@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected intake information regarding a premises liability matter and scheduled a follow-up call for the next morning to allow the caller to locate documentation.",
+    "final_outcome": "The receptionist collected intake information regarding a premises liability claim and scheduled a follow-up call for the next morning to allow the caller time to locate relevant documentation.",
     "call_duration_seconds": 962.86,
     "call_duration_formatted": "16:02"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist handled the intake and scheduled a callback."
+    "description": "No transfer was attempted; the receptionist placed the caller on hold to consult internally and then returned to the line to complete the intake."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the requested staff member was unavailable and took a message including the caller's contact information and a list of patient names for follow-up.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding patient updates; the receptionist stated the staff member was unavailable and took a message with the caller's contact information and patient details.",
     "call_duration_seconds": 156.96,
     "call_duration_formatted": "02:36"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist identified the staff member was unavailable and proceeded to take a message."
+    "description": "No transfer was attempted; the receptionist checked availability and immediately offered to take a message."
   }
 }

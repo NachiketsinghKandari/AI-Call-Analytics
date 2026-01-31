@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller provided information regarding a medical bill and the receptionist confirmed the callback number, stating they would notify the staff member.",
+    "final_outcome": "The caller returned a call to provide information about a medical bill balance. The receptionist confirmed the caller's phone number and stated they would pass the information to the staff member who was currently on another call.",
     "call_duration_seconds": 82.15,
     "call_duration_formatted": "01:22"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message for a staff member who was currently on another call."
+    "description": "No transfer was attempted; the receptionist immediately offered to take a message as the staff member was unavailable."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's name and claim number, then initiated a transfer by stating 'one moment' before the call ended.",
+    "final_outcome": "The caller provided a claim number and his name to return a call; the receptionist stated 'one moment' and the call ended immediately afterward.",
     "call_duration_seconds": 46.3,
     "call_duration_formatted": "00:46"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "After gathering the caller's information, the receptionist stated 'one moment' and the call ended, indicating the caller was placed into the transfer path."
+    "description": "The receptionist uttered a transfer phrase and the call ended immediately, indicating the caller was placed into the transfer path."
   }
 }

@@ -6,9 +6,9 @@
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to reach a specific staff member regarding a settlement check inquiry. After determining the staff member was unavailable, the receptionist took a message and confirmed the caller's contact information for a callback.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding a settlement check. The receptionist attempted to locate the staff member, determined they were unavailable, and recorded a callback number for the staff member to return the call.",
     "call_duration_seconds": 92.52,
     "call_duration_formatted": "01:32"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist checked for the availability of the requested staff member and, upon finding them unavailable, offered to take a message."
+    "description": "The receptionist attempted to reach a specific staff member, but they were unavailable, so a message for a callback was taken instead."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to reach the requested attorney while the caller was on hold. After determining the attorney was unavailable, the receptionist returned to the line, took a message regarding an insurance offer, and updated the caller's contact information.",
+    "final_outcome": "The caller requested to speak with specific staff members regarding an insurance offer. The receptionist attempted to reach the attorney, but they were unavailable. The receptionist then took a message and updated the caller's contact information.",
     "call_duration_seconds": 295.42,
     "call_duration_formatted": "04:55"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist placed the caller on hold to attempt to reach Attorney Drake, but returned to the line stating the attorney was unavailable."
+    "description": "The receptionist placed the caller on hold to attempt a transfer to the requested attorney but returned to state the attorney was unavailable."
   }
 }

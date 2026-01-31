@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided the case status and the case manager's email address directly to the caller.",
+    "final_outcome": "The receptionist attempted to locate the case manager for a status update but found them unavailable. The receptionist then provided the case manager's email address to the caller.",
     "call_duration_seconds": 96.55,
     "call_duration_formatted": "01:36"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist provided the requested information directly."
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist placed the caller on hold to check for the case manager, then returned to state they were unavailable and offered to take a message."
   }
 }

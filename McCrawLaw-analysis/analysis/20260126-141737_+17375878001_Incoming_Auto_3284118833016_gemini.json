@@ -1,5 +1,5 @@
 {
-  "caller_type": "sales_vendor",
+  "caller_type": "business_vendor",
   "call_summary": {
     "primary_intent": "solicitation_and_spam",
     "resolution_achieved": false,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the system flagged the phone number as spam and the call ended.",
+    "final_outcome": "The receptionist informed the caller that the system flagged the number as spam and the call was terminated.",
     "call_duration_seconds": 10.44,
     "call_duration_formatted": "00:10"
   },

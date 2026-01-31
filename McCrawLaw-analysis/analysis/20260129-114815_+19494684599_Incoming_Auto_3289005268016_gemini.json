@@ -1,5 +1,5 @@
 {
-  "caller_type": "insurance_rep",
+  "caller_type": "business_vendor",
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to the case manager, but the staff member was unavailable. The receptionist then took a message regarding a pending inspection permission form and a request for a return call or email.",
+    "final_outcome": "The caller requested information regarding a client's case. The receptionist attempted to transfer the call to the case manager, but the staff member was unavailable. The receptionist then took a message regarding an inspection permission form and concluded the call.",
     "call_duration_seconds": 109.44,
     "call_duration_formatted": "01:49"
   },
@@ -20,8 +20,8 @@
       false
     ],
     "reasons": [
-      "case_status_inquiry"
+      "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to connect the caller to the case manager, but returned to the line to report the staff member was unavailable."
+    "description": "The receptionist attempted to connect the caller to the case manager, but returned to the line to state the staff member was unavailable and offered to take a message."
   }
 }

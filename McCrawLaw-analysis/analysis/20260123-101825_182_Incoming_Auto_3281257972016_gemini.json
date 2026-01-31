@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist announced a caller returning a call to a staff member, who redirected the transfer to another specific staff member; the receptionist acknowledged and the call ended.",
+    "final_outcome": "The receptionist coordinated with an internal staff member to route a returning call from Gregory Jones to the correct staff member, Drake.",
     "call_duration_seconds": 18.0,
     "call_duration_formatted": "00:18"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to route the caller to one staff member who then redirected the call to another colleague named Drake."
+    "description": "The receptionist was instructed to transfer the caller to Drake and acknowledged the request before the call ended."
   }
 }

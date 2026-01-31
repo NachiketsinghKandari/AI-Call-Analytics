@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller from Progressive called to present a settlement offer. The receptionist informed the caller the office was not yet open and took a message to deliver to the legal team.",
+    "final_outcome": "The receptionist identified the case and took a message regarding a settlement offer because the office was not yet open for the day.",
     "call_duration_seconds": 111.96,
     "call_duration_formatted": "01:51"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted."
   }
 }

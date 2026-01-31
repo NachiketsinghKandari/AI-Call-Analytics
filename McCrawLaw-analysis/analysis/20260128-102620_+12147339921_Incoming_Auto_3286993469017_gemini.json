@@ -1,14 +1,14 @@
 {
   "caller_type": "existing_client",
   "call_summary": {
-    "primary_intent": "speak_with_staff",
+    "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller provided their name and phone number for a callback after the receptionist requested the information.",
+    "final_outcome": "The caller provided their name and contact information for a callback after a recorded greeting indicated that no one was available to take the call.",
     "call_duration_seconds": 44.14,
     "call_duration_formatted": "00:44"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the caller was prompted to leave a message by a recorded greeting."
   }
 }

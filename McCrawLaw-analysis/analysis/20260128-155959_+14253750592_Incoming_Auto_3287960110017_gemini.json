@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "An automated recording regarding a Google listing solicitation played and the call ended without interaction from the firm.",
+    "final_outcome": "The caller delivered a recorded message regarding a Google listing and the call ended without interaction or a terminal operational state.",
     "call_duration_seconds": 10.94,
     "call_duration_formatted": "00:10"
   },

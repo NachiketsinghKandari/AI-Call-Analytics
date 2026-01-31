@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist accessed the caller's file and provided a status update regarding pending medical records and an estimated timeframe.",
+    "final_outcome": "The caller requested a status update on his case. The receptionist accessed the file and informed the caller that the firm is currently waiting on medical records and provided an estimated timeframe for the process.",
     "call_duration_seconds": 4.97,
     "call_duration_formatted": "00:04"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist resolved the inquiry directly."
+    "description": "No transfer was attempted as the receptionist was able to provide the requested information directly."
   }
 }

@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "verify_representation",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
+    "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the requested staff member was unavailable and took a message regarding the firm's representation status of a client and the caller's intent to close an insurance claim.",
+    "final_outcome": "The caller from Lancer Insurance requested to verify if the firm still represents a specific client. The receptionist stated the staff member was unavailable and took a message regarding the caller's intent to close the claim due to lack of response.",
     "call_duration_seconds": 184.32,
     "call_duration_formatted": "03:04"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist stated the staff member was unavailable and proceeded to take a message."
+    "description": "No transfer was attempted; the receptionist immediately informed the caller that the requested staff member was unavailable and proceeded to take a message."
   }
 }

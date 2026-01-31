@@ -4,18 +4,24 @@
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with his brother's attorney. The receptionist determined the attorney was unavailable and took a message for a callback, which the caller accepted.",
+    "final_outcome": "The receptionist attempted to reach the assigned attorney, determined he was unavailable, and took a message for a callback.",
     "call_duration_seconds": 117.22,
     "call_duration_formatted": "01:57"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist identified the staff member was unavailable before initiating a transfer path."
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked the availability of the attorney and informed the caller he was unavailable before offering to take a message."
   }
 }

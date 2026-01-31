@@ -1,21 +1,27 @@
 {
   "caller_type": "business_vendor",
   "call_summary": {
-    "primary_intent": "returning_call",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a text from a staff member regarding a job application. The receptionist determined the staff member was unavailable and took a message with the caller's name and phone number for a callback.",
+    "final_outcome": "The caller requested to speak with Carrie Stein regarding a job application. The receptionist attempted to check availability, found the staff member unavailable, and took a message for a callback.",
     "call_duration_seconds": 112.46,
     "call_duration_formatted": "01:52"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist identified the requested staff member was unavailable after checking."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check for Carrie Stein, then returned to state she was unavailable and took a message."
   }
 }

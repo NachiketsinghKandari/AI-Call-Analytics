@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call was answered by an automated recording and a voicemail greeting, then terminated without any interaction or message being left.",
+    "final_outcome": "The call reached an automated voicemail greeting and terminated without any interaction or message from the caller.",
     "call_duration_seconds": 10.22,
     "call_duration_formatted": "00:10"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the call reached an automated voicemail greeting."
+    "description": "No transfer was attempted."
   }
 }

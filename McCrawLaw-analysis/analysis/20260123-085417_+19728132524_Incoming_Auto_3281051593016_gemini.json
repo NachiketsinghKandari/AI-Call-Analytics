@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the call ended prematurely."
+    "description": "No transfer was attempted."
   }
 }

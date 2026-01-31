@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a case status update. The receptionist was unable to access the internal system to identify the assigned staff and offered a callback. The caller provided a contact number, and the receptionist accepted responsibility for requesting the callback.",
+    "final_outcome": "The caller requested a case status update. The receptionist was unable to access the system to identify the assigned staff, so she collected the caller's contact information and scheduled a callback.",
     "call_duration_seconds": 134.64,
     "call_duration_formatted": "02:14"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted because the receptionist could not identify the assigned staff due to a system outage."
   }
 }

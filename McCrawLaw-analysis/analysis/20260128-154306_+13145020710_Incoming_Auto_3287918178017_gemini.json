@@ -1,21 +1,27 @@
 {
   "caller_type": "business_vendor",
   "call_summary": {
-    "primary_intent": "speak_with_staff",
+    "primary_intent": "administrative_request",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about a job opening. The receptionist determined that no staff members were available to take the call, collected the caller's name and phone number, and took a message for a callback.",
+    "final_outcome": "The caller inquired about an attorney job opening. The receptionist checked for staff availability, confirmed no one was available, and took a message for a callback.",
     "call_duration_seconds": 91.94,
     "call_duration_formatted": "01:31"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist determined no staff were available and proceeded to take a message."
+    "destinations": [
+      "administration_and_operations"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist checked for staff availability regarding the job inquiry but found no one available and proceeded to take a message."
   }
 }

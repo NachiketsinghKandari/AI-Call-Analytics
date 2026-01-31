@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to the legal team for a case status update. Upon finding no one available, the receptionist took a message for the team to review.",
+    "final_outcome": "The receptionist attempted to transfer the caller to the legal team for a case status update. After finding no one available, the receptionist took a message for the team to review.",
     "call_duration_seconds": 184.75,
     "call_duration_formatted": "03:04"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "case_status_inquiry"
     ],
-    "description": "The receptionist checked for available legal team members to provide a case status update but confirmed no one was available and proceeded to take a message."
+    "description": "The receptionist attempted to transfer the caller to the legal team, but returned to the line to state no one was available and offered to take a message."
   }
 }

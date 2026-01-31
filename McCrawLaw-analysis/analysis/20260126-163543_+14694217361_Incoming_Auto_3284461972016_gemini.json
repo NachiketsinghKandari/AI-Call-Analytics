@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller attempted to refer a potential client, but the call was terminated by the caller after a colleague interrupted to state the call had looped.",
+    "final_outcome": "The caller identified as being from another firm to refer a potential client for a slip and fall case, but the call was terminated by the caller due to a technical loop before the receptionist could process the request.",
     "call_duration_seconds": 36.72,
     "call_duration_formatted": "00:36"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the call ended prematurely due to a technical issue reported by the caller's colleague."
+    "description": "No transfer was attempted."
   }
 }

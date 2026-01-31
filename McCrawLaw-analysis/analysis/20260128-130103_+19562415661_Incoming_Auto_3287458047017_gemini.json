@@ -1,5 +1,5 @@
 {
-  "caller_type": "family_member",
+  "caller_type": "new_client",
   "call_summary": {
     "primary_intent": "new_client_intake",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist completed a new client intake, determined the matter was outside the firm's scope of practice, and provided the caller with the phone number for the Bar Association.",
+    "final_outcome": "The receptionist collected intake information regarding a bullying incident, determined the matter did not fall within the firm's personal injury practice area, and provided the caller with a referral to the Bar Association.",
     "call_duration_seconds": 351.07,
     "call_duration_formatted": "05:51"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during this call."
   }
 }

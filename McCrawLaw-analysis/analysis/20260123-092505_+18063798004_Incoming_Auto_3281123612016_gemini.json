@@ -2,20 +2,26 @@
   "caller_type": "medical_provider",
   "call_summary": {
     "primary_intent": "check_case_status",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested information regarding a specific individual, and the call ended while the receptionist was attempting to locate the records.",
+    "final_outcome": "The receptionist requested the caller to hold while she looked up the case details and the call ended immediately after the second request for a moment.",
     "call_duration_seconds": 46.66,
     "call_duration_formatted": "00:46"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist stated 'Give me one moment' and the call ended immediately afterward, which constitutes an operational transfer path entry."
   }
 }

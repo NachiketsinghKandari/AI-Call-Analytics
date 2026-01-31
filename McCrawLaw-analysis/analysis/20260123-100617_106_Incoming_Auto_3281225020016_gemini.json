@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call terminated immediately after the automated recording disclosures without any human interaction or verbal exchange.",
+    "final_outcome": "The call consisted only of automated recording disclosures and ended before any interaction with a receptionist or caller occurred.",
     "call_duration_seconds": 6.84,
     "call_duration_formatted": "00:06"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the call ended during the automated greeting."
+    "description": "No transfer was attempted as no interaction took place."
   }
 }

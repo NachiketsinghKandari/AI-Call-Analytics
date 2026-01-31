@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from Amy Hefner regarding the Romig versus Lowes case. The receptionist checked Amy's availability, determined she was unavailable, and took a message with the caller's callback number.",
+    "final_outcome": "The caller requested to speak with Amy Hefner regarding the Romig versus Lowes case. The receptionist attempted to check availability, informed the caller that the staff member was unavailable, and recorded a callback number.",
     "call_duration_seconds": 69.48,
     "call_duration_formatted": "01:09"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to check availability for Amy Hefner but found her unavailable and proceeded to take a message."
+    "description": "The receptionist placed the caller on hold to reach Amy Hefner but returned to the line to state she was unavailable."
   }
 }

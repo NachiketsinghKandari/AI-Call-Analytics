@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable. The receptionist then collected the caller's phone number to facilitate a callback.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member. When the staff member was unavailable, the receptionist collected the caller's phone number to schedule a callback.",
     "call_duration_seconds": 178.2,
     "call_duration_formatted": "02:58"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to transfer the caller to Bryce, but returned to the line when he was unavailable to offer a callback."
+    "description": "The receptionist attempted to connect the caller to Bryce, but returned to the line to offer a callback when the staff member was unavailable."
   }
 }

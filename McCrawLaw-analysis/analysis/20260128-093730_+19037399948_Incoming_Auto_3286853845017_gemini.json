@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected contact information and a message from a medical provider regarding a case status inquiry and concluded the call.",
+    "final_outcome": "The caller requested a case status update for a patient. The receptionist collected the caller's contact information and confirmed that a message would be sent for a return call.",
     "call_duration_seconds": 115.85,
     "call_duration_formatted": "01:55"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "description": "No transfer was attempted during the call; the receptionist proceeded directly to taking a message for a callback."
   }
 }

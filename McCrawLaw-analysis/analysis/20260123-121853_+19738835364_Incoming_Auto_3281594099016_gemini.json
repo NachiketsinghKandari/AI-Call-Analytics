@@ -8,20 +8,23 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to the handling attorney, but confirmed the attorney was unavailable. The receptionist then took a callback number and provided the Chief Marketing Officer's email address to the caller.",
+    "final_outcome": "The receptionist attempted to transfer the caller to attorney Charlie Ginn and Chief Marketing Officer Yvonne Kinser. After determining both were unavailable, the receptionist recorded the caller's callback number and provided the Chief Marketing Officer's email address.",
     "call_duration_seconds": 182.52,
     "call_duration_formatted": "03:02"
   },
   "transfer_context": {
     "destinations": [
-      "legal_counsel"
+      "legal_counsel",
+      "administration_and_operations"
     ],
     "transfer_connection_status": [
+      false,
       false
     ],
     "reasons": [
+      "request_assigned_staff",
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to locate the attorney and CMO, but returned to the line to state they were unavailable and offered to take a message."
+    "description": "The receptionist placed the caller on hold to attempt a transfer to the handling attorney and the Chief Marketing Officer. The receptionist then returned to the line to state that both parties were unavailable and proceeded to take a message."
   }
 }

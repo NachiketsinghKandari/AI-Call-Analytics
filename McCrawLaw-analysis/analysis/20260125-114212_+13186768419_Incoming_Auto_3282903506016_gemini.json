@@ -1,5 +1,5 @@
 {
-  "caller_type": "new_client",
+  "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": false,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call disconnected immediately after the automated recording announcement and the caller's initial greeting, before any intent or next steps could be established.",
+    "final_outcome": "The call disconnected immediately after the automated recording announcement and the caller began to introduce themselves.",
     "call_duration_seconds": 4.25,
     "call_duration_formatted": "00:04"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the call ended prematurely."
+    "description": "No transfer was attempted as the call disconnected prematurely."
   }
 }

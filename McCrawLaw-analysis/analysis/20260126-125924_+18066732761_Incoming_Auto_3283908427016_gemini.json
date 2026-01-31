@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "callback_scheduled",
-    "operational_terminal_state": "direct_resolution",
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member in Spanish. The receptionist obtained the caller's name, and an automated message informed the caller that the call would disconnect and a Spanish-speaking representative would call them back shortly.",
+    "final_outcome": "The caller requested a specific staff member and spoke Spanish. The receptionist placed the caller on hold to initiate a transfer, and the call concluded with an automated message stating a Spanish-speaking representative would return the call.",
     "call_duration_seconds": 50.98,
     "call_duration_formatted": "00:50"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The call was handled by an automated system that scheduled a callback for Spanish language support."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to facilitate the request for a specific staff member, and the call was subsequently terminated by an automated system promising a callback."
   }
 }

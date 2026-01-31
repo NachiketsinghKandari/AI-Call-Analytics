@@ -2,20 +2,26 @@
   "caller_type": "insurance_rep",
   "call_summary": {
     "primary_intent": "check_case_status",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller from USAA Insurance inquired about a client, and the call ended while the receptionist was attempting to locate the file.",
+    "final_outcome": "The receptionist identified the case for the insurance representative and placed the call on hold to pull up the file, after which the call ended.",
     "call_duration_seconds": 33.7,
     "call_duration_formatted": "00:33"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist used a hold phrase after identifying the case and the call ended immediately, which is treated as entering the transfer path."
   }
 }

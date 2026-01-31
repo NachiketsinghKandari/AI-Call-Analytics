@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm to explain why she had not signed DocuSign documents, citing a lack of personal injury while noting her husband's ongoing pain. The receptionist initiated a transfer to an internal department and the call ended.",
+    "final_outcome": "The caller contacted the firm to discuss pending DocuSign documents and clarify her injury status. The receptionist initiated a transfer to an unspecified internal department and the call ended.",
     "call_duration_seconds": 79.78,
     "call_duration_formatted": "01:19"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "specialized_knowledge_required"
     ],
-    "description": "The receptionist stated she would connect the caller to another department and the call ended immediately after the statement of intent."
+    "description": "The receptionist stated she would connect the caller and the call ended immediately after the caller acknowledged the request to hold."
   }
 }

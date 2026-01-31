@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller identified himself and stated he was calling regarding a case. The receptionist located the file, but the call ended before any specific request was made or addressed.",
+    "final_outcome": "The caller identified himself and stated he was calling about a case. The receptionist located the file, but the call ended before the caller's specific request was stated or addressed.",
     "call_duration_seconds": 5.4,
     "call_duration_formatted": "00:05"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted during the call."
   }
 }

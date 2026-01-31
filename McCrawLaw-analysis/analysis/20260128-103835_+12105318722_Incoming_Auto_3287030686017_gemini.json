@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "Receptionist stated intent to connect the caller to a specific staff member and the call ended immediately after the receptionist asked the caller to wait one moment.",
+    "final_outcome": "The receptionist stated intent to connect the caller to a specific staff member and placed the caller on hold, after which the call ended.",
     "call_duration_seconds": 42.98,
     "call_duration_formatted": "00:42"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "Receptionist confirmed they would connect the caller to Crystal Flores and the call ended after the receptionist placed the caller on hold."
+    "description": "The receptionist confirmed they would connect the caller to Crystal Flores and the call ended immediately after the caller was placed on hold."
   }
 }

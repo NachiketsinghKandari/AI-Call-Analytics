@@ -4,24 +4,18 @@
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "transfer_attempted",
+    "resolution_type": "message_taken",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist stated the staff member was in a meeting and took a message with the caller's contact information for a callback.",
+    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist informed the caller that the staff member was in a meeting and took a message with the caller's name, phone number, and reason for the call for a callback.",
     "call_duration_seconds": 62.42,
     "call_duration_formatted": "01:02"
   },
   "transfer_context": {
-    "destinations": [
-      "specific_staff_member"
-    ],
-    "transfer_connection_status": [
-      false
-    ],
-    "reasons": [
-      "assigned_staff_unavailable"
-    ],
-    "description": "The receptionist informed the caller that the requested staff member was in a meeting and proceeded to take a message."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted because the receptionist immediately identified the requested staff member was unavailable and offered to take a message."
   }
 }

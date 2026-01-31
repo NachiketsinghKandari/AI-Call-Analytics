@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about legal fees for a new accident case. The receptionist explained the consultation process and the caller decided to call back at a later time.",
+    "final_outcome": "The caller inquired about legal fees for a friend's accident case. The receptionist provided information regarding a free consultation and collected the caller's contact information. The caller stated they would call back later.",
     "call_duration_seconds": 137.02,
     "call_duration_formatted": "02:17"
   },

@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "callback_scheduled",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with his brother's attorney. The receptionist consulted with the attorney while the caller was on hold and confirmed that a callback would be made later that day.",
+    "final_outcome": "The receptionist attempted to reach the attorney while the caller was on hold. The attorney was unavailable to take the call, and the caller agreed to a callback later that day.",
     "call_duration_seconds": 120.96,
     "call_duration_formatted": "02:00"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist handled the request directly by communicating with the attorney and relaying the callback information to the caller."
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to contact the attorney, but returned to the line to inform the caller that the attorney was unavailable and would call back."
   }
 }

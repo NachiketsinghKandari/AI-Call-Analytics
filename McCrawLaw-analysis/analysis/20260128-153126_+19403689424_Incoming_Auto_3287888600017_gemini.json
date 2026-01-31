@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller provided information regarding pay stubs and inquired about deposition scheduling. The receptionist noted the information and took a message for the staff member to return the call.",
+    "final_outcome": "The caller provided information regarding pay stubs and inquired about deposition scheduling. The receptionist noted the details and informed the caller that the staff member was unavailable, promising a callback.",
     "call_duration_seconds": 177.62,
     "call_duration_formatted": "02:57"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the receptionist took a message for the unavailable staff member."
   }
 }

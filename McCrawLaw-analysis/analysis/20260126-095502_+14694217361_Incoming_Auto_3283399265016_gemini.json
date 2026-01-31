@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "new_client_intake",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist instructed the caller to transfer the prospective client to a specific intake specialist and the caller agreed to perform the transfer.",
+    "final_outcome": "The receptionist directed the caller to transfer a prospective client to an intake specialist and the call ended after the caller confirmed they would do so.",
     "call_duration_seconds": 31.9,
     "call_duration_formatted": "00:31"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "The receptionist did not initiate a transfer; instead, she provided instructions for the caller to route the prospective client to the intake department."
+    "destinations": [
+      "intake_and_investigation"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist stated she was in a meeting and requested the caller transfer the party to an intake specialist; the call ended immediately after the caller agreed."
   }
 }

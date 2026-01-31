@@ -1,14 +1,14 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "legal_operations_discussion",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
+    "resolution_basis": "fallback_accepted",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and details regarding a bodily injury claim and compromise offer, then confirmed a message would be sent to the legal team.",
+    "final_outcome": "The caller from Geico Claims requested to speak with staff regarding a specific case. The receptionist collected the caller's contact information and a detailed message regarding a bodily injury claim and compromise offer, then confirmed the message would be sent to the team.",
     "call_duration_seconds": 153.36,
     "call_duration_formatted": "02:33"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist took a message for the team."
+    "description": "No transfer was attempted; the receptionist determined a message was necessary and the caller provided the relevant case details."
   }
 }

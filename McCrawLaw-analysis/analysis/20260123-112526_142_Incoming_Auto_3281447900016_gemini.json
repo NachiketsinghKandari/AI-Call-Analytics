@@ -4,11 +4,11 @@
     "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
-    "resolution_type": "pending_action",
+    "resolution_type": "information_provided",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested that the receptionist contact a specific individual regarding an email thread with an adjuster, and the receptionist agreed to the request.",
+    "final_outcome": "The caller requested that the receptionist follow up with Greg Jones regarding an email thread with an adjuster; the receptionist agreed to the request and the call concluded.",
     "call_duration_seconds": 16.13,
     "call_duration_formatted": "00:16"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted."
   }
 }

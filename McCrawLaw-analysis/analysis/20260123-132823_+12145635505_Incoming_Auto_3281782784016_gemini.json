@@ -1,27 +1,30 @@
 {
   "caller_type": "existing_client",
   "call_summary": {
-    "primary_intent": "financial_and_settlement_inquiry",
+    "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "transfer_path_entered",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
-    "multi_case_details": false,
-    "final_outcome": "The receptionist transferred the caller to the case manager to discuss the status of a settlement check.",
+    "multi_case_details": true,
+    "final_outcome": "The caller requested an update on a settlement check. The receptionist successfully transferred the caller to a case manager, who provided status updates for both the caller's case and a separate matter for another individual.",
     "call_duration_seconds": 251.78,
     "call_duration_formatted": "04:11"
   },
   "transfer_context": {
     "destinations": [
+      "case_management",
       "case_management"
     ],
     "transfer_connection_status": [
+      false,
       true
     ],
     "reasons": [
-      "case_status_inquiry"
+      "request_assigned_staff",
+      "request_assigned_staff"
     ],
-    "description": "The receptionist connected the caller to the case manager after the caller requested an update on his settlement funds."
+    "description": "The receptionist initially attempted to reach the case manager but found them unavailable; a second attempt was successful and the caller was connected to Drake."
   }
 }

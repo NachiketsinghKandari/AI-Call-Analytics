@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller greeted the receptionist in Spanish and the call ended before any specific intent or terminal action was established.",
+    "final_outcome": "The caller spoke in Spanish and the call ended before a specific request or next steps were established.",
     "call_duration_seconds": 13.9,
     "call_duration_formatted": "00:13"
   },

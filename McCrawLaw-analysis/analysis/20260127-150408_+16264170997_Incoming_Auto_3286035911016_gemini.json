@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "Receptionist completed an intake for a motor vehicle accident and attempted to consult with an attorney; after a hold, the receptionist informed the caller that no insurance coverage was available for the claim and advised the caller to contact the firm again if uninsured motorist coverage is confirmed.",
+    "final_outcome": "Receptionist completed an intake for a motor vehicle accident, attempted to consult an attorney while the caller was on hold, and then informed the caller that the firm could not assist due to insurance liability denials, advising the caller to call back if uninsured motorist coverage is identified.",
     "call_duration_seconds": 583.06,
     "call_duration_formatted": "09:43"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "specialized_knowledge_required"
     ],
-    "description": "Receptionist attempted to transfer the caller to an attorney for a consultation but returned to the line to provide the legal determination directly."
+    "description": "The receptionist attempted to consult an attorney regarding the caller's liability questions but returned to the line to provide the firm's decision directly."
   }
 }

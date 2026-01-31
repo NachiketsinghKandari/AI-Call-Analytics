@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that representation status could not be confirmed over the phone and provided a fax number for the caller to submit a formal inquiry.",
+    "final_outcome": "The caller requested to verify if a patient is represented by the firm. The receptionist stated that information could not be provided over the phone and provided a fax number for the caller to submit a formal inquiry.",
     "call_duration_seconds": 89.5,
     "call_duration_formatted": "01:29"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted; the receptionist handled the request directly by providing the firm's fax number."
   }
 }

@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "callback_scheduled",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the internal system was down and collected a callback number for a case manager or attorney to return the call.",
+    "final_outcome": "The receptionist attempted to look up the case but encountered system issues; she then collected a callback number for a case manager or attorney to return the call.",
     "call_duration_seconds": 50.47,
     "call_duration_formatted": "00:50"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted because the receptionist reported that the firm's systems were currently down."
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist placed the caller on hold to check the case, but returned to state the system was down and offered a callback instead of a transfer."
   }
 }

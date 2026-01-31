@@ -8,20 +8,23 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist asked the caller to wait and the call ended immediately afterward, indicating the caller was placed into the transfer path.",
+    "final_outcome": "The receptionist attempted to transfer the caller to Ariana, who was unavailable. The receptionist then initiated a transfer to Drake and the call ended immediately afterward.",
     "call_duration_seconds": 59.98,
     "call_duration_formatted": "00:59"
   },
   "transfer_context": {
     "destinations": [
+      "specific_staff_member",
       "specific_staff_member"
     ],
     "transfer_connection_status": [
+      false,
       true
     ],
     "reasons": [
+      "request_assigned_staff",
       "request_assigned_staff"
     ],
-    "description": "After the caller asked for a second staff member (Drake), the receptionist stated intent to check availability and the call ended immediately."
+    "description": "The receptionist first attempted to reach Ariana but returned to state she was unavailable. The receptionist then attempted to transfer the caller to Drake, and the call ended immediately after the transfer statement."
   }
 }

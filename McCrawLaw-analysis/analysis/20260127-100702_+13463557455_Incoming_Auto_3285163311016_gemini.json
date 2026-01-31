@@ -1,14 +1,14 @@
 {
   "caller_type": "medical_provider",
   "call_summary": {
-    "primary_intent": "administrative_request",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
+    "resolution_basis": "fallback_accepted",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and the client's name to take a message regarding a missing letter of protection for scheduling purposes.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding a Letter of Protection for a mutual client. The receptionist collected the caller's contact information and client details, then took a message to be passed to the legal team.",
     "call_duration_seconds": 208.08,
     "call_duration_formatted": "03:28"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message to pass along to the team."
+    "description": "No transfer was attempted. The receptionist offered to take a message and the caller provided their contact information and the client's name."
   }
 }

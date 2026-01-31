@@ -2,20 +2,26 @@
   "caller_type": "insurance_rep",
   "call_summary": {
     "primary_intent": "financial_and_settlement_inquiry",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller identified as an insurance representative responding to a demand. The receptionist asked for a moment to pull up the case information, but the call ended before any operational resolution or transfer was initiated.",
+    "final_outcome": "The receptionist stated 'give me one moment' to transfer the caller after confirming they were responding to a demand, and the call ended immediately afterward.",
     "call_duration_seconds": 29.59,
     "call_duration_formatted": "00:29"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist used a transfer phrase and the call ended, indicating the caller was placed into the transfer path."
   }
 }

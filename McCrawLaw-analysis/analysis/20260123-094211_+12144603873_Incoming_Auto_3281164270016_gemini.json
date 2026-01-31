@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "Receptionist initiated a transfer to the case manager after the caller inquired about a missed call, and the call ended immediately following the transfer statement.",
+    "final_outcome": "The caller returned a missed call from the firm, and the receptionist initiated a transfer to the case manager.",
     "call_duration_seconds": 48.1,
     "call_duration_formatted": "00:48"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she would connect the caller to his case manager and the call concluded."
+    "description": "The receptionist stated she would connect the caller to his case manager and the call ended immediately after the caller agreed to hold."
   }
 }

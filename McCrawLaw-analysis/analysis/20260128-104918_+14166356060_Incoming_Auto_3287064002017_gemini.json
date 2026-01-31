@@ -1,14 +1,14 @@
 {
   "caller_type": "medical_provider",
   "call_summary": {
-    "primary_intent": "administrative_request",
+    "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller from a medical clinic reported an issue with a check payment for a records request. The receptionist confirmed the caller's contact information and the patient's name, then promised to notify the team to provide a callback as no staff were currently available to assist.",
+    "final_outcome": "The caller reported an issue with a payment check for medical records. The receptionist confirmed the patient's name and the caller's contact information, then promised to have the responsible staff member return the call.",
     "call_duration_seconds": 199.58,
     "call_duration_formatted": "03:19"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted as the receptionist stated no one was available to speak at the moment."
   }
 }

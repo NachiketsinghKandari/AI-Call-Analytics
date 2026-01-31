@@ -1,14 +1,14 @@
 {
-  "caller_type": "sales_vendor",
+  "caller_type": "new_client",
   "call_summary": {
-    "primary_intent": "solicitation_and_spam",
+    "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": false,
     "resolution_basis": "no_terminal_action",
     "resolution_type": "interaction_failed",
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call was terminated prematurely after Speaker 3 mentioned a law group and avoiding suspension; no operational resolution was reached.",
+    "final_outcome": "The call disconnected immediately after the initial greeting and before any operational action could be taken or the caller's intent established.",
     "call_duration_seconds": 6.12,
     "call_duration_formatted": "00:06"
   },

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": true,
-    "final_outcome": "The supervisor and case manager discussed intake errors on two specific cases and established a plan for data correction and insurance investigation.",
+    "final_outcome": "A case manager and supervisor discussed internal data entry errors regarding the Yaylee and Katie Franco files and reviewed the insurance recovery strategy for the Franco case.",
     "call_duration_seconds": 502.13,
     "call_duration_formatted": "08:22"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this internal staff call."
+    "description": "No transfer was attempted as the call was a direct internal consultation between staff members."
   }
 }

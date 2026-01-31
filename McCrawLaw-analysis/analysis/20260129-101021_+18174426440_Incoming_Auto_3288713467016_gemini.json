@@ -1,21 +1,27 @@
 {
   "caller_type": "medical_provider",
   "call_summary": {
-    "primary_intent": "check_case_status",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller identified as a medical provider inquiring about a mutual client. The call ended while the receptionist was placing the caller on hold to look up the file.",
+    "final_outcome": "The receptionist requested the caller to hold after identifying the client and the call ended immediately afterward.",
     "call_duration_seconds": 23.4,
     "call_duration_formatted": "00:23"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated 'Give me one moment, please' after the caller identified the client, and the call ended immediately, indicating the caller was placed into the transfer path."
   }
 }

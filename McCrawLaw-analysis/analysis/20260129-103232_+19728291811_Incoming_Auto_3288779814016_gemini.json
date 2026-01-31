@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "Receptionist confirmed the firm works on contingency and initiated a transfer to an intake specialist to discuss the caller's potential cases.",
+    "final_outcome": "The receptionist confirmed the firm works on a contingency basis and initiated a transfer to an intake specialist to discuss the caller's potential legal matters.",
     "call_duration_seconds": 119.74,
     "call_duration_formatted": "01:59"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "specialized_knowledge_required"
     ],
-    "description": "Receptionist stated intent to transfer the caller to an intake specialist and the call ended immediately afterward."
+    "description": "The receptionist stated she would connect the caller to an intake specialist and the call ended immediately after the transfer was initiated."
   }
 }

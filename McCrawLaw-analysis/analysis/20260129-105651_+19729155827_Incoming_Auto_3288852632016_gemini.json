@@ -2,20 +2,26 @@
   "caller_type": "insurance_rep",
   "call_summary": {
     "primary_intent": "check_case_status",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a status update on a claim. The receptionist asked for a moment to assist, but the call ended before any information was provided or a transfer was initiated.",
+    "final_outcome": "The receptionist requested the caller to hold after the caller inquired about a claim status, and the call ended immediately following the caller's acknowledgment.",
     "call_duration_seconds": 16.78,
     "call_duration_formatted": "00:16"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist stated 'give me one moment, please' and the call ended immediately after the caller's response, indicating the caller was placed into the transfer path."
   }
 }

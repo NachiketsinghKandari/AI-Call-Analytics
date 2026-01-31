@@ -1,14 +1,14 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "check_case_status",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a staff member, but no lines were available. The receptionist then took a message regarding the caller's inquiry about PIP coverage for the client Rebecca Weaver.",
+    "final_outcome": "The caller requested to speak with a case manager regarding a claim. The receptionist attempted to locate staff but informed the caller that no transfer lines were available. The receptionist then took a message regarding the caller's inquiry about PIP coverage.",
     "call_duration_seconds": 152.35,
     "call_duration_formatted": "02:32"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist checked for available staff but informed the caller that no transfer lines were open and offered to take a message instead."
+    "description": "The receptionist attempted to check for an available case manager but reported that no transfer lines were open and offered to take a message."
   }
 }

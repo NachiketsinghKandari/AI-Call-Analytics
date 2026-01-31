@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the caller's identity and the client's name, then informed the caller that staff were unavailable to provide a status update. The receptionist confirmed the caller's contact information and took a message for the team to follow up.",
+    "final_outcome": "The receptionist confirmed the caller's contact information and the client's name, then stated that no one was available to provide a case status update and that the team would follow up with the caller.",
     "call_duration_seconds": 208.66,
     "call_duration_formatted": "03:28"
   },

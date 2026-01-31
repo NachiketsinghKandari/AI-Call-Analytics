@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm looking for a different business. The receptionist confirmed they had reached the wrong number, and the call was terminated.",
+    "final_outcome": "The caller reached the wrong business; the receptionist confirmed the firm's identity and the call was concluded.",
     "call_duration_seconds": 24.77,
     "call_duration_formatted": "00:24"
   },

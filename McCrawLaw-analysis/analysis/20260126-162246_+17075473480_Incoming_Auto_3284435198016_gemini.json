@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected contact information and a reference number from a medical provider to facilitate a case status update from the legal team.",
+    "final_outcome": "The receptionist placed the caller on hold to check the case status, then informed the caller that the legal team was unavailable and took a message with a reference number.",
     "call_duration_seconds": 208.66,
     "call_duration_formatted": "03:28"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message for the legal team."
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist attempted to check the status of the case but returned to the line to state the team was unavailable and offered to take a message."
   }
 }

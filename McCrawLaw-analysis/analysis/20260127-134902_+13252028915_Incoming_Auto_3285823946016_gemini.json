@@ -8,20 +8,20 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller returned a missed call from the firm. The receptionist checked for the availability of the requested staff member, determined they were unavailable, and took a message from the caller.",
+    "final_outcome": "The caller returned a missed call. The receptionist checked for the availability of the requested case manager, confirmed they were unavailable, and took a message.",
     "call_duration_seconds": 132.84,
     "call_duration_formatted": "02:12"
   },
   "transfer_context": {
     "destinations": [
-      "specific_staff_member"
+      "case_management"
     ],
     "transfer_connection_status": [
       false
     ],
     "reasons": [
-      "request_assigned_staff"
+      "assigned_staff_unavailable"
     ],
-    "description": "The receptionist checked for the availability of the case manager, Arlette Medina, but found she was unavailable and proceeded to take a message."
+    "description": "The receptionist checked for the availability of the caller's case manager, Arlette Medina, but informed the caller she was unavailable and proceeded to take a message."
   }
 }

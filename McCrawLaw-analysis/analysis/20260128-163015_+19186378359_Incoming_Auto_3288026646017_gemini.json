@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist determined that no staff members were available to take the call and took a message from the client regarding their workers' compensation case status.",
+    "final_outcome": "The caller requested information regarding next steps for their workers' compensation case. The receptionist attempted to identify a staff member for a transfer, determined no one was available, and took a message which the caller accepted.",
     "call_duration_seconds": 85.1,
     "call_duration_formatted": "01:25"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist determined no one was available and proceeded to take a message."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist checked for available staff to direct the caller to but confirmed no one was available and offered to take a message instead."
   }
 }

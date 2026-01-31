@@ -1,21 +1,27 @@
 {
   "caller_type": "medical_provider",
   "call_summary": {
-    "primary_intent": "returning_call",
+    "primary_intent": "administrative_request",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller returned a call from a staff member regarding billing records. The receptionist determined the staff member was unavailable and took a message with the caller's contact information.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding billing records. The receptionist attempted to locate the staff member, determined they were unavailable, and took a message with the caller's contact information.",
     "call_duration_seconds": 113.47,
     "call_duration_formatted": "01:53"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist checked for staff availability and proceeded to take a message when the staff member was found to be unavailable."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to reach a specific staff member but returned to state they were unavailable."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested a case status update. The receptionist placed the caller on hold to check availability, determined the case manager was unavailable, and took a message for a callback.",
+    "final_outcome": "The caller requested a status update on an open case. The receptionist attempted to reach the case manager, but upon finding them unavailable, offered to take a message for a callback, which the caller accepted.",
     "call_duration_seconds": 47.38,
     "call_duration_formatted": "00:47"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "case_status_inquiry"
     ],
-    "description": "The receptionist placed the caller on hold to check the case manager's availability; the staff member was unavailable, so the receptionist returned to the line to take a message."
+    "description": "The receptionist placed the caller on hold to check for the case manager and returned to state they were unavailable."
   }
 }

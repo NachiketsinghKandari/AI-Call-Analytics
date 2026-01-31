@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "returning_call",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "callback_scheduled",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from a specific staff member. The receptionist determined the staff member was unavailable and recorded the caller's phone number for a callback.",
+    "final_outcome": "The caller requested to speak with a specific staff member who had previously called her. The receptionist attempted to connect them but determined the staff member was unavailable. The receptionist then confirmed the caller's phone number for a callback.",
     "call_duration_seconds": 50.47,
     "call_duration_formatted": "00:50"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist checked availability and proceeded to take a message when the staff member was found to be on another line."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check the availability of the requested staff member and returned to the line when they were found to be unavailable."
   }
 }

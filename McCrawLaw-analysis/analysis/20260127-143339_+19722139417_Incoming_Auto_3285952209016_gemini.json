@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call disconnected immediately after the receptionist introduced himself and requested the caller's contact information.",
+    "final_outcome": "The call disconnected immediately after the receptionist provided the opening greeting and requested the caller's identification information.",
     "call_duration_seconds": 7.56,
     "call_duration_formatted": "00:07"
   },

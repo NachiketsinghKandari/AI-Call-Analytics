@@ -2,13 +2,13 @@
   "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "returning_call",
-    "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "unresolved_staff_unavailable",
+    "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller returned a missed call. The receptionist confirmed the caller's contact information and offered to notify the team. The caller decided to check their voicemail and call back later.",
+    "final_outcome": "The caller returned a missed call, but the receptionist was unable to identify the specific staff member who reached out. The caller declined the offer to leave a message and ended the call to check their voicemail.",
     "call_duration_seconds": 58.82,
     "call_duration_formatted": "00:58"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted as the receptionist stated no staff members were available."
   }
 }

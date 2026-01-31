@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's name and phone number and initiated a transfer to an intake specialist regarding a settlement check inquiry.",
+    "final_outcome": "The receptionist initiated a transfer to an intake specialist regarding a settlement check inquiry and the call ended after the caller was placed on hold.",
     "call_duration_seconds": 90.36,
     "call_duration_formatted": "01:30"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "case_status_inquiry"
     ],
-    "description": "The receptionist stated she would forward the caller to an intake specialist and the call ended immediately after the caller provided contact information."
+    "description": "The receptionist stated the intent to forward the caller to an intake specialist and the call ended after the caller was placed on hold."
   }
 }

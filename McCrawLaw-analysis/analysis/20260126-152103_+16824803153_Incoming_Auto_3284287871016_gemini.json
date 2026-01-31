@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller returned missed calls and informed the receptionist that they had already secured other legal representation. The receptionist acknowledged this information and the call concluded.",
+    "final_outcome": "The caller returned missed calls regarding a potential case and informed the receptionist that they had already retained other representation. The receptionist acknowledged the information and the call concluded.",
     "call_duration_seconds": 66.38,
     "call_duration_formatted": "01:06"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during this call."
   }
 }

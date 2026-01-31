@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member in the marketing department but disconnected the call while the receptionist was gathering information.",
+    "final_outcome": "The caller requested to speak with a specific staff member in the marketing department but disconnected the call to answer another line before the receptionist could facilitate the request.",
     "call_duration_seconds": 32.76,
     "call_duration_formatted": "00:32"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the caller terminated the call during the initial intake process."
+    "description": "No transfer was attempted as the caller ended the call prematurely."
   }
 }

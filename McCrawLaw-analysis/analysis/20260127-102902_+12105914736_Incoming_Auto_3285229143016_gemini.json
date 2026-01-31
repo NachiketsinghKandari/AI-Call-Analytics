@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "information_provided",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": "message_taken",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the requested staff member's email address and agreed to notify the staff member of the call.",
+    "final_outcome": "The receptionist confirmed a staff member's email address for the caller and agreed to notify the staff member that the caller had reached out.",
     "call_duration_seconds": 125.35,
     "call_duration_formatted": "02:05"
   },

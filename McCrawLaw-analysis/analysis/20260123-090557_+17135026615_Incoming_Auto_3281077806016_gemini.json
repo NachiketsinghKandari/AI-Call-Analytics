@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed they were ready to receive a Spanish-speaking caller and instructed the caller to put them through.",
+    "final_outcome": "The receptionist confirmed readiness to receive a Spanish-speaking caller and instructed the speaker to proceed with the connection.",
     "call_duration_seconds": 20.3,
     "call_duration_formatted": "00:20"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No internal transfer was initiated by the receptionist; the receptionist was the recipient of an incoming transfer."
+    "description": "The receptionist did not initiate an internal transfer; they accepted an incoming connection from a Spanish-speaking caller."
   }
 }

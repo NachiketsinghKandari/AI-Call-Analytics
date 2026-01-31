@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from a staff member. The receptionist checked for the staff member's availability, determined they were unavailable, and promised a follow-up call, which the caller accepted.",
+    "final_outcome": "The receptionist attempted to check the availability of a specific staff member named Maria. After determining Maria was unavailable, the receptionist offered a follow-up, which the caller accepted.",
     "call_duration_seconds": 68.83,
     "call_duration_formatted": "01:08"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist checked if the requested staff member was available but reported she was busy with another client."
+    "description": "The receptionist checked for Maria's availability, confirmed she was helping another client, and offered a callback."
   }
 }

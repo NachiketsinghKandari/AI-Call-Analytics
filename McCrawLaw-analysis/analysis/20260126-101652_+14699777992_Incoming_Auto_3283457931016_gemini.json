@@ -1,14 +1,14 @@
 {
-  "caller_type": "new_client",
+  "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "administrative_request",
-    "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested verification of a referral phone number provided by a staff member. The receptionist offered to check for the staff member, but the caller declined further assistance as she was receiving another call.",
+    "final_outcome": "The caller requested verification of a referral phone number previously provided by a staff member. The receptionist offered to check the staff member's availability, but the caller ended the call to answer another incoming call.",
     "call_duration_seconds": 173.95,
     "call_duration_formatted": "02:53"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist offered to check staff availability, but the caller withdrew the request to take another incoming call."
+    "description": "No transfer was attempted as the caller chose to end the interaction while the receptionist was gathering information to assist."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding a settlement. The receptionist attempted to locate the staff member, determined they were unavailable, and took a message with the caller's contact information.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding a settlement. The receptionist attempted to connect the call, but the staff member was unavailable. The receptionist then took a message and a callback number.",
     "call_duration_seconds": 86.47,
     "call_duration_formatted": "01:26"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to connect the caller to Drake, but he was on another line, so a message was taken instead."
+    "description": "The receptionist attempted to transfer the caller to a specific staff member, but returned to the line to state he was unavailable and offered to take a message."
   }
 }

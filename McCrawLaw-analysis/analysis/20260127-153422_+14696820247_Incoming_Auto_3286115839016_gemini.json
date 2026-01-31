@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and updated case details regarding a previously declined dog bite matter. The receptionist informed the caller that the legal team would follow up once the information was reviewed.",
+    "final_outcome": "The receptionist collected the caller's contact information and updated details regarding insurance availability for a previously discussed dog bite matter, then informed the caller that the legal team would follow up.",
     "call_duration_seconds": 236.38,
     "call_duration_formatted": "03:56"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist explicitly stated that no one from the legal team was immediately available and opted to take a message for a follow-up."
+    "description": "No transfer was attempted; the receptionist stated the legal team was unavailable and took a message for a callback."
   }
 }

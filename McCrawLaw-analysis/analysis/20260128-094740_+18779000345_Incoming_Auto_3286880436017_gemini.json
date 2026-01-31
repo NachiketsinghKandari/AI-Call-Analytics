@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message for the staff member."
+    "description": "No transfer was attempted during this call."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and case details regarding a workers' compensation claim and provided a referral to another law firm.",
+    "final_outcome": "The receptionist collected the caller's contact information and details regarding a workers' compensation claim, then provided a referral to another law firm.",
     "call_duration_seconds": 392.47,
     "call_duration_formatted": "06:32"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist provided a referral directly to the caller."
+    "description": "No transfer was attempted during the call; the receptionist provided a referral directly after a brief hold."
   }
 }

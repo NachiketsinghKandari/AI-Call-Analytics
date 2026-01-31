@@ -2,13 +2,13 @@
   "caller_type": "medical_provider",
   "call_summary": {
     "primary_intent": "check_case_status",
-    "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that case status information could not be provided over the phone and offered to provide a fax number or mailing address, which the caller declined before ending the call.",
+    "final_outcome": "The caller requested a case status update for a client. The receptionist informed the caller that information could not be provided over the phone and offered to provide a fax number or mailing address. The caller declined these options and the call ended without a resolution.",
     "call_duration_seconds": 73.15,
     "call_duration_formatted": "01:13"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted during this call. The receptionist placed the caller on hold to check the file and returned to the line to explain the firm's policy."
   }
 }

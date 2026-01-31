@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about a pending email regarding his claim. The receptionist verified his email address and confirmed she would relay the message to the relevant team for a follow-up.",
+    "final_outcome": "The caller inquired about a pending email from a specific staff member. The receptionist placed the caller on hold, then returned to state they would pass a message to the team and the staff member for a follow-up.",
     "call_duration_seconds": 209.88,
     "call_duration_formatted": "03:29"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check for the requested staff member, then returned to the line to take a message."
   }
 }

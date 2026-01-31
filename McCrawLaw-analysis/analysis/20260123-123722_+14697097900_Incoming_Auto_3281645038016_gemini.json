@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist checked for staff availability to address the caller's case status inquiry but determined no one was available. The receptionist took a detailed message regarding insurance disputes and medical billing concerns, and the caller accepted a follow-up from the team.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a staff member. After determining no one was available, the receptionist took a detailed message regarding the caller's case status and medical billing issues.",
     "call_duration_seconds": 204.55,
     "call_duration_formatted": "03:24"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to locate the staff member handling the case but explicitly stated no one was available and offered to take a message instead."
+    "description": "The receptionist placed the caller on hold to attempt a transfer, then returned to state that no one was available and offered to take a message."
   }
 }

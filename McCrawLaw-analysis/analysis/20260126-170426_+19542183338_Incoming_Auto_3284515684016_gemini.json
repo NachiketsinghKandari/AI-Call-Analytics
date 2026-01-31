@@ -4,11 +4,11 @@
     "primary_intent": "returning_call",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
+    "resolution_type": "callback_scheduled",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller returned a missed call regarding his wife's case. The receptionist took the caller's name and availability, stating that a staff member would call him back the next day.",
+    "final_outcome": "The caller returned a missed call regarding his wife's personal injury case. The receptionist confirmed the caller's availability and scheduled a callback for the following day.",
     "call_duration_seconds": 100.51,
     "call_duration_formatted": "01:40"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist opted to take a message for a callback instead."
+    "description": "No transfer was attempted; the receptionist handled the inquiry by scheduling a callback."
   }
 }

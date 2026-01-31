@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the office's operating hours for the day in response to the caller's inquiry regarding weather-related closures.",
+    "final_outcome": "The caller inquired if the office was closed due to weather. The receptionist confirmed the office was open from nine to five and the call concluded after the information was provided.",
     "call_duration_seconds": 56.59,
     "call_duration_formatted": "00:56"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted; the receptionist placed the caller on hold to verify information and then returned to the line to provide the answer directly."
   }
 }

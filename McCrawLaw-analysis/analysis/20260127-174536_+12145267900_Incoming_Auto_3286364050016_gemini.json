@@ -2,20 +2,26 @@
   "caller_type": "law_office",
   "call_summary": {
     "primary_intent": "speak_with_staff",
-    "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding a case. The receptionist checked and informed the caller that the staff member had left for the day. The receptionist offered to take a message, but the caller declined and stated they would send an email instead.",
+    "final_outcome": "The receptionist attempted to connect the caller to a specific staff member who was unavailable. The caller declined the offer to leave a callback number, opting to send an email instead.",
     "call_duration_seconds": 97.49,
     "call_duration_formatted": "01:37"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist checked for staff availability while the caller remained on the line."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check for the requested staff member but returned to report they were unavailable."
   }
 }

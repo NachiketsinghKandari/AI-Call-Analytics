@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller requested an update on their case. The receptionist determined that the assigned staff were in a meeting and took a message for a callback, which the caller accepted.",
+    "final_outcome": "The caller requested a case update. The receptionist determined the assigned staff were unavailable and the caller accepted a callback.",
     "call_duration_seconds": 102.31,
     "call_duration_formatted": "01:42"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist informed the caller that the staff were unavailable and offered to take a message."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist checked the availability of the requested staff and informed the caller they were in a meeting."
   }
 }

@@ -1,27 +1,21 @@
 {
-  "caller_type": "sales_vendor",
+  "caller_type": "business_vendor",
   "call_summary": {
-    "primary_intent": "solicitation_and_spam",
+    "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
-    "resolution_type": "transfer_attempted",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that no staff were available to take the call, verified the caller's contact information, and took a message to be forwarded to the office.",
+    "final_outcome": "The caller requested to speak with an office manager or intake coordinator regarding telemedicine services for the firm's clients. The receptionist stated that no one was available and took a message, confirming the caller's phone number and email address.",
     "call_duration_seconds": 142.49,
     "call_duration_formatted": "02:22"
   },
   "transfer_context": {
-    "destinations": [
-      "administration_and_operations"
-    ],
-    "transfer_connection_status": [
-      false
-    ],
-    "reasons": [
-      "assigned_staff_unavailable"
-    ],
-    "description": "The receptionist explicitly stated that no one was available to take the call and offered to take a message, which the caller accepted."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist offered to take a message immediately after stating that no staff members were available."
   }
 }

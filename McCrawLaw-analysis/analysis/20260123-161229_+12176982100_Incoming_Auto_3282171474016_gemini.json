@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided the requested email address for the case manager to the insurance representative.",
+    "final_outcome": "The receptionist provided the case manager's email address to the caller from Blue Cross Blue Shield for the submission of plan documents.",
     "call_duration_seconds": 77.69,
     "call_duration_formatted": "01:17"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the receptionist provided the requested information directly."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist attempted to reach the staff member, determined they were unavailable, and took a callback request from the caller.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable, then took a callback request.",
     "call_duration_seconds": 61.63,
     "call_duration_formatted": "01:01"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist placed the caller on hold to check the availability of Kyra Stoll and returned to state she was unavailable."
+    "description": "The receptionist attempted to reach Kyra Stoll while the caller held, then returned to take a message when the staff member was found to be unavailable."
   }
 }

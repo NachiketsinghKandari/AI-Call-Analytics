@@ -4,18 +4,24 @@
     "primary_intent": "speak_with_staff",
     "resolution_achieved": false,
     "resolution_basis": "no_terminal_action",
-    "resolution_type": "unresolved_staff_unavailable",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_no_fallback",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with specific staff members who were unavailable. The caller declined to provide contact information or leave a message, and the call concluded without a resolution.",
+    "final_outcome": "The caller requested to speak with specific staff members regarding a case where he is a defendant. The receptionist checked availability and informed the caller that the staff were unavailable. The caller declined to leave a message or provide contact information.",
     "call_duration_seconds": 103.54,
     "call_duration_formatted": "01:43"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted because the receptionist determined the requested staff members were unavailable and the caller declined to be placed on hold or leave a message."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist placed the caller on hold to check for the requested staff member and returned to state they were unavailable and offered to take a message."
   }
 }

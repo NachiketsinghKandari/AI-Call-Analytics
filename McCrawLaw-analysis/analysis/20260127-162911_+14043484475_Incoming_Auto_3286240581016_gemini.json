@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the caller's organization and stated she would check for the requested staff members' availability, then initiated a transfer.",
+    "final_outcome": "The receptionist requested the caller to hold to check the availability of specific staff members and the call ended after the receptionist confirmed the caller's company name.",
     "call_duration_seconds": 58.68,
     "call_duration_formatted": "00:58"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist asked the caller to hold while she checked for staff availability and the call ended immediately after the final confirmation."
+    "description": "The receptionist stated she would check if the requested staff members were available and the call ended shortly after."
   }
 }

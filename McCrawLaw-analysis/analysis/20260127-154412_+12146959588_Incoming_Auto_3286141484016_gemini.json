@@ -8,20 +8,23 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The receptionist completed a new client intake regarding a slip and fall incident. An attempt to transfer the caller to an attorney was unsuccessful, resulting in the receptionist scheduling a callback from the legal team.",
+    "final_outcome": "The receptionist attempted to transfer the caller to an attorney twice. Both attempts were unsuccessful. The receptionist then confirmed the caller's contact information and stated that the legal team would follow up regarding the new slip and fall matter.",
     "call_duration_seconds": 748.94,
     "call_duration_formatted": "12:28"
   },
   "transfer_context": {
     "destinations": [
+      "unspecified_internal_transfer",
       "unspecified_internal_transfer"
     ],
     "transfer_connection_status": [
+      false,
       false
     ],
     "reasons": [
+      "specialized_knowledge_required",
       "specialized_knowledge_required"
     ],
-    "description": "The receptionist attempted to locate an available attorney to speak with the caller but was unable to connect after two hold attempts."
+    "description": "The receptionist initiated two separate transfer attempts to find an available attorney. After both attempts failed, the receptionist transitioned to a callback fallback."
   }
 }

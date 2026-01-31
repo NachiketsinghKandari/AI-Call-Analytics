@@ -4,18 +4,24 @@
     "primary_intent": "returning_call",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist determined that the requested staff member was unavailable and took a message from the insurance representative who was returning a call to continue negotiations.",
+    "final_outcome": "The caller was returning a call to a specific staff member regarding a claim. The receptionist checked for availability, determined the staff member was unavailable, and took a message.",
     "call_duration_seconds": 112.9,
     "call_duration_formatted": "01:52"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist checked for staff availability and proceeded to take a message when the attorney was found to be unavailable."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist used a hold phrase to check availability for the requested staff member and subsequently informed the caller that no one was available to take the call."
   }
 }

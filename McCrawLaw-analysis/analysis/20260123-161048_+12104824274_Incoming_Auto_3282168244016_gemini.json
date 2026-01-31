@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller requested information regarding injuries and treatment for a client. The receptionist determined no staff were available for a transfer, collected the caller's contact information, and promised a return call from the team.",
+    "final_outcome": "The caller requested information regarding a client's injuries and treatment. The receptionist stated that no staff were available to take a transfer, collected the caller's contact information, and confirmed that a team member would return the call.",
     "call_duration_seconds": 103.82,
     "call_duration_formatted": "01:43"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "The receptionist explicitly stated that no one was available on the team to take a transfer and proceeded to take a message."
+    "description": "The receptionist checked for availability but explicitly stated that no one on the team was available to take a transfer."
   }
 }

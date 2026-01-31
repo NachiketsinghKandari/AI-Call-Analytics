@@ -1,20 +1,20 @@
 {
   "caller_type": "business_vendor",
   "call_summary": {
-    "primary_intent": "administrative_request",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about a paralegal job opening. The receptionist collected contact details and attempted to locate a staff member to handle the inquiry. After determining no one was available, the receptionist took a message for the team to review.",
+    "final_outcome": "The receptionist collected the caller's contact information and attempted to find an available staff member to discuss a job opening; after determining no one was available, the receptionist offered to take a message, which the caller accepted.",
     "call_duration_seconds": 131.76,
     "call_duration_formatted": "02:11"
   },
   "transfer_context": {
     "destinations": [
-      "administration_and_operations"
+      "unspecified_internal_transfer"
     ],
     "transfer_connection_status": [
       false
@@ -22,6 +22,6 @@
     "reasons": [
       "specialized_knowledge_required"
     ],
-    "description": "The receptionist placed the caller on hold to check for staff availability regarding a job inquiry and subsequently informed the caller that no one was available."
+    "description": "The receptionist placed the caller on hold to check for available staff; after determining no one was available, she returned to take a message."
   }
 }

@@ -1,21 +1,27 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "check_case_status",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a case manager regarding a treatment status. The receptionist determined that no staff members were available and took a message including the caller's contact information and claim number.",
+    "final_outcome": "The caller requested to speak with the case manager for Kevin McElroy. The receptionist checked for availability and, after determining no team member was available, took a message including the claim number and a request for treatment status.",
     "call_duration_seconds": 117.14,
     "call_duration_formatted": "01:57"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist determined staff were unavailable and proceeded to take a message."
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the availability of the case manager and informed the caller they were unavailable before offering to take a message."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist initiated a transfer to the requested staff member and the call ended immediately afterward.",
+    "final_outcome": "The receptionist placed the caller on hold to check for a specific staff member's availability and the call ended immediately afterward.",
     "call_duration_seconds": 40.68,
     "call_duration_formatted": "00:40"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she would check for the staff member's availability and the call ended."
+    "description": "The receptionist stated intent to check for the requested staff member and the call ended after a hold phrase was uttered."
   }
 }

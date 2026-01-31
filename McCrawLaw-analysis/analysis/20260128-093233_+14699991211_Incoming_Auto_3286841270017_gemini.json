@@ -1,14 +1,14 @@
 {
   "caller_type": "business_vendor",
   "call_summary": {
-    "primary_intent": "administrative_request",
+    "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "information_provided",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm to test the call queue. The receptionist confirmed the call was received and provided feedback on a previous call attempt. The caller acknowledged this and ended the call.",
+    "final_outcome": "The caller contacted the firm to test the call queue. The receptionist confirmed the call rang through and provided feedback on a previous call. The caller stated they would follow up with another staff member and the call concluded.",
     "call_duration_seconds": 43.56,
     "call_duration_formatted": "00:43"
   },

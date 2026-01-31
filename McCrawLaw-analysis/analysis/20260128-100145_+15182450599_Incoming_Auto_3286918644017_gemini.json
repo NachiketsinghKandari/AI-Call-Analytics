@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist answered the call and provided a greeting twice, but no response was recorded from the caller and the call concluded.",
+    "final_outcome": "The call was terminated immediately after the receptionist's greeting without any verbal input or request from the caller.",
     "call_duration_seconds": 20.59,
     "call_duration_formatted": "00:20"
   },

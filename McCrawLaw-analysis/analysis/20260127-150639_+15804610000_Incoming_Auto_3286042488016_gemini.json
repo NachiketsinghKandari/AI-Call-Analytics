@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist performed a full intake for a new client requesting a transfer on death deed, consulted with the legal team, and informed the caller that the firm could not assist, providing a referral to another attorney.",
+    "final_outcome": "The receptionist collected intake information from a new caller seeking a transfer on death deed, consulted with the internal team during a hold, and then informed the caller the firm could not assist while providing a referral to another attorney.",
     "call_duration_seconds": 491.4,
     "call_duration_formatted": "08:11"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist placed the caller on hold to consult the team and then returned to the line to provide a referral."
+    "description": "No transfer was attempted; the receptionist placed the caller on hold to consult with the team and returned to provide a referral."
   }
 }

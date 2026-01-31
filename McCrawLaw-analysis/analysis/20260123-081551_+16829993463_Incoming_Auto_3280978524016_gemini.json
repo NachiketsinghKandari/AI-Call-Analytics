@@ -4,18 +4,24 @@
     "primary_intent": "new_client_intake",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller from Progressive Insurance requested to complete a bodily injury intake for two clients. The receptionist determined the case manager was unavailable, collected the caller's contact information, and confirmed the message would be forwarded.",
+    "final_outcome": "The caller from Progressive Insurance requested to complete an intake for two clients. The receptionist attempted to reach the case manager, who was unavailable, and subsequently took a message with the caller's contact information.",
     "call_duration_seconds": 73.01,
     "call_duration_formatted": "01:13"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted because the receptionist identified the case manager was unavailable before initiating a transfer."
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to reach the case manager, then returned to state the staff member was unavailable and offered to take a message."
   }
 }

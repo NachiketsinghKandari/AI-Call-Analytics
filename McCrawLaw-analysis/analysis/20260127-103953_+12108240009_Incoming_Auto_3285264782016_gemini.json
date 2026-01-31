@@ -8,13 +8,13 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable. A message was taken regarding a deposition schedule and a callback was requested.",
+    "final_outcome": "The receptionist attempted to transfer the caller to legal counsel, but the staff was unavailable. A message was taken regarding deposition duration for the Jacob Paulson case.",
     "call_duration_seconds": 266.26,
     "call_duration_formatted": "04:26"
   },
   "transfer_context": {
     "destinations": [
-      "specific_staff_member"
+      "legal_counsel"
     ],
     "transfer_connection_status": [
       false
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to reach Allison Taff, but reported that no one was available and proceeded to take a message."
+    "description": "The receptionist placed the caller on hold to check for Allison Taff's availability but returned to state no one was available and took a message."
   }
 }

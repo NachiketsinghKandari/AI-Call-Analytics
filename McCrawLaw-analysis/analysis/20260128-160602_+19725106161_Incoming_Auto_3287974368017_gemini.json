@@ -6,22 +6,28 @@
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to the attorney. When the transfer was not completed, the receptionist provided a status update on the offer review and recorded the caller's availability for a return call.",
+    "final_outcome": "The caller inquired about a settlement offer. The receptionist attempted to transfer the caller to the attorney three times. The transfers did not connect. The receptionist then informed the caller that the attorney was reviewing the offer and would call back. The caller stated she would be available on Friday.",
     "call_duration_seconds": 95.11,
     "call_duration_formatted": "01:35"
   },
   "transfer_context": {
     "destinations": [
+      "legal_counsel",
+      "legal_counsel",
       "legal_counsel"
     ],
     "transfer_connection_status": [
+      false,
+      false,
       false
     ],
     "reasons": [
+      "request_assigned_staff",
+      "request_assigned_staff",
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to transfer the caller to the attorney but returned to the line to provide information and take a message after the transfer did not connect."
+    "description": "The receptionist made three sequential attempts to transfer the caller to the attorney. After the transfers failed to connect, the receptionist provided a status update and noted a callback for the caller."
   }
 }

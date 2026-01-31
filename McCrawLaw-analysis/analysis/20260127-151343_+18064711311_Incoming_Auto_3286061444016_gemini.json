@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member, and the receptionist initiated a transfer before the call ended.",
+    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist asked the caller to wait and the call ended immediately afterward, indicating the caller was placed into the transfer path.",
     "call_duration_seconds": 17.78,
     "call_duration_formatted": "00:17"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated intent to transfer the caller to Todd and the call ended immediately afterward."
+    "description": "The receptionist stated 'give me just a moment' following the request for a specific staff member and the call ended immediately."
   }
 }

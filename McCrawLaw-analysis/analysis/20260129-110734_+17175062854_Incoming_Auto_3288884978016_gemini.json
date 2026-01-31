@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the caller as an insurance representative returning a call, collected the caller's contact information and the name of the client involved, and concluded the call.",
+    "final_outcome": "The receptionist attempted to identify a staff member named Lambert for the caller, who was returning a call regarding client Verdie Marie Turner. After being unable to locate the staff member, the receptionist recorded the caller's phone number and concluded the call.",
     "call_duration_seconds": 157.54,
     "call_duration_formatted": "02:37"
   },

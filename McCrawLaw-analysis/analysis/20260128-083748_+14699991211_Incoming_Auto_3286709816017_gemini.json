@@ -1,5 +1,5 @@
 {
-  "caller_type": "law_office",
+  "caller_type": "business_vendor",
   "call_summary": {
     "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller and Zane discussed technical issues regarding the call queue; Zane confirmed the settings were functional and the caller ended the call after receiving this information.",
+    "final_outcome": "The caller and recipient discussed technical issues regarding the phone system and confirmed that the call queue and settings were functioning correctly.",
     "call_duration_seconds": 53.93,
     "call_duration_formatted": "00:53"
   },

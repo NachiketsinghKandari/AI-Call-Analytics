@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist gathered the caller's information and the client's name before initiating a transfer to the requested staff member.",
+    "final_outcome": "The receptionist gathered the caller's information and the name of the client before initiating a transfer to a specific staff member.",
     "call_duration_seconds": 42.91,
     "call_duration_formatted": "00:42"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated they would connect the caller to Ariana and the call ended after the receptionist asked the caller to wait a moment."
+    "description": "The receptionist stated intent to connect the caller to Ariana and said 'one moment' before the call ended."
   }
 }

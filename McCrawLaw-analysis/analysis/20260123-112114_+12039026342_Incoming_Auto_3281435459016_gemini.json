@@ -1,21 +1,27 @@
 {
   "caller_type": "business_vendor",
   "call_summary": {
-    "primary_intent": "administrative_request",
+    "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the HR generalist was in a meeting, provided her email address, and took a message regarding the performance of job postings on Indeed.",
+    "final_outcome": "The receptionist attempted to check availability for the requested staff member, determined they were in a meeting, provided an email address, and took a message regarding job posting performance.",
     "call_duration_seconds": 131.47,
     "call_duration_formatted": "02:11"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted because the receptionist identified that the appropriate contact was unavailable in a meeting."
+    "destinations": [
+      "administration_and_operations"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist placed the caller on hold to check availability but returned to state the staff member was unavailable due to a meeting."
   }
 }

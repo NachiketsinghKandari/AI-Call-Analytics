@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call was terminated immediately following the automated recording disclosure without any substantive communication or interaction from the caller.",
+    "final_outcome": "The caller disconnected during the automated recording announcement after a brief utterance.",
     "call_duration_seconds": 10.94,
     "call_duration_formatted": "00:10"
   },

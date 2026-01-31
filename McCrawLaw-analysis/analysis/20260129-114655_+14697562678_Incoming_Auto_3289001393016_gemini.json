@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "Receptionist initiated a transfer to a specific staff member and the call ended immediately afterward.",
+    "final_outcome": "The receptionist initiated a transfer to a specific staff member after the caller requested to speak with her, and the call concluded.",
     "call_duration_seconds": 29.59,
     "call_duration_formatted": "00:29"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated they would check for the staff member's availability and the call ended immediately after the caller's acknowledgment."
+    "description": "The receptionist stated they would check for the staff member's availability and the call ended immediately after the caller acknowledged."
   }
 }

@@ -1,27 +1,30 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "speak_with_staff",
+    "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
     "resolution_basis": "transfer_path_entered",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist initiated a transfer to an attorney after the caller confirmed they were providing a settlement offer, and the call ended immediately following the transfer statement.",
+    "final_outcome": "The receptionist attempted to transfer the caller to an attorney to discuss a settlement offer, and the call ended immediately after the transfer was initiated.",
     "call_duration_seconds": 39.02,
     "call_duration_formatted": "00:39"
   },
   "transfer_context": {
     "destinations": [
+      "legal_counsel",
       "legal_counsel"
     ],
     "transfer_connection_status": [
+      false,
       true
     ],
     "reasons": [
+      "request_assigned_staff",
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she would check if the attorney was available to take the call and the call ended immediately after."
+    "description": "The receptionist first checked for the requested staff member and returned to the line when he was unavailable. After the caller confirmed the call was regarding a settlement offer, the receptionist initiated a second transfer and the call ended."
   }
 }

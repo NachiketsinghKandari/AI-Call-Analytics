@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "An automated system delivered a recorded notification regarding garbage collection delays and facility closures due to weather conditions.",
+    "final_outcome": "An automated system delivered a recorded message regarding garbage collection schedule changes and landfill closures due to winter weather conditions.",
     "call_duration_seconds": 17.5,
     "call_duration_formatted": "00:17"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the call consisted of an automated announcement."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about a settlement payment. The receptionist informed the caller that the office was closed for after-hours and provided the firm's operating hours. The caller stated they would call back during those hours.",
+    "final_outcome": "The caller inquired about a settlement payment. The receptionist informed the caller that the office was closed for after-hours and provided the standard business hours. The caller stated they would call back during those hours.",
     "call_duration_seconds": 92.95,
     "call_duration_formatted": "01:32"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the call was handled by an after-hours receptionist who provided office hours."
+    "description": "No transfer was attempted because the call occurred after business hours and the receptionist informed the caller that no staff were available."
   }
 }

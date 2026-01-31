@@ -2,20 +2,26 @@
   "caller_type": "insurance_rep",
   "call_summary": {
     "primary_intent": "speak_with_staff",
-    "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_no_fallback",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a staff member who was unavailable. The receptionist offered to take a message, but the caller opted to send an email instead, and the receptionist confirmed the staff member's email address.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable. The caller declined the offer to leave a message or callback number, stating they would email the staff member instead.",
     "call_duration_seconds": 61.34,
     "call_duration_formatted": "01:01"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist determined the requested staff member was unavailable after a brief hold."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist placed the caller on hold to check the availability of the requested staff member and returned to state they were unavailable."
   }
 }

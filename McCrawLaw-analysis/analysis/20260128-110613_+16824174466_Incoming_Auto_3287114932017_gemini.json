@@ -4,18 +4,24 @@
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested a case update. The receptionist checked for staff availability and, upon finding no one available, took a message for a follow-up from the assigned staff.",
+    "final_outcome": "The caller requested a case update. The receptionist attempted to connect the caller with staff, but after finding no one available, offered to forward a message for a follow-up, which the caller accepted.",
     "call_duration_seconds": 128.81,
     "call_duration_formatted": "02:08"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "The receptionist checked for staff availability but determined no one was available to take the call."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to locate the assigned staff member for a case update but returned to the line when they were unavailable."
   }
 }

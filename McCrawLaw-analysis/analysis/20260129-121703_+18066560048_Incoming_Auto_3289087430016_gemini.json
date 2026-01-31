@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested a case status update for two clients. The receptionist declined the caller's request for a transfer to a case manager and instead took a message regarding the treatment status of the clients.",
+    "final_outcome": "The receptionist checked for the case manager's availability and, upon finding them unavailable, took a message from the medical provider regarding the status of two clients.",
     "call_duration_seconds": 189.36,
     "call_duration_formatted": "03:09"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist explicitly stated they could only take a message and declined the caller's request to be connected to a case manager."
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist placed the caller on hold to check for the case manager and returned to inform the caller that they were unavailable and a message would be taken instead."
   }
 }

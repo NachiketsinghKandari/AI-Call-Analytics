@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information, claim number, and file name to take a message for a specific staff member.",
+    "final_outcome": "The receptionist took a message for Charlie Ginn regarding the Kristina Harris file, including the caller's contact information and claim number.",
     "call_duration_seconds": 145.73,
     "call_duration_formatted": "02:25"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted. The receptionist gathered information and took a message for the requested staff member."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and case details to send a message to the legal team regarding an invoice submission.",
+    "final_outcome": "The caller requested information on where to send an invoice for an expert witness evaluation. The receptionist collected the caller's contact information and the case name, then stated she would send a message to the team.",
     "call_duration_seconds": 168.77,
     "call_duration_formatted": "02:48"
   },

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "Staff member Maria consulted with staff member Miha regarding a case rejection for Adrian Castle. Miha provided guidance on how to handle the caller's claims about insurance, and Maria concluded the call to follow up with the client.",
+    "final_outcome": "Staff member Maria consulted with staff member Miha regarding the rejection of a potential case for Adrian Castle. Miha provided guidance on handling the caller's persistence and suggested a path for attorney review if necessary.",
     "call_duration_seconds": 156.24,
     "call_duration_formatted": "02:36"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the call was an internal discussion between staff members."
+    "description": "No transfer was attempted; the call was an internal consultation between staff members."
   }
 }

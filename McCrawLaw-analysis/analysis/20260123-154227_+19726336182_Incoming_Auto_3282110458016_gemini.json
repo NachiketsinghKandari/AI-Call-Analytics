@@ -2,20 +2,26 @@
   "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "returning_call",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call to a staff member. The receptionist gathered the caller's name and the client's name, but the call ended before any further action or transfer was initiated.",
+    "final_outcome": "The caller requested to speak with a specific staff member to return a call. The receptionist initiated a transfer and the call ended immediately afterward.",
     "call_duration_seconds": 31.68,
     "call_duration_formatted": "00:31"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was initiated before the call ended."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist asked the caller to hold for a transfer to Drake after identifying the caller and the associated client, and the call ended immediately."
   }
 }
