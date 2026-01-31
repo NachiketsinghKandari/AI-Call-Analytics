@@ -4,18 +4,24 @@
     "primary_intent": "returning_call",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the caller's identity and contact information, then took a message for the case manager after stating that no one was available to take the call.",
+    "final_outcome": "The caller returned a missed call from the firm. The receptionist checked for the availability of the requested staff member, determined they were unavailable, and took a message from the caller.",
     "call_duration_seconds": 132.84,
     "call_duration_formatted": "02:12"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted. The receptionist checked availability, determined no one was available, and proceeded to take a message."
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the availability of the case manager, Arlette Medina, but found she was unavailable and proceeded to take a message."
   }
 }

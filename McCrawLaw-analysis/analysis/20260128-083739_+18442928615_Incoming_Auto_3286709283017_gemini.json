@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the caller declined to provide contact information and terminated the call."
+    "description": "No transfer was attempted; the caller terminated the call while the receptionist was requesting contact details."
   }
 }

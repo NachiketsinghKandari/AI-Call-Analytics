@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist gathered the caller's contact information regarding a workplace injury but determined the firm does not handle worker's compensation cases and provided an external referral.",
+    "final_outcome": "The receptionist collected the caller's contact information and details regarding a workplace injury, then informed the caller that the firm does not handle workers' compensation cases and provided a referral to another law firm.",
     "call_duration_seconds": 321.48,
     "call_duration_formatted": "05:21"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No internal transfer was attempted; the receptionist provided the caller with an external referral phone number."
+    "description": "No transfer was attempted; the receptionist provided referral information directly to the caller."
   }
 }

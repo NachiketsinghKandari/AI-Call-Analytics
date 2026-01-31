@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member regarding a financial inquiry, but the staff member was unavailable. The receptionist then took a message for a callback.",
+    "final_outcome": "The receptionist attempted to reach a specific staff member regarding a settlement check inquiry. After determining the staff member was unavailable, the receptionist took a message and confirmed the caller's contact information for a callback.",
     "call_duration_seconds": 92.52,
     "call_duration_formatted": "01:32"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to reach Crystal but she was unavailable, resulting in a message being taken."
+    "description": "The receptionist checked for the availability of the requested staff member and, upon finding them unavailable, offered to take a message."
   }
 }

@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maria / Role: Receptionist at McCraw Law Group: 8 turns
+  • Speaker 2 / Jorge Leon / Role: Caller: 6 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded.
+[00:06] [Receptionist]: Good afternoon, McCraw Law Group, this is Maria. May I help you?
+[00:10] [Jorge Leon]: Good afternoon, Maria. My name is Jorge Leon. I am one of Cheyenne's clients. May I speak with her, please?
+[00:17] [Receptionist]: Jorge Leon. Okay. Hold on one second, sir.
+[00:22] [ ... Silence (5s) ... ]
+[00:27] [Receptionist]: And may I tell her what this is regarding, please?
+[00:30] [Jorge Leon]: I just need to check up on, um, the case, the status of the case.
+[00:34] [Receptionist]: Most certainly. I'll put you on hold for a moment, okay?
+[00:37] [Jorge Leon]: Thank you.
+[00:38] [Receptionist]: You're welcome. I'm sorry, Mr. Jorge, she is not available. Give me mo— one moment, I will take your phone number, and I am ready.
+[00:47] [Jorge Leon]: Okay. 903-268-2453.
+[00:52] [ ... Silence (5s) ... ]
+[00:57] [Receptionist]: 903-268-2453.
+[01:02] [Jorge Leon]: Yes, ma'am.
+[01:03] [Receptionist]: Thank you so much, Jorge. Have a wonderful day and take care of yourself.
+[01:08] [Jorge Leon]: You as well. Thank you.
+[01:10] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

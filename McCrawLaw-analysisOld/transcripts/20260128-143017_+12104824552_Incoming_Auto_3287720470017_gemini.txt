@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 9 turns
+  • Speaker 2 / Vanessa / Role: Caller: 8 turns
+  • Speaker 3 / Unknown / Role: Automated Recording: 1 turn
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Receptionist]: Bey and Associates.
+[00:05] [Vanessa]: Hey, this is Vanessa with Allstate, calling to speak with someone in regards to client Kelly O'Connor.
+[00:11] [Receptionist]: Okay, give me just a moment.
+[00:14] [Vanessa]: Thank you.
+[00:15] [ ... Silence (21s) ... ]
+[00:36] [Receptionist]: And can I ask what this call is in regards to so I can get you over to the right person?
+[00:40] [Vanessa]: I believe the person handling it is Drake and it's in regards to settlement.
+[00:43] [Receptionist]: Okay, give me just a moment.
+[00:45] [Vanessa]: Thank you.
+[00:46] [ ... Silence (8s) ... ]
+[00:54] [Receptionist]: Okay, are you still there?
+[00:56] [Vanessa]: Yep, I'm here.
+[00:57] [Receptionist]: Drake is currently on another line, uh, could I get a good callback number for you and I'll go ahead and send him over a message?
+[01:05] [Vanessa]: Uh, phone number's 210-482-4552.
+[01:11] [Receptionist]: 45... okay, 52. Let's see here. And you said this is in regards to settlement, correct?
+[01:18] [Vanessa]: Yes.
+[01:19] [Receptionist]: Okay, I will go ahead and send him over a message now.
+[01:23] [Vanessa]: Right, thank you.
+[01:24] [Receptionist]: Thank you, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

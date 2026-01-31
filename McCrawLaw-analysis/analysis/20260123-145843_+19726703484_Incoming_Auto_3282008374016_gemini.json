@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm to identify who had called their number; the receptionist identified the firm as a personal injury law firm and concluded the previous call was a misdial.",
+    "final_outcome": "The caller returned a missed call to identify the business; the receptionist identified the firm and concluded the call was a misdial.",
     "call_duration_seconds": 43.56,
     "call_duration_formatted": "00:43"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted."
   }
 }

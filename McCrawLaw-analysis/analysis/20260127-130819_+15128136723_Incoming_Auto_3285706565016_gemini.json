@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to the attorney after identifying the case manager was unavailable. The attorney was also unavailable, and the receptionist took a message to forward to both parties.",
+    "final_outcome": "The receptionist attempted to transfer the caller to the attorney to discuss a settlement offer. After determining the attorney was unavailable, the receptionist took a message to be forwarded to both the attorney and the case manager.",
     "call_duration_seconds": 152.06,
     "call_duration_formatted": "02:32"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to reach the attorney to discuss a settlement offer, but the attorney was unavailable, leading to a message being taken."
+    "description": "The receptionist offered to try the attorney after the case manager was found to be unavailable. After checking availability, the receptionist informed the caller the attorney was also unavailable and took a message."
   }
 }

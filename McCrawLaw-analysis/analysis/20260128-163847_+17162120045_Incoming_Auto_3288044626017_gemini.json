@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller asked if they could be heard, and the receptionist repeated the greeting before the call ended without further interaction.",
+    "final_outcome": "The caller asked if they could be heard, and the call ended after the receptionist repeated the greeting without establishing the purpose of the call.",
     "call_duration_seconds": 21.82,
     "call_duration_formatted": "00:21"
   },

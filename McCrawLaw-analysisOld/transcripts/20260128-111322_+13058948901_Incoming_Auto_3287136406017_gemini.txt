@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Automated Voice / Role: Call Recording Disclaimer: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 3 / Gina / Role: Caller from Progressive Insurance: 2 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Receptionist]: Bey and Associates.
+[00:06] [Gina]: Hey this is Gina with Progressive Insurance, um, looking to speak with Drake um regarding Christina Keth, K-E-T-H.
+[00:17] [Receptionist]: Okay, give me just a moment.
+[00:19] [Gina]: Thank you.
+[00:21] [Receptionist]: Uh-huh.
+
+========================================
+TRANSCRIPT END
+========================================

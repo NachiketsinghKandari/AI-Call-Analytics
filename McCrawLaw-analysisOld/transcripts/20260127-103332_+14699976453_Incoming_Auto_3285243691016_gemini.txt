@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jessica / Role: Receptionist at McCraw Law Group: 2 turns
+  • Speaker 3 / Denise / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:05] [Receptionist]: McCraw Law Group, this is Jessica, how may I help you?
+[00:09] [Denise]: Hi Jessica, good morning. My name is Denise, I'm calling with Helmsman Management Services, trying to get in touch with the attorney who's handling Roger, um, Spears's, uh, claim.
+[00:24] [Receptionist]: Um, yeah, give me one moment.
+[00:27] [Denise]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

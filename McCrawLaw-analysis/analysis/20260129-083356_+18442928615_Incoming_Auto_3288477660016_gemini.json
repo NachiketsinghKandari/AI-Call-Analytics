@@ -1,27 +1,21 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "speak_with_staff",
+    "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "transfer_attempted",
+    "resolution_type": "message_taken",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with the staff member handling a specific claim; the receptionist identified that the attorney and case manager were unavailable and took a message including a settlement offer and callback number.",
+    "final_outcome": "The caller requested to speak with the attorney or case manager to provide a settlement offer. The receptionist determined both parties were unavailable and recorded a message containing the offer amount and the caller's callback number.",
     "call_duration_seconds": 111.24,
     "call_duration_formatted": "01:51"
   },
   "transfer_context": {
-    "destinations": [
-      "case_management"
-    ],
-    "transfer_connection_status": [
-      false
-    ],
-    "reasons": [
-      "request_assigned_staff"
-    ],
-    "description": "The receptionist attempted to locate the case manager after the attorney was found to be unavailable, but the case manager was also unavailable, leading to a message being taken."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist checked for the availability of the attorney and the case manager, but both were unavailable; no transfer was initiated."
   }
 }

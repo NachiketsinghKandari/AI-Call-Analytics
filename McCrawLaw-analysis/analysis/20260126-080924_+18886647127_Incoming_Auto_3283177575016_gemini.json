@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist collected the caller's contact information and claim details, then took a message for the staff member.",
+    "final_outcome": "The receptionist collected the caller's contact information, claim number, and file name to take a message for a specific staff member.",
     "call_duration_seconds": 145.73,
     "call_duration_formatted": "02:25"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message for the requested staff member."
+    "description": "No transfer was attempted during this call."
   }
 }

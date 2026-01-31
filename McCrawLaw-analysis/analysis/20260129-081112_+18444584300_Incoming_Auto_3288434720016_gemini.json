@@ -1,14 +1,14 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "verify_representation",
+    "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "transfer_path_entered",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the staff member assigned to the file and initiated a transfer for the caller to discuss representation and case facts.",
+    "final_outcome": "The receptionist identified the staff member handling the case and initiated a transfer to her after the caller confirmed the case details.",
     "call_duration_seconds": 96.26,
     "call_duration_formatted": "01:36"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she was transferring the caller to Cheyenne and the call ended immediately after the verbal confirmation."
+    "description": "The receptionist stated she was transferring the caller to Cheyenne and the call ended immediately after the exchange of pleasantries."
   }
 }

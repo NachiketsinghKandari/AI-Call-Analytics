@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "financial_and_settlement_inquiry",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a follow-up regarding a settlement adjustment. The receptionist identified the caller as an existing client, determined the requested staff member was unavailable, and took a message for a callback.",
+    "call_duration_seconds": 136.08,
+    "call_duration_formatted": "02:16"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist determined the requested staff member was unavailable and proceeded to take a message."
+  }
+}

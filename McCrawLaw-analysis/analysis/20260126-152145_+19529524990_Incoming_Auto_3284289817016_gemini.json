@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member and then the office manager regarding lead generation services. The receptionist collected the caller's contact information to provide to the marketing team.",
+    "final_outcome": "The receptionist collected the caller's contact information to forward to the marketing department after the caller inquired about providing lead generation services.",
     "call_duration_seconds": 64.01,
     "call_duration_formatted": "01:04"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist informed the caller that an inquiry must be submitted before a direct connection can be made."
+    "description": "No transfer was attempted; the receptionist took a message for the marketing team."
   }
 }

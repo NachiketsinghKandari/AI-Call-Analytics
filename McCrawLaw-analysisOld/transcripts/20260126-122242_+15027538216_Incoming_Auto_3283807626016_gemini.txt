@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Bey and Associates Law Group: 9 turns
+  • Speaker 3 / Autumn Brown / Role: Caller from The Rawlings Company: 8 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:12] [Receptionist]: Hello, Bey and Associates Law Group, how can I help?
+[00:15] [Autumn Brown]: Hello, my name is Autumn, I'm calling from the Rawlings Company on behalf of Cigna on a recorded transcribed line and I just had some case questions about the case for Cassidy S. Adcox.
+[00:27] [Receptionist]: Okay, got it. And sorry, what was the name of the client again?
+[00:34] [Autumn Brown]: Cassidy Adcox, A-D-C-O-X.
+[00:42] [Receptionist]: A-D-C-O-X. Okay. Cassidy, C-A-S-S-I-D-I-Y, sorry?
+[00:48] [Autumn Brown]: Mhm. Yep.
+[00:49] [Receptionist]: Okay. Your name is Autumn with Rawlings Company on behalf of Edna...
+[00:58] [Autumn Brown]: On behalf of Cigna.
+[01:00] [Receptionist]: Oh, okay. Got it. And your, um, your callback number, that's 502-753-8216?
+[01:12] [Autumn Brown]: Yes.
+[01:14] [Receptionist]: Okay, if I may also have your email, please?
+[01:16] [Autumn Brown]: It's going to be Autumn, A-U-T-U-M-N dot Brown, B-R-O-W-N at Machinify, M-A-C-H-I-N-I-F-Y dot com.
+[01:32] [Receptionist]: Okay, got it. So autumn.brown at machinify.com. And, um, sorry, what were you looking for in, in regards to this client?
+[01:46] [Autumn Brown]: Um, well, so I just got this file and it looks like a letter was sent over in the beginning of December and it hadn't been responded back to, so I was just sort of looking at where the case was at, um, and just sort of going from there as I'm new to this file.
+[02:01] [Receptionist]: Okay. Got it. Perfect. I'll go ahead and let the team know to get in contact with you as soon as possible.
+[02:15] [Autumn Brown]: Okay, thank you so much.
+[02:17] [Receptionist]: Take care.
+
+========================================
+TRANSCRIPT END
+========================================

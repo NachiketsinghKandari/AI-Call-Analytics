@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested a Letter of Protection for a client. The receptionist collected the caller's contact information and confirmed that a message would be sent to the legal team.",
+    "final_outcome": "The receptionist collected the caller's contact information and the client's name to send a message to the legal team regarding a requested Letter of Protection.",
     "call_duration_seconds": 119.88,
     "call_duration_formatted": "01:59"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted; the receptionist took a message to pass to the internal team."
   }
 }

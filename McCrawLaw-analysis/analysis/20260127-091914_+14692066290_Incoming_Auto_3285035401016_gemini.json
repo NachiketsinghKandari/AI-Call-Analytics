@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call disconnected immediately after the receptionist provided the initial greeting, before the caller could state the purpose of the call.",
+    "final_outcome": "The receptionist answered the call with a greeting, but the call ended before the caller could state their intent or provide any information.",
     "call_duration_seconds": 21.53,
     "call_duration_formatted": "00:21"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted as the call ended immediately after the receptionist's greeting."
   }
 }

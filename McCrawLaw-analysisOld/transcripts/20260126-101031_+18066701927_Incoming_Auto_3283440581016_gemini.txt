@@ -1,0 +1,24 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Nedita / Role: Receptionist at Makra Law Group: 4 turns
+  • Speaker 3 / Jan West / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: Makra Law Group, this is Nedita, how can I help you?
+[00:08] [Jan West]: Hi yes, good morning, this is Jan West. Is Crystal Flores in this morning?
+[00:13] [Receptionist]: Um, I can go ahead and see if she's available. Um, can I have your name?
+[00:18] [Jan West]: Jan West.
+[00:21] [Receptionist]: Jan West. And um, are you a client of ours or are you calling for a specific client?
+[00:28] [Jan West]: Yes, no, I'm a client.
+[00:31] [Receptionist]: Oh okay. Just hold on the line for me please.
+[00:35] [Jan West]: Okay. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at McGraw Law Group: 8 turns
+  • Speaker 2 / Myka / Role: Caller from Posture Perfect Wellness Center: 8 turns
+
+----------------------------------------
+
+[00:14] [Receptionist]: Hello, thank you for calling McGraw Law Group, how can I help you?
+[00:18] [Myka]: Hi there, my name is Micah, I'm calling from Posture Perfect Wellness Center, and I'm calling to see if Destiny is available.
+[00:27] [Receptionist]: Okay. Um, doesn't look like it, but I can definitely pass on a message. Anything specific I should mention?
+[00:42] [Myka]: Um, yeah. Are you the answering service or part of the office?
+[00:47] [Receptionist]: If you may want to call it that, yes ma'am.
+[00:52] [Myka]: I'm sorry, say that again?
+[00:53] [Receptionist]: If, if you want to call it like that, yes ma'am.
+[00:58] [Myka]: Okay. Um, yeah, if you could have her give me a call back, um, this is Micah, it's M-Y-K-A with Posture Perfect Wellness Center and my callback number is 469-693-8986. And just let her know I've got a couple of questions, um, on patients being referred out and wanted to, to chat with her.
+[01:31] [Receptionist]: Um, double checking, any specific, uh, clients we've referred to you or, or...
+[01:37] [Myka]: Um, yes. So I have got, uh, patient Danilo, which is D-A-N-I-L-O, Salomonte, it's S-A-L-O-M-A-N-T-E... second patient is Kimberly Escobar... and then I have a third... which is Santa Ramirez.
+[02:09] [Receptionist]: Okay. And you said 469-693-8986. Any good email or just the phone number?
+[02:15] [Myka]: She's got my email if she, if she needs to respond that way. Um, yeah, I was just looking to see, um, kind of an update on a request that I had emailed.
+[02:25] [Receptionist]: Okay. Then I'll pass on the message and in the meantime hope you have a blessed day.
+[02:29] [Myka]: Okay, thank you.
+[02:31] [Receptionist]: Bye-bye.
+[02:32] [Myka]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

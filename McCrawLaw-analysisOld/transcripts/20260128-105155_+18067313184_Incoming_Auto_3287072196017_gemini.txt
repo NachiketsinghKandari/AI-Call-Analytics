@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Maria / Role: Receptionist at McCraw Law Group: 12 turns
+  • Speaker 3 / Jamie / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: Good afternoon, McCraw Law Group, this is Maria. May I help you? I mean, good morning, Ms. Jamie.
+[00:11] [Jamie]: Good morning. Uh, so, I'm running into a situation.
+[00:16] [Receptionist]: Oh no.
+[00:18] [Jamie]: I called— I called in my prescription for my medication that we've had several— me and Bryce have had several uh contacts with the pharmacy about issues.
+[00:30] [Receptionist]: Mhm.
+[00:31] [Jamie]: Uh, I called it in in plenty of time before the storm, which was the 21st, saying that I was gonna be getting low on my prescription, uh, can I go ahead and call it in? They put in the prescription, I got a tracking number for it, and was able to track it until uh the 23rd, and then they said that they could no longer track my package. And this is before the storm even hit. Well, so, every day I've called to see if I can get an update because they keep saying UPS has my medication.
+[01:09] [Receptionist]: Mhm.
+[01:10] [Jamie]: And they can't get a hold of 'em. And now, when I called just a few minutes ago, the lady said that uh UPS still is delayed, and I said, "Well, y'all realize this is a prescription, right? Like, I go— I run out on Monday, and I have to have this for my migraine."
+[01:29] [Receptionist]: Oh wow.
+[01:30] [Jamie]: And uh this is not the first time we've had delays and stuff. So they're trying to use the storm as an excuse, but I called this in before we even know— even knew we were having a storm.
+[01:41] [Receptionist]: Uh-huh. Oh wow.
+[01:43] [Jamie]: So what my problem is is I'm needing to let Bryce know because uh I— I have to— one thing is I have to have my prescription, and they can't find out where my prescription's at. The other thing is I have to be home when they deliver it to sign for it, or I don't get it at all.
+[02:03] [Receptionist]: Wow. Wow.
+[02:05] [Jamie]: So I'm having a big problem here and this keeps happening, and now this time they're blaming it on the storm.
+[02:12] [Receptionist]: Uh-huh. Okay, hold on one moment, let me bring Bryce, okay? Hold on a second.
+[02:19] [Jamie]: Okay, thank you.
+[02:20] [Receptionist]: You're welcome. Okay, Ms. Jamie, uh, may I have them return your call?
+[02:29] [Jamie]: Uh, yes, uh, if— if he needs to, I'm just trying to make him aware.
+[02:33] [Receptionist]: Okay. What's your phone number, Ms. Jamie?
+[02:36] [Jamie]: 806-731-3184.
+[02:42] [Receptionist]: 806-731-3184. Okay. I will let him know. Thank you so much. I hope you get it sometime soon, that's terrible.
+[02:52] [Jamie]: Yes, it is. Thank you very much.
+[02:54] [Receptionist]: Take care of yourself. Thank you. Bye.
+[02:57] [Jamie]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

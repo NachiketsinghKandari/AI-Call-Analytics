@@ -1,14 +1,14 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "speak_with_staff",
+    "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
+    "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and the client's name, then informed the caller that the legal team would reach out to them directly.",
+    "final_outcome": "The receptionist collected the caller's contact information and the name of the client they were inquiring about, then informed the caller that the information would be sent to the legal team for a follow-up.",
     "call_duration_seconds": 114.98,
     "call_duration_formatted": "01:54"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted."
   }
 }

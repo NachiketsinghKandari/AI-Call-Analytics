@@ -1,14 +1,14 @@
 {
   "caller_type": "law_office",
   "call_summary": {
-    "primary_intent": "returning_call",
+    "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
     "resolution_basis": "transfer_path_entered",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist briefed the attorney on a new intake matter involving a father and son and then initiated a transfer to connect the attorney with the waiting parties.",
+    "final_outcome": "The receptionist briefed the attorney on a new intake involving a father and son from a rear-end accident and then initiated a transfer to connect the attorney with the prospective clients.",
     "call_duration_seconds": 88.13,
     "call_duration_formatted": "01:28"
   },
@@ -20,8 +20,8 @@
       true
     ],
     "reasons": [
-      "request_assigned_staff"
+      "specialized_knowledge_required"
     ],
-    "description": "The receptionist stated she would put the attorney through to the waiting intake callers and the call ended immediately afterward."
+    "description": "The receptionist stated she would put the attorney through to the intake callers and the call ended immediately after."
   }
 }

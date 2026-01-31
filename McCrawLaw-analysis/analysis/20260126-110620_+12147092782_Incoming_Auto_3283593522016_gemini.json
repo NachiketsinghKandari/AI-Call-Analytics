@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during this call."
   }
 }

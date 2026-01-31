@@ -1,71 +1,65 @@
 {
   "metadata": {
-    "generated_at": "2026-01-30T07:22:09.735428",
+    "generated_at": "2026-01-31T13:40:18.364285",
     "total_records": 486,
     "min_samples": 3,
     "confidence_threshold": 0.5
   },
   "by_caller_type": {
     "medical_provider": {
-      "count": 42,
-      "resolution_rate": 85.71428571428571,
+      "count": 43,
+      "resolution_rate": 86.04651162790698,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 30,
-          "percentage": 71.42857142857143
-        },
-        {
-          "destination": "unspecified_internal_transfer",
-          "count": 5,
-          "percentage": 11.904761904761903
+          "count": 33,
+          "percentage": 76.74418604651163
         },
         {
           "destination": "specific_staff_member",
           "count": 4,
-          "percentage": 9.523809523809524
+          "percentage": 9.30232558139535
+        },
+        {
+          "destination": "unspecified_internal_transfer",
+          "count": 3,
+          "percentage": 6.976744186046512
         }
       ],
       "intents": {
-        "document_and_evidence_submission": {
-          "count": 3,
-          "percentage": 7.142857142857142,
-          "resolution_rate": 33.33333333333333,
-          "destinations": []
-        },
         "check_case_status": {
-          "count": 14,
-          "percentage": 33.33333333333333,
-          "resolution_rate": 92.85714285714286,
+          "count": 15,
+          "percentage": 34.883720930232556,
+          "resolution_rate": 86.66666666666667,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 10,
-              "percentage": 71.42857142857143
-            },
-            {
-              "destination": "unspecified_internal_transfer",
-              "count": 3,
-              "percentage": 21.428571428571427
+              "count": 12,
+              "percentage": 80.0
             }
           ]
         },
         "speak_with_staff": {
-          "count": 7,
-          "percentage": 16.666666666666664,
-          "resolution_rate": 85.71428571428571,
+          "count": 8,
+          "percentage": 18.6046511627907,
+          "resolution_rate": 87.5,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 4,
-              "percentage": 57.14285714285714
+              "count": 5,
+              "percentage": 62.5
+            },
+            {
+              "destination": "specific_staff_member",
+              "count": 3,
+              "percentage": 37.5
             }
           ]
         },
         "administrative_request": {
           "count": 10,
-          "percentage": 23.809523809523807,
-          "resolution_rate": 90.0,
+          "percentage": 23.25581395348837,
+          "resolution_rate": 100.0,
           "destinations": [
             {
               "destination": "no_transfer",
@@ -76,7 +70,7 @@
         },
         "verify_representation": {
           "count": 3,
-          "percentage": 7.142857142857142,
+          "percentage": 6.976744186046512,
           "resolution_rate": 100.0,
           "destinations": [
             {
@@ -94,13 +88,13 @@
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 94,
-          "percentage": 90.38461538461539
+          "count": 93,
+          "percentage": 89.42307692307693
         },
         {
           "destination": "legal_counsel",
-          "count": 4,
-          "percentage": 3.8461538461538463
+          "count": 5,
+          "percentage": 4.807692307692308
         },
         {
           "destination": "intake_and_investigation",
@@ -110,150 +104,160 @@
       ],
       "intents": {
         "unknown_or_undetermined": {
-          "count": 59,
-          "percentage": 56.730769230769226,
-          "resolution_rate": 3.389830508474576,
+          "count": 61,
+          "percentage": 58.65384615384615,
+          "resolution_rate": 3.278688524590164,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 59,
+              "count": 61,
               "percentage": 100.0
             }
           ]
         },
         "returning_call": {
-          "count": 7,
-          "percentage": 6.730769230769231,
-          "resolution_rate": 85.71428571428571,
+          "count": 6,
+          "percentage": 5.769230769230769,
+          "resolution_rate": 83.33333333333334,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 6,
-              "percentage": 85.71428571428571
+              "count": 5,
+              "percentage": 83.33333333333334
             }
           ]
         },
         "new_client_intake": {
-          "count": 33,
-          "percentage": 31.73076923076923,
-          "resolution_rate": 96.96969696969697,
+          "count": 34,
+          "percentage": 32.69230769230769,
+          "resolution_rate": 100.0,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 25,
-              "percentage": 75.75757575757575
+              "count": 24,
+              "percentage": 70.58823529411765
             },
             {
               "destination": "legal_counsel",
-              "count": 4,
-              "percentage": 12.121212121212121
+              "count": 5,
+              "percentage": 14.705882352941178
             },
             {
               "destination": "intake_and_investigation",
               "count": 3,
-              "percentage": 9.090909090909092
+              "percentage": 8.823529411764707
             }
           ]
         }
       }
     },
     "existing_client": {
-      "count": 123,
-      "resolution_rate": 91.05691056910568,
+      "count": 126,
+      "resolution_rate": 90.47619047619048,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 62,
-          "percentage": 50.40650406504065
+          "count": 64,
+          "percentage": 50.79365079365079
         },
         {
           "destination": "specific_staff_member",
-          "count": 48,
-          "percentage": 39.02439024390244
-        },
-        {
-          "destination": "legal_counsel",
-          "count": 5,
-          "percentage": 4.0650406504065035
+          "count": 43,
+          "percentage": 34.12698412698413
         },
         {
           "destination": "unspecified_internal_transfer",
-          "count": 5,
-          "percentage": 4.0650406504065035
+          "count": 8,
+          "percentage": 6.349206349206349
+        },
+        {
+          "destination": "case_management",
+          "count": 6,
+          "percentage": 4.761904761904762
+        },
+        {
+          "destination": "legal_counsel",
+          "count": 4,
+          "percentage": 3.1746031746031744
         }
       ],
       "intents": {
         "speak_with_staff": {
-          "count": 46,
-          "percentage": 37.39837398373984,
-          "resolution_rate": 97.82608695652173,
+          "count": 47,
+          "percentage": 37.301587301587304,
+          "resolution_rate": 95.74468085106383,
           "destinations": [
             {
               "destination": "specific_staff_member",
-              "count": 23,
-              "percentage": 50.0
+              "count": 25,
+              "percentage": 53.191489361702125
             },
             {
               "destination": "no_transfer",
-              "count": 19,
-              "percentage": 41.30434782608695
+              "count": 17,
+              "percentage": 36.17021276595745
             },
             {
-              "destination": "legal_counsel",
+              "destination": "case_management",
               "count": 3,
-              "percentage": 6.521739130434782
+              "percentage": 6.382978723404255
             }
           ]
         },
         "check_case_status": {
-          "count": 21,
-          "percentage": 17.073170731707318,
-          "resolution_rate": 90.47619047619048,
-          "destinations": [
-            {
-              "destination": "no_transfer",
-              "count": 12,
-              "percentage": 57.14285714285714
-            },
-            {
-              "destination": "specific_staff_member",
-              "count": 7,
-              "percentage": 33.33333333333333
-            }
-          ]
-        },
-        "returning_call": {
-          "count": 33,
-          "percentage": 26.82926829268293,
-          "resolution_rate": 87.87878787878788,
+          "count": 24,
+          "percentage": 19.047619047619047,
+          "resolution_rate": 91.66666666666666,
           "destinations": [
             {
               "destination": "no_transfer",
               "count": 16,
-              "percentage": 48.484848484848484
+              "percentage": 66.66666666666666
+            },
+            {
+              "destination": "unspecified_internal_transfer",
+              "count": 3,
+              "percentage": 12.5
             },
             {
               "destination": "specific_staff_member",
+              "count": 3,
+              "percentage": 12.5
+            }
+          ]
+        },
+        "returning_call": {
+          "count": 30,
+          "percentage": 23.809523809523807,
+          "resolution_rate": 83.33333333333334,
+          "destinations": [
+            {
+              "destination": "no_transfer",
               "count": 15,
-              "percentage": 45.45454545454545
+              "percentage": 50.0
+            },
+            {
+              "destination": "specific_staff_member",
+              "count": 12,
+              "percentage": 40.0
             }
           ]
         },
         "financial_and_settlement_inquiry": {
-          "count": 7,
-          "percentage": 5.691056910569105,
-          "resolution_rate": 85.71428571428571,
+          "count": 8,
+          "percentage": 6.349206349206349,
+          "resolution_rate": 100.0,
           "destinations": [
             {
               "destination": "no_transfer",
               "count": 3,
-              "percentage": 42.857142857142854
+              "percentage": 37.5
             }
           ]
         },
         "administrative_request": {
           "count": 4,
-          "percentage": 3.2520325203252036,
+          "percentage": 3.1746031746031744,
           "resolution_rate": 100.0,
           "destinations": [
             {
@@ -265,7 +269,7 @@
         },
         "scheduling_and_appointments": {
           "count": 5,
-          "percentage": 4.0650406504065035,
+          "percentage": 3.968253968253968,
           "resolution_rate": 80.0,
           "destinations": [
             {
@@ -274,172 +278,215 @@
               "percentage": 60.0
             }
           ]
+        },
+        "unknown_or_undetermined": {
+          "count": 3,
+          "percentage": 2.380952380952381,
+          "resolution_rate": 33.33333333333333,
+          "destinations": [
+            {
+              "destination": "no_transfer",
+              "count": 3,
+              "percentage": 100.0
+            }
+          ]
         }
       }
     },
     "family_member": {
-      "count": 9,
+      "count": 8,
       "resolution_rate": 100.0,
       "primary_destinations": [
         {
           "destination": "no_transfer",
           "count": 7,
-          "percentage": 77.77777777777779
+          "percentage": 87.5
         }
       ],
       "intents": {
         "new_client_intake": {
-          "count": 5,
-          "percentage": 55.55555555555556,
+          "count": 4,
+          "percentage": 50.0,
           "resolution_rate": 100.0,
           "destinations": [
             {
               "destination": "no_transfer",
               "count": 4,
-              "percentage": 80.0
+              "percentage": 100.0
             }
           ]
         }
       }
     },
     "insurance_rep": {
-      "count": 96,
-      "resolution_rate": 93.75,
+      "count": 97,
+      "resolution_rate": 94.84536082474226,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 59,
-          "percentage": 61.458333333333336
+          "count": 66,
+          "percentage": 68.04123711340206
         },
         {
           "destination": "specific_staff_member",
-          "count": 18,
-          "percentage": 18.75
+          "count": 13,
+          "percentage": 13.402061855670103
         },
         {
           "destination": "legal_counsel",
-          "count": 11,
-          "percentage": 11.458333333333332
+          "count": 8,
+          "percentage": 8.24742268041237
         },
         {
           "destination": "unspecified_internal_transfer",
-          "count": 6,
-          "percentage": 6.25
+          "count": 7,
+          "percentage": 7.216494845360824
+        },
+        {
+          "destination": "case_management",
+          "count": 3,
+          "percentage": 3.0927835051546393
         }
       ],
       "intents": {
         "financial_and_settlement_inquiry": {
-          "count": 16,
-          "percentage": 16.666666666666664,
-          "resolution_rate": 93.75,
+          "count": 18,
+          "percentage": 18.556701030927837,
+          "resolution_rate": 88.88888888888889,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 11,
-              "percentage": 68.75
+              "count": 13,
+              "percentage": 72.22222222222221
             },
             {
               "destination": "legal_counsel",
-              "count": 4,
-              "percentage": 25.0
-            }
-          ]
-        },
-        "verify_representation": {
-          "count": 3,
-          "percentage": 3.125,
-          "resolution_rate": 100.0,
-          "destinations": []
-        },
-        "administrative_request": {
-          "count": 6,
-          "percentage": 6.25,
-          "resolution_rate": 83.33333333333334,
-          "destinations": [
-            {
-              "destination": "no_transfer",
-              "count": 6,
-              "percentage": 100.0
-            }
-          ]
-        },
-        "speak_with_staff": {
-          "count": 31,
-          "percentage": 32.29166666666667,
-          "resolution_rate": 96.7741935483871,
-          "destinations": [
-            {
-              "destination": "no_transfer",
-              "count": 10,
-              "percentage": 32.25806451612903
-            },
-            {
-              "destination": "specific_staff_member",
-              "count": 9,
-              "percentage": 29.03225806451613
-            },
-            {
-              "destination": "legal_counsel",
-              "count": 5,
-              "percentage": 16.129032258064516
-            },
-            {
-              "destination": "unspecified_internal_transfer",
-              "count": 5,
-              "percentage": 16.129032258064516
+              "count": 3,
+              "percentage": 16.666666666666664
             }
           ]
         },
         "check_case_status": {
-          "count": 21,
-          "percentage": 21.875,
-          "resolution_rate": 90.47619047619048,
+          "count": 27,
+          "percentage": 27.835051546391753,
+          "resolution_rate": 92.5925925925926,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 17,
-              "percentage": 80.95238095238095
+              "count": 20,
+              "percentage": 74.07407407407408
+            }
+          ]
+        },
+        "speak_with_staff": {
+          "count": 25,
+          "percentage": 25.773195876288657,
+          "resolution_rate": 96.0,
+          "destinations": [
+            {
+              "destination": "no_transfer",
+              "count": 9,
+              "percentage": 36.0
+            },
+            {
+              "destination": "specific_staff_member",
+              "count": 8,
+              "percentage": 32.0
+            },
+            {
+              "destination": "unspecified_internal_transfer",
+              "count": 4,
+              "percentage": 16.0
+            },
+            {
+              "destination": "legal_counsel",
+              "count": 3,
+              "percentage": 12.0
             }
           ]
         },
         "returning_call": {
           "count": 15,
-          "percentage": 15.625,
-          "resolution_rate": 93.33333333333333,
+          "percentage": 15.463917525773196,
+          "resolution_rate": 100.0,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 10,
-              "percentage": 66.66666666666666
-            },
+              "count": 13,
+              "percentage": 86.66666666666667
+            }
+          ]
+        },
+        "legal_operations_discussion": {
+          "count": 3,
+          "percentage": 3.0927835051546393,
+          "resolution_rate": 100.0,
+          "destinations": [
             {
-              "destination": "specific_staff_member",
-              "count": 5,
-              "percentage": 33.33333333333333
+              "destination": "no_transfer",
+              "count": 3,
+              "percentage": 100.0
+            }
+          ]
+        },
+        "verify_representation": {
+          "count": 3,
+          "percentage": 3.0927835051546393,
+          "resolution_rate": 100.0,
+          "destinations": []
+        },
+        "administrative_request": {
+          "count": 3,
+          "percentage": 3.0927835051546393,
+          "resolution_rate": 100.0,
+          "destinations": [
+            {
+              "destination": "no_transfer",
+              "count": 3,
+              "percentage": 100.0
             }
           ]
         }
       }
     },
     "business_vendor": {
-      "count": 35,
-      "resolution_rate": 88.57142857142857,
+      "count": 32,
+      "resolution_rate": 90.625,
       "primary_destinations": [
         {
           "destination": "no_transfer",
           "count": 28,
-          "percentage": 80.0
-        },
-        {
-          "destination": "specific_staff_member",
-          "count": 4,
-          "percentage": 11.428571428571429
+          "percentage": 87.5
         }
       ],
       "intents": {
-        "returning_call": {
+        "administrative_request": {
+          "count": 13,
+          "percentage": 40.625,
+          "resolution_rate": 100.0,
+          "destinations": [
+            {
+              "destination": "no_transfer",
+              "count": 12,
+              "percentage": 92.3076923076923
+            }
+          ]
+        },
+        "speak_with_staff": {
+          "count": 10,
+          "percentage": 31.25,
+          "resolution_rate": 90.0,
+          "destinations": [
+            {
+              "destination": "no_transfer",
+              "count": 7,
+              "percentage": 70.0
+            }
+          ]
+        },
+        "solicitation_and_spam": {
           "count": 3,
-          "percentage": 8.571428571428571,
+          "percentage": 9.375,
           "resolution_rate": 66.66666666666666,
           "destinations": [
             {
@@ -448,140 +495,92 @@
               "percentage": 100.0
             }
           ]
-        },
-        "speak_with_staff": {
-          "count": 10,
-          "percentage": 28.57142857142857,
-          "resolution_rate": 90.0,
-          "destinations": [
-            {
-              "destination": "no_transfer",
-              "count": 6,
-              "percentage": 60.0
-            },
-            {
-              "destination": "specific_staff_member",
-              "count": 3,
-              "percentage": 30.0
-            }
-          ]
-        },
-        "administrative_request": {
-          "count": 10,
-          "percentage": 28.57142857142857,
-          "resolution_rate": 100.0,
-          "destinations": [
-            {
-              "destination": "no_transfer",
-              "count": 9,
-              "percentage": 90.0
-            }
-          ]
-        },
-        "legal_operations_discussion": {
-          "count": 5,
-          "percentage": 14.285714285714285,
-          "resolution_rate": 100.0,
-          "destinations": [
-            {
-              "destination": "no_transfer",
-              "count": 4,
-              "percentage": 80.0
-            }
-          ]
-        },
-        "unknown_or_undetermined": {
-          "count": 4,
-          "percentage": 11.428571428571429,
-          "resolution_rate": 50.0,
-          "destinations": [
-            {
-              "destination": "no_transfer",
-              "count": 4,
-              "percentage": 100.0
-            }
-          ]
         }
       }
     },
     "sales_vendor": {
-      "count": 31,
-      "resolution_rate": 29.03225806451613,
+      "count": 29,
+      "resolution_rate": 27.586206896551722,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 31,
-          "percentage": 100.0
+          "count": 28,
+          "percentage": 96.55172413793103
         }
       ],
       "intents": {
         "solicitation_and_spam": {
-          "count": 29,
-          "percentage": 93.54838709677419,
-          "resolution_rate": 24.137931034482758,
+          "count": 28,
+          "percentage": 96.55172413793103,
+          "resolution_rate": 25.0,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 29,
-              "percentage": 100.0
+              "count": 27,
+              "percentage": 96.42857142857143
             }
           ]
         }
       }
     },
     "law_office": {
-      "count": 31,
-      "resolution_rate": 87.09677419354838,
+      "count": 33,
+      "resolution_rate": 90.9090909090909,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 17,
-          "percentage": 54.83870967741935
+          "count": 19,
+          "percentage": 57.57575757575758
         },
         {
           "destination": "specific_staff_member",
-          "count": 11,
-          "percentage": 35.483870967741936
+          "count": 10,
+          "percentage": 30.303030303030305
         },
         {
           "destination": "legal_counsel",
-          "count": 3,
-          "percentage": 9.67741935483871
+          "count": 4,
+          "percentage": 12.121212121212121
         }
       ],
       "intents": {
-        "returning_call": {
-          "count": 5,
-          "percentage": 16.129032258064516,
-          "resolution_rate": 60.0,
+        "legal_operations_discussion": {
+          "count": 9,
+          "percentage": 27.27272727272727,
+          "resolution_rate": 100.0,
           "destinations": [
             {
               "destination": "no_transfer",
-              "count": 4,
-              "percentage": 80.0
+              "count": 8,
+              "percentage": 88.88888888888889
             }
           ]
         },
         "speak_with_staff": {
-          "count": 16,
-          "percentage": 51.61290322580645,
-          "resolution_rate": 93.75,
+          "count": 15,
+          "percentage": 45.45454545454545,
+          "resolution_rate": 100.0,
           "destinations": [
             {
               "destination": "specific_staff_member",
-              "count": 11,
-              "percentage": 68.75
+              "count": 9,
+              "percentage": 60.0
+            },
+            {
+              "destination": "legal_counsel",
+              "count": 3,
+              "percentage": 20.0
             },
             {
               "destination": "no_transfer",
               "count": 3,
-              "percentage": 18.75
+              "percentage": 20.0
             }
           ]
         },
         "administrative_request": {
           "count": 3,
-          "percentage": 9.67741935483871,
+          "percentage": 9.090909090909092,
           "resolution_rate": 100.0,
           "destinations": [
             {
@@ -591,56 +590,45 @@
             }
           ]
         },
-        "legal_operations_discussion": {
-          "count": 5,
-          "percentage": 16.129032258064516,
-          "resolution_rate": 100.0,
-          "destinations": [
-            {
-              "destination": "no_transfer",
-              "count": 5,
-              "percentage": 100.0
-            }
-          ]
+        "returning_call": {
+          "count": 3,
+          "percentage": 9.090909090909092,
+          "resolution_rate": 33.33333333333333,
+          "destinations": []
         }
       }
     },
     "spanish_speaker": {
-      "count": 15,
-      "resolution_rate": 86.66666666666667,
+      "count": 14,
+      "resolution_rate": 85.71428571428571,
       "primary_destinations": [
         {
           "destination": "no_transfer",
           "count": 9,
-          "percentage": 60.0
+          "percentage": 64.28571428571429
         },
         {
           "destination": "unspecified_internal_transfer",
           "count": 4,
-          "percentage": 26.666666666666668
+          "percentage": 28.57142857142857
         }
       ],
       "intents": {
         "unknown_or_undetermined": {
-          "count": 8,
-          "percentage": 53.333333333333336,
-          "resolution_rate": 75.0,
+          "count": 5,
+          "percentage": 35.714285714285715,
+          "resolution_rate": 60.0,
           "destinations": [
             {
-              "destination": "unspecified_internal_transfer",
-              "count": 4,
-              "percentage": 50.0
-            },
-            {
               "destination": "no_transfer",
-              "count": 4,
-              "percentage": 50.0
+              "count": 3,
+              "percentage": 60.0
             }
           ]
         },
         "speak_with_staff": {
           "count": 3,
-          "percentage": 20.0,
+          "percentage": 21.428571428571427,
           "resolution_rate": 100.0,
           "destinations": []
         }
@@ -649,342 +637,341 @@
   },
   "by_intent": {
     "document_and_evidence_submission": {
-      "count": 8,
-      "resolution_rate": 75.0,
+      "count": 6,
+      "resolution_rate": 66.66666666666666,
       "primary_destinations": [
         {
           "destination": "no_transfer",
           "count": 6,
-          "percentage": 75.0
+          "percentage": 100.0
         }
       ],
-      "caller_types": [
-        {
-          "caller_type": "medical_provider",
-          "count": 3,
-          "percentage": 37.5
-        }
-      ]
+      "caller_types": []
     },
     "check_case_status": {
-      "count": 57,
-      "resolution_rate": 91.22807017543859,
-      "primary_destinations": [
-        {
-          "destination": "no_transfer",
-          "count": 39,
-          "percentage": 68.42105263157895
-        },
-        {
-          "destination": "specific_staff_member",
-          "count": 8,
-          "percentage": 14.035087719298245
-        },
-        {
-          "destination": "unspecified_internal_transfer",
-          "count": 5,
-          "percentage": 8.771929824561402
-        },
-        {
-          "destination": "case_management",
-          "count": 3,
-          "percentage": 5.263157894736842
-        }
-      ],
-      "caller_types": [
-        {
-          "caller_type": "existing_client",
-          "count": 21,
-          "percentage": 36.84210526315789
-        },
-        {
-          "caller_type": "insurance_rep",
-          "count": 21,
-          "percentage": 36.84210526315789
-        },
-        {
-          "caller_type": "medical_provider",
-          "count": 14,
-          "percentage": 24.561403508771928
-        }
-      ]
-    },
-    "unknown_or_undetermined": {
-      "count": 74,
-      "resolution_rate": 13.513513513513514,
-      "primary_destinations": [
-        {
-          "destination": "no_transfer",
-          "count": 70,
-          "percentage": 94.5945945945946
-        },
-        {
-          "destination": "unspecified_internal_transfer",
-          "count": 4,
-          "percentage": 5.405405405405405
-        }
-      ],
-      "caller_types": [
-        {
-          "caller_type": "new_client",
-          "count": 59,
-          "percentage": 79.72972972972973
-        },
-        {
-          "caller_type": "spanish_speaker",
-          "count": 8,
-          "percentage": 10.81081081081081
-        },
-        {
-          "caller_type": "business_vendor",
-          "count": 4,
-          "percentage": 5.405405405405405
-        }
-      ]
-    },
-    "returning_call": {
       "count": 67,
-      "resolution_rate": 86.56716417910447,
+      "resolution_rate": 91.04477611940298,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 40,
-          "percentage": 59.70149253731343
+          "count": 48,
+          "percentage": 71.64179104477611
         },
         {
           "destination": "specific_staff_member",
-          "count": 24,
-          "percentage": 35.82089552238806
-        }
-      ],
-      "caller_types": [
-        {
-          "caller_type": "existing_client",
-          "count": 33,
-          "percentage": 49.25373134328358
+          "count": 6,
+          "percentage": 8.955223880597014
         },
         {
-          "caller_type": "insurance_rep",
-          "count": 15,
-          "percentage": 22.388059701492537
-        },
-        {
-          "caller_type": "new_client",
-          "count": 7,
-          "percentage": 10.44776119402985
-        },
-        {
-          "caller_type": "law_office",
+          "destination": "unspecified_internal_transfer",
           "count": 5,
           "percentage": 7.462686567164178
         },
         {
-          "caller_type": "business_vendor",
-          "count": 3,
-          "percentage": 4.477611940298507
-        }
-      ]
-    },
-    "speak_with_staff": {
-      "count": 116,
-      "resolution_rate": 94.82758620689656,
-      "primary_destinations": [
-        {
-          "destination": "specific_staff_member",
-          "count": 49,
-          "percentage": 42.241379310344826
-        },
-        {
-          "destination": "no_transfer",
-          "count": 47,
-          "percentage": 40.51724137931034
+          "destination": "case_management",
+          "count": 5,
+          "percentage": 7.462686567164178
         },
         {
           "destination": "legal_counsel",
-          "count": 11,
-          "percentage": 9.482758620689655
-        },
-        {
-          "destination": "unspecified_internal_transfer",
-          "count": 6,
-          "percentage": 5.172413793103448
-        },
-        {
-          "destination": "case_management",
           "count": 3,
-          "percentage": 2.586206896551724
+          "percentage": 4.477611940298507
         }
       ],
       "caller_types": [
         {
-          "caller_type": "existing_client",
-          "count": 46,
-          "percentage": 39.6551724137931
-        },
-        {
           "caller_type": "insurance_rep",
-          "count": 31,
-          "percentage": 26.72413793103448
+          "count": 27,
+          "percentage": 40.298507462686565
         },
         {
-          "caller_type": "law_office",
-          "count": 16,
-          "percentage": 13.793103448275861
-        },
-        {
-          "caller_type": "business_vendor",
-          "count": 10,
-          "percentage": 8.620689655172415
+          "caller_type": "existing_client",
+          "count": 24,
+          "percentage": 35.82089552238806
         },
         {
           "caller_type": "medical_provider",
-          "count": 7,
-          "percentage": 6.0344827586206895
-        },
-        {
-          "caller_type": "spanish_speaker",
-          "count": 3,
-          "percentage": 2.586206896551724
+          "count": 15,
+          "percentage": 22.388059701492537
         }
       ]
     },
-    "new_client_intake": {
-      "count": 45,
-      "resolution_rate": 95.55555555555556,
+    "unknown_or_undetermined": {
+      "count": 71,
+      "resolution_rate": 8.450704225352112,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 35,
-          "percentage": 77.77777777777779
-        },
-        {
-          "destination": "legal_counsel",
-          "count": 4,
-          "percentage": 8.88888888888889
-        },
-        {
-          "destination": "intake_and_investigation",
-          "count": 3,
-          "percentage": 6.666666666666667
+          "count": 69,
+          "percentage": 97.1830985915493
         }
       ],
       "caller_types": [
         {
           "caller_type": "new_client",
+          "count": 61,
+          "percentage": 85.91549295774648
+        },
+        {
+          "caller_type": "spanish_speaker",
+          "count": 5,
+          "percentage": 7.042253521126761
+        },
+        {
+          "caller_type": "existing_client",
+          "count": 3,
+          "percentage": 4.225352112676056
+        }
+      ]
+    },
+    "returning_call": {
+      "count": 61,
+      "resolution_rate": 86.88524590163934,
+      "primary_destinations": [
+        {
+          "destination": "no_transfer",
+          "count": 39,
+          "percentage": 63.934426229508205
+        },
+        {
+          "destination": "specific_staff_member",
+          "count": 17,
+          "percentage": 27.86885245901639
+        },
+        {
+          "destination": "unspecified_internal_transfer",
+          "count": 4,
+          "percentage": 6.557377049180328
+        }
+      ],
+      "caller_types": [
+        {
+          "caller_type": "existing_client",
+          "count": 30,
+          "percentage": 49.18032786885246
+        },
+        {
+          "caller_type": "insurance_rep",
+          "count": 15,
+          "percentage": 24.59016393442623
+        },
+        {
+          "caller_type": "new_client",
+          "count": 6,
+          "percentage": 9.836065573770492
+        },
+        {
+          "caller_type": "law_office",
+          "count": 3,
+          "percentage": 4.918032786885246
+        }
+      ]
+    },
+    "speak_with_staff": {
+      "count": 111,
+      "resolution_rate": 95.4954954954955,
+      "primary_destinations": [
+        {
+          "destination": "specific_staff_member",
+          "count": 47,
+          "percentage": 42.34234234234234
+        },
+        {
+          "destination": "no_transfer",
+          "count": 46,
+          "percentage": 41.44144144144144
+        },
+        {
+          "destination": "legal_counsel",
+          "count": 8,
+          "percentage": 7.207207207207207
+        },
+        {
+          "destination": "unspecified_internal_transfer",
+          "count": 6,
+          "percentage": 5.405405405405405
+        },
+        {
+          "destination": "case_management",
+          "count": 4,
+          "percentage": 3.6036036036036037
+        }
+      ],
+      "caller_types": [
+        {
+          "caller_type": "existing_client",
+          "count": 47,
+          "percentage": 42.34234234234234
+        },
+        {
+          "caller_type": "insurance_rep",
+          "count": 25,
+          "percentage": 22.52252252252252
+        },
+        {
+          "caller_type": "law_office",
+          "count": 15,
+          "percentage": 13.513513513513514
+        },
+        {
+          "caller_type": "business_vendor",
+          "count": 10,
+          "percentage": 9.00900900900901
+        },
+        {
+          "caller_type": "medical_provider",
+          "count": 8,
+          "percentage": 7.207207207207207
+        },
+        {
+          "caller_type": "spanish_speaker",
+          "count": 3,
+          "percentage": 2.7027027027027026
+        }
+      ]
+    },
+    "new_client_intake": {
+      "count": 44,
+      "resolution_rate": 97.72727272727273,
+      "primary_destinations": [
+        {
+          "destination": "no_transfer",
           "count": 33,
-          "percentage": 73.33333333333333
+          "percentage": 75.0
+        },
+        {
+          "destination": "legal_counsel",
+          "count": 5,
+          "percentage": 11.363636363636363
+        },
+        {
+          "destination": "intake_and_investigation",
+          "count": 3,
+          "percentage": 6.8181818181818175
+        }
+      ],
+      "caller_types": [
+        {
+          "caller_type": "new_client",
+          "count": 34,
+          "percentage": 77.27272727272727
         },
         {
           "caller_type": "family_member",
-          "count": 5,
-          "percentage": 11.11111111111111
+          "count": 4,
+          "percentage": 9.090909090909092
         }
       ]
     },
     "financial_and_settlement_inquiry": {
-      "count": 26,
-      "resolution_rate": 92.3076923076923,
+      "count": 30,
+      "resolution_rate": 93.33333333333333,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 17,
-          "percentage": 65.38461538461539
+          "count": 20,
+          "percentage": 66.66666666666666
         },
         {
           "destination": "legal_counsel",
-          "count": 6,
-          "percentage": 23.076923076923077
+          "count": 5,
+          "percentage": 16.666666666666664
         }
       ],
       "caller_types": [
         {
           "caller_type": "insurance_rep",
-          "count": 16,
-          "percentage": 61.53846153846154
+          "count": 18,
+          "percentage": 60.0
         },
         {
           "caller_type": "existing_client",
-          "count": 7,
-          "percentage": 26.923076923076923
+          "count": 8,
+          "percentage": 26.666666666666668
+        }
+      ]
+    },
+    "administrative_request": {
+      "count": 37,
+      "resolution_rate": 100.0,
+      "primary_destinations": [
+        {
+          "destination": "no_transfer",
+          "count": 33,
+          "percentage": 89.1891891891892
+        }
+      ],
+      "caller_types": [
+        {
+          "caller_type": "business_vendor",
+          "count": 13,
+          "percentage": 35.13513513513514
+        },
+        {
+          "caller_type": "medical_provider",
+          "count": 10,
+          "percentage": 27.027027027027028
+        },
+        {
+          "caller_type": "existing_client",
+          "count": 4,
+          "percentage": 10.81081081081081
+        },
+        {
+          "caller_type": "law_office",
+          "count": 3,
+          "percentage": 8.108108108108109
+        },
+        {
+          "caller_type": "insurance_rep",
+          "count": 3,
+          "percentage": 8.108108108108109
         }
       ]
     },
     "solicitation_and_spam": {
-      "count": 30,
-      "resolution_rate": 26.666666666666668,
+      "count": 31,
+      "resolution_rate": 29.03225806451613,
       "primary_destinations": [
         {
           "destination": "no_transfer",
           "count": 30,
-          "percentage": 100.0
+          "percentage": 96.7741935483871
         }
       ],
       "caller_types": [
         {
           "caller_type": "sales_vendor",
-          "count": 29,
-          "percentage": 96.66666666666667
+          "count": 28,
+          "percentage": 90.32258064516128
+        },
+        {
+          "caller_type": "business_vendor",
+          "count": 3,
+          "percentage": 9.67741935483871
         }
       ]
     },
-    "verify_representation": {
-      "count": 6,
+    "legal_operations_discussion": {
+      "count": 15,
       "resolution_rate": 100.0,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 5,
-          "percentage": 83.33333333333334
+          "count": 13,
+          "percentage": 86.66666666666667
         }
       ],
       "caller_types": [
-        {
-          "caller_type": "insurance_rep",
-          "count": 3,
-          "percentage": 50.0
-        },
-        {
-          "caller_type": "medical_provider",
-          "count": 3,
-          "percentage": 50.0
-        }
-      ]
-    },
-    "administrative_request": {
-      "count": 35,
-      "resolution_rate": 94.28571428571428,
-      "primary_destinations": [
-        {
-          "destination": "no_transfer",
-          "count": 31,
-          "percentage": 88.57142857142857
-        }
-      ],
-      "caller_types": [
-        {
-          "caller_type": "medical_provider",
-          "count": 10,
-          "percentage": 28.57142857142857
-        },
-        {
-          "caller_type": "business_vendor",
-          "count": 10,
-          "percentage": 28.57142857142857
-        },
-        {
-          "caller_type": "insurance_rep",
-          "count": 6,
-          "percentage": 17.142857142857142
-        },
-        {
-          "caller_type": "existing_client",
-          "count": 4,
-          "percentage": 11.428571428571429
-        },
         {
           "caller_type": "law_office",
+          "count": 9,
+          "percentage": 60.0
+        },
+        {
+          "caller_type": "insurance_rep",
           "count": 3,
-          "percentage": 8.571428571428571
+          "percentage": 20.0
         }
       ]
     },
@@ -1006,26 +993,26 @@
         }
       ]
     },
-    "legal_operations_discussion": {
-      "count": 15,
+    "verify_representation": {
+      "count": 6,
       "resolution_rate": 100.0,
       "primary_destinations": [
         {
           "destination": "no_transfer",
-          "count": 12,
-          "percentage": 80.0
+          "count": 5,
+          "percentage": 83.33333333333334
         }
       ],
       "caller_types": [
         {
-          "caller_type": "law_office",
-          "count": 5,
-          "percentage": 33.33333333333333
+          "caller_type": "medical_provider",
+          "count": 3,
+          "percentage": 50.0
         },
         {
-          "caller_type": "business_vendor",
-          "count": 5,
-          "percentage": 33.33333333333333
+          "caller_type": "insurance_rep",
+          "count": 3,
+          "percentage": 50.0
         }
       ]
     }

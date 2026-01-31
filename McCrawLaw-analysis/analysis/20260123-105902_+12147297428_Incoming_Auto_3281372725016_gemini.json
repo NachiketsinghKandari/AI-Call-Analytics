@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller returned a missed call. The receptionist attempted to identify the caller but could not find a matching record for the provided phone number. The caller stated they already have legal representation for their recent accident and declined further assistance.",
+    "final_outcome": "The caller was returning a missed call. The receptionist searched the system but could not identify the caller or the reason for the call. The caller stated they already had legal representation for their accident and declined further assistance.",
     "call_duration_seconds": 154.8,
     "call_duration_formatted": "02:34"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist handled the inquiry directly."
+    "description": "No transfer was attempted."
   }
 }

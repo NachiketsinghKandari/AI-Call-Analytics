@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the caller's identity and contact information, then took a message for a callback after stating the requested staff member was unavailable.",
+    "final_outcome": "The caller requested a status update from a specific staff member. The receptionist determined the staff member was unavailable and took a message for a callback.",
     "call_duration_seconds": 141.26,
     "call_duration_formatted": "02:21"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted. The receptionist took a message after determining the requested staff member was unavailable."
   }
 }

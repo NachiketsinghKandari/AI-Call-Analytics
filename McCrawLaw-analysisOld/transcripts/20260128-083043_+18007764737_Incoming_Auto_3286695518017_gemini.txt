@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Tiffany / Role: Receptionist at McCraw Law Group: 10 turns
+  • Speaker 3 / Alexis / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:16] [Alexis]: Hi, um, I'm calling from Progressive regarding a client named Jacqueline Miranda.
+[00:23] [Receptionist]: Okay, yeah. Definitely want to help you with that. Can you spell her last name for me?
+[00:28] [Alexis]: Miranda is M as in Mary, I-R-A-N as in Nancy, D-A.
+[00:35] [Receptionist]: Thank you. And can you spell the first name?
+[00:38] [Alexis]: Jacqueline is J-A-C-Q-U-E-L-I-N-E.
+[00:47] [Receptionist]: Thank you. And just to verify, um, am I speaking with Alexis?
+[00:56] [Alexis]: Correct, yes.
+[00:58] [Receptionist]: Thank you.
+[01:00] [ ... Silence (12s) ... ]
+[01:12] [Receptionist]: Okay, what information were you needing regarding Jacqueline exactly?
+[01:16] [Alexis]: I'm calling in response to a demand. I am calling to present an offer.
+[01:21] [Receptionist]: Okay, thank you for that information.
+[01:24] [ ... Silence (11s) ... ]
+[01:35] [Receptionist]: Okay, so our office just does not open until 9:00. So what I'm going to do is go ahead and get this message over to my team and then somebody should be able to reach out to you regarding that offer.
+[01:45] [Alexis]: Okay, and what was your name?
+[01:47] [Receptionist]: My name's Tiffany.
+[01:49] [Alexis]: Perfect. Thank you so much. You have a good day.
+[01:51] [Receptionist]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

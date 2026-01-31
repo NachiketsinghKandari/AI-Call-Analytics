@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Gladita / Role: Receptionist at McFarlane Law Group: 10 turns
+  • Speaker 3 / Marcelo / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: McFarlane Law Group, this is Gladita, how can I help you?
+[00:07] [Marcelo]: Uh, hi, this is Marcelo with Progressive Claims. I was trying to reach out here following up on a client that you guys represent.
+[00:14] [Receptionist]: Can I have the name of the client?
+[00:18] [Marcelo]: Yes, uh, first name is Jeffrey, J-E-F-F-R-E-Y, last name is going to be Quinlin, Q-U-I-N-L-I-N.
+[00:31] [Receptionist]: One second.
+[00:32] [ ... Silence (5s) ... ]
+[00:37] [Receptionist]: Okay, just hold on the line for me, please, and I'll connect you to the case manager or attorney.
+[00:43] [Marcelo]: Thank you.
+[00:45] [Receptionist]: Thank you.
+[00:46] [ ... Silence (21s) ... ]
+[01:07] [Receptionist]: Thank you so much for holding there, Marcelo. So it does seem that the attorney is not available at this moment, um, but I can take a message and have him give you a call back.
+[01:20] [Marcelo]: Okay, yeah, that's fine.
+[01:23] [Receptionist]: Um, can I have your callback number?
+[01:27] [Marcelo]: Yes, it's going to be 210-610-3710.
+[01:38] [Receptionist]: 3710. Okay, I will go ahead and let him know and he should be reaching out to you.
+[01:45] [Marcelo]: Okay, sounds good. And I'm sorry, I didn't catch your name, um...
+[01:49] [Receptionist]: Um, it's Gladita.
+[01:52] [Marcelo]: Gladita. Okay, gotcha. Thank you, ma'am. You have a blessed day.
+[01:55] [Receptionist]: Thank you, you as well. Goodbye.
+[01:58] [Marcelo]: Peace.
+
+========================================
+TRANSCRIPT END
+========================================

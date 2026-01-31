@@ -4,11 +4,11 @@
     "primary_intent": "returning_call",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
-    "resolution_type": "message_taken",
+    "resolution_type": "information_provided",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller returned a missed call. The receptionist confirmed the caller's phone number and stated they would take a message for the team.",
+    "final_outcome": "The caller returned a missed call. The receptionist confirmed the caller's contact information and offered to notify the team. The caller decided to check their voicemail and call back later.",
     "call_duration_seconds": 58.82,
     "call_duration_formatted": "00:58"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist informed the caller that no one from the team was available to take the call."
+    "description": "No transfer was attempted during this call."
   }
 }

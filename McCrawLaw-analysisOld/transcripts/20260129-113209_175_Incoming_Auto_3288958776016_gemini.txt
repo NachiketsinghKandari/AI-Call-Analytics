@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Bey and Associates: 6 turns
+  • Speaker 2 / Miha / Role: Employee: 6 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Receptionist]: Good morning.
+[00:05] [Miha]: Good morning. I I've tried to connect the call, but it wouldn't go through for some reason.
+[00:11] [Receptionist]: Oh, okay. Sorry. Okay, so that was— I'm sending you a message now. Deborah from Liberty Mutual regarding injuries on Deborah Buchanan.
+[00:22] [Miha]: Oh. Okay. I'll give them a call back. Yeah, I answered, but I didn't hear anything, so...
+[00:28] [Receptionist]: Wow.
+[00:29] [Miha]: Mm-hmm. Oh, I had called back because I didn't hear nothing. I'm in this, this 401k meeting too, so...
+[00:35] [Receptionist]: Oh, are you? Yeah, that's what I thought everybody was. Okay. Sorry about that.
+[00:41] [Miha]: All right. No, you good. I'll call her back.
+[00:42] [Receptionist]: Thank you, Miha. Okay, buddy.
+[00:43] [Miha]: Yes, ma'am.
+[00:44] [Receptionist]: Thank you, buddy.
+[00:45] [Miha]: All right.
+
+========================================
+TRANSCRIPT END
+========================================

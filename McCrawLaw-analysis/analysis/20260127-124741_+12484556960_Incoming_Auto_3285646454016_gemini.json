@@ -4,11 +4,11 @@
     "primary_intent": "scheduling_and_appointments",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
+    "resolution_type": "callback_scheduled",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": "next_steps_documented",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided scheduling availability for a follow-up meeting regarding a software integration and confirmed a tentative time for the following week.",
+    "final_outcome": "The receptionist directly coordinated a meeting time for the following week with the caller and confirmed availability for the firm's partners.",
     "call_duration_seconds": 390.74,
     "call_duration_formatted": "06:30"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist handled the scheduling request directly after checking internal calendars."
+    "description": "No transfer was attempted during this call."
   }
 }

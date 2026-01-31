@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call disconnected immediately after the initial exchange before any operational terminal state or next steps were established.",
+    "final_outcome": "The call was terminated prematurely after Speaker 3 mentioned a law group and avoiding suspension; no operational resolution was reached.",
     "call_duration_seconds": 6.12,
     "call_duration_formatted": "00:06"
   },

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected contact information and incident details regarding a dog bite for a new potential client and informed the caller that the legal team would follow up.",
+    "final_outcome": "The receptionist completed a new client intake by gathering contact information and incident details regarding a dog bite, then informed the caller that the legal team would follow up.",
     "call_duration_seconds": 230.62,
     "call_duration_formatted": "03:50"
   },

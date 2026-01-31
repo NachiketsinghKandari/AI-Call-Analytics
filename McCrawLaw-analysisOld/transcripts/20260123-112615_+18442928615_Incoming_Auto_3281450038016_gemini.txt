@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Tareka / Role: Receptionist at McCall Law Group: 3 turns
+  • Speaker 3 / Nica / Role: Caller from State Farm: 3 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Tareka, how may I help you today?
+[00:07] [Nica]: Hey, it's Nica, I'm over here with State Farm. I wanted to speak to someone on Christine Rudisill, R-U-D-I-C-I-L-L-E.
+[00:17] [Receptionist]: Okay. And I'm so sorry, I did not catch that. You said, um, what did you say your name was?
+[00:22] [Nica]: N-I-C-A, Nika, with State Farm.
+[00:26] [Receptionist]: Gotcha. Give me one moment, please.
+[00:29] [Nica]: Mm-hmm. No problem.
+
+========================================
+TRANSCRIPT END
+========================================

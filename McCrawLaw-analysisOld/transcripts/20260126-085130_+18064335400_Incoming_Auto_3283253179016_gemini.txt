@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 9 turns
+  • Speaker 3 / Marlon Cross / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance.
+[00:08] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:12] [Marlon Cross]: Uh yes ma'am, this is Marlon Cross and uh I was going to see if I could talk to Drake, I just got off the phone with him and I was wanting to tell him my next appointment when it was going to be to the doctor.
+[00:24] [Receptionist]: Okay you said your name is Marlon Cross?
+[00:27] [Marlon Cross]: Yes ma'am.
+[00:28] [Receptionist]: Okay.
+[00:29] [ ... Silence (10s) ... ]
+[00:39] [Receptionist]: And I have phone number 806-433-5400?
+[00:45] [Marlon Cross]: Yes ma'am.
+[00:47] [Receptionist]: Okay.
+[00:48] [ ... Silence (12s) ... ]
+[01:00] [Receptionist]: Okay right now Drake is currently unavailable but I will forward a message to have him call you as soon as possible, okay?
+[01:07] [Marlon Cross]: Okay, uh or or you could let him know that my next appointment is going to be April 8th, which is kind of a long ways away, that's what I was wanting to let him know that I remember they said that's the quickest, okay, I might have to use a different doctor or something because that's the soonest they can get me in.
+[01:26] [Receptionist]: Okay, I will let him know that your next appointment is April 8th, okay?
+[01:30] [Marlon Cross]: Okay, thank you.
+[01:31] [Receptionist]: You're welcome, have a good day.
+[01:33] [Marlon Cross]: All right, bye.
+[01:34] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

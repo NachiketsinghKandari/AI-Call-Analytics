@@ -2,26 +2,20 @@
   "caller_type": "spanish_speaker",
   "call_summary": {
     "primary_intent": "unknown_or_undetermined",
-    "resolution_achieved": true,
-    "resolution_basis": "transfer_path_entered",
-    "resolution_type": "transfer_attempted",
-    "operational_terminal_state": "entered_transfer_path",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a Spanish speaker. The receptionist acknowledged the request in Spanish and the call ended immediately after, indicating the caller was placed into a transfer path.",
+    "final_outcome": "The caller requested Spanish language support. The receptionist responded in Spanish, but the call ended while the caller was speaking without reaching a resolution or initiating a transfer.",
     "call_duration_seconds": 31.61,
     "call_duration_formatted": "00:31"
   },
   "transfer_context": {
-    "destinations": [
-      "unspecified_internal_transfer"
-    ],
-    "transfer_connection_status": [
-      true
-    ],
-    "reasons": [
-      "specialized_knowledge_required"
-    ],
-    "description": "The receptionist stated 's\u00ed, uno m\u00e1s' in response to the caller's request for a Spanish speaker and the call ended."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted during the call."
   }
 }

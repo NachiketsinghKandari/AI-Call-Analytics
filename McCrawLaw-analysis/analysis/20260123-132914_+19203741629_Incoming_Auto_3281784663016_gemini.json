@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about settlement values and child support implications for a worker's compensation case. The receptionist informed the caller that she could not provide legal advice as he is already represented by another attorney, and the call concluded after pleasantries.",
+    "final_outcome": "The caller inquired about settlement amounts and child support implications for a worker's compensation case. The receptionist informed the caller that she could not provide legal advice because the caller is already represented by an attorney in another state. The caller acknowledged this and the call concluded.",
     "call_duration_seconds": 105.55,
     "call_duration_formatted": "01:45"
   },

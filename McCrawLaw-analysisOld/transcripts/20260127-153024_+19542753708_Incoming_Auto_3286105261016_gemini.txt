@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Bey and Associates: 8 turns
+  • Speaker 3 / Zaylen / Role: Caller: 3 turns
+  • Speaker 4 / Unknown / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: Hi, Zaylen.
+[00:05] [Zaylen]: Hi, um, are you able to help with the Spanish PNC?
+[00:09] [Receptionist]: Yes. You can...
+[00:11] [Zaylen]: Oh. Okay. Thank you.
+[00:14] [Receptionist]: Mhm. Thank you.
+[00:16] [Zaylen]: Bye.
+[00:17] [Speaker 4]: Mira, ay Andrea mira, mira todo lo que me hice ahí. Yo he aplicado y no sé cómo responder.
+[00:22] [Receptionist]: Hola.
+[00:23] [Speaker 4]: Aló.
+[00:24] [Receptionist]: ¿En qué le puedo ayudar?
+[00:25] [Speaker 4]: Aló. Ah, no, dice allí, aló, buenas, vea, veo por Instagram que dice que necesitan empleados.
+[00:33] [Receptionist]: ¿Empleados? Este...
+[00:36] [Speaker 4]: Ya va. Sale por aquí, me sale un teléfono, ya va, por aquí está. Bey and Associates. Ajá. ¿Para qué buscaba, perdón? Este, dice trabajo de, ya va, ya va, para empaques en fábrica.
+[01:01] [Receptionist]: Este, este es un despacho de abogados. Este, sí, no sé, tiene el número equivocado.
+[01:11] [Speaker 4]: Ah, ah no entiendo. Okay. Disculpe, okay. Disculpe, hasta luego.
+[01:14] [Receptionist]: Sí, no se preocupe. Dice que está con Gabriel. Salve.
+[01:17] [Speaker 4]: Que tenga bonita...
+
+========================================
+TRANSCRIPT END
+========================================

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist located the caller's case details and stated that the attorney would return the call.",
+    "final_outcome": "The receptionist located the caller's case and stated that the attorney would be notified to return the call.",
     "call_duration_seconds": 5.4,
     "call_duration_formatted": "00:05"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted."
   }
 }

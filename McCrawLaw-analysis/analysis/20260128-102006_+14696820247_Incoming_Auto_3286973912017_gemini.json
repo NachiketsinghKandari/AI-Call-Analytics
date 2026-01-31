@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from a staff member. The receptionist checked availability, determined the staff member was unavailable, and offered to send an email with the caller's contact information, which the caller accepted.",
+    "final_outcome": "The caller was returning a call from a staff member. The receptionist determined the staff member was unavailable and confirmed they would send an email with the caller's contact information for a callback.",
     "call_duration_seconds": 47.02,
     "call_duration_formatted": "00:47"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist directly handled the request by checking availability and taking a message."
+    "description": "No transfer was attempted; the receptionist checked availability internally and then offered a fallback resolution."
   }
 }

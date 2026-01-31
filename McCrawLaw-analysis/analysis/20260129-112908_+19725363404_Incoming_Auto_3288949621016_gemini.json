@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable; the caller subsequently agreed to a callback to provide medical record contact information.",
+    "final_outcome": "The caller returned a call from a staff member to provide medical record information. The receptionist attempted to reach the staff member, determined they were unavailable, and scheduled a callback for the caller.",
     "call_duration_seconds": 77.26,
     "call_duration_formatted": "01:17"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist placed the caller on hold to check for Emma's availability and returned to the line when she was found to be unavailable."
+    "description": "The receptionist attempted to reach the requested staff member while the caller was on hold, but the staff member was unavailable."
   }
 }

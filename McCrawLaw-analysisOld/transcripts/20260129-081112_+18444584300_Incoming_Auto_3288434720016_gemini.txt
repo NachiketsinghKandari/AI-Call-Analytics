@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated System: 1 turn
+  • Speaker 2 / Maria / Role: Receptionist at McLawler Group: 8 turns
+  • Speaker 3 / Lisa / Role: Caller from State Farm Insurance: 7 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: Good morning, McLawler Group, this is Maria. May I help you?
+[00:07] [Lisa]: Hi Maria, this is Lisa calling from State Farm Insurance. I was calling on client Ashley Rogers.
+[00:15] [Receptionist]: State Farm... okay. Rogers? Give me one moment, ma'am.
+[00:20] [Lisa]: Mhm.
+[00:21] [ ... Silence (8s) ... ]
+[00:29] [Receptionist]: Is it R-O-G-E-R-S or R-O-D-G-E-R-S?
+[00:37] [Lisa]: Um, the letter says R-O-G-E-R-S.
+[00:42] [Receptionist]: Thank you for that.
+[00:43] [Lisa]: Mhm.
+[00:44] [ ... Silence (14s) ... ]
+[00:58] [Receptionist]: And may I tell Cheyenne what this is regarding?
+[01:04] [Lisa]: So this is a newer loss for us, uh, so I wanted to confirm injuries and facts. And I will say, I've I've tried calling you guys twice before and left messages, I've faxed our acknowledgment letter, and our insureds are still receiving final notice letters from your office, so I do need to touch base with somebody to confirm you have our info and all.
+[01:24] [Receptionist]: May I put you on hold for a moment, Lisa?
+[01:27] [Lisa]: Sure. Thanks.
+[01:28] [Receptionist]: You're welcome. I'm going to transfer you now, and it's going to Cheyenne, okay?
+[01:33] [Lisa]: Okay, thank you.
+[01:35] [Receptionist]: Thank you, Lisa. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

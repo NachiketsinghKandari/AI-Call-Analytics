@@ -1,5 +1,5 @@
 {
-  "caller_type": "family_member",
+  "caller_type": "new_client",
   "call_summary": {
     "primary_intent": "new_client_intake",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist performed a new client intake for a potential case involving the caller's son and attempted to transfer the caller to a specific staff member. The staff member was unavailable, and the receptionist took a message for a callback.",
+    "final_outcome": "The receptionist performed a full intake for a new car accident matter and attempted to connect the caller with a specific staff member; when he was unavailable, the receptionist took a message for a callback.",
     "call_duration_seconds": 491.33,
     "call_duration_formatted": "08:11"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to check the availability of Bryce Hobson, but returned to the line to inform the caller he was unavailable and offered to take a message."
+    "description": "The receptionist attempted to check the availability of Bryce Hobson, but informed the caller he was unavailable and proceeded to take a message."
   }
 }

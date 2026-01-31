@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to locate a specific staff member to address a case status inquiry; however, no one was available. A message was taken for the staff member, and the caller confirmed they would also follow up via email.",
+    "final_outcome": "The receptionist attempted to locate a staff member to discuss a client's treatment status, but after a hold period, informed the caller that no one was available. The receptionist left a message for the staff member and the caller agreed to follow up via email.",
     "call_duration_seconds": 389.09,
     "call_duration_formatted": "06:29"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "case_status_inquiry"
     ],
-    "description": "The receptionist checked for the availability of a staff member while the caller was on hold, but returned to the line to report that no one was available."
+    "description": "The receptionist placed the caller on hold to check for staff availability but returned to the line when no one was available to take the call."
   }
 }

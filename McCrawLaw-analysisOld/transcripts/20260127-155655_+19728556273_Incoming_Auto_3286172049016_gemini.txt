@@ -1,0 +1,52 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Kira / Role: Receptionist at The Kral Law Group: 17 turns
+  • Speaker 2 / Garrick / Role: Caller from GEICO: 17 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 2 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Unknown]: This call may be recorded for quality assurance.
+[00:09] [Receptionist]: Hi, thank you for calling The Kral Law Group, how can I help you?
+[00:13] [Garrick]: Hi, this is Garrick with the GEICO claims department, calling in reference to a client of you all's, Jasmine Rinden.
+[00:21] [Receptionist]: Okay. And is your email still geicoclaims@geico.com?
+[00:26] [Garrick]: Yes.
+[00:28] [Receptionist]: Okay. And then can you spell that client's name, please?
+[00:31] [Garrick]: Sure. Jasmine, J-A-S-M-I-N-E, last name Rinden, R-E-N-D-O-N.
+[00:41] [Receptionist]: Thank you. I have Jasmine, J-A-S-M-I-N-E, Rinden, R-E-N-D-O-N.
+[00:46] [Garrick]: Yes.
+[00:48] [Receptionist]: All right. And were you needing a case status update on that client?
+[00:52] [Garrick]: Yes.
+[00:54] [Receptionist]: Okay. All right. So I'm unable to access client files, so I cannot, uh, look in and see what updates we have. And I don't have anyone available right now for you to speak with, so I will just have the team follow up with you as soon as they're able. Is the best callback still the 972-855-6273?
+[01:11] [Garrick]: Yes. And what's your name?
+[01:13] [Receptionist]: Sure. My name is Kira, K-I-R-A.
+[01:17] [Garrick]: All right. And is there an email for your office?
+[01:21] [Receptionist]: Um, let me see. Do you know who is working on the case? Because I have their emails individually, but I don't have like a generic email to give out.
+[01:33] [Garrick]: Diane. Or excuse me, no, not Diane. I'm so sorry. I... hold on. I'm working on this and had another thing pulled up. Hold on.
+[01:44] [Receptionist]: No, you're fine.
+[01:47] [Garrick]: Hold on, let me go back.
+[01:51] [Receptionist]: You're fine.
+[01:53] [ ... Silence (15s) ... ]
+[02:09] [Garrick]: Lambert.
+[02:12] [Receptionist]: Lambert? All right, let me see. Um... is it L-A-M-B-E-R-T?
+[02:22] [Garrick]: Yes. L-A-M-B-E-R-T.
+[02:27] [Receptionist]: Hmm. Do you have a first name? Maybe they changed their last name? 'Cause I'm not able to find...
+[02:42] [Garrick]: Uh, it was a gentleman. I'm not sure if they said Lambert or Limbert.
+[02:50] [Receptionist]: Now, we do have, uh, we have a Landon Knotts.
+[02:57] [Garrick]: Oh, no.
+[02:59] [Receptionist]: Okay.
+[03:00] [Garrick]: Looks like... I don't know. But that's... it's okay.
+[03:04] [Receptionist]: Okay. I don't have Lambert's email. I'm not sure if he works here. I'm still a bit new, um, so maybe he was a previous client or maybe I just don't have his email. Um, but yeah, I can, uh, get this over to the team and have them get back with you as soon as they're able, okay?
+[03:18] [Garrick]: Okay, no problem.
+[03:21] [Receptionist]: All right. Well, thanks for calling and have a good rest of your day.
+[03:24] [Garrick]: You too. Thank you so much for your time.
+[03:27] [Receptionist]: Of course. Bye-bye.
+[03:29] [Garrick]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

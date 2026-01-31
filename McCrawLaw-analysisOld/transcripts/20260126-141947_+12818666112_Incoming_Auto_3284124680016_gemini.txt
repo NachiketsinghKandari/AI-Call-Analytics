@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Dakota / Role: Receptionist at McGraw Law Group: 8 turns
+  • Speaker 3 / Britney / Role: Caller from AAA Insurance: 7 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:13] [Receptionist]: Thank you for calling McGraw Law Group, how can I help you?
+[00:16] [Britney]: This is Britney with AAA Insurance, calling to speak with the case manager for Janice York.
+[00:24] [Receptionist]: Let me see.
+[ ... Silence (8s) ... ]
+[00:33] [Receptionist]: All right, let me see. Can I get your name? You said it was Britney, correct?
+[00:42] [Britney]: Yes.
+[00:43] [Receptionist]: Okay. Give me one second. And then can I also get a good callback number for you and a contact email?
+[00:51] [Britney]: 281-866-6112. Email is claims.documents, plural, both of them plurals, at ace, that's A-C-E, dot AAA dot com.
+[00:58] [Receptionist]: All right, thank you for that. And then what is the name of the client that you were trying to get information for?
+[01:04] [Britney]: Janice, J-A-N-E-E-C-E, last name York.
+[ ... Silence (21s) ... ]
+[01:31] [Receptionist]: All right, perfect. I'll go ahead and get this sent over to our legal team and then they'll be able to reach out to you directly to assist you, okay?
+[01:40] [Britney]: And what was your name?
+[01:42] [Receptionist]: My name is Dakota.
+[01:44] [Britney]: Thank you, Dakota.
+[01:46] [Receptionist]: Of course, you have a great day.
+[01:48] [Britney]: You too, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

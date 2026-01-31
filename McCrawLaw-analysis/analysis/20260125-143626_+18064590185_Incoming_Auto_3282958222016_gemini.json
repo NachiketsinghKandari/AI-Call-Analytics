@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call ended during the automated IVR greeting before the caller could state their intent or be connected to a staff member.",
+    "final_outcome": "The call disconnected during the automated IVR greeting before any interaction with staff occurred.",
     "call_duration_seconds": 9.0,
     "call_duration_formatted": "00:09"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the call terminated during the initial IVR greeting."
+    "description": "No transfer was attempted as the call ended during the initial greeting."
   }
 }

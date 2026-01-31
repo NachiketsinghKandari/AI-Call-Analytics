@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller asked if they could be heard and the call disconnected before any intent was established or assistance could be provided.",
+    "final_outcome": "The call ended abruptly after the caller asked if they could be heard and the receptionist responded, before any intent or next steps could be established.",
     "call_duration_seconds": 17.14,
     "call_duration_formatted": "00:17"
   },

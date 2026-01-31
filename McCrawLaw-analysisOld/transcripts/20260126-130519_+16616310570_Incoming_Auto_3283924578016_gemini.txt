@@ -1,0 +1,35 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Lionel / Role: Receptionist at Bey McCall Law Group: 8 turns
+  • Speaker 2 / Jessica / Role: Caller from Bakersfield Family Chiropractic: 8 turns
+  • Speaker 3 / Unknown / Role: Automated Recording: 2 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Unknown]: This call may be recorded for quality assurance purposes.
+[00:08] [ ... Silence (7s) ... ]
+[00:15] [Receptionist]: Lionel, Bey McCall Law Group, how can I help you?
+[00:18] [Jessica]: Hi, my name is Jessica. I'm calling from Bakersfield Family Chiropractic and I was wondering if I could speak with Mary?
+[00:25] [Receptionist]: Okay, I'll be happy to go ahead and relay your request. I just want to go ahead and confirm the email that I have here is jessica number one at bakersfield family chiropractic dot com?
+[00:34] [Jessica]: Correct, yes.
+[00:36] [Receptionist]: Thank you very much. And what would be the reason that you need to speak with Mary so I can go ahead and relay this to your request?
+[00:42] [Jessica]: Um, I was just calling to follow up on a mutual patient, um, to see if they've been scheduled for their MRI or not yet.
+[00:51] [Receptionist]: Okay. Okay. What is the name of the client or the patient, I'm sorry?
+[00:59] [Jessica]: Um, Adilene Sandoval Gomez.
+[01:03] [Receptionist]: That's A-D-I-L-E-N-E?
+[01:07] [Jessica]: Correct, yes.
+[01:09] [Receptionist]: Okay, thank you. Okay.
+[01:11] [Jessica]: Mhm.
+[01:12] [ ... Silence (11s) ... ]
+[01:23] [Receptionist]: Perfect, thank you. Let me go ahead and take a message and I'll go ahead and relay your information with your request, okay?
+[01:27] [Jessica]: Okay, thank you.
+[01:29] [Receptionist]: Thank you for your time. Have a blessed day.
+[01:31] [Jessica]: You as well. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

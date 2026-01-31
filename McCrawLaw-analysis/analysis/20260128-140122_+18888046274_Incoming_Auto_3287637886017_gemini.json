@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The caller requested billing records for a patient. The receptionist attempted to locate a member of the billing department but determined they were in a meeting. The receptionist then obtained the caller's contact information for a follow-up callback.",
+    "final_outcome": "The receptionist attempted to transfer the caller to the billing department, but staff were unavailable. The receptionist then collected the caller's contact information for a callback regarding a billing records request.",
     "call_duration_seconds": 118.8,
     "call_duration_formatted": "01:58"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "administrative_billing_inquiry"
     ],
-    "description": "The receptionist checked for availability in the billing department but found staff were in a meeting."
+    "description": "The receptionist checked for availability in the billing department but determined staff were in a meeting, subsequently offering to take a message for a callback."
   }
 }

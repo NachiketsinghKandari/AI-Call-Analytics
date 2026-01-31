@@ -1,0 +1,27 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about a job opening. The receptionist checked for staff availability and, upon finding no one available, took a message with the caller's contact information.",
+    "call_duration_seconds": 131.76,
+    "call_duration_formatted": "02:11"
+  },
+  "transfer_context": {
+    "destinations": [
+      "administration_and_operations"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist attempted to locate a staff member to handle the employment inquiry but determined no one was available to take the call."
+  }
+}

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist directed the caller to transfer the prospective client to a specific intake specialist, and the caller agreed to the instruction.",
+    "final_outcome": "The receptionist instructed the caller to transfer the prospective client to a specific intake specialist and the caller agreed to perform the transfer.",
     "call_duration_seconds": 31.9,
     "call_duration_formatted": "00:31"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "The receptionist did not initiate a transfer but instead provided instructions for the caller to route the call to a specific staff member."
+    "description": "The receptionist did not initiate a transfer; instead, she provided instructions for the caller to route the prospective client to the intake department."
   }
 }

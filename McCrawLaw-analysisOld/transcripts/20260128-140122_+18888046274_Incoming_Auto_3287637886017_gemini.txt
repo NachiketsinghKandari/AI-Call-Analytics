@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: System: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCarla Law Group: 9 turns
+  • Speaker 3 / Princess / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [System]: This call is being recorded.
+[00:03] [System]: This call may be recorded for quality assurance purposes.
+[00:09] [Receptionist]: Thank you for calling McCarla Law Group, how can I help you?
+[00:14] [Princess]: Hello, I'm just calling in regards to a billing records request.
+[00:22] [Receptionist]: Oh yeah, I'm happy to see what I can do to help. What is your name?
+[00:28] [Princess]: My name is Princess.
+[00:30] [Receptionist]: Thank you. Is this a request for you or are you, um, with a company?
+[00:36] [Princess]: Um, with the company. Um, did you need the reference number or the patient's name?
+[00:45] [Receptionist]: Uh, what's the patient's name?
+[00:48] [Princess]: Uh, Tina Rose.
+[00:53] [Receptionist]: Thank you. And what's the reference number?
+[00:57] [Princess]: Uh, 25-0249.
+[01:03] [Receptionist]: Thank you. And bear with me, I'm just seeing if I have anyone from the billing department I can get you over to. Thank you. Mmm... It looks like they're in a meeting right now. Would this 484-913-7471 be the best callback number or is it the 888-804-6274?
+[01:30] [Princess]: Um, let me... Sorry, I don't have it memorized. Um...
+[01:35] [Receptionist]: No worries, I understand. Let me just...
+[01:38] [Princess]: Uh, my phone number is 484-913-7471.
+[01:45] [Receptionist]: Perfect. I will go ahead and get this over and let them know that you're responding in regards to that billing records request so that we can follow up, um, here as soon as possible, okay?
+[01:54] [Princess]: Okay. Thank you.
+[01:56] [Receptionist]: Have a great day!
+
+========================================
+TRANSCRIPT END
+========================================

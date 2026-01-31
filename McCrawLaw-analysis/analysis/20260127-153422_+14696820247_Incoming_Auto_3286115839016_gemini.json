@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "new_client_intake",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
+    "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and updated details regarding insurance discovery for a potential dog bite case, then informed the caller that the legal team would follow up as no one was currently available.",
+    "final_outcome": "The receptionist collected the caller's contact information and updated case details regarding a previously declined dog bite matter. The receptionist informed the caller that the legal team would follow up once the information was reviewed.",
     "call_duration_seconds": 236.38,
     "call_duration_formatted": "03:56"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist stated that no one from the legal team was immediately available to take the call."
+    "description": "No transfer was attempted. The receptionist explicitly stated that no one from the legal team was immediately available and opted to take a message for a follow-up."
   }
 }

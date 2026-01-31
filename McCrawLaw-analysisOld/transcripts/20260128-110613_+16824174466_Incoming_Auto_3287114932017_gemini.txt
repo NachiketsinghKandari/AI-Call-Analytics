@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCall Law Group: 7 turns
+  • Speaker 3 / Tavon Farrell / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: Hello, thank you for calling McCall Law Group, how can I help you?
+[00:16] [Tavon Farrell]: Hello, my name is Tavon Farrell, uh, I have a case with y'all. I believe my representative is Emily and I remember last time I talked to someone, I believe there was two more lawyers on my case, I forgot his name. Uh, I was just wanting to get an update on my case.
+[00:32] [Receptionist]: Okay, I can definitely see if I can assist you with this. Um, and just to confirm the best contact number for you, is that the phone number that ends in 4466?
+[00:41] [Tavon Farrell]: Yes ma'am.
+[00:43] [Receptionist]: All righty. And you said typically you speak with Emily?
+[00:46] [Tavon Farrell]: Yes ma'am, I've been speaking to Emily, I believe maybe two weeks ago I had got a new lawyer, uh, I forgot his name, I hate that I forgot his name. Um, but yeah, he's— he's supposedly working on my case as far as, you know, giving me updates. He told me to give him a call if I have any questions. Uh, I'm like his point of contact. But I know Emily was the representative that I was talking to, uh, for a good while. I don't know if she's off my case or— or they just put another representative on my case or added two more, uh, lawyers to my case.
+[01:26] [Receptionist]: Okay, got it. All right, well let me see if I can get you some assistance.
+[ ... Silence (11s) ... ]
+[01:43] [Receptionist]: All righty. All righty, sir, so I do apologize, at this time I do not have anyone that's available, but I will forward this over to Emily and the staff and see if we can have someone follow up with you as soon as possible.
+[01:58] [Tavon Farrell]: Yes ma'am, thank you so much.
+[02:01] [Receptionist]: Absolutely, thank you for calling. You have a great day now.
+[02:04] [Tavon Farrell]: All right, you too.
+[02:05] [Receptionist]: Thank you, bye-bye.
+[02:07] [Tavon Farrell]: Mm-hmm.
+
+========================================
+TRANSCRIPT END
+========================================

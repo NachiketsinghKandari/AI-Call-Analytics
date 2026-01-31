@@ -1,0 +1,21 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a fax number or email address to send a notice regarding a duplicate payment for client Jamie Bullard. The receptionist asked for the client's name and then asked the caller to wait, but the call ended before the information was provided.",
+    "call_duration_seconds": 59.26,
+    "call_duration_formatted": "00:59"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
+  }
+}

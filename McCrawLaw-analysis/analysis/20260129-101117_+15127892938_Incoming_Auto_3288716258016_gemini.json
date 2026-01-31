@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist completed a new client intake regarding a motor vehicle accident and transferred the caller to an attorney to discuss a settlement offer.",
+    "final_outcome": "The receptionist collected intake information regarding a motor vehicle accident and transferred the caller to an attorney to discuss a settlement offer.",
     "call_duration_seconds": 910.15,
     "call_duration_formatted": "15:10"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "specialized_knowledge_required"
     ],
-    "description": "The receptionist gathered the caller's contact and accident information and then initiated a transfer to an attorney named Todd Henderson."
+    "description": "The receptionist identified the attorney as Todd Henderson and initiated the transfer after completing the intake process."
   }
 }

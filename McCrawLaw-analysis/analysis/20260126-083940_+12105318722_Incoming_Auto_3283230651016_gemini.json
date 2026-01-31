@@ -4,11 +4,11 @@
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
-    "resolution_type": "callback_scheduled",
+    "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist gathered the caller's contact information and the client's name, then stated they would have the team managing the case provide a callback.",
+    "final_outcome": "The receptionist identified the client, recorded the caller's contact information, and stated that the team would be notified to provide a status update via callback.",
     "call_duration_seconds": 96.77,
     "call_duration_formatted": "01:36"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted during the call."
   }
 }

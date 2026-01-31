@@ -1,0 +1,40 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jerica / Role: Receptionist at McCalla Law Group: 12 turns
+  • Speaker 3 / Joyce / Role: Caller from Safe Farm: 11 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: McCalla Law Group, this is Jerica, how may I help you?
+[00:06] [Joyce]: Jerica, this is Joyce with Safe Farm. Can I speak with the person who's handling the claim for Aaron Hunter, please?
+[00:12] [Receptionist]: Gotcha. Give me one moment, please.
+[00:15] [ ... Silence (5s) ... ]
+[00:20] [Receptionist]: Hello, sorry for that long hold. It looks like the attorney over this case is currently unavailable. However, I can take a message and get a good call back number, and they should be able to call back soon.
+[00:34] [Joyce]: Do they have a voicemail?
+[00:38] [Receptionist]: I apologize. I'm sorry, what did you say?
+[00:41] [Joyce]: Do they have a voicemail where I can leave them a voicemail?
+[00:44] [Receptionist]: The attorney?
+[00:45] [Joyce]: Yeah, whoever, whoever's handling the case manager, whoever's handling the the claim for Aaron Hunter.
+[00:50] [Receptionist]: Would you like me to try the case manager and see if they're available?
+[00:53] [Joyce]: Yes, please. Yes, please. Thank you.
+[00:55] [Receptionist]: Okay, give me one moment, please.
+[00:57] [Joyce]: Okay.
+[00:59] [Receptionist]: The case manager unfortunately is also unavailable at the moment.
+[01:03] [Joyce]: Okay. All right, leave a message for the case manager, uh, Jerica, and just I am giving a bodily injury offer of, uh, sixty-one twenty for Aaron. And I'll send it over to in an email also.
+[01:20] [Receptionist]: Gotcha. Okay, I got that down. And, um, could I get a good call back number for you?
+[01:26] [Joyce]: Yes, uh, nine seven two, seven four four, one one zero two.
+[01:34] [Receptionist]: May I get the last four digits one more time?
+[01:37] [Joyce]: Uh, one one zero two.
+[01:39] [Receptionist]: Gotcha. Okay, perfect. I will make sure that this message gets forwarded over to the case manager and both the attorney.
+[01:46] [Joyce]: Thank you, enjoy your day. Bye-bye.
+[01:48] [Receptionist]: Of course, you too. Bye-bye.
+[01:50] [Joyce]: All right, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

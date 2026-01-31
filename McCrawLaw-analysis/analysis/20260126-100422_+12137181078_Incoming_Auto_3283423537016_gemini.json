@@ -1,5 +1,5 @@
 {
-  "caller_type": "business_vendor",
+  "caller_type": "new_client",
   "call_summary": {
     "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller asked for a specific individual, the receptionist identified the firm as McCall Law Group, and the caller realized they had the wrong number and ended the call.",
+    "final_outcome": "The caller contacted the firm looking for an individual named Marlene. The receptionist identified the business as McCall Law Group, leading the caller to realize they had dialed the wrong number. The caller then ended the call.",
     "call_duration_seconds": 43.42,
     "call_duration_formatted": "00:43"
   },

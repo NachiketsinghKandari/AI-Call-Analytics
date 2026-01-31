@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist took a message regarding a payment issue for medical records and confirmed a callback number after stating no one was available to speak with the caller.",
+    "final_outcome": "The caller from a medical clinic reported an issue with a check payment for a records request. The receptionist confirmed the caller's contact information and the patient's name, then promised to notify the team to provide a callback as no staff were currently available to assist.",
     "call_duration_seconds": 199.58,
     "call_duration_formatted": "03:19"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "description": "No transfer was attempted during this call."
   }
 }

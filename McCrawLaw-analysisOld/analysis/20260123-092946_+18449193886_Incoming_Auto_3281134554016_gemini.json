@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with the attorney or paralegal for a specific client. The receptionist placed the caller on hold to verify the client's information, and the call ended before any transfer was initiated or resolution reached.",
+    "call_duration_seconds": 51.7,
+    "call_duration_formatted": "00:51"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the call ended while the caller was on hold."
+  }
+}

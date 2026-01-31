@@ -2,13 +2,13 @@
   "caller_type": "new_client",
   "call_summary": {
     "primary_intent": "new_client_intake",
-    "resolution_achieved": false,
-    "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
-    "operational_terminal_state": "call_terminated_prematurely",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "intake_completed",
+    "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist was in the process of gathering contact and location information for a new client intake when the call ended prematurely.",
+    "final_outcome": "The receptionist collected the caller's contact information and accident details for a new potential case and informed the caller that the information would be provided to the legal team.",
     "call_duration_seconds": 179.21,
     "call_duration_formatted": "02:59"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted before the call ended."
+    "description": "No transfer was attempted during the call."
   }
 }

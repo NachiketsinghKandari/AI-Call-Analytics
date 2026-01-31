@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested information regarding a specific individual, and the call ended while the receptionist was attempting to locate the record.",
+    "final_outcome": "The caller requested information regarding a specific individual, and the call ended while the receptionist was attempting to locate the records.",
     "call_duration_seconds": 46.66,
     "call_duration_formatted": "00:46"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "description": "No transfer was attempted."
   }
 }

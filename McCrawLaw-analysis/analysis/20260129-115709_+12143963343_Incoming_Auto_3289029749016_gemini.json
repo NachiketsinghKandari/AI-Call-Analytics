@@ -8,13 +8,13 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to locate the attorney for the caller, but determined the attorney was unavailable and took a message with a callback number and claim number.",
+    "final_outcome": "The caller requested to speak with a specific attorney. The receptionist checked the attorney's availability, determined they were unavailable on lunch, and took a message with a callback number and claim number.",
     "call_duration_seconds": 173.16,
     "call_duration_formatted": "02:53"
   },
   "transfer_context": {
     "destinations": [
-      "legal_counsel"
+      "specific_staff_member"
     ],
     "transfer_connection_status": [
       false
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist checked for the attorney's availability and returned to inform the caller he was unavailable due to being on lunch."
+    "description": "The receptionist attempted to reach the requested attorney but returned to the line to state he was on lunch and offered to take a message."
   }
 }

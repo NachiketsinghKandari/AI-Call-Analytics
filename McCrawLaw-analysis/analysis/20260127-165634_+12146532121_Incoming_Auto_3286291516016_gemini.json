@@ -6,9 +6,9 @@
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member. When the transfer could not be completed, the receptionist returned to the line, obtained a callback number, and committed to passing along the message.",
+    "final_outcome": "Receptionist attempted to transfer the caller to a specific staff member but was unable to connect. The receptionist then collected a callback number and promised to have the staff member return the call.",
     "call_duration_seconds": 257.18,
     "call_duration_formatted": "04:17"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to connect the caller to the requested party but returned to the line after being unable to reach them."
+    "description": "The receptionist attempted to connect the caller to the requested staff member, but returned to the line after a hold to report they were unable to get through."
   }
 }

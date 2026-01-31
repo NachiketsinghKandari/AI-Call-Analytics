@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "returning_call",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
+    "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist checked the availability of the requested staff member and, upon finding them unavailable, took a callback number from the insurance representative.",
+    "final_outcome": "The caller was returning a call for a specific staff member. The receptionist determined the staff member was unavailable and recorded a callback number to relay the message.",
     "call_duration_seconds": 57.67,
     "call_duration_formatted": "00:57"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist determined the staff member was unavailable before initiating a transfer path."
+    "description": "No transfer was attempted during this call."
   }
 }

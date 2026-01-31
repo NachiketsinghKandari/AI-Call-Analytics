@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm regarding a missed call. The receptionist identified the firm and determined the call was likely a misdial, and the call concluded.",
+    "final_outcome": "The caller inquired about a missed call from the firm. The receptionist identified the firm and concluded it was a misdial, resolving the caller's inquiry.",
     "call_duration_seconds": 59.33,
     "call_duration_formatted": "00:59"
   },

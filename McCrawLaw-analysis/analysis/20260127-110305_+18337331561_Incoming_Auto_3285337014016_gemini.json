@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The transcript contains only automated or recorded messages; no caller interaction or intent was established before the call ended.",
+    "final_outcome": "The call consisted of a recorded message providing a phone number and ended without any interaction between a caller and a receptionist.",
     "call_duration_seconds": 17.64,
     "call_duration_formatted": "00:17"
   },

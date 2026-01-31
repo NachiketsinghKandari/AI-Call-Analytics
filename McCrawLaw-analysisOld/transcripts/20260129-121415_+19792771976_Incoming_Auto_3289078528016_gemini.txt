@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jessica / Role: Receptionist at Cochran Law Group: 5 turns
+  • Speaker 3 / Donna / Role: Caller from Germania Insurance: 4 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: Cochran Law Group, this is Jessica, how may I help you?
+[00:06] [Donna]: Hi Jessica, this is Donna with Germania Insurance. I was wondering if Alec might be available?
+[00:13] [Receptionist]: Hey, yeah, I can definitely connect you over. Can I get the name of the client that this is in regards to?
+[00:17] [Donna]: Sure, it's uh, Kosum Chey.
+[00:20] [Receptionist]: Okay, perfect. One moment. I'm so sorry for that hold there, ma'am. It does look like, um, Alec is currently on his lunch. Were you responding to the demand with an offer?
+[00:32] [Donna]: Yes, I am.
+[00:34] [Receptionist]: Okay, let me go ahead and see if that attorney is available. One moment.
+[00:37] [Donna]: Thank you.
+[00:38] [Receptionist]: Mm-hmm.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "administrative_request",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
+    "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information, claim number, and inquiry regarding a passenger's gender, then confirmed she would forward the message for follow-up.",
+    "final_outcome": "The receptionist collected the caller's contact information, claim number, and a request regarding a passenger's gender to take a message for follow-up.",
     "call_duration_seconds": 149.76,
     "call_duration_formatted": "02:29"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist stated she was taking messages and recorded the caller's information."
+    "description": "No transfer was attempted; the receptionist informed the caller she was taking messages."
   }
 }

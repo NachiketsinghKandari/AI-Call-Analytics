@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Perdita / Role: Receptionist at McCall Law Group: 7 turns
+  • Speaker 2 / Philip / Role: Caller: 6 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded.
+[00:04] [Receptionist]: McCall Law Group, this is Perdita, how can I help you?
+[00:07] [Philip]: Oh hi, this is Philip, I was calling for Charlie Ginn.
+[00:12] [Receptionist]: Um, sure, I can go ahead and see if he's available. Um, may I ask where you're calling from, Philip?
+[00:20] [Philip]: Yes, I'm calling— I'm calling from Tavern.
+[00:24] [Receptionist]: Tavern. Okay, just hold on a second for me.
+[00:28] [Philip]: Okay.
+[00:31] [Receptionist]: Hi, so it doesn't seem that he's available, but I can take a message and have him return your call.
+[00:37] [Philip]: Sure. I was calling regarding a medical record retrieval for the firm.
+[00:44] [Receptionist]: Mhm. And what would be a good callback number?
+[00:49] [Philip]: Uh, this one, 385-244-2947.
+[00:57] [Receptionist]: 2947. Okay. I'll go ahead and pass on the message and they should be reaching out to you.
+[01:02] [Philip]: Okay, thank you. Have a good day.
+[01:04] [Receptionist]: Thank you. You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START (ENHANCED)
+========================================
+
+SPEAKERS IDENTIFIED:
+  • IVR System - Automated phone system with legal disclaimer for McCraw Law Group (1 turns)
+  • Qatyryeon Woodard - Job applicant calling about a litigation paralegal opening (11 turns)
+  • Unknown Agent - Representative of McCraw Law Group handling recruitment inquiries (11 turns)
+
+----------------------------------------
+
+[00:00] [IVR System]: This call is being recorded. This call may be recorded for quality assurance purposes. Hello. Thank you for calling McCraw Law Group. How can I help you?
+[00:15] [Qatyryeon Woodard]: Hello. I was calling in regards to a LinkedIn no. Well, an Indeed job post that I saw about a litigation paralegal.
+[00:26] [Unknown Agent]: Alright. Can I get your first and last name, please, sir?
+[00:31] [Qatyryeon Woodard]: My first name is Katarion. Last name, Wittard.
+[00:36] [Unknown Agent]: Okay. Can you spell that for me?
+[00:39] [Qatyryeon Woodard]: Q a t y r y e o n w o o d a r d.
+[00:49] [Unknown Agent]: Okay. That's q a t y r y e o n w o o d a r d? Correct. Okay. Thank you, mister Woodard.
+[01:01] [Unknown Agent]: And your telephone number?
+[01:03] [Qatyryeon Woodard]: (469) 650-3534.
+[01:09] [Unknown Agent]: And is that a mobile number that you could receive text
+[01:11] [Qatyryeon Woodard]: at? Correct.
+[01:14] [Unknown Agent]: Okay. That's (469) 650-3534.
+[01:19] [Qatyryeon Woodard]: Correct.
+[01:21] [Unknown Agent]: Okay. And this was in regards to a LinkedIn post?
+[01:27] [Qatyryeon Woodard]: The in the post for a litigation paralegal.
+[01:32] [Unknown Agent]: Okay. And your email address, mister Woodard?
+[01:39] [Qatyryeon Woodard]: It would be firstandlastname@gmail.com. Okay.
+
+   [ ... Hold / Silence (9s) ... ]
+
+[01:53] [Unknown Agent]: G mail dot com. Okay. And were you were just calling to get some information about the job. Is that correct?
+[02:05] [Qatyryeon Woodard]: Yes. I was calling to get information about the job and to see if there's anything that I could do to secure an interview. Okay. I know people probably did tons of applications through Indeed, so I wanted to be able to, you know, touch bases.
+[02:25] [Unknown Agent]: Absolutely. Okay. I'm going to send this over to the team now, mister Woodard.
+[02:33] [Qatyryeon Woodard]: Alright. Thank you so much. I appreciate it.
+[02:35] [Unknown Agent]: Thank you. Have a great day. Bye.
+[02:37] [Qatyryeon Woodard]: You too. Bye.
+
+========================================
+TRANSCRIPT END (ENHANCED)
+========================================

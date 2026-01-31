@@ -1,5 +1,5 @@
 {
-  "caller_type": "new_client",
+  "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": false,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_no_fallback",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with specific staff members. The receptionist stated the staff were unavailable and offered to take a message. The caller declined to leave a message or provide contact information, and the call concluded.",
+    "final_outcome": "The caller requested to speak with specific staff members who were unavailable. The caller declined to provide contact information or leave a message, and the call concluded without a resolution.",
     "call_duration_seconds": 103.54,
     "call_duration_formatted": "01:43"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted because the receptionist identified that the requested staff members were unavailable before initiating a transfer."
+    "description": "No transfer was attempted because the receptionist determined the requested staff members were unavailable and the caller declined to be placed on hold or leave a message."
   }
 }

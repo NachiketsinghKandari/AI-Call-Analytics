@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The receptionist attempted to locate a specific staff member to address a case status inquiry; however, no one was available. A message was taken for the staff member, and the caller confirmed they would also follow up via email.",
+    "call_duration_seconds": 389.09,
+    "call_duration_formatted": "06:29"
+  },
+  "transfer_context": {
+    "destinations": [
+      "specific_staff_member"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "case_status_inquiry"
+    ],
+    "description": "The receptionist checked for the availability of a staff member while the caller was on hold, but returned to the line to report that no one was available."
+  }
+}

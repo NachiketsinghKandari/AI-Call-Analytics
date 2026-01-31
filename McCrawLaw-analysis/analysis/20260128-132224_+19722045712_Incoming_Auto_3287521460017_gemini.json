@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a status update for a client. The receptionist stated the system was down and obtained a callback number for a return call.",
+    "final_outcome": "The receptionist informed the caller that the internal system was down and collected a callback number for a case manager or attorney to return the call.",
     "call_duration_seconds": 50.47,
     "call_duration_formatted": "00:50"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted because the receptionist reported that the firm's systems were currently down."
   }
 }

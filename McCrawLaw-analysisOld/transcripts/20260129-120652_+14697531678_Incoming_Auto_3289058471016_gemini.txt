@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Yanita / Role: Receptionist at McGrath Law Group: 9 turns
+  • Speaker 3 / Jesus Valencia / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: McGrath Law Group, this is Yanita, how can I help you?
+[00:08] [Jesus Valencia]: Uh, yes ma'am. I called Friday and then I also called yesterday back again to try and get a call with, uh, Tom or... what's his name? Uh, Eddie Valencia's lawyer. I'm the brother, Jesus Valencia. I still haven't got a call back from him. I was wondering if he was there.
+[00:32] [Receptionist]: Um, let's see. I think it's Tom or, I don't remember what his name is, but... Is this for Ediberto Valencia's case?
+[00:45] [Jesus Valencia]: Yes.
+[00:47] [Receptionist]: Okay.
+[00:49] [Jesus Valencia]: I think he— I think we already signed some paperwork for me to be able to talk on his behalf. He doesn't really have a phone or stuff like that, so that's why I should be calling and checking.
+[01:02] [Receptionist]: And your name is Jesus?
+[01:05] [Jesus Valencia]: Jesus. Jesus Valencia, yes.
+[01:07] [Receptionist]: Okay. Just hold on a second for me. Um, it does seem that Emily was trying to get in contact with you, not sure, um, or with Edi— I'm not quite sure.
+[01:22] [Jesus Valencia]: Oh, okay. Yeah, 'cause I— I didn't get no calls. I don't have no missed calls.
+[01:26] [Receptionist]: Okay. Just hold on, let me, uh, contact her. One second.
+[01:31] [ ... Silence (5s) ... ]
+[01:36] [Receptionist]: Thank you so much for holding there, Jesus. So, I was able to reach out to the attorney. He did, um, apologize for not being able to reach out to you yesterday. Um, he did let me know if it's okay for him to give you a call back today?
+[01:50] [Jesus Valencia]: Uh, yes, that's fine. Yeah, just let me know.
+[01:54] [Receptionist]: Mhm. He should be reaching out to you, okay?
+[01:57] [Jesus Valencia]: Okay. Thank you.
+[01:58] [Receptionist]: Thank you. Have a great day. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

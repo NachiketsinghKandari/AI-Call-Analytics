@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the client's identity and date of birth, then accepted a request to have attorneys send a letter of protection to the caller's office.",
+    "final_outcome": "The caller requested a letter of protection for a mutual client. The receptionist confirmed the client's identity and stated they would forward the request to the attorneys to be sent out.",
     "call_duration_seconds": 77.18,
     "call_duration_formatted": "01:17"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "description": "No transfer was attempted during this call."
   }
 }

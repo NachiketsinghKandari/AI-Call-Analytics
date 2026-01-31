@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Lionel / Role: Receptionist at Bey and Associates: 7 turns
+  • [Kristen Bentley] / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: This call is being recorded. Bey and Associates, this is Lionel.
+[00:07] [Kristen Bentley]: Hi, um, um, my— this is Kristen Bentley calling from Sedgwick. How are you?
+[00:12] [Receptionist]: I'm good. How are you?
+[00:14] [Kristen Bentley]: I'm good, thank you. Um, I'm calling— I have a client's name and a date of loss, and I was hoping to talk to the attorney on the file.
+[00:22] [Receptionist]: Okay. What is the first and last name?
+[00:24] [Kristen Bentley]: Um, Leola Denman.
+[00:27] [Receptionist]: Okay. And can I ask what this call is in regards to?
+[00:33] [Kristen Bentley]: Um, yes. I needed to speak to them about a lien that we had. Um, I believe the case has settled, so I was just needing to speak about that.
+[00:42] [Receptionist]: Okay. Give me just a moment.
+[00:45] [ ... Silence (6s) ... ]
+[00:51] [Receptionist]: Are you still there?
+[00:52] [Kristen Bentley]: Yes, hi.
+[00:53] [Receptionist]: Okay. I could not get that attorney available. Could I get a good callback number for you? That way I can go ahead and send him over a message.
+[01:03] [Kristen Bentley]: Yeah, um, of course. That's going to be 515-698-8953. Would you like me to leave my email too?
+[01:15] [Receptionist]: Uh, a callback number's good. Um, and this was regarding a lien, so on the case, do you have any additional details you would like for me to leave with him?
+[01:25] [Kristen Bentley]: Um, um, not really. Just, um, that I would need to speak about a lien, um, and I was advised the case had settled, so I was just trying to figure out some things.
+[01:32] [Receptionist]: Okay. No worries. I'll go ahead and send him over this now.
+[01:36] [Kristen Bentley]: I'm so sorry. Actually, can I leave the claim number?
+[01:40] [Receptionist]: Mm-hmm.
+[01:41] [Kristen Bentley]: It's going to be 253-415-47.
+[01:47] [Receptionist]: Awesome. I will go ahead and put this through.
+[01:51] [Kristen Bentley]: Okay. Thank you so much.
+[01:53] [Receptionist]: Thank you. Bye-bye.
+[01:54] [Kristen Bentley]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

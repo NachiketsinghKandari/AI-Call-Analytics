@@ -1,0 +1,48 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Mariam / Role: Receptionist at McCrory Law Group: 16 turns
+  • Speaker 3 / Logan / Role: Caller from Walmart Claims Services: 13 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: Good afternoon, McCrory Law Group, this is Mariam, how may I help you?
+[00:08] [Logan]: Good afternoon, this is Logan with Walmart Claims Services. I'm following up on a claim you guys are handling for Linda Saral.
+[00:16] [Receptionist]: I'm sorry, I didn't understand where you're calling from.
+[00:19] [Logan]: Walmart Claims Services.
+[00:21] [Receptionist]: Walmart, okay. Give me one moment. And your name?
+[00:24] [Logan]: My name is Logan. Looking to speak with Drake. Drake, okay. Yeah.
+[00:31] [Receptionist]: Last name is Seville?
+[00:35] [Logan]: Uh, Saral. Linda Saral.
+[00:39] [Receptionist]: S-E-A-R-L, correct?
+[00:42] [Logan]: Yes.
+[00:43] [Receptionist]: Thank you.
+[00:44] [ ... Silence (7s) ... ]
+[00:51] [Receptionist]: S-E- S like in stamp, S-E-A-R-L, correct?
+[00:56] [Logan]: Uh, S-E-A-R-A-L.
+[00:59] [Receptionist]: Oh, okay. Thank you for that.
+[01:02] [Logan]: Yes.
+[01:03] [Receptionist]: Hmm.
+[01:04] [ ... Silence (17s) ... ]
+[01:21] [Receptionist]: Oh my goodness, I can't get it to pop up. Okay. Let's do it again. S-E...
+[01:27] [Logan]: A-R-A-L.
+[01:30] [Receptionist]: A-L, S-E-A-R-A-L.
+[01:33] [Logan]: Linda Saral, I believe is how you say her last name.
+[01:37] [Receptionist]: Hmm. What's the date of the accident? Give me one moment.
+[01:42] [Logan]: 4/5 of '25.
+[01:46] [ ... Silence (7s) ... ]
+[01:53] [Receptionist]: It's S-E-A-R-L, yeah, that's how we have it. I'm like, it's not coming up. Okay. I found it. It's S-E-A-R-L. Thank you for that. And may I tell Mr. Drake what this is regarding?
+[02:13] [Logan]: Uh, just a follow back up on this one. Um, he left me a voicemail.
+[02:18] [Receptionist]: Okay. May I put you on hold, Logan?
+[02:21] [Logan]: Yes. Yes.
+[02:23] [Receptionist]: Thank you for holding, Logan. I'm going to transfer you now.
+[02:27] [Logan]: I, I appreciate it. Thank you.
+[02:29] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

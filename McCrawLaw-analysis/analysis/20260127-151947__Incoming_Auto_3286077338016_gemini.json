@@ -1,5 +1,5 @@
 {
-  "caller_type": "business_vendor",
+  "caller_type": "law_office",
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist gathered the caller's name, department, callback number, and report information, and confirmed that a message would be given to the staff member for a return call.",
+    "final_outcome": "The caller requested to speak with a staff member regarding a police report. The receptionist collected the caller's name, department, contact information, and the report number, and stated they would ask the staff member to return the call.",
     "call_duration_seconds": 112.82,
     "call_duration_formatted": "01:52"
   },

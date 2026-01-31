@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 7 turns
+  • Speaker 3 / Horacio Huerta / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:09] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:14] [Horacio Huerta]: I'm returning Drake Pugh, uh, a voice message he he called my, uh, office earlier and left me a message. I'm calling on client Gabriel Wells.
+[00:23] [Receptionist]: Okay, and can I have your name please?
+[00:25] [Horacio Huerta]: Yes, uh, Horacio Huerta with Progressive Insurance.
+[00:30] [Receptionist]: Okay, one moment, let me see if I can get them. And you said this was a Drake Pugh who called you?
+[00:36] [Horacio Huerta]: Yes, ma'am.
+[00:37] [Receptionist]: Okay, let me see here. Okay, and the 210-610-3744, is that the best number for you?
+[00:46] [Horacio Huerta]: Yes, ma'am, that's my office.
+[00:48] [Receptionist]: Okay, I am seeing that his line is actually busy at the moment, I do apologize. I will pass the message along that you were returning his message and I'll get it on over to Drake right away.
+[00:58] [Horacio Huerta]: That works, thank you so much for your help.
+[01:00] [Receptionist]: All right, thank you, have a good day.
+[01:02] [Horacio Huerta]: You too, bye-bye.
+[01:04] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

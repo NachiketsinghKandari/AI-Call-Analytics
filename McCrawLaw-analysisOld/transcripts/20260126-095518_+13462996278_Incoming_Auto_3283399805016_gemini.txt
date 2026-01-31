@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jessica / Role: Receptionist at McCraw Law Group: 7 turns
+  • Speaker 3 / Cliff / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: McCraw Law Group, this is Jessica, how may I help you?
+[00:08] [Cliff]: Jessica, my name is Cliff. I'm looking for a Gloria Campos.
+[00:14] [Receptionist]: Yeah, Gloria is not available, but I can definitely forward her a message.
+[00:19] [Cliff]: Sure, uh, I'm with AI ASAP. Uh, I have some qualified personal injury leads that I wanted to discuss.
+[ ... Silence (10s) ... ]
+[00:34] [Receptionist]: Okay. All right. And is this, um, the service that your company provides is, um, generating qualified personal injury leads?
+[00:45] [Cliff]: Yes, yes. Is she the right person to talk to or is it a different person?
+[00:51] [Receptionist]: Um, yeah, she, uh, she is our COO. I believe your best point of contact though would be our, um, intake supervisor, um, Kimberly Quintana. I can provide you her email address if you also wanted to attempt to reach her that way.
+[01:08] [Cliff]: Okay. Yeah, so Kim is not available at the moment?
+[01:12] [Receptionist]: Yes, she is not available, but I can give you her email. It's going to be intake, I-N-T-A-K-E, at McCraw Law Group dot com.
+[01:24] [Cliff]: At McCraw Law Group dot com, right?
+[01:28] [Receptionist]: Yep. Mm-hmm.
+[01:30] [Cliff]: Kimberly. Okay. Thank you. All right.
+[01:33] [Receptionist]: Yeah, you have a nice day, sir.
+[01:35] [Cliff]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

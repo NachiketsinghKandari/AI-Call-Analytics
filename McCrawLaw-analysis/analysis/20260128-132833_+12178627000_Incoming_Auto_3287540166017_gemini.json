@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist determined the requested staff member was unavailable and proceeded to collect the caller's contact information and the client's name to take a message.",
+    "final_outcome": "The receptionist determined the requested staff member was unavailable and proceeded to take a message including the caller's contact information and the relevant client's name.",
     "call_duration_seconds": 151.56,
     "call_duration_formatted": "02:31"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist checked availability and determined the staff member was unavailable before initiating a transfer path."
+    "description": "No transfer was attempted as the receptionist checked availability and informed the caller the staff member was unavailable before taking a message."
   }
 }

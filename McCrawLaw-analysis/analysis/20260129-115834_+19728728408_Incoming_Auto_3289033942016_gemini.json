@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller disconnected immediately after the receptionist provided the initial greeting without stating an intent.",
+    "final_outcome": "The call disconnected immediately after the receptionist provided the initial greeting.",
     "call_duration_seconds": 10.44,
     "call_duration_formatted": "00:10"
   },

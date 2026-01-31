@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding a sales inquiry. The receptionist determined the staff member was unavailable and took a message with the caller's contact information.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding personal injury leads. The receptionist determined the staff member was unavailable and took a message including the caller's name, company, and phone number.",
     "call_duration_seconds": 103.9,
     "call_duration_formatted": "01:43"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message after stating the requested party was unavailable."
+    "description": "No transfer was attempted; the receptionist handled the call directly by taking a message after checking availability."
   }
 }

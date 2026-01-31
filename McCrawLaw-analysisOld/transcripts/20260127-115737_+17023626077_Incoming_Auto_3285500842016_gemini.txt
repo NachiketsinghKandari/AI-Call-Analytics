@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Receptionist at Magro Law Group: 12 turns
+  • Speaker 2 / Mariella / Role: Caller from Red Rock Solutions: 11 turns
+  • Speaker 3 / Automated Voice / Role: Recording Notice: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:08] [Receptionist]: Hello, thank you for calling Magro Law Group, how can I help you?
+[00:12] [Mariella]: Hi, good morning. May I please speak to the person handling the case for client Lori Knapp?
+[00:19] [Receptionist]: Hi, sure thing. Uh, who am I speaking with?
+[00:22] [Mariella]: Mariella.
+[00:24] [Receptionist]: Mariella, just one second please. And are you calling from Red Rock Solutions?
+[00:28] [Mariella]: Yes.
+[00:29] [Receptionist]: Give me one second, Mariella. And Mariella, what is the best number for us to reach you in case we get disconnected?
+[00:35] [Mariella]: 702-362-6077.
+[00:41] [Receptionist]: Thank you. And can I get your email address, please?
+[00:44] [Mariella]: Uh, hold on.
+[ ... Silence (7s) ... ]
+[00:51] [Mariella]: It's going to be Mariella, so that's M-A-R-I-E-L-L-A at solutions with an S redrock dot com.
+[01:01] [Receptionist]: Thank you so much. And it is Lori, is that L-A-U-R-I-E and then Knapp, M-A-P-P?
+[01:07] [Mariella]: No, L-O-R-I.
+[01:12] [Receptionist]: Lori, and then the last name?
+[01:14] [Mariella]: K-N-A-P-P.
+[01:18] [Receptionist]: K-N as in Nancy A-P-P?
+[01:21] [Mariella]: Mhm.
+[01:22] [Receptionist]: Thank you so much. Sorry I butchered that name. All right, one second.
+[ ... Silence (9s) ... ]
+[01:31] [Receptionist]: All righty, Mariella, I'm going to go ahead and send a message to the team so they can circle back with you, okay?
+[01:36] [Mariella]: Okay, perfect. Thank you.
+[01:38] [Receptionist]: Thank you so much for calling, have a good day.
+[01:40] [Mariella]: You too, bye-bye.
+[01:41] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

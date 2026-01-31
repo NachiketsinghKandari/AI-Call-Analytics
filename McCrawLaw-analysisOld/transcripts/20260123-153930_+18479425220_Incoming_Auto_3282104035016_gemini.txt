@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Automated Voice: 1 turn
+  • Speaker 2 / Terica / Role: Receptionist at McCall Law Group: 7 turns
+  • Speaker 3 / Maybeth Lyman / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Terica speaking, how may I help you?
+[00:07] [Maybeth Lyman]: Yes, I had an accident back a ways and I've they've been sending saying time to get your check and I haven't never I I can't get it, it doesn't come up and I'm tired of going through this. I mean, I'm 90 years old now and I'm tired of going through it.
+[00:29] [Receptionist]: Understandable. Well, I'm so sorry that you have been going through that. Um, were you looking to inquire with us?
+[00:36] [Maybeth Lyman]: Yeah, I want to get my check and get this over with.
+[00:39] [Receptionist]: Okay, I'm going to make sure that I get you forwarded over to an intake specialist.
+[00:45] [Maybeth Lyman]: Yeah, I do have to leave in five minutes for for dinner, so I I just want to get this in today.
+[00:53] [Receptionist]: Gotcha. Can I get your first and last name?
+[00:56] [Maybeth Lyman]: Maybeth, M-A-Y-B-E-T-H, last name is Lyman, L-Y-M-A-N.
+[01:05] [Receptionist]: Okay, give me one more moment, please.
+[01:08] [Maybeth Lyman]: You want my number in case?
+[01:11] [Receptionist]: In case you get disconnected, yes.
+[01:14] [Maybeth Lyman]: 847-942-5220.
+[01:22] [Receptionist]: Great. Give me one more moment, please.
+[01:27] [Maybeth Lyman]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

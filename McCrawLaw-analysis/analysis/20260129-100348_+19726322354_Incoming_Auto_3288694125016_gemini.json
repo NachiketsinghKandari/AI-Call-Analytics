@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist answered the call and greeted the caller, but there was no response from the caller, leading to the call being terminated.",
+    "final_outcome": "The receptionist greeted the caller and attempted to establish communication, but the call ended without any response or interaction from the caller.",
     "call_duration_seconds": 16.27,
     "call_duration_formatted": "00:16"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted as the caller did not respond."
   }
 }

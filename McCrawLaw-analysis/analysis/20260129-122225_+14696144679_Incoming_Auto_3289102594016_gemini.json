@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she would connect the caller to Chris and the call ended immediately after."
+    "description": "The receptionist stated intent to connect the caller to Chris and the call ended immediately."
   }
 }

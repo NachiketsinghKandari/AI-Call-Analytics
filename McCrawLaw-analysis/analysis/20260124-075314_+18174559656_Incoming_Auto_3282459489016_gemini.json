@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and case details, determined the firm could not assist with the specific legal matter, and provided a referral to another law firm.",
+    "final_outcome": "The receptionist gathered the caller's contact and case information, determined the firm does not handle medical malpractice, and provided a referral to an outside law firm.",
     "call_duration_seconds": 272.59,
     "call_duration_formatted": "04:32"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted. The receptionist provided a referral to another firm directly."
   }
 }

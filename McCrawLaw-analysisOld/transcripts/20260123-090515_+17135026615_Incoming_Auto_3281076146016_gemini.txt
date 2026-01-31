@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Tarika / Role: Receptionist at McCall Law Group: 3 turns
+  • Speaker 3 / Unknown / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Tarika, how may I help you?
+[00:07] [Speaker 3]: Buenos días.
+[00:11] [Receptionist]: Hello? Can you hear me?
+[00:13] [Speaker 3]: Hablo español.
+[00:15] [Receptionist]: Un momento.
+[00:17] [Speaker 3]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

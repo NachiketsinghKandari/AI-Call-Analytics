@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tareka / Role: Receptionist at McCall Law Group: 3 turns
+  • Speaker 2 / Aye Soe / Role: Caller: 2 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded.
+[00:03] [Receptionist]: McCall Law Group, this is Tareka, how may I help you today?
+[00:07] [Aye Soe]: Um, yes ma'am, I had a, uh, email from one of the, uh, attorneys about giving them a call back about my case.
+[00:15] [Receptionist]: Okay, could I get your first and last name?
+[00:17] [Aye Soe]: Yes, it's Aye Soe, A-Y-E for the first name, Soe, S-O-E for the last name.
+[00:24] [Receptionist]: Gotcha, give me one moment please.
+
+========================================
+TRANSCRIPT END
+========================================

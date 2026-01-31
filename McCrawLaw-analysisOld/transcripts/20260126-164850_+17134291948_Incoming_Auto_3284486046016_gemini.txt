@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated message: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCrae Law Group: 7 turns
+  • Speaker 3 / Brendan / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Automated]: This call is being recorded.
+[00:03] [Automated]: This call may be recorded for quality assurance purposes.
+[00:09] [Receptionist]: Hello, thank you for calling McCrae Law Group, how can I help you?
+[00:13] [Brendan]: Hi, this is Brendan over at Paradigm on a recorded line. Uh, just trying to speak with Neil.
+[00:19] [Receptionist]: Okay, um, are you— you said you're calling from Paradigm?
+[00:24] [Brendan]: Correct.
+[00:25] [Receptionist]: May I ask what the call was regarding?
+[00:27] [Brendan]: Uh, e-discovery.
+[00:31] [Receptionist]: You said e-discovery?
+[00:33] [Brendan]: Correct.
+[00:34] [Receptionist]: Okay.
+[00:35] [ ... Silence (11s) ... ]
+[00:46] [Receptionist]: Uh, and have you spoken with him about this before?
+[00:49] [Brendan]: I've sent some information over, just following up on that.
+[00:53] [Receptionist]: Okay, gotcha. Can I have your first and last name so I can let him know?
+[00:58] [Brendan]: Oh, yeah, uh, I have his email, uh, I can just try contacting him through there.
+[01:03] [Receptionist]: Okay, that works as well. Thank you.
+[01:05] [Brendan]: All right, thanks.
+
+========================================
+TRANSCRIPT END
+========================================

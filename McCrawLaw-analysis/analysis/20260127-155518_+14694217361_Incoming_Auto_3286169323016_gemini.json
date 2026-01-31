@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist located the caller's file and initiated a transfer to the attorney to address a settlement update request.",
+    "final_outcome": "The receptionist offered to check with the attorney regarding a settlement update and the call ended after the caller agreed to be placed on hold.",
     "call_duration_seconds": 5.18,
     "call_duration_formatted": "00:05"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "case_status_inquiry"
     ],
-    "description": "The receptionist stated the need to check with the attorney regarding the settlement and the call ended after the caller agreed to be placed on hold."
+    "description": "The receptionist stated intent to check with the attorney and the call ended immediately after the caller accepted the hold."
   }
 }

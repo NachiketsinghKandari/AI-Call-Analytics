@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Eliceo / Role: Receptionist at McGraw Law Group: 9 turns
+  • Speaker 2 / Lisa Rouse / Role: Caller: 8 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 2 turns
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded.
+[00:03] [Speaker 3]: This call may be recorded for quality assurance purposes.
+[00:12] [Receptionist]: Hello, uh thank you for calling McGraw Law Group. How can I help you?
+[00:16] [Lisa Rouse]: Yes, my name is Lisa with Mendota, calling on Sean Lucero.
+[00:22] [Receptionist]: Okay, give me one second, Lisa, okay?
+[00:25] [Lisa Rouse]: Mhm.
+[ ... Silence (5s) ... ]
+[00:31] [Receptionist]: That's the client's name that you just shared with me?
+[00:33] [Lisa Rouse]: I did, uh-huh. Sean, S-E-A-N, Lucero, L-U-C-E-R-O.
+[00:40] [Receptionist]: Okay. Give me one second, Lisa, okay?
+[00:42] [Lisa Rouse]: Okay.
+[ ... Silence (6s) ... ]
+[00:49] [Receptionist]: Um, I don't have anyone from my legal team available to take your call. Was there a message I can relate so they can follow up with you at this number? I'm sorry.
+[00:56] [Lisa Rouse]: Yeah. It's okay. My number is 478— uh, oh, no, I'm sorry. 615-919-9431. And my name is Lisa, last name is Rouse, R-O-U-S-E. And the claim number is 422-500-4104.
+[01:19] [Receptionist]: Okay. I'll make sure they get this message along with your callback number so they can follow up with you, okay?
+[01:24] [Lisa Rouse]: All right. And what was your name?
+[01:27] [Receptionist]: My name? My name is, uh, Eliceo. I'm one of the receptionists for the firm now.
+[01:31] [Lisa Rouse]: I'm sorry, I didn't hear you.
+[01:33] [Receptionist]: Eliceo. That's E-L-I-S-E-O.
+[01:40] [Lisa Rouse]: Okay. I just needed it to note who I spoke with. Thank you.
+[01:46] [Receptionist]: Mhm. Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

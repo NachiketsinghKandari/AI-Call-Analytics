@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call consisted of an automated solicitation regarding Google search listings and ended without any interaction with firm staff or operational resolution.",
+    "final_outcome": "The call was an automated solicitation regarding Google search listings and no interaction with firm staff occurred.",
     "call_duration_seconds": 21.53,
     "call_duration_formatted": "00:21"
   },

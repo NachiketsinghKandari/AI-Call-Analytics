@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided a status update on a specific case to a colleague and agreed to process a forwarded message for the case file.",
+    "final_outcome": "The receptionist and a colleague discussed the status of a specific case, confirmed it was rejected due to no injuries, and coordinated the logging of an after-hours message into the system.",
     "call_duration_seconds": 143.5,
     "call_duration_formatted": "02:23"
   },

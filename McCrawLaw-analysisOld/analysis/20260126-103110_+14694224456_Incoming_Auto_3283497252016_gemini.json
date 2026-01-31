@@ -1,0 +1,21 @@
+{
+  "caller_type": "existing_client",
+  "call_summary": {
+    "primary_intent": "returning_call",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller was returning a call from a staff member. The receptionist confirmed the caller's contact information, noted the staff member was unavailable, and took a message to notify them of the return call.",
+    "call_duration_seconds": 72.0,
+    "call_duration_formatted": "01:12"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist checked availability and took a message."
+  }
+}

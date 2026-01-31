@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCall Law Group: 5 turns
+  • Speaker 3 / Unknown / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: McCall Law Group.
+[00:06] [Speaker 3]: Hello?
+[00:08] [Receptionist]: Hello, this is McCall Law Group.
+[00:11] [Speaker 3]: Is this Christmas Air?
+[00:13] [Receptionist]: This is not, no sir.
+[00:16] [Speaker 3]: Well, and I'm sorry.
+[00:18] [Receptionist]: Yeah, no worries, have a good day.
+[00:20] [Speaker 3]: You too.
+[00:21] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

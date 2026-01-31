@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call was intercepted by an automated system, flagged as spam, and terminated with instructions to use an alternative contact method.",
+    "final_outcome": "The call was automatically terminated by the system after a recorded message identified the caller's number as spam.",
     "call_duration_seconds": 21.24,
     "call_duration_formatted": "00:21"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the call was automatically terminated by a spam filter."
+    "description": "No transfer was attempted."
   }
 }

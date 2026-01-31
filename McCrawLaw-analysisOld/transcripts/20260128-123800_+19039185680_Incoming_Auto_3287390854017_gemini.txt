@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Maria / Role: Receptionist at McGraw Law Group: 13 turns
+  • Speaker 3 / Randy Barger / Role: Caller: 13 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: Good afternoon, McGraw Law Group, this is Maria. May I help you?
+[00:08] [Randy Barger]: Yes, uh, my name is Randy Barger and I had a call this morning from someone, I didn't even get the name, but uh, it was about, I was supposed to be giving them some information, uh, and I needed to speak to them again.
+[00:25] [Receptionist]: Are you a client, sir?
+[00:27] [Randy Barger]: Well, I called yesterday and spoke to them about a possible, a possible becoming a client. So she was, she was over, going over the things I had told her. So, uh, was supposed to get with one of the attorneys to know, so we'd know more. So, I don't know anymore than that.
+[00:49] [Receptionist]: Okay, sir. Give me one moment. I'm gonna put you on hold for a moment, okay?
+[00:52] [Randy Barger]: Okay.
+[00:53] [ ... Silence (10s) ... ]
+[01:03] [Receptionist]: Okay, she is not available. She's, uh, okay. You were needing to give her some documentation?
+[01:18] [Randy Barger]: Well, I found one, uh, and I don't know where to send it.
+[01:24] [Receptionist]: Okay, let me give you a number.
+[01:26] [Randy Barger]: Okay, let me, let me go get a pen.
+[01:31] [Receptionist]: Okay.
+[01:32] [Randy Barger]: Okay.
+[01:33] [Receptionist]: The text, you can text it to this number. Uh, 972...
+[01:39] [Randy Barger]: Okay.
+[01:40] [Receptionist]: 332...
+[01:42] [Randy Barger]: Okay.
+[01:43] [Receptionist]: 2361.
+[01:46] [Randy Barger]: Okay. I'll get it right to her.
+[01:48] [Receptionist]: Okay. Appreciate that. I'll let her know you called.
+[01:51] [Randy Barger]: And could you, uh, have her call me, uh, when she's able?
+[01:55] [Receptionist]: What is your phone number, sir?
+[01:57] [Randy Barger]: 903-918-5680. She should have it because she called me this morning.
+[02:05] [Receptionist]: 903-918-5680. Okay. Thank you, Mr. Randy.
+[02:11] [Randy Barger]: Okay. Thank you.
+[02:12] [Receptionist]: You're welcome. Bye-bye.
+[02:13] [Randy Barger]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

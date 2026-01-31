@@ -4,7 +4,7 @@
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
@@ -13,9 +13,15 @@
     "call_duration_formatted": "01:02"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist identified the requested staff member was unavailable before initiating a transfer."
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the requested staff member, found them to be unavailable, and offered to take a message instead."
   }
 }

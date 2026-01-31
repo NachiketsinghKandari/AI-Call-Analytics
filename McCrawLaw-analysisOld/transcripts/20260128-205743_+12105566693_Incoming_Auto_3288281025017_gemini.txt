@@ -1,0 +1,58 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Hannah / Role: Receptionist at McCraw Law Group: 21 turns
+  • Speaker 3 / Gabriel Pirado / Role: Caller: 19 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded
+[00:03] [Speaker 1]: purposes
+[00:08] [Receptionist]: Uh, thank you for calling McCraw Law Group, this is Hannah, how can I help you?
+[00:11] [Gabriel Pirado]: Hello, yes, I was looking for a legal counsel, um, my mother was bitten by a dog earlier today that had escaped its enclosure.
+[00:23] [Receptionist]: All right, I could go ahead and assist you with that, I would just have to gather some information to get her set up, is that okay?
+[00:29] [Gabriel Pirado]: Of course.
+[00:31] [Receptionist]: And whom am I speaking with?
+[00:34] [Gabriel Pirado]: This is her son, Gabriel Pirado.
+[00:38] [Receptionist]: Gabriel, is that G-A-B-R-I-E-L?
+[00:42] [Gabriel Pirado]: Correct.
+[00:44] [Receptionist]: And how do you spell the last name?
+[00:46] [Gabriel Pirado]: P-I-R-A-D-O.
+[00:52] [Receptionist]: Got it, and is the best number 210-556-6693?
+[00:57] [Gabriel Pirado]: Correct.
+[00:58] [Receptionist]: Got it, and how did you hear about us?
+[01:00] [Gabriel Pirado]: I just Googled.
+[01:02] [Receptionist]: All right, and is she located near, uh, Dallas-Fort Worth or Amarillo?
+[01:06] [Gabriel Pirado]: No, she— we're in San Antonio.
+[01:09] [Receptionist]: Okay, got it, and I know that you mentioned this is for your mother, and how do you spell her name?
+[01:15] [Gabriel Pirado]: Um, Maria, M-A-R-I-A, Olga, O-L-G-A, and then the same last name.
+[01:23] [Receptionist]: Okay, give me one moment.
+[ ... Silence (10s) ... ]
+[01:33] [Receptionist]: And you said this happened today, correct?
+[01:34] [Gabriel Pirado]: Correct.
+[01:35] [Receptionist]: Okay, got it, and today the 28th. All right, and as a result, um, were there injuries?
+[01:43] [Gabriel Pirado]: Yes, there were.
+[01:45] [Receptionist]: Any broken bones?
+[01:47] [Gabriel Pirado]: Uh, not yet. We're— we're still at the hospital, so we're just trying to get ahead of things by, you know, jumping on— on the process. She's currently getting a back CT because her back's been on thing just to make sure there's nothing broken.
+[02:02] [Receptionist]: Okay, putting that in here, back CT.
+[02:04] [Gabriel Pirado]: But she definitely does have a laceration on her elbow, exposing, like, tendon, bone.
+[02:12] [Receptionist]: Okay. All right, and the phone number ending in 6693, do you prefer that to be the number that we call or did you want to, uh, provide us with her number?
+[02:22] [Gabriel Pirado]: Uh, this number, please.
+[02:24] [Receptionist]: Okay, got it, and in case we have to send you any documents, did you have an email address?
+[02:29] [Gabriel Pirado]: I do. It's going to be G, my last name, P, the number one, at gmail.com.
+[02:35] [Receptionist]: All right, did you say it's G and then your last name, and did you say the letter T after your last name?
+[02:42] [Gabriel Pirado]: Correct, T as in Tom.
+[02:44] [Receptionist]: Okay, and the number one at Gmail?
+[02:47] [Gabriel Pirado]: Correct. Yes, ma'am.
+[02:49] [Receptionist]: Got it. All right, so the next steps will be that I will be getting this information over to our team of attorneys, and then I'm going to have them reach back out to you to see how we can assist with this matter for your mom, okay?
+[03:01] [Gabriel Pirado]: Perfect.
+[03:02] [Receptionist]: All right, you're all set for now, and I hope you have a good night.
+[03:06] [Gabriel Pirado]: Thank you, you too. Bye-bye.
+[03:08] [Receptionist]: Thanks, bye.
+
+========================================
+TRANSCRIPT END
+========================================

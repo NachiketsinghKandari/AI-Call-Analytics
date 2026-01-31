@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to the case management team. The team was unavailable, so the receptionist took a message to notify them.",
+    "final_outcome": "The caller requested to speak with a case manager regarding a letter of representation. The receptionist checked for availability and informed the caller that the team was unavailable, then took a message to notify them of the inquiry.",
     "call_duration_seconds": 164.16,
     "call_duration_formatted": "02:44"
   },
@@ -17,11 +17,11 @@
       "case_management"
     ],
     "transfer_connection_status": [
-      false
+      "false"
     ],
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist placed the caller on hold to check the case management team's availability. Upon returning, the receptionist informed the caller the team was unavailable and offered to notify them."
+    "description": "The receptionist attempted to check availability for the case management team, but they were unavailable to take the call."
   }
 }

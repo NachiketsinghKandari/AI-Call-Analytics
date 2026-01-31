@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
+    "resolution_basis": "fallback_accepted",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding a client's treatment. The receptionist determined the staff member was unavailable and took a message with the client's name to be passed along.",
+    "final_outcome": "The caller requested to speak with a specific staff member who was unavailable. The receptionist took a message regarding a client's treatment and the caller agreed to have the information passed along.",
     "call_duration_seconds": 114.84,
     "call_duration_formatted": "01:54"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist identified the staff member was unavailable and proceeded to take a message."
+    "description": "No transfer was attempted as the requested staff member was unavailable."
   }
 }

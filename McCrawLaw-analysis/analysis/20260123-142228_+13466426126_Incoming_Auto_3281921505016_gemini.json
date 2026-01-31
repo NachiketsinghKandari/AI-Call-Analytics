@@ -2,26 +2,20 @@
   "caller_type": "existing_client",
   "call_summary": {
     "primary_intent": "returning_call",
-    "resolution_achieved": true,
-    "resolution_basis": "transfer_path_entered",
-    "resolution_type": "transfer_attempted",
-    "operational_terminal_state": "entered_transfer_path",
+    "resolution_achieved": false,
+    "resolution_basis": "no_terminal_action",
+    "resolution_type": "interaction_failed",
+    "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller stated they were returning a call from Bryce Hobson; the receptionist asked the caller to wait and the call ended immediately afterward, indicating the caller was placed into the transfer path.",
+    "final_outcome": "The caller stated they were returning a call from Bryce Hobson. The receptionist asked for a moment to assist, but the call ended before any operational action or transfer could be initiated.",
     "call_duration_seconds": 20.02,
     "call_duration_formatted": "00:20"
   },
   "transfer_context": {
-    "destinations": [
-      "specific_staff_member"
-    ],
-    "transfer_connection_status": [
-      true
-    ],
-    "reasons": [
-      "request_assigned_staff"
-    ],
-    "description": "The receptionist asked the caller to wait after the caller identified the staff member they were calling back, and the call ended."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted before the call ended."
   }
 }

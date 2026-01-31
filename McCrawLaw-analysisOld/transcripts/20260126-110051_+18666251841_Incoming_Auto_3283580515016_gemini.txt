@@ -1,0 +1,19 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Unknown: 3 turns
+  • Speaker 2 / Penelope / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. Thank you for your call. Unfortunately, our system has flagged—
+[00:04] [Penelope]: Hi, this is Penelope.
+[00:05] [Speaker 1]: —your phone number as spam. If this is an error, we apologize for the inconvenience. To reach us, please either send us an email or—
+[00:15] [Penelope]: Hi, this is Penelope.
+[00:16] [Speaker 1]: —call back from a different phone number.
+
+========================================
+TRANSCRIPT END
+========================================

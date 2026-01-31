@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Automated Voice / Role: Automated Recording: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 9 turns
+  • Speaker 3 / Logan Bond / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Automated Voice]: This call may be recorded for quality assurance purposes.
+[00:08] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:13] [Logan Bond]: Can I speak to John Walker, please?
+[00:16] [Receptionist]: Sure, I'll be happy to see if he is available and what is your name?
+[00:19] [Logan Bond]: Logan with Bristol West Insurance.
+[00:24] [Receptionist]: Okay, and what can I let him know the reason for your call is today?
+[00:28] [Logan Bond]: Um, following up in regards to a claim for Christopher Biggs.
+[00:33] [Receptionist]: Okay, excellent, thank you for that. Let me see if he is available. And Mr. Bond, I do have to ask, is there a good email address for you as well?
+[00:43] [Logan Bond]: Sure, logan.bond, that's B-O-N-D, at bristolwest, it's all one word, B-R-I-S-T-O-L-W-E-S-T.com.
+[00:55] [Receptionist]: Okay, wonderful. If you wouldn't mind just hold on one moment for me, okay?
+[00:59] [Logan Bond]: Sure. Thank you.
+[01:01] [Receptionist]: Thank you.
+[01:03] [ ... Silence (61s) ... ]
+[02:04] [Receptionist]: Mr. Bond, thank you so much for holding. I am going to need to take a message for Mr. Walker. Can you just confirm the best phone number to reach you directly at?
+[02:14] [Logan Bond]: Sure, 972-633-6182.
+[02:21] [Receptionist]: Okay, wonderful. I will go ahead and get a message over to him now.
+[02:26] [Logan Bond]: All right. Thank you.
+[02:28] [Receptionist]: You're welcome.
+
+========================================
+TRANSCRIPT END
+========================================

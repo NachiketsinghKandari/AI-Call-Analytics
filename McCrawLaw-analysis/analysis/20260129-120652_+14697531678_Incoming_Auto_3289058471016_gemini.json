@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist placed the caller on hold to consult with the attorney internally and returned to the line to confirm that the attorney would call the caller back later that day.",
+    "final_outcome": "The caller requested to speak with his brother's attorney. The receptionist consulted with the attorney while the caller was on hold and confirmed that a callback would be made later that day.",
     "call_duration_seconds": 120.96,
     "call_duration_formatted": "02:00"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist consulted with staff while the caller was on hold and then returned to the line."
+    "description": "No transfer was attempted. The receptionist handled the request directly by communicating with the attorney and relaying the callback information to the caller."
   }
 }

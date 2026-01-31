@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "returning_call",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
-    "resolution_type": "callback_scheduled",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "callback_scheduled",
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller returned a missed call regarding his wife's personal injury case. The receptionist could not identify the specific staff member who called and scheduled a callback for the following day.",
+    "final_outcome": "The caller returned a missed call regarding his wife's case. The receptionist took the caller's name and availability, stating that a staff member would call him back the next day.",
     "call_duration_seconds": 100.51,
     "call_duration_formatted": "01:40"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist initially mentioned sending the call to the main group but immediately pivoted to scheduling a callback."
+    "description": "No transfer was attempted; the receptionist opted to take a message for a callback instead."
   }
 }

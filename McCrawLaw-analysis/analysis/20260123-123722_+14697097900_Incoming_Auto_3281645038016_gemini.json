@@ -8,20 +8,20 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the caller as an existing client inquiring about case status and medical surgery next steps, determined no staff were available for a transfer, and took a detailed message for the team.",
+    "final_outcome": "The receptionist checked for staff availability to address the caller's case status inquiry but determined no one was available. The receptionist took a detailed message regarding insurance disputes and medical billing concerns, and the caller accepted a follow-up from the team.",
     "call_duration_seconds": 204.55,
     "call_duration_formatted": "03:24"
   },
   "transfer_context": {
     "destinations": [
-      "specific_staff_member"
+      "unspecified_internal_transfer"
     ],
     "transfer_connection_status": [
       false
     ],
     "reasons": [
-      "case_status_inquiry"
+      "request_assigned_staff"
     ],
-    "description": "The receptionist checked for the availability of the staff member handling the case but informed the caller that no one was available to take the transfer."
+    "description": "The receptionist attempted to locate the staff member handling the case but explicitly stated no one was available and offered to take a message instead."
   }
 }

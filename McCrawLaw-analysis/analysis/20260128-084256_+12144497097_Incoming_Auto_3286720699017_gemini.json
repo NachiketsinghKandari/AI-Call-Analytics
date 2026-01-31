@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller stated they were calling for testing purposes, and the receptionist acknowledged the statement before the call concluded.",
+    "final_outcome": "The caller stated they were making a test call, and the receptionist acknowledged the statement before the call concluded.",
     "call_duration_seconds": 19.3,
     "call_duration_formatted": "00:19"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted."
   }
 }

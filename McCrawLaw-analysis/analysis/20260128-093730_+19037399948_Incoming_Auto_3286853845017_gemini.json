@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
+    "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a case status update for a patient. The receptionist collected the caller's contact information and confirmed that a message would be sent for a return call.",
+    "final_outcome": "The receptionist collected contact information and a message from a medical provider regarding a case status inquiry and concluded the call.",
     "call_duration_seconds": 115.85,
     "call_duration_formatted": "01:55"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted during the call."
   }
 }

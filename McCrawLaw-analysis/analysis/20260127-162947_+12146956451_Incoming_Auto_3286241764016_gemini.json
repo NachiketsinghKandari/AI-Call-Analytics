@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to verify an appointment and office location. The receptionist identified a specific staff member to assist and initiated a transfer.",
+    "final_outcome": "The receptionist verified the caller's appointment details and initiated a transfer to a specific staff member.",
     "call_duration_seconds": 82.15,
     "call_duration_formatted": "01:22"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated her intent to transfer the caller to Emma Coons and the call ended immediately after the final pleasantry."
+    "description": "The receptionist stated her intent to transfer the caller to Emma Coons and the call ended immediately after the transfer statement."
   }
 }

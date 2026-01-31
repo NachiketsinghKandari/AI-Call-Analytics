@@ -4,11 +4,11 @@
     "primary_intent": "document_and_evidence_submission",
     "resolution_achieved": false,
     "resolution_basis": "no_terminal_action",
-    "resolution_type": "interaction_failed",
+    "resolution_type": "information_provided",
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller provided information regarding the submission of medical records for a specific patient, but the receptionist did not respond to the caller's statement, and the call ended after a period of silence.",
+    "final_outcome": "The caller provided an update regarding medical records for a specific individual, stating they had already been sent. The receptionist did not respond to the information, and the call ended after a period of silence.",
     "call_duration_seconds": 81.86,
     "call_duration_formatted": "01:21"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during this call."
   }
 }

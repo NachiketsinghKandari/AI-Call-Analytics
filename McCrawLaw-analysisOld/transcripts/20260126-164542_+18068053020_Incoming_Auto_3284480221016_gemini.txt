@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Mariama / Role: Receptionist at McCor Law Group: 7 turns
+  • Speaker 3 / Kareem Bryant / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:05] [Receptionist]: Good afternoon, McCor Law Group, this is Mariama, may I help you?
+[00:10] [Kareem Bryant]: Hello, this part is for Kareem Bryant, I got a call from y'all.
+[00:15] [Receptionist]: Are you a client, sir?
+[00:17] [Kareem Bryant]: Yes.
+[00:19] [Receptionist]: Okay, give me one moment. What was your last name?
+[00:22] [Kareem Bryant]: B-R-Y-A-N-T, Bryant.
+[00:26] [Receptionist]: Bryant.
+[00:28] [ ... Silence (14s) ... ]
+[00:42] [Receptionist]: Kareem Bryant. Let me see who called you. Hold on one moment, sir.
+[00:44] [ ... Silence (14s) ... ]
+[00:58] [Receptionist]: That was Crystal. Is it okay if I transfer your call?
+[01:01] [Kareem Bryant]: Yes.
+[01:02] [Receptionist]: Thank you.
+[01:03] [ ... Silence (10s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

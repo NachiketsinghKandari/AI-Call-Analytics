@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call disconnected immediately after the caller introduced themselves, preventing the receptionist from identifying the intent or providing assistance.",
+    "final_outcome": "The caller identified themselves as Mrs. [Name], but the call disconnected before any intent was stated or action was taken.",
     "call_duration_seconds": 11.23,
     "call_duration_formatted": "00:11"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted as the call ended prematurely."
   }
 }

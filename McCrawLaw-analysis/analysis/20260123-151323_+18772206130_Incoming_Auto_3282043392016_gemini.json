@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist took a message regarding a settlement offer for multiple clients after determining the attorney was unavailable and collected the caller's contact information.",
+    "final_outcome": "The caller provided a settlement offer regarding multiple clients. The receptionist informed the caller the attorney was unavailable, took a message with the offer details and callback number, and confirmed the message would be forwarded.",
     "call_duration_seconds": 146.02,
     "call_duration_formatted": "02:26"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist checked availability and proceeded to take a message."
+    "description": "No transfer was attempted; the receptionist informed the caller the attorney was unavailable and proceeded to take a message."
   }
 }

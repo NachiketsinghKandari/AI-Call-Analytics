@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about employment opportunities as a driver. The receptionist clarified that the office is a law firm and not hiring for that role. The caller acknowledged the error and the call ended.",
+    "final_outcome": "The receptionist informed the caller that the business is a law firm and not hiring for the driver position requested, resolving the inquiry directly.",
     "call_duration_seconds": 90.07,
     "call_duration_formatted": "01:30"
   },

@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist initiated a transfer to an attorney after the caller confirmed they were calling with an insurance offer, and the call ended immediately following the transfer statement.",
+    "final_outcome": "The receptionist initiated a transfer to an attorney after the caller confirmed they were providing a settlement offer, and the call ended immediately following the transfer statement.",
     "call_duration_seconds": 39.02,
     "call_duration_formatted": "00:39"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she would see if the attorney was available to take the call regarding an insurance offer and the call ended."
+    "description": "The receptionist stated she would check if the attorney was available to take the call and the call ended immediately after."
   }
 }

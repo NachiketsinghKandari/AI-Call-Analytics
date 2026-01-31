@@ -1,0 +1,43 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 12 turns
+  • Speaker 3 / Hani / Role: Caller from Green Clinic West: 12 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:12] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:16] [Hani]: Hi there, good afternoon. I'm calling from Green Clinic West. Uh, this is regarding to one of the medical records requisition that you sent to us and I talked earlier a few days ago with uh one of your colleague regarding to that, but I don't I don't know what was her name. Do you need the patient's date of birth?
+[00:42] [Receptionist]: I'm sorry, what was your name?
+[00:44] [Hani]: I am Hani.
+[00:45] [Receptionist]: Hani.
+[00:46] [Hani]: And your colleague already tried to call us yesterday, I think.
+[00:53] [Receptionist]: Okay. Is this a good phone number for you, the one you're calling from?
+[00:58] [Hani]: Green Clinic West.
+[01:00] [Receptionist]: Is the one you're calling from a good phone number for you?
+[01:05] [Hani]: Yeah. Yeah, yeah.
+[01:07] [Receptionist]: Okay. Okay, and what what client is this regarding?
+[01:09] [Hani]: So, this is regarding to one of our patient. You send us the check, but the thing is that we cannot deposit that check. And you cannot e-transfer us the money. So, we have to receive the payment first to release the information.
+[01:31] [Receptionist]: Okay. Do you know who you were speaking to?
+[01:34] [Hani]: Uh, I cannot remember her name who already I speak with.
+
+[ ... Silence (24s) ... ]
+
+[02:02] [Receptionist]: Okay, I can— and what was the patient's name? I don't have someone to be good to talk to right now, but I can let the team know that uh you can't release information, you can't until you receive payment, but you aren't able to cash the check.
+[02:19] [Hani]: Mhm. Okay, so the patient name is Tina Tran.
+[02:27] [Receptionist]: Uh, T-R-E-N? Or A-N?
+[02:29] [Hani]: T-R— the last name is T-R-A-N. And the first name is T-I-N-A.
+[02:40] [Receptionist]: Okay. I can let the team know you're wanting to speak to someone about that.
+[02:44] [Hani]: Yeah, so whenever they are uh whenever they— I think it was the uh the girl who was responsible for the check who I already talked with. So whenever she can just give us a call back, it would be it would be great.
+[03:05] [Receptionist]: Okay, I can let them know you'd like a call back and this 416-635-6060?
+[03:13] [Hani]: Yeah.
+[03:15] [Receptionist]: All right. I will let them know. Thank you very much for your call.
+[03:18] [Hani]: Thank you, bye-bye. Take care, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

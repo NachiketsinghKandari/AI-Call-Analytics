@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "callback_scheduled",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to an attorney who was unavailable; the receptionist then confirmed the caller's contact information for a callback.",
+    "final_outcome": "The receptionist attempted to transfer the caller to the assigned attorney. After determining the attorney was unavailable, the receptionist confirmed the caller's contact information and scheduled a callback.",
     "call_duration_seconds": 61.13,
     "call_duration_formatted": "01:01"
   },
@@ -17,11 +17,11 @@
       "legal_counsel"
     ],
     "transfer_connection_status": [
-      false
+      "false"
     ],
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to transfer the caller to attorney Todd, but the attorney was unavailable."
+    "description": "The receptionist attempted to transfer the caller to attorney Todd, but returned to the line stating the attorney was unavailable."
   }
 }

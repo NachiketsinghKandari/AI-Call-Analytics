@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the caller's contact information and initiated a transfer to a specific staff member to address a returned missed call.",
+    "final_outcome": "The receptionist identified that the caller was returning a missed call and initiated a transfer to a specific staff member.",
     "call_duration_seconds": 99.5,
     "call_duration_formatted": "01:39"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she was transferring the caller to Alondra and the call concluded immediately afterward."
+    "description": "The receptionist stated she was transferring the caller to Alondra and the call ended immediately after the transfer statement."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist completed the initial intake for a motor vehicle accident and initiated a transfer to an attorney for a consultation.",
+    "final_outcome": "The receptionist collected intake information regarding a motor vehicle accident and initiated a transfer to an attorney for a consultation.",
     "call_duration_seconds": 551.45,
     "call_duration_formatted": "09:11"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "specialized_knowledge_required"
     ],
-    "description": "The receptionist stated she would see if an attorney was available to speak with the caller and the call ended immediately after the transfer statement."
+    "description": "The receptionist stated she would see if an attorney was available to speak with the caller and the call ended immediately after."
   }
 }

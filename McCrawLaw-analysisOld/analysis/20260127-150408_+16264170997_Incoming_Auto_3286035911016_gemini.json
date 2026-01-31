@@ -1,0 +1,21 @@
+{
+  "caller_type": "new_client",
+  "call_summary": {
+    "primary_intent": "new_client_intake",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist performed a full intake for a motor vehicle accident and, after a consultation hold, informed the caller that the firm could not accept the case due to a lack of insurance coverage from the liable parties.",
+    "call_duration_seconds": 583.06,
+    "call_duration_formatted": "09:43"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist placed the caller on hold to consult with an attorney and returned to the line to conclude the call."
+  }
+}

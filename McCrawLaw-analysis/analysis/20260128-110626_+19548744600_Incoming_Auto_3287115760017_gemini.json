@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that case status information cannot be provided over the phone and offered alternative methods for inquiry, which the caller declined before ending the call.",
+    "final_outcome": "The receptionist informed the caller that case status information could not be provided over the phone and offered to provide a fax number or mailing address, which the caller declined before ending the call.",
     "call_duration_seconds": 73.15,
     "call_duration_formatted": "01:13"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during this call."
   }
 }

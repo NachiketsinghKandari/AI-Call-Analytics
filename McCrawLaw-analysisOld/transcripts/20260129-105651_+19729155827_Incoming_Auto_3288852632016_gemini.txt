@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Terica / Role: Receptionist at McCalla Group: 2 turns
+  • Speaker 3 / Ashley / Role: Caller from Allstate: 2 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: McCalla Group, this is Terica speaking, how may I help you?
+[00:06] [Ashley]: Hi, my name is Ashley, I'm with Allstate. I was following up on a claim you're handling for Kevin Hobbs.
+[00:12] [Receptionist]: Okay, give me one moment, please.
+[00:15] [Ashley]: Thank you.
+
+========================================
+TRANSCRIPT END
+========================================

@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member; the receptionist determined the staff member was unavailable and took a message for a callback.",
+    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist checked for availability, determined the staff member was unavailable, and took a message which the caller accepted.",
     "call_duration_seconds": 181.44,
     "call_duration_formatted": "03:01"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to reach a specific staff member while the caller was on hold, but the staff member was unavailable."
+    "description": "The receptionist attempted to check the availability of the requested staff member but found them unavailable and returned to the caller to take a message."
   }
 }

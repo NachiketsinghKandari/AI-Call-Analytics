@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding e-discovery but ultimately decided to follow up via email; the receptionist confirmed this was acceptable and the call concluded.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding e-discovery but ultimately decided to follow up via email instead of being announced by the receptionist.",
     "call_duration_seconds": 66.53,
     "call_duration_formatted": "01:06"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted; the caller opted to use an alternative contact method during the intake process."
   }
 }

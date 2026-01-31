@@ -1,14 +1,14 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "speak_with_staff",
+    "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected contact information and a detailed message from an insurance representative regarding a bodily injury claim and confirmed the legal team would follow up.",
+    "final_outcome": "The receptionist collected the caller's contact information and details regarding a bodily injury claim and compromise offer, then confirmed a message would be sent to the legal team.",
     "call_duration_seconds": 153.36,
     "call_duration_formatted": "02:33"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist opted to take a message for the legal team."
+    "description": "No transfer was attempted. The receptionist took a message for the team."
   }
 }

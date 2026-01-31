@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Unknown / Role: Receptionist at McCraw Law Group: 4 turns
+  • [Unknown] / Unknown / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:08] [Unknown]: Yes, ma'am, I was just wondering if I could get a hold of Crystal Flores?
+[00:13] [Receptionist]: I can see if she's available. Are you an existing client?
+[00:17] [Unknown]: Yes, ma'am.
+[00:20] [Receptionist]: Okay. So you know, you have reached the after-hours switchboard. Um, I can take a message for you. Let's see. Um, and what's the reason for your call?
+[00:38] [Unknown]: Sorry, what was that?
+[00:41] [Receptionist]: Um, what's the reason for your call?
+[00:43] [Unknown]: Oh, it's because I wanted to, um, well because we've been emailing back and forth, but I have a lot of information to update her on, so I just wanted to talk to her over the phone just because it's a lot.
+[00:57] [Receptionist]: All right. Um, so she is unavailable, but I'll forward a message and have her call you back as soon as possible.
+[01:05] [Unknown]: Okay. Yes, ma'am. Thank you.
+[01:08] [Receptionist]: Thank you. Goodbye.
+[01:10] [Unknown]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

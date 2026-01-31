@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist took a message from the medical provider regarding representation verification for a patient and confirmed the caller's contact information for a follow-up.",
+    "final_outcome": "The receptionist collected the caller's contact information and the details of the representation verification request to pass along to the team for a follow-up.",
     "call_duration_seconds": 284.18,
     "call_duration_formatted": "04:44"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during the call."
   }
 }

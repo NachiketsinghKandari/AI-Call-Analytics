@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "callback_scheduled",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": "callback_scheduled",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member and used Spanish. The receptionist obtained the caller's name, and an automated system informed the caller that a Spanish-speaking representative would return the call shortly before the call disconnected.",
+    "final_outcome": "The caller requested to speak with a specific staff member in Spanish. The receptionist obtained the caller's name, and an automated message informed the caller that the call would disconnect and a Spanish-speaking representative would call them back shortly.",
     "call_duration_seconds": 50.98,
     "call_duration_formatted": "00:50"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The call concluded with an automated message confirming a scheduled callback from a Spanish-speaking staff member."
+    "description": "No transfer was attempted. The call was handled by an automated system that scheduled a callback for Spanish language support."
   }
 }

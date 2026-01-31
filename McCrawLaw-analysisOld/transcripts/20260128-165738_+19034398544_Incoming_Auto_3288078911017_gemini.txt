@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Automated Voice / Role: Automated Recording: 2 turns
+  • Speaker 2 / Lionel / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 3 / Colton Walker / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Automated Voice]: This call may be recorded for quality assurance purposes.
+[00:12] [Receptionist]: Bey and Associates, this is Lionel, how can I help you?
+[00:15] [Colton Walker]: Hello, this is Colton Walker, I was just calling you back.
+[00:19] [Receptionist]: Okay, um, did they leave a message saying who it was that called you?
+[00:23] [Colton Walker]: No, I talked to a lady and I had bad service so I told her I'd call her right back, but I don't remember what her name was.
+[00:28] [Receptionist]: Okay, give me one second.
+[00:34] [Receptionist]: All right, so I don't have the team available. Um, let me relay your message over and I'll let them know you called back in, okay?
+[00:41] [Colton Walker]: Okay, thank you.
+[00:43] [Receptionist]: Take care.
+
+========================================
+TRANSCRIPT END
+========================================

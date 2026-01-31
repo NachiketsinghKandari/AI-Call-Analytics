@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
+    "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member regarding an injury claim. The receptionist determined the staff member was unavailable and took a message for a callback.",
+    "final_outcome": "The receptionist identified the caller as an existing client, collected contact information and the reason for the call, and took a message after determining the requested staff member was unavailable.",
     "call_duration_seconds": 92.74,
     "call_duration_formatted": "01:32"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist checked for staff availability internally and returned to the line to take a message."
+    "description": "No transfer was attempted. The receptionist checked availability while the caller was on hold and then offered to take a message."
   }
 }

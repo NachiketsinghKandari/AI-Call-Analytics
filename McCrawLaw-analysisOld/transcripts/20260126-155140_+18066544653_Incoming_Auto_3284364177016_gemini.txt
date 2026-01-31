@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 3 / Leonardo Ornelas / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:06] [Receptionist]: Bey and Associates, how can I help you?
+[00:07] [Leonardo Ornelas]: Yes, may I speak to Cheyenne, please?
+[00:09] [Receptionist]: Yeah, I can definitely see if she's available. Can I ask who I'm speaking with?
+[00:13] [Leonardo Ornelas]: Leonardo Ornelas.
+[00:15] [Receptionist]: Okay, give me just a moment.
+[00:18] [ ... Silence (6s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

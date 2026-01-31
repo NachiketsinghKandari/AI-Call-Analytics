@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a case status update from a specific staff member. The receptionist determined the staff member was unavailable and provided the firm's fax number for status inquiries, which the caller accepted.",
+    "final_outcome": "The caller requested a case status update from a specific staff member. The receptionist informed the caller that the staff member was unavailable and provided instructions to submit the inquiry via fax, which the caller accepted.",
     "call_duration_seconds": 59.11,
     "call_duration_formatted": "00:59"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist provided instructions for submitting a status inquiry via fax after checking staff availability."
+    "description": "No transfer was attempted. The receptionist handled the inquiry by providing the firm's protocol for case status requests."
   }
 }

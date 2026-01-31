@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turns
+  • Speaker 2 / Tarek / Role: Receptionist at McCraw Law Group: 12 turns
+  • Speaker 3 / Celeste Italiano / Role: Caller from Indeed: 11 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: The McCraw Law Group, this is Tarek, how may I help you?
+[00:07] [Celeste Italiano]: Hi there, do you know if Kimberly is available?
+[00:11] [Receptionist]: Yeah, I can definitely check for you. May I get your first and last name?
+[00:15] [Celeste Italiano]: Sure, Celeste Italiano. I'm giving a call with Indeed, I'm currently overseeing a few of her open positions.
+[00:22] [Receptionist]: Okay. Give me one moment, please.
+[00:25] [Celeste Italiano]: Thanks.
+[00:27] [Receptionist]: Just to let you know we do have two Kimberlys. Is there, um, a specific one that you were looking to speak with?
+[00:34] [Celeste Italiano]: Uh, it looks like I have a Kimberly Messenger.
+[00:39] [Receptionist]: Okay, gotcha. Give me one moment, please.
+[00:42] [Celeste Italiano]: Thank you.
+[00:43] [Receptionist]: Hi Celeste, so it does look like the best person for you to talk to would be our HR generalist, Carrie Steen. However, she is tied up in a meeting right now, so would you, um, like to get her email?
+[00:57] [Celeste Italiano]: Yeah, email's fine.
+[00:59] [Receptionist]: Great. Are you ready?
+[01:01] [Celeste Italiano]: Yes.
+[01:02] [Receptionist]: It's C-S-T-E-E-N at mccrawlawgroup.com.
+[01:12] [Celeste Italiano]: mccrawlawgroup.com. Okay, perfect. And she doesn't have a voicemail I can leave a message on or is email best way to contact her?
+[01:25] [Receptionist]: She does not have a voicemail, I'm sorry. But I can take a message for you?
+[01:31] [Celeste Italiano]: Yeah, I was just, um, overseeing, it looks like she has a few jobs open. One of the positions, um, that was posted two days ago, um, looks like it's just performing really poorly, um, so just wanted to work with her on making a few updates before the weekend. It's for the associate attorney litigation position.
+[01:52] [Receptionist]: Gotcha. And, I'm so sorry, I don't think I, um, got this down. Who are you calling on behalf of?
+[01:59] [Celeste Italiano]: Indeed.
+[02:02] [Receptionist]: Okay. All right.
+[02:04] [Celeste Italiano]: All right, perfect. Thank you, you have a good one.
+[02:07] [Receptionist]: Thank you, have a nice day. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

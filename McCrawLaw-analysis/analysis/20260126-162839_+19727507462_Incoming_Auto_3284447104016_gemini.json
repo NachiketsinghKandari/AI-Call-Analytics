@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected intake information regarding a slip and fall incident and attempted to transfer the caller to the intake team. When the transfer failed, the receptionist informed the caller that the information would be forwarded to the legal team for a follow-up.",
+    "final_outcome": "The receptionist attempted to transfer the caller to the intake team, but no one was available. The receptionist then confirmed they would provide the gathered information to the attorneys for a follow-up, which the caller accepted.",
     "call_duration_seconds": 517.61,
     "call_duration_formatted": "08:37"
   },
@@ -17,11 +17,11 @@
       "intake_and_investigation"
     ],
     "transfer_connection_status": [
-      false
+      "false"
     ],
     "reasons": [
       "specialized_knowledge_required"
     ],
-    "description": "The receptionist attempted to transfer the caller to the intake department, but returned to the line stating that no one was available."
+    "description": "The receptionist attempted to transfer the caller to the intake team to discuss representation, but returned to the line when no one was available."
   }
 }

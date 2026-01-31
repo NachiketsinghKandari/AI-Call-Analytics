@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Kimberly / Role: Receptionist at McCalla Law Group: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:05] [Receptionist]: McCalla Law Group, this is Kimberly.
+
+========================================
+TRANSCRIPT END
+========================================

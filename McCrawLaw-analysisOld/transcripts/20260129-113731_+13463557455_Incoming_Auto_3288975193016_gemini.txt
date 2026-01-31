@@ -1,0 +1,55 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 3 / Tracy / Role: Receptionist at McCrary Law Group: 18 turns
+  • Speaker 4 / Sam / Role: Caller from Texas Counseling Center: 18 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded for quality assurance purposes.
+[00:13] [Receptionist]: Hello, thank you for calling McCrary Law Group, how may I help you?
+[00:19] [Sam]: Hi, good afternoon, this is Sam calling you from Texas Counseling Center and I'm trying to reach Crystal.
+[00:26] [Receptionist]: Okay, um, is this about a patient? Or are we, um, are we, um, you said Crystal?
+[00:30] [Sam]: I have actually got a letter of protection from Crystal for the patient by the name Courtney Rayford. I mean I've been trying to reach her for some time now but she's not responding, Courtney, so I just want to share an update with Crystal.
+[00:53] [Receptionist]: Crystal Flores?
+[00:55] [Sam]: Yes ma'am, Crystal Rayford and I can give you the case number if that helps, sorry, Courtney Rayford and I can give you the case number if that helps.
+[01:07] [Receptionist]: Okay, yes, what is it?
+[01:09] [Sam]: It's 25-0040.
+[01:16] [Receptionist]: 25-0040. Bless you. Sound like you were about to sneeze. Okay.
+[01:24] [Sam]: Yeah.
+[01:28] [Receptionist]: And who is the person again? I know you want to talk to Crystal Flores. Yeah, the patient's name.
+[01:34] [Sam]: Courtney Rayford. That's what the letter of protection shows the name is.
+[01:46] [Receptionist]: Rayford and it's, um, R-A-F-O-R-D? Courtney's last name? Or is it R-A-Y?
+[01:53] [Sam]: R-A-Y-F-O-R-D. I can give you the date of birth as well, that's mentioned in the letter of protection.
+[02:01] [Receptionist]: Okay, what is it?
+[02:03] [Sam]: Yeah, it's February, February 13th, 1992.
+[02:13] [Receptionist]: And what is your first name again?
+[02:15] [Sam]: Sam. Sam.
+[02:17] [Receptionist]: All right, Sam. And I have a email address as sam@texascounseling.center, I mean counseling.center. Right.
+[02:25] [Sam]: Right, right.
+[02:27] [ ... Silence (13s) ... ]
+[02:40] [Receptionist]: All right, um, Sam, I'm going to send this message over to the team, um, so that someone can be in touch with you. Um, is this something urgent that I need to note here?
+[02:48] [Sam]: Uh, it's urgent like, uh, we have received the letter of protection back on January the 6th, right? So since then I've been trying to reach her, like Courtney, but she's not responding and her voicemail seems to be full. So I'm unable to leave a voicemail either.
+[03:04] [Receptionist]: Yeah.
+[03:05] [Sam]: So I just wanted to check like if there is any other alternate number from the one which is mentioned in the email to reach her.
+[03:15] [Receptionist]: Okay. So you've been trying to reach not Courtney, but Crystal Flores.
+[03:21] [Sam]: No, no, I've been trying to reach Courtney.
+[03:24] [Receptionist]: Okay, all right, thank you.
+[03:25] [Sam]: For scheduling the appointment. But since she's not responding so I thought of like talking to Crystal before I reply the email to her.
+[03:33] [Receptionist]: Okay then. All right. Well since you've been trying to get in touch with her since January 6th, um, I'm going to mark this as a little urgent, um, because it's, yeah, that's a while ago. All right then. Thank you so much, Sam, and I'll, we'll be in touch.
+[03:51] [Sam]: Sure, sure ma'am. And just for my records, may I know your name please?
+[03:55] [Receptionist]: My name is Tracy.
+[03:57] [Sam]: Tracy. Okay, Tracy. That helps. Sure, I'll also send a reply back to Crystal so that she's aware that, you know, we have been trying to reach Courtney for scheduling the appointment. Just for the record.
+[04:08] [Receptionist]: Okay then. All right, thank you.
+[04:10] [Sam]: Yeah, okay, perfect. Thank you. You have a good day ahead, Tracy. Bye-bye.
+[04:14] [Receptionist]: Thank you, you too. Bye.
+[04:16] [Sam]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

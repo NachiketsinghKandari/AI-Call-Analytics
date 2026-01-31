@@ -4,24 +4,18 @@
     "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "transfer_attempted",
+    "resolution_type": "message_taken",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to reach the attorney regarding a lien inquiry, but the attorney was unavailable. The receptionist then took a message including the caller's callback number and claim number.",
+    "final_outcome": "The receptionist determined the requested attorney was unavailable and took a message including the caller's callback number and claim details.",
     "call_duration_seconds": 116.64,
     "call_duration_formatted": "01:56"
   },
   "transfer_context": {
-    "destinations": [
-      "legal_counsel"
-    ],
-    "transfer_connection_status": [
-      false
-    ],
-    "reasons": [
-      "request_assigned_staff"
-    ],
-    "description": "The receptionist checked for the attorney's availability while the caller was on hold and then informed the caller that the attorney was not available."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist confirmed the attorney was unavailable before initiating a transfer path."
   }
 }

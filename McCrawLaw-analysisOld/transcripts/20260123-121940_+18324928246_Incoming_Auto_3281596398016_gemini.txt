@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Clarita / Role: Receptionist at Mokaram Law Group: 9 turns
+  • Speaker 3 / Kelly Grimmett / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: Mokaram Law Group, this is Clarita, how can I help you?
+[00:07] [Kelly Grimmett]: Hi, my name is Kelly Grimmett. I am a legal nurse consultant in the area and wanted to offer my services. Is there a good email I can send my resume over to you?
+[00:17] [Receptionist]: Um, yes, one moment.
+[00:21] [ ... Silence (21s) ... ]
+[00:42] [Receptionist]: Would you mind just holding on a second so I can get that email for you?
+[00:45] [Kelly Grimmett]: Yeah, absolutely.
+[00:47] [Receptionist]: Thank you. Thank you so much for holding, dear Kelly. Um, would you mind providing me your email and your phone number instead so I can share it to the, um, to our HR department?
+[01:04] [Kelly Grimmett]: Uh, sure. My email is going to be my last name, Grimmett, G-R-I-M-M-E-T-T, K-L at gmail dot com.
+[01:16] [Receptionist]: At gmail dot com. And...
+[01:19] [Kelly Grimmett]: And the phone number for a callback, 832-492-8246.
+[01:27] [Receptionist]: 8246. Um, and then just to confirm, your last name is G-R-I-M-M-E-T-T, K-L at gmail dot com is the email.
+[01:41] [Kelly Grimmett]: Correct. And what was your name?
+[01:43] [Receptionist]: It's Clarita.
+[01:45] [Kelly Grimmett]: All right, perfect. Thank you so much.
+[01:47] [Receptionist]: Thank you as well. I will go ahead and forward this over.
+[01:51] [Kelly Grimmett]: Thank you.
+[01:52] [Receptionist]: Thank you. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

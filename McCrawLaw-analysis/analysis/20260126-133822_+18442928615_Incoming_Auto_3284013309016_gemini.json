@@ -4,18 +4,24 @@
     "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist gathered the caller's information and the case details, determined no staff were available for a transfer, and took a message for the legal team.",
+    "final_outcome": "The receptionist identified the caller as an insurance representative calling regarding a demand. After determining no staff were available to take a transfer, the receptionist took a message for the team.",
     "call_duration_seconds": 200.66,
     "call_duration_formatted": "03:20"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "The receptionist determined no one was available to take the call before attempting a transfer."
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist checked for staff availability to handle a demand response but found no one available, leading to a message being taken."
   }
 }

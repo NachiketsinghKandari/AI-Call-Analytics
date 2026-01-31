@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that no one was available to provide the requested information and proceeded to take a message, confirming the caller's phone number and email address.",
+    "final_outcome": "The caller requested information regarding a client's injuries and treatment. The receptionist stated that no one was available to provide the information and took a message, confirming the caller's phone number and email address.",
     "call_duration_seconds": 86.26,
     "call_duration_formatted": "01:26"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted; the receptionist immediately offered to take a message after stating staff were unavailable."
   }
 }

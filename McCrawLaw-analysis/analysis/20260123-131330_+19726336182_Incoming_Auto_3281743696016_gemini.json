@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to reach a specific staff member, determined they were unavailable, and took a message from the caller including their contact information and the reason for the call.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding a claim. The receptionist placed the caller on hold to check availability, returned to state the staff member was unavailable, and took a message with the caller's contact information.",
     "call_duration_seconds": 118.8,
     "call_duration_formatted": "01:58"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist placed the caller on hold to check the availability of the requested staff member but returned to the line to take a message when the staff member was unavailable."
+    "description": "The receptionist attempted to check the availability of the requested staff member but returned to the line after the staff member was found to be unavailable."
   }
 }

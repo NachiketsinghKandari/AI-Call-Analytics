@@ -1,0 +1,41 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Mariam / Role: Receptionist at McCraw Law Group: 13 turns
+  • Speaker 2 / Lindsay / Role: Caller from Progressive Insurance: 12 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:05] [Receptionist]: Good morning, McCraw Law Group, this is Mariam, how may I help you?
+[00:09] [Lindsay]: Hi there, my name's Lindsay, I'm calling with Progressive Insurance regarding a PIP claim for Hina Beg, date of loss was May 16th, 2025.
+[00:21] [Receptionist]: Okay. What is that last name, Beg?
+[00:25] [Lindsay]: Yes, B as in Bravo, E-G.
+[00:29] [Receptionist]: Oh, Beg Beg. Okay. [laughs] Thank you for that. Okay, now tell them what the— oh, you're calling regarding the PIP claim.
+[00:43] [Lindsay]: Uh, so I'm the adjuster on the claim, yeah, um, just to see treatment status and when we can expect any bills and records.
+[00:51] [Receptionist]: Okay. May I put you on hold for a moment?
+[00:54] [Lindsay]: Sure, no problem.
+[00:56] [Receptionist]: Thank you.
+[00:57] [Lindsay]: Uh-huh.
+[00:58] [Receptionist]: I'm sorry, Linda, she is not available. Um, may I have her return your call?
+[01:03] [Lindsay]: Yeah, sure, no problem.
+[01:05] [Receptionist]: May I have your phone number, please?
+[01:07] [Lindsay]: It is 724-719-3129.
+[01:14] [Receptionist]: 724-719-3129. Thank you so much for calling. You have a wonderful day and stay warm and stay safe.
+[01:22] [Lindsay]: Oh, same to you, yes.
+[01:24] [Receptionist]: Where are you at?
+[01:27] [Lindsay]: I'm in Pennsylvania, so we're getting hit hard here this weekend. They're calling for up to 16 inches for us.
+[01:34] [Receptionist]: Oh my gosh, I think it's worse over there than where I am in Amarillo, Texas.
+[01:40] [Lindsay]: Okay, what's the weather looking like for you guys?
+[01:43] [Receptionist]: Just the same thing, same thing.
+[01:45] [Lindsay]: Same? Oh, jeez. Oh no. Yeah, please be safe, stay warm, hunker down.
+[01:50] [Receptionist]: You too, you be careful. Thank you for calling, Ms. Linda— Ms. Lindsay. Take care.
+[01:55] [Lindsay]: Of course, take care. Bye-bye.
+[01:57] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

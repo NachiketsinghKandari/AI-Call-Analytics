@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jessica / Role: Receptionist at McCraw Law Group: 9 turns
+  • Speaker 2 / Cynthia / Role: Caller: 8 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 2 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Receptionist]: McCraw Law Group, this is Jessica, how may I help you?
+[00:07] [Cynthia]: Hi Jessica, my name is Cynthia. How you doing this morning?
+[00:11] [Receptionist]: Good, how are you?
+[00:12] [Cynthia]: Doing great, thank you for asking. Calling back, um, in regards to the Yelp listings. I think I was told to follow up, I think, Paola Lopez in marketing. But I haven't been able to get in touch with anyone. I just wanted to know if there's, um, I think we also see a Lynn on file, McCraw. Wanted to just kind of get in touch with someone and make sure some leads are finding you guys.
+[00:37] [Receptionist]: Yeah, Lynn is our CEO. He is more so in the background of things. Um, so he would not be your best point of contact for this. Um, if Paola, um, one of our marketing coordinators, if she has not been responsive, I could also potentially provide you our Chief Marketing Officer Yvonne's email as well if you wanted to attempt to reach out to her.
+[00:58] [Cynthia]: All right, I'm ready when you are.
+[01:01] [Receptionist]: Okay. Yvonne, Yvonne Kinser, her email is going to be I...
+[01:04] [Automated Voice]: This call may be monitored or recorded.
+[01:08] [Receptionist]: Sorry about that. I and then last name Kinser, K-I-N-S-E-R at mccrawlawgroup.com.
+[01:23] [Cynthia]: All righty. And that's Yvonne with an— how'd you case spell first name? I had it with a Y.
+[01:27] [Receptionist]: I, V as in Victor, O, N as in Nevada, N as in Nevada, E.
+[01:33] [Cynthia]: Okay. And K-I-N-S-E-R.
+[01:37] [Receptionist]: Yes.
+[01:38] [Cynthia]: Okay. All right, I will try to reach out. I appreciate— is there a number for Yvonne or just an email?
+[01:47] [Receptionist]: Unfortunately, no. Just the email and then our office number that you're calling here.
+[01:52] [Cynthia]: Got it. All right, I appreciate that information. You have a good one.
+[01:55] [Receptionist]: You too. Bye.
+[01:57] [Cynthia]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

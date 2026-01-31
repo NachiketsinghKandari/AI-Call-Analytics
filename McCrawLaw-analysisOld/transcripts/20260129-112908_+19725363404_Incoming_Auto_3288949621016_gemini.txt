@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Lionel / Role: Receptionist at Bey Law Group: 7 turns
+  • Speaker 3 / Kristen Johnson / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: Bey Law Group, this is Lionel, how can I help you?
+[00:08] [Kristen Johnson]: Hi, can I speak with Emma?
+[00:11] [Receptionist]: Sure, I can go ahead and see if she's available. Can I have your name, please?
+[00:16] [Kristen Johnson]: Chris Bac— Kristen Johnson.
+[00:19] [Receptionist]: Thank you so much, Kristen. Just hold on the line for me and I'll reach out to Emma.
+[00:24] [Kristen Johnson]: Thank you.
+[00:26] [Receptionist]: Thank you so much for holding there, Kristen. So it does seem that Emma is not available at this moment, but I can take a message and have her give you a call back?
+[00:35] [Kristen Johnson]: Yeah, just let her know— she just called me a couple of minutes ago about, um, the medical record request for my mom, Kathleen. And I actually just got a call as soon as I hung up with her from the Heart Place practice manager, and I have a, like, fax number and I have that contact manager— that contact for that practice manager. So I have another— another avenue for her for medical records. So I don't know if that's easier for me to give that to her, leave it with you, whatever you guys would prefer.
+[01:06] [Receptionist]: Um, I can go ahead and let her know to give you a call back, okay? That way you can give it directly to her. Okay?
+[01:13] [Kristen Johnson]: Okay. Sounds good.
+[01:15] [Receptionist]: Thank you so much. Bye-bye.
+[01:17] [Kristen Johnson]: Yeah, thank you. Bye-bye.
+[01:19] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

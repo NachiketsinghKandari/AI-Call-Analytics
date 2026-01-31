@@ -1,5 +1,5 @@
 {
-  "caller_type": "new_client",
+  "caller_type": "family_member",
   "call_summary": {
     "primary_intent": "new_client_intake",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and details regarding a school bus incident, determined the matter was outside the firm's scope of practice, provided a referral to the Bar Association, and ended the call.",
+    "final_outcome": "The receptionist completed a new client intake, determined the matter was outside the firm's scope of practice, and provided the caller with the phone number for the Bar Association.",
     "call_duration_seconds": 351.07,
     "call_duration_formatted": "05:51"
   },

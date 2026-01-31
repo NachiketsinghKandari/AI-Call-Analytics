@@ -3,25 +3,19 @@
   "call_summary": {
     "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
-    "resolution_type": "transfer_attempted",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "callback_scheduled",
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to locate a staff member to assist with a PIP claim inquiry; upon finding the staff member unavailable, the receptionist collected the caller's contact information for a callback.",
+    "final_outcome": "The receptionist identified the caller as an insurance adjuster inquiring about a PIP claim, checked for staff availability, and recorded a callback number.",
     "call_duration_seconds": 118.01,
     "call_duration_formatted": "01:58"
   },
   "transfer_context": {
-    "destinations": [
-      "specific_staff_member"
-    ],
-    "transfer_connection_status": [
-      false
-    ],
-    "reasons": [
-      "request_assigned_staff"
-    ],
-    "description": "The receptionist checked for the requested staff member's availability and confirmed they were not available to take the call."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist placed the caller on hold to check availability and subsequently offered a callback when the staff member was found to be unavailable."
   }
 }

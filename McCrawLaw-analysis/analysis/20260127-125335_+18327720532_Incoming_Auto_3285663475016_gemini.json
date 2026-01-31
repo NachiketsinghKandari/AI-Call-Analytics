@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that no staff were available to provide a case status and that she did not have access to client files. The receptionist then collected the caller's email, claim number, and callback number to be forwarded to the legal team for a follow-up.",
+    "final_outcome": "The receptionist informed the caller that no staff were available to speak and that she did not have access to case details. She collected the caller's email, claim number, and callback number to pass to the legal team for a follow-up.",
     "call_duration_seconds": 161.28,
     "call_duration_formatted": "02:41"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist stated no one was available to speak with the caller."
+    "description": "No transfer was attempted. The receptionist stated that no one was available to speak and offered to take a message instead."
   }
 }

@@ -3,25 +3,19 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
-    "resolution_type": "transfer_attempted",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to the requested attorney and other staff members, but all were unavailable. A message was taken for a return call.",
+    "final_outcome": "The receptionist checked the availability of multiple staff members while the caller remained on the line. After determining all requested parties were in a meeting and unavailable, the receptionist took a message for the caller and the call concluded.",
     "call_duration_seconds": 163.44,
     "call_duration_formatted": "02:43"
   },
   "transfer_context": {
-    "destinations": [
-      "specific_staff_member"
-    ],
-    "transfer_connection_status": [
-      false
-    ],
-    "reasons": [
-      "request_assigned_staff"
-    ],
-    "description": "The receptionist checked the availability of the requested attorney and several other staff members, but all were reported as unavailable."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The receptionist checked availability internally while the caller remained on hold; no transfer to another line or voicemail was initiated."
   }
 }

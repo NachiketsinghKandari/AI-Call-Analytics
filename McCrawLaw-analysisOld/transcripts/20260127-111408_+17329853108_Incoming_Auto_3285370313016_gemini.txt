@@ -1,0 +1,28 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McGraw Law Group: 5 turns
+  • Speaker 3 / Dr. George Pappas / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+
+[ ... Silence (9s) ... ]
+
+[00:13] [Receptionist]: Hello, thank you for calling McGraw Law Group, how can I help you?
+[00:18] [Dr. George Pappas]: Oh, good morning. Um, I'm wondering if you can help me. I'm not sure which staff member or perhaps attorney to speak with. My name is Dr. George Pappas. I am with a company called Pont, P-O-N-T, and we assist law firms for any client or patient who is having a hard time getting to a doctor. We specialize in same-day board-certified telemedicine visits. Okay. And I didn't know if there's like an intake coordinator or an office manager that might be available I can just share with them what we do. There's no cost to your firm by the way, so we're not selling anything.
+[01:04] [Receptionist]: Uh, okay. Uh, so Dr. Pappas, I don't actually have anybody available this moment to take your call, but I can get a message sent over for you. I do see that we have some of your information. Um, are you at the 908-256-5839?
+[01:24] [Dr. George Pappas]: Yeah, and I apologize if I've called you before. I have to be honest, I've got like a list of... Okay, cool. And you know what it is? We got hit with 18 inches of snow on the East Coast and my computer didn't cooperate with me, so if I called you guys before, I apologize, but we're just reaching out to attorneys in Texas. So yeah, no. And by the way, you speak very clearly, articulate— articulately, and also you're one of the few people that pronounce my name properly, so you're doing three for three, it's phenomenal.
+[01:52] [Receptionist]: Oh, well, I really appreciate the kind feedback. Uh, I do appreciate you giving us a call, Dr. Pappas. Like I said, it's not a problem that you reached out. Um, I'll go ahead and get a message over to the office. Are you also at the george.pappas@pontscripts.com?
+[02:11] [Dr. George Pappas]: Yeah, you got it all.
+[02:13] [Receptionist]: All right, yeah, I will go ahead and get this forwarded back through for you.
+[02:17] [Dr. George Pappas]: Thank you so much. You take care.
+[02:19] [Receptionist]: Of course, you also. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

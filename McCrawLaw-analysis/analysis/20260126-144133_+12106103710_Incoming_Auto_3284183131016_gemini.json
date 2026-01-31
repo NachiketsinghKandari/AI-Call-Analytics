@@ -1,14 +1,14 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "administrative_request",
+    "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and specific requests for client information and a letter of representation, promising to relay the details to the case manager for a callback.",
+    "final_outcome": "The receptionist collected the caller's contact information and a message regarding a specific case to be relayed to a case manager for a callback.",
     "call_duration_seconds": 132.41,
     "call_duration_formatted": "02:12"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message for the case manager."
+    "description": "No transfer was attempted."
   }
 }

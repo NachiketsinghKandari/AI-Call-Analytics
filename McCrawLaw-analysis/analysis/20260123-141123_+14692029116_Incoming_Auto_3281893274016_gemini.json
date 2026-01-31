@@ -1,14 +1,14 @@
 {
-  "caller_type": "sales_vendor",
+  "caller_type": "new_client",
   "call_summary": {
-    "primary_intent": "solicitation_and_spam",
+    "primary_intent": "unknown_or_undetermined",
     "resolution_achieved": false,
     "resolution_basis": "no_terminal_action",
     "resolution_type": "interaction_failed",
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call consisted of an automated recording regarding account suspension and ended without any operational action being taken.",
+    "final_outcome": "The call disconnected during an automated recording before any interaction with a live representative occurred.",
     "call_duration_seconds": 8.5,
     "call_duration_formatted": "00:08"
   },

@@ -1,0 +1,27 @@
+{
+  "caller_type": "insurance_rep",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist asked the caller to wait to be connected to staff regarding a specific case and the call ended immediately afterward.",
+    "call_duration_seconds": 30.82,
+    "call_duration_formatted": "00:30"
+  },
+  "transfer_context": {
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist stated 'Give me one moment' after the caller requested to speak with someone regarding a case, and the call ended."
+  }
+}

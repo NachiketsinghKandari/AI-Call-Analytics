@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
+    "resolution_basis": "fallback_accepted",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller inquired about a job opening and requested to speak with the appropriate staff member. The receptionist collected the caller's name and phone number and took a message for a callback as no one was available.",
+    "final_outcome": "The caller inquired about a job opening. The receptionist determined that no staff members were available to take the call, collected the caller's name and phone number, and took a message for a callback.",
     "call_duration_seconds": 91.94,
     "call_duration_formatted": "01:31"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted as the receptionist determined no staff were available and proceeded to take a message."
   }
 }

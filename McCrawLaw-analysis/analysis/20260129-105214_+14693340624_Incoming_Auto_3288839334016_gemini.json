@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to the case manager, but the staff member was unavailable. The receptionist then took a message regarding the client's canceled appointments and recorded a callback number.",
+    "final_outcome": "Receptionist attempted to transfer the caller to the case manager. The transfer failed as the staff member was unavailable, so the receptionist took a message and a callback number.",
     "call_duration_seconds": 104.9,
     "call_duration_formatted": "01:44"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "case_status_inquiry"
     ],
-    "description": "The receptionist attempted to connect the caller to the case manager, but returned to the line stating the person was unavailable and offered to take a message."
+    "description": "Receptionist attempted to transfer the caller to the case manager, but the staff member was unavailable."
   }
 }

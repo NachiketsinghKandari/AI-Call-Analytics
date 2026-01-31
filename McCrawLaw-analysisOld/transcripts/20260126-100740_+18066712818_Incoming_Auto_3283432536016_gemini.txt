@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jessica / Role: Receptionist at McCraw Law Group: 5 turns
+  • Speaker 3 / Kathy Powell / Role: Caller: 5 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: McCraw Law Group, this is Jessica, how may I help you?
+[00:07] [Kathy Powell]: Jessica, this is Kathy Powell and, uh, you've been sending me some DocuSigns for a lawsuit, so to speak. Uh, I just did not receive any kind of injuries in that, uh, rear-end accident that happened on January 2nd with Joe. Now, Joe is still in pain, but I didn't receive anything that, uh, I need to file for any kind of injury. So, that's why I've kind of been, I've really been dragging my feet and I was going, "Whoa, you know, I'm just really not in pain or nothing happened to me." So...
+[00:52] [Receptionist]: Okay.
+[00:53] [Kathy Powell]: ...that's why I haven't. So.
+[00:57] [Receptionist]: Okay, give me one moment, let me go ahead and, um, connect you over. Um, can I get your first and last name one more time?
+[01:07] [Kathy Powell]: Kathy with a K, Powell. P-O-W-E-L-L.
+[01:12] [Receptionist]: Okay, give me one... and then Joe Powell, is that your husband?
+[01:16] [Kathy Powell]: Yes.
+[01:17] [Receptionist]: Okay, give me one moment.
+[01:19] [Kathy Powell]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

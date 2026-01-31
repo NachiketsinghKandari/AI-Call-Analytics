@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist answered the call and attempted to greet the caller twice, but the caller remained silent and the call ended.",
+    "final_outcome": "The receptionist answered the call and greeted the caller, but the caller did not respond, and the call was terminated after several attempts to establish contact.",
     "call_duration_seconds": 25.27,
     "call_duration_formatted": "00:25"
   },

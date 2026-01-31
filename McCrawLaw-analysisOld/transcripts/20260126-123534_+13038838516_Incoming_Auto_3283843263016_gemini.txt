@@ -1,0 +1,42 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 13 turns
+  • Speaker 3 / Mike Crespin / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:10] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:14] [Mike Crespin]: Hello, you sound all spunky this afternoon in this cold weather going on, if you're in Texas.
+[00:20] [Receptionist]: It is cold, but I'm generally a little chipper of a person.
+[00:26] [Mike Crespin]: Did you have to drive to the office or are you working from home?
+[00:30] [Receptionist]: No, so because of the weather they allowed us to work from home.
+[00:34] [Mike Crespin]: Oh good, that's what I was kind of hoping. But I know the Crystal's in Amarillo, I was wondering if I could get a hold of her.
+[00:41] [Receptionist]: Crystal, let me take a look for you. Okay, I just want to verify I'm talking to Mike Crespin, correct?
+[00:50] [Mike Crespin]: Yes ma'am.
+[00:52] [Receptionist]: Okay. Wanted to speak to Crystal.
+[00:59] [ ... Silence (14s) ... ]
+[01:13] [Receptionist]: And what can I tell her you're calling for?
+[01:16] [Mike Crespin]: Uh, progress report.
+[01:18] [Receptionist]: Sure.
+[01:20] [Mike Crespin]: Oh. Yeah, my room is the coldest room in this house.
+[01:24] [Receptionist]: Oh no.
+[01:25] [Mike Crespin]: Because I got all my walls are on the outside of the house.
+[01:29] [Receptionist]: Mm, okay.
+[01:31] [Mike Crespin]: The front bedroom, yeah, so. Not all the room, but quite a bit of them. One, two...
+[01:43] [Receptionist]: Okay, go ahead. Oh, no, I was just going to say it does look like right now she's not available to take a phone call, but I'm going to forward a message over to her to have her call you as soon as possible, okay?
+[01:55] [Mike Crespin]: Yes ma'am, I've been trying to get a hold of her for a while.
+[01:58] [Receptionist]: Oh no. All right, let's see here. What I'll do is I'll mark it urgent so it gets to her right away, okay?
+[02:07] [Mike Crespin]: It's not really urgent, I'm just saying I've been trying to get a hold of her for, I don't know, for not counting the weekend, for quite a while. I let it go a couple days, but maybe a week or so. Okay, let's see. Okay. All right, thank you for your help, I appreciate it.
+[02:29] [Receptionist]: Yes sir, you have a good day.
+[02:31] [Mike Crespin]: You too.
+[02:32] [Receptionist]: Mm-hmm, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

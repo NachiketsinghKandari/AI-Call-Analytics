@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist gathered the caller's contact information and claim details, then took a message for the legal team regarding a treatment status inquiry after determining no staff members were available.",
+    "final_outcome": "The caller requested to speak with a case manager regarding a treatment status. The receptionist determined that no staff members were available and took a message including the caller's contact information and claim number.",
     "call_duration_seconds": 117.14,
     "call_duration_formatted": "01:57"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist checked for availability and immediately offered to take a message."
+    "description": "No transfer was attempted as the receptionist determined staff were unavailable and proceeded to take a message."
   }
 }

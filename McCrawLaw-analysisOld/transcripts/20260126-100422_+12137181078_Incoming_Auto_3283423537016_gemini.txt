@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Clarissa / Role: Receptionist at McCall Law Group: 4 turns
+  • Speaker 3 / Unknown / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: McCall Law Group, this is Clarissa, how can I help you?
+[00:09] [Unknown]: Uh, yes, uh, can I talk with Marlene?
+[00:15] [Receptionist]: Uh, yes, with who, I'm sorry?
+[00:21] [Unknown]: Marlene. Oh, was this the wrong number?
+[00:26] [Receptionist]: Uh, this is the McCall Law Group.
+[00:30] [Unknown]: Oh, is it? Oh, okay. Uh, yeah, I'm— yeah, 'cause this was her phone for a while, so I don't know what— okay. All right, well, let me try another number. Okay. All right, thank you, ma'am. Thank you.
+[00:42] [Receptionist]: Okay, thank you, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

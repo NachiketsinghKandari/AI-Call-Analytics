@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified that the requested staff member was unavailable and took a message from the caller.",
+    "final_outcome": "The receptionist checked the availability of the requested staff member, determined they were on lunch, and took a message for a callback.",
     "call_duration_seconds": 45.58,
     "call_duration_formatted": "00:45"
   },
@@ -20,8 +20,8 @@
       false
     ],
     "reasons": [
-      "assigned_staff_unavailable"
+      "request_assigned_staff"
     ],
-    "description": "The receptionist checked availability for the requested staff member, found they were on lunch, and took a message instead of connecting the call."
+    "description": "The receptionist checked for the requested staff member and informed the caller they were unavailable due to being on lunch, subsequently offering to take a message."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member, but returned to the line to report they were unavailable and took a message for a callback.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member, but after a hold, informed the caller the staff member was unavailable and took a message for a callback.",
     "call_duration_seconds": 236.66,
     "call_duration_formatted": "03:56"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to connect the caller to Bryce Hopson, but the staff member was unavailable."
+    "description": "The receptionist attempted to connect the caller to Bryce Hopson, but returned to the line to report that he and his team were unavailable."
   }
 }

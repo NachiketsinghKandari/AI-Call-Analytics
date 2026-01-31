@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to reschedule an inspection due to weather. The receptionist stated no staff were available to handle the request and took a message for a follow-up.",
+    "final_outcome": "The receptionist determined that no staff were available to assist with the rescheduling request and took a message regarding the inspection details and weather concerns for a follow-up.",
     "call_duration_seconds": 148.39,
     "call_duration_formatted": "02:28"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist explicitly stated no one was available to take the call and offered to take a message instead."
+    "description": "No transfer was attempted as the receptionist stated no one was available to take the call."
   }
 }

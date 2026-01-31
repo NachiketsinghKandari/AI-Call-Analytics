@@ -1,14 +1,14 @@
 {
   "caller_type": "spanish_speaker",
   "call_summary": {
-    "primary_intent": "speak_with_staff",
+    "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist checked availability and, upon finding the staff member unavailable, took a message for a callback and confirmed the caller's contact information.",
+    "final_outcome": "The receptionist attempted to connect the caller with a specific staff member, but upon finding them unavailable, took a message for a callback regarding the caller's case status.",
     "call_duration_seconds": 142.42,
     "call_duration_formatted": "02:22"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist placed the caller on hold to check for the requested staff member but returned to the line to state they were unavailable and offered to take a message."
+    "description": "The receptionist checked for the requested staff member's availability and, finding them unavailable, offered to take a message."
   }
 }

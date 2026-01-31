@@ -1,0 +1,18 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 3 turns
+  • Speaker 2 / Lionel / Role: Receptionist at Bey and Associates: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality assurance purposes to ensure your listing is still visible to customers in your area. Press one now.
+[00:13] [Speaker 1]: Thank you for calling 404-720-4900 or press nine if call is in error.
+[00:19] [Receptionist]: Bey and Associates, this is Lionel.
+
+========================================
+TRANSCRIPT END
+========================================

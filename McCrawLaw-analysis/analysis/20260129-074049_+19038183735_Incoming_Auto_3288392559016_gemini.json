@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to connect the caller to the relevant department regarding a missing Letter of Protection; upon determining the party was unavailable, the receptionist took a message with the caller's contact and email information.",
+    "final_outcome": "The receptionist attempted to connect the caller to the team regarding a missing Letter of Protection but was unable to do so. The receptionist then took the caller's contact information and a message to have the document sent.",
     "call_duration_seconds": 162.14,
     "call_duration_formatted": "02:42"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "administrative_billing_inquiry"
     ],
-    "description": "The receptionist attempted to connect the caller during a period of silence but returned to the line to state they were unable to connect and would take a message instead."
+    "description": "The receptionist attempted to connect the caller to the team to address the missing Letter of Protection but stated they were unable to connect and took a message instead."
   }
 }

@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 7 turns
+  • Speaker 3 / Stephanie Murphy / Role: Caller: 6 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: Hello, thank you for calling McCraw Law Group, how could I help you?
+[00:15] [Stephanie Murphy]: Yes, ma'am. My name is Stephanie Murphy and I've had a case open for two years. Um, my, uh, the person handling the case got switched. I think his name is Landon now, but I don't remember.
+[00:42] [Receptionist]: Okay. Um, you said you think his name is Landon?
+[00:45] [Stephanie Murphy]: Yeah, I don't— I have short-term memory loss, so I don't really remember. But, um, yes, my name is Stephanie Murphy and I think a guy named Landon took it over. But, uh, it could be a different guy's name.
+[00:59] [Receptionist]: Okay. Uh, is your telephone number 469-709-7900?
+[01:07] [Stephanie Murphy]: Yes, ma'am.
+[01:09] [Receptionist]: One moment.
+[01:11] [ ... Silence (12s) ... ]
+[01:23] [Receptionist]: I don't have anyone available right now that I can transfer you to. Can I forward a message for you?
+[01:31] [Stephanie Murphy]: Uh, yeah, I guess. Um, it's just been two years since the accident and I haven't heard anything. And, uh, he said that they were, um, the— I don't know, whoever was handling the accident, he's handling the case, but he said the insurance company's fighting over which county it happened in because it happened on county line or something. But, um, he said that's what's tangled up and, uh, McKinney Medical Center is trying to fine me $15,000 because of late fees and services or whatever. And I had to tell them that it's an ongoing case and everything. So, I'm just, I guess, trying to call and check up and see what's going on and see where this is going because, uh, I have bulging discs in my neck because of this accident and I do need surgery. Um, I'm trying to figure out what my next steps are as far as getting my neck surgery done and I don't know if they pay for the neck surgery or if they pay me out and then I pay for my neck surgery or what, but I kind of need it done because I got hurt at work last year and, uh, I need surgery on my arm as well from work. So I'm just, I guess, trying to get everything taken care of so I could get better.
+[03:07] [Receptionist]: Yes, I understand. Um, I don't have anyone available right now, but I will forward this message to the team. Um, and some— and they'll— someone will reach out to you as soon as possible.
+[03:18] [Stephanie Murphy]: All right, thank you.
+[03:20] [Receptionist]: Thank you. Bye-bye.
+[03:22] [Stephanie Murphy]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

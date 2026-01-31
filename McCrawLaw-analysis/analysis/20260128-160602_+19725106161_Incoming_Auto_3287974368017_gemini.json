@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided a status update regarding a settlement offer after consulting with the attorney internally.",
+    "final_outcome": "The receptionist attempted to transfer the caller to the attorney. When the transfer was not completed, the receptionist provided a status update on the offer review and recorded the caller's availability for a return call.",
     "call_duration_seconds": 95.11,
     "call_duration_formatted": "01:35"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "The receptionist consulted with the attorney internally and provided the information directly to the caller; no transfer path was entered by the caller."
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist attempted to transfer the caller to the attorney but returned to the line to provide information and take a message after the transfer did not connect."
   }
 }

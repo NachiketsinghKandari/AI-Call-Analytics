@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller said hello and the call disconnected before the receptionist could provide assistance or determine the intent of the call.",
+    "final_outcome": "The call disconnected immediately after the receptionist's greeting and the caller's initial response.",
     "call_duration_seconds": 9.07,
     "call_duration_formatted": "00:09"
   },

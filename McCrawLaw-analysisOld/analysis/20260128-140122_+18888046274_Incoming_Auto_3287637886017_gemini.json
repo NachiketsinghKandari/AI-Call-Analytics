@@ -1,0 +1,27 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested billing records for a patient. The receptionist attempted to locate a member of the billing department but determined they were in a meeting. The receptionist then obtained the caller's contact information for a follow-up callback.",
+    "call_duration_seconds": 118.8,
+    "call_duration_formatted": "01:58"
+  },
+  "transfer_context": {
+    "destinations": [
+      "billing_and_disbursements"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "administrative_billing_inquiry"
+    ],
+    "description": "The receptionist checked for availability in the billing department but found staff were in a meeting."
+  }
+}

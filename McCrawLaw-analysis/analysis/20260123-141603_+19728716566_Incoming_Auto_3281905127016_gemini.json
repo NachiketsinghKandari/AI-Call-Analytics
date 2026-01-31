@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": true,
-    "final_outcome": "The receptionist recorded settlement offer details for three separate cases and took a message for the attorney to return the call as he was currently on another line.",
+    "final_outcome": "The caller provided settlement offer details for three separate cases. The receptionist noted the information and took a message for the attorney to return the call as he was currently unavailable.",
     "call_duration_seconds": 342.79,
     "call_duration_formatted": "05:42"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist informed the caller the attorney was unavailable and proceeded to take a message."
+    "description": "No transfer was attempted; the receptionist informed the caller the attorney was on another line and took a message for the multiple cases discussed."
   }
 }

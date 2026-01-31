@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the firm only handles personal injury cases and provided a referral phone number for a family law attorney in the area.",
+    "final_outcome": "The receptionist informed the Spanish-speaking caller that the firm only handles personal injury cases and provided a referral to a local family law attorney.",
     "call_duration_seconds": 273.1,
     "call_duration_formatted": "04:33"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist provided a referral directly."
+    "description": "No transfer was attempted as the receptionist provided a referral directly to the caller."
   }
 }

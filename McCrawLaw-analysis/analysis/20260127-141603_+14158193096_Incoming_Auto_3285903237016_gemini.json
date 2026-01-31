@@ -1,14 +1,14 @@
 {
   "caller_type": "existing_client",
   "call_summary": {
-    "primary_intent": "speak_with_staff",
+    "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist gathered the caller's contact information and took a message for the staff member to return the call.",
+    "final_outcome": "The caller requested to speak with a specific staff member regarding case paperwork. The receptionist gathered the caller's contact information and took a message for the staff member.",
     "call_duration_seconds": 123.19,
     "call_duration_formatted": "02:03"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message for the requested staff member."
+    "description": "No transfer was attempted. The receptionist took a message for the requested staff member."
   }
 }

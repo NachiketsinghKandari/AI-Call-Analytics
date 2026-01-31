@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller was heard on the line asking if they could be heard, but no receptionist joined the call and it ended without any operational action being taken.",
+    "final_outcome": "The caller reached an automated recording but no staff member joined the line. The caller disconnected after several unanswered greetings.",
     "call_duration_seconds": 38.52,
     "call_duration_formatted": "00:38"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as no receptionist answered the call."
+    "description": "No transfer was attempted as no staff member answered the call."
   }
 }

@@ -1,0 +1,39 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCall Law Group: 11 turns
+  • Speaker 3 / Nick Gharivand / Role: Caller: 11 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:09] [Receptionist]: Hello, thank you for calling McCall Law Group, how can I help you?
+[00:13] [Nick Gharivand]: Hey, is Todd available?
+[00:15] [Receptionist]: Todd, yeah, I can see if he might be available. Who might I be speaking with, please?
+[00:19] [Nick Gharivand]: Uh, this is Nick.
+[00:21] [Receptionist]: Nick, are you a current client of ours, Nick, or are you— were you recently referred to Todd?
+[00:26] [Nick Gharivand]: Yeah, I was— no, I called him, I think we're working together. I was just trying to follow up on, uh, on filling up his paperwork and seeing what the next step was.
+[00:36] [Receptionist]: Okay, are you like a fellow attorney?
+[00:39] [Nick Gharivand]: No, I'm— I just called him to use his services, man, and then he told me to fill out paperwork and I did. So now I'm calling back. We were in an accident.
+[00:49] [Receptionist]: Understood. Let me get your information then, uh, Nick. What's your email address, please?
+[00:55] [Nick Gharivand]: It's nickgharivand@gmail.com. Gharivand, that's G-H-A-R-I-V-A-N-D @gmail.com.
+[01:05] [Receptionist]: Yep. Okay, thank you. And what's your physical address, please?
+[01:11] [Nick Gharivand]: Uh, do you— it's 5334 Longshadow Drive. Do you need it? Can't you just have my phone number?
+[01:21] [Receptionist]: Um, well, if anything, if I need to take a message, I've already got everything noted pretty much.
+[01:26] [Nick Gharivand]: Okay, I don't think you need my address specifically. He's not coming to visit me at my house.
+[01:31] [Receptionist]: Okay, this is just information that we're, uh, told to gather. Is this in Memphis, Nick?
+[01:38] [Nick Gharivand]: Yeah.
+[01:40] [Receptionist]: Okay, thank you. And how did you initially hear about us?
+[01:44] [Nick Gharivand]: I'm good on answering interview questions, brother.
+[01:48] [Receptionist]: Okay. Let me take a message then, Nick. I'll go ahead and let Todd know that you called, okay?
+[01:56] [Nick Gharivand]: All right, I appreciate it.
+[01:58] [Receptionist]: Of course, no problem. Goodbye.
+[02:01] [Nick Gharivand]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

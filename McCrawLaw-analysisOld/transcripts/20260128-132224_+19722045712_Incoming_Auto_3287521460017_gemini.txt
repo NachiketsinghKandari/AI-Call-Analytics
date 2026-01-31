@@ -1,0 +1,27 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jessica / Role: Receptionist at McCall Law Group: 6 turns
+  • Speaker 2 / Alex / Role: Caller from Progressive Insurance: 5 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: McCall Law Group, this is Jessica, how may I help you?
+[00:08] [Alex]: Hi there, this is Alex with Progressive Insurance. I am just calling on client Edwin Maroquin.
+[00:15] [Receptionist]: Edwin Maroquin. Okay, give me one moment.
+[00:18] [Alex]: Thank you.
+[00:20] [Receptionist]: I apologize for that hold there, ma'am, it does look like our system is currently having issues. Can I get a good callback number that way that case manager or attorney can return your call as soon as they can?
+[00:31] [Alex]: Sure, are you ready?
+[00:33] [Receptionist]: Yes.
+[00:34] [Alex]: It's going to be 972-204-5712.
+[00:42] [Receptionist]: 5712. All right, perfect. I'll go ahead and get this forwarded over. They should reach out as soon as our system's back up. You have a nice day.
+[00:48] [Alex]: Thank you, you too. Bye-bye.
+[00:49] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

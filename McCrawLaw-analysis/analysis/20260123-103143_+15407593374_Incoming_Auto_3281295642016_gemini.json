@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist determined the staff member was unavailable and offered to take a message. The caller declined the message and instead confirmed the staff member's email address before ending the call.",
+    "final_outcome": "The caller requested to speak with a staff member who was unavailable. The receptionist offered to take a message, but the caller opted to send an email instead, and the receptionist confirmed the staff member's email address.",
     "call_duration_seconds": 61.34,
     "call_duration_formatted": "01:01"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist placed the caller on hold to check availability and returned to inform the caller the staff member was unavailable."
+    "description": "No transfer was attempted as the receptionist determined the requested staff member was unavailable after a brief hold."
   }
 }

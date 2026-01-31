@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller identified as an insurance representative inquiring about a specific client. The call ended while the receptionist was attempting to locate the file.",
+    "final_outcome": "The caller from USAA Insurance inquired about a client, and the call ended while the receptionist was attempting to locate the file.",
     "call_duration_seconds": 33.7,
     "call_duration_formatted": "00:33"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "description": "No transfer was attempted during this call."
   }
 }

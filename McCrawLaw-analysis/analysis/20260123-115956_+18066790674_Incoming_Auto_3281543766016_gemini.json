@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
+    "resolution_basis": "direct_service_completed",
     "resolution_type": "callback_scheduled",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "callback_scheduled",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist checked the availability of the requested staff member, informed the caller they were busy, and the caller agreed to a callback.",
+    "final_outcome": "The caller requested to speak with a specific staff member. The receptionist checked availability internally and informed the caller that the staff member was busy but would call back shortly, an arrangement the caller accepted.",
     "call_duration_seconds": 43.13,
     "call_duration_formatted": "00:43"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "The receptionist checked the availability of the requested staff member but did not initiate a transfer as the staff member was busy."
+    "description": "No transfer was attempted. The receptionist checked staff availability internally and provided a callback update directly to the caller."
   }
 }

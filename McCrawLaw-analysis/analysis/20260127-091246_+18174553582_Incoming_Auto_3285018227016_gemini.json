@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the office hours were nine to five in response to the caller's inquiry about weather-related closures.",
+    "final_outcome": "The receptionist confirmed the office's operating hours for the day in response to the caller's inquiry regarding weather-related closures.",
     "call_duration_seconds": 56.59,
     "call_duration_formatted": "00:56"
   },

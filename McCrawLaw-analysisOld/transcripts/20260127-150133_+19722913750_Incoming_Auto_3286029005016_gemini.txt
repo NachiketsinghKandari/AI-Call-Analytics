@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Magro Law Group: 11 turns
+  • Speaker 3 / Randy Weiss / Role: Caller: 10 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:09] [Receptionist]: Hello, thank you for calling Magro Law Group, how can I help you?
+[00:13] [Randy Weiss]: Yes, is Bryce Hopson available?
+[00:19] [Receptionist]: You said Bryce Hopson?
+[00:22] [Randy Weiss]: Yes.
+[00:23] [Receptionist]: Are you an existing client?
+[00:25] [Randy Weiss]: No, I'm uh, I think I am a defendant actually.
+[00:31] [Receptionist]: Oh, okay, one second please. All right, um, so sorry, can I get your name?
+[00:38] [Randy Weiss]: Randy Weiss.
+[00:41] [Receptionist]: Randy, Mr. Weiss, what is the best number for us to get back with you in case we get disconnected?
+[00:45] [Randy Weiss]: Well, if I'll just hold, that's okay, and I'll call back if I'm disconnected.
+[00:52] [Receptionist]: All righty, not a problem. Um, and are you able to share your email address with us?
+[00:57] [Randy Weiss]: No, I'm going to talk to somebody and uh, and after that I'll call an attorney, but I'm hopeful just by having a simple conversation with someone they will recognize the silly mistake they made.
+[01:12] [Receptionist]: All right, Mr. Weiss, so um, Mr. Hopson is not available right now, so I would take a message.
+[01:19] [Randy Weiss]: Is John Ginn available or Amy Hefner?
+[01:24] [Receptionist]: So no, I would take a message. Are you able to provide a callback number for them to call you back?
+[01:29] [Randy Weiss]: No, that's okay.
+[01:31] [Receptionist]: All righty.
+[01:32] [Randy Weiss]: If they're not available now, when would you think they might be available?
+[01:36] [Receptionist]: I'm so sorry, sir, I'm not able to provide like a time. He's not available right now.
+[01:41] [Randy Weiss]: Okay, thank you very much.
+[01:42] [Receptionist]: Thank you, have a good day.
+
+========================================
+TRANSCRIPT END
+========================================

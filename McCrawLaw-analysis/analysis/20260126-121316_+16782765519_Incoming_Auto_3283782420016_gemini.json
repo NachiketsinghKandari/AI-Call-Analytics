@@ -4,18 +4,24 @@
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller requested to speak with their case manager regarding a workers' compensation adjuster. The receptionist stated the staff member was unavailable and took a message for a callback.",
+    "final_outcome": "The caller requested to speak with their case manager. The receptionist determined the staff member was unavailable and took a message for a callback, which the caller accepted.",
     "call_duration_seconds": 61.85,
     "call_duration_formatted": "01:01"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted because the receptionist determined the requested staff member was unavailable and offered to take a message instead."
+    "destinations": [
+      "case_management"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "request_assigned_staff"
+    ],
+    "description": "The receptionist checked for the requested case manager and informed the caller she was unavailable before offering to take a message."
   }
 }

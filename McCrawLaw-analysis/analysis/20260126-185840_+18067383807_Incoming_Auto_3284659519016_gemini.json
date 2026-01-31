@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist conducted an intake for a traffic ticket matter, informed the caller that the firm does not handle those cases, and provided a referral phone number for the Dallas Bar Association.",
+    "final_outcome": "The receptionist performed an intake for a traffic ticket matter, informed the caller the firm does not handle such cases, provided a referral number for the Dallas Bar Association, and concluded the call.",
     "call_duration_seconds": 590.98,
     "call_duration_formatted": "09:50"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted; the receptionist provided a referral number directly."
   }
 }

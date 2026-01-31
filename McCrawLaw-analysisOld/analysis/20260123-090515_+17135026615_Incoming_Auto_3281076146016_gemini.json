@@ -1,0 +1,27 @@
+{
+  "caller_type": "spanish_speaker",
+  "call_summary": {
+    "primary_intent": "unknown_or_undetermined",
+    "resolution_achieved": true,
+    "resolution_basis": "transfer_path_entered",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "entered_transfer_path",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist acknowledged the caller's need for Spanish language support and initiated a transfer before the call concluded.",
+    "call_duration_seconds": 19.08,
+    "call_duration_formatted": "00:19"
+  },
+  "transfer_context": {
+    "destinations": [
+      "unspecified_internal_transfer"
+    ],
+    "transfer_connection_status": [
+      true
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "The receptionist stated 'Un momento' after the caller identified as a Spanish speaker and the call ended immediately afterward."
+  }
+}

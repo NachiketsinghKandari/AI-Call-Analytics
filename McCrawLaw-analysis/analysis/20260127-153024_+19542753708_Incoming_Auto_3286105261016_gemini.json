@@ -1,14 +1,14 @@
 {
   "caller_type": "spanish_speaker",
   "call_summary": {
-    "primary_intent": "unknown_or_undetermined",
+    "primary_intent": "administrative_request",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "information_provided",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that they had reached a law firm and that the caller had the wrong number regarding a factory job advertisement.",
+    "final_outcome": "The receptionist informed the caller that they had reached a law firm and not a factory, clarifying that the caller had the wrong number regarding a job advertisement.",
     "call_duration_seconds": 77.26,
     "call_duration_formatted": "01:17"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist provided direct information regarding the wrong number."
+    "description": "No transfer was attempted as the receptionist identified the call as a wrong number."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the caller as a defense attorney and initiated a transfer to a specific staff member regarding the Robert Hope matter.",
+    "final_outcome": "Receptionist identified the caller as opposing counsel, gathered the case name, and initiated a transfer to the requested staff member.",
     "call_duration_seconds": 38.23,
     "call_duration_formatted": "00:38"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she would connect the caller to the requested staff member and the call ended immediately afterward."
+    "description": "Receptionist stated intent to connect the caller to the requested staff member and the call ended immediately afterward."
   }
 }

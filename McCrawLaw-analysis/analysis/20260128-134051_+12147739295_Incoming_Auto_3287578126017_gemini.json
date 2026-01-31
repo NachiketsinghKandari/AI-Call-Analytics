@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist identified the caller and initiated a transfer to the requested staff member, Suzanne White.",
+    "final_outcome": "The receptionist identified the caller and initiated a transfer to a specific staff member as requested.",
     "call_duration_seconds": 40.68,
     "call_duration_formatted": "00:40"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated the intent to transfer the caller to a specific staff member and the call ended immediately following the transfer statement."
+    "description": "The receptionist stated she was transferring the caller to Suzanne White and the call ended immediately after a brief pleasantry."
   }
 }

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jessica / Role: Receptionist at Pro-Loggers: 4 turns
+  • Speaker 3 / Karen / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: Pro-Loggers, this is Jessica, how may I help you?
+[00:06] [Karen]: Jessica, this is Karen in the law office of Daryl Kerry. Could I speak to Rachel Woods, please?
+[00:13] [Receptionist]: Yeah, I can definitely connect you over, ma'am. Do you happen to have the plaintiff name for this one?
+[00:19] [Karen]: Amy Johnson.
+[00:21] [Receptionist]: Amy Johnson. Oh. All right, perfect. Give me one moment.
+[00:26] [Karen]: Thank you.
+[00:27] [Receptionist]: Mhm.
+
+========================================
+TRANSCRIPT END
+========================================

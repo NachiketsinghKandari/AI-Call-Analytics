@@ -1,0 +1,46 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Maria / Role: Receptionist at McCraw Law Group: 15 turns
+  • Speaker 3 / Adrian Dominguez / Role: Caller: 13 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: Good morning, McCraw Law Group, this is Maria. May I help you?
+[00:09] [Adrian Dominguez]: I'm returning a missed call.
+[00:12] [Receptionist]: Are you a client and may I have your name?
+[00:15] [Adrian Dominguez]: I'm not a client.
+[00:19] [Receptionist]: Uh, did you fill out a web form on our internet?
+[00:26] [Adrian Dominguez]: No, I did not. My name is Adrian Dominguez.
+[00:32] [Receptionist]: Okay. Do you know who called you by any chance?
+[00:36] [Adrian Dominguez]: They didn't leave a message.
+[00:39] [Receptionist]: Dominguez. Okay, give me one moment. Okay, so right was— okay. Okay, so you had uh needed an attorney but you found another attorney. I'm sorry about that.
+[00:55] [ ... Silence (8s) ... ]
+[01:03] [Adrian Dominguez]: Regarding what issue?
+[01:07] [Receptionist]: Okay. Give me a moment. What is your phone number?
+[01:16] [Adrian Dominguez]: 214-729-7428.
+[01:22] [Receptionist]: I don't have any idea who could have called you, sir. And the call just came through a while ago?
+[01:30] [Adrian Dominguez]: Uh, in the last hour or so.
+[01:34] [Receptionist]: Oh my gosh. Because I have an Adrian Dominguez but it's a different number.
+[01:41] [Adrian Dominguez]: What is the phone number? It may be my wife's.
+[01:45] [Receptionist]: It's an 806 area code.
+[01:48] [Adrian Dominguez]: No. No. Okay.
+[01:50] [Receptionist]: Did y'all have an accident or anything like that?
+[01:53] [Adrian Dominguez]: Is this regarding the Dallas-Fort Worth area or another city? Are you—
+[01:58] [Receptionist]: We are not sure because I'm trying to figure out who could have called you.
+[02:05] [Adrian Dominguez]: Well, it would have been helpful if they left a message.
+[02:08] [Receptionist]: I know, I know. Sorry about that.
+[02:11] [ ... Silence (7s) ... ]
+[02:18] [Receptionist]: Okay, uh, did you want me to try to find out? I can—
+[02:22] [Adrian Dominguez]: No, that's fine. We have a— we were in a recent accident, we have a lawyer handling it, so that's fine.
+[02:28] [Receptionist]: Oh, okay. I'm sorry about that.
+[02:31] [Adrian Dominguez]: Thank you.
+[02:32] [Receptionist]: You're welcome. Thank you, sir. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

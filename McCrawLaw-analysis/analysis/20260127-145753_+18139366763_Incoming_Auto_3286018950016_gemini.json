@@ -1,14 +1,14 @@
 {
   "caller_type": "insurance_rep",
   "call_summary": {
-    "primary_intent": "speak_with_staff",
+    "primary_intent": "verify_representation",
     "resolution_achieved": true,
     "resolution_basis": "transfer_path_entered",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist confirmed the case details and initiated a transfer to the requested staff member, Cheyenne, and the call ended immediately after the transfer statement.",
+    "final_outcome": "The receptionist identified the case and initiated a transfer to the requested staff member regarding a letter of representation.",
     "call_duration_seconds": 133.06,
     "call_duration_formatted": "02:13"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated she was transferring the caller to Cheyenne and the call concluded."
+    "description": "The receptionist stated she was transferring the caller to Cheyenne and the call ended immediately after the transfer statement."
   }
 }

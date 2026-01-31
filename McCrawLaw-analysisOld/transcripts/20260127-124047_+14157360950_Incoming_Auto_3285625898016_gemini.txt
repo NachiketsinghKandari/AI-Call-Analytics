@@ -1,0 +1,42 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCalla Law Group: 12 turns
+  • Speaker 3 / Anthony / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: McCalla Law Group, this is [mumbled] speaking, how can I help you?
+[00:08] [Anthony]: Hi there, my name is Anthony, I called about maybe a week or so ago— to give you a little bit of context, um, I'm calling directly from San Francisco. I internally manage the McCalla Law Group Google Ads account internally, I'm the AM, and I talked to someone named Paola, like I said, maybe a week or two ago and she mentioned that that they would kind of pass along a message, but again, I was trying to just get in touch with someone on the marketing side. Any chance you can kind of just help me understand who I should be talking to from just a little bit of what I know is you're working with an agency called Studio 3, but I also see a different agency called R2 Media, so again, apologies for the left field call, but any way you can kind of direct me as to who I should maybe be talking to?
+[00:52] [Receptionist]: Yes, you're mentioned you spoke to Paola?
+[00:56] [Anthony]: Yeah.
+[00:57] [Receptionist]: Um, she's actually in our marketing department.
+[01:04] [Anthony]: Okay.
+[01:05] [Receptionist]: So—
+[01:06] [Anthony]: So do you suggest I talk with Paola or what what do you suggest? I just want to make sure I'm reaching the right person, yeah.
+[01:13] [Receptionist]: Well, uh, she would be the best person to talk to since she is, um, from the marketing department. Would you mind just holding a second for me, Anthony?
+[01:23] [Anthony]: Sure, no problem.
+[01:24] [Receptionist]: Thank you.
+[01:25] [ ... Silence (10s) ... ]
+[01:35] [Receptionist]: Thank you so much for holding there, Anthony. So I did try Paola and she's not available at this moment, um, but I can go ahead and pass along a message to her so that she can give you a call back.
+[01:44] [Anthony]: Okay. Um, that would be great. Um, do you want me to give you my number?
+[01:51] [Receptionist]: Yes, please.
+[01:52] [Anthony]: Okay. 415-736-0950.
+[02:01] [Receptionist]: Thank you so much. So just to confirm that was 415-736-0950?
+[02:08] [Anthony]: Yeah. And is is there a way to ensure I get a call back? Because I want to say last time they said someone, not you, but someone said something similar and I never got a call back. And I I just want to make sure I don't get lost in the loop. Like, is there anyone else I can speak to within the marketing department or would she be like the the person?
+[02:25] [Receptionist]: Uh, she'd be the primary, uh, person for the marketing team. Um, and I already forwarded over the your phone number and the message so that she can reach out to you.
+[02:35] [Anthony]: Okay. And, um, do you guys have like a a direct line, like, you know how like press the keypad for, you know, if you want to talk to XYZ or do you guys not do that? That's fine though, I can wait for the call as well.
+[02:46] [Receptionist]: Um, no, the best number would be the number that you're calling to.
+[02:51] [Anthony]: Okay. And does she have an email as well?
+[02:54] [Receptionist]: Um... Unfortunately, I can't give you her email, but, um, yeah, she should be giving you a call back if anything.
+[03:02] [Anthony]: Okay, cool. Well, thank you so much, appreciate it.
+[03:05] [Receptionist]: Thank you, have a good day. Bye-bye.
+[03:07] [Anthony]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

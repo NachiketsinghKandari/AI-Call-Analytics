@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a missed call from the firm but denied being a prospective client; the call ended abruptly without resolution.",
+    "final_outcome": "The caller returned a missed call from the firm's intake office. After the caller stated they were not a prospective client, the call ended abruptly while the receptionist was still speaking.",
     "call_duration_seconds": 42.84,
     "call_duration_formatted": "00:42"
   },

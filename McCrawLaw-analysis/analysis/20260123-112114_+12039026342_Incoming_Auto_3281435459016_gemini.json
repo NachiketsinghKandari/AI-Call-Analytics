@@ -1,14 +1,14 @@
 {
   "caller_type": "business_vendor",
   "call_summary": {
-    "primary_intent": "legal_operations_discussion",
+    "primary_intent": "administrative_request",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
+    "resolution_basis": "fallback_accepted",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided the HR generalist's email address and took a message regarding job posting updates after informing the caller that the requested party was in a meeting.",
+    "final_outcome": "The receptionist informed the caller that the HR generalist was in a meeting, provided her email address, and took a message regarding the performance of job postings on Indeed.",
     "call_duration_seconds": 131.47,
     "call_duration_formatted": "02:11"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist provided contact information and recorded the caller's message."
+    "description": "No transfer was attempted because the receptionist identified that the appropriate contact was unavailable in a meeting."
   }
 }

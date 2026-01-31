@@ -8,13 +8,13 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to her attorney or caseworker. After determining they were unavailable, the receptionist took a message regarding the caller's concerns about her case and rental car expenses.",
+    "final_outcome": "The receptionist attempted to connect the caller to her case worker or attorney. Upon finding them unavailable, the receptionist took a message regarding the caller's dissatisfaction with the case progress and issues with her rental car settlement.",
     "call_duration_seconds": 190.08,
     "call_duration_formatted": "03:10"
   },
   "transfer_context": {
     "destinations": [
-      "legal_counsel"
+      "specific_staff_member"
     ],
     "transfer_connection_status": [
       false
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist checked for the availability of the requested staff members and informed the caller they were unavailable, subsequently offering to take a message."
+    "description": "The receptionist checked for the availability of the requested staff members and informed the caller they were unavailable."
   }
 }

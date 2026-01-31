@@ -1,0 +1,21 @@
+{
+  "caller_type": "sales_vendor",
+  "call_summary": {
+    "primary_intent": "solicitation_and_spam",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "information_provided",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The caller inquired about providing personal injury leads. The receptionist identified the appropriate contact, stated they were unavailable, and provided an email address for the caller to use for follow-up.",
+    "call_duration_seconds": 96.55,
+    "call_duration_formatted": "01:36"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The receptionist provided contact information directly to the caller."
+  }
+}

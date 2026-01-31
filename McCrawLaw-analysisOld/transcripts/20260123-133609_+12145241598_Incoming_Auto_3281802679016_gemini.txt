@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Sarah / Role: Receptionist at The Cochran Group: 3 turns
+  • Speaker 3 / Antonio Bustos / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: The Cochran Group, this is Sarah speaking, how may I help you?
+[00:07] [Antonio Bustos]: Uh, Mary called me right now? She left a message that she needed to call her back.
+[00:16] [Receptionist]: Give me, can I— um, sorry. May I get your first and last name?
+[00:20] [Antonio Bustos]: Antonio Bustos.
+[00:23] [Receptionist]: Gotcha. Give me one moment, please.
+[00:29] [Antonio Bustos]: Uh-huh.
+
+========================================
+TRANSCRIPT END
+========================================

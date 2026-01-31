@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist initiated a transfer to the legal team after the caller inquired about a specific claim, and the call ended immediately following the caller's agreement to hold.",
+    "final_outcome": "The receptionist stated intent to reach out to the attorney or case manager regarding a case status inquiry and the call ended immediately after the caller agreed to hold.",
     "call_duration_seconds": 39.24,
     "call_duration_formatted": "00:39"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "case_status_inquiry"
     ],
-    "description": "The receptionist asked the caller to hold so she could reach out to the attorney or case manager regarding the claim."
+    "description": "The receptionist requested the caller to hold while she reached out to internal staff and the call ended immediately afterward."
   }
 }

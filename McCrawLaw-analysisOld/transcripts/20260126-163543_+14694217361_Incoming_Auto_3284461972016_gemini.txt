@@ -1,0 +1,25 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Kimberly / Role: Receptionist at McCraw Law Group: 1 turn
+  • Speaker 3 / Jordan / Role: Caller: 3 turns
+  • Speaker 4 / Destiny / Role: Caller: 3 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:07] [ ... Silence (7s) ... ]
+[00:14] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:18] [Jordan]: Hi Kimberly, this is Jordan with Smith, I have a potential client on the phone, Keonte, with a slip and fall case.
+[00:27] [Destiny]: Hi Jordan, this is Destiny with Smith, your call looped.
+[00:31] [Jordan]: Oh, okay, thank you.
+[00:33] [Destiny]: Not a problem.
+[00:34] [Jordan]: Take care.
+[00:35] [Destiny]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

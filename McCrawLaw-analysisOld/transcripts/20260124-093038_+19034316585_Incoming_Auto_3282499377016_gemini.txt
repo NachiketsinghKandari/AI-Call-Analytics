@@ -1,0 +1,21 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 3 turns
+  • Speaker 3 / Unknown / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:04] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+[00:09] [Unknown]: Uh, yeah, uh, I'm returning, uh, your phone call.
+[00:16] [Receptionist]: Okay sure, uh, did the legal team member that called you, did they leave a voicemail?
+[00:22] [Unknown]: Nah, hold on, I'll call you back, let me check.
+[00:27] [Receptionist]: Okay sir.
+
+========================================
+TRANSCRIPT END
+========================================

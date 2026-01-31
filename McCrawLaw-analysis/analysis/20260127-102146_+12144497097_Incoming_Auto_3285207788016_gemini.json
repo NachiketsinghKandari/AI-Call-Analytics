@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist provided instructions to the caller regarding Salesforce lead updates and the call concluded with an agreement to transition to a video call for screen sharing.",
+    "final_outcome": "The receptionist and caller discussed phone system functionality and specific procedures for updating rejected leads in Salesforce. The receptionist provided instructions on data entry fields, and both parties agreed to disconnect to initiate a video call for screen sharing.",
     "call_duration_seconds": 307.51,
     "call_duration_formatted": "05:07"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted; the call was an internal operational discussion between staff/vendors."
   }
 }

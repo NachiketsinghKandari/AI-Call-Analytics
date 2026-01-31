@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to reach a specific staff member while the caller was on hold. After determining the staff was unavailable, the receptionist took a message regarding a deposition time constraint.",
+    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member who was unavailable. A message was taken regarding a deposition schedule and a callback was requested.",
     "call_duration_seconds": 266.26,
     "call_duration_formatted": "04:26"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist attempted to locate Allison Taff but was unable to reach anyone on the team, subsequently returning to the caller to take a message."
+    "description": "The receptionist attempted to reach Allison Taff, but reported that no one was available and proceeded to take a message."
   }
 }

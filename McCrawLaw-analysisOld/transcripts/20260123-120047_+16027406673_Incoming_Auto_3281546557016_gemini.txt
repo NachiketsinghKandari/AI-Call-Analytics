@@ -1,0 +1,69 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • [Receptionist] / Unknown / Role: Receptionist at McGraw Law Group: 18 turns
+  • Gwen Allen / Gwen Allen / Role: Caller: 18 turns
+
+----------------------------------------
+
+[00:00] [ ... Silence (13s) ... ]
+
+[00:13] [Receptionist]: Hello, thank you for calling McGraw Law Group. How can I help you?
+[00:18] [Gwen Allen]: Hi, can you hear me? The connection's kind of broken.
+[00:22] [Receptionist]: Uh, yes, I'm able to hear you. Are you— can you hear me well?
+[00:27] [Gwen Allen]: It sounds a little bit cracked. Um, yeah, I was calling to see if, um, let's see what's his name, Bryce Hopson is taking on any new cases?
+[00:42] [Receptionist]: Bryce Hopson? Yes, I can check to see if he is. Are you wanting to hire him as an attorney?
+[00:48] [Gwen Allen]: Possibly, yes.
+[00:52] [Receptionist]: Okay. And you're not currently a client of ours? Do I have that right?
+[00:56] [Gwen Allen]: No.
+[00:58] [Receptionist]: Okay, I'm just making sure. Can I have your first and last name, please?
+[01:03] [Gwen Allen]: Uh, Gwen Allen.
+[01:07] [Receptionist]: Gwen Allen. Okay, thank you so much, Gwen. Okay, and just need a little bit more information to see how we can help you, if we can take the case. Can you tell me what the case is about?
+[01:29] [Gwen Allen]: I purchased a home about a year ago, found out that it has tons of mold in it after the fact. Um, there's issues with the inspection because I did have a licensed mold assessor that was paid upon inspection prior to buying. And then it's been, as it's been damaged a couple of times by contractors, um, that made the mold worse. Um, I had a remediator in December that was supposed to be removing the mold and they abandoned the house in the middle of the job and they seem to be acting deceptive and hiding all of the photos of of what was actually done. Um, that's kind of like in a nutshell.
+[02:26] [Receptionist]: Okay, I I understand. Um, and you were wanting to seek damages from these contractors?
+[02:35] [Gwen Allen]: Yeah, I mean, I need help. I've learned a little bit from consulting with a couple of lawyers that I talked to for an hour that, like, I need to file a TDLR complaint. It's best to have an attorney do that that is, like, mold trained or aware, um, since it is a mold house case. So I'm I'm trying to find someone that actually— because he specializes in mold, that's what the website said, right?
+[03:07] [Receptionist]: Uh, r— I'm actually not quite sure what our current website is saying about specializing with mold. I don't want to give you wrong information here. Can I ask, how did you hear about us? Were you referred via that attorney that you mentioned earlier?
+[03:24] [Gwen Allen]: No, just searching for toxic mold lawyer.
+[03:30] [Receptionist]: Okay, I understand. Okay, and can I have your callback number in case we get disconnected? This number ending in 6673, is that a good callback number?
+[03:42] [Gwen Allen]: Yes.
+[03:43] [Receptionist]: Yes, okay, great. Thank you. And can I have a good email address to reach you?
+[03:52] [Gwen Allen]: It's my first name, Gwen, G-W-E-N, last name Allen, A-L-L-E-N, at protonmail.com.
+[04:04] [Receptionist]: protonmail.com. Okay, great. Thank you so much. And can I have the— can you give me the flower mound address?
+[04:12] [Gwen Allen]: 1333 River Oaks Drive, Flower Mound, 75028.
+[04:28] [Receptionist]: Okay, great. Thank you so much. Okay, I'm just double-checking some information here, please give me another moment.
+
+[04:49] [ ... Silence (622s) ... ]
+
+[15:11] [Gwen Allen]: Hello? Yeah, can you hear me? The connection— the connection's really hard to understand you, so if we're trying to do an intake, maybe I should call you back because the it's really hard to understand.
+[15:24] [Receptionist]: Oh, uh, if you want to call us back, please feel free to do so. I was just about to place you or I was just about to transfer you to someone who can further assist you. If you if it's too bad, then you can just call again.
+[15:39] [Gwen Allen]: Okay. Well, yeah, let's see if the transfer fixes the connection because it's hard to understand. It's still really crackly.
+[15:47] [Receptionist]: Okay, I just need to ask you one more question. Can you tell me what kind of injuries did you sustain?
+[15:56] [Gwen Allen]: Well, the house is damaged to where it's unlivable. I've moved out of the house.
+[16:07] [Receptionist]: Okay. And do you have any personal injuries?
+[16:10] [Gwen Allen]: I don't know.
+[16:13] [Receptionist]: Okay, I'll just make note of that. That's okay. Okay, I'm going to try to transfer you now, okay? Please hold.
+[16:19] [Gwen Allen]: Okay, thank you.
+
+[16:22] [ ... Silence (111s) ... ]
+
+[18:13] [Receptionist]: Okay, hello Miss Allen, are you still on the line?
+[18:17] [Gwen Allen]: Yes, I am.
+[18:19] [Receptionist]: Okay, yes, great. Thank you so much for waiting. I'm so sorry for the long wait. I really had to double-check everything and I apologize. It looks like unfortunately we aren't able to take your call. Um, but I do want to give you a referral for someone else who could also help with your case. There's anyone who can help there.
+[18:36] [Gwen Allen]: Okay.
+[18:38] [Receptionist]: Okay, her number is 214-500-0822.
+[18:49] [Gwen Allen]: 0822. And and am I asking for a specific lawyer at this law firm?
+[18:56] [Receptionist]: Yes, ask for Karen Ferris.
+[19:01] [Gwen Allen]: I'm sorry, it was so crackly. Karen what?
+[19:04] [Receptionist]: Ferris.
+[19:07] [Gwen Allen]: Ferris? Okay. And then just so we're clear, the McGraw— your law firm does not want my case.
+[19:24] [Receptionist]: Yes, yes. It looks like we don't specialize in mold. I'm so sorry for the confusion there.
+[19:31] [Gwen Allen]: Okay. All right, thank you.
+[19:36] [Receptionist]: Great, thank you so much and I appreciate your patience. I hope you have a good day.
+[19:40] [Gwen Allen]: You too. Bye-bye.
+[19:42] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

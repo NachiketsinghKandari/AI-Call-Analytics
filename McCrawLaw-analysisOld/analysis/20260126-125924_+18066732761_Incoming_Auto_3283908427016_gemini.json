@@ -1,0 +1,21 @@
+{
+  "caller_type": "spanish_speaker",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested to speak with a specific staff member and used Spanish. The receptionist obtained the caller's name, and an automated system informed the caller that a Spanish-speaking representative would return the call shortly before the call disconnected.",
+    "call_duration_seconds": 50.98,
+    "call_duration_formatted": "00:50"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted. The call concluded with an automated message confirming a scheduled callback from a Spanish-speaking staff member."
+  }
+}

@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McGraw Law Group: 14 turns
+  • Speaker 3 / Jeff Fletcher / Role: Caller: 12 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded. This call may be recorded for quality assurance purposes.
+[00:08] [ ... Silence (9s) ... ]
+[00:17] [Receptionist]: Hello, thank you for calling McGraw Law Group, how can I help you?
+[00:21] [Jeff Fletcher]: Yeah, my name is Jeff Fletcher, I'm an expert witness for Bob Holcrantz. Uh, I had an evaluation back in, uh, April that I needed to send an invoice for and I cannot seem to find his email or where to send that to, so I was just calling to see if you could give me some information on that.
+[00:42] [Receptionist]: Okay, give me one moment. Okay. So you're you're not an existing client, is that correct?
+[00:47] [Jeff Fletcher]: No, I'm an expert, uh, witness for him, yeah.
+[00:51] [Receptionist]: Okay. Okay. And I'm sorry, you said your name was Jeff Fletcher, is that correct?
+[00:54] [Jeff Fletcher]: Jeff Fletcher, yep.
+[00:56] [Receptionist]: Okay, is that F-L-E-T-C-H-E-R?
+[00:58] [Jeff Fletcher]: T-C-H, yep.
+[01:02] [Receptionist]: And Mr. Fletcher, may I please get the best number to reach you in case we're disconnected?
+[01:06] [Jeff Fletcher]: Yeah, 972-322-5050.
+[01:11] [Receptionist]: Okay, I have 972-322-5050.
+[01:17] [Jeff Fletcher]: Yep.
+[01:18] [Receptionist]: Is that your cell phone?
+[01:19] [Jeff Fletcher]: Yes.
+[01:20] [Receptionist]: Okay, perfect, thank you very much. And may I also get an email address to put on file for them?
+[01:27] [Jeff Fletcher]: Yeah, it's jfletcher at fletchercounseling dot com.
+[01:39] [Receptionist]: Okay, I have J-F-L-E-T-C-H-E-R at F-L-E-T-C-H-E-R-C-O-U-N-S-E-L-I-N-G dot com.
+[01:50] [Jeff Fletcher]: Correct.
+[01:51] [Receptionist]: Perfect, thank you. And you're look— and you need to send an invoice, you need to know where to send it, is that correct?
+[01:57] [Jeff Fletcher]: Yeah, the— the client's name was Charles Coons.
+[02:01] [Receptionist]: Okay.
+[02:02] [ ... Silence (20s) ... ]
+[02:22] [Receptionist]: Okay, bear with me. Okay, so Mr. Fletcher, I'm going to have to take a message and send this over to the team, um, and I'm stating that you have an invoice for the Charles Coons, um, case and that you were the expert witness, correct?
+[02:35] [Jeff Fletcher]: Correct.
+[02:37] [Receptionist]: Okay, I will send this over to the team, um, as we— after we hang up and I have your contact information. Thank you so much, have a good day.
+[02:44] [Jeff Fletcher]: Okay, thanks.
+[02:46] [Receptionist]: Alrighty, um, bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

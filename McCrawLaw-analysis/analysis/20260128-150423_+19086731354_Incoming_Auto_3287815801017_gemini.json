@@ -3,25 +3,19 @@
   "call_summary": {
     "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
-    "resolution_type": "transfer_attempted",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to a specific staff member, but after a hold period, informed the caller that the staff member and their assistant were unavailable. The receptionist then took a message and recorded the caller's email address.",
+    "final_outcome": "The receptionist identified the caller as a business vendor, checked for the requested staff member's availability, and recorded a message including a callback number and email address after confirming the staff member was unavailable.",
     "call_duration_seconds": 133.42,
     "call_duration_formatted": "02:13"
   },
   "transfer_context": {
-    "destinations": [
-      "specific_staff_member"
-    ],
-    "transfer_connection_status": [
-      false
-    ],
-    "reasons": [
-      "request_assigned_staff"
-    ],
-    "description": "The receptionist placed the caller on hold to attempt a transfer to the requested staff member, but returned to the line when the staff member was found to be unavailable."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist placed the caller on hold to check availability and returned to the line to take a message."
   }
 }

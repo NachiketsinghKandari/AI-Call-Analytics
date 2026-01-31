@@ -1,0 +1,21 @@
+{
+  "caller_type": "medical_provider",
+  "call_summary": {
+    "primary_intent": "check_case_status",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
+    "multi_case_details": false,
+    "final_outcome": "The caller requested a status update on two clients. The receptionist declined a transfer to the case manager and instead took a message to be delivered to the legal team.",
+    "call_duration_seconds": 189.36,
+    "call_duration_formatted": "03:09"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "The caller requested a transfer to the case manager, but the receptionist declined and offered to take a message instead."
+  }
+}

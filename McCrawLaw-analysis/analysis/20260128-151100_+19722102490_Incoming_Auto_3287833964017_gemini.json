@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call ended immediately after the receptionist's initial greeting following an automated message from the caller regarding a business listing.",
+    "final_outcome": "The receptionist answered an automated call regarding a business listing, and the call ended immediately after the greeting.",
     "call_duration_seconds": 21.6,
     "call_duration_formatted": "00:21"
   },

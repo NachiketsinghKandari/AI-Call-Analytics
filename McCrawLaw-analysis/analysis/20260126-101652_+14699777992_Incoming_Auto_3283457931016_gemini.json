@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested verification of a referral phone number. The receptionist stated she could not verify the information and offered to check with the staff member who provided it. The caller declined further assistance and ended the call to answer another incoming phone call.",
+    "final_outcome": "The caller requested verification of a referral phone number provided by a staff member. The receptionist offered to check for the staff member, but the caller declined further assistance as she was receiving another call.",
     "call_duration_seconds": 173.95,
     "call_duration_formatted": "02:53"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the caller withdrew the request to answer another call."
+    "description": "No transfer was attempted. The receptionist offered to check staff availability, but the caller withdrew the request to take another incoming call."
   }
 }

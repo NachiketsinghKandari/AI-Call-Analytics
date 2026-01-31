@@ -4,18 +4,24 @@
     "primary_intent": "solicitation_and_spam",
     "resolution_achieved": true,
     "resolution_basis": "fallback_accepted",
-    "resolution_type": "message_taken",
+    "resolution_type": "transfer_attempted",
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm to offer telemedicine services. The receptionist stated that no staff members were available, confirmed the caller's contact details, and took a message to be forwarded to the office.",
+    "final_outcome": "The receptionist informed the caller that no staff were available to take the call, verified the caller's contact information, and took a message to be forwarded to the office.",
     "call_duration_seconds": 142.49,
     "call_duration_formatted": "02:22"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted as the receptionist stated that no one was available to take the call and instead offered to take a message."
+    "destinations": [
+      "administration_and_operations"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "assigned_staff_unavailable"
+    ],
+    "description": "The receptionist explicitly stated that no one was available to take the call and offered to take a message, which the caller accepted."
   }
 }

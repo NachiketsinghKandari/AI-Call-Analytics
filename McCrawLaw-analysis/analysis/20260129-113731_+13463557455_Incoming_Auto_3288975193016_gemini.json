@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and patient details to send a message to the legal team for a follow-up.",
+    "final_outcome": "The receptionist collected the caller's contact information and case details for Courtney Rayford, then confirmed a message would be sent to the legal team regarding the inability to reach the patient.",
     "call_duration_seconds": 255.89,
     "call_duration_formatted": "04:15"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "description": "No transfer was attempted during this call."
   }
 }

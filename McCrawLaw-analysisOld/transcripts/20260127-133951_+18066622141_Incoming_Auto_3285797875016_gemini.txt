@@ -1,0 +1,26 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Recording: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Bey and Associates: 5 turns
+  • Speaker 3 / Andre Wells / Role: Caller: 4 turns
+
+----------------------------------------
+
+[00:00] [Recording]: This call is being recorded.
+[00:04] [Receptionist]: The Law Group.
+[00:08] [Andre Wells]: Yes ma'am. My name's Andre Wells and I'm trying to get in touch with Maria.
+[00:14] [Receptionist]: Oh, I apologize, I completely just pulled my phone off the hook. Okay. Give me just a moment.
+[00:19] [Andre Wells]: That is awesome. I do that on a regular basis.
+[00:22] [Receptionist]: I'm so sorry. Give me just a moment, I will see if Miss Maria is available. Um, did you recently inquire about a case or do you already have one open with us?
+[00:31] [Andre Wells]: No ma'am. I I recently inquired. And I was returning her phone call.
+[00:39] [Receptionist]: Okay. Awesome. Give me just a moment.
+[00:43] [Andre Wells]: Thank you so much.
+[00:44] [Receptionist]: Uh-huh.
+[00:46] [ ... Silence (12s) ... ]
+
+========================================
+TRANSCRIPT END
+========================================

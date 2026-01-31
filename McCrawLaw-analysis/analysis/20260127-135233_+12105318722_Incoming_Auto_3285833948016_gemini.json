@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "financial_and_settlement_inquiry",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
+    "resolution_basis": "fallback_accepted",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and a message regarding a settlement offer for a client, then confirmed the message would be sent to the legal team.",
+    "final_outcome": "The receptionist determined the legal team was unavailable, collected the caller's contact information and the reason for the call, and confirmed a message would be sent for a follow-up.",
     "call_duration_seconds": 209.02,
     "call_duration_formatted": "03:29"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist took a message for the legal team."
+    "description": "No transfer was attempted; the receptionist took a message after determining the team was unavailable."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "caller_type": "sales_vendor",
+  "caller_type": "business_vendor",
   "call_summary": {
     "primary_intent": "scheduling_and_appointments",
     "resolution_achieved": true,
@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and a request to schedule a meeting with a staff member, then took a message to relay to the team after determining no one was available.",
+    "final_outcome": "The receptionist collected the caller's contact information and request to schedule a meeting with Kimberly Messenger, then confirmed a message would be relayed to the team as no one was currently available.",
     "call_duration_seconds": 206.35,
     "call_duration_formatted": "03:26"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted. The receptionist gathered information and took a message directly."
   }
 }

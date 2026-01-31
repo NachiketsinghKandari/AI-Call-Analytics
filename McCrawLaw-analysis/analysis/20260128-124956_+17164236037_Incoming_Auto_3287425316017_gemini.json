@@ -4,11 +4,11 @@
     "primary_intent": "new_client_intake",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
+    "resolution_type": "intake_completed",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist gathered intake information regarding a slip and fall incident, consulted with an attorney, and informed the caller that the firm would not be able to provide representation due to the nature of the liability.",
+    "final_outcome": "The receptionist completed the intake process, consulted with an attorney, and informed the caller that the firm could not accept the case due to liability laws regarding natural ice conditions.",
     "call_duration_seconds": 335.23,
     "call_duration_formatted": "05:35"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist handled the intake and provided the firm's decision directly to the caller."
+    "description": "No transfer was attempted. The receptionist handled the intake and provided the firm's decision directly."
   }
 }

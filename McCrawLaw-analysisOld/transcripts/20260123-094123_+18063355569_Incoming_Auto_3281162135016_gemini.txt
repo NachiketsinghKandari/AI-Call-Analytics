@@ -1,0 +1,20 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Tarika / Role: Receptionist at McCalla Group: 2 turns
+  • Speaker 3 / Shalonda Jones / Role: Caller: 2 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: McCalla Group, this is Tarika, how may I help you?
+[00:07] [Shalonda Jones]: Tarika, this is Shalonda Jones, and um, I was calling to check on my case.
+[00:12] [Receptionist]: Gotcha, give me one moment, please.
+[00:15] [Shalonda Jones]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

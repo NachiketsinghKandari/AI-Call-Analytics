@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist answered the call and was immediately met with an automated recording regarding account verification, resulting in the call ending prematurely.",
+    "final_outcome": "The receptionist answered the call and was immediately met with an automated recording regarding account verification; the call ended before any operational interaction could occur.",
     "call_duration_seconds": 11.66,
     "call_duration_formatted": "00:11"
   },

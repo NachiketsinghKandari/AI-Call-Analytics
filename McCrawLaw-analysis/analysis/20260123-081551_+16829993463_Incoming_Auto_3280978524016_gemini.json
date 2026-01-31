@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "new_client_intake",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
+    "resolution_basis": "fallback_accepted",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that the case manager was unavailable, took the caller's contact information, and promised to forward the message.",
+    "final_outcome": "The caller from Progressive Insurance requested to complete a bodily injury intake for two clients. The receptionist determined the case manager was unavailable, collected the caller's contact information, and confirmed the message would be forwarded.",
     "call_duration_seconds": 73.01,
     "call_duration_formatted": "01:13"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist determined the case manager was unavailable."
+    "description": "No transfer was attempted because the receptionist identified the case manager was unavailable before initiating a transfer."
   }
 }

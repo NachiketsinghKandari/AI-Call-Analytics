@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist initiated a transfer to a specific staff member after the caller requested to speak with them regarding a client matter.",
+    "final_outcome": "The receptionist identified the caller from the Wylie Police Department and initiated a transfer to the requested staff member regarding a specific client.",
     "call_duration_seconds": 31.82,
     "call_duration_formatted": "00:31"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated they would connect the caller to the requested staff member and the call ended immediately afterward."
+    "description": "The receptionist stated she would connect the caller to Lindsay Pausik and the call ended immediately after."
   }
 }

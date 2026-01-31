@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 3 / Lionel / Role: Receptionist at Bey and Associates: 3 turns
+  • Speaker 4 / Kevin Davis / Role: Caller: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded.
+[00:06] [Receptionist]: Bey and Associates, this is Lionel. How can I help you?
+[00:11] [Kevin Davis]: Hi, Lionel. My name is Kevin Davis. I'm calling about a case.
+[00:15] [Receptionist]: Sure, Kevin. Let me look that up for you.
+[00:19] [ ... Silence (7s) ... ]
+[00:26] [Receptionist]: Okay, I see your file here. What can I do for you?
+
+========================================
+TRANSCRIPT END
+========================================

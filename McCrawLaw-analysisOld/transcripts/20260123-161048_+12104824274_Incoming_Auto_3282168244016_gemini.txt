@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 7 turns
+  • Speaker 3 / Luis Medrano / Role: Caller from Allstate: 6 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [Automated Voice]: This call may be recorded for quality assurance purposes.
+[00:14] [Receptionist]: Hello, thanks for calling the McCraw Law Group, how can I help you?
+[00:18] [Luis Medrano]: Hi there, my name is Luis Medrano. I'm calling from Allstate. Uh, following up with you regarding your client Julie Newton.
+[00:27] [Receptionist]: Okay, sure. Um, let me see what I can do for you. Bear with me for just a second here.
+[00:32] [Luis Medrano]: Okay.
+[00:33] [ ... Silence (12s) ... ]
+[00:45] [Receptionist]: Okay, and were you looking for any, um, specific information?
+[00:51] [Luis Medrano]: I was trying to get information regarding injuries and treatment at this point. I received you guys' letter of representation today, actually, no, two days ago.
+[01:03] [Receptionist]: Gotcha. Okay. So what I can do, um, it looks like I don't have anyone available at this second on the team to be able to transfer you over to, but do you have a good callback number by chance?
+[01:18] [Luis Medrano]: Yes, 210-482-4274.
+[01:25] [Receptionist]: Okay, wonderful. Um, so I will go ahead and pass on, um, the information that you need from our team and I will have someone reach back out to you, um, with the injuries and treatment status.
+[01:36] [Luis Medrano]: Perfect. Thank you.
+[01:38] [Receptionist]: Thank you, you take care, have a good weekend.
+[01:41] [Luis Medrano]: You too. Bye-bye.
+[01:43] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

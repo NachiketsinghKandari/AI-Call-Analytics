@@ -1,0 +1,44 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Maria / Role: Receptionist at McCraw Law Group: 14 turns
+  • Speaker 2 / Dion Ducart / Role: Caller: 12 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Receptionist]: Good morning, McCraw Law Group, this is Maria. How may I help you?
+[00:08] [Dion Ducart]: Uh, yes, my name is Dion Ducart with Gallagher Bassett and I'm returning a message and it looks like a Lambert called me. I don't know if that's a person in your office or not.
+[00:18] [Receptionist]: Okay, do you have a name of the client or anything like that?
+[00:25] [Dion Ducart]: Yeah, I do. Your client is Verdie Marie Turner.
+[00:31] [Receptionist]: Give me one moment.
+[00:33] [Dion Ducart]: Okay.
+[00:34] [ ... Silence (18s) ... ]
+[00:52] [Receptionist]: And you said you're returning a call, correct?
+[00:57] [Dion Ducart]: Correct. Yes.
+[00:59] [Receptionist]: Okay, Dion, let me put you on hold for a moment.
+[01:02] [Dion Ducart]: All right. Thank you.
+[01:04] [Receptionist]: You're welcome. What's your phone number, sir? And what did you say the name sounded like?
+[01:11] [Dion Ducart]: Uh, well, I got an email address of Lambert, L-A-M-B-E-R-T dot V-A at McCraw Law Group dot com.
+[01:24] [Receptionist]: Lambert... V-A... Hmm.
+[01:30] [Dion Ducart]: And they have Lambert as the first— as the name. I don't know if that's the first or last name, though.
+[01:36] [Receptionist]: I know, and I don't have any idea, but do you mind if I look real fast, see if I can find someone with Lambert?
+[01:42] [Dion Ducart]: Yeah, that's fine. Sure.
+[01:44] [Receptionist]: Okay.
+[01:45] [ ... Silence (28s) ... ]
+[02:13] [Receptionist]: Still looking. I don't see anything yet.
+[02:16] [Dion Ducart]: Okay.
+[02:17] [Receptionist]: Okay, what's your phone number, Dion?
+[02:19] [Dion Ducart]: It is 7-1-7, 5-0-6, 2-8-5-4.
+[02:27] [Receptionist]: 7-1-7, 5-0-6, 2-8-5-4.
+[02:31] [Dion Ducart]: Correct.
+[02:32] [Receptionist]: Thank you for calling. Have a wonderful day and take care.
+[02:35] [Dion Ducart]: Thank you. Bye.
+[02:36] [Receptionist]: You're welcome. Bye.
+
+========================================
+TRANSCRIPT END
+========================================

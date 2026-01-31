@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist located the case for Linda Saral and initiated a transfer to a specific staff member named Drake after the caller stated they were returning a voicemail.",
+    "final_outcome": "Receptionist located the case for Linda Saral and initiated a transfer to a specific staff member after the caller stated they were returning a voicemail.",
     "call_duration_seconds": 150.55,
     "call_duration_formatted": "02:30"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist stated her intent to transfer the caller to Mr. Drake and the call ended immediately after the caller acknowledged the transfer."
+    "description": "Receptionist stated intent to transfer the caller to Drake and the call ended immediately after the caller acknowledged."
   }
 }

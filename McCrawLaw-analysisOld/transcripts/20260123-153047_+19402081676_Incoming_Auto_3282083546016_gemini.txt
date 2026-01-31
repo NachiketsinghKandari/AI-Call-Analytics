@@ -1,0 +1,18 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turns
+  • Speaker 2 / Unknown / Role: Unknown: 1 turns
+  • Speaker 3 / Unknown / Role: Unknown: 1 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: Specialist.
+[00:04] [Speaker 3]: Law Group. To avoid any suspension...
+
+========================================
+TRANSCRIPT END
+========================================

@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from a specific staff member. The receptionist was in the process of looking up the case information when the call ended prematurely.",
+    "final_outcome": "The caller identified as defense counsel returning a call from a specific staff member, but the call ended while the receptionist was attempting to locate the case information.",
     "call_duration_seconds": 35.93,
     "call_duration_formatted": "00:35"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted before the call ended."
+    "description": "No transfer was attempted before the call concluded."
   }
 }

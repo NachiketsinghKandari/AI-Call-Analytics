@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's name, company, phone number, and the name of the insured party to submit a follow-up request to the legal team.",
+    "final_outcome": "The receptionist collected the caller's contact information and case details to submit a follow-up request to the legal team.",
     "call_duration_seconds": 112.18,
     "call_duration_formatted": "01:52"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist gathered information to facilitate a callback from the legal team."
+    "description": "No transfer was attempted during this call."
   }
 }

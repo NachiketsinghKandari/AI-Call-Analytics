@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 3 / Unknown / Role: Receptionist at McCraw Law Group: 8 turns
+  • Speaker 4 / Jerri Lisby / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: Hello, thank you for calling the McCraw Law Group, how can I help you?
+[00:15] [Jerri Lisby]: Um, yes ma'am, I realize I have been missing some calls from you guys and I am returning them. Uh, Drake is my attorney.
+[ ... Silence (6s) ... ]
+[00:25] [Receptionist]: Attorney Drake, okay, perfect. Can I get your first and last name with spelling?
+[00:28] [Jerri Lisby]: Jerri Lisby, J-E-R-R-I L-I-S-B-Y.
+[00:34] [Receptionist]: Thank you, Mr. Lisby. And what's a good callback number for you?
+[00:37] [Jerri Lisby]: 214-755-7134.
+[00:43] [Receptionist]: Okay, perfect. And you mentioned that you're working with Drew, right? Or Drake?
+[00:47] [Jerri Lisby]: Drake. Drake. Why'd I say Drew? Drake, yes, I'm sorry.
+[00:51] [Receptionist]: No, sorry, I think I'm the one that said Drew by mistake. Thank you.
+[00:55] [Jerri Lisby]: I pro— no, I probably did. I don't— I don't even know why. Sorry, but yeah. Drake, that's the guy.
+[01:02] [Receptionist]: Okay, perfect. And thank you so much for all the information, Mr. Lisby. I don't have the legal team available at this moment, but I will definitely let them know that you're returning the phone call.
+[01:12] [Jerri Lisby]: Okay, that sounds good.
+[01:14] [Receptionist]: Perfect. Thank you so much for your time though. Have a good one.
+[01:17] [Jerri Lisby]: You too. Bye-bye.
+[01:19] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

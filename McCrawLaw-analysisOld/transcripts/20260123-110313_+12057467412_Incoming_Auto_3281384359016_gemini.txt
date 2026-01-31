@@ -1,0 +1,29 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Jessica / Role: Receptionist at McCall Group: 6 turns
+  • Speaker 3 / Teherish Jamil / Role: Caller: 5 turns
+  • Speaker 4 / Unknown / Role: Background Speaker: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: McCall Group, this is Jessica, how may I help you?
+[00:06] [Teherish Jamil]: Hi Jessica, can I speak with Amy Kaufman, Amy Hefner? This is, um, she's my case manager for litigation.
+[00:14] [Receptionist]: Okay, can I get your first and last name?
+[00:16] [Teherish Jamil]: Yeah, first name is Teherish, last name is Jamil, J-A-M-I-L.
+[00:20] [Receptionist]: All right, give me one moment.
+[00:24] [Receptionist]: I am so sorry for that hold there, ma'am. It does look like Amy is currently tied up on the other line now, but I will go ahead and forward her a message that way she can return your call as soon as she can.
+[00:34] [Teherish Jamil]: Can I give you the message, please? Um, can you tell her that on day— Monday's a litigation day, arbi—
+[00:42] [Speaker 4]: Mediation.
+[00:43] [Teherish Jamil]: What is it? Mediation day. So we— my husband do want to be on that call, so if she can send us a Zoom link, um, that'll be great because he wants to be on the call when that meeting happens, pretty much.
+[00:53] [Receptionist]: Okay. All right, I will go ahead and let her know and she should be reaching out. You have a nice day.
+[00:59] [Teherish Jamil]: Okay, thank you. Bye.
+[01:01] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

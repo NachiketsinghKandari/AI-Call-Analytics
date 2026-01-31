@@ -1,0 +1,49 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Recording: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Recording: 1 turn
+  • Receptionist / Lizzie / Role: Receptionist at McCalla Law Group: 14 turns
+  • Bridgette Clark / Bridgette Clark / Role: Caller from Bluefire Insurance: 10 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded for quality assurance purposes.
+[00:10] [Receptionist]: Hello, thank you for calling McCalla Law Group, how can I help you?
+[00:14] [Bridgette Clark]: Yes, hi, this is Bridget, I'm calling from Bluefire Insurance and I was calling to follow up regarding your client, Leonardo Ornelas.
+[00:26] [Receptionist]: Okay, uh, let's see.
+[00:29] [ ... Silence (10s) ... ]
+[00:39] [Receptionist]: Ms. Bridget, can I get your first and last name with spelling, please?
+[00:41] [Bridgette Clark]: Yes, it's B-R-I-G-G-E-T-T-E and the last name is Clark, C-L-A-R-K.
+[00:47] [Receptionist]: Okay, and a good callback number in case we get disconnected?
+[00:51] [Bridgette Clark]: It's a 972-827-3622.
+[00:56] [Receptionist]: Okay, thank you for that, and a good email address?
+[00:59] [Bridgette Clark]: It's claims, C-L-A-I-M-S dot docs, D-O-C-S at bluefireins.com.
+[01:12] [Receptionist]: Okay, that's claims dot docs at bluefireins.com?
+[01:17] [Bridgette Clark]: Yes, and who am I speaking with?
+[01:19] [Receptionist]: Uh, this is Lizzie.
+[01:22] [Bridgette Clark]: Okay, thank you, Lizzie.
+[01:24] [Receptionist]: You're welcome. Okay, and what did you mention was the reason for the call?
+[01:31] [Bridgette Clark]: Following up regarding our last offer, um, calling about negotiations.
+[01:37] [Receptionist]: Okay.
+[01:38] [ ... Silence (11s) ... ]
+[01:49] [Receptionist]: And you mentioned a specific claim, correct?
+[01:52] [Bridgette Clark]: Yes, if you need the client's name again?
+[01:54] [Receptionist]: Yes, ma'am.
+[01:55] [Bridgette Clark]: It's Leonardo, L-E-O-N-A-R-D-O, Ornelas, O-R-N-E-L-A-S. O-R-N-E-L-A-S.
+[02:13] [Receptionist]: Thank you so much for confirming that.
+[02:14] [ ... Silence (7s) ... ]
+[02:21] [Receptionist]: Okay, it looks like I don't have anyone available right at this moment, but I've taken down the information and I will get it over to the team.
+[02:29] [Bridgette Clark]: Okay, you said your name was Liz?
+[02:31] [Receptionist]: Lizzie, yes ma'am.
+[02:33] [Bridgette Clark]: Okay, thank you.
+[02:34] [Receptionist]: You're welcome, have a good afternoon.
+[02:37] [Bridgette Clark]: You too. Bye-bye.
+[02:39] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

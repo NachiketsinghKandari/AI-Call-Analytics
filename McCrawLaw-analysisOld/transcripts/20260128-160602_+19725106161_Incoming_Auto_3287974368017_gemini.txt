@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at McCall Law Group: 11 turns
+  • Speaker 3 / Kamesha / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:04] [Receptionist]: McCall Law Group.
+[00:06] [Kamesha]: Hi, this is Kamesha with Allstate. I was following up on an offer I just sent over for client Nicholas Gutierrez.
+[00:14] [Receptionist]: Okay, let me get Nicholas pulled up.
+[00:18] [ ... Silence (7s) ... ]
+[00:25] [Receptionist]: You said Gutierrez was the last name?
+[00:27] [Kamesha]: Yes, ma'am.
+[00:29] [Receptionist]: Okay, let me see here. Okay, give me just a moment.
+[00:38] [Kamesha]: Thank you.
+[00:40] [Receptionist]: You're welcome. Are you able to hear me?
+[00:44] [Kamesha]: Yes, I can hear you.
+[00:45] [Receptionist]: Oh, I'm so sorry. I'm going to try to put you through again. I guess my phone wasn't going through. Give me just a moment.
+[00:51] [Kamesha]: Okay, thank you.
+[00:53] [Receptionist]: Okay, can you hear me?
+[00:55] [Kamesha]: I can hear you.
+[00:56] [Receptionist]: Oh, I'm so sorry. I'm trying to get it through to the attorney. Give me just a second.
+[01:01] [Kamesha]: Okay, thank you.
+[01:03] [Receptionist]: Okay, I am so sorry about that. I'm— we're trying a new phone system and I was trying to put him on hold and then it was holding you, so I do apologize. Um, I was able to speak with John, he is the attorney on that. Um, he is still waiting to review it with our client. Um, he's in hopes to give you a call back tomorrow.
+[01:24] [Kamesha]: Okay, that sounds great. Thank you so— oh, well, I'm out of the office tomorrow, but let them know I'll be back in on Friday.
+[01:30] [Receptionist]: On Friday. Okay, I will let him know. Thank you.
+[01:33] [Kamesha]: Okay, thank you. Bye-bye.
+[01:35] [Receptionist]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

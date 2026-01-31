@@ -1,0 +1,31 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at Macro Law Group: 8 turns
+  • Speaker 3 / Joseph Brown / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded for purposes.
+[00:07] [Receptionist]: Hello, thank you for calling Macro Law Group, how can I help you?
+[00:11] [Joseph Brown]: Hello.
+[00:13] [Receptionist]: Hi, thank you for calling Macro Law Group, how can I help you?
+[00:16] [Joseph Brown]: So yes, my name is Joseph Brown and um I was just calling uh I don't know who my attorney is now I got an email from her yesterday I think or or him but I've I've been in an accident I'm in the hospital.
+[00:29] [Receptionist]: Oh, I'm so sorry to hear that. Are you an existing client Mr. Brown?
+[00:33] [Joseph Brown]: Um I think I was supposed to have a meeting with one of them with the attorney on sometime this week Thursday but I don't know if I'll make that because I'm here now.
+[00:47] [Receptionist]: Okay. One second please. So you don't know who your attorney is?
+[00:53] [Joseph Brown]: It was Ian and then I got switched over to a litigation lady um so I'll have to I can look in my email but I'm not getting good reception here where I'm at.
+[01:06] [Receptionist]: Okay. Give me just one second. So you just need to speak to the attorney?
+[01:12] [Joseph Brown]: Um not yet I guess I guess I can call tomorrow when they're open.
+[01:17] [Receptionist]: No you're fine. Give me just one second please. Um so is there anything specific that you wanted to discuss with them? They're not available right now but I'll leave them a message. Is there anything you want to tell them?
+[01:29] [Joseph Brown]: I'll just call them tomorrow.
+[01:32] [Receptionist]: Not a problem Mr. Brown. Um thank you so much for calling Macro Law Group. Bye-bye.
+[01:38] [Joseph Brown]: Oh bye-bye.
+[01:39] [Receptionist]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

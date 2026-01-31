@@ -1,14 +1,14 @@
 {
   "caller_type": "medical_provider",
   "call_summary": {
-    "primary_intent": "document_and_evidence_submission",
+    "primary_intent": "administrative_request",
     "resolution_achieved": true,
     "resolution_basis": "transfer_path_entered",
     "resolution_type": "transfer_attempted",
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist requested the caller to hold to address an inquiry regarding a letter of protection and the call ended immediately afterward.",
+    "final_outcome": "The receptionist asked the caller to hold to check on the status of a Letter of Protection for a mutual client, and the call ended as the caller was placed into the transfer path.",
     "call_duration_seconds": 55.01,
     "call_duration_formatted": "00:55"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "administrative_billing_inquiry"
     ],
-    "description": "The receptionist asked the caller to hold to check on the status of a document and the call ended, indicating the caller was placed into the transfer path."
+    "description": "The receptionist requested the caller to hold to address the inquiry regarding a Letter of Protection, and the call concluded as the transfer path was initiated."
   }
 }

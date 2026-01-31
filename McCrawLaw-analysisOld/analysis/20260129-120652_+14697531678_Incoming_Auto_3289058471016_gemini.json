@@ -1,0 +1,21 @@
+{
+  "caller_type": "family_member",
+  "call_summary": {
+    "primary_intent": "speak_with_staff",
+    "resolution_achieved": true,
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "callback_scheduled",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
+    "multi_case_details": false,
+    "final_outcome": "The receptionist placed the caller on hold to consult with the attorney internally and returned to the line to confirm that the attorney would call the caller back later that day.",
+    "call_duration_seconds": 120.96,
+    "call_duration_formatted": "02:00"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted; the receptionist consulted with staff while the caller was on hold and then returned to the line."
+  }
+}

@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The call ended after an automated recording notice and a brief statement from the caller regarding healthcare provision, with no receptionist interaction or terminal action taken.",
+    "final_outcome": "The call ended after a brief statement from the caller regarding healthcare services; no receptionist interaction or operational resolution occurred.",
     "call_duration_seconds": 11.52,
     "call_duration_formatted": "00:11"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "description": "No transfer was attempted."
   }
 }

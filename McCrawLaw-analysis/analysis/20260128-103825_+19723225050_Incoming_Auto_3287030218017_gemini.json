@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and details regarding an invoice for the Charles Coons case, then informed the caller that a message would be sent to the team.",
+    "final_outcome": "The receptionist collected the caller's contact information and case details to send a message to the legal team regarding an invoice submission.",
     "call_duration_seconds": 168.77,
     "call_duration_formatted": "02:48"
   },

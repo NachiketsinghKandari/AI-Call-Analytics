@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and the case name, then took a message regarding a settlement offer to be delivered to the legal team because the office was not yet open.",
+    "final_outcome": "The caller from Progressive called to present a settlement offer. The receptionist informed the caller the office was not yet open and took a message to deliver to the legal team.",
     "call_duration_seconds": 111.96,
     "call_duration_formatted": "01:51"
   },

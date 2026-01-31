@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "intake_completed",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected contact and case information regarding a motor vehicle accident involving the caller's brother and informed the caller that the legal team would review the details and follow up.",
+    "final_outcome": "The receptionist gathered contact information and case details regarding a motor vehicle accident involving the caller's brother and informed the caller that the legal team would follow up.",
     "call_duration_seconds": 442.8,
     "call_duration_formatted": "07:22"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted; the receptionist handled the intake directly."
   }
 }

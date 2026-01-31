@@ -1,14 +1,14 @@
 {
-  "caller_type": "family_member",
+  "caller_type": "existing_client",
   "call_summary": {
-    "primary_intent": "new_client_intake",
+    "primary_intent": "check_case_status",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": true,
-    "final_outcome": "The receptionist confirmed the caller did not wish to pursue a personal injury claim, explained the nature of spam calls, and documented a request for the assigned case manager to contact the caller's husband regarding property damage.",
+    "final_outcome": "The receptionist confirmed she would void the caller's intake documents and committed to sending a message to the assigned case manager to follow up with the caller's husband regarding the property damage claim.",
     "call_duration_seconds": 509.18,
     "call_duration_formatted": "08:29"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted; the receptionist handled the inquiry directly and promised a follow-up from the case manager."
+    "description": "No transfer was attempted. The receptionist handled the inquiries by providing information and taking a message for the case manager."
   }
 }

@@ -1,0 +1,32 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Wesley / Role: Receptionist at McCraw Law Group: 8 turns
+  • Speaker 3 / Vasil / Role: Caller: 7 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality—
+[00:07] [Receptionist]: Hello, thank you for calling the McCraw Law Group, how can I help you?
+[00:11] [Vasil]: Hi, I see two two missed calls from you.
+[00:15] [Receptionist]: Okay, you said you had two missed calls from us?
+[00:19] [Vasil]: Yes, miss.
+[00:21] [Receptionist]: Okay, can I have your name, please?
+[00:24] [Vasil]: Who's this first of all?
+[00:28] [Receptionist]: Uh, so my name is Wesley, I'm a receptionist with the McCraw Law Group. We're a personal injury lawyer firm.
+[00:37] [Vasil]: Oh, I got it. This is Vasil.
+[00:42] [Receptionist]: Okay, um, I'm sorry?
+[00:46] [Vasil]: I think I have spoken with Christoff on Friday about a potential case.
+[00:51] [Receptionist]: Okay, so you were speaking to us about a a personal injury case?
+[00:56] [Vasil]: Yeah, but I have already find somebody else. Thank you anyway.
+[00:59] [Receptionist]: Okay, no problem.
+[01:02] [Vasil]: I'll let you know if anything, alright?
+[01:05] [Receptionist]: Okey-dokey.
+
+========================================
+TRANSCRIPT END
+========================================

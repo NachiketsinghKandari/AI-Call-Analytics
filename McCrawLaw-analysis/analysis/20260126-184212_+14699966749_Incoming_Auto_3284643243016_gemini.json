@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_no_fallback",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller notified the firm of his hospitalization and likely absence from a scheduled meeting. The receptionist determined the attorney was unavailable and offered to take a message. The caller declined the offer and stated he would call back the following day.",
+    "final_outcome": "The caller notified the firm that he might miss a scheduled meeting due to being hospitalized. The receptionist offered to take a message for the attorney, but the caller declined the offer and stated he would call back the following day.",
     "call_duration_seconds": 100.15,
     "call_duration_formatted": "01:40"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist checked for the attorney's availability and informed the caller they were unavailable."
+    "description": "No transfer was attempted; the receptionist checked availability and informed the caller the staff was unavailable."
   }
 }

@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller returned a missed call from the firm. The receptionist identified the staff member who likely initiated the call, informed the caller she was unavailable, and took a message for a callback.",
+    "final_outcome": "The caller was returning a missed call. The receptionist identified the staff member who called, noted that she was unavailable, and took a message for a callback.",
     "call_duration_seconds": 172.22,
     "call_duration_formatted": "02:52"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist placed the caller on hold to identify the staff member and then returned to the line to take a message."
+    "description": "No transfer was attempted. The receptionist placed the caller on hold to identify the staff member and then offered to take a message."
   }
 }

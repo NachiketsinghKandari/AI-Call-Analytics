@@ -1,14 +1,14 @@
 {
-  "caller_type": "new_client",
+  "caller_type": "business_vendor",
   "call_summary": {
-    "primary_intent": "unknown_or_undetermined",
+    "primary_intent": "solicitation_and_spam",
     "resolution_achieved": false,
     "resolution_basis": "no_terminal_action",
     "resolution_type": "interaction_failed",
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The transcript contains only an automated recording or news broadcast snippet and ends before any interaction between a caller and a receptionist occurs.",
+    "final_outcome": "The call consisted of a recording regarding a campus center opening and terminated abruptly without any interaction or operational resolution.",
     "call_duration_seconds": 26.14,
     "call_duration_formatted": "00:26"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as no interaction took place."
+    "description": "No transfer was attempted."
   }
 }

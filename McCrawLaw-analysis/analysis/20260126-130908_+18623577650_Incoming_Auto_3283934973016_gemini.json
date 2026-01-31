@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist greeted the caller twice, but the call ended without any verbal response or request from the caller.",
+    "final_outcome": "The receptionist greeted the caller twice, but no response was received and the call disconnected.",
     "call_duration_seconds": 17.86,
     "call_duration_formatted": "00:17"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the caller did not engage in the conversation."
+    "description": "No transfer was attempted as the caller did not respond to the greeting."
   }
 }

@@ -1,0 +1,36 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 3 / Unknown / Role: Receptionist at McGraw Law Group: 9 turns
+  • Speaker 4 / Addison Rurak / Role: Caller: 9 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: Thank you for calling McGraw Law Group, how can I help you?
+[00:14] [Addison Rurak]: Uh, yes. I was calling to see if I could speak to my case manager, uh, Case— Kelsey or I can't— I'm sorry, uh, Contreras?
+[00:26] [Receptionist]: Let me take a look to see who is available. So you said, uh, Kelsey Contreras?
+[00:33] [Addison Rurak]: Yes, sir. I almost called you ma'am, I'm sorry.
+[00:37] [Receptionist]: No, no problem. No problem at all. I do that all day long and then people get upset at me. It just takes so many calls. Give me one second here. Let me pull up your information. What is your first and last name?
+[00:47] [Addison Rurak]: My first name is Addison, my last name is Rurak, R-U-R-A-K.
+[00:53] [Receptionist]: All right, Ms. Addison. Give me one moment. I'm going to send Ms. Kelsey a message here. Uh, what did you need from her just so I can let her know? Were you looking for updates on your case?
+[01:03] [Addison Rurak]: Uh, yes, sir. I mean, she can email it to me as well if she needs to. I also need to— 'cause I can't find her email in my emails, I have too many emails as well.
+[01:16] [Receptionist]: Let me take a look. Give me a moment. I do have your phone number saved here, but I don't have an email for you, Ms. Addison. If you don't mind sharing one with me?
+[01:27] [Addison Rurak]: Uh, yes. It's A-D-D-I-E-R-U-R-A-K-0-9 at gmail dot com.
+[01:41] [Receptionist]: A-D-D-I-E-R-U-R-A-K-0-9 at gmail dot com.
+[01:47] [Addison Rurak]: Yes.
+[01:48] [Receptionist]: All right. And it does look like Ms. Contreras is currently unavailable, Ms. Rurak, but let me forward her a message and I'll have her reach out to you as soon as possible. I'll let her know to— if she needs to that she can email you here just with an update, okay?
+[02:03] [Addison Rurak]: Okay, yes, sir. Thank you.
+[02:05] [Receptionist]: Thank you. Have a good day.
+[02:07] [Addison Rurak]: You too.
+[02:08] [Receptionist]: Bye-bye.
+[02:09] [Addison Rurak]: Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

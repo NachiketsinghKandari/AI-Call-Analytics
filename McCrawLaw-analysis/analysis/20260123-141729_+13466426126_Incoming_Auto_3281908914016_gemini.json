@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call from the firm. The receptionist was unable to identify the specific staff member who called and requested a callback number, but the call ended before the information was provided or the interaction was completed.",
+    "final_outcome": "The caller was returning a call from the firm. The receptionist was unable to identify the staff member who initiated the call and requested a callback number, but the call ended before the caller provided any contact information.",
     "call_duration_seconds": 58.46,
     "call_duration_formatted": "00:58"
   },

@@ -1,14 +1,14 @@
 {
   "caller_type": "existing_client",
   "call_summary": {
-    "primary_intent": "returning_call",
+    "primary_intent": "speak_with_staff",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller provided their name and phone number for a callback as requested by the firm's recorded greeting.",
+    "final_outcome": "The caller provided their name and phone number for a callback after the receptionist requested the information.",
     "call_duration_seconds": 44.14,
     "call_duration_formatted": "00:44"
   },

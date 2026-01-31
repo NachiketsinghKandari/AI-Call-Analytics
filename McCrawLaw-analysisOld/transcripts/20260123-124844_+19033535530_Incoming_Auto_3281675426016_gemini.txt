@@ -1,0 +1,16 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Tarka / Role: Receptionist at The Callaw Group: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Receptionist]: The Callaw Group, this is Tarka, how may I help you?
+
+========================================
+TRANSCRIPT END
+========================================

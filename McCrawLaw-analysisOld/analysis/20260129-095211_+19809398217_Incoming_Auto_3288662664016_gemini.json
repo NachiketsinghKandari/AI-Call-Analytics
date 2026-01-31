@@ -1,0 +1,21 @@
+{
+  "caller_type": "business_vendor",
+  "call_summary": {
+    "primary_intent": "administrative_request",
+    "resolution_achieved": true,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "callback_scheduled",
+    "multi_case_details": false,
+    "final_outcome": "The caller from Spectrum Business requested to speak with specific staff regarding the firm's business account. The receptionist determined the staff member was unavailable due to technical issues, collected the caller's direct callback number, and confirmed the message would be forwarded for a return call.",
+    "call_duration_seconds": 107.42,
+    "call_duration_formatted": "01:47"
+  },
+  "transfer_context": {
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted as the receptionist determined the requested party was unavailable before initiating a transfer path."
+  }
+}

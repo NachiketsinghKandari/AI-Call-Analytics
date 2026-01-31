@@ -1,0 +1,38 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 2 turns
+  • Speaker 2 / Unknown / Role: Receptionist at McGraw Law Office: 10 turns
+  • Speaker 3 / JT Biggins / Role: Caller from The Hartford Insurance Company: 10 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 1]: This call may be recorded for quality assurance purposes.
+[00:07] [ ... Silence (8s) ... ]
+[00:15] [Receptionist]: McGraw Law Office, how can I help you?
+[00:17] [JT Biggins]: Hi, I am trying to reach Tanisha, please.
+[00:20] [Receptionist]: Just to confirm, are you already an existing client of ours?
+[00:23] [JT Biggins]: Yes, your client Raquel Billar, B-I-L-L-A-R.
+[00:32] [Receptionist]: I'm sorry, may I have your name, please?
+[00:34] [JT Biggins]: Oh yes, I'm sorry, my name is JT, uh, last name Biggins, B-E-G-I-N-N-S.
+[00:45] [Receptionist]: And I'm sorry, are you an attorney? Are you an existing client?
+[00:48] [JT Biggins]: I am calling from The Hartford Insurance Company regarding your client, Raquel Billar.
+[00:56] [Receptionist]: What is your callback number?
+[00:58] [JT Biggins]: Area code 210-591-4736.
+[01:09] [Receptionist]: And your email address, please?
+[01:11] [JT Biggins]: J-O-H-N dot B-E-G-I-N-N-S, just like begins, at thehartford.com.
+[01:26] [Receptionist]: Is there something specific to this client that you wanted to discuss?
+[01:29] [JT Biggins]: Uh, yes, I've been trying to reach Tanisha for about a week now. We've kind of been playing phone tag. Um, could you confirm her email address? She tried to leave it in a voicemail, but it got a little garbled and I didn't quite catch it all. I think it was just T-Cobb at mcgrawlawgroup.com. Do you have access to that?
+[01:50] [Receptionist]: Yes, that is correct.
+[01:52] [JT Biggins]: Okay, great. I'll try her there. Uh, but if you could just let her know I called as well.
+[01:57] [Receptionist]: Okay, not a problem. I will let her know.
+[01:59] [JT Biggins]: Thank you so much.
+[02:01] [Receptionist]: Have a wonderful day.
+[02:02] [JT Biggins]: You too.
+
+========================================
+TRANSCRIPT END
+========================================

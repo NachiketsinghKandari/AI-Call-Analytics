@@ -8,7 +8,7 @@
     "operational_terminal_state": "entered_transfer_path",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected contact information and incident details regarding a motor vehicle accident involving the caller's daughter and initiated a transfer for a consultation.",
+    "final_outcome": "The receptionist collected contact and incident information for a new personal injury matter and initiated a transfer for a consultation.",
     "call_duration_seconds": 320.83,
     "call_duration_formatted": "05:20"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "specialized_knowledge_required"
     ],
-    "description": "After completing the intake questionnaire, the receptionist stated they would attempt a transfer and the call concluded."
+    "description": "The receptionist stated they would attempt a transfer after gathering the caller's intake details and the call ended immediately following the statement."
   }
 }

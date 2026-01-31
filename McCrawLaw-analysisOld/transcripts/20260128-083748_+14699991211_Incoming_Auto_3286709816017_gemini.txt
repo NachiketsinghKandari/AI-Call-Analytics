@@ -1,0 +1,30 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Automated Voice / Role: Unknown: 1 turn
+  • Speaker 2 / Unknown / Role: Unknown: 7 turns
+  • Speaker 3 / Zane / Role: Unknown: 7 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:04] [Speaker 2]: Hey, Zane.
+[00:06] [Zane]: Hey.
+[00:07] [Speaker 2]: It's coming through now. Is it working? Okay.
+[00:10] [Zane]: Yeah, at least, I don't know, call came through for me.
+[00:13] [Speaker 2]: Yeah, that's weird.
+[00:15] [Zane]: Okay. Um, I wonder if others are getting it too.
+[00:23] [Speaker 2]: Yeah, let me ask them and then I think I might try calling and see if they're able to answer too.
+[00:32] [Zane]: Okay, yeah, check with them and see. 'Cause I checked all the settings and the queue is working fine too.
+[00:42] [Speaker 2]: Okay.
+[00:45] [Zane]: Yeah, just let me know.
+[00:47] [Speaker 2]: Okay, sounds good. Thank you so much for your help.
+[00:50] [Zane]: All right. You're welcome.
+[00:51] [Speaker 2]: Okay. Bye.
+[00:52] [Zane]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

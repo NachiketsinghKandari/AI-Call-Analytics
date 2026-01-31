@@ -6,9 +6,9 @@
     "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
     "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's inquiry regarding case status for a specific client, verified the caller's contact information, and stated the information would be passed to the legal team for review and follow-up.",
+    "final_outcome": "The receptionist confirmed the caller's contact information and the client's name, then stated they would pass the request for demand status to the legal team for a follow-up.",
     "call_duration_seconds": 112.75,
     "call_duration_formatted": "01:52"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted. The receptionist took a message to be passed to the legal team."
+    "description": "No transfer was attempted; the receptionist took a message for the legal team."
   }
 }

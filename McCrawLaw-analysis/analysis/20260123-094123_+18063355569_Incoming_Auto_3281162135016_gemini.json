@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a case status update, and the call ended after the receptionist asked for a moment to look up the information.",
+    "final_outcome": "The caller requested a case status update, but the call ended while the receptionist was placing the caller on hold or looking up information.",
     "call_duration_seconds": 16.2,
     "call_duration_formatted": "00:16"
   },

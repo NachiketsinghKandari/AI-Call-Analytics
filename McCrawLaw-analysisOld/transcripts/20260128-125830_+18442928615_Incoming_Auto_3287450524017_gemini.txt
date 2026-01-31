@@ -1,0 +1,37 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Recording Notice: 1 turn
+  • Speaker 2 / Unknown / Role: Automated Recording Notice: 1 turn
+  • Speaker 3 / Unknown / Role: Receptionist at The Crowley Law Group: 9 turns
+  • Speaker 4 / Malaysia / Role: Caller from State Farm: 8 turns
+
+----------------------------------------
+
+[00:00] [Speaker 1]: This call is being recorded.
+[00:03] [Speaker 2]: This call may be recorded for quality assurance purposes.
+[00:10] [Receptionist]: Hello, thank you for calling the Crowley Law Group, how can I help you?
+[00:13] [Malaysia]: Hi, good afternoon, this is Malaysia from State Farm. I'm calling for a return the call to Miss Tehugh on Gian Antonio De Felice's claim.
+[00:23] [Receptionist]: Okay, yeah, I'd be happy to see how I can help you today. Bear with me one moment, please.
+[00:29] [ ... Silence (5s) ... ]
+[00:34] [Receptionist]: All right, and can I get a good phone number, please, in case we get disconnected?
+[00:40] [Malaysia]: Yes, it's 972-732-5652.
+[00:45] [Receptionist]: All right, and is an— is there an email you can leave?
+[00:49] [Malaysia]: No, ma'am.
+[00:52] [Receptionist]: Okay. Okay, and I'm sorry, if you could remind me the reason for the call?
+[00:59] [Malaysia]: I'm returning the attorney's call to continue negotiations.
+[01:04] [ ... Silence (9s) ... ]
+[01:13] [Receptionist]: And what was the client's name, if you wouldn't mind spelling that for me, please?
+[01:18] [Malaysia]: Yeah, it's G-I-A-N-T-O-N-I-O first name. Last name is D-E-F as in Frank-E-L-I-C-E.
+[01:28] [Receptionist]: Okay, and that first letter was D as in dog?
+[01:33] [Malaysia]: Yes.
+[01:35] [Receptionist]: Okay. All right, I don't have anyone available to take the call right now, but I will go ahead and pass along the message that you were, um, calling back to continue negotiations, okay?
+[01:47] [Malaysia]: Yes, ma'am, thank you.
+[01:49] [Receptionist]: Thank you for calling, have a good day.
+[01:51] [Malaysia]: Bye.
+
+========================================
+TRANSCRIPT END
+========================================

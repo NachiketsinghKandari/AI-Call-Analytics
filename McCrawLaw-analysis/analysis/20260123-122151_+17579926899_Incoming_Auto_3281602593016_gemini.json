@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "returning_call",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
-    "resolution_type": "callback_scheduled",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "callback_scheduled",
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller contacted the firm to return a call regarding medical bills for their case. The receptionist determined the staff member was unavailable, confirmed the caller's phone number, and scheduled a callback.",
+    "final_outcome": "The caller provided information regarding a medical bill and the receptionist confirmed the callback number, stating they would notify the staff member.",
     "call_duration_seconds": 82.15,
     "call_duration_formatted": "01:22"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted as the receptionist identified the staff member was unavailable and proceeded to schedule a callback."
+    "description": "No transfer was attempted; the receptionist took a message for a staff member who was currently on another call."
   }
 }

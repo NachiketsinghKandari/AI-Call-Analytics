@@ -1,0 +1,22 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Tarika / Role: Receptionist at The McCall Law Group: 3 turns
+  • Speaker 2 / Unknown / Role: Caller: 3 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Speaker 3]: This call is being recorded.
+[00:03] [Receptionist]: The McCall Law Group, this is Tarika, how may I help you?
+[00:06] [Speaker 2]: Uh, yes, uh, my phone, uh, got disconnected. Uh, I had an email from Mr. Drake Pew.
+[00:13] [Receptionist]: Oh, okay. Let me try to make sure that y'all get re-reconnected.
+[00:18] [Speaker 2]: Okay, sorry about that.
+[00:20] [Receptionist]: No, that's perfectly fine. Give me one moment, please.
+[00:22] [Speaker 2]: Okay.
+
+========================================
+TRANSCRIPT END
+========================================

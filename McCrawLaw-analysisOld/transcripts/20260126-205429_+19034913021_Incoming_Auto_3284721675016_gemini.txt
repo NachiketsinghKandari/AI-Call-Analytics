@@ -1,0 +1,29 @@
+========================================
+    TRANSCRIPT START
+    ========================================
+
+    SPEAKERS IDENTIFIED:
+      • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+      • Speaker 2 / Unknown / Role: Receptionist at McCraw Law Group: 6 turns
+      • Speaker 3 / Unknown / Role: Caller: 6 turns
+
+    ----------------------------------------
+
+    [00:00] [Speaker 1]: This call is being recorded purposes.
+    [ ... Silence (8s) ... ]
+    [00:10] [Receptionist]: Hello, thank you for calling McCraw Law Group, how can I help you?
+    [00:14] [Speaker 3]: Yes, I saw y'all uh advert right online for for free stupid.
+    [00:21] [Receptionist]: It sounds like a Google search?
+    [00:23] [Speaker 3]: I said I said a advert right.
+    [00:28] [Receptionist]: I I do apologize sir, this is the McCraw Law Group, this is a law firm. Is that who you need to call?
+    [00:34] [Speaker 3]: Oh yes.
+    [00:35] [Receptionist]: This is a law firm, it's McCraw Law Group.
+    [00:41] [Speaker 3]: What that mean?
+    [00:42] [Receptionist]: It's a law firm, sir.
+    [00:45] [Speaker 3]: What you lost some money?
+    [00:49] [Receptionist]: Uh, not sure what you mean. We're a law firm, we deal with things like uh like personal injury, like car accidents, dog bites, all that.
+    [00:58] [Speaker 3]: Oh okay.
+
+    ========================================
+    TRANSCRIPT END
+    ========================================

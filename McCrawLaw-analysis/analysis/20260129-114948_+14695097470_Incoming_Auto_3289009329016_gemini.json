@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller greeted the receptionist in Spanish, but the call ended before a clear intent or operational terminal state was reached.",
+    "final_outcome": "The caller greeted the receptionist in Spanish and the call ended before any specific intent or terminal action was established.",
     "call_duration_seconds": 13.9,
     "call_duration_formatted": "00:13"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted."
   }
 }

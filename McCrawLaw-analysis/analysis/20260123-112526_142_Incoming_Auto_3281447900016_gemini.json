@@ -1,14 +1,14 @@
 {
-  "caller_type": "existing_client",
+  "caller_type": "law_office",
   "call_summary": {
-    "primary_intent": "administrative_request",
+    "primary_intent": "legal_operations_discussion",
     "resolution_achieved": true,
     "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
+    "resolution_type": "pending_action",
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested that the receptionist follow up with Greg Jones regarding an email thread with an adjuster, and the receptionist agreed to perform the task.",
+    "final_outcome": "The caller requested that the receptionist contact a specific individual regarding an email thread with an adjuster, and the receptionist agreed to the request.",
     "call_duration_seconds": 16.13,
     "call_duration_formatted": "00:16"
   },

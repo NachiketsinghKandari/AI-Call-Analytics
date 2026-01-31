@@ -3,12 +3,12 @@
   "call_summary": {
     "primary_intent": "check_case_status",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
+    "resolution_basis": "direct_service_completed",
     "resolution_type": "message_taken",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist informed the caller that no staff were available, collected the caller's contact information, and took a message regarding a case manager confirmation for a specific client.",
+    "final_outcome": "The receptionist collected the caller's contact information and took a message regarding a client's case manager after stating that no staff members were currently available.",
     "call_duration_seconds": 178.7,
     "call_duration_formatted": "02:58"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted because the receptionist stated that no one was available to take the call."
+    "description": "No transfer was attempted as the receptionist stated no one was available to take the call."
   }
 }

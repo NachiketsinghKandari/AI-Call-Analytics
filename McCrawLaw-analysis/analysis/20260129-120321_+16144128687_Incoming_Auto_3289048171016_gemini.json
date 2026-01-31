@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "message_taken",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to check the attorney's availability for the caller. After determining the attorney was unavailable, the receptionist took a message and a callback number from the insurance representative.",
+    "final_outcome": "The receptionist attempted to transfer the caller to an attorney, but the attorney was unavailable. The receptionist then took a message and a callback number from the caller.",
     "call_duration_seconds": 77.18,
     "call_duration_formatted": "01:17"
   },
@@ -22,6 +22,6 @@
     "reasons": [
       "request_assigned_staff"
     ],
-    "description": "The receptionist checked for the attorney's availability while the caller held; the attorney was unavailable, leading to a message being taken."
+    "description": "The receptionist checked for the attorney's availability, found they were unavailable, and returned to the line to take a message."
   }
 }

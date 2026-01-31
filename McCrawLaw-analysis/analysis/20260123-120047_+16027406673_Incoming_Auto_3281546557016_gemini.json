@@ -8,7 +8,7 @@
     "operational_terminal_state": "transfer_failed_fallback_accepted",
     "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "The receptionist attempted to transfer the caller to staff regarding a new mold-related case, but after a hold, informed the caller the firm could not take the case and provided a referral to another attorney.",
+    "final_outcome": "The receptionist completed an intake for a new mold damage case and attempted to transfer the caller to staff; however, the receptionist returned to the line to inform the caller the firm could not accept the case and provided a referral to another attorney.",
     "call_duration_seconds": 1183.46,
     "call_duration_formatted": "19:43"
   },
@@ -20,8 +20,8 @@
       false
     ],
     "reasons": [
-      "request_assigned_staff"
+      "specialized_knowledge_required"
     ],
-    "description": "The receptionist attempted to transfer the caller to see if the firm could take the case, but returned to the line to decline the matter."
+    "description": "The receptionist attempted to transfer the caller to someone who could assist further with the mold case inquiry, but returned to the line after the transfer failed to connect."
   }
 }

@@ -1,0 +1,23 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Jessica / Role: Receptionist at McCalla Law Group: 4 turns
+  • Speaker 2 / Katie / Role: Caller: 3 turns
+  • Speaker 3 / Unknown / Role: Automated Voice: 1 turn
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:05] [Receptionist]: McCalla Law Group, this is Jessica, how may I help you?
+[00:08] [Katie]: Hi, yes, I'm returning a call, um, for, um, Emily.
+[00:15] [Receptionist]: Okay, yeah, I can definitely connect you over, give me one moment.
+[00:19] [Katie]: Okay, thank you.
+[00:20] [Receptionist]: Mhm. I'm so sorry for that hold there, Katie, it does look like that was your case manager, Emily, giving you a call. She's currently tied up on the other line, but I can send her a message letting her know you were returning her call and she should be reaching out.
+[00:35] [Katie]: Okay, perfect. Thank you so much.
+[00:37] [Receptionist]: Mhm. Have a nice day. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

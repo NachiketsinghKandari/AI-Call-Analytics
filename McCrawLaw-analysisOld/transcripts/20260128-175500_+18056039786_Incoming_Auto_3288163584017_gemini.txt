@@ -1,0 +1,34 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Unknown / Role: Automated Voice: 1 turn
+  • Speaker 2 / Unknown / Role: Receptionist at The Bar Law Group: 9 turns
+  • Speaker 3 / Dawn Knowles / Role: Caller: 8 turns
+
+----------------------------------------
+
+[00:00] [Automated Voice]: This call is being recorded.
+[00:03] [ ... Silence (15s) ... ]
+[00:19] [Receptionist]: Hello, thank you for calling The Bar Law Group, how can I help you?
+[00:23] [Dawn Knowles]: Oh, hi, can you hear me?
+[00:26] [Receptionist]: Yes, ma'am. How can I help you?
+[00:28] [Dawn Knowles]: Oh, sorry. Hi, this is Dawn Knowles again. I spoke to Bryce a few minutes ago. Is— I wanted to ask him one more question. He was very helpful, but I— I want to ask a very quick question, but I wanted to see if I could have one more minute of his time.
+[00:45] [Receptionist]: Okay. Um, so I would have to get a message over to Bryce at this time, my apologies. Can you confirm your callback number, please?
+[00:52] [Dawn Knowles]: Yes, it's 805-603-9786.
+[00:58] [Receptionist]: Okay. And what kind of case was this regarding?
+[01:02] [Dawn Knowles]: Uh, it's a— an accident.
+[01:05] [Receptionist]: Okay. Um, accident. Okay. So then, I'll get a message over and let Bryce know you had one more question.
+[01:20] [Dawn Knowles]: Yes, and it'll be very quick and I'm sorry to take his time.
+[01:24] [Receptionist]: No worries. Um, so like I said, I'll have to get a message over, I'm not able to transfer at this time, but I'll let Bryce know you've had an additional question. And can you confirm, um, are you located near the Dallas-Fort Worth or Amarillo, Texas, just so I can note it down?
+[01:40] [Dawn Knowles]: Um, actually, it's— um, my son is in College Station.
+[01:44] [Receptionist]: Okay. All righty. And, um, if he's not able to get back to you by phone but would prefer email, would there possibly be an email I can put down for you?
+[01:54] [Dawn Knowles]: Yeah, it's Dawn, D-A-W-N, sunshine, Knowles, K-N-O-W-L-E-S, at gmail dot com.
+[02:06] [Receptionist]: Okay. All right, thank you for that, ma'am. So I'll get a message over to him for you, okay?
+[02:10] [Dawn Knowles]: Thank you so much. Okay, thanks. Bye.
+[02:13] [Receptionist]: You're welcome. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================

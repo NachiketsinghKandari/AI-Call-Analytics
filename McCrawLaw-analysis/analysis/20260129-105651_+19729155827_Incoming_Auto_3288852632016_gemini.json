@@ -8,7 +8,7 @@
     "operational_terminal_state": "call_terminated_prematurely",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller requested a status update on a claim. The receptionist asked the caller to wait, and the call ended before any information was provided or a transfer was initiated.",
+    "final_outcome": "The caller requested a status update on a claim. The receptionist asked for a moment to assist, but the call ended before any information was provided or a transfer was initiated.",
     "call_duration_seconds": 16.78,
     "call_duration_formatted": "00:16"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during the call."
+    "description": "No transfer was attempted."
   }
 }

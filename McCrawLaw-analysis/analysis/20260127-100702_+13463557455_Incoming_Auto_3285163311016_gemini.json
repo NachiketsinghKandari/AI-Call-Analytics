@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The receptionist collected the caller's contact information and the client's details, then took a message regarding a request for a letter of protection to be passed to the legal team.",
+    "final_outcome": "The receptionist collected the caller's contact information and the client's name to take a message regarding a missing letter of protection for scheduling purposes.",
     "call_duration_seconds": 208.08,
     "call_duration_formatted": "03:28"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted during this call."
+    "description": "No transfer was attempted; the receptionist took a message to pass along to the team."
   }
 }

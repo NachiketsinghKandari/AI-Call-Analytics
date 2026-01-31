@@ -3,25 +3,19 @@
   "call_summary": {
     "primary_intent": "returning_call",
     "resolution_achieved": true,
-    "resolution_basis": "fallback_accepted",
-    "resolution_type": "transfer_attempted",
-    "operational_terminal_state": "transfer_failed_fallback_accepted",
-    "secondary_action": "message_taken",
+    "resolution_basis": "direct_service_completed",
+    "resolution_type": "message_taken",
+    "operational_terminal_state": "direct_resolution",
+    "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller was returning a call to a specific staff member. The receptionist determined the staff member was unavailable and took a message.",
+    "final_outcome": "The caller was returning a call for a specific staff member. The receptionist confirmed the caller's identity and contact information, determined the staff member was unavailable, and took a message.",
     "call_duration_seconds": 97.78,
     "call_duration_formatted": "01:37"
   },
   "transfer_context": {
-    "destinations": [
-      "specific_staff_member"
-    ],
-    "transfer_connection_status": [
-      false
-    ],
-    "reasons": [
-      "request_assigned_staff"
-    ],
-    "description": "The receptionist checked for Rachel's availability but found she was unavailable and offered to take a message instead."
+    "destinations": [],
+    "transfer_connection_status": [],
+    "reasons": [],
+    "description": "No transfer was attempted."
   }
 }

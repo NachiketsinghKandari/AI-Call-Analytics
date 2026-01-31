@@ -8,7 +8,7 @@
     "operational_terminal_state": "direct_resolution",
     "secondary_action": null,
     "multi_case_details": false,
-    "final_outcome": "The caller identified as calling from the office to perform a test call; the receptionist confirmed the service and noted the call.",
+    "final_outcome": "The caller identified the call as a test from the office; the receptionist confirmed the identity of the answering service and noted the test.",
     "call_duration_seconds": 35.35,
     "call_duration_formatted": "00:35"
   },
@@ -16,6 +16,6 @@
     "destinations": [],
     "transfer_connection_status": [],
     "reasons": [],
-    "description": "No transfer was attempted."
+    "description": "No transfer was attempted during this call."
   }
 }

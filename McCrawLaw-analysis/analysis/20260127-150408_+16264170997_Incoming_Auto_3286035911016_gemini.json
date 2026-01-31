@@ -3,19 +3,25 @@
   "call_summary": {
     "primary_intent": "new_client_intake",
     "resolution_achieved": true,
-    "resolution_basis": "direct_service_completed",
-    "resolution_type": "information_provided",
-    "operational_terminal_state": "direct_resolution",
-    "secondary_action": null,
+    "resolution_basis": "fallback_accepted",
+    "resolution_type": "transfer_attempted",
+    "operational_terminal_state": "transfer_failed_fallback_accepted",
+    "secondary_action": "next_steps_documented",
     "multi_case_details": false,
-    "final_outcome": "The receptionist performed a full intake for a motor vehicle accident and, after a consultation hold, informed the caller that the firm could not accept the case due to a lack of insurance coverage from the liable parties.",
+    "final_outcome": "Receptionist completed an intake for a motor vehicle accident and attempted to consult with an attorney; after a hold, the receptionist informed the caller that no insurance coverage was available for the claim and advised the caller to contact the firm again if uninsured motorist coverage is confirmed.",
     "call_duration_seconds": 583.06,
     "call_duration_formatted": "09:43"
   },
   "transfer_context": {
-    "destinations": [],
-    "transfer_connection_status": [],
-    "reasons": [],
-    "description": "No transfer was attempted; the receptionist placed the caller on hold to consult with an attorney and returned to the line to conclude the call."
+    "destinations": [
+      "legal_counsel"
+    ],
+    "transfer_connection_status": [
+      false
+    ],
+    "reasons": [
+      "specialized_knowledge_required"
+    ],
+    "description": "Receptionist attempted to transfer the caller to an attorney for a consultation but returned to the line to provide the legal determination directly."
   }
 }

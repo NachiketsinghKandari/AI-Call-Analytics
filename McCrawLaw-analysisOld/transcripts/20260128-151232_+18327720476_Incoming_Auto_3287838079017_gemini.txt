@@ -1,0 +1,33 @@
+========================================
+TRANSCRIPT START
+========================================
+
+SPEAKERS IDENTIFIED:
+  • Speaker 1 / Brandy / Role: Receptionist at McCall Law Group: 8 turns
+  • Speaker 2 / Katie / Role: Caller from Geico Claims Department: 6 turns
+  • Speaker 3 / Unknown / Role: Automated System Message: 2 turns
+
+----------------------------------------
+
+[00:00] [Unknown]: This call is being recorded.
+[00:03] [Unknown]: This call may be recorded for quality assurance purposes.
+[00:11] [Receptionist]: Hello, thank you for calling McCall Law Group, how can I help you?
+[00:15] [Katie]: Hey there, this is Katie with the Geico claims department. Um, I was reaching out regarding client Nancy Ceballos.
+[00:21] [Receptionist]: All right.
+[00:23] [ ... Silence (10s) ... ]
+[00:33] [Receptionist]: And you, could you spell that last name for me, please?
+[00:38] [Katie]: Yeah, it is C-E-B-like-boy-A-L-L-O-S-like-Sam.
+[00:49] [Receptionist]: Okay, and what is it that you were wanting to, um, find out for about this client?
+[00:59] [Katie]: Yeah, I was following up on an offer.
+[01:02] [Receptionist]: Okay.
+[01:04] [ ... Silence (15s) ... ]
+[01:19] [Receptionist]: I don't have anyone to take the call right now. However, I will pass this along to the team so that way they can review that and follow up as necessary. All right?
+[01:33] [Katie]: Okay, sounds good. And I'm sorry, what was your name?
+[01:38] [Receptionist]: My name is Brandy.
+[01:40] [Katie]: Okay, thanks for your help today, Brandy. I appreciate you.
+[01:43] [Receptionist]: You're welcome. Thank you for calling. Have a wonderful evening. Goodbye.
+[01:47] [Katie]: You too. Bye-bye.
+
+========================================
+TRANSCRIPT END
+========================================
