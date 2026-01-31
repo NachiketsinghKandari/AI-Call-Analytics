@@ -45,6 +45,8 @@ export interface FileInfo {
   // VAPI-specific fields (null for non-VAPI data)
   assistantId: string | null;
   squadId: string | null;
+  // Audio file URL (null if no audio available)
+  audioUrl: string | null;
 }
 
 export type AchievedStatus = 'resolved' | 'unresolved' | 'unknown';

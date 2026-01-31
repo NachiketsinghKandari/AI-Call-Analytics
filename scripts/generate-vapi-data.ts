@@ -51,6 +51,7 @@ interface FileInfo {
   // VAPI-specific fields
   assistantId: string | null;
   squadId: string | null;
+  audioUrl: string | null;
 }
 
 interface DataStats {
@@ -197,6 +198,7 @@ function transformVapiRecord(record: VapiRecord): FileInfo | null {
     data: callData,
     assistantId: record.assistantId,
     squadId: record.squadId,
+    audioUrl: null, // VAPI doesn't have audio files
   };
 }
 

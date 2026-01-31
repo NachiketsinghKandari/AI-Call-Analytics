@@ -50,6 +50,7 @@ interface FileInfo {
   data: CallData;
   assistantId: string | null;
   squadId: string | null;
+  audioUrl: string | null;
 }
 
 interface DataStats {
@@ -151,6 +152,25 @@ function matchTxtFile(jsonName: string, txtFileNames: Set<string>): string | nul
   return null;
 }
 
+function matchMp3File(jsonName: string, mp3FileNames: Set<string>): string | null {
+  // Remove provider suffixes and .json, add .mp3
+  // e.g., "20260123-073810_+18066736677_Incoming_Auto_3280926049016_gemini.json"
+  //    -> "20260123-073810_+18066736677_Incoming_Auto_3280926049016.mp3"
+  const suffixes = ['_gemini', '_deepgram', '_soniox', '_assemblyai'];
+  for (const suffix of suffixes) {
+    if (jsonName.includes(`${suffix}.json`)) {
+      const mp3Name = jsonName.replace(`${suffix}.json`, '.mp3');
+      if (mp3FileNames.has(mp3Name)) return mp3Name;
+    }
+  }
+
+  // Fallback: direct match
+  const directMatch = jsonName.replace(/\.json$/i, '.mp3');
+  if (mp3FileNames.has(directMatch)) return directMatch;
+
+  return null;
+}
+
 function extractTransferDestination(destinations: string[]): string | null {
   for (const dest of destinations) {
     if (typeof dest === 'string' && dest.trim()) return dest;
@@ -194,6 +214,7 @@ function generate() {
   const BASE_DIR = path.join(process.cwd(), 'McCrawLaw-analysis');
   const ANALYSIS_DIR = path.join(BASE_DIR, 'analysis');
   const TRANSCRIPTS_DIR = path.join(BASE_DIR, 'transcripts');
+  const AUDIO_BASE_DIR = path.join(process.cwd(), 'McCrawLaw-Calls');
   const OUTPUT_PATH = path.join(process.cwd(), 'public', 'mccraw-data.json');
 
   // Skip generation if data already exists
@@ -221,6 +242,25 @@ function generate() {
   let txtFileNames = new Set<string>();
   if (fs.existsSync(TRANSCRIPTS_DIR)) {
     txtFileNames = new Set(fs.readdirSync(TRANSCRIPTS_DIR).filter(f => f.endsWith('.txt')));
+  }
+
+  // Scan for MP3 files in McCrawLaw-Calls subdirectories
+  const mp3Files = new Map<string, string>(); // fileName -> relative path for API
+  if (fs.existsSync(AUDIO_BASE_DIR)) {
+    const audioSubDirs = fs.readdirSync(AUDIO_BASE_DIR).filter(d => {
+      const fullPath = path.join(AUDIO_BASE_DIR, d);
+      return fs.statSync(fullPath).isDirectory() && d.startsWith('CallLog_');
+    });
+
+    for (const subDir of audioSubDirs) {
+      const subDirPath = path.join(AUDIO_BASE_DIR, subDir);
+      const mp3FileNames = fs.readdirSync(subDirPath).filter(f => f.endsWith('.mp3'));
+      for (const mp3Name of mp3FileNames) {
+        // Store relative path: CallLog_xxx/filename.mp3
+        mp3Files.set(mp3Name, `${subDir}/${mp3Name}`);
+      }
+    }
+    console.log(`Found ${mp3Files.size} MP3 files in ${audioSubDirs.length} audio directories`);
   }
 
   console.log(`Found ${jsonFileNames.length} JSON files and ${txtFileNames.size} TXT files`);
@@ -268,6 +308,13 @@ function generate() {
         ? extractTransferDestination(callData.transfer_context.destinations)
         : null;
 
+      // Find matching MP3 file
+      const mp3FileNames = new Set(mp3Files.keys());
+      const matchedMp3Name = matchMp3File(jsonName, mp3FileNames);
+      const audioUrl = matchedMp3Name && mp3Files.has(matchedMp3Name)
+        ? `/api/audio/mccraw/${mp3Files.get(matchedMp3Name)}`
+        : null;
+
       fileInfos.push({
         id: generateId(),
         path: `McCrawLaw-analysis/analysis/${jsonName}`,
@@ -285,6 +332,7 @@ function generate() {
         data: callData,
         assistantId: null,
         squadId: null,
+        audioUrl,
       });
 
       processed++;
@@ -312,6 +360,7 @@ function generate() {
   console.log(`  Processed: ${processed} files`);
   console.log(`  Failed: ${failed} files`);
   console.log(`  With transcripts: ${fileInfos.filter(f => f.transcript).length}`);
+  console.log(`  With audio: ${fileInfos.filter(f => f.audioUrl).length}`);
   console.log(`  Output: ${OUTPUT_PATH}`);
   console.log(`  Size: ${fileSizeMB} MB`);
   console.log(`\nStats:`);

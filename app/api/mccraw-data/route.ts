@@ -23,7 +23,11 @@ export async function GET() {
     }
 
     if (data) {
-      return NextResponse.json(data);
+      return NextResponse.json(data, {
+        headers: {
+          'Cache-Control': 'no-store, must-revalidate',
+        },
+      });
     }
 
     // Fallback: return empty data

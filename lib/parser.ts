@@ -220,6 +220,7 @@ export async function processFiles(
         data: callData,
         assistantId: null, // Not applicable for uploaded data
         squadId: null, // Not applicable for uploaded data
+        audioUrl: null, // Not applicable for uploaded data
       };
 
       results.push(fileInfo);

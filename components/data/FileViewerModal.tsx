@@ -12,8 +12,9 @@ import {
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { CopyButton } from '@/components/ui/copy-button';
-import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Headphones } from 'lucide-react';
 import type { FileInfo } from '@/lib/types';
+import { AudioPlayer } from './AudioPlayer';
 
 interface FileViewerModalProps {
   files: FileInfo[];
@@ -188,6 +189,16 @@ export function FileViewerModal({
               </span>
             </span>
           </DialogDescription>
+          {/* Audio Player - only shown when audioUrl is present */}
+          {file.audioUrl && (
+            <div className="mt-3">
+              <div className="flex items-center gap-2 mb-2">
+                <Headphones className="h-4 w-4 text-muted-foreground" />
+                <span className="text-sm text-muted-foreground">Call Recording</span>
+              </div>
+              <AudioPlayer src={file.audioUrl} />
+            </div>
+          )}
         </DialogHeader>
 
         {/* Side-by-side content */}

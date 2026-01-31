@@ -51,6 +51,7 @@ interface FileInfo {
   // VAPI-specific fields (null for sample data)
   assistantId: string | null;
   squadId: string | null;
+  audioUrl: string | null;
 }
 
 interface DataStats {
@@ -281,6 +282,7 @@ function generate() {
         data: callData,
         assistantId: null, // Not applicable for sample data
         squadId: null, // Not applicable for sample data
+        audioUrl: null, // Not applicable for sample data
       });
 
       processed++;

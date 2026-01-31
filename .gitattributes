@@ -1,0 +1,4 @@
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+McCrawLaw-Calls/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+Bey[[:space:]]&[[:space:]]Associates[[:space:]]-[[:space:]]Calls/*.mp3 filter=lfs diff=lfs merge=lfs -text

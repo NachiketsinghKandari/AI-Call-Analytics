@@ -7,8 +7,9 @@ import { ScrollArea } from '@/components/ui/scroll-area';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { CopyButton } from '@/components/ui/copy-button';
-import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Headphones } from 'lucide-react';
 import type { FileInfo } from '@/lib/types';
+import { AudioPlayer } from './AudioPlayer';
 
 interface FileViewerProps {
   file: FileInfo | null;
@@ -177,6 +178,16 @@ export function FileViewer({ file, currentIndex, totalFiles, onPrevious, onNext 
             <div className="mt-3 text-sm">
               <span className="text-muted-foreground">Outcome:</span>
               <p className="mt-1 text-muted-foreground italic">{file.final_outcome}</p>
+            </div>
+          )}
+          {/* Audio Player - only shown when audioUrl is present */}
+          {file.audioUrl && (
+            <div className="mt-4">
+              <div className="flex items-center gap-2 mb-2">
+                <Headphones className="h-4 w-4 text-muted-foreground" />
+                <span className="text-sm text-muted-foreground">Call Recording</span>
+              </div>
+              <AudioPlayer src={file.audioUrl} />
             </div>
           )}
         </CardContent>
