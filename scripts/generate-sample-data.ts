@@ -153,6 +153,23 @@ function matchTxtFile(jsonName: string, txtFileNames: Set<string>): string | nul
   return null;
 }
 
+function matchMp3File(jsonName: string, mp3FileNames: Set<string>): string | null {
+  // Remove provider suffixes and .json, add .mp3
+  const suffixes = ['_gemini', '_deepgram', '_soniox', '_assemblyai'];
+  for (const suffix of suffixes) {
+    if (jsonName.includes(`${suffix}.json`)) {
+      const mp3Name = jsonName.replace(`${suffix}.json`, '.mp3');
+      if (mp3FileNames.has(mp3Name)) return mp3Name;
+    }
+  }
+
+  // Fallback: direct match
+  const directMatch = jsonName.replace(/\.json$/i, '.mp3');
+  if (mp3FileNames.has(directMatch)) return directMatch;
+
+  return null;
+}
+
 function extractTransferDestination(destinations: string[]): string | null {
   for (const dest of destinations) {
     if (typeof dest === 'string' && dest.trim()) return dest;
@@ -194,7 +211,9 @@ function computeStats(files: FileInfo[]): DataStats {
 // Main generation function
 function generate() {
   const DATA_DIR = path.join(process.cwd(), 'data');
+  const AUDIO_DIR = path.join(process.cwd(), 'Bey & Associates - Calls');
   const OUTPUT_PATH = path.join(process.cwd(), 'public', 'sample-data.json');
+  const R2_BASE_URL = 'https://pub-f2d6ff6bf85041d8b86c7b26b9931dca.r2.dev';
 
   // Skip generation if sample data already exists (for CI/Vercel builds)
   if (fs.existsSync(OUTPUT_PATH)) {
@@ -217,6 +236,13 @@ function generate() {
   const allFiles = fs.readdirSync(DATA_DIR);
   const jsonFileNames = allFiles.filter(f => f.endsWith('.json'));
   const txtFileNames = new Set(allFiles.filter(f => f.endsWith('.txt')));
+
+  // Scan for MP3 files in Bey & Associates folder
+  let mp3FileNames = new Set<string>();
+  if (fs.existsSync(AUDIO_DIR)) {
+    mp3FileNames = new Set(fs.readdirSync(AUDIO_DIR).filter(f => f.endsWith('.mp3')));
+    console.log(`Found ${mp3FileNames.size} MP3 files in Bey & Associates folder`);
+  }
 
   console.log(`Found ${jsonFileNames.length} JSON files and ${txtFileNames.size} TXT files`);
 
@@ -265,6 +291,12 @@ function generate() {
         ? extractTransferDestination(callData.transfer_context.destinations)
         : null;
 
+      // Find matching MP3 file - use Cloudflare R2 URL
+      const matchedMp3Name = matchMp3File(jsonName, mp3FileNames);
+      const audioUrl = matchedMp3Name
+        ? `${R2_BASE_URL}/bey/${matchedMp3Name}`
+        : null;
+
       fileInfos.push({
         id: generateId(),
         path: jsonName,
@@ -282,7 +314,7 @@ function generate() {
         data: callData,
         assistantId: null, // Not applicable for sample data
         squadId: null, // Not applicable for sample data
-        audioUrl: null, // Not applicable for sample data
+        audioUrl,
       });
 
       processed++;

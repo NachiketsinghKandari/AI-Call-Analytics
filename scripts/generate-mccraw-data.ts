@@ -308,11 +308,12 @@ function generate() {
         ? extractTransferDestination(callData.transfer_context.destinations)
         : null;
 
-      // Find matching MP3 file
+      // Find matching MP3 file - use Cloudflare R2 URL
+      const R2_BASE_URL = 'https://pub-f2d6ff6bf85041d8b86c7b26b9931dca.r2.dev';
       const mp3FileNames = new Set(mp3Files.keys());
       const matchedMp3Name = matchMp3File(jsonName, mp3FileNames);
-      const audioUrl = matchedMp3Name && mp3Files.has(matchedMp3Name)
-        ? `/api/audio/mccraw/${mp3Files.get(matchedMp3Name)}`
+      const audioUrl = matchedMp3Name
+        ? `${R2_BASE_URL}/mccraw/${matchedMp3Name}`
         : null;
 
       fileInfos.push({
