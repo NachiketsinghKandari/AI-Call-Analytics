@@ -37,6 +37,7 @@ interface FileInfo {
   id: string;
   path: string;
   name: string;
+  callId: string;  // Semantic ID for URLs (UUID for VAPI)
   resolution_type: string;
   caller_type: string;
   resolution_achieved: boolean | null;
@@ -185,6 +186,7 @@ function transformVapiRecord(record: VapiRecord): FileInfo | null {
     id: record.id, // Use VAPI's UUID directly
     path: `vapi/${record.id}`,
     name: record.id,
+    callId: record.id, // VAPI uses UUID as call ID
     resolution_type: callSummary.resolution_type || 'no_resolution_type',
     caller_type: analysis.caller_type,
     resolution_achieved: callSummary.resolution_achieved,

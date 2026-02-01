@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useEffect } from 'react';
+import { useMemo, useEffect, useCallback, Suspense } from 'react';
 import { useHydrated, useResponsiveChartHeight } from '@/lib/hooks';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
@@ -11,7 +11,10 @@ import { useCallDataStore } from '@/store/callDataStore';
 import { applyAllFilters } from '@/lib/filters';
 import { CheckCircle2, XCircle, Phone, Clock, ArrowRightLeft, Target, Settings2, RotateCcw } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import type { SankeyPreset, CustomSankeyOptions } from '@/lib/types';
+import { ShareButton } from '@/components/ShareButton';
+import { useUrlState } from '@/hooks/useUrlState';
+import { createShareUrl, getBaseUrl } from '@/lib/urlState';
+import type { SankeyPreset, CustomSankeyOptions, FileInfo } from '@/lib/types';
 
 // Preset descriptions for the UI
 const PRESET_INFO: Record<SankeyPreset, { label: string; description: string }> = {
@@ -96,10 +99,60 @@ function KPICard({
   );
 }
 
-export default function FlowPage() {
+function FlowPageContent() {
   const hydrated = useHydrated();
   const chartHeight = useResponsiveChartHeight(350, 450, 550);
-  const { files, filters, sankeyOptions, setSankeyOptions, setSelectedFileId } = useCallDataStore();
+  const { files, filters, stats, dataSource, sankeyOptions, setSankeyOptions, setSelectedFileId } = useCallDataStore();
+  const { urlState } = useUrlState();
+
+  // Current preset (from URL or store)
+  const currentPreset = sankeyOptions.preset || 'resolution';
+
+  // Generate URLs for sharing (include data source and preset so shared links work)
+  const getNavigationUrl = useCallback(() => {
+    const url = new URL(getBaseUrl());
+    if (dataSource && dataSource !== 'none' && dataSource !== 'uploaded') {
+      url.searchParams.set('d', dataSource);
+    }
+    // Include preset if not default
+    if (currentPreset !== 'resolution') {
+      url.searchParams.set('p', currentPreset);
+    }
+    return url.toString();
+  }, [dataSource, currentPreset]);
+
+  const getShareUrl = useCallback(() => {
+    return createShareUrl(getBaseUrl(), filters, {
+      stats: stats ?? undefined,
+      dataSource: dataSource !== 'none' && dataSource !== 'uploaded' ? dataSource : undefined,
+      preset: currentPreset,
+    });
+  }, [filters, stats, dataSource, currentPreset]);
+
+  // File-specific URL generators for the modal
+  const getFileNavigationUrl = useCallback((file: FileInfo, index: number) => {
+    const url = new URL(getBaseUrl());
+    if (dataSource && dataSource !== 'none' && dataSource !== 'uploaded') {
+      url.searchParams.set('d', dataSource);
+    }
+    // Include preset if not default
+    if (currentPreset !== 'resolution') {
+      url.searchParams.set('p', currentPreset);
+    }
+    url.searchParams.set('c', file.callId);
+    url.searchParams.set('i', index.toString());
+    return url.toString();
+  }, [dataSource, currentPreset]);
+
+  const getFileShareUrl = useCallback((file: FileInfo, index: number) => {
+    return createShareUrl(getBaseUrl(), filters, {
+      callId: file.callId,
+      index,
+      stats: stats ?? undefined,
+      dataSource: dataSource !== 'none' && dataSource !== 'uploaded' ? dataSource : undefined,
+      preset: currentPreset,
+    });
+  }, [filters, stats, dataSource, currentPreset]);
 
   const filteredFiles = useMemo(() => {
     return applyAllFilters(files, filters);
@@ -118,29 +171,37 @@ export default function FlowPage() {
   //
   // Timeline:
   //   0-400ms:   PlotlySankey mount cycle (waiting -> mounted -> remounting -> ready)
-  //   500ms:     This effect switches preset to 'transfer'
-  //   700ms:     This effect switches back to 'resolution'
+  //   500ms:     This effect switches preset to an adjacent preset
+  //   700ms:     This effect switches back to the target preset (from URL or default)
   //   After:     Click handlers work correctly
   //
   // DO NOT REMOVE OR "OPTIMIZE" THIS - it's not a bug, it's a bug prevention mechanism.
   // Without this, users cannot click on Sankey links to see file details.
   // ===================================================================================
   useEffect(() => {
+    // Determine target preset: from URL if present, otherwise 'resolution'
+    const targetPreset = urlState.preset || 'resolution';
+
+    // Get an adjacent preset for the toggle (different from target)
+    const presetOrder: SankeyPreset[] = ['resolution', 'transfer', 'caller', 'intent', 'custom'];
+    const targetIndex = presetOrder.indexOf(targetPreset as SankeyPreset);
+    const adjacentPreset = presetOrder[(targetIndex + 1) % presetOrder.length];
+
     console.log('[FlowPage] Mount effect triggered');
     console.log('[FlowPage] Current state - files:', files.length, 'hydrated:', hydrated, 'preset:', sankeyOptions.preset);
-    console.log('[FlowPage] Will toggle after mount settles: current -> transfer -> resolution');
+    console.log('[FlowPage] Target preset from URL:', targetPreset, '-> Will toggle:', targetPreset, '->', adjacentPreset, '->', targetPreset);
 
     // Wait for PlotlySankey mount cycle to complete (400ms), then toggle
-    // Step 1: Switch to transfer (at 500ms, after mount cycle)
+    // Step 1: Switch to adjacent preset (at 500ms, after mount cycle)
     const timer1 = setTimeout(() => {
-      console.log('[FlowPage] AUTO-TOGGLE Step 1: Switching to transfer');
-      setSankeyOptions({ preset: 'transfer' as SankeyPreset });
+      console.log('[FlowPage] AUTO-TOGGLE Step 1: Switching to', adjacentPreset);
+      setSankeyOptions({ preset: adjacentPreset });
     }, 500);
 
-    // Step 2: Switch back to resolution (at 700ms)
+    // Step 2: Switch back to target preset (at 700ms)
     const timer2 = setTimeout(() => {
-      console.log('[FlowPage] AUTO-TOGGLE Step 2: Switching back to resolution');
-      setSankeyOptions({ preset: 'resolution' as SankeyPreset });
+      console.log('[FlowPage] AUTO-TOGGLE Step 2: Switching back to', targetPreset);
+      setSankeyOptions({ preset: targetPreset as SankeyPreset });
       console.log('[FlowPage] AUTO-TOGGLE Complete - click handlers should work now');
     }, 700);
 
@@ -260,16 +321,24 @@ export default function FlowPage() {
     setSankeyOptions({ preset: preset as SankeyPreset });
   };
 
-  const currentPreset = sankeyOptions.preset || 'resolution';
   const presetInfo = PRESET_INFO[currentPreset] || PRESET_INFO.resolution;
 
   return (
     <div className="space-y-6">
-      <div>
-        <h1 className="text-2xl font-bold">Flow Analysis</h1>
-        <p className="text-muted-foreground">
-          Interactive Sankey diagram visualizing the caller journey
-        </p>
+      <div className="flex items-start justify-between">
+        <div>
+          <h1 className="text-2xl font-bold">Flow Analysis</h1>
+          <p className="text-muted-foreground">
+            Interactive Sankey diagram visualizing the caller journey
+          </p>
+        </div>
+        <ShareButton
+          getNavigationUrl={getNavigationUrl}
+          getShareUrl={getShareUrl}
+          variant="outline"
+          size="sm"
+          className="h-8 w-8"
+        />
       </div>
 
       {/* KPI Cards */}
@@ -433,10 +502,22 @@ export default function FlowPage() {
               options={sankeyOptions}
               height={chartHeight}
               onFilesSelect={handleLinkClick}
+              initialCallId={urlState.callId}
+              initialIndex={urlState.index}
+              getNavigationUrl={getFileNavigationUrl}
+              getShareUrl={getFileShareUrl}
             />
           </div>
         </CardContent>
       </Card>
     </div>
+  );
+}
+
+export default function FlowPage() {
+  return (
+    <Suspense fallback={<div className="flex items-center justify-center h-96 text-muted-foreground">Loading...</div>}>
+      <FlowPageContent />
+    </Suspense>
   );
 }

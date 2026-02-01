@@ -9,6 +9,16 @@ function generateId(): string {
 }
 
 /**
+ * Extract semantic call ID from filename
+ * For non-VAPI files: removes _gemini suffix and extension
+ * Example: "20251212-121028_3_+18447096877_Incoming_Auto_3375065997005_gemini.json"
+ *       -> "20251212-121028_3_+18447096877_Incoming_Auto_3375065997005"
+ */
+function extractCallId(filename: string): string {
+  return filename.replace(/_gemini\.(json|txt)$/i, '').replace(/\.(json|txt)$/i, '');
+}
+
+/**
  * Compute transfer success from transfer_connection_status array
  * Logic ported from Python:
  * - Empty array or no array = null (no transfer)
@@ -207,6 +217,7 @@ export async function processFiles(
         id: generateId(),
         path,
         name: jsonFile.name,
+        callId: extractCallId(jsonFile.name),
         resolution_type: callData.call_summary.resolution_type || 'no_resolution_type',
         caller_type: callData.caller_type,
         resolution_achieved: callData.call_summary.resolution_achieved,

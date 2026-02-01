@@ -1,6 +1,7 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import type { FileInfo, FilterState, DataStats, SankeyOptions, CustomSankeyOptions } from '@/lib/types';
+import { mergeWithDefaults } from '@/lib/urlState';
 
 interface CallDataState {
   // Data
@@ -31,6 +32,7 @@ interface CallDataState {
   setSelectedFileId: (id: string | null) => void;
   setSankeyOptions: (options: Partial<SankeyOptions>) => void;
   clearData: () => void;
+  hydrateFromUrl: (urlFilters: Partial<FilterState>) => void;
 }
 
 const defaultFilters: FilterState = {
@@ -198,6 +200,12 @@ export const useCallDataStore = create<CallDataState>()(
           selectedFileId: null,
           error: null,
         }),
+
+      hydrateFromUrl: (urlFilters) => {
+        const { stats } = get();
+        const mergedFilters = mergeWithDefaults(urlFilters, stats ?? undefined);
+        set({ filters: mergedFilters });
+      },
     }),
     {
       name: 'resolution-analytics-storage',

@@ -1,15 +1,16 @@
 'use client';
 
-import { useEffect } from 'react';
-import { useRouter } from 'next/navigation';
+import { useEffect, Suspense, useState, useRef, useCallback } from 'react';
+import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
-import { ArrowLeft, ChevronsUpDown, BarChart3, GitCompareArrows, Filter, X, CheckCircle2, Users, Target, ArrowRightLeft, Clock, Layers } from 'lucide-react';
+import { ArrowLeft, ChevronsUpDown, BarChart3, GitCompareArrows, Filter, X, CheckCircle2, Users, Target, ArrowRightLeft, Clock, Layers, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { HelloCounselLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
-import { useCompareStore } from '@/store/compareStore';
+import { useCompareStore, FIRM_CONFIGS } from '@/store/compareStore';
 import { CompareFilterSidebar } from '@/components/filters/CompareFilterSidebar';
 import { useHydrated } from '@/lib/hooks';
+import { parseUrlState } from '@/lib/urlState';
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -23,17 +24,95 @@ import {
   TooltipTrigger,
 } from '@/components/ui/tooltip';
 
-export default function CompareDashboardLayout({
+function CompareDashboardLayoutContent({
   children,
 }: {
   children: React.ReactNode;
 }) {
   const hydrated = useHydrated();
   const router = useRouter();
-  const { selectedFirmIds, firmData, filterSidebarOpen, setFilterSidebarOpen } = useCompareStore();
+  const searchParams = useSearchParams();
+  const { selectedFirmIds, firmData, filterSidebarOpen, setFilterSidebarOpen, setSelectedFirmIds, loadFirmData, hydrateFromUrl } = useCompareStore();
+
+  // Track loading state for shared URLs
+  const [isLoadingSharedUrl, setIsLoadingSharedUrl] = useState(false);
+  const [loadingFirmNames, setLoadingFirmNames] = useState<string[]>([]);
+  const hasAttemptedLoad = useRef(false);
+  const hasAppliedFilters = useRef(false);
+
+  // Parse URL state
+  const urlState = parseUrlState(searchParams);
+
+  // Check if URL has share state params (indicates a shared link)
+  const hasUrlState = searchParams.has('s') || searchParams.has('c') || searchParams.has('f');
+
+  // Load data from shared URL with firm IDs
+  const loadDataFromUrl = useCallback(async (firmIds: string[]) => {
+    // Get firm names for loading message
+    const firmNames = firmIds
+      .map(id => FIRM_CONFIGS.find(c => c.id === id)?.name)
+      .filter(Boolean) as string[];
+
+    setIsLoadingSharedUrl(true);
+    setLoadingFirmNames(firmNames);
+
+    // Select the firms first
+    setSelectedFirmIds(firmIds);
+
+    // Load data for each firm
+    try {
+      await Promise.all(firmIds.map(id => loadFirmData(id)));
+    } catch (err) {
+      console.error('Failed to load data from shared URL:', err);
+      router.push('/compare');
+    } finally {
+      setIsLoadingSharedUrl(false);
+    }
+  }, [setSelectedFirmIds, loadFirmData, router]);
+
+  // Effect: Load data from URL if needed (shared URL with firm IDs)
+  useEffect(() => {
+    // Skip if no firm IDs in URL
+    if (!urlState.firmIds || urlState.firmIds.length < 2) return;
+
+    // Skip if already attempted
+    if (hasAttemptedLoad.current) return;
+
+    // Skip if data is already loaded for all firms
+    const allFirmsLoaded = urlState.firmIds.every(id => firmData[id]?.files?.length > 0);
+    if (allFirmsLoaded) return;
+
+    hasAttemptedLoad.current = true;
+    loadDataFromUrl(urlState.firmIds);
+  }, [urlState.firmIds, firmData, loadDataFromUrl]);
+
+  // Effect: Apply filters once data is loaded
+  useEffect(() => {
+    // Get all selected firm IDs (from URL or store)
+    const currentFirmIds = urlState.firmIds || selectedFirmIds;
+
+    if (
+      currentFirmIds.length === 0 ||
+      !urlState.filters ||
+      Object.keys(urlState.filters).length === 0 ||
+      hasAppliedFilters.current
+    ) {
+      return;
+    }
+
+    // Check if all firms have data loaded
+    const allFirmsLoaded = currentFirmIds.every(id => firmData[id]?.files?.length > 0);
+    if (!allFirmsLoaded) return;
+
+    hydrateFromUrl(urlState.filters, urlState.firmIds);
+    hasAppliedFilters.current = true;
+  }, [selectedFirmIds, urlState.firmIds, urlState.filters, firmData, hydrateFromUrl]);
 
   // Redirect if no firms selected OR if page was reloaded (firmData empty but selectedFirmIds exist)
+  // BUT don't redirect if URL has state params (shared link)
   useEffect(() => {
+    if (hasUrlState) return; // Don't redirect if URL has state params
+
     if (selectedFirmIds.length < 2) {
       router.push('/compare');
       return;
@@ -48,15 +127,30 @@ export default function CompareDashboardLayout({
       // This is a page reload - redirect to /compare to re-select firms
       router.push('/compare');
     }
-  }, [selectedFirmIds, firmData, router]);
+  }, [selectedFirmIds, firmData, router, hasUrlState]);
 
-  if (selectedFirmIds.length < 2) {
+  // Show loading state when loading from a shared URL
+  if (isLoadingSharedUrl) {
+    return (
+      <div className="flex flex-col items-center justify-center h-screen bg-background gap-4">
+        <Loader2 className="h-8 w-8 animate-spin text-muted-foreground" />
+        <div className="text-center">
+          <p className="text-lg font-medium">Loading shared link...</p>
+          <p className="text-sm text-muted-foreground">
+            Loading {loadingFirmNames.join(' & ')} data
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (selectedFirmIds.length < 2 && !hasUrlState) {
     return null;
   }
 
-  // Also redirect during render if we detect reload state
+  // Also redirect during render if we detect reload state (but not for shared links)
   const hasNoLoadedData = selectedFirmIds.every((id) => !firmData[id]?.files?.length);
-  if (hasNoLoadedData) {
+  if (hasNoLoadedData && !hasUrlState) {
     return null;
   }
 
@@ -255,5 +349,17 @@ export default function CompareDashboardLayout({
         </main>
       </div>
     </div>
+  );
+}
+
+export default function CompareDashboardLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <Suspense fallback={<div className="flex items-center justify-center h-screen">Loading...</div>}>
+      <CompareDashboardLayoutContent>{children}</CompareDashboardLayoutContent>
+    </Suspense>
   );
 }

@@ -37,6 +37,7 @@ interface FileInfo {
   id: string;
   path: string;
   name: string;
+  callId: string;  // Semantic ID for URLs (prefix before _gemini)
   resolution_type: string;
   caller_type: string;
   resolution_achieved: boolean | null;
@@ -177,6 +178,10 @@ function extractTransferDestination(destinations: string[]): string | null {
   return null;
 }
 
+function extractCallId(filename: string): string {
+  return filename.replace(/_gemini\.(json|txt)$/i, '').replace(/\.(json|txt)$/i, '');
+}
+
 function computeStats(files: FileInfo[]): DataStats {
   const resolutionTypes = new Set<string>();
   const callerTypes = new Set<string>();
@@ -301,6 +306,7 @@ function generate() {
         id: generateId(),
         path: jsonName,
         name: jsonName,
+        callId: extractCallId(jsonName),
         resolution_type: callData.call_summary.resolution_type || 'no_resolution_type',
         caller_type: callData.caller_type,
         resolution_achieved: callData.call_summary.resolution_achieved,

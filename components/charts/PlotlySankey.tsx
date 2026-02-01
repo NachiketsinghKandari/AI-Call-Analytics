@@ -28,6 +28,14 @@ interface PlotlySankeyProps {
   options: SankeyOptions;
   height?: number;
   onFilesSelect?: (files: FileInfo[]) => void;
+  /** Initial call ID from URL to auto-open modal */
+  initialCallId?: string;
+  /** Initial index from URL */
+  initialIndex?: number;
+  /** Function to generate navigation URL for sharing */
+  getNavigationUrl?: (file: FileInfo, index: number) => string;
+  /** Function to generate share URL with filters */
+  getShareUrl?: (file: FileInfo, index: number) => string;
 }
 
 // Type for Sankey link click point (Plotly doesn't export this)
@@ -37,7 +45,7 @@ interface SankeyLinkPoint {
   pointNumber: number;
 }
 
-export function PlotlySankey({ files, options, height = 600, onFilesSelect }: PlotlySankeyProps) {
+export function PlotlySankey({ files, options, height = 600, onFilesSelect, initialCallId, initialIndex, getNavigationUrl, getShareUrl }: PlotlySankeyProps) {
   const { resolvedTheme } = useTheme();
   const hydrated = useHydrated();
   const isDarkMode = resolvedTheme === 'dark';
@@ -46,6 +54,24 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect }: Pl
   const [modalIndex, setModalIndex] = useState(0);
   const [showNotification, setShowNotification] = useState(false);
   const [isSelectionVisible, setIsSelectionVisible] = useState(false);
+  const [hasAutoOpened, setHasAutoOpened] = useState(false);
+
+  // Auto-open modal from URL params when data becomes available
+  useEffect(() => {
+    if (hasAutoOpened || !initialCallId || files.length === 0) return;
+
+    // Find the file by callId
+    const file = files.find((f) => f.callId === initialCallId);
+    if (file) {
+      // Use queueMicrotask to avoid synchronous setState in effect
+      queueMicrotask(() => {
+        setSelectedFiles([file]);
+        setModalIndex(initialIndex ?? 0);
+        setModalOpen(true);
+        setHasAutoOpened(true);
+      });
+    }
+  }, [initialCallId, initialIndex, files, hasAutoOpened]);
 
   // ===================================================================================
   // IMPORTANT: Plotly Click Handler Bug Workaround
@@ -279,6 +305,8 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect }: Pl
           open={modalOpen}
           onOpenChange={setModalOpen}
           onIndexChange={setModalIndex}
+          getNavigationUrl={getNavigationUrl}
+          getShareUrl={getShareUrl}
         />
       )}
     </div>
