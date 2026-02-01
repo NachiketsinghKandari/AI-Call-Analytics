@@ -127,7 +127,8 @@ function CompareDashboardPageContent() {
       queueMicrotask(() => {
         setSelectedFiles([file]);
         setSelectedFirmId(firmId || null);
-        setModalIndex(urlState.index ?? 0);
+        // Always use index 0 when auto-opening from URL since we only select the single file
+        setModalIndex(0);
         setModalOpen(true);
         setHasAutoOpened(true);
       });

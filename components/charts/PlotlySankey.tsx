@@ -47,7 +47,7 @@ interface SankeyLinkPoint {
   pointNumber: number;
 }
 
-export function PlotlySankey({ files, options, height = 600, onFilesSelect, initialCallId, initialIndex, getNavigationUrl, getShareUrl, isPlotlyReady }: PlotlySankeyProps) {
+export function PlotlySankey({ files, options, height = 600, onFilesSelect, initialCallId, initialIndex: _initialIndex, getNavigationUrl, getShareUrl, isPlotlyReady }: PlotlySankeyProps) {
   const { resolvedTheme } = useTheme();
   const hydrated = useHydrated();
   const isDarkMode = resolvedTheme === 'dark';
@@ -132,12 +132,13 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect, init
       // Use queueMicrotask to avoid synchronous setState in effect
       queueMicrotask(() => {
         setSelectedFiles([file]);
-        setModalIndex(initialIndex ?? 0);
+        // Always use index 0 when auto-opening from URL since we only select the single file
+        setModalIndex(0);
         setModalOpen(true);
         setHasAutoOpened(true);
       });
     }
-  }, [initialCallId, initialIndex, files, hasAutoOpened, isPlotlyReady, mountState]);
+  }, [initialCallId, files, hasAutoOpened, isPlotlyReady, mountState]);
 
   // Key for Plot component - includes mountState to force remount
   const plotKey = useMemo(() => {
