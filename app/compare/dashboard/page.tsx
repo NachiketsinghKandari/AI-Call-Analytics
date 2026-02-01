@@ -92,6 +92,8 @@ function CompareDashboardPageContent() {
 
   // Simple mount state - wait for initial delay before rendering
   const [isPlotReady, setIsPlotReady] = useState(false);
+  // Signal that Plotly workaround is complete (for auto-opening modal)
+  const [isPlotlyWorkaroundComplete, setIsPlotlyWorkaroundComplete] = useState(false);
 
   // Parse URL state for auto-opening modal
   const urlState = useMemo(() => parseUrlState(searchParams), [searchParams]);
@@ -104,10 +106,10 @@ function CompareDashboardPageContent() {
     }
   }, [showNotification]);
 
-  // Auto-open modal from URL params when data becomes available
-  // Delay opening until after Plotly toggle workaround completes (700ms + buffer)
+  // Auto-open modal from URL params when Plotly workaround is complete
+  // Uses isPlotlyWorkaroundComplete signal instead of hard delay
   useEffect(() => {
-    if (hasAutoOpened || !urlState.callId) return;
+    if (hasAutoOpened || !urlState.callId || !isPlotlyWorkaroundComplete) return;
 
     // Get all files from all selected firms
     const allFiles = selectedFirmIds.flatMap((id) => firmData[id]?.files || []);
@@ -121,17 +123,16 @@ function CompareDashboardPageContent() {
         firmData[id]?.files?.some((f) => f.callId === urlState.callId)
       );
 
-      // Delay modal open until after Plotly workaround settles (800ms)
-      const timer = setTimeout(() => {
+      // Use queueMicrotask to avoid synchronous setState in effect
+      queueMicrotask(() => {
         setSelectedFiles([file]);
         setSelectedFirmId(firmId || null);
         setModalIndex(urlState.index ?? 0);
         setModalOpen(true);
         setHasAutoOpened(true);
-      }, 800);
-      return () => clearTimeout(timer);
+      });
     }
-  }, [urlState.callId, urlState.index, selectedFirmIds, firmData, hasAutoOpened]);
+  }, [urlState.callId, urlState.index, selectedFirmIds, firmData, hasAutoOpened, isPlotlyWorkaroundComplete]);
 
   // Track visibility of the selected flow section
   useEffect(() => {
@@ -265,10 +266,11 @@ function CompareDashboardPageContent() {
       setSankeyOptions({ preset: adjacentPreset });
     }, 500);
 
-    // Step 2: Switch back to target preset (at 700ms)
+    // Step 2: Switch back to target preset (at 700ms) and mark workaround complete
     const timer2 = setTimeout(() => {
       console.log('[CompareDashboard] AUTO-TOGGLE Step 2: Switching back to', targetPreset);
       setSankeyOptions({ preset: targetPreset as SankeyPreset });
+      setIsPlotlyWorkaroundComplete(true);
       console.log('[CompareDashboard] AUTO-TOGGLE Complete - click handlers should work now');
     }, 700);
 

@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useEffect, useCallback, Suspense } from 'react';
+import { useMemo, useEffect, useCallback, Suspense, useState } from 'react';
 import { useHydrated, useResponsiveChartHeight } from '@/lib/hooks';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
@@ -104,6 +104,7 @@ function FlowPageContent() {
   const chartHeight = useResponsiveChartHeight(350, 450, 550);
   const { files, filters, stats, dataSource, sankeyOptions, setSankeyOptions, setSelectedFileId } = useCallDataStore();
   const { urlState } = useUrlState();
+  const [isPlotlyReady, setIsPlotlyReady] = useState(false);
 
   // Current preset (from URL or store)
   const currentPreset = sankeyOptions.preset || 'resolution';
@@ -198,10 +199,11 @@ function FlowPageContent() {
       setSankeyOptions({ preset: adjacentPreset });
     }, 500);
 
-    // Step 2: Switch back to target preset (at 700ms)
+    // Step 2: Switch back to target preset (at 700ms) and mark Plotly as ready
     const timer2 = setTimeout(() => {
       console.log('[FlowPage] AUTO-TOGGLE Step 2: Switching back to', targetPreset);
       setSankeyOptions({ preset: targetPreset as SankeyPreset });
+      setIsPlotlyReady(true);
       console.log('[FlowPage] AUTO-TOGGLE Complete - click handlers should work now');
     }, 700);
 
@@ -506,6 +508,7 @@ function FlowPageContent() {
               initialIndex={urlState.index}
               getNavigationUrl={getFileNavigationUrl}
               getShareUrl={getFileShareUrl}
+              isPlotlyReady={isPlotlyReady}
             />
           </div>
         </CardContent>
