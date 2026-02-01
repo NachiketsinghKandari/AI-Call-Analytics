@@ -19,6 +19,9 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from '@/components/ui/tooltip';
+import { useCallDataStore } from '@/store/callDataStore';
+import { ShareButton } from '@/components/ShareButton';
+import { createShareUrl, getBaseUrl } from '@/lib/urlState';
 
 function DefinitionCard({ field }: { field: FieldDefinition }) {
   return (
@@ -92,6 +95,23 @@ export default function InfoPage() {
   const [isExporting, setIsExporting] = useState(false);
   const [copied, setCopied] = useState(false);
   const contentRef = useRef<HTMLDivElement>(null);
+  const { filters, stats, dataSource } = useCallDataStore();
+
+  // URL generation for sharing
+  const getNavigationUrl = useCallback(() => {
+    const url = new URL(getBaseUrl());
+    if (dataSource && dataSource !== 'none' && dataSource !== 'uploaded') {
+      url.searchParams.set('d', dataSource);
+    }
+    return url.toString();
+  }, [dataSource]);
+
+  const getShareUrl = useCallback(() => {
+    return createShareUrl(getBaseUrl(), filters, {
+      stats: stats ?? undefined,
+      dataSource: dataSource !== 'none' && dataSource !== 'uploaded' ? dataSource : undefined,
+    });
+  }, [filters, stats, dataSource]);
 
   // Generate markdown content for copy
   const generateMarkdown = useCallback(() => {
@@ -300,6 +320,13 @@ export default function InfoPage() {
             )}
             <span className="hidden sm:inline">Export PDF</span>
           </Button>
+          <ShareButton
+            getNavigationUrl={getNavigationUrl}
+            getShareUrl={getShareUrl}
+            variant="outline"
+            size="sm"
+            className="h-8 w-8"
+          />
         </div>
       </div>
 

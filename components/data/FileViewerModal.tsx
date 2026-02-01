@@ -11,9 +11,11 @@ import {
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { CopyButton } from '@/components/ui/copy-button';
+import { ShareButton } from '@/components/ShareButton';
 import { ChevronLeft, ChevronRight, Headphones, X } from 'lucide-react';
 import type { FileInfo } from '@/lib/types';
 import { AudioPlayer } from './AudioPlayer';
+import { getBaseUrl } from '@/lib/urlState';
 
 interface FileViewerModalProps {
   files: FileInfo[];
@@ -24,6 +26,10 @@ interface FileViewerModalProps {
   firmName?: string;
   firmColor?: string;
   sidebarOpen?: boolean;
+  /** Optional function to generate navigation URL for sharing */
+  getNavigationUrl?: (file: FileInfo, index: number) => string;
+  /** Optional function to generate share URL with filters */
+  getShareUrl?: (file: FileInfo, index: number) => string;
 }
 
 function JsonViewer({ data }: { data: unknown }) {
@@ -84,6 +90,8 @@ export function FileViewerModal({
   firmName,
   firmColor,
   sidebarOpen = true,
+  getNavigationUrl,
+  getShareUrl,
 }: FileViewerModalProps) {
   const file = files[currentIndex];
   const totalFiles = files.length;
@@ -181,6 +189,16 @@ export function FileViewerModal({
             )}
             <span className="truncate max-w-[150px] sm:max-w-[300px] lg:max-w-[400px]">{file.name}</span>
             <CopyButton text={file.name} />
+            <ShareButton
+              getNavigationUrl={() => {
+                if (getNavigationUrl) return getNavigationUrl(file, currentIndex);
+                return `${getBaseUrl()}?c=${file.callId}&i=${currentIndex}`;
+              }}
+              getShareUrl={() => {
+                if (getShareUrl) return getShareUrl(file, currentIndex);
+                return `${getBaseUrl()}?c=${file.callId}&i=${currentIndex}`;
+              }}
+            />
           </DialogTitle>
           {/* Badges row - responsive layout */}
           <div className="flex flex-wrap gap-1.5 mt-1">

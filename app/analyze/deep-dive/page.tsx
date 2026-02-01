@@ -11,9 +11,11 @@ import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/component
 import { Button } from '@/components/ui/button';
 import { ChevronDown, Search, FileText } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { ShareButton } from '@/components/ShareButton';
+import { createShareUrl, getBaseUrl } from '@/lib/urlState';
 
 export default function DeepDivePage() {
-  const { files, filters, selectedFileId, setSelectedFileId } = useCallDataStore();
+  const { files, filters, stats, dataSource, selectedFileId, setSelectedFileId } = useCallDataStore();
   const selectedFile = useSelectedFile();
   const [isFileListOpen, setIsFileListOpen] = useState(false);
   const hydrated = useHydrated();
@@ -21,6 +23,22 @@ export default function DeepDivePage() {
   const filteredFiles = useMemo(() => {
     return applyAllFilters(files, filters);
   }, [files, filters]);
+
+  // URL generation for sharing
+  const getNavigationUrl = useCallback(() => {
+    const url = new URL(getBaseUrl());
+    if (dataSource && dataSource !== 'none' && dataSource !== 'uploaded') {
+      url.searchParams.set('d', dataSource);
+    }
+    return url.toString();
+  }, [dataSource]);
+
+  const getShareUrl = useCallback(() => {
+    return createShareUrl(getBaseUrl(), filters, {
+      stats: stats ?? undefined,
+      dataSource: dataSource !== 'none' && dataSource !== 'uploaded' ? dataSource : undefined,
+    });
+  }, [filters, stats, dataSource]);
 
   // Find current index in filtered files
   const currentIndex = useMemo(() => {
@@ -55,11 +73,20 @@ export default function DeepDivePage() {
 
   return (
     <div className="space-y-6">
-      <div>
-        <h1 className="text-2xl font-bold">Deep Dive</h1>
-        <p className="text-muted-foreground">
-          Browse and analyze individual call files
-        </p>
+      <div className="flex items-start justify-between">
+        <div>
+          <h1 className="text-2xl font-bold">Deep Dive</h1>
+          <p className="text-muted-foreground">
+            Browse and analyze individual call files
+          </p>
+        </div>
+        <ShareButton
+          getNavigationUrl={getNavigationUrl}
+          getShareUrl={getShareUrl}
+          variant="outline"
+          size="sm"
+          className="h-8 w-8"
+        />
       </div>
 
       {/* Stats */}

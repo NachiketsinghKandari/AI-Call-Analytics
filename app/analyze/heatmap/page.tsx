@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useCallback } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group';
@@ -11,9 +11,11 @@ import { applyAllFilters } from '@/lib/filters';
 import { HEATMAP_PRESETS } from '@/lib/heatmap';
 import { useResponsiveChartHeight } from '@/lib/hooks';
 import { Grid3x3, Box } from 'lucide-react';
+import { ShareButton } from '@/components/ShareButton';
+import { createShareUrl, getBaseUrl } from '@/lib/urlState';
 
 export default function HeatmapPage() {
-  const { files, filters } = useCallDataStore();
+  const { files, filters, stats: dataStats, dataSource } = useCallDataStore();
   const [selectedPreset, setSelectedPreset] = useState(HEATMAP_PRESETS[0].id);
   const [viewMode, setViewMode] = useState<'2d' | '3d'>('2d');
   const chartHeight = useResponsiveChartHeight(350, 450, 550);
@@ -22,6 +24,22 @@ export default function HeatmapPage() {
   const filteredFiles = useMemo(() => {
     return applyAllFilters(files, filters);
   }, [files, filters]);
+
+  // URL generation for sharing
+  const getNavigationUrl = useCallback(() => {
+    const url = new URL(getBaseUrl());
+    if (dataSource && dataSource !== 'none' && dataSource !== 'uploaded') {
+      url.searchParams.set('d', dataSource);
+    }
+    return url.toString();
+  }, [dataSource]);
+
+  const getShareUrl = useCallback(() => {
+    return createShareUrl(getBaseUrl(), filters, {
+      stats: dataStats ?? undefined,
+      dataSource: dataSource !== 'none' && dataSource !== 'uploaded' ? dataSource : undefined,
+    });
+  }, [filters, dataStats, dataSource]);
 
   const currentPreset = HEATMAP_PRESETS.find((p) => p.id === selectedPreset) || HEATMAP_PRESETS[0];
 
@@ -46,20 +64,29 @@ export default function HeatmapPage() {
             Explore correlations between call dimensions in 2D or 3D
           </p>
         </div>
-        <ToggleGroup
-          type="single"
-          value={viewMode}
-          onValueChange={(value) => value && setViewMode(value as '2d' | '3d')}
-        >
-          <ToggleGroupItem value="2d" aria-label="2D View">
-            <Grid3x3 className="h-4 w-4 mr-2" />
-            2D
-          </ToggleGroupItem>
-          <ToggleGroupItem value="3d" aria-label="3D View">
-            <Box className="h-4 w-4 mr-2" />
-            3D
-          </ToggleGroupItem>
-        </ToggleGroup>
+        <div className="flex items-center gap-2">
+          <ToggleGroup
+            type="single"
+            value={viewMode}
+            onValueChange={(value) => value && setViewMode(value as '2d' | '3d')}
+          >
+            <ToggleGroupItem value="2d" aria-label="2D View">
+              <Grid3x3 className="h-4 w-4 mr-2" />
+              2D
+            </ToggleGroupItem>
+            <ToggleGroupItem value="3d" aria-label="3D View">
+              <Box className="h-4 w-4 mr-2" />
+              3D
+            </ToggleGroupItem>
+          </ToggleGroup>
+          <ShareButton
+            getNavigationUrl={getNavigationUrl}
+            getShareUrl={getShareUrl}
+            variant="outline"
+            size="sm"
+            className="h-8 w-8"
+          />
+        </div>
       </div>
 
       {/* Stats */}

@@ -1,8 +1,9 @@
 'use client';
 
-import { useMemo, useState, useCallback, useEffect, useRef } from 'react';
+import { useMemo, useState, useCallback, useEffect, useRef, Suspense } from 'react';
 import dynamic from 'next/dynamic';
 import { useTheme } from 'next-themes';
+import { useSearchParams } from 'next/navigation';
 import { Building2, Scale, Phone, Loader2, CheckCircle2, ArrowRightLeft, Clock, Settings2, RotateCcw, X, ChevronDown, Download } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
@@ -18,6 +19,7 @@ import { computeFirmStats, type FirmStats } from '@/lib/comparison';
 import { cn } from '@/lib/utils';
 import type { SankeyPreset, CustomSankeyOptions, FileInfo } from '@/lib/types';
 import { FileViewerModal } from '@/components/data/FileViewerModal';
+import { createShareUrl, getBaseUrl, parseUrlState } from '@/lib/urlState';
 
 // Dynamic import for Plotly (no SSR)
 const Plot = dynamic(() => import('react-plotly.js'), {
@@ -71,10 +73,11 @@ interface SankeyLinkPoint {
   pointNumber: number;
 }
 
-export default function CompareDashboardPage() {
+function CompareDashboardPageContent() {
   const { resolvedTheme } = useTheme();
   const isDarkMode = resolvedTheme === 'dark';
   const exportRef = useRef<HTMLDivElement>(null);
+  const searchParams = useSearchParams();
 
   const { selectedFirmIds, firmData, filters, sankeyOptions, setSankeyOptions, filterSidebarOpen } = useCompareStore();
   const [viewMode, setViewMode] = useState<'sankey' | 'metrics'>('sankey');
@@ -85,9 +88,13 @@ export default function CompareDashboardPage() {
   const [showNotification, setShowNotification] = useState(false);
   const [isSelectionVisible, setIsSelectionVisible] = useState(false);
   const [isExporting, setIsExporting] = useState(false);
+  const [hasAutoOpened, setHasAutoOpened] = useState(false);
 
   // Simple mount state - wait for initial delay before rendering
   const [isPlotReady, setIsPlotReady] = useState(false);
+
+  // Parse URL state for auto-opening modal
+  const urlState = useMemo(() => parseUrlState(searchParams), [searchParams]);
 
   // Auto-hide notification after 4 seconds
   useEffect(() => {
@@ -96,6 +103,32 @@ export default function CompareDashboardPage() {
       return () => clearTimeout(timer);
     }
   }, [showNotification]);
+
+  // Auto-open modal from URL params when data becomes available
+  useEffect(() => {
+    if (hasAutoOpened || !urlState.callId) return;
+
+    // Get all files from all selected firms
+    const allFiles = selectedFirmIds.flatMap((id) => firmData[id]?.files || []);
+    if (allFiles.length === 0) return;
+
+    // Find the file by callId
+    const file = allFiles.find((f) => f.callId === urlState.callId);
+    if (file) {
+      // Find which firm this file belongs to
+      const firmId = selectedFirmIds.find((id) =>
+        firmData[id]?.files?.some((f) => f.callId === urlState.callId)
+      );
+
+      queueMicrotask(() => {
+        setSelectedFiles([file]);
+        setSelectedFirmId(firmId || null);
+        setModalIndex(urlState.index ?? 0);
+        setModalOpen(true);
+        setHasAutoOpened(true);
+      });
+    }
+  }, [urlState.callId, urlState.index, selectedFirmIds, firmData, hasAutoOpened]);
 
   // Track visibility of the selected flow section
   useEffect(() => {
@@ -202,29 +235,37 @@ export default function CompareDashboardPage() {
   //
   // Timeline:
   //   0-400ms:   Mount cycle (waiting -> mounted -> remounting -> ready)
-  //   500ms:     This effect switches preset to 'transfer'
-  //   700ms:     This effect switches back to 'resolution'
+  //   500ms:     This effect switches preset to an adjacent preset
+  //   700ms:     This effect switches back to the target preset (from URL or default)
   //   After:     Click handlers work correctly
   //
   // DO NOT REMOVE OR "OPTIMIZE" THIS - it's not a bug, it's a bug prevention mechanism.
   // Without this, users cannot click on Sankey links to see file details.
   // ===================================================================================
   useEffect(() => {
+    // Determine target preset: from URL if present, otherwise 'resolution'
+    const targetPreset = urlState.preset || 'resolution';
+
+    // Get an adjacent preset for the toggle (different from target)
+    const presetOrder: SankeyPreset[] = ['resolution', 'transfer', 'caller', 'intent', 'custom'];
+    const targetIndex = presetOrder.indexOf(targetPreset as SankeyPreset);
+    const adjacentPreset = presetOrder[(targetIndex + 1) % presetOrder.length];
+
     console.log('[CompareDashboard] Mount effect triggered');
     console.log('[CompareDashboard] Current state - hasAnyData:', hasAnyData, 'preset:', sankeyOptions.preset);
-    console.log('[CompareDashboard] Will toggle after mount settles: current -> transfer -> resolution');
+    console.log('[CompareDashboard] Target preset from URL:', targetPreset, '-> Will toggle:', targetPreset, '->', adjacentPreset, '->', targetPreset);
 
     // Wait for mount cycle to complete (400ms), then toggle
-    // Step 1: Switch to transfer (at 500ms, after mount cycle)
+    // Step 1: Switch to adjacent preset (at 500ms, after mount cycle)
     const timer1 = setTimeout(() => {
-      console.log('[CompareDashboard] AUTO-TOGGLE Step 1: Switching to transfer');
-      setSankeyOptions({ preset: 'transfer' as SankeyPreset });
+      console.log('[CompareDashboard] AUTO-TOGGLE Step 1: Switching to', adjacentPreset);
+      setSankeyOptions({ preset: adjacentPreset });
     }, 500);
 
-    // Step 2: Switch back to resolution (at 700ms)
+    // Step 2: Switch back to target preset (at 700ms)
     const timer2 = setTimeout(() => {
-      console.log('[CompareDashboard] AUTO-TOGGLE Step 2: Switching back to resolution');
-      setSankeyOptions({ preset: 'resolution' as SankeyPreset });
+      console.log('[CompareDashboard] AUTO-TOGGLE Step 2: Switching back to', targetPreset);
+      setSankeyOptions({ preset: targetPreset as SankeyPreset });
       console.log('[CompareDashboard] AUTO-TOGGLE Complete - click handlers should work now');
     }, 700);
 
@@ -293,6 +334,29 @@ export default function CompareDashboardPage() {
     setModalIndex(index);
     setModalOpen(true);
   };
+
+  // URL generation for sharing
+  const getFileNavigationUrl = useCallback((file: FileInfo, index: number) => {
+    const url = new URL(getBaseUrl());
+    // Add firm IDs
+    url.searchParams.set('f', selectedFirmIds.join(','));
+    // Include preset if not default
+    if (currentPreset !== 'resolution') {
+      url.searchParams.set('p', currentPreset);
+    }
+    url.searchParams.set('c', file.callId);
+    url.searchParams.set('i', index.toString());
+    return url.toString();
+  }, [selectedFirmIds, currentPreset]);
+
+  const getFileShareUrl = useCallback((file: FileInfo, index: number) => {
+    return createShareUrl(getBaseUrl(), filters, {
+      callId: file.callId,
+      index,
+      firmIds: selectedFirmIds,
+      preset: currentPreset,
+    });
+  }, [filters, selectedFirmIds, currentPreset]);
 
   // Format category label - split by underscore and capitalize
   const formatCategoryLabel = (value: string): string => {
@@ -932,6 +996,8 @@ export default function CompareDashboardPage() {
           firmName={selectedFirmId ? FIRM_CONFIGS.find((c) => c.id === selectedFirmId)?.name : undefined}
           firmColor={selectedFirmId ? FIRM_COLORS[selectedFirmId] : undefined}
           sidebarOpen={filterSidebarOpen}
+          getNavigationUrl={getFileNavigationUrl}
+          getShareUrl={getFileShareUrl}
         />
       )}
 
@@ -1035,5 +1101,13 @@ export default function CompareDashboardPage() {
         Filters apply universally to all firms. Use the sidebar to adjust.
       </p>
     </div>
+  );
+}
+
+export default function CompareDashboardPage() {
+  return (
+    <Suspense fallback={<div className="flex items-center justify-center h-96 text-muted-foreground">Loading...</div>}>
+      <CompareDashboardPageContent />
+    </Suspense>
   );
 }

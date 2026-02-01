@@ -31,6 +31,8 @@ export interface FileInfo {
   id: string;
   path: string;
   name: string;
+  // Semantic call ID for URLs (prefix before _gemini for non-VAPI, UUID for VAPI)
+  callId: string;
   resolution_type: string;
   caller_type: string;
   resolution_achieved: boolean | null;

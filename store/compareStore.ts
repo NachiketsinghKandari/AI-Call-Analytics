@@ -1,6 +1,7 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import type { FileInfo, FilterState, DataStats, SankeyOptions, CustomSankeyOptions } from '@/lib/types';
+import { mergeWithDefaults } from '@/lib/urlState';
 
 // Firm configuration
 export interface FirmConfig {
@@ -67,6 +68,9 @@ interface CompareState {
   addUploadedData: (name: string, files: FileInfo[]) => string;
   removeUploadedData: (uploadId: string) => void;
   getAllConfigs: () => FirmConfig[];
+
+  // URL hydration
+  hydrateFromUrl: (urlFilters: Partial<FilterState>, firmIds?: string[]) => void;
 }
 
 const defaultFilters: FilterState = {
@@ -373,6 +377,19 @@ export const useCompareStore = create<CompareState>()(
       getAllConfigs: () => {
         const { uploadedConfigs } = get();
         return [...FIRM_CONFIGS, ...uploadedConfigs];
+      },
+
+      hydrateFromUrl: (urlFilters, firmIds) => {
+        const { combinedStats, setSelectedFirmIds } = get();
+
+        // If firmIds provided, select those firms
+        if (firmIds && firmIds.length > 0) {
+          setSelectedFirmIds(firmIds);
+        }
+
+        // Merge URL filters with defaults
+        const mergedFilters = mergeWithDefaults(urlFilters, combinedStats ?? undefined);
+        set({ filters: mergedFilters });
       },
     }),
     {
