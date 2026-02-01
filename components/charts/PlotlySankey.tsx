@@ -36,6 +36,8 @@ interface PlotlySankeyProps {
   getNavigationUrl?: (file: FileInfo, index: number) => string;
   /** Function to generate share URL with filters */
   getShareUrl?: (file: FileInfo, index: number) => string;
+  /** Signal from parent that Plotly is ready (workaround complete) */
+  isPlotlyReady?: boolean;
 }
 
 // Type for Sankey link click point (Plotly doesn't export this)
@@ -45,7 +47,7 @@ interface SankeyLinkPoint {
   pointNumber: number;
 }
 
-export function PlotlySankey({ files, options, height = 600, onFilesSelect, initialCallId, initialIndex, getNavigationUrl, getShareUrl }: PlotlySankeyProps) {
+export function PlotlySankey({ files, options, height = 600, onFilesSelect, initialCallId, initialIndex: _initialIndex, getNavigationUrl, getShareUrl, isPlotlyReady }: PlotlySankeyProps) {
   const { resolvedTheme } = useTheme();
   const hydrated = useHydrated();
   const isDarkMode = resolvedTheme === 'dark';
@@ -55,23 +57,6 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect, init
   const [showNotification, setShowNotification] = useState(false);
   const [isSelectionVisible, setIsSelectionVisible] = useState(false);
   const [hasAutoOpened, setHasAutoOpened] = useState(false);
-
-  // Auto-open modal from URL params when data becomes available
-  useEffect(() => {
-    if (hasAutoOpened || !initialCallId || files.length === 0) return;
-
-    // Find the file by callId
-    const file = files.find((f) => f.callId === initialCallId);
-    if (file) {
-      // Use queueMicrotask to avoid synchronous setState in effect
-      queueMicrotask(() => {
-        setSelectedFiles([file]);
-        setModalIndex(initialIndex ?? 0);
-        setModalOpen(true);
-        setHasAutoOpened(true);
-      });
-    }
-  }, [initialCallId, initialIndex, files, hasAutoOpened]);
 
   // ===================================================================================
   // IMPORTANT: Plotly Click Handler Bug Workaround
@@ -130,6 +115,30 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect, init
       return () => clearTimeout(timer);
     }
   }, [files.length, mountState]);
+
+  // Auto-open modal from URL params when Plotly is ready
+  // Uses isPlotlyReady signal from parent (set after workaround completes)
+  // Falls back to internal mountState === 'ready' if parent doesn't provide the signal
+  useEffect(() => {
+    if (hasAutoOpened || !initialCallId || files.length === 0) return;
+
+    // Wait for Plotly to be ready (from parent signal or internal state)
+    const plotlyReady = isPlotlyReady !== undefined ? isPlotlyReady : mountState === 'ready';
+    if (!plotlyReady) return;
+
+    // Find the file by callId
+    const file = files.find((f) => f.callId === initialCallId);
+    if (file) {
+      // Use queueMicrotask to avoid synchronous setState in effect
+      queueMicrotask(() => {
+        setSelectedFiles([file]);
+        // Always use index 0 when auto-opening from URL since we only select the single file
+        setModalIndex(0);
+        setModalOpen(true);
+        setHasAutoOpened(true);
+      });
+    }
+  }, [initialCallId, files, hasAutoOpened, isPlotlyReady, mountState]);
 
   // Key for Plot component - includes mountState to force remount
   const plotKey = useMemo(() => {
