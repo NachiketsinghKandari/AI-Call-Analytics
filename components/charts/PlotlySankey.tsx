@@ -57,19 +57,21 @@ export function PlotlySankey({ files, options, height = 600, onFilesSelect, init
   const [hasAutoOpened, setHasAutoOpened] = useState(false);
 
   // Auto-open modal from URL params when data becomes available
+  // Delay opening until after Plotly toggle workaround completes (700ms + buffer)
   useEffect(() => {
     if (hasAutoOpened || !initialCallId || files.length === 0) return;
 
     // Find the file by callId
     const file = files.find((f) => f.callId === initialCallId);
     if (file) {
-      // Use queueMicrotask to avoid synchronous setState in effect
-      queueMicrotask(() => {
+      // Delay modal open until after Plotly workaround settles (800ms)
+      const timer = setTimeout(() => {
         setSelectedFiles([file]);
         setModalIndex(initialIndex ?? 0);
         setModalOpen(true);
         setHasAutoOpened(true);
-      });
+      }, 800);
+      return () => clearTimeout(timer);
     }
   }, [initialCallId, initialIndex, files, hasAutoOpened]);
 

@@ -105,6 +105,7 @@ function CompareDashboardPageContent() {
   }, [showNotification]);
 
   // Auto-open modal from URL params when data becomes available
+  // Delay opening until after Plotly toggle workaround completes (700ms + buffer)
   useEffect(() => {
     if (hasAutoOpened || !urlState.callId) return;
 
@@ -120,13 +121,15 @@ function CompareDashboardPageContent() {
         firmData[id]?.files?.some((f) => f.callId === urlState.callId)
       );
 
-      queueMicrotask(() => {
+      // Delay modal open until after Plotly workaround settles (800ms)
+      const timer = setTimeout(() => {
         setSelectedFiles([file]);
         setSelectedFirmId(firmId || null);
         setModalIndex(urlState.index ?? 0);
         setModalOpen(true);
         setHasAutoOpened(true);
-      });
+      }, 800);
+      return () => clearTimeout(timer);
     }
   }, [urlState.callId, urlState.index, selectedFirmIds, firmData, hasAutoOpened]);
 
