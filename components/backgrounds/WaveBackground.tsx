@@ -154,12 +154,18 @@ const WaveDotMaterial = shaderMaterial(
     varying float vDepth;
 
     void main() {
-      // Create circular dots
+      // Create circular dots with blur/glow effect
       vec2 center = gl_PointCoord - vec2(0.5);
       float dist = length(center);
 
-      // Soft circle with antialiasing
-      float alpha = 1.0 - smoothstep(0.35, 0.5, dist);
+      // Core of the dot (solid center)
+      float coreAlpha = 1.0 - smoothstep(0.2, 0.35, dist);
+
+      // Soft glow/blur around the dot
+      float glowAlpha = (1.0 - smoothstep(0.1, 0.5, dist)) * 0.6;
+
+      // Combine core and glow
+      float alpha = max(coreAlpha, glowAlpha);
 
       if (alpha < 0.01) discard;
 
@@ -171,14 +177,12 @@ const WaveDotMaterial = shaderMaterial(
       vec3 finalColor = uColor * brightness;
 
       // Depth fade: dots at the back (low vDepth) fade out
-      // vDepth goes from 0 (back) to 1 (front)
-      // We want alpha to go from 0 at back to full at front
-      float depthFade = smoothstep(0.0, 0.5, vDepth); // Fade happens in the back 50% of the terrain
+      float depthFade = smoothstep(0.0, 0.5, vDepth);
 
-      // Also fade based on distance from center for a natural vignette
+      // Edge vignette fade
       float edgeFade = 1.0 - smoothstep(0.7, 1.0, vDistanceFromCenter);
 
-      gl_FragColor = vec4(finalColor, alpha * 0.85 * depthFade * edgeFade);
+      gl_FragColor = vec4(finalColor, alpha * 0.9 * depthFade * edgeFade);
     }
   `
 );
@@ -316,7 +320,7 @@ function DotTerrain({ gridSize, dotColor, intensity }: DotTerrainProps) {
         ref={materialRef}
         uColor={color}
         uIntensity={intensity}
-        uPointSize={2.0}
+        uPointSize={4.0}
         uMaxDepth={maxDepth}
         transparent
         depthWrite={false}
