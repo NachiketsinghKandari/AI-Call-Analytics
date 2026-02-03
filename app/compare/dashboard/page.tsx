@@ -4,7 +4,7 @@ import { useMemo, useState, useCallback, useEffect, useRef, Suspense } from 'rea
 import dynamic from 'next/dynamic';
 import { useTheme } from 'next-themes';
 import { useSearchParams } from 'next/navigation';
-import { Building2, Scale, Phone, Loader2, CheckCircle2, ArrowRightLeft, Clock, Settings2, RotateCcw, X, ChevronDown, Download } from 'lucide-react';
+import { Building2, Scale, Phone, Loader2, CheckCircle2, ArrowRightLeft, Clock, Settings2, RotateCcw, X, ChevronDown, Download, type LucideIcon } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Switch } from '@/components/ui/switch';
@@ -31,7 +31,7 @@ const Plot = dynamic(() => import('react-plotly.js'), {
   ),
 });
 
-const FIRM_ICONS: Record<string, React.ElementType> = {
+const FIRM_ICONS: Record<string, LucideIcon> = {
   sample: Building2,
   mccraw: Scale,
   vapi: Phone,

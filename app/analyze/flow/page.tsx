@@ -9,7 +9,7 @@ import { Label } from '@/components/ui/label';
 import { PlotlySankey } from '@/components/charts/PlotlySankey';
 import { useCallDataStore } from '@/store/callDataStore';
 import { applyAllFilters } from '@/lib/filters';
-import { CheckCircle2, XCircle, Phone, Clock, ArrowRightLeft, Target, Settings2, RotateCcw } from 'lucide-react';
+import { CheckCircle2, XCircle, Phone, Clock, ArrowRightLeft, Target, Settings2, RotateCcw, type LucideIcon } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { ShareButton } from '@/components/ShareButton';
 import { useUrlState } from '@/hooks/useUrlState';
@@ -67,7 +67,7 @@ function KPICard({
   value: string | number;
   percentage?: number;
   description?: string;
-  icon?: React.ElementType;
+  icon?: LucideIcon;
   colorClass?: string;
 }) {
   return (

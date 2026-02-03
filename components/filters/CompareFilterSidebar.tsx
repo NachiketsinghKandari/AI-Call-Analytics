@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo } from 'react';
-import { RotateCcw, Building2, Scale, Phone } from 'lucide-react';
+import { RotateCcw, Building2, Scale, Phone, type LucideIcon } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Checkbox } from '@/components/ui/checkbox';
 import { Slider } from '@/components/ui/slider';
@@ -12,7 +12,7 @@ import { applyAllFilters } from '@/lib/filters';
 import type { AchievedStatus, TransferStatus, MultiCaseStatus } from '@/lib/types';
 import { cn } from '@/lib/utils';
 
-const FIRM_ICONS: Record<string, React.ElementType> = {
+const FIRM_ICONS: Record<string, LucideIcon> = {
   sample: Building2,
   mccraw: Scale,
   vapi: Phone,

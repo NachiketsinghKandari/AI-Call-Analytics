@@ -3,7 +3,7 @@
 import { useRouter } from 'next/navigation';
 import { useEffect, useState, useCallback, useRef } from 'react';
 import Link from 'next/link';
-import { Building2, Scale, Phone, Upload, ArrowRight, ArrowLeft, Loader2, CheckCircle2, X, FolderOpen } from 'lucide-react';
+import { Building2, Scale, Phone, Upload, ArrowRight, ArrowLeft, Loader2, CheckCircle2, X, FolderOpen, type LucideIcon } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { HelloCounselLogo } from '@/components/logo';
@@ -20,7 +20,7 @@ declare module 'react' {
   }
 }
 
-const FIRM_ICONS: Record<string, React.ElementType> = {
+const FIRM_ICONS: Record<string, LucideIcon> = {
   sample: Building2,
   mccraw: Scale,
   vapi: Phone,
