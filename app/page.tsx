@@ -1,21 +1,31 @@
 'use client';
 
 import Link from 'next/link';
+import dynamic from 'next/dynamic';
 import { BarChart3, GitCompareArrows, ArrowRight, FileSearch, Grid3X3, GitBranch } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { HelloCounselLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
 
+// Dynamic import to avoid SSR issues with Three.js
+const WaveBackground = dynamic(
+  () => import('@/components/backgrounds/WaveBackground'),
+  { ssr: false }
+);
+
 export default function HomePage() {
   return (
-    <main className="min-h-screen bg-background">
+    <main className="relative min-h-screen bg-background overflow-hidden">
+      {/* Wave Animation Background */}
+      <WaveBackground className="z-0" dotColor="#6366f1" intensity={1.0} />
+
       {/* Header with theme toggle */}
-      <header className="absolute top-4 right-4">
+      <header className="absolute top-4 right-4 z-10">
         <ThemeToggle />
       </header>
 
-      <div className="container mx-auto px-4 py-16">
+      <div className="relative z-10 container mx-auto px-4 py-16">
         {/* Hero Section */}
         <div className="text-center mb-16">
           <div className="flex justify-center mb-4">
