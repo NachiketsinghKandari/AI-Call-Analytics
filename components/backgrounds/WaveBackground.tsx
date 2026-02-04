@@ -398,7 +398,7 @@ export default function WaveBackground({
       <Canvas
         dpr={dpr}
         camera={{
-          position: [12, 15, 18],
+          position: [18, 15, 18],
           fov: 60,
           near: 0.1,
           far: 200,
