@@ -10,6 +10,7 @@ import { HelloCounselLogo } from '@/components/logo';
 import { useCallDataStore } from '@/store/callDataStore';
 import { cn } from '@/lib/utils';
 import { useTheme } from 'next-themes';
+import { logoutAction } from '@/lib/actions/auth';
 import {
   Sheet,
   SheetContent,
@@ -261,6 +262,16 @@ export function Navbar() {
                       <LogOut className="h-4 w-4" />
                       Exit
                     </Button>
+                    <form action={logoutAction}>
+                      <Button
+                        type="submit"
+                        variant="ghost"
+                        className="w-full justify-start gap-2 h-11 text-red-500 hover:text-red-600"
+                      >
+                        <LogOut className="h-4 w-4" />
+                        Sign Out
+                      </Button>
+                    </form>
                   </div>
                 </div>
               </SheetContent>
@@ -347,6 +358,16 @@ export function Navbar() {
                 <DropdownMenuItem onClick={handleChangeData} className="gap-2 text-red-500 focus:text-red-500">
                   <LogOut className="h-4 w-4" />
                   Exit
+                </DropdownMenuItem>
+                <DropdownMenuItem
+                  className="gap-2 text-red-500 focus:text-red-500"
+                  onClick={async () => {
+                    await fetch('/api/logout', { method: 'POST' });
+                    window.location.href = '/login';
+                  }}
+                >
+                  <LogOut className="h-4 w-4" />
+                  Sign Out
                 </DropdownMenuItem>
               </DropdownMenuContent>
             </DropdownMenu>

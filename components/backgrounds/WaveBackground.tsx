@@ -6,6 +6,19 @@ import { shaderMaterial } from '@react-three/drei';
 import * as THREE from 'three';
 
 // =============================================================================
+// Global time origin - persists across page navigations so the animation
+// doesn't "jump" when the component remounts on a different route.
+// Using performance.now() gives a high-resolution monotonic clock.
+// =============================================================================
+
+const GLOBAL_TIME_ORIGIN = typeof performance !== 'undefined' ? performance.now() : Date.now();
+
+function getGlobalElapsedTime(): number {
+  const now = typeof performance !== 'undefined' ? performance.now() : Date.now();
+  return (now - GLOBAL_TIME_ORIGIN) / 1000; // Convert ms to seconds
+}
+
+// =============================================================================
 // Types
 // =============================================================================
 
@@ -13,12 +26,18 @@ export interface WaveBackgroundProps {
   className?: string;
   dotColor?: string;
   intensity?: number;
+  cameraPosition?: [number, number, number];
+  fov?: number;
+  pointSize?: number;
+  opacity?: number;
 }
 
 interface DotTerrainProps {
   gridSize: number;
   dotColor: string;
   intensity: number;
+  pointSize: number;
+  opacity: number;
 }
 
 // =============================================================================
@@ -197,7 +216,7 @@ type WaveDotMaterialImpl = THREE.ShaderMaterial & WaveDotMaterialUniforms;
 // DotTerrain Component
 // =============================================================================
 
-function DotTerrain({ gridSize, dotColor, intensity }: DotTerrainProps) {
+function DotTerrain({ gridSize, dotColor, intensity, pointSize, opacity }: DotTerrainProps) {
   const materialRef = useRef<WaveDotMaterialImpl>(null);
   const { camera } = useThree();
   const mousePosition = useRef(new THREE.Vector2(0, 0));
@@ -288,11 +307,11 @@ function DotTerrain({ gridSize, dotColor, intensity }: DotTerrainProps) {
   }, [handleMouseMove, handleMouseLeave, handleTouchMove, handleTouchEnd]);
 
   // Animation loop - optimized uniform updates
-  useFrame((state) => {
+  useFrame(() => {
     const material = materialRef.current;
     if (material) {
-      // Update time
-      material.uTime = state.clock.elapsedTime;
+      // Use global elapsed time so the animation is continuous across page navigations
+      material.uTime = getGlobalElapsedTime();
 
       // Smooth mouse position lerp - faster tracking for better responsiveness
       mousePosition.current.lerp(targetMousePosition.current, 0.15);
@@ -320,11 +339,12 @@ function DotTerrain({ gridSize, dotColor, intensity }: DotTerrainProps) {
         ref={materialRef}
         uColor={color}
         uIntensity={intensity}
-        uPointSize={4.0}
+        uPointSize={pointSize}
         uMaxDepth={maxDepth}
         transparent
         depthWrite={false}
         blending={THREE.AdditiveBlending}
+        opacity={opacity}
       />
     </points>
   );
@@ -338,11 +358,13 @@ interface SceneProps {
   gridSize: number;
   dotColor: string;
   intensity: number;
+  pointSize: number;
+  opacity: number;
 }
 
-function Scene({ gridSize, dotColor, intensity }: SceneProps) {
+function Scene({ gridSize, dotColor, intensity, pointSize, opacity }: SceneProps) {
   return (
-    <DotTerrain gridSize={gridSize} dotColor={dotColor} intensity={intensity} />
+    <DotTerrain gridSize={gridSize} dotColor={dotColor} intensity={intensity} pointSize={pointSize} opacity={opacity} />
   );
 }
 
@@ -377,6 +399,10 @@ export default function WaveBackground({
   className = '',
   dotColor = '#6366f1',
   intensity = 1.0,
+  cameraPosition = [18, 15, 18],
+  fov = 60,
+  pointSize = 4.0,
+  opacity = 1.0,
 }: WaveBackgroundProps) {
   // Initialize state with actual device values immediately to avoid blurriness
   const [isMobile] = useState(() => getIsMobile());
@@ -398,8 +424,8 @@ export default function WaveBackground({
       <Canvas
         dpr={dpr}
         camera={{
-          position: [18, 15, 18],
-          fov: 60,
+          position: cameraPosition,
+          fov,
           near: 0.1,
           far: 200,
         }}
@@ -414,6 +440,8 @@ export default function WaveBackground({
           gridSize={gridSize}
           dotColor={dotColor}
           intensity={intensity}
+          pointSize={pointSize}
+          opacity={opacity}
         />
       </Canvas>
     </div>

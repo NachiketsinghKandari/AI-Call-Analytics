@@ -3,7 +3,7 @@
 import { useEffect, Suspense, useState, useRef, useCallback } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
-import { ArrowLeft, ChevronsUpDown, BarChart3, GitCompareArrows, Filter, X, CheckCircle2, Users, Target, ArrowRightLeft, Clock, Layers, Loader2 } from 'lucide-react';
+import { ArrowLeft, ChevronsUpDown, BarChart3, GitCompareArrows, Filter, X, CheckCircle2, Users, Target, ArrowRightLeft, Clock, Layers, Loader2, LogOut } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { HelloCounselLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
@@ -205,6 +205,17 @@ function CompareDashboardLayoutContent({
             </Button>
           </Link>
           <ThemeToggle />
+          <Button
+            variant="ghost"
+            size="icon"
+            className="h-9 w-9 text-red-500 hover:text-red-600"
+            onClick={async () => {
+              await fetch('/api/logout', { method: 'POST' });
+              window.location.href = '/login';
+            }}
+          >
+            <LogOut className="h-4 w-4" />
+          </Button>
         </div>
       </header>
 
