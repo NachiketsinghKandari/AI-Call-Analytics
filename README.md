@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HelloCounsel Analytics Dashboard
+
+A client-side analytics dashboard for legal call center data. Transforms JSON call metadata and TXT transcripts into interactive Sankey diagrams, heatmaps, and filterable call records.
+
+## Tech Stack
+
+- **Framework**: Next.js 16 (App Router), React 19, TypeScript 5
+- **State**: Zustand with localStorage persistence
+- **UI**: Tailwind CSS 4 + shadcn/ui (Radix primitives)
+- **Charts**: Plotly.js + D3 Sankey
+- **3D**: Three.js (wave dot animation background)
+- **Auth**: JWT via jose (HTTP-only cookies)
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
+cp .env.example .env.local   # optional - configure JWT_SECRET
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to see the dashboard.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Authentication
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The dashboard is gated behind login. Two credential pairs are available:
 
-## Learn More
+| Username | Password |
+|---|---|
+| `admin` | `admin123` |
+| `admin@hellocounsel` | `xqUXCMUhuFPUgxyP` |
 
-To learn more about Next.js, take a look at the following resources:
+The home page (`/`) is public. All `/analyze/*`, `/compare/*`, and `/api/*` routes require authentication.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Scripts
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm run dev              # Start development server
+npm run build            # Build for production (generates sample data via prebuild hook)
+npm run lint             # Run ESLint
+npm run generate-sample  # Generate sample data from data/ folder
+```
 
-## Deploy on Vercel
+## Architecture
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Key Directories
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- `app/analyze/` - Analysis pages: data selection, flow (Sankey), heatmap, deep-dive, definitions
+- `app/compare/` - Firm comparison: firm selection, side-by-side dashboard
+- `app/login/` - Login page
+- `lib/` - Core logic: parser, filters, sankey, heatmap, definitions, auth
+- `store/` - Zustand stores for call data and comparison state
+- `components/charts/` - PlotlySankey, PlotlyHeatmap, Heatmap3D
+- `components/backgrounds/` - Three.js wave dot animation
+- `middleware.ts` - Route protection (JWT verification)
+
+### Data Flow
+
+1. User logs in and selects a pre-loaded firm dataset or uploads their own
+2. `parser.ts` extracts FileInfo from JSON/TXT files
+3. Data stored in Zustand triggers stats computation
+4. 7-axis filters applied via `applyAllFilters()` flow to all visualization pages
+5. Sankey diagrams and heatmaps consume filtered data
+
+### Modes
+
+- **Analyze** - Deep dive into a single firm's call data with Sankey flows, heatmaps, and transcript browser
+- **Compare** - Side-by-side comparison of multiple firms with synchronized filters and metrics
+
+## Deployment
+
+Optimized for Vercel. Sample data is pre-generated during build via the `prebuild` hook. Set `JWT_SECRET` in your environment for production.
