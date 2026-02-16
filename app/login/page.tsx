@@ -35,7 +35,7 @@ function LoginForm() {
           </div>
           <CardTitle className="text-2xl">Sign In</CardTitle>
           <CardDescription>
-            Enter your credentials to access the dashboard
+            Sign in to access the dashboard
           </CardDescription>
         </CardHeader>
         <CardContent className="pt-2">
@@ -49,11 +49,12 @@ function LoginForm() {
             )}
 
             <div className="space-y-2">
-              <Label htmlFor="username">Username</Label>
+              <Label htmlFor="username">Email</Label>
               <Input
                 id="username"
                 name="username"
                 type="text"
+                placeholder="you@example.com"
                 autoComplete="username"
                 required
                 disabled={isPending}
@@ -67,6 +68,7 @@ function LoginForm() {
                   id="password"
                   name="password"
                   type={showPassword ? 'text' : 'password'}
+                  placeholder="Enter your password"
                   autoComplete="current-password"
                   required
                   disabled={isPending}
@@ -92,9 +94,13 @@ function LoginForm() {
                   Signing in...
                 </>
               ) : (
-                'Sign In'
+                'Sign in'
               )}
             </Button>
+
+            <p className="text-center text-xs text-muted-foreground">
+              Only authorized team members can access this dashboard.
+            </p>
           </form>
         </CardContent>
       </Card>
