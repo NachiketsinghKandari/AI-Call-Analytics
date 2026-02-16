@@ -29,3 +29,12 @@ export async function verifyToken(token: string): Promise<boolean> {
     return false;
   }
 }
+
+export async function getUsernameFromToken(token: string): Promise<string | null> {
+  try {
+    const { payload } = await jwtVerify(token, JWT_SECRET);
+    return (payload.username as string) ?? null;
+  } catch {
+    return null;
+  }
+}

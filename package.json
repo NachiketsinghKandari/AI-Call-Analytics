@@ -10,7 +10,8 @@
     "generate-sample": "npx tsx scripts/generate-sample-data.ts",
     "generate-vapi": "npx tsx scripts/generate-vapi-data.ts",
     "generate-mccraw": "npx tsx scripts/generate-mccraw-data.ts",
-    "prebuild": "npm run generate-sample && npm run generate-vapi && npm run generate-mccraw"
+    "prebuild": "npm run generate-sample && npm run generate-vapi && npm run generate-mccraw",
+    "setup-sheets": "npx tsx scripts/setup-google-sheets.ts"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.3.3",
@@ -35,6 +36,7 @@
     "clsx": "^2.1.1",
     "d3": "^7.9.0",
     "d3-sankey": "^0.12.3",
+    "googleapis": "^171.4.0",
     "html2canvas": "^1.4.1",
     "jose": "^6.1.3",
     "jspdf": "^4.0.0",
