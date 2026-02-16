@@ -48,7 +48,7 @@ export async function logVisit(username: string): Promise<void> {
     range: 'Sheet1!A:B',
     valueInputOption: 'USER_ENTERED',
     requestBody: {
-      values: [[username, new Date().toISOString()]],
+      values: [[username, new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })]],
     },
   });
 }
