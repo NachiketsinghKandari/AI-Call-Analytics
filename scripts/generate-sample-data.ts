@@ -218,7 +218,7 @@ function generate() {
   const DATA_DIR = path.join(process.cwd(), 'data');
   const AUDIO_DIR = path.join(process.cwd(), 'Bey & Associates - Calls');
   const OUTPUT_PATH = path.join(process.cwd(), 'public', 'sample-data.json');
-  const S3_BASE_URL = 'https://firm-calls.s3.us-east-1.amazonaws.com';
+  const R2_BASE_URL = 'https://pub-f2d6ff6bf85041d8b86c7b26b9931dca.r2.dev';
 
   // Skip generation if sample data already exists (for CI/Vercel builds)
   if (fs.existsSync(OUTPUT_PATH)) {
@@ -296,10 +296,10 @@ function generate() {
         ? extractTransferDestination(callData.transfer_context.destinations)
         : null;
 
-      // Find matching MP3 file - use public S3 URL
+      // Find matching MP3 file - use Cloudflare R2 URL
       const matchedMp3Name = matchMp3File(jsonName, mp3FileNames);
       const audioUrl = matchedMp3Name
-        ? `${S3_BASE_URL}/${encodeURIComponent('Bey & Associates - Calls')}/${encodeURIComponent(matchedMp3Name)}`
+        ? `${R2_BASE_URL}/bey/${matchedMp3Name}`
         : null;
 
       fileInfos.push({
