@@ -42,13 +42,13 @@ const FIRM_BG_COLORS: Record<string, string> = {
 };
 
 const FIRM_DESCRIPTIONS: Record<string, { description: string; count: string }> = {
-  sample: { description: 'Sample call data from Bey & Associates law firm with full transcripts.', count: '1,000+ calls' },
-  mccraw: { description: 'Call data from McCraw Law with Gemini-generated transcripts and analysis.', count: '486 calls' },
+  sample: { description: 'Sample call data from Firm 1 with full transcripts.', count: '1,000+ calls' },
+  mccraw: { description: 'Call data from Firm 2 with Gemini-generated transcripts and analysis.', count: '486 calls' },
   vapi: { description: 'VAPI call records with AI-generated analysis and full transcripts.', count: '730 calls' },
 };
 
 // Format folder name to be more readable
-// "McCrawLaw-analysis" -> "McCraw Law Analysis"
+// "McCrawLaw-analysis" -> "Mc Craw Law Analysis"
 function formatFolderName(name: string): string {
   return name
     // Replace hyphens and underscores with spaces

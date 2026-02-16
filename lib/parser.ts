@@ -281,18 +281,18 @@ export async function loadVapiData(): Promise<FileInfo[]> {
 }
 
 /**
- * Load McCraw Law data from bundled JSON files
+ * Load Firm 2 data from bundled JSON files
  */
 export async function loadMccrawData(): Promise<FileInfo[]> {
   try {
     const response = await fetch('/api/mccraw-data');
     if (!response.ok) {
-      throw new Error('Failed to load McCraw Law data');
+      throw new Error('Failed to load Firm 2 data');
     }
     const data = await response.json();
     return data.files as FileInfo[];
   } catch (error) {
-    console.error('Error loading McCraw Law data:', error);
+    console.error('Error loading Firm 2 data:', error);
     throw error;
   }
 }

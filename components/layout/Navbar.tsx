@@ -33,8 +33,8 @@ const navItems = [
 ];
 
 const dataSources = [
-  { id: 'sample', label: 'Bey & Associates', icon: Building2, color: 'text-blue-500', endpoint: '/api/sample-data' },
-  { id: 'mccraw', label: 'McCraw Law', icon: Scale, color: 'text-amber-500', endpoint: '/api/mccraw-data' },
+  { id: 'sample', label: 'Firm 1', icon: Building2, color: 'text-blue-500', endpoint: '/api/sample-data' },
+  { id: 'mccraw', label: 'Firm 2', icon: Scale, color: 'text-amber-500', endpoint: '/api/mccraw-data' },
   { id: 'vapi', label: 'VAPI', icon: Phone, color: 'text-green-500', endpoint: '/api/vapi-data' },
 ] as const;
 

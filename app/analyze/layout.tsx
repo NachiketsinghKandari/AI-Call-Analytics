@@ -16,8 +16,8 @@ const DATA_SOURCE_ENDPOINTS: Record<UrlDataSource, string> = {
 };
 
 const DATA_SOURCE_NAMES: Record<UrlDataSource, string> = {
-  sample: 'Bey & Associates',
-  mccraw: 'McCraw Law',
+  sample: 'Firm 1',
+  mccraw: 'Firm 2',
   vapi: 'VAPI',
 };
 

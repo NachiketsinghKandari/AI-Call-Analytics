@@ -31,18 +31,18 @@ export async function GET() {
     }
 
     // Fallback: return empty data
-    console.warn('McCraw Law data not found in any expected location');
+    console.warn('Firm 2 data not found in any expected location');
     return NextResponse.json({
       files: [],
       stats: null,
-      error: 'McCraw Law data not found',
+      error: 'Firm 2 data not found',
     }, { status: 404 });
   } catch (err) {
-    console.error('Error loading McCraw Law data:', err);
+    console.error('Error loading Firm 2 data:', err);
     return NextResponse.json({
       files: [],
       stats: null,
-      error: 'Failed to load McCraw Law data',
+      error: 'Failed to load Firm 2 data',
     }, { status: 500 });
   }
 }

@@ -84,15 +84,15 @@ export default function AnalyzePage() {
 
         {/* Data Source Options */}
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
-          {/* Bey & Associates */}
+          {/* Firm 1 */}
           <Card className="relative overflow-hidden p-4 flex flex-col hover:shadow-md transition-shadow">
             <CardHeader className="pb-2">
               <div className="flex items-center gap-2">
                 <Building2 className="h-5 w-5 text-blue-500" />
-                <CardTitle className="text-base">Bey & Associates</CardTitle>
+                <CardTitle className="text-base">Firm 1</CardTitle>
               </div>
               <CardDescription className="text-xs">
-                Sample call data from Bey & Associates law firm with full transcripts.
+                Sample call data from Firm 1 with full transcripts.
               </CardDescription>
             </CardHeader>
             <CardContent className="pt-4 flex flex-col items-center justify-center flex-1">
@@ -120,15 +120,15 @@ export default function AnalyzePage() {
             </CardContent>
           </Card>
 
-          {/* McCraw Law */}
+          {/* Firm 2 */}
           <Card className="relative overflow-hidden p-4 flex flex-col hover:shadow-md transition-shadow">
             <CardHeader className="pb-2">
               <div className="flex items-center gap-2">
                 <Scale className="h-5 w-5 text-amber-500" />
-                <CardTitle className="text-base">McCraw Law</CardTitle>
+                <CardTitle className="text-base">Firm 2</CardTitle>
               </div>
               <CardDescription className="text-xs">
-                Call data from McCraw Law with Gemini-generated transcripts and analysis.
+                Call data from Firm 2 with Gemini-generated transcripts and analysis.
               </CardDescription>
             </CardHeader>
             <CardContent className="pt-4 flex flex-col items-center justify-center flex-1">

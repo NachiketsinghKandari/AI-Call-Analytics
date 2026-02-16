@@ -11,7 +11,7 @@ import { decompressState } from './encoding';
 /**
  * Extract semantic call ID from a file
  *
- * For non-VAPI files (McCraw, Bey & Associates):
+ * For non-VAPI files (Firm 2, Firm 1):
  *   Filename: 20251212-121028_3_+18447096877_Incoming_Auto_3375065997005_gemini.json
  *   Call ID: 20251212-121028_3_+18447096877_Incoming_Auto_3375065997005
  *

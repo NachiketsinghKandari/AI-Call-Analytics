@@ -13,8 +13,8 @@ export interface FirmConfig {
 }
 
 export const FIRM_CONFIGS: FirmConfig[] = [
-  { id: 'sample', name: 'Bey & Associates', endpoint: '/api/sample-data', color: '#3b82f6' },
-  { id: 'mccraw', name: 'McCraw Law', endpoint: '/api/mccraw-data', color: '#f59e0b' },
+  { id: 'sample', name: 'Firm 1', endpoint: '/api/sample-data', color: '#3b82f6' },
+  { id: 'mccraw', name: 'Firm 2', endpoint: '/api/mccraw-data', color: '#f59e0b' },
   { id: 'vapi', name: 'VAPI', endpoint: '/api/vapi-data', color: '#22c55e' },
 ];
 
