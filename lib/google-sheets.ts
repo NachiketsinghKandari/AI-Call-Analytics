@@ -11,10 +11,36 @@ oauth2Client.setCredentials({
 
 const sheets = google.sheets({ version: 'v4', auth: oauth2Client });
 
+async function ensureHeaders(spreadsheetId: string): Promise<void> {
+  const res = await sheets.spreadsheets.values.get({
+    spreadsheetId,
+    range: 'Sheet1!A1:B1',
+  });
+
+  const firstRow = res.data.values?.[0];
+  if (!firstRow || firstRow[0] !== 'Username') {
+    await sheets.spreadsheets.values.update({
+      spreadsheetId,
+      range: 'Sheet1!A1:B1',
+      valueInputOption: 'USER_ENTERED',
+      requestBody: {
+        values: [['Username', 'Timestamp']],
+      },
+    });
+  }
+}
+
+let headersEnsured = false;
+
 export async function logVisit(username: string): Promise<void> {
   const spreadsheetId = process.env.GOOGLE_SPREADSHEET_ID;
   if (!spreadsheetId) {
     throw new Error('GOOGLE_SPREADSHEET_ID is not configured');
+  }
+
+  if (!headersEnsured) {
+    await ensureHeaders(spreadsheetId);
+    headersEnsured = true;
   }
 
   await sheets.spreadsheets.values.append({
