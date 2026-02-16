@@ -399,7 +399,7 @@ export default function WaveBackground({
   className = '',
   dotColor = '#6366f1',
   intensity = 1.0,
-  cameraPosition = [18, 15, 18],
+  cameraPosition = [12, 15, 18],
   fov = 60,
   pointSize = 4.0,
   opacity = 1.0,

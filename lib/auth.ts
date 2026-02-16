@@ -8,7 +8,8 @@ const JWT_SECRET = new TextEncoder().encode(
 export function validateCredentials(username: string, password: string): boolean {
   return (
     (username === 'admin' && password === 'admin123') ||
-    (username === 'admin@aicallanalytics' && password === 'xqUXCMUhuFPUgxyP')
+    (username === 'admin@aicallanalytics' && password === 'xqUXCMUhuFPUgxyP') ||
+    (username === 'admin@receptionist.ai' && password === 'admin@receptionist.ai123')
   );
 }
 
