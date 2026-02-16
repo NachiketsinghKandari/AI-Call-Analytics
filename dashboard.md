@@ -1,4 +1,4 @@
-# HelloCounsel Analytics Dashboard
+# AI Call Analytics Dashboard
 
 A Next.js-based visual analytics application for analyzing call resolution data from legal receptionist call handling systems. Transforms raw call metadata (JSON) and transcripts (TXT) into interactive visualizations and deep-dive analytics.
 
@@ -40,7 +40,7 @@ A Next.js-based visual analytics application for analyzing call resolution data 
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd HelloCounsel-Analytics-Dashboard
+cd AI-Call-Analytics
 
 # Install dependencies
 npm install
@@ -67,7 +67,7 @@ npm run dev
 ## Project Structure
 
 ```
-HelloCounsel-Analytics-Dashboard/
+AI-Call-Analytics/
 ├── app/                          # Next.js App Router
 │   ├── page.tsx                 # Home (data upload/sample selection)
 │   ├── layout.tsx               # Root layout with theme provider

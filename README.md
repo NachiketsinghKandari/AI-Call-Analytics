@@ -1,4 +1,4 @@
-# HelloCounsel Analytics Dashboard
+# AI Call Analytics Dashboard
 
 A client-side analytics dashboard for legal call center data. Transforms JSON call metadata and TXT transcripts into interactive Sankey diagrams, heatmaps, and filterable call records.
 
@@ -28,7 +28,7 @@ The dashboard is gated behind login. Two credential pairs are available:
 | Username | Password |
 |---|---|
 | `admin` | `admin123` |
-| `admin@hellocounsel` | `xqUXCMUhuFPUgxyP` |
+| `admin@aicallanalytics` | `xqUXCMUhuFPUgxyP` |
 
 The home page (`/`) is public. All `/analyze/*`, `/compare/*`, and `/api/*` routes require authentication.
 

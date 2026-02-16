@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { GitBranch, Grid3X3, FileSearch, LogOut, Menu, BookOpen, Building2, Scale, Phone, Upload, ChevronDown, Loader2, MoreVertical, Moon, Sun, ChevronsUpDown, BarChart3, GitCompareArrows } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { HelloCounselLogo } from '@/components/logo';
+import { AppLogo } from '@/components/logo';
 import { useCallDataStore } from '@/store/callDataStore';
 import { cn } from '@/lib/utils';
 import { useTheme } from 'next-themes';
@@ -92,7 +92,7 @@ export function Navbar() {
         {/* Logo + Mode Switcher - width matches sidebar on lg screens */}
         <div className="flex items-center gap-2 shrink-0 lg:w-[calc(18rem-1rem)]">
           <Link href="/" className="flex items-center shrink-0">
-            <HelloCounselLogo className="h-6" />
+            <AppLogo className="text-base" />
           </Link>
 
           {/* Mode Switcher */}
@@ -160,7 +160,7 @@ export function Navbar() {
               <SheetContent side="left" className="w-64">
                 <SheetTitle className="sr-only">Navigation Menu</SheetTitle>
                 <div className="flex items-center gap-2 mb-6">
-                  <HelloCounselLogo className="h-6" />
+                  <AppLogo className="text-base" />
                   <span className="text-sm font-medium">Analytics</span>
                 </div>
                 <nav className="flex flex-col gap-1">

@@ -4,7 +4,7 @@ import { jwtVerify } from 'jose';
 
 const COOKIE_NAME = 'auth-token';
 const JWT_SECRET = new TextEncoder().encode(
-  process.env.JWT_SECRET || 'hellocounsel-dashboard-secret-key-2024'
+  process.env.JWT_SECRET || 'ai-call-analytics-secret-key-2024'
 );
 
 async function isAuthenticated(request: NextRequest): Promise<boolean> {
@@ -28,8 +28,8 @@ export async function middleware(request: NextRequest) {
     return NextResponse.redirect(new URL('/', request.url));
   }
 
-  // Protected page routes
-  if (pathname.startsWith('/analyze') || pathname.startsWith('/compare')) {
+  // Protected page routes (including home page)
+  if (pathname === '/' || pathname.startsWith('/analyze') || pathname.startsWith('/compare')) {
     if (!authenticated) {
       const loginUrl = new URL('/login', request.url);
       loginUrl.searchParams.set('callbackUrl', pathname);
@@ -52,6 +52,7 @@ export async function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
+    '/',
     '/analyze/:path*',
     '/compare/:path*',
     '/api/:path*',

@@ -2,13 +2,13 @@ import { SignJWT, jwtVerify } from 'jose';
 
 export const COOKIE_NAME = 'auth-token';
 const JWT_SECRET = new TextEncoder().encode(
-  process.env.JWT_SECRET || 'hellocounsel-dashboard-secret-key-2024'
+  process.env.JWT_SECRET || 'ai-call-analytics-secret-key-2024'
 );
 
 export function validateCredentials(username: string, password: string): boolean {
   return (
     (username === 'admin' && password === 'admin123') ||
-    (username === 'admin@hellocounsel' && password === 'xqUXCMUhuFPUgxyP')
+    (username === 'admin@aicallanalytics' && password === 'xqUXCMUhuFPUgxyP')
   );
 }
 

@@ -5,7 +5,7 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, ChevronsUpDown, BarChart3, GitCompareArrows, Filter, X, CheckCircle2, Users, Target, ArrowRightLeft, Clock, Layers, Loader2, LogOut } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { HelloCounselLogo } from '@/components/logo';
+import { AppLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
 import { useCompareStore, FIRM_CONFIGS } from '@/store/compareStore';
 import { CompareFilterSidebar } from '@/components/filters/CompareFilterSidebar';
@@ -162,7 +162,7 @@ function CompareDashboardLayoutContent({
           {/* Logo + Mode Switcher - width matches sidebar on lg screens */}
           <div className="flex items-center gap-2 shrink-0 lg:w-[calc(18rem-1rem)]">
             <Link href="/" className="flex items-center shrink-0">
-              <HelloCounselLogo className="h-6" />
+              <AppLogo className="text-base" />
             </Link>
 
             {/* Mode Switcher */}

@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { FolderUploader } from '@/components/data/FolderUploader';
 import { useCallDataStore } from '@/store/callDataStore';
-import { HelloCounselLogo } from '@/components/logo';
+import { AppLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
 
 type DataSourceLoading = 'none' | 'sample' | 'mccraw' | 'vapi';
@@ -72,7 +72,7 @@ export default function AnalyzePage() {
         {/* Hero Section */}
         <div className="text-center mb-12">
           <div className="flex justify-center mb-4">
-            <HelloCounselLogo className="h-10" />
+            <AppLogo className="text-2xl" />
           </div>
           <h1 className="text-3xl font-bold tracking-tight mb-3">
             Select Data Source

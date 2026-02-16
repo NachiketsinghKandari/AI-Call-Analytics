@@ -8,7 +8,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Button } from '@/components/ui/button';
-import { HelloCounselLogo } from '@/components/logo';
+import { AppLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
 import { loginAction, type LoginState } from '@/lib/actions/auth';
 
@@ -31,7 +31,7 @@ function LoginForm() {
       <Card className="w-full max-w-sm mx-4 shadow-lg border-border/60">
         <CardHeader className="text-center pb-2">
           <div className="flex justify-center mb-3">
-            <HelloCounselLogo className="h-8" />
+            <AppLogo className="text-xl" />
           </div>
           <CardTitle className="text-2xl">Sign In</CardTitle>
           <CardDescription>

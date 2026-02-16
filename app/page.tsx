@@ -5,7 +5,7 @@ import dynamic from 'next/dynamic';
 import { BarChart3, GitCompareArrows, ArrowRight, FileSearch, Grid3X3, GitBranch } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { HelloCounselLogo } from '@/components/logo';
+import { AppLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
 
 // Dynamic import to avoid SSR issues with Three.js
@@ -29,7 +29,7 @@ export default function HomePage() {
         {/* Hero Section */}
         <div className="text-center mb-16">
           <div className="flex justify-center mb-4">
-            <HelloCounselLogo className="h-12" />
+            <AppLogo className="text-3xl" />
           </div>
           <h1 className="text-4xl font-bold tracking-tight mb-4">
             Call Analytics Dashboard

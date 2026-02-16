@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { Building2, Scale, Phone, Upload, ArrowRight, ArrowLeft, Loader2, CheckCircle2, X, FolderOpen, type LucideIcon } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { HelloCounselLogo } from '@/components/logo';
+import { AppLogo } from '@/components/logo';
 import { ThemeToggle } from '@/components/theme-toggle';
 import { useCompareStore, FIRM_CONFIGS } from '@/store/compareStore';
 import { cn } from '@/lib/utils';
@@ -221,7 +221,7 @@ export default function ComparePage() {
         {/* Hero Section */}
         <div className="text-center mb-12">
           <div className="flex justify-center mb-4">
-            <HelloCounselLogo className="h-10" />
+            <AppLogo className="text-2xl" />
           </div>
           <h1 className="text-3xl font-bold tracking-tight mb-3">
             Select Firms to Compare

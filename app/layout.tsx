@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HelloCounsel Call Analysis",
+  title: "AI Call Analytics",
   description: "Visual analytics and deep-dive tools for call resolution data",
 };
 
