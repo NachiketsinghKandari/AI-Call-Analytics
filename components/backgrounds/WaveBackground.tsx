@@ -399,9 +399,9 @@ export default function WaveBackground({
   className = '',
   dotColor = '#6366f1',
   intensity = 1.0,
-  cameraPosition = [20, 25, 30],
+  cameraPosition = [12, 15, 18],
   fov = 60,
-  pointSize = 2.0,
+  pointSize = 4.0,
   opacity = 1.0,
 }: WaveBackgroundProps) {
   // Initialize state with actual device values immediately to avoid blurriness
