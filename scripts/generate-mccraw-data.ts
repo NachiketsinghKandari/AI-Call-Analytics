@@ -313,12 +313,13 @@ function generate() {
         ? extractTransferDestination(callData.transfer_context.destinations)
         : null;
 
-      // Find matching MP3 file - use Cloudflare R2 URL
-      const R2_BASE_URL = 'https://pub-f2d6ff6bf85041d8b86c7b26b9931dca.r2.dev';
+      // Find matching MP3 file - use public S3 URL
+      const S3_BASE_URL = 'https://firm-calls.s3.us-east-1.amazonaws.com';
       const mp3FileNames = new Set(mp3Files.keys());
       const matchedMp3Name = matchMp3File(jsonName, mp3FileNames);
-      const audioUrl = matchedMp3Name
-        ? `${R2_BASE_URL}/mccraw/${matchedMp3Name}`
+      const relativePath = matchedMp3Name ? mp3Files.get(matchedMp3Name) : null;
+      const audioUrl = relativePath
+        ? `${S3_BASE_URL}/McCrawLaw-Calls/${relativePath.split('/').map(encodeURIComponent).join('/')}`
         : null;
 
       fileInfos.push({
